@@ -1,10 +1,9 @@
 name: News Monitor
 
 on:
-    schedule:
-    - cron: '12,42 * * * *'  # 매시 12분, 42분 (고속도로처럼 뻥 뚫림)
-
-  workflow_dispatch:      # 수동 실행 버튼 추가
+  schedule:
+    - cron: '12,42 * * * *'  # 매시 12분, 42분에 실행 (밀리지 않는 시간!)
+  workflow_dispatch:      # 수동 실행 버튼
 
 jobs:
   run-bot:
@@ -16,11 +15,11 @@ jobs:
       - name: 파이썬 설치
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: 라이브러리 설치
         run: |
-          pip install -r requirements.txt
+          pip install requests beautifulsoup4 google-generativeai
 
       - name: 봇 실행
         env:
