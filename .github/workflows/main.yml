@@ -1,8 +1,9 @@
 name: News Monitor
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'  # 매 30분마다 실행
+    schedule:
+    - cron: '12,42 * * * *'  # 매시 12분, 42분 (고속도로처럼 뻥 뚫림)
+
   workflow_dispatch:      # 수동 실행 버튼 추가
 
 jobs:
