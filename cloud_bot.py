@@ -6,72 +6,66 @@ import os
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 import google.generativeai as genai
-from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 # ==========================================
-# [설정 영역] 깃허브 'Secrets'에서 가져오게 설정됨
+# [설정 영역] 환경변수 확인 (디버깅용)
 # ==========================================
-# (주의: 이 코드는 내 컴퓨터에서 그냥 실행하면 에러 납니다. 깃허브에 올려야 작동합니다.)
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
+# 키가 제대로 들어왔는지 확인 (보안상 앞 2글자만 출력)
+print(f"🔑 네이버 ID 확인: {NAVER_CLIENT_ID[:2]}***" if NAVER_CLIENT_ID else "❌ 네이버 ID 없음!")
+print(f"🔑 구글 키 확인: {GOOGLE_API_KEY[:2]}***" if GOOGLE_API_KEY else "❌ 구글 키 없음!")
+
 KEYWORDS = ["대구", "국세청"]
 
-# Gemini 설정
-genai.configure(api_key=GOOGLE_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+if GOOGLE_API_KEY:
+    genai.configure(api_key=GOOGLE_API_KEY)
+    model = genai.GenerativeModel('gemini-1.5-flash')
 
-# 디스코드 알림
 def send_discord(title, summary, reason, link, category):
     try:
-        color = 0xFF0000 if "화재" in category or "사망" in category else 0xFFA500
         data = {
             "username": "뉴스 감시 봇",
-            "embeds": [{
-                "title": f"🚨 [{category}] 주요 이슈 감지",
-                "description": f"**{title}**",
-                "color": color,
-                "fields": [
-                    {"name": "📝 요약", "value": summary, "inline": False},
-                    {"name": "🔗 링크", "value": f"[기사 보러가기]({link})", "inline": False}
-                ],
-                "footer": {"text": "Github Action Bot"}
-            }]
+            "content": f"🚨 **{title}**\n{summary}\n[링크]({link})"
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
-    except:
-        pass
+    except Exception as e:
+        print(f"❌ 디스코드 전송 실패: {e}")
 
-# 날짜 파싱 및 시간 비교 (핵심 로직 변경)
 def is_recent_news(pubDate_str):
     try:
-        # 네이버 뉴스 날짜 형식: "Mon, 09 Feb 2025 14:00:00 +0900"
         news_date = parsedate_to_datetime(pubDate_str)
-        
-        # 현재 시간
         now = datetime.now(news_date.tzinfo)
-        
-        # [설정] 최근 70분 이내의 기사만 통과 (1시간마다 실행할 것이므로 여유 있게 70분)
         diff = now - news_date
-        return diff <= timedelta(minutes=70)
-    except:
+        # 디버깅: 기사 시간과 현재 시간 차이 출력
+        # print(f"   [시간차] {diff} (기사: {news_date})")
+        return diff <= timedelta(minutes=180) # 테스트를 위해 3시간(180분)으로 늘림
+    except Exception as e:
+        print(f"⚠️ 날짜 계산 오류: {e}")
         return False
 
-# 네이버 검색
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    # 반드시 최신순(date)으로 정렬해야 함
-    params = {"query": keyword, "display": 10, "sort": "date"}
+    params = {"query": keyword, "display": 5, "sort": "date"}
+    
     try:
         response = requests.get(url, headers=headers, params=params)
-        return response.json().get('items', []) if response.status_code == 200 else []
-    except:
+        if response.status_code == 200:
+            items = response.json().get('items', [])
+            print(f"✅ '{keyword}' 검색 성공! (발견된 기사: {len(items)}개)")
+            return items
+        else:
+            print(f"❌ 네이버 API 호출 실패! 상태코드: {response.status_code}")
+            print(f"   에러 내용: {response.text}")
+            return []
+    except Exception as e:
+        print(f"❌ 네이버 연결 중 치명적 오류: {e}")
         return []
 
-# 본문 스크래핑
 def scrape_article(url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
@@ -82,50 +76,67 @@ def scrape_article(url):
     except:
         return None
 
-# AI 분석
 def analyze_with_ai(title, content):
+    if not GOOGLE_API_KEY: return None
+    
     prompt = f"""
     기사 제목: {title}
-    기사 본문: {content[:800]}
-
-    [판단 기준]
-    1. is_risk: '화재, 횡령, 배임, 사망, 자살, 비리, 세무조사, 구속' 등 심각한 이슈인가? (단순 행사/홍보 X)
-    2. category: 사건 종류 (예: 화재, 비리, 사고)
-    3. summary: 1줄 요약
-
-    JSON 형식으로 답해:
-    {{ "is_risk": true/false, "category": "", "summary": "" }}
+    기사 본문: {content[:500]}
+    
+    이 기사가 '화재, 횡령, 사망, 사고, 비리, 조사' 등 리스크인가?
+    JSON으로 답해: {{ "is_risk": true/false, "summary": "한줄요약" }}
     """
     try:
         response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
         return json.loads(response.text)
-    except:
+    except Exception as e:
+        print(f"❌ AI 분석 실패: {e}")
         return None
 
-# 메인 실행
 def main():
-    print("☁️ 클라우드 뉴스 감시 시작...")
+    print("☁️ 클라우드 뉴스 감시 시작 (디버깅 모드)...")
     
+    if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
+        print("⛔ [치명적 오류] 네이버 API 키가 설정되지 않았습니다. Secrets를 확인하세요.")
+        return
+
     for keyword in KEYWORDS:
+        print(f"\n🔍 키워드 검색 중: {keyword}")
         articles = search_naver_news(keyword)
+        
+        if not articles:
+            print(f"   -> '{keyword}' 관련 최신 기사가 하나도 없습니다.")
+            continue
+
         for art in articles:
-            # 1. 시간 체크: 최근 1시간 내 기사인가?
-            if not is_recent_news(art['pubDate']):
-                continue # 너무 옛날 기사면 패스
-
-            link = art['originallink'] or art['link']
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
+            link = art['originallink'] or art['link']
             
-            if "news.naver.com" not in link: continue
+            # 1. 시간 체크
+            if not is_recent_news(art['pubDate']):
+                print(f"   ⏭️ [패스] 너무 오래된 기사입니다: {title}")
+                continue 
 
-            print(f"분석 중: {title}")
+            # 2. 네이버 뉴스 링크 체크
+            if "news.naver.com" not in link: 
+                print(f"   ⏭️ [패스] 네이버 뉴스 링크가 아님: {title}")
+                continue
+
+            print(f"   🚀 [분석 시작] {title}")
             content = scrape_article(link)
             
             if content:
                 result = analyze_with_ai(title, content)
-                if result and result['is_risk']:
-                    send_discord(title, result['summary'], "이슈 감지", link, result['category'])
-                    time.sleep(2) # 도배 방지
+                # 테스트를 위해 리스크 여부 상관없이 로그 출력
+                print(f"      🤖 AI 판단: {result}")
+                
+                if result and result.get('is_risk'):
+                    print("      🔔 이슈 발견! 알림 전송!")
+                    send_discord(title, result['summary'], "이슈 감지", link, "테스트")
+            else:
+                print("      ⚠️ 본문 스크래핑 실패")
+            
+            time.sleep(1)
 
 if __name__ == "__main__":
     main()
