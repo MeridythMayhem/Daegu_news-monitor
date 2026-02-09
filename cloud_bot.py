@@ -21,31 +21,69 @@ if GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)
     model = genai.GenerativeModel('gemini-1.5-flash')
 
-# 디스코드 알림 (예쁜 카드 형태)
-def send_discord(title, summary, reason, link, category):
+# 1. 이슈 발생 시 보내는 '긴급 알림' (빨간색)
+def send_alert_discord(title, summary, reason, link, category):
     try:
-        # 화재/사망 등은 빨간색, 나머지는 주황색
-        color = 0xFF0000 if any(x in category for x in ["화재", "사망", "구속"]) else 0xFFA500
-        
+        color = 0xFF0000 # 빨간색
         data = {
             "username": "뉴스 감시 봇",
             "embeds": [{
-                "title": f"🚨 [{category}] 이슈 감지",
+                "title": f"🚨 [{category}] 심각한 이슈 감지!",
                 "description": f"**{title}**",
                 "color": color,
                 "fields": [
                     {"name": "📝 요약", "value": summary, "inline": False},
-                    {"name": "💡 감지 이유", "value": reason, "inline": False},
-                    {"name": "🔗 링크", "value": f"[기사 보러가기]({link})", "inline": False}
+                    {"name": "💡 판단 근거", "value": reason, "inline": False},
+                    {"name": "🔗 링크", "value": f"[기사 원문 보기]({link})", "inline": False}
                 ],
-                "footer": {"text": "AI News Monitor"}
+                "footer": {"text": "AI News Monitor • Urgent Alert"}
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
     except:
         pass
 
-# [시간 체크] 30분 간격 실행이므로, 최근 35분 이내 기사만 가져옴 (5분은 여유버퍼)
+# 2. 30분마다 보내는 '활동 보고서' (회색/파란색) - 새로 추가된 기능!
+def send_status_report(logs):
+    if not logs:
+        # 분석한 기사가 하나도 없을 때
+        content = "💤 **[활동 보고]** 지난 30분간 새로 등록된 관련 뉴스가 없습니다."
+        color = 0x95a5a6 # 회색
+    else:
+        # 분석한 기사가 있을 때
+        alert_count = sum(1 for log in logs if log['status'] == 'ALERT')
+        pass_count = len(logs) - alert_count
+        
+        description = f"🔍 총 **{len(logs)}**건 분석 완료 (🚨알림: {alert_count}건 / ❌패스: {pass_count}건)\n\n"
+        
+        # 상세 내역 (너무 길면 자름)
+        for log in logs[:10]: # 최대 10개까지만 표시
+            icon = "🚨" if log['status'] == 'ALERT' else "❌"
+            # 제목이 길면 자르기
+            short_title = (log['title'][:20] + '..') if len(log['title']) > 20 else log['title']
+            description += f"{icon} **{short_title}** → {log['reason']} ({log['category']})\n"
+            
+        if len(logs) > 10:
+            description += f"\n...외 {len(logs)-10}건 생략"
+
+        content = ""
+        color = 0x3498db # 파란색
+
+    try:
+        data = {
+            "username": "뉴스 감시 봇",
+            "embeds": [{
+                "title": "📋 30분 주기 활동 보고서",
+                "description": description if logs else content,
+                "color": color,
+                "footer": {"text": f"Execution Time: {datetime.now().strftime('%H:%M')}"}
+            }]
+        }
+        requests.post(DISCORD_WEBHOOK_URL, json=data)
+    except:
+        pass
+
+# 시간 체크 (최근 35분)
 def is_recent_news(pubDate_str):
     try:
         news_date = parsedate_to_datetime(pubDate_str)
@@ -87,15 +125,13 @@ def analyze_with_ai(title, content):
     [판단 기준]
     1. is_risk: 기사 내용이 '화재, 횡령, 배임, 사망, 자살, 비리, 세무조사, 구속, 징계, 부도, 사고' 등 심각한 리스크인가?
        (단순 행사, 인사 이동, 홍보, 날씨, 정책 안내, 동정 기사는 false)
-    2. category: 사건의 핵심 키워드 (예: 화재, 횡령, 비리 등)
-    3. reason: 왜 리스크로 판단했는가?
-    4. summary: 1줄 요약
+    2. category: 사건의 핵심 키워드 (예: 화재, 횡령, 홍보, 행사, 날씨 등)
+    3. reason: 왜 리스크(또는 리스크 아님)로 판단했는가? (짧게, 10자 내외)
 
     JSON 형식으로 답해:
-    {{ "is_risk": true/false, "category": "", "reason": "", "summary": "" }}
+    {{ "is_risk": true/false, "category": "", "reason": "" }}
     """
     try:
-        # 안전 설정 (뉴스 분석을 위해 차단 해제)
         safety = {
             HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
             HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
@@ -113,39 +149,52 @@ def analyze_with_ai(title, content):
         return None
 
 def main():
-    print("☁️ 뉴스 감시 봇 실행 (30분 간격)")
+    print("☁️ 뉴스 감시 및 보고 시스템 시작")
+    
+    # [활동 기록장] 이번 실행에서 분석한 결과를 모아두는 곳
+    execution_logs = []
     
     for keyword in KEYWORDS:
         articles = search_naver_news(keyword)
         
         for art in articles:
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
-            
-            # [중요] 네이버 뉴스 링크 우선 사용
             link = art['link']
             
-            # 1. 시간 체크 (최근 35분)
-            if not is_recent_news(art['pubDate']):
+            # 1. 시간 및 링크 체크
+            if not is_recent_news(art['pubDate']) or "news.naver.com" not in link:
                 continue 
-
-            # 2. 링크 체크
-            if "news.naver.com" not in link:
-                continue
 
             print(f"분석 중: {title}")
             content = scrape_article(link)
             
             if content:
-                # AI 분석 호출
                 result = analyze_with_ai(title, content)
                 
-                # 리스크(True)일 때만 알림 전송
-                if result and result.get('is_risk'):
-                    print(f"🚨 이슈 발견: {title}")
-                    send_discord(title, result['summary'], result['reason'], link, result['category'])
+                if result:
+                    # 기록장에 적기
+                    status = "ALERT" if result.get('is_risk') else "PASS"
+                    
+                    log_entry = {
+                        "title": title,
+                        "status": status,
+                        "category": result.get('category', '기타'),
+                        "reason": result.get('reason', '판단불가')
+                    }
+                    execution_logs.append(log_entry)
+
+                    # 리스크면 즉시 알림 발송
+                    if status == "ALERT":
+                        print(f"🚨 이슈 발견: {title}")
+                        send_alert_discord(title, "긴급 이슈 발생", result['reason'], link, result['category'])
+                    
                     time.sleep(1)
             
             time.sleep(1)
+
+    # 모든 분석이 끝나면 [활동 보고서] 발송
+    print("📋 활동 보고서 전송 중...")
+    send_status_report(execution_logs)
 
 if __name__ == "__main__":
     main()
