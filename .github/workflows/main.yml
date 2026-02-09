@@ -1,0 +1,30 @@
+name: News Monitor
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 매 시간 정각(0분)마다 실행
+  workflow_dispatch:      # 수동 실행 버튼 추가
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v3
+
+      - name: 파이썬 설치
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 라이브러리 설치
+        run: |
+          pip install -r requirements.txt
+
+      - name: 봇 실행
+        env:
+          NAVER_ID: ${{ secrets.NAVER_ID }}
+          NAVER_SECRET: ${{ secrets.NAVER_SECRET }}
+          GOOGLE_KEY: ${{ secrets.GOOGLE_KEY }}
+          DISCORD_URL: ${{ secrets.DISCORD_URL }}
+        run: python cloud_bot.py
