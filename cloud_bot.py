@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 import google.generativeai as genai
 
-# 환경변수 설정
+# 환경변수
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
@@ -29,20 +29,20 @@ def send_discord(title, summary, link):
     except:
         pass
 
-# [중요] 24시간 이내 뉴스인지 확인 (테스트용으로 늘림)
 def is_recent_news(pubDate_str):
     try:
         news_date = parsedate_to_datetime(pubDate_str)
         now = datetime.now(news_date.tzinfo)
-        # 24시간(하루) 전 뉴스까지 모두 가져옴!
-        return (now - news_date) <= timedelta(hours=24)
+        # 테스트용: 48시간(2일) 전 뉴스까지 다 긁어옴
+        return (now - news_date) <= timedelta(hours=48)
     except:
         return False
 
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    params = {"query": keyword, "display": 5, "sort": "date"}
+    # 검색 결과를 10개로 늘림
+    params = {"query": keyword, "display": 10, "sort": "date"}
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
     except:
@@ -59,7 +59,7 @@ def scrape_article(url):
         return None
 
 def main():
-    print("📢 24시간 테스트 모드 시작! (지난 뉴스를 강제로 가져옵니다)")
+    print("📢 24시간 테스트 모드 (네이버 링크 우선 버전)")
     
     for keyword in KEYWORDS:
         print(f"🔍 '{keyword}' 검색 중...")
@@ -67,26 +67,30 @@ def main():
         
         for art in articles:
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
-            link = art['originallink'] or art['link']
             
-            # 1. 24시간 이내인지 확인
+            # [수정된 부분] 네이버 뉴스 링크(link)를 무조건 먼저 씁니다.
+            link = art['link'] 
+            
+            # 1. 날짜 체크
             if not is_recent_news(art['pubDate']):
                 print(f"   PASS (너무 옛날): {title}")
                 continue
             
-            # 2. 네이버 뉴스 링크인지 확인
+            # 2. 링크 체크
             if "news.naver.com" not in link:
-                print(f"   PASS (링크 안맞음): {title}")
+                # 네이버 뉴스 링크가 없으면 분석을 못하므로 건너뜁니다.
+                print(f"   PASS (네이버 뉴스 아님): {title}")
                 continue
 
             print(f"   🚀 분석 시도: {title}")
             content = scrape_article(link)
             
             if content:
-                # 테스트를 위해 AI 분석 없이 무조건 알림을 보내봅니다.
                 print("   🔔 알림 발송!")
                 send_discord(title, "테스트 발송입니다.", link)
-                time.sleep(1) # 디스코드 도배 방지
+                time.sleep(1)
+            else:
+                print("   ⚠️ 본문 읽기 실패")
 
 if __name__ == "__main__":
     main()
