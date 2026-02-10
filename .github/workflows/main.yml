@@ -1,11 +1,9 @@
 name: News Monitor Bot
 
 on:
-  # 외부에서 신호를 줄 때 실행됨
   repository_dispatch:
     types: [run_monitor]
-  # (선택) 수동 실행 가능하게 유지
-  workflow_dispatch:
+  workflow_dispatch: # 수동으로 버튼 눌러 실행할 때 필요
 
 jobs:
   build:
@@ -15,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: ambassadors/setup-python@v4
+        uses: actions/setup-python@v4 # 여기를 수정했습니다.
         with:
           python-version: '3.9'
 
@@ -29,4 +27,4 @@ jobs:
           NAVER_SECRET: ${{ secrets.NAVER_SECRET }}
           GOOGLE_KEY: ${{ secrets.GOOGLE_KEY }}
           DISCORD_URL: ${{ secrets.DISCORD_URL }}
-        run: python your_script_name.py
+        run: cloud_bot.py # 실제 파일명으로 되어 있는지 확인!
