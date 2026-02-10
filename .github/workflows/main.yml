@@ -1,30 +1,32 @@
-name: News Monitor
+name: News Monitor Bot
 
 on:
-  schedule:
-    - cron: '12,42 * * * *'  # 매시 12분, 42분에 실행 (밀리지 않는 시간!)
-  workflow_dispatch:      # 수동 실행 버튼
+  # 외부에서 신호를 줄 때 실행됨
+  repository_dispatch:
+    types: [run_monitor]
+  # (선택) 수동 실행 가능하게 유지
+  workflow_dispatch:
 
 jobs:
-  run-bot:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: 코드 가져오기
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: 파이썬 설치
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: ambassadors/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.9'
 
-      - name: 라이브러리 설치
+      - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 google-generativeai
 
-      - name: 봇 실행
+      - name: Run Script
         env:
           NAVER_ID: ${{ secrets.NAVER_ID }}
           NAVER_SECRET: ${{ secrets.NAVER_SECRET }}
           GOOGLE_KEY: ${{ secrets.GOOGLE_KEY }}
           DISCORD_URL: ${{ secrets.DISCORD_URL }}
-        run: python cloud_bot.py
+        run: python your_script_name.py
