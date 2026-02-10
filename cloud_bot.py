@@ -23,7 +23,7 @@ DB_FILE = "processed_links.txt"
 # Gemini 설정
 if GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-pro')
 
 # 파일에서 이미 보낸 기사 링크 불러오기
 def load_processed_links():
