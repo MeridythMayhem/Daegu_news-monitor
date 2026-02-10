@@ -59,27 +59,56 @@ def send_alert_discord(title, summary, reason, link, category):
     except:
         pass
 
-# 2. 활동 보고서 (선택 사항 - 필요 없으면 주석 처리 가능)
+# 2. 30분마다 보내는 '활동 보고서' (3단 변신 기능 적용)
 def send_status_report(logs):
-    if not logs: return
-    
-    alert_count = sum(1 for log in logs if log['status'] == 'ALERT')
-    # 알림이 없으면 보고서를 보내지 않거나, 필요시 주석 해제
-    if alert_count == 0: return 
+    # [CASE 1] 분석할 기사가 하나도 없을 때
+    if not logs:
+        title = "💤 활동 보고 (데이터 없음)"
+        description = "지난 30분간 새로 등록된 관련 뉴스가 없습니다.\n(네이버 뉴스 검색 결과 없음)"
+        color = 0x95a5a6 # 회색 (비활성 느낌)
+        
+    else:
+        # 통계 계산
+        alert_count = sum(1 for log in logs if log['status'] == 'ALERT')
+        pass_count = len(logs) - alert_count
+        
+        # [CASE 2] 기사는 있지만, 리스크(위험)는 없을 때 -> "평온함"
+        if alert_count == 0:
+            title = f"🟢 특이사항 없음 (일반 {pass_count}건)"
+            description = f"총 **{pass_count}**건의 일반 뉴스가 감지되었으나,\n설정된 **주요 리스크(재난/범죄/인사)**는 발견되지 않았습니다.\n\n"
+            
+            # 어떤 기사들이 지나갔는지 제목만 살짝 보여주기 (최대 5개)
+            description += "**[감지된 일반 기사 예시]**\n"
+            for log in logs[:5]:
+                short_title = log['title'][:30] + ".." if len(log['title']) > 30 else log['title']
+                description += f"• {short_title}\n"
+            
+            if len(logs) > 5:
+                description += f"...외 {len(logs)-5}건"
+                
+            color = 0x2ecc71 # 초록색 (안전함 의미)
 
-    description = f"🔍 총 **{len(logs)}**건 검토 완료 (🚨이슈: {alert_count}건)\n\n"
-    for log in logs[:10]:
-        if log['status'] == 'ALERT':
-            description += f"🚨 **{log['title'][:20]}..** ({log['category']})\n"
-    
+        # [CASE 3] 리스크 기사가 섞여 있을 때 -> "경고"
+        else:
+            title = f"🚨 이슈 점검 보고 ({alert_count}건 감지)"
+            description = f"총 **{len(logs)}**건 중 **{alert_count}**건의 주요 이슈가 식별되었습니다.\n\n"
+            
+            # 리스크 기사 목록 표시
+            for log in logs:
+                if log['status'] == 'ALERT':
+                    description += f"🔥 **{log['title']}**\n→ {log['reason']}\n\n"
+            
+            color = 0xe74c3c # 빨간색 (위험 의미)
+
+    # 디스코드 전송
     try:
         data = {
-            "username": "감시 봇 보고",
+            "username": "대구·경북 감시 봇",
             "embeds": [{
-                "title": "📋 활동 요약",
+                "title": title,
                 "description": description,
-                "color": 0x3498db,
-                "footer": {"text": f"Time: {datetime.now().strftime('%H:%M')}"}
+                "color": color,
+                "footer": {"text": f"Reported at {datetime.now().strftime('%H:%M')} • 30min Cycle"}
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
