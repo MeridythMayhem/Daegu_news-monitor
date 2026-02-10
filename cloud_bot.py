@@ -193,7 +193,7 @@ def analyze_with_ai(title, content):
     }
 
     # [핵심] 재시도 횟수 축소
-max_retries = 1 # 3 -> 1로 변경 (안 되면 쿨하게 포기하고 다음 기사로)
+max_retries = 1
     for attempt in range(max_retries):
         try:
             response = model.generate_content(
