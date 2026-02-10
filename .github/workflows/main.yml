@@ -27,4 +27,4 @@ jobs:
           NAVER_SECRET: ${{ secrets.NAVER_SECRET }}
           GOOGLE_KEY: ${{ secrets.GOOGLE_KEY }}
           DISCORD_URL: ${{ secrets.DISCORD_URL }}
-        run: cloud_bot.py # 실제 파일명으로 되어 있는지 확인!
+        run: python cloud_bot.py # 실제 파일명으로 되어 있는지 확인!
