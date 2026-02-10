@@ -155,9 +155,12 @@ def scrape_article(url):
         print(f"❌ 스크래핑 에러: {e}")
         return None
 
-# [변경 2] AI 분석 로직 (프롬프트 대폭 수정)
+# [수정] 에러 원인을 상세하게 출력하도록 변경
 def analyze_with_ai(title, content):
-    if not GOOGLE_API_KEY: return None
+    # 1. API 키가 있는지부터 확인
+    if not GOOGLE_API_KEY:
+        print("❌ [치명적 오류] GOOGLE_API_KEY가 환경변수에 없습니다!")
+        return None
     
     prompt = f"""
     기사 제목: {title}
@@ -168,22 +171,12 @@ def analyze_with_ai(title, content):
 
     [판단 기준: is_risk = true 조건]
     1. 필수 지역 조건: 내용이 '대구' 또는 '경북(경상북도)' 관련일 것.
-    2. 타겟 주제 (A 또는 B 중 하나):
-       A. 기업 및 재난 리스크:
-          - 기업/공장 화재, 폭발, 붕괴
-          - 공장 작업자 사망, 산재 사고
-          - 기업 관련 범죄: 횡령, 배임, 부도, 구속, 비리, 징계, 압수수색, 세무조사
-       B. 수사기관 인사 (예외적 허용):
-          - **경찰** 또는 **검찰** 관련 인사 소식 (지방청장, 서장, 부장검사 등 승진/전보/발령)
-          - *주의: 시청, 구청, 일반 기업의 인사는 false 처리*
-
-    [제외 조건: is_risk = false]
-    - 단순 날씨, 축제, 행사, 홍보, 맛집 소개.
-    - 정치인의 단순 선거 유세나 동정.
-    - 경찰/검찰이 아닌 일반 공무원 인사.
+    2. 타겟 주제:
+       A. 기업 및 재난 리스크: 화재, 폭발, 붕괴, 사망, 산재, 횡령, 배임, 부도, 구속, 비리, 세무조사
+       B. 수사기관 인사: 경찰/검찰 관련 인사 (일반 공무원 X)
 
     JSON 포맷 응답:
-    {{ "is_risk": true/false, "category": "카테고리(예: 공장화재, 경찰인사, 횡령)", "reason": "판단 이유 요약" }}
+    {{ "is_risk": true/false, "category": "", "reason": "" }}
     """
     
     try:
@@ -194,13 +187,21 @@ def analyze_with_ai(title, content):
             HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
         }
         
+        # 모델 생성 시도
         response = model.generate_content(
             prompt, 
             safety_settings=safety,
             generation_config={"response_mime_type": "application/json"}
         )
+        
+        # 응답 텍스트 확인 (디버깅용)
+        # print(f"🤖 AI 원본 응답: {response.text}") 
+        
         return json.loads(response.text)
-    except:
+
+    except Exception as e:
+        # [중요] 구체적인 에러 메시지를 출력
+        print(f"❌ Gemini API 호출 에러: {e}")
         return None
 
 # [수정] 실패한 기록도 보고서에 포함시키는 메인 로직
