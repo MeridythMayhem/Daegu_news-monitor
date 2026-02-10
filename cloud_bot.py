@@ -140,7 +140,11 @@ def is_recent_news(pubDate_str):
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    params = {"query": keyword, "display": 15, "sort": "date"}
+    
+    # [수정] display를 15 -> 7로 변경
+    # 이유: 1시간마다 실행하므로, 상위 7개만 봐도 놓치는 뉴스 없음
+    params = {"query": keyword, "display": 7, "sort": "date"} 
+    
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
     except:
