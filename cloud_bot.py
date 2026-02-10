@@ -164,8 +164,9 @@ def scrape_article(url):
     except:
         return None
 
+# [수정] 429 에러 발생 시 죽지 않고 '재시도'하는 똑똑한 함수
 def analyze_with_ai(title, content):
-    if not model: return None # 모델 연결 실패 시 중단
+    if not model: return None 
     
     prompt = f"""
     기사 제목: {title}
@@ -184,23 +185,43 @@ def analyze_with_ai(title, content):
     {{ "is_risk": true/false, "category": "", "reason": "" }}
     """
     
-    try:
-        safety = {
-            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
-        }
-        
-        response = model.generate_content(
-            prompt, 
-            safety_settings=safety,
-            generation_config={"response_mime_type": "application/json"}
-        )
-        return json.loads(response.text)
-    except Exception as e:
-        print(f"❌ AI 분석 에러: {e}")
-        return None
+    safety = {
+        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+    }
+
+    # [핵심] 최대 3번까지 재시도하는 로직
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = model.generate_content(
+                prompt, 
+                safety_settings=safety,
+                generation_config={"response_mime_type": "application/json"}
+            )
+            return json.loads(response.text)
+
+        except Exception as e:
+            # 에러 메시지를 문자열로 변환
+            error_msg = str(e)
+            
+            # 429 에러(속도 제한)가 발생했다면?
+            if "429" in error_msg or "quota" in error_msg.lower():
+                wait_time = 20 # 20초 대기
+                print(f"⏳ 속도 제한 감지! {wait_time}초 쉬고 다시 시도합니다... ({attempt+1}/{max_retries})")
+                time.sleep(wait_time)
+                continue # 다음 시도로 넘어감 (재도전)
+            
+            # 다른 에러라면 그냥 포기하고 로그 출력
+            else:
+                print(f"❌ AI 분석 에러 (재시도 불가): {e}")
+                return None
+    
+    # 3번 다 실패했을 경우
+    print("❌ 3회 재시도 실패. 다음 기사로 넘어갑니다.")
+    return None
 
 def main():
     print("☁️ 대구·경북 심층 감시 시작")
