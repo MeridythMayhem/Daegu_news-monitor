@@ -192,8 +192,8 @@ def analyze_with_ai(title, content):
         HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
     }
 
-    # [핵심] 최대 3번까지 재시도하는 로직
-    max_retries = 3
+    # [핵심] 재시도 횟수 축소
+max_retries = 1 # 3 -> 1로 변경 (안 되면 쿨하게 포기하고 다음 기사로)
     for attempt in range(max_retries):
         try:
             response = model.generate_content(
