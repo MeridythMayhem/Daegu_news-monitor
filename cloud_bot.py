@@ -134,14 +134,25 @@ def search_naver_news(keyword):
     except:
         return []
 
+# [수정] 본문 수집 기능을 좀 더 강력하게 보완
 def scrape_article(url):
     try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        response = requests.get(url, headers=headers, timeout=5)
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
+        response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 1차 시도: 일반 뉴스
         content = soup.select_one('#dic_area')
+        
+        # 2차 시도: 연예/스포츠 등 다른 형식이면 여기서 재시도
+        if not content:
+            content = soup.select_one('#articeBody') # 오타 아님 (과거 네이버 태그)
+        if not content:
+            content = soup.select_one('.go_trans._article_content')
+            
         return content.get_text(strip=True) if content else None
-    except:
+    except Exception as e:
+        print(f"❌ 스크래핑 에러: {e}")
         return None
 
 # [변경 2] AI 분석 로직 (프롬프트 대폭 수정)
@@ -192,9 +203,10 @@ def analyze_with_ai(title, content):
     except:
         return None
 
+# [수정] 실패한 기록도 보고서에 포함시키는 메인 로직
 def main():
     print("☁️ 대구·경북 심층 감시 시작")
-    processed_links = load_processed_links() # 기억장치 로드
+    processed_links = load_processed_links() 
     execution_logs = []
     
     for keyword in KEYWORDS:
@@ -204,34 +216,51 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
-            # 이미 처리한 기사거나, 너무 오래되었거나, 네이버 뉴스가 아니면 패스
+            # 중복/시간 체크
             if link in processed_links or not is_recent_news(art['pubDate']) or "news.naver.com" not in link:
                 continue 
 
-            print(f"분석 중: {title}")
+            print(f"분석 시도: {title}") # 로그 메시지 변경
             content = scrape_article(link)
             
+            # [중요] 성공/실패 여부에 따라 모두 기록
             if content:
                 result = analyze_with_ai(title, content)
-                
                 if result:
+                    # 정상 분석 완료
                     status = "ALERT" if result.get('is_risk') else "PASS"
-                    
-                    log_entry = {
+                    execution_logs.append({
                         "title": title,
                         "status": status,
-                        "category": result.get('category', '기타'),
-                        "reason": result.get('reason', '판단불가')
-                    }
-                    execution_logs.append(log_entry)
-
+                        "category": result.get('category', '일반'),
+                        "reason": result.get('reason', '내용 없음')
+                    })
+                    
                     if status == "ALERT":
                         print(f"🚨 이슈 발견: {title}")
                         send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
-                    
-                    # 처리 완료된 링크 저장
-                    save_processed_link(link)
-                    time.sleep(1)
+                else:
+                    # AI 분석 실패 시
+                    print("❌ AI 분석 실패")
+                    execution_logs.append({
+                        "title": title,
+                        "status": "ERROR",
+                        "category": "AI오류",
+                        "reason": "AI가 응답하지 않음"
+                    })
+            else:
+                # 본문 수집 실패 시
+                print("❌ 본문 수집 실패 (Selector 불일치)")
+                execution_logs.append({
+                    "title": title,
+                    "status": "ERROR",
+                    "category": "수집실패",
+                    "reason": "본문을 찾을 수 없음"
+                })
+
+            # 성공하든 실패하든 처리는 했으므로 링크 저장 (무한 루프 방지)
+            save_processed_link(link)
+            time.sleep(1)
             
             time.sleep(1)
 
