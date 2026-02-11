@@ -5,8 +5,7 @@ import json
 import os
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
-from google import genai
-from google.genai import types
+import google.generativeai as genai
 from difflib import SequenceMatcher
 
 # =========================================================
@@ -17,23 +16,22 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
-KEYWORDS = ["대구", "경북", "국세청", "검찰 인사", "경찰 인사"]
+# 국세청은 지역 무관하게 잡기 위해 별도 로직 처리 예정
+KEYWORDS = ["대구", "경북", "경상북도", "국세청"] 
 
 # =========================================================
-# [2] AI 클라이언트 연결
+# [2] AI 모델 연결
 # =========================================================
-def get_ai_client():
+def get_available_model():
     if not GOOGLE_API_KEY:
-        print("❌ API 키 누락")
         return None
+    genai.configure(api_key=GOOGLE_API_KEY)
     try:
-        client = genai.Client(api_key=GOOGLE_API_KEY)
-        return client
-    except Exception as e:
-        print(f"❌ 클라이언트 초기화 실패: {e}")
-        return None
+        return genai.GenerativeModel('gemini-1.5-flash')
+    except:
+        return genai.GenerativeModel('gemini-pro')
 
-client = get_ai_client()
+model = get_available_model()
 
 # =========================================================
 # [3] 유틸리티
@@ -41,7 +39,7 @@ client = get_ai_client()
 def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-def send_alert_discord(title, summary, reason, link, category, model_used):
+def send_alert_discord(title, summary, reason, link, category):
     try:
         data = {
             "username": "뉴스 리스크 봇",
@@ -54,7 +52,7 @@ def send_alert_discord(title, summary, reason, link, category, model_used):
                     {"name": "💡 판단 근거", "value": reason, "inline": False},
                     {"name": "🔗 링크", "value": f"[기사 원문]({link})", "inline": True}
                 ],
-                "footer": {"text": f"Analyzed by {model_used}"}
+                "footer": {"text": "Github Action News Monitor"}
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
@@ -64,31 +62,18 @@ def send_alert_discord(title, summary, reason, link, category, model_used):
 def send_hourly_report(logs, duplicate_content_count):
     total = len(logs)
     risk_count = len([l for l in logs if l['status'] == 'ALERT'])
-    error_count = len([l for l in logs if l['status'] == 'ERROR'])
     
     if risk_count == 0:
-        title = "🟢 정기 점검 (리스크 없음)"
-        desc = f"지난 1시간 동안 **{total}건**의 기사를 스캔했습니다."
+        title = "🟢 정기 점검 (특이사항 없음)"
+        desc = f"지난 1시간 동안 {total}건의 기사를 스캔했습니다."
         color = 0x2ecc71
     else:
         title = f"🚨 정기 점검 ({risk_count}건 감지)"
-        desc = f"총 **{total}건** 중 **{risk_count}건**의 이슈를 발견했습니다."
+        desc = f"총 {total}건 중 {risk_count}건의 이슈를 전송했습니다."
         color = 0xe74c3c
 
     if duplicate_content_count > 0:
         desc += f"\n(중복 내용 생략: {duplicate_content_count}건)"
-        
-    if error_count > 0:
-        desc += f"\n⚠️ **{error_count}건** 분석 실패 (AI 연결 오류)"
-
-    if total > 0:
-        desc += "\n\n**[최근 확인 내역]**\n"
-        for log in logs[:5]:
-            icon = "✅"
-            if log['status'] == 'ALERT': icon = "🔥"
-            elif log['status'] == 'ERROR': icon = "⚠️"
-            
-            desc += f"{icon} {log['title'][:30]}...\n"
 
     try:
         requests.post(DISCORD_WEBHOOK_URL, json={
@@ -99,22 +84,28 @@ def send_hourly_report(logs, duplicate_content_count):
         pass
 
 # =========================================================
-# [4] 분석 로직 (모델 무한 트라이 방식)
+# [4] 분석 로직 (수정됨)
 # =========================================================
 
-def is_spam_news(title):
-    spam_keywords = [
-        "날씨", "기상", "비소식", "눈소식", "최저기온", "미세먼지",
-        "스포츠", "경기", "축구", "야구", "골프", "우승", "결승",
-        "전시", "개막", "행사", "축제", "마라톤", "모집", "개장", "부고", "별세", "화촉",
-        "특징주", "마감", "코스피", "환율", "여행", "맛집", "할인", "이벤트"
+# [수정] 3번 요구사항(인사)을 위한 키워드 추가
+def is_suspicious_title(title):
+    risk_keywords = [
+        # 1. 재해/사고/범죄
+        "화재", "폭발", "붕괴", "사망", "숨진", "변사", "추락", "산재", "중대재해", "응급", "대피", "고립", "침수",
+        "구속", "체포", "입건", "송치", "압수수색", "비리", "횡령", "배임", "뇌물", "도박", "마약", "성범죄", "폭행", "살인",
+        "부도", "파산", "해고", "폐업", "법정관리", "워크아웃", "임금체불", "탈세", "추징",
+        # 2. 국세청/감사 이슈
+        "세무조사", "국세청", "세무서", "감사", "적발", "징계",
+        # 3. 경찰/검찰 인사 (추가됨)
+        "인사", "전보", "발령", "승진", "청장", "서장", "과장", "검사", "경무관", "총경"
     ]
-    return any(keyword in title for keyword in spam_keywords)
+    return any(keyword in title for keyword in risk_keywords)
 
 def search_naver_news(keyword):
+    # 깃허브 액션은 매번 초기화되므로 '최신순'으로 1시간 분량만 확실히 가져오는게 유리
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    params = {"query": keyword, "display": 20, "sort": "date"}
+    params = {"query": keyword, "display": 30, "sort": "date"} # display 수량 조절
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
     except:
@@ -122,121 +113,99 @@ def search_naver_news(keyword):
 
 def scrape_article(url):
     try:
-        if "news.naver.com" not in url: return None
+        # 네이버 뉴스(news.naver.com)만 타겟팅 (일반 언론사 사이트는 구조가 달라 파싱 불가)
+        if "news.naver.com" not in url:
+            return None
+            
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(url, headers=headers, timeout=5)
         soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 네이버 뉴스 본문 선택자들
         content = soup.select_one('#dic_area') or soup.select_one('#articeBody') or soup.select_one('.go_trans._article_content')
         return content.get_text(strip=True) if content else None
     except:
         return None
 
 def analyze_with_ai(title, content):
-    if not client: return None, None
+    if not model: return None
     
     prompt = f"""
     기사 제목: {title}
-    기사 본문(요약): {content[:700]}
+    기사 본문(일부): {content[:600]}
 
-    당신은 '리스크 모니터링 요원'입니다. 아래 3가지 카테고리에 해당하는지 엄격하게 분석하세요.
-    JSON 형식으로만 응답하세요.
-    
-    [감시 대상]
-    1. 지역 재난/경제범죄: '대구/경북' 지역 내의 기업 사고, 재해, 횡령, 배임, 부도, 탈세 등
-    2. 국세청 리스크: 국세청/세무서 관련 부정적 기사 (압수수색, 직원 비위, 고강도 감사 등)
-    3. 수사기관 인사: 경찰/검찰의 '인사 이동', '승진', '발령' 소식 (단순 사건 보도 아님)
+    다음 3가지 기준 중 하나라도 해당하면 'is_risk': true 로 판별하시오.
+    1. 대구/경북 기업의 재해, 사고, 경제범죄(횡령, 배임 등)
+    2. 국세청/세무서 관련 부정적 기사 (압수수색, 자살, 감사 등) - 지역 무관
+    3. 경찰/검찰의 '인사', '승진', '전보' 소식 - 지역 무관
 
-    [응답 형식 JSON]
-    {{ 
-        "is_risk": true/false, 
-        "category": "기업재난 / 국세청 / 수사기관인사", 
-        "reason": "판단 이유를 한 문장으로 작성" 
+    응답 형식(JSON):
+    {{
+        "is_risk": true/false,
+        "category": "기업재난 / 국세청이슈 / 경검인사 중 택1",
+        "reason": "판단 이유 한 줄 요약"
     }}
     """
     
-    # [핵심 수정] 404 에러 방지를 위해 여러 모델 이름을 순서대로 시도
-    candidate_models = [
-        "gemini-1.5-flash",          # 기본 별칭
-        "gemini-1.5-flash-001",      # 구체적 버전 (404 해결용)
-        "gemini-1.5-flash-002",      # 최신 버전
-        "gemini-1.5-pro",            # 고급 모델 (플래시 실패시)
-        "gemini-1.5-pro-001"         # 고급 구체적 버전
-    ]
-
-    last_error = None
-    
-    for model_name in candidate_models:
-        try:
-            response = client.models.generate_content(
-                model=model_name,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    response_mime_type="application/json"
-                )
-            )
-            # 성공하면 결과와 사용된 모델명 반환 후 탈출
-            return json.loads(response.text), model_name
-            
-        except Exception as e:
-            # 실패하면 다음 모델 시도
-            last_error = e
-            continue
-            
-    # 모든 모델이 실패했을 경우
-    print(f"❌ 모든 모델 시도 실패. 마지막 에러: {last_error}")
-    return None, None
+    try:
+        response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
+        return json.loads(response.text)
+    except:
+        return None
 
 def main():
-    print("☁️ AI Full-Scan 모드 시작 (Multi-Model)...")
+    print("☁️ 깃허브 액션 뉴스 감시 시작...")
     execution_logs = []
     duplicate_content_count = 0
-    recent_risk_titles = []
-    
-    time_threshold = datetime.now() - timedelta(minutes=70)
-    processed_urls = set()
+    recent_risk_titles = [] # 이번 실행 주기 내 중복 방지용
 
-    if not client:
-        print("🛑 클라이언트 연결 실패")
-        try:
-            requests.post(DISCORD_WEBHOOK_URL, json={"content": "⚠️ [오류] API 키를 확인해주세요."})
-        except: pass
+    # [핵심] 파일 로드 대신 '시간'으로 필터링 (최근 1시간 10분)
+    time_threshold = datetime.now() - timedelta(minutes=70)
+
+    if not model:
+        print("API 키 오류")
         return
+
+    processed_urls = set() # 이번 실행에서 처리한 URL (중복 검색 방지)
 
     for keyword in KEYWORDS:
         articles = search_naver_news(keyword)
-        print(f"--- '{keyword}' 검색: {len(articles)}건 ---")
         
         for art in articles:
             link = art['link']
+            
+            # 1. URL 중복 체크 (이번 실행 내)
             if link in processed_urls: continue
             processed_urls.add(link)
 
+            # 2. 시간 체크 (깃허브 액션용 핵심 로직)
             try:
-                pub_date = parsedate_to_datetime(art['pubDate']).replace(tzinfo=None)
-                if pub_date < time_threshold: continue
-            except: continue
+                # 네이버 API 날짜 포맷 파싱
+                pub_date = parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) # 시간대 정보 제거하여 비교 단순화
+                if pub_date < time_threshold:
+                    continue # 1시간 10분 넘은 기사는 패스
+            except:
+                continue
 
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
 
-            if is_spam_news(title):
+            # 3. 1차 키워드 필터
+            if not is_suspicious_title(title):
                 continue
 
+            # 4. 본문 스크래핑
             content = scrape_article(link)
-            if not content: continue 
+            if not content: continue # 본문 못 가져오면 패스
 
-            print(f"🧠 분석 중: {title}")
+            print(f"🔍 분석 중: {title}")
             
-            # [변경] 결과뿐만 아니라 성공한 모델 이름도 받음
-            result, model_used = analyze_with_ai(title, content)
+            # 5. AI 분석
+            result = analyze_with_ai(title, content)
             
-            log_entry = {"title": title, "status": "PASS", "category": "일반", "reason": "안전함"}
+            log_entry = {"title": title, "status": "PASS", "category": "일반", "reason": "이슈 없음"}
 
-            if result is None:
-                log_entry['status'] = "ERROR"
-                log_entry['reason'] = "AI 응답 오류 (모든 모델 실패)"
-                print(f"   └ ⚠️ 분석 실패")
-            
-            elif result.get('is_risk'):
+            if result and result.get('is_risk'):
+                # 6. 내용 유사도(도배) 체크
                 is_duplicate = False
                 for past_title in recent_risk_titles:
                     if get_similarity(title, past_title) > 0.6:
@@ -246,21 +215,18 @@ def main():
                 if is_duplicate:
                     log_entry['status'] = "DUPLICATE"
                     duplicate_content_count += 1
-                    print(f"   └ 🔇 중복 이슈 생략")
+                    print(f"   └ 🔇 중복 기사 생략")
                 else:
                     log_entry['status'] = "ALERT"
                     log_entry['category'] = result.get('category')
-                    log_entry['reason'] = result.get('reason')
                     recent_risk_titles.append(title)
                     
-                    print(f"   └ 🚨 이슈 발견! ({model_used})")
-                    send_alert_discord(title, "AI 정밀 감지", result['reason'], link, result['category'], model_used)
+                    print(f"   └ 🚨 알림 전송!")
+                    send_alert_discord(title, "AI 자동 분류", result['reason'], link, result['category'])
+                    time.sleep(2) # 디스코드 레이트 리밋 방지
             
-            else:
-                log_entry['reason'] = result.get('reason', '특이사항 없음')
-
             execution_logs.append(log_entry)
-            time.sleep(4) 
+            time.sleep(1) # 요청 간격
 
     send_hourly_report(execution_logs, duplicate_content_count)
     print("✅ 실행 완료")
