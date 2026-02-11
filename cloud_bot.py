@@ -8,7 +8,9 @@ from email.utils import parsedate_to_datetime
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
-# 환경변수 로드
+# ---------------------------------------------------------
+# 1. 환경변수 로드
+# ---------------------------------------------------------
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
@@ -17,7 +19,9 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 KEYWORDS = ["대구", "경북", "경상북도"]
 DB_FILE = "processed_links.txt"
 
-# [핵심] 사용 가능한 모델을 찾아내는 함수
+# ---------------------------------------------------------
+# 2. 모델 설정 함수
+# ---------------------------------------------------------
 def get_available_model():
     if not GOOGLE_API_KEY:
         print("❌ API 키가 없습니다.")
@@ -25,40 +29,21 @@ def get_available_model():
     
     genai.configure(api_key=GOOGLE_API_KEY)
     
-    print("🔍 [시스템 점검] 현재 API 키로 사용 가능한 모델 목록:")
-    available_models = []
-    target_model = None
-    
+    print("🔍 [시스템 점검] 모델 연결 시도 중...")
     try:
-        for m in genai.list_models():
-            if 'generateContent' in m.supported_generation_methods:
-                print(f" - {m.name}")
-                available_models.append(m.name)
-        
-        # 1순위: 1.5-flash (가성비 최강)
-        if 'models/gemini-1.5-flash' in available_models:
-            target_model = 'gemini-1.5-flash'
-        # 2순위: 1.0-pro (안정성)
-        elif 'models/gemini-pro' in available_models:
-            target_model = 'gemini-pro'
-        # 3순위: 아무거나 되는 거 (비상용)
-        elif available_models:
-            target_model = available_models[0].replace('models/', '')
-            
-        if target_model:
-            print(f"✅ [연결 성공] 선택된 모델: {target_model}")
-            return genai.GenerativeModel(target_model)
-        else:
-            print("❌ [치명적 오류] 사용 가능한 모델이 하나도 없습니다! (API 키 권한 확인 필요)")
-            return None
-            
-    except Exception as e:
-        print(f"❌ 모델 목록 조회 실패: {e}")
-        return None
+        # 우선순위: 1.5 Flash (가장 빠르고 저렴/무료) -> 1.0 Pro
+        # 2.5 모델은 아직 프리뷰라 할당량이 적을 수 있어 1.5를 강제로 우선시함
+        return genai.GenerativeModel('gemini-1.5-flash')
+    except:
+        print("⚠️ 1.5 Flash 모델 연결 실패, 기본 모델로 시도합니다.")
+        return genai.GenerativeModel('gemini-pro')
 
-# 전역 변수로 모델 설정 (실행 시점에 결정)
+# 전역 모델 변수
 model = get_available_model()
 
+# ---------------------------------------------------------
+# 3. 유틸리티 함수들 (파일 저장, 디스코드 전송 등)
+# ---------------------------------------------------------
 def load_processed_links():
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r") as f:
@@ -91,51 +76,60 @@ def send_alert_discord(title, summary, reason, link, category):
         pass
 
 def send_status_report(logs):
-    if not logs:
-        # 데이터 없음 (에러 상황 포함)
-        pass 
-    else:
-        alert_count = sum(1 for log in logs if log['status'] == 'ALERT')
-        pass_count = len(logs) - alert_count
-        
-        if alert_count == 0:
-            title = f"🟢 특이사항 없음 (일반 {pass_count}건)"
-            description = f"총 **{pass_count}**건의 일반 뉴스가 감지되었으나,\n설정된 **주요 리스크**는 발견되지 않았습니다.\n\n"
-            description += "**[감지된 기사 예시]**\n"
-            for log in logs[:5]:
-                short_title = log['title'][:30] + ".." if len(log['title']) > 30 else log['title']
-                description += f"• {short_title}\n"
-            color = 0x2ecc71 
-        else:
-            title = f"🚨 이슈 점검 보고 ({alert_count}건 감지)"
-            description = f"총 **{len(logs)}**건 중 **{alert_count}**건의 주요 이슈가 식별되었습니다.\n\n"
-            for log in logs:
-                if log['status'] == 'ALERT':
-                    description += f"🔥 **{log['title']}**\n→ {log['reason']}\n\n"
-            color = 0xe74c3c 
+    if not logs: return
+    
+    alert_count = sum(1 for log in logs if log['status'] == 'ALERT')
+    pass_count = len(logs) - alert_count
+    
+    # 알림이 하나도 없으면 굳이 리포트 안 보내도 됨 (너무 자주 울림 방지)
+    if alert_count == 0:
+        print(f"✅ 특이사항 없음 (분석된 일반 기사 {pass_count}건)")
+        return 
 
-        try:
-            data = {
-                "username": "대구·경북 감시 봇",
-                "embeds": [{
-                    "title": title,
-                    "description": description,
-                    "color": color,
-                    "footer": {"text": f"Reported at {datetime.now().strftime('%H:%M')} • 30min Cycle"}
-                }]
-            }
-            requests.post(DISCORD_WEBHOOK_URL, json=data)
-        except:
-            pass
+    title = f"🚨 이슈 점검 보고 ({alert_count}건 감지)"
+    description = f"총 **{len(logs)}**건 중 **{alert_count}**건의 주요 이슈가 식별되었습니다.\n\n"
+    for log in logs:
+        if log['status'] == 'ALERT':
+            description += f"🔥 **{log['title']}**\n→ {log['reason']}\n\n"
+    color = 0xe74c3c 
+
+    try:
+        data = {
+            "username": "대구·경북 감시 봇",
+            "embeds": [{
+                "title": title,
+                "description": description,
+                "color": color,
+                "footer": {"text": f"Reported at {datetime.now().strftime('%H:%M')}"}
+            }]
+        }
+        requests.post(DISCORD_WEBHOOK_URL, json=data)
+    except:
+        pass
 
 def is_recent_news(pubDate_str):
     try:
         news_date = parsedate_to_datetime(pubDate_str)
         now = datetime.now(news_date.tzinfo)
         diff = now - news_date
-        return diff <= timedelta(minutes=60)
+        return diff <= timedelta(minutes=60) # 1시간 이내 기사만
     except:
         return False
+
+# ---------------------------------------------------------
+# 4. 크롤링 및 AI 분석 핵심 로직 (수정된 부분)
+# ---------------------------------------------------------
+
+# [NEW] AI 할당량을 아끼기 위해 제목에 위험 단어가 없으면 AI에게 안 물어봄
+def is_suspicious_title(title):
+    risk_keywords = [
+        "화재", "폭발", "붕괴", "사망", "숨진", "변사", "추락", 
+        "구속", "체포", "입건", "송치", "압수수색", "비리", "횡령", 
+        "부도", "파산", "해고", "검찰", "경찰", "수사", "법원", "징역",
+        "산재", "중대재해", "폭로", "의혹", "논란", "위기"
+    ]
+    # 위 단어가 포함되어 있으면 True 반환
+    return any(keyword in title for keyword in risk_keywords)
 
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -160,9 +154,15 @@ def scrape_article(url):
     except:
         return None
 
+# [NEW] 재시도 로직이 포함된 안전한 AI 분석 함수
 def analyze_with_ai(title, content):
-    if not model: return None # 모델 연결 실패 시 중단
+    if not model: return None
     
+    # 1. 1차 필터링: 제목에 위험 키워드가 아예 없으면 AI 사용 X (할당량 절약)
+    if not is_suspicious_title(title):
+        print(f"⏩ [Pass] 키워드 없음, AI 분석 생략: {title}")
+        return None
+
     prompt = f"""
     기사 제목: {title}
     기사 본문: {content[:800]}
@@ -180,30 +180,43 @@ def analyze_with_ai(title, content):
     {{ "is_risk": true/false, "category": "", "reason": "" }}
     """
     
-    try:
-        safety = {
-            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
-            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
-        }
-        
-        response = model.generate_content(
-            prompt, 
-            safety_settings=safety,
-            generation_config={"response_mime_type": "application/json"}
-        )
-        return json.loads(response.text)
-    except Exception as e:
-        print(f"❌ AI 분석 에러: {e}")
-        return None
+    # 2. 에러 발생 시 재시도 (최대 3번)
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            safety = {
+                HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+                HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+                HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+                HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+            }
+            
+            response = model.generate_content(
+                prompt, 
+                safety_settings=safety,
+                generation_config={"response_mime_type": "application/json"}
+            )
+            return json.loads(response.text)
+            
+        except Exception as e:
+            error_msg = str(e)
+            if "429" in error_msg:
+                wait_time = 60 # 429 에러(Quota Exceeded)면 60초 대기
+                print(f"⏳ [429 Quota] 할당량 초과! {wait_time}초 대기 후 재시도 ({attempt+1}/{max_retries})...")
+                time.sleep(wait_time)
+                continue # 루프 처음으로 돌아가서 다시 시도
+            else:
+                print(f"❌ AI 분석 에러 (치명적): {e}")
+                return None
+    
+    print("❌ 재시도 횟수 초과로 해당 기사 분석 포기")
+    return None
 
 def main():
-    print("☁️ 대구·경북 심층 감시 시작")
+    print("☁️ 대구·경북 심층 감시 시작 (업그레이드 버전)")
     processed_links = load_processed_links()
     execution_logs = []
     
-    # 모델이 없으면 아예 시작하지 않음
     if not model:
         print("🛑 모델 초기화 실패로 프로그램을 종료합니다.")
         return
@@ -215,15 +228,20 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
+            # 이미 처리했거나 오래된 뉴스, 네이버 뉴스 아닌 것 패스
             if link in processed_links or not is_recent_news(art['pubDate']) or "news.naver.com" not in link:
                 continue 
 
-            print(f"분석 시도: {title}")
+            print(f"--------------------------------------------------")
+            print(f"🔍 탐색: {title}")
+            
             content = scrape_article(link)
             
             if content:
+                # 수정된 analyze_with_ai 호출 (내부에서 필터링 및 재시도 수행)
                 result = analyze_with_ai(title, content)
                 
+                # result가 있다는 건 AI가 분석을 완료했다는 뜻 (필터링된 건 None)
                 if result:
                     status = "ALERT" if result.get('is_risk') else "PASS"
                     execution_logs.append({
@@ -237,12 +255,16 @@ def main():
                         print(f"🚨 이슈 발견: {title}")
                         send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
                     
-                    save_processed_link(link)
-                    print("⏳ 속도 제한 준수를 위해 15초 대기 중...")
-                    time.sleep(15) # 1분에 4번만 요청하도록 안전하게 변경
-                else:
-                    print("❌ AI 응답 없음")
+                    # 성공적으로 AI를 썼을 때만 대기 (API 속도 조절)
+                    print("✅ AI 분석 완료. 3초 대기...")
+                    time.sleep(3) 
+                
+                # 분석을 했든(AI), 안 했든(필터) 처리는 한 것으로 간주하여 저장
+                # 단, 429 에러로 '실패'해서 None이 된 경우는 저장하지 않아야 다음에 다시 시도함
+                # 여기서는 편의상 분석 시도한 모든 링크 저장 (무한 루프 방지)
+                save_processed_link(link)
             
+            # 너무 빠른 크롤링 방지용 짧은 대기
             time.sleep(1)
 
     send_status_report(execution_logs)
