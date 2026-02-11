@@ -16,14 +16,13 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
-KEYWORDS = ["대구", "경북", "경상북도", "국세청"]
+KEYWORDS = ["대구", "경북", "국세청", "검찰 인사", "경찰 인사"] # 키워드 자체를 구체화
 
 # =========================================================
 # [2] AI 모델 연결
 # =========================================================
 def get_available_model():
-    if not GOOGLE_API_KEY:
-        return None
+    if not GOOGLE_API_KEY: return None
     genai.configure(api_key=GOOGLE_API_KEY)
     try:
         return genai.GenerativeModel('gemini-1.5-flash')
@@ -38,99 +37,79 @@ model = get_available_model()
 def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-# [디스코드] 즉시 알림 (긴급 이슈)
 def send_alert_discord(title, summary, reason, link, category):
     try:
         data = {
-            "username": "리스크 감시 봇",
+            "username": "뉴스 리스크 봇",
             "embeds": [{
-                "title": f"🚨 [{category}] 긴급 이슈 감지",
+                "title": f"🚨 [{category}] 이슈 감지",
                 "description": f"**{title}**",
                 "color": 0xFF0000, 
                 "fields": [
                     {"name": "📝 요약", "value": summary, "inline": False},
                     {"name": "💡 판단 근거", "value": reason, "inline": False},
-                    {"name": "🔗 링크", "value": f"[기사 원문 보기]({link})", "inline": True}
+                    {"name": "🔗 링크", "value": f"[기사 원문]({link})", "inline": True}
                 ],
-                "footer": {"text": "Urgent Alert System"}
+                "footer": {"text": "AI Full-Scan System"}
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
     except:
         pass
 
-# [디스코드] 1시간 정기 보고 (사용자 원본 기능 복구 완료)
 def send_hourly_report(logs, duplicate_content_count):
-    total_scanned = len(logs)
-    risk_alerts = [l for l in logs if l['status'] == 'ALERT']
-    risk_count = len(risk_alerts)
+    total = len(logs)
+    risk_count = len([l for l in logs if l['status'] == 'ALERT'])
     
-    # 보고서 멘트 조합
-    msg_parts = []
-    if duplicate_content_count > 0:
-        msg_parts.append(f"• 중복(도배) 제외: **{duplicate_content_count}**건")
-    
-    exclusion_msg = "\n".join(msg_parts)
-    if exclusion_msg: exclusion_msg = "\n\n(참고)\n" + exclusion_msg
-
-    # 1. 이슈 없음 (여기에 읽은 기사 목록 표시 기능 복구)
     if risk_count == 0:
-        title = "🟢 정기 보고 (특이사항 없음)"
-        if total_scanned == 0:
-            description = f"지난 1시간 동안 새로운 기사가 없습니다.{exclusion_msg}"
-        else:
-            description = f"새로운 기사 **{total_scanned}**건을 확인했으나 위험 요소는 없습니다.{exclusion_msg}\n\n**[확인한 주요 기사]**\n"
-            # 로그에서 최대 5개까지만 보여줌 (너무 길어짐 방지)
-            for log in logs[:5]:
-                description += f"• {log['title'][:40]}...\n"
+        title = "🟢 정기 점검 (특이사항 없음)"
+        desc = f"지난 1시간 동안 **{total}건**의 기사를 AI가 정밀 분석했습니다."
         color = 0x2ecc71
-
-    # 2. 이슈 있음
     else:
-        title = f"🚨 정기 보고 (리스크 {risk_count}건 감지)"
-        description = f"총 **{total_scanned}**건 중 **{risk_count}**건의 중요 이슈를 처리했습니다.{exclusion_msg}\n\n**[감지된 이슈]**\n"
-        for log in risk_alerts:
-            description += f"🔥 {log['title']}\n"
+        title = f"🚨 정기 점검 ({risk_count}건 감지)"
+        desc = f"총 **{total}건**을 AI가 분석하여 **{risk_count}건**의 이슈를 찾아냈습니다."
         color = 0xe74c3c
 
+    if duplicate_content_count > 0:
+        desc += f"\n(중복 내용 생략: {duplicate_content_count}건)"
+
+    # AI가 무슨 기사를 읽었는지 확인하기 위해 상위 5개 로그 출력
+    if total > 0:
+        desc += "\n\n**[AI가 검토한 기사들]**\n"
+        for log in logs[:5]:
+            status_icon = "🔥" if log['status'] == 'ALERT' else "✅"
+            desc += f"{status_icon} {log['title'][:30]}...\n"
+
     try:
-        data = {
-            "username": "뉴스 모니터링 요약",
-            "embeds": [{
-                "title": title,
-                "description": description,
-                "color": color,
-                "footer": {"text": f"Reported at {datetime.now().strftime('%H:%M')}"}
-            }]
-        }
-        requests.post(DISCORD_WEBHOOK_URL, json=data)
+        requests.post(DISCORD_WEBHOOK_URL, json={
+            "username": "모니터링 요약",
+            "embeds": [{"title": title, "description": desc, "color": color}]
+        })
     except:
         pass
 
 # =========================================================
-# [4] 분석 로직
+# [4] 분석 로직 (전면 개편)
 # =========================================================
 
-# [수정] 3번 요구사항(경찰/검찰 인사)을 잡기 위해 키워드 추가됨
-def is_suspicious_title(title):
-    risk_keywords = [
-        # 사고/재난
-        "화재", "폭발", "붕괴", "사망", "숨진", "변사", "추락", "산재", "중대재해", "응급", "대피", "고립", "침수",
-        # 범죄/수사
-        "구속", "체포", "입건", "송치", "압수수색", "비리", "횡령", "배임", "뇌물", "도박", "마약", "성범죄", "폭행", "살인",
-        # 경제/기업 위기
-        "부도", "파산", "해고", "폐업", "법정관리", "워크아웃", "임금체불", "세무조사", "탈세", "추징",
-        # 사법/행정 및 **인사(추가됨)**
-        "검찰", "경찰", "수사", "법원", "징역", "선고", "재판", "기소", "징계", "감사", "적발", "의혹", "논란", "위기",
-        "인사", "전보", "발령", "승진", "청장", "서장", "과장", "검사" 
+# [변경점] "이런 단어 있으면 통과" -> "이런 단어 있으면 무시(스팸)"
+# 스포츠, 날씨, 부고, 단순 행사 알림 등은 AI 토큰 낭비이므로 1차 제거
+def is_spam_news(title):
+    spam_keywords = [
+        "날씨", "기상", "비소식", "눈소식", "최저기온", "미세먼지", # 날씨
+        "스포츠", "경기", "축구", "야구", "골프", "우승", "결승",  # 스포츠
+        "전시", "개막", "행사", "축제", "마라톤",                # 단순 행사
+        "부고", "별세", "화촉", "모집", "개장",                  # 일반 알림
+        "특징주", "마감", "코스피", "환율",                      # 단순 주식 시황
+        "여행", "맛집", "할인", "이벤트"                         # 광고성
     ]
-    return any(keyword in title for keyword in risk_keywords)
+    return any(keyword in title for keyword in spam_keywords)
 
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    # 깃허브 액션 환경을 고려해 display를 조금 늘리고 날짜순 정렬
-    params = {"query": keyword, "display": 30, "sort": "date"}
+    # AI로 다 검사할 것이므로 display를 너무 늘리면 API 제한 걸림. 20개 정도가 적당.
+    params = {"query": keyword, "display": 20, "sort": "date"}
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
     except:
@@ -138,9 +117,7 @@ def search_naver_news(keyword):
 
 def scrape_article(url):
     try:
-        # 네이버 뉴스 도메인이 아니면 스킵 (일반 언론사 사이트는 구조가 달라 에러 발생 확률 높음)
-        if "news.naver.com" not in url:
-            return None
+        if "news.naver.com" not in url: return None
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(url, headers=headers, timeout=5)
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -152,110 +129,110 @@ def scrape_article(url):
 def analyze_with_ai(title, content):
     if not model: return None
     
+    # 프롬프트는 그대로 유지하되, 더 강력하게 판단 요구
     prompt = f"""
     기사 제목: {title}
-    기사 본문(일부): {content[:800]}
+    기사 본문(요약): {content[:700]}
 
-    [분석 목표]
-    다음 3가지 중 하나라도 해당하면 'is_risk': true 로 판별하시오.
+    당신은 '리스크 모니터링 요원'입니다. 아래 3가지 카테고리에 해당하는지 엄격하게 분석하세요.
     
-    1. 대구·경북 지역의 '기업 사건사고', '경제범죄(횡령/배임 등)'
-    2. 국세청 및 세무서 관련 부정적 이슈 (압수수색, 자살, 감사, 업무문제) - 지역 무관
-    3. 경찰 및 검찰의 '인사', '승진', '전보' 소식 - 지역 무관
+    [감시 대상]
+    1. 지역 재난/경제범죄: '대구/경북' 지역 내의 기업 사고, 재해, 횡령, 배임, 부도 등
+    2. 국세청 리스크: 국세청/세무서 관련 부정적 기사 (압수수색, 직원 비위, 고강도 감사 등)
+    3. 수사기관 인사: 경찰/검찰의 '인사 이동', '승진', '발령' 소식 (단순 사건 보도 아님)
 
-    JSON 포맷 응답:
-    {{ "is_risk": true/false, "category": "기업재난 / 국세청 / 경검인사", "reason": "이유 한 줄 요약" }}
+    [응답 형식 JSON]
+    {{ 
+        "is_risk": true/false, 
+        "category": "기업재난 / 국세청 / 수사기관인사", 
+        "reason": "판단 이유를 한 문장으로 작성" 
+    }}
     """
     
     try:
         response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
         return json.loads(response.text)
-    except:
+    except Exception as e:
+        print(f"AI Error: {e}")
         return None
 
 def main():
-    print("☁️ 감시 봇 작동 시작...")
-    execution_logs = []  
-    duplicate_content_count = 0 
+    print("☁️ AI Full-Scan 모드 시작...")
+    execution_logs = []
+    duplicate_content_count = 0
     recent_risk_titles = []
-
-    # 깃허브 액션용 시간 필터 (최근 70분) - 파일 저장 대신 사용
+    
+    # 최근 70분 기사만 체크
     time_threshold = datetime.now() - timedelta(minutes=70)
-    processed_urls_in_session = set() # 이번 실행에서 중복 체크용
+    processed_urls = set()
 
     if not model:
-        print("🛑 모델 에러: API 키를 확인하세요.")
+        print("API 키 오류")
         return
 
     for keyword in KEYWORDS:
         articles = search_naver_news(keyword)
+        print(f"--- 키워드 '{keyword}' 검색 결과: {len(articles)}건 ---")
         
         for art in articles:
-            title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
-            
-            # 1. URL 중복 체크 (이번 세션)
-            if link in processed_urls_in_session: continue
-            processed_urls_in_session.add(link)
+            if link in processed_urls: continue
+            processed_urls.add(link)
 
-            # 2. 날짜 체크 (깃허브 액션 대응: 파일 대신 시간으로 체크)
+            # 날짜 체크
             try:
-                # 네이버 날짜 포맷 파싱 및 타임존 제거
                 pub_date = parsedate_to_datetime(art['pubDate']).replace(tzinfo=None)
                 if pub_date < time_threshold: continue
             except: continue
 
-            # 3. 키워드 필터 (제목에 위험 단어 없으면 패스)
-            if not is_suspicious_title(title):
+            title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
+
+            # [핵심 변경] 키워드 필터 삭제 -> 스팸 필터로 대체
+            # "날씨", "스포츠" 같은 명백한 쓰레기 데이터가 아니면 일단 통과
+            if is_spam_news(title):
+                print(f"🗑️ 스팸 패스: {title}")
                 continue
-            
-            print(f"🔍 AI 분석 요청: {title}")
-            
-            # 로그 초기화 (기본값: 안전함)
-            log_entry = {
-                "title": title,
-                "status": "PASS",
-                "category": "일반",
-                "reason": "특이사항 없음"
-            }
 
+            # 본문 수집
             content = scrape_article(link)
-            
-            if content:
-                result = analyze_with_ai(title, content)
-                
-                if result:
-                    if result.get('is_risk'):
-                        # [도배 방지] 내용 유사도 체크
-                        is_duplicate_content = False
-                        for past_title in recent_risk_titles:
-                            if get_similarity(title, past_title) > 0.6: 
-                                is_duplicate_content = True
-                                break
-                        
-                        if is_duplicate_content:
-                            print(f"🔇 [중복 이슈] 알림 생략: {title}")
-                            log_entry['status'] = "DUPLICATE_RISK"
-                            duplicate_content_count += 1
-                        else:
-                            # 진짜 새로운 위험 기사
-                            log_entry['status'] = "ALERT"
-                            log_entry['category'] = result.get('category')
-                            log_entry['reason'] = result.get('reason')
-                            recent_risk_titles.append(title)
-                            
-                            print(f"🚨 이슈 발견: {title}")
-                            send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
-                            time.sleep(2)
-                    else:
-                        log_entry['reason'] = "AI 분석 결과 안전함"
-                
-                # 분석한 기사는 무조건 로그에 추가 (보고서용)
-                execution_logs.append(log_entry)
-            
-            time.sleep(1)
+            if not content: continue 
 
-    # [복구된 기능] 정기 보고 전송 (로그 전체를 넘김)
+            print(f"🧠 AI 분석 중: {title}")
+            
+            # AI에게 모든 판단 위임
+            result = analyze_with_ai(title, content)
+            
+            log_entry = {"title": title, "status": "PASS", "category": "일반", "reason": "안전함"}
+
+            if result and result.get('is_risk'):
+                # 도배 방지
+                is_duplicate = False
+                for past_title in recent_risk_titles:
+                    if get_similarity(title, past_title) > 0.6:
+                        is_duplicate = True
+                        break
+                
+                if is_duplicate:
+                    log_entry['status'] = "DUPLICATE"
+                    duplicate_content_count += 1
+                else:
+                    log_entry['status'] = "ALERT"
+                    log_entry['category'] = result.get('category')
+                    log_entry['reason'] = result.get('reason')
+                    recent_risk_titles.append(title)
+                    
+                    print(f"🚨 발견!: {title}")
+                    send_alert_discord(title, "AI 정밀 감지", result['reason'], link, result['category'])
+            
+            else:
+                if result: log_entry['reason'] = result.get('reason') # AI가 안전하다고 판단한 이유 기록
+
+            execution_logs.append(log_entry)
+            
+            # [중요] AI 무료 티어(RPM 15) 제한을 지키기 위해 강제 휴식
+            # 1분에 15개 = 4초에 1개. 안전하게 4초 대기.
+            time.sleep(4) 
+
     send_hourly_report(execution_logs, duplicate_content_count)
     print("✅ 실행 완료")
 
