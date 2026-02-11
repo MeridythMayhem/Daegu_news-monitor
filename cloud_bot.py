@@ -8,38 +8,40 @@ from email.utils import parsedate_to_datetime
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
-# 1. 환경변수 로드
+# 환경변수 로드
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
-# 2. 감시 설정 (국세청 포함)
-KEYWORDS = ["대구", "경북", "국세청"]
+KEYWORDS = ["대구", "경북", "경상북도"]
 DB_FILE = "processed_links.txt"
 
-# 3. 모델 자동 감지 함수
+# [핵심] 사용 가능한 모델을 찾아내는 함수
 def get_available_model():
     if not GOOGLE_API_KEY:
         print("❌ API 키가 없습니다.")
         return None
     
     genai.configure(api_key=GOOGLE_API_KEY)
-    print("🔍 [시스템 점검] 사용 가능한 모델 탐색 중...")
     
+    print("🔍 [시스템 점검] 현재 API 키로 사용 가능한 모델 목록:")
     available_models = []
+    target_model = None
+    
     try:
         for m in genai.list_models():
             if 'generateContent' in m.supported_generation_methods:
+                print(f" - {m.name}")
                 available_models.append(m.name)
         
-        target_model = None
+        # 1순위: 1.5-flash (가성비 최강)
         if 'models/gemini-1.5-flash' in available_models:
             target_model = 'gemini-1.5-flash'
-        elif 'models/gemini-2.0-flash' in available_models:
-            target_model = 'gemini-2.0-flash'
+        # 2순위: 1.0-pro (안정성)
         elif 'models/gemini-pro' in available_models:
             target_model = 'gemini-pro'
+        # 3순위: 아무거나 되는 거 (비상용)
         elif available_models:
             target_model = available_models[0].replace('models/', '')
             
@@ -47,16 +49,15 @@ def get_available_model():
             print(f"✅ [연결 성공] 선택된 모델: {target_model}")
             return genai.GenerativeModel(target_model)
         else:
-            print("❌ [오류] 사용 가능한 모델이 없습니다.")
+            print("❌ [치명적 오류] 사용 가능한 모델이 하나도 없습니다! (API 키 권한 확인 필요)")
             return None
+            
     except Exception as e:
         print(f"❌ 모델 목록 조회 실패: {e}")
         return None
 
-# 전역 변수로 모델 설정
+# 전역 변수로 모델 설정 (실행 시점에 결정)
 model = get_available_model()
-
-# --- 유틸리티 함수 ---
 
 def load_processed_links():
     if os.path.exists(DB_FILE):
@@ -72,7 +73,7 @@ def send_alert_discord(title, summary, reason, link, category):
     try:
         color = 0xFF0000 
         data = {
-            "username": "리스크 감시 봇",
+            "username": "대구·경북 리스크 감시 봇",
             "embeds": [{
                 "title": f"🚨 [{category}] 주요 소식 감지",
                 "description": f"**{title}**",
@@ -82,7 +83,7 @@ def send_alert_discord(title, summary, reason, link, category):
                     {"name": "💡 판단 근거", "value": reason, "inline": False},
                     {"name": "🔗 링크", "value": f"[기사 원문 보기]({link})", "inline": False}
                 ],
-                "footer": {"text": "Risk Monitor • Urgent Alert"}
+                "footer": {"text": "DG Risk Monitor • Urgent Alert"}
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
@@ -90,54 +91,56 @@ def send_alert_discord(title, summary, reason, link, category):
         pass
 
 def send_status_report(logs):
-    if not logs: return
-    
-    alert_count = sum(1 for log in logs if log['status'] == 'ALERT')
-    pass_count = len(logs) - alert_count
-    
-    if alert_count == 0:
-        title = f"🟢 특이사항 없음 (일반 {pass_count}건)"
-        description = f"총 **{pass_count}**건의 뉴스가 감지되었으나,\n설정된 **주요 리스크**는 발견되지 않았습니다.\n\n"
-        description += "**[감지된 기사 예시]**\n"
-        for log in logs[:5]:
-            short_title = log['title'][:30] + ".." if len(log['title']) > 30 else log['title']
-            description += f"• {short_title}\n"
-        color = 0x2ecc71 
+    if not logs:
+        # 데이터 없음 (에러 상황 포함)
+        pass 
     else:
-        title = f"🚨 이슈 점검 보고 ({alert_count}건 감지)"
-        description = f"총 **{len(logs)}**건 중 **{alert_count}**건의 주요 이슈가 식별되었습니다.\n\n"
-        for log in logs:
-            if log['status'] == 'ALERT':
-                description += f"🔥 **{log['title']}**\n→ {log['reason']}\n\n"
-        color = 0xe74c3c 
+        alert_count = sum(1 for log in logs if log['status'] == 'ALERT')
+        pass_count = len(logs) - alert_count
+        
+        if alert_count == 0:
+            title = f"🟢 특이사항 없음 (일반 {pass_count}건)"
+            description = f"총 **{pass_count}**건의 일반 뉴스가 감지되었으나,\n설정된 **주요 리스크**는 발견되지 않았습니다.\n\n"
+            description += "**[감지된 기사 예시]**\n"
+            for log in logs[:5]:
+                short_title = log['title'][:30] + ".." if len(log['title']) > 30 else log['title']
+                description += f"• {short_title}\n"
+            color = 0x2ecc71 
+        else:
+            title = f"🚨 이슈 점검 보고 ({alert_count}건 감지)"
+            description = f"총 **{len(logs)}**건 중 **{alert_count}**건의 주요 이슈가 식별되었습니다.\n\n"
+            for log in logs:
+                if log['status'] == 'ALERT':
+                    description += f"🔥 **{log['title']}**\n→ {log['reason']}\n\n"
+            color = 0xe74c3c 
 
-    try:
-        data = {
-            "username": "감시 봇 보고",
-            "embeds": [{
-                "title": title,
-                "description": description,
-                "color": color,
-                "footer": {"text": f"Reported at {datetime.now().strftime('%H:%M')} • 1hr Cycle"}
-            }]
-        }
-        requests.post(DISCORD_WEBHOOK_URL, json=data)
-    except:
-        pass
+        try:
+            data = {
+                "username": "대구·경북 감시 봇",
+                "embeds": [{
+                    "title": title,
+                    "description": description,
+                    "color": color,
+                    "footer": {"text": f"Reported at {datetime.now().strftime('%H:%M')} • 30min Cycle"}
+                }]
+            }
+            requests.post(DISCORD_WEBHOOK_URL, json=data)
+        except:
+            pass
 
 def is_recent_news(pubDate_str):
     try:
         news_date = parsedate_to_datetime(pubDate_str)
         now = datetime.now(news_date.tzinfo)
         diff = now - news_date
-        return diff <= timedelta(minutes=65)
+        return diff <= timedelta(minutes=60)
     except:
         return False
 
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    params = {"query": keyword, "display": 5, "sort": "date"} 
+    params = {"query": keyword, "display": 15, "sort": "date"}
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
     except:
@@ -158,66 +161,51 @@ def scrape_article(url):
         return None
 
 def analyze_with_ai(title, content):
-    if not model: return None 
+    if not model: return None # 모델 연결 실패 시 중단
     
-    # 국세청 이슈 포함 프롬프트
     prompt = f"""
     기사 제목: {title}
     기사 본문: {content[:800]}
 
-    [판단 기준: is_risk = true 조건]
-    기사가 아래 A 또는 B 중 하나에 해당하면 true로 판단하라.
+    [분석 목표]
+    대구·경북 지역의 '기업 사건사고'와 '경·검찰 인사' 소식을 분류하라.
 
-    A. 대구·경북 지역 리스크:
-       - 내용이 '대구' 또는 '경북' 지역과 관련될 것.
-       - 주제: 공장/기업 화재, 폭발, 사망사고, 산재, 횡령, 배임, 부도, 구속, 수사기관(경/검) 인사 등.
-    
-    B. 국세청(전국/지방청) 중대 이슈:
-       - 내용이 '국세청' 또는 '세무서'와 관련될 것.
-       - 주제: 직원 자살, 감사원 감사, 압수수색, 뇌물/비리, 구속, 중대 징계.
-       - (제외: 단순 세금 신고 안내, 연말정산 홍보, 정책 설명은 false)
+    [판단 기준: is_risk = true 조건]
+    1. 필수 지역 조건: 내용이 '대구' 또는 '경북(경상북도)' 관련일 것.
+    2. 타겟 주제:
+       A. 기업 및 재난 리스크: 화재, 폭발, 붕괴, 사망, 산재, 횡령, 배임, 부도, 구속, 비리, 세무조사
+       B. 수사기관 인사: 경찰/검찰 관련 인사 (일반 공무원 X)
 
     JSON 포맷 응답:
     {{ "is_risk": true/false, "category": "", "reason": "" }}
     """
     
-    safety = {
-        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
-        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
-        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
-        HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
-    }
-
-    max_retries = 1
-    # [수정] 들여쓰기 에러 해결된 구간
-    for attempt in range(max_retries + 1):
-        try:
-            response = model.generate_content(
-                prompt, 
-                safety_settings=safety,
-                generation_config={"response_mime_type": "application/json"}
-            )
-            return json.loads(response.text)
-
-        except Exception as e:
-            error_msg = str(e)
-            if "429" in error_msg or "quota" in error_msg.lower():
-                if attempt < max_retries:
-                    # [수정] Syntax Error 해결 (줄바꿈 없이 한 줄로 작성)
-                    print(f"⏳ 속도 제한 감지! 20초 대기 후 재시도... ({attempt+1}/{max_retries})")
-                    time.sleep(20)
-                    continue
-            print(f"❌ 분석 실패: {e}")
-            return None
-    return None
+    try:
+        safety = {
+            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+        }
+        
+        response = model.generate_content(
+            prompt, 
+            safety_settings=safety,
+            generation_config={"response_mime_type": "application/json"}
+        )
+        return json.loads(response.text)
+    except Exception as e:
+        print(f"❌ AI 분석 에러: {e}")
+        return None
 
 def main():
-    print("☁️ 통합 리스크 감시 봇 시작")
+    print("☁️ 대구·경북 심층 감시 시작")
     processed_links = load_processed_links()
     execution_logs = []
     
+    # 모델이 없으면 아예 시작하지 않음
     if not model:
-        print("🛑 모델 설정 실패로 종료")
+        print("🛑 모델 초기화 실패로 프로그램을 종료합니다.")
         return
 
     for keyword in KEYWORDS:
@@ -250,9 +238,7 @@ def main():
                         send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
                     
                     save_processed_link(link)
-                    
-                    print("⏳ 15초 대기 중...")
-                    time.sleep(15) 
+                    time.sleep(2) # API 호출 간격 조금 더 여유있게
                 else:
                     print("❌ AI 응답 없음")
             
