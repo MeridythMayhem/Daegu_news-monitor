@@ -5,8 +5,8 @@ import json
 import os
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
-from google import genai # [변경] 신형 라이브러리 임포트
-from google.genai import types # [변경] 타입 설정용
+from google import genai # [핵심] 여기가 다릅니다! 신형 라이브러리
+from google.genai import types 
 from difflib import SequenceMatcher
 
 # =========================================================
@@ -20,14 +20,14 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 KEYWORDS = ["대구", "경북", "국세청", "검찰 인사", "경찰 인사"]
 
 # =========================================================
-# [2] AI 클라이언트 연결 (신형 방식)
+# [2] AI 클라이언트 연결 (신형 방식 v1.0)
 # =========================================================
 def get_ai_client():
     if not GOOGLE_API_KEY:
         print("❌ API 키 누락")
         return None
     try:
-        # [변경] 신형 클라이언트 초기화 방식
+        # 구버전(generativeai) 아님! 신버전(genai.Client) 사용
         client = genai.Client(api_key=GOOGLE_API_KEY)
         return client
     except Exception as e:
@@ -156,7 +156,7 @@ def analyze_with_ai(title, content):
     """
     
     try:
-        # [변경] 신형 API 호출 방식 (models.generate_content)
+        # [핵심] 신형 SDK 호출 방식 (models.generate_content)
         response = client.models.generate_content(
             model='gemini-1.5-flash',
             contents=prompt,
@@ -181,7 +181,7 @@ def main():
     if not client:
         print("🛑 실행 중단: AI 클라이언트 연결 실패")
         try:
-            requests.post(DISCORD_WEBHOOK_URL, json={"content": "⚠️ [치명적 오류] AI SDK 연결 실패. 봇 점검 필요."})
+            requests.post(DISCORD_WEBHOOK_URL, json={"content": "⚠️ [오류] AI 연결 실패. 코드 업데이트 필요."})
         except: pass
         return
 
