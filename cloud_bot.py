@@ -5,7 +5,8 @@ import json
 import os
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
-import google.generativeai as genai
+from google import genai # [변경] 신형 라이브러리 임포트
+from google.genai import types # [변경] 타입 설정용
 from difflib import SequenceMatcher
 
 # =========================================================
@@ -19,36 +20,21 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 KEYWORDS = ["대구", "경북", "국세청", "검찰 인사", "경찰 인사"]
 
 # =========================================================
-# [2] AI 모델 연결 (안정성 강화)
+# [2] AI 클라이언트 연결 (신형 방식)
 # =========================================================
-def get_available_model():
+def get_ai_client():
     if not GOOGLE_API_KEY:
         print("❌ API 키 누락")
         return None
-    genai.configure(api_key=GOOGLE_API_KEY)
-    
-    # 여러 모델명을 순서대로 시도 (Flash -> Pro 순)
-    models_to_try = [
-        'gemini-1.5-flash',
-        'gemini-1.5-flash-latest', 
-        'gemini-1.5-pro',
-        'gemini-pro'
-    ]
-    
-    for model_name in models_to_try:
-        try:
-            model = genai.GenerativeModel(model_name)
-            # 테스트 호출로 실제 작동 확인
-            model.generate_content("test")
-            print(f"✅ 모델 연결 성공: {model_name}")
-            return model
-        except Exception as e:
-            continue
-            
-    print("❌ 모든 AI 모델 연결 실패 (404/Quota Error)")
-    return None
+    try:
+        # [변경] 신형 클라이언트 초기화 방식
+        client = genai.Client(api_key=GOOGLE_API_KEY)
+        return client
+    except Exception as e:
+        print(f"❌ 클라이언트 연결 실패: {e}")
+        return None
 
-model = get_available_model()
+client = get_ai_client()
 
 # =========================================================
 # [3] 유틸리티
@@ -69,7 +55,7 @@ def send_alert_discord(title, summary, reason, link, category):
                     {"name": "💡 판단 근거", "value": reason, "inline": False},
                     {"name": "🔗 링크", "value": f"[기사 원문]({link})", "inline": True}
                 ],
-                "footer": {"text": "AI Full-Scan System"}
+                "footer": {"text": "Google GenAI SDK v1.0"}
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
@@ -96,7 +82,6 @@ def send_hourly_report(logs, duplicate_content_count):
     if error_count > 0:
         desc += f"\n⚠️ **{error_count}건**의 기사는 AI 오류로 분석하지 못했습니다."
 
-    # AI가 무슨 기사를 읽었는지 확인 (상위 5개)
     if total > 0:
         desc += "\n\n**[최근 확인 내역]**\n"
         for log in logs[:5]:
@@ -115,10 +100,9 @@ def send_hourly_report(logs, duplicate_content_count):
         pass
 
 # =========================================================
-# [4] 분석 로직 (필터링 강화)
+# [4] 분석 로직
 # =========================================================
 
-# 스팸성 기사 필터링 (토큰 절약)
 def is_spam_news(title):
     spam_keywords = [
         "날씨", "기상", "비소식", "눈소식", "최저기온", "미세먼지",
@@ -149,13 +133,14 @@ def scrape_article(url):
         return None
 
 def analyze_with_ai(title, content):
-    if not model: return None
+    if not client: return None
     
     prompt = f"""
     기사 제목: {title}
     기사 본문(요약): {content[:700]}
 
     당신은 '리스크 모니터링 요원'입니다. 아래 3가지 카테고리에 해당하는지 엄격하게 분석하세요.
+    JSON 형식으로만 응답하세요.
     
     [감시 대상]
     1. 지역 재난/경제범죄: '대구/경북' 지역 내의 기업 사고, 재해, 횡령, 배임, 부도, 탈세 등
@@ -171,14 +156,21 @@ def analyze_with_ai(title, content):
     """
     
     try:
-        response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
+        # [변경] 신형 API 호출 방식 (models.generate_content)
+        response = client.models.generate_content(
+            model='gemini-1.5-flash',
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json"
+            )
+        )
         return json.loads(response.text)
     except Exception as e:
         print(f"AI 호출 에러: {e}")
         return None
 
 def main():
-    print("☁️ AI Full-Scan 모드 시작...")
+    print("☁️ AI Full-Scan 모드 시작 (New SDK)...")
     execution_logs = []
     duplicate_content_count = 0
     recent_risk_titles = []
@@ -186,11 +178,10 @@ def main():
     time_threshold = datetime.now() - timedelta(minutes=70)
     processed_urls = set()
 
-    if not model:
-        print("🛑 실행 중단: AI 모델 연결 실패")
-        # 실패했다는 알림을 디스코드에 한 번 보내주는 센스
+    if not client:
+        print("🛑 실행 중단: AI 클라이언트 연결 실패")
         try:
-            requests.post(DISCORD_WEBHOOK_URL, json={"content": "⚠️ [치명적 오류] AI 모델 연결에 실패하여 모니터링을 수행하지 못했습니다."})
+            requests.post(DISCORD_WEBHOOK_URL, json={"content": "⚠️ [치명적 오류] AI SDK 연결 실패. 봇 점검 필요."})
         except: pass
         return
 
@@ -218,20 +209,16 @@ def main():
 
             print(f"🧠 분석 중: {title}")
             
-            # [수정됨] AI 분석 결과 처리 로직 (에러 핸들링 추가)
             result = analyze_with_ai(title, content)
             
-            # 기본값
             log_entry = {"title": title, "status": "PASS", "category": "일반", "reason": "안전함"}
 
             if result is None:
-                # 💥 AI가 에러를 뱉었을 때 (중요!)
                 log_entry['status'] = "ERROR"
-                log_entry['reason'] = "AI 모델 응답 없음"
-                print(f"   └ ⚠️ 분석 실패 (API 오류)")
+                log_entry['reason'] = "AI 응답 오류"
+                print(f"   └ ⚠️ 분석 실패")
             
             elif result.get('is_risk'):
-                # 🚨 위험 감지 시
                 is_duplicate = False
                 for past_title in recent_risk_titles:
                     if get_similarity(title, past_title) > 0.6:
@@ -252,12 +239,9 @@ def main():
                     send_alert_discord(title, "AI 정밀 감지", result['reason'], link, result['category'])
             
             else:
-                # 안전한 경우
                 log_entry['reason'] = result.get('reason', '특이사항 없음')
 
             execution_logs.append(log_entry)
-            
-            # 무료 티어 제한(RPM 15) 준수
             time.sleep(4) 
 
     send_hourly_report(execution_logs, duplicate_content_count)
