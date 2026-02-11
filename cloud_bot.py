@@ -238,7 +238,8 @@ def main():
                         send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
                     
                     save_processed_link(link)
-                    time.sleep(2) # API 호출 간격 조금 더 여유있게
+                    print("⏳ 속도 제한 준수를 위해 15초 대기 중...")
+                    time.sleep(15) # 1분에 4번만 요청하도록 안전하게 변경
                 else:
                     print("❌ AI 응답 없음")
             
