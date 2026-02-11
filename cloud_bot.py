@@ -59,7 +59,7 @@ def send_alert_discord(title, summary, reason, link, category):
     except:
         pass
 
-# [디스코드] 1시간 정기 보고 (사용자 원본 기능 복구 완료)
+# [디스코드] 1시간 정기 보고
 def send_hourly_report(logs, duplicate_content_count):
     total_scanned = len(logs)
     risk_alerts = [l for l in logs if l['status'] == 'ALERT']
@@ -73,14 +73,14 @@ def send_hourly_report(logs, duplicate_content_count):
     exclusion_msg = "\n".join(msg_parts)
     if exclusion_msg: exclusion_msg = "\n\n(참고)\n" + exclusion_msg
 
-    # 1. 이슈 없음 (여기에 읽은 기사 목록 표시 기능 복구)
+    # 1. 이슈 없음
     if risk_count == 0:
         title = "🟢 정기 보고 (특이사항 없음)"
         if total_scanned == 0:
             description = f"지난 1시간 동안 새로운 기사가 없습니다.{exclusion_msg}"
         else:
             description = f"새로운 기사 **{total_scanned}**건을 확인했으나 위험 요소는 없습니다.{exclusion_msg}\n\n**[확인한 주요 기사]**\n"
-            # 로그에서 최대 5개까지만 보여줌 (너무 길어짐 방지)
+            # 로그에서 최대 5개까지만 보여줌
             for log in logs[:5]:
                 description += f"• {log['title'][:40]}...\n"
         color = 0x2ecc71
@@ -111,7 +111,6 @@ def send_hourly_report(logs, duplicate_content_count):
 # [4] 분석 로직
 # =========================================================
 
-# [수정] 3번 요구사항(경찰/검찰 인사)을 잡기 위해 키워드 추가됨
 def is_suspicious_title(title):
     risk_keywords = [
         # 사고/재난
@@ -120,7 +119,7 @@ def is_suspicious_title(title):
         "구속", "체포", "입건", "송치", "압수수색", "비리", "횡령", "배임", "뇌물", "도박", "마약", "성범죄", "폭행", "살인",
         # 경제/기업 위기
         "부도", "파산", "해고", "폐업", "법정관리", "워크아웃", "임금체불", "세무조사", "탈세", "추징",
-        # 사법/행정 및 **인사(추가됨)**
+        # 사법/행정 및 인사
         "검찰", "경찰", "수사", "법원", "징역", "선고", "재판", "기소", "징계", "감사", "적발", "의혹", "논란", "위기",
         "인사", "전보", "발령", "승진", "청장", "서장", "과장", "검사" 
     ]
@@ -129,7 +128,6 @@ def is_suspicious_title(title):
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    # 깃허브 액션 환경을 고려해 display를 조금 늘리고 날짜순 정렬
     params = {"query": keyword, "display": 30, "sort": "date"}
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
@@ -138,7 +136,6 @@ def search_naver_news(keyword):
 
 def scrape_article(url):
     try:
-        # 네이버 뉴스 도메인이 아니면 스킵 (일반 언론사 사이트는 구조가 달라 에러 발생 확률 높음)
         if "news.naver.com" not in url:
             return None
         headers = {'User-Agent': 'Mozilla/5.0'}
@@ -179,9 +176,9 @@ def main():
     duplicate_content_count = 0 
     recent_risk_titles = []
 
-    # 깃허브 액션용 시간 필터 (최근 70분) - 파일 저장 대신 사용
+    # 깃허브 액션용 시간 필터 (최근 70분)
     time_threshold = datetime.now() - timedelta(minutes=70)
-    processed_urls_in_session = set() # 이번 실행에서 중복 체크용
+    processed_urls_in_session = set() 
 
     if not model:
         print("🛑 모델 에러: API 키를 확인하세요.")
@@ -194,24 +191,17 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
-            # 1. URL 중복 체크 (이번 세션)
+            # 1. URL 중복 체크
             if link in processed_urls_in_session: continue
             processed_urls_in_session.add(link)
 
-            # 2. 날짜 체크 (깃허브 액션 대응: 파일 대신 시간으로 체크)
+            # 2. 날짜 체크
             try:
-                # 네이버 날짜 포맷 파싱 및 타임존 제거
                 pub_date = parsedate_to_datetime(art['pubDate']).replace(tzinfo=None)
                 if pub_date < time_threshold: continue
             except: continue
 
-            # 3. 키워드 필터 (제목에 위험 단어 없으면 패스)
-            if not is_suspicious_title(title):
-                continue
-            
-            print(f"🔍 AI 분석 요청: {title}")
-            
-            # 로그 초기화 (기본값: 안전함)
+            # [수정] 로그 엔트리 미리 생성
             log_entry = {
                 "title": title,
                 "status": "PASS",
@@ -219,6 +209,14 @@ def main():
                 "reason": "특이사항 없음"
             }
 
+            # 3. 키워드 필터
+            if not is_suspicious_title(title):
+                # 키워드가 없어도 로그에 저장하고 넘김 (보고서 포함용)
+                execution_logs.append(log_entry)
+                continue
+            
+            print(f"🔍 AI 분석 요청: {title}")
+            
             content = scrape_article(link)
             
             if content:
@@ -250,12 +248,12 @@ def main():
                     else:
                         log_entry['reason'] = "AI 분석 결과 안전함"
                 
-                # 분석한 기사는 무조건 로그에 추가 (보고서용)
+                # 분석 마친 기사 로그 저장
                 execution_logs.append(log_entry)
             
             time.sleep(1)
 
-    # [복구된 기능] 정기 보고 전송 (로그 전체를 넘김)
+    # [디스코드] 정기 보고 전송
     send_hourly_report(execution_logs, duplicate_content_count)
     print("✅ 실행 완료")
 
