@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
+from difflib import SequenceMatcher # [추가] 텍스트 유사도 비교 도구
 
 # =========================================================
 # [1] 환경변수 및 설정
@@ -16,13 +17,11 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
-# 감시할 키워드 목록
 KEYWORDS = ["대구", "경북", "경상북도", "국세청"]
-# 이미 처리한 기사 링크를 저장할 파일명
 DB_FILE = "processed_links.txt"
 
 # =========================================================
-# [2] AI 모델 연결 (무료/유료 자동 선택)
+# [2] AI 모델 연결
 # =========================================================
 def get_available_model():
     if not GOOGLE_API_KEY:
@@ -31,16 +30,14 @@ def get_available_model():
     
     genai.configure(api_key=GOOGLE_API_KEY)
     try:
-        # 1.5-flash 모델이 가장 빠르고 무료 할당량이 넉넉함
         return genai.GenerativeModel('gemini-1.5-flash')
     except:
-        # 실패 시 구형 pro 모델 시도
         return genai.GenerativeModel('gemini-pro')
 
 model = get_available_model()
 
 # =========================================================
-# [3] 파일 저장 및 디스코드 알림 함수
+# [3] 유틸리티 (파일 저장, 유사도 검사 등)
 # =========================================================
 def load_processed_links():
     if os.path.exists(DB_FILE):
@@ -52,7 +49,11 @@ def save_processed_link(link):
     with open(DB_FILE, "a") as f:
         f.write(link + "\n")
 
-# [즉시 알림] 위험한 기사 발견 시 바로 발송
+# [신규 기능] 두 문장의 유사도를 0~1 사이 숫자로 반환 (1에 가까울수록 같음)
+def get_similarity(a, b):
+    return SequenceMatcher(None, a, b).ratio()
+
+# [디스코드] 즉시 알림
 def send_alert_discord(title, summary, reason, link, category):
     try:
         data = {
@@ -60,7 +61,7 @@ def send_alert_discord(title, summary, reason, link, category):
             "embeds": [{
                 "title": f"🚨 [{category}] 긴급 이슈 감지",
                 "description": f"**{title}**",
-                "color": 0xFF0000, # 빨간색
+                "color": 0xFF0000, 
                 "fields": [
                     {"name": "📝 요약", "value": summary, "inline": False},
                     {"name": "💡 판단 근거", "value": reason, "inline": False},
@@ -73,46 +74,40 @@ def send_alert_discord(title, summary, reason, link, category):
     except:
         pass
 
-# [정기 보고] 프로그램 종료 전 요약본 발송
-def send_hourly_report(logs, duplicate_count):
-    total_new_count = len(logs)
-    risk_count = sum(1 for log in logs if log['status'] == 'ALERT')
-    safe_count = total_new_count - risk_count
+# [디스코드] 1시간 정기 보고 (내용 중복 카운트 추가)
+def send_hourly_report(logs, duplicate_link_count, duplicate_content_count):
+    total_scanned = len(logs)
+    risk_alerts = [l for l in logs if l['status'] == 'ALERT']
+    risk_count = len(risk_alerts)
     
-    # 중복 안내 문구 (중복이 있을 때만 표시)
-    dup_msg = f"\n(※ 이전에 처리된 중복 기사 **{duplicate_count}**건은 자동 제외됨)" if duplicate_count > 0 else ""
-
-    # 케이스 1: 새로운 기사가 아예 없을 때
-    if total_new_count == 0:
-        title = "💤 새로운 뉴스 없음"
-        description = f"지난 1시간 동안 새로운 기사가 없습니다.{dup_msg}"
-        color = 0x95a5a6 # 회색
+    # 보고서 멘트 조합
+    msg_parts = []
+    if duplicate_link_count > 0:
+        msg_parts.append(f"• 이미 본 링크 제외: **{duplicate_link_count}**건")
+    if duplicate_content_count > 0:
+        msg_parts.append(f"• 내용 중복(도배) 제외: **{duplicate_content_count}**건")
     
-    # 케이스 2: 새로운 기사는 있는데 위험한 건 없을 때
-    elif risk_count == 0:
-        title = f"🟢 정기 보고 (특이사항 없음)"
-        description = f"새로운 뉴스 **{safe_count}**건이 감지되었으나, 리스크는 없습니다.{dup_msg}\n\n**[주요 뉴스 헤드라인]**\n"
-        
-        # 안전한 기사 제목 최대 10개 나열
-        for i, log in enumerate(logs[:10]):
-            safe_title = log['title'][:40] + ".." if len(log['title']) > 40 else log['title']
-            description += f"• {safe_title}\n"
-            
-        if len(logs) > 10:
-            description += f"\n외 {len(logs)-10}건..."
-            
-        color = 0x2ecc71 # 초록색
+    exclusion_msg = "\n".join(msg_parts)
+    if exclusion_msg: exclusion_msg = "\n\n(참고)\n" + exclusion_msg
 
-    # 케이스 3: 위험한 기사가 있었을 때
+    # 1. 이슈 없음
+    if risk_count == 0:
+        title = "🟢 정기 보고 (특이사항 없음)"
+        if total_scanned == 0:
+            description = f"지난 1시간 동안 새로운 기사가 없습니다.{exclusion_msg}"
+        else:
+            description = f"새로운 기사 **{total_scanned}**건을 확인했으나 위험 요소는 없습니다.{exclusion_msg}\n\n**[주요 기사]**\n"
+            for log in logs[:5]:
+                description += f"• {log['title'][:40]}\n"
+        color = 0x2ecc71
+
+    # 2. 이슈 있음
     else:
         title = f"🚨 정기 보고 (리스크 {risk_count}건 감지)"
-        description = f"새로운 뉴스 **{total_new_count}**건 중 **{risk_count}**건의 이슈가 처리되었습니다.{dup_msg}\n\n**[일반 뉴스 요약]**\n"
-        
-        safe_logs = [l for l in logs if l['status'] == 'PASS']
-        for log in safe_logs[:5]:
-            description += f"• {log['title']}\n"
-            
-        color = 0xe74c3c # 붉은색
+        description = f"총 **{total_scanned}**건 중 **{risk_count}**건의 중요 이슈를 처리했습니다.{exclusion_msg}\n\n**[감지된 이슈]**\n"
+        for log in risk_alerts:
+            description += f"🔥 {log['title']}\n"
+        color = 0xe74c3c
 
     try:
         data = {
@@ -121,7 +116,7 @@ def send_hourly_report(logs, duplicate_count):
                 "title": title,
                 "description": description,
                 "color": color,
-                "footer": {"text": f"Reported at {datetime.now().strftime('%H:%M')} • Hourly Check"}
+                "footer": {"text": f"Reported at {datetime.now().strftime('%H:%M')}"}
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
@@ -132,23 +127,25 @@ def is_recent_news(pubDate_str):
     try:
         news_date = parsedate_to_datetime(pubDate_str)
         now = datetime.now(news_date.tzinfo)
-        # 1시간 10분 전 기사까지 허용 (검색 누락 방지용 여유분)
-        diff = now - news_date
         return diff <= timedelta(minutes=70)
     except:
         return False
 
 # =========================================================
-# [4] 뉴스 수집 및 AI 분석 로직
+# [4] 분석 로직 (필터 확장 및 유사도 적용)
 # =========================================================
 
-# [중요] API 절약을 위한 1차 필터링 (제목에 위험 단어가 없으면 AI 사용 안 함)
+# [업그레이드] 키워드 대폭 추가 (구멍 메우기)
 def is_suspicious_title(title):
     risk_keywords = [
-        "화재", "폭발", "붕괴", "사망", "숨진", "변사", "추락", 
-        "구속", "체포", "입건", "송치", "압수수색", "비리", "횡령", 
-        "부도", "파산", "해고", "검찰", "경찰", "수사", "법원", "징역",
-        "산재", "중대재해", "폭로", "의혹", "논란", "위기", "세무조사", "탈세"
+        # 사고/재난
+        "화재", "폭발", "붕괴", "사망", "숨진", "변사", "추락", "산재", "중대재해", "응급", "대피", "고립", "침수",
+        # 범죄/수사
+        "구속", "체포", "입건", "송치", "압수수색", "비리", "횡령", "배임", "뇌물", "도박", "마약", "성범죄", "폭행", "살인",
+        # 경제/기업 위기
+        "부도", "파산", "해고", "폐업", "법정관리", "워크아웃", "임금체불", "세무조사", "탈세", "추징",
+        # 사법/행정
+        "검찰", "경찰", "수사", "법원", "징역", "선고", "재판", "기소", "징계", "감사", "적발", "의혹", "논란", "위기"
     ]
     return any(keyword in title for keyword in risk_keywords)
 
@@ -173,27 +170,23 @@ def scrape_article(url):
 
 def analyze_with_ai(title, content):
     if not model: return None
-    
-    # 1. 제목 필터링: 위험 단어 없으면 AI 분석 생략 (비용 절약)
-    if not is_suspicious_title(title):
-        return None 
+    if not is_suspicious_title(title): return None 
 
     prompt = f"""
     기사 제목: {title}
     기사 본문: {content[:800]}
 
     [분석 목표]
-    대구·경북 지역의 '기업 사건사고', '경·검찰 인사', '국세청 이슈'를 분류하라.
+    대구·경북 지역의 '기업 사건사고', '경·검찰 인사/수사', '국세청 이슈'를 분류하라.
 
     [판단 기준: is_risk = true]
     1. 지역: 대구, 경북 관련 (국세청 키워드는 지역 무관하게 체크 가능하면 체크)
-    2. 주제: 화재, 사망, 구속, 비리, 세무조사, 횡령, 부도, 경찰/검찰 인사 등 부정적 이슈.
+    2. 주제: 부정적 이슈 전반 (사고, 범죄, 수사, 재판, 경제위기, 비리 등)
 
     JSON 포맷 응답:
     {{ "is_risk": true/false, "category": "", "reason": "" }}
     """
     
-    # 2. 에러 발생 시 재시도 (429 Quota Exceeded 방지)
     max_retries = 3
     for attempt in range(max_retries):
         try:
@@ -201,7 +194,7 @@ def analyze_with_ai(title, content):
             return json.loads(response.text)
         except Exception as e:
             if "429" in str(e):
-                time.sleep(60) # 1분 대기 후 재시도
+                time.sleep(60)
                 continue
             return None
     return None
@@ -209,11 +202,17 @@ def analyze_with_ai(title, content):
 def main():
     print("☁️ 감시 봇 작동 시작...")
     processed_links = load_processed_links()
-    execution_logs = []  # 이번 실행에서 처리한 뉴스 목록
-    duplicate_count = 0  # 중복 기사 카운트 변수
+    execution_logs = []  
     
+    # 카운팅 변수들
+    duplicate_link_count = 0    # 아예 똑같은 링크 (완전 중복)
+    duplicate_content_count = 0 # 링크는 다른데 내용은 같은 기사 (도배 방지)
+    
+    # 이번 실행 주기 동안 발견된 '위험 기사 제목'들을 기억하는 리스트
+    recent_risk_titles = []
+
     if not model:
-        print("🛑 모델 에러: 프로그램을 종료합니다.")
+        print("🛑 모델 에러")
         return
 
     for keyword in KEYWORDS:
@@ -223,18 +222,20 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
-            # [중복 체크] 이미 본 뉴스면 숫자만 세고 넘어감
+            # 1. 완전 중복(링크) 체크
             if link in processed_links:
-                duplicate_count += 1
+                duplicate_link_count += 1
                 continue
 
-            # [날짜/도메인 체크] 너무 옛날 기사거나 네이버 뉴스 아니면 패스
-            if not is_recent_news(art['pubDate']) or "news.naver.com" not in link:
-                continue 
+            # 2. 날짜/도메인 체크
+            try:
+                news_date = parsedate_to_datetime(art['pubDate'])
+                if (datetime.now(news_date.tzinfo) - news_date) > timedelta(minutes=70): continue
+            except: continue
+            if "news.naver.com" not in link: continue 
 
             print(f"🔍 확인 중: {title}")
             
-            # 로그 기록용 기본 데이터
             log_entry = {
                 "title": title,
                 "status": "PASS",
@@ -245,31 +246,43 @@ def main():
             content = scrape_article(link)
             
             if content:
-                # AI 분석 수행 (내부에서 제목 필터링 거침)
                 result = analyze_with_ai(title, content)
                 
                 if result:
-                    # AI가 분석 결과(위험/안전)를 내놓았을 때
                     if result.get('is_risk'):
-                        log_entry['status'] = "ALERT"
-                        log_entry['category'] = result.get('category')
-                        log_entry['reason'] = result.get('reason')
+                        # 🚨 여기서 [도배 방지] 로직 작동!
+                        # 방금 발견한 위험 기사들과 제목이 60% 이상 비슷하면 알림 스킵
+                        is_duplicate_content = False
+                        for past_title in recent_risk_titles:
+                            if get_similarity(title, past_title) > 0.6: # 60% 유사도
+                                is_duplicate_content = True
+                                break
                         
-                        print(f"🚨 이슈 발견: {title}")
-                        send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
-                        time.sleep(3) # 전송 후 잠시 대기
+                        if is_duplicate_content:
+                            print(f"🔇 [중복 이슈] 알림 생략: {title}")
+                            log_entry['status'] = "DUPLICATE_RISK" # 로그에는 남기되 알림은 안 보냄
+                            duplicate_content_count += 1
+                        else:
+                            # 진짜 새로운 위험 기사
+                            log_entry['status'] = "ALERT"
+                            log_entry['category'] = result.get('category')
+                            log_entry['reason'] = result.get('reason')
+                            recent_risk_titles.append(title) # 기억해둠
+                            
+                            print(f"🚨 이슈 발견: {title}")
+                            send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
+                            time.sleep(3)
                     else:
-                        log_entry['reason'] = "AI 정밀 분석 결과 안전함"
+                        log_entry['reason'] = "안전함"
                 
-                # 결과 저장 (위험하든 안전하든 기록)
                 execution_logs.append(log_entry)
-                save_processed_link(link)
+                save_processed_link(link) # 처리는 했으니 저장
             
-            time.sleep(1) # 크롤링 매너 (너무 빠르게 요청하지 않음)
+            time.sleep(1)
 
-    # 모든 처리가 끝나면 요약 보고서 전송
-    send_hourly_report(execution_logs, duplicate_count)
-    print(f"✅ 실행 완료 (신규: {len(execution_logs)}건, 중복제외: {duplicate_count}건)")
+    # 보고서 전송
+    send_hourly_report(execution_logs, duplicate_link_count, duplicate_content_count)
+    print("✅ 실행 완료")
 
 if __name__ == "__main__":
     main()
