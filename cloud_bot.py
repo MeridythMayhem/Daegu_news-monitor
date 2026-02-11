@@ -14,21 +14,20 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
-# [수정] '국세청' 키워드 복구 및 지역 키워드 유지
+# 2. 감시 설정 (국세청 포함)
 KEYWORDS = ["대구", "경북", "국세청"]
 DB_FILE = "processed_links.txt"
 
-# 모델 설정 (GitHub 환경 호환성 확보)
+# 3. 모델 자동 감지 함수
 def get_available_model():
     if not GOOGLE_API_KEY:
         print("❌ API 키가 없습니다.")
         return None
     
     genai.configure(api_key=GOOGLE_API_KEY)
-    
     print("🔍 [시스템 점검] 사용 가능한 모델 탐색 중...")
-    available_models = []
     
+    available_models = []
     try:
         for m in genai.list_models():
             if 'generateContent' in m.supported_generation_methods:
@@ -50,12 +49,14 @@ def get_available_model():
         else:
             print("❌ [오류] 사용 가능한 모델이 없습니다.")
             return None
-            
     except Exception as e:
         print(f"❌ 모델 목록 조회 실패: {e}")
         return None
 
+# 전역 변수로 모델 설정
 model = get_available_model()
+
+# --- 유틸리티 함수 ---
 
 def load_processed_links():
     if os.path.exists(DB_FILE):
@@ -159,7 +160,7 @@ def scrape_article(url):
 def analyze_with_ai(title, content):
     if not model: return None 
     
-    # [중요] 국세청 이슈를 포함하도록 프롬프트 수정
+    # 국세청 이슈 포함 프롬프트
     prompt = f"""
     기사 제목: {title}
     기사 본문: {content[:800]}
@@ -188,6 +189,7 @@ def analyze_with_ai(title, content):
     }
 
     max_retries = 1
+    # [수정] 들여쓰기 에러 해결된 구간
     for attempt in range(max_retries + 1):
         try:
             response = model.generate_content(
@@ -201,4 +203,62 @@ def analyze_with_ai(title, content):
             error_msg = str(e)
             if "429" in error_msg or "quota" in error_msg.lower():
                 if attempt < max_retries:
-                    print(f"⏳ 속도
+                    # [수정] Syntax Error 해결 (줄바꿈 없이 한 줄로 작성)
+                    print(f"⏳ 속도 제한 감지! 20초 대기 후 재시도... ({attempt+1}/{max_retries})")
+                    time.sleep(20)
+                    continue
+            print(f"❌ 분석 실패: {e}")
+            return None
+    return None
+
+def main():
+    print("☁️ 통합 리스크 감시 봇 시작")
+    processed_links = load_processed_links()
+    execution_logs = []
+    
+    if not model:
+        print("🛑 모델 설정 실패로 종료")
+        return
+
+    for keyword in KEYWORDS:
+        articles = search_naver_news(keyword)
+        
+        for art in articles:
+            title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
+            link = art['link']
+            
+            if link in processed_links or not is_recent_news(art['pubDate']) or "news.naver.com" not in link:
+                continue 
+
+            print(f"분석 시도: {title}")
+            content = scrape_article(link)
+            
+            if content:
+                result = analyze_with_ai(title, content)
+                
+                if result:
+                    status = "ALERT" if result.get('is_risk') else "PASS"
+                    execution_logs.append({
+                        "title": title,
+                        "status": status,
+                        "category": result.get('category', '일반'),
+                        "reason": result.get('reason', '내용 없음')
+                    })
+                    
+                    if status == "ALERT":
+                        print(f"🚨 이슈 발견: {title}")
+                        send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
+                    
+                    save_processed_link(link)
+                    
+                    print("⏳ 15초 대기 중...")
+                    time.sleep(15) 
+                else:
+                    print("❌ AI 응답 없음")
+            
+            time.sleep(1)
+
+    send_status_report(execution_logs)
+
+if __name__ == "__main__":
+    main()
