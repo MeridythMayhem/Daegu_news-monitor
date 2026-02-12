@@ -38,26 +38,33 @@ model = get_available_model()
 def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-# [수정됨] 절대적 기준에 의한 강제 만점 로직 (오탐지 방지 강화)
+# [수정됨] 절대적 기준 로직: "기업" 관련성이 확인되어야만 100점 부여
 def check_critical_patterns(title):
-    title = title.replace(" ", "") # 띄어쓰기 무시하고 검사
+    title = title.replace(" ", "") # 띄어쓰기 무시
     
-    # [0] 방어 로직 (Safe Guard): 이 단어들이 있으면 절대 100점 주지 않음
-    # 예: "화재 예방", "산불 감시", "활력 불어넣어" 등을 거르기 위함
+    # [0] 방어 로직 (Safe Guard)
     safe_guard_keywords = [
         "예방", "방지", "점검", "훈련", "모의", "감지", "대책", 
-        "설명회", "참관", "캠페인", "전통시장", "활력", "MOU", "협약"
+        "설명회", "참관", "캠페인", "전통시장", "활력", "MOU", "협약",
+        "임시주택", "요금", "폭탄", "논란", "지원", "성금", "기탁", 
+        "복구", "위로", "격려", "봉사", "전달", "나눔"
     ]
     if any(safe in title for safe in safe_guard_keywords):
         return 0, ""
 
-    # [1] 대구/경북 + 재난/사고
-    # 수정사항: '불' 키워드 삭제 (오탐지 원인), '숨진', '중상' 추가
-    if any(loc in title for loc in ["대구", "경북", "구미", "포항"]) and \
-       any(disaster in title for disaster in ["화재", "폭발", "사망", "숨져", "숨진", "붕괴", "산불", "중상"]):
-        return 100, "지역 내 재난/사고 발생 (강제필터)"
+    # [1] 대구/경북 기업 재난 (3단 조건: 지역 + 재난 + 기업)
+    # 수정: 단순히 화재가 났다고 잡는 게 아니라, '공장/기업/산단' 등 기업 키워드가 있어야 함
+    loc_condition = any(loc in title for loc in ["대구", "경북", "구미", "포항"])
+    
+    disaster_condition = any(d in title for d in ["화재", "폭발", "사망", "숨져", "숨진", "붕괴", "산불", "중상", "중대재해"])
+    
+    # [NEW] 기업 특정 키워드 (이게 없으면 일반 재난으로 취급하여 0점)
+    target_condition = any(t in title for t in ["공장", "기업", "업체", "산단", "공단", "사업장", "노동자", "근로자", "법인", "대표", "사옥", "본사"])
 
-    # [2] 국세청/세무서 + 강력 이슈
+    if loc_condition and disaster_condition and target_condition:
+        return 100, "지역 기업 내 재난/사고 발생 (강제필터)"
+
+    # [2] 국세청/세무서 + 강력 이슈 (여기는 기관 자체가 특정이므로 유지)
     if any(agency in title for agency in ["국세청", "세무서", "국세공무원"]) and \
        any(issue in title for issue in ["자살", "압수수색", "구속", "횡령", "비리", "체포", "사망"]):
         return 100, "국세청 핵심 리스크 (강제필터)"
@@ -69,7 +76,7 @@ def check_critical_patterns(title):
         
     return 0, ""
 
-# [파이썬 기본 점수] AI 미사용 시 순위 산정용
+# [파이썬 기본 점수]
 def calculate_basic_score(title):
     score = 0
     if any(k in title for k in ["대구", "경북", "국세청", "경찰", "검찰"]): score += 10
@@ -98,18 +105,15 @@ def send_alert_discord(title, summary, reason, link, category, score):
 
 # [디스코드] 정기 보고 전송
 def send_hourly_report(logs):
-    # 점수 높은 순 정렬
     sorted_logs = sorted(logs, key=lambda x: x.get('score', 0), reverse=True)
     high_risks = [l for l in sorted_logs if l.get('score', 0) >= 80 and l['status'] == 'ALERT']
     
-    # 80점 이상인 '새로운' 리스크가 있을 때만 빨간 보고서
     if high_risks:
         title = f"🚨 정기 보고 (주요 뉴스 {len(high_risks)}건)"
-        description = "설정하신 **절대 기준(화재, 자살, 인사 등)**에 부합하는 기사가 있습니다.\n\n"
+        description = "설정하신 **절대 기준(기업 재난, 자살, 인사)**에 부합하는 기사가 있습니다.\n\n"
         for log in high_risks:
             description += f"🔥 **[{log['score']}점]** {log['title']}\n└ {log['reason']}\n"
         color = 0xe74c3c
-    # 없으면 초록 보고서 (Top 7)
     else:
         title = "🟢 정기 보고 (특이사항 없음)"
         top_7 = sorted_logs[:7]
@@ -146,7 +150,6 @@ def search_naver_news(keyword):
 def scrape_article(url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
-        # 타임아웃을 5초로 약간 늘림
         response = requests.get(url, headers=headers, timeout=5)
         soup = BeautifulSoup(response.text, 'html.parser')
         content = soup.select_one('#dic_area') or soup.select_one('#articeBody') or soup.select_one('.go_trans._article_content')
@@ -156,29 +159,27 @@ def scrape_article(url):
 def analyze_with_ai(title, content, forced_score):
     if not model: return None
     
-    # 강제 점수가 있으면 AI에게 힌트 제공
     context_hint = ""
     if forced_score == 100:
-        context_hint = "※ 중요: 이 기사는 화재/자살/인사 등 핵심 키워드가 있어 무조건 중요 기사임."
+        context_hint = "※ 중요: 이 기사는 '기업 재난/공무원 비리/인사' 관련 핵심 키워드가 있어 무조건 중요 기사임."
 
-    # 프롬프트: 감점 기준 명시
     prompt = f"""
     [분석 요청]
     기사: {title}
     본문: {content[:600]}
     {context_hint}
 
-    다음 기준에 따라 점수(0~100)를 매우 엄격하게 매기시오.
+    다음 기준에 따라 점수(0~100)를 엄격하게 매기시오.
 
-    [🚨 100점 기준 (긴급/중요)]
-    1. 대구/경북 지역 공장 화재, 폭발, 사망사고, 붕괴
+    [🚨 100점 기준 (반드시 기업/기관 관련)]
+    1. 대구/경북 지역의 '공장, 기업, 산단, 업체'에서 발생한 화재, 폭발, 사망사고
     2. 국세청/세무서 내부 비리, 자살, 압수수색, 구속
-    3. 경찰/검찰 조직의 '인사', '전보', '승진', '발령' 명단 (사람 이름 포함)
+    3. 경찰/검찰 조직의 '인사', '전보', '승진' 명단
 
-    [⚠️ 30점 이하 기준 (일반 뉴스 - 절대 고득점 금지)]
-    1. 단순 사건 수사 뉴스: 송치, 불송치, 구형, 선고, 제동, 수사 착수, 고발 등
-    2. 검찰/경찰이 주어가 되더라도 '인사'가 아닌 '수사' 내용은 점수를 낮게 줄 것.
-    3. 단순 정책 홍보, 캠페인, MOU, 행사 개최, 예방 훈련
+    [⚠️ 0점 처리 기준]
+    1. 기업과 무관한 일반 가정집 화재, 단순 산불, 교통사고
+    2. 단순 사건 수사 진행 (송치, 불송치, 제동, 구형, 선고)
+    3. 정책 홍보, 지원금, 캠페인, 행사
 
     JSON 포맷 응답: {{ "score": 점수, "category": "카테고리", "reason": "이유 한 줄 요약" }}
     """
@@ -193,7 +194,6 @@ def main():
     processed_urls = set()
     recent_risk_titles = [] 
     
-    # 시간 필터: 70분 전 기사까지 확인
     time_threshold = datetime.now() - timedelta(minutes=70)
 
     if not model: 
@@ -213,7 +213,7 @@ def main():
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
-            # [1] 파이썬 강제 필터 (수정된 로직 적용됨)
+            # [1] 파이썬 강제 필터
             forced_score, forced_reason = check_critical_patterns(title)
             
             log_entry = {
@@ -223,7 +223,6 @@ def main():
             }
 
             # [2] AI 정밀 분석 조건
-            # 강제 점수가 100점이거나, 다른 의심 키워드가 있을 때 AI 호출
             suspicious_keywords = ["부도", "해고", "재판", "선고", "의혹", "논란", "위기", "제동", "송치"]
             needs_ai_check = forced_score == 100 or any(k in title for k in suspicious_keywords)
 
@@ -235,7 +234,6 @@ def main():
                     if result:
                         ai_score = result.get('score', 0)
                         
-                        # [핵심] 파이썬 점수 vs AI 점수 중 높은 것 채택
                         final_score = max(forced_score, ai_score)
                         
                         log_entry['score'] = final_score
@@ -245,7 +243,6 @@ def main():
                         if forced_score == 100:
                             log_entry['reason'] = f"[자동탐지] {forced_reason} / " + log_entry['reason']
 
-                        # 80점 이상일 때 처리
                         if final_score >= 80:
                             is_dup = False
                             for past in recent_risk_titles:
@@ -259,7 +256,6 @@ def main():
                             else:
                                 log_entry['status'] = "DUPLICATE"
             else:
-                # AI 안 거치는 기사도 기본 점수 부여
                 log_entry['score'] = calculate_basic_score(title)
 
             execution_logs.append(log_entry)
