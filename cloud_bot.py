@@ -16,6 +16,7 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
+# 검색 키워드
 KEYWORDS = ["대구", "경북", "경상북도", "국세청"]
 
 # =========================================================
@@ -26,6 +27,7 @@ def get_available_model():
         return None
     genai.configure(api_key=GOOGLE_API_KEY)
     try:
+        # 속도와 비용 효율을 위해 1.5-flash 우선 사용
         return genai.GenerativeModel('gemini-1.5-flash')
     except:
         return genai.GenerativeModel('gemini-pro')
@@ -33,18 +35,38 @@ def get_available_model():
 model = get_available_model()
 
 # =========================================================
-# [3] 유틸리티
+# [3] 유틸리티 (점수 계산 및 유사도)
 # =========================================================
 def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-# [디스코드] 즉시 알림 (긴급 이슈)
-def send_alert_discord(title, summary, reason, link, category):
+# [NEW] 파이썬 자체 가중치 점수 계산 (AI 미사용 시 순위 산정용)
+def calculate_basic_score(title):
+    score = 0
+    # 1. 지역/기관 점수
+    if any(k in title for k in ["대구", "경북", "국세청", "경찰", "검찰"]):
+        score += 10
+    
+    # 2. 부정 이슈 점수 (AI 필터 전 1차 점수)
+    risk_words = ["사망", "구속", "횡령", "화재", "압수수색", "비리", "적발", "인사", "전보"]
+    for word in risk_words:
+        if word in title:
+            score += 20
+            
+    # 3. 감점 요소 (홍보, 단순 행사)
+    safe_words = ["개최", "모집", "행사", "축제", "기부", "협약", "MOU"]
+    if any(word in title for word in safe_words):
+        score -= 30
+        
+    return score
+
+# [디스코드] 즉시 알림 (긴급 이슈 - 80점 이상일 때만)
+def send_alert_discord(title, summary, reason, link, category, score):
     try:
         data = {
             "username": "리스크 감시 봇",
             "embeds": [{
-                "title": f"🚨 [{category}] 긴급 이슈 감지",
+                "title": f"🚨 [심각도: {score}점] {category} 긴급 이슈",
                 "description": f"**{title}**",
                 "color": 0xFF0000, 
                 "fields": [
@@ -59,39 +81,37 @@ def send_alert_discord(title, summary, reason, link, category):
     except:
         pass
 
-# [디스코드] 1시간 정기 보고
-def send_hourly_report(logs, duplicate_content_count):
-    total_scanned = len(logs)
-    risk_alerts = [l for l in logs if l['status'] == 'ALERT']
-    risk_count = len(risk_alerts)
+# [디스코드] 정기 보고 (로직 변경: 주요 기사 유무에 따라 분기)
+def send_hourly_report(logs):
+    # 점수 높은 순으로 정렬
+    sorted_logs = sorted(logs, key=lambda x: x.get('score', 0), reverse=True)
     
-    # 보고서 멘트 조합
-    msg_parts = []
-    if duplicate_content_count > 0:
-        msg_parts.append(f"• 중복(도배) 제외: **{duplicate_content_count}**건")
+    # 80점 이상인 '진짜 위험' 기사 필터링
+    high_risks = [l for l in sorted_logs if l.get('score', 0) >= 80 and l['status'] == 'ALERT']
     
-    exclusion_msg = "\n".join(msg_parts)
-    if exclusion_msg: exclusion_msg = "\n\n(참고)\n" + exclusion_msg
+    # [Case 1] 주요 기사가 있는 경우 (기존 방식 유지)
+    if high_risks:
+        title = f"🚨 정기 보고 (위험 {len(high_risks)}건 감지)"
+        description = f"**심각도 80점 이상**의 주요 이슈가 감지되었습니다.\n\n"
+        for log in high_risks:
+            description += f"🔥 **[{log['score']}점]** {log['title']} ({log['reason']})\n"
+        color = 0xe74c3c # 빨강
 
-    # 1. 이슈 없음
-    if risk_count == 0:
-        title = "🟢 정기 보고 (특이사항 없음)"
-        if total_scanned == 0:
-            description = f"지난 1시간 동안 새로운 기사가 없습니다.{exclusion_msg}"
-        else:
-            description = f"새로운 기사 **{total_scanned}**건을 확인했으나 위험 요소는 없습니다.{exclusion_msg}\n\n**[확인한 주요 기사]**\n"
-            # 로그에서 최대 5개까지만 보여줌
-            for log in logs[:5]:
-                description += f"• {log['title'][:40]}...\n"
-        color = 0x2ecc71
-
-    # 2. 이슈 있음
+    # [Case 2] 주요 기사가 없는 경우 (요청하신 Top 7 요약 기능)
     else:
-        title = f"🚨 정기 보고 (리스크 {risk_count}건 감지)"
-        description = f"총 **{total_scanned}**건 중 **{risk_count}**건의 중요 이슈를 처리했습니다.{exclusion_msg}\n\n**[감지된 이슈]**\n"
-        for log in risk_alerts:
-            description += f"🔥 {log['title']}\n"
-        color = 0xe74c3c
+        title = "🟢 정기 보고 (주요 특이사항 없음)"
+        # 상위 7개만 추출
+        top_7 = sorted_logs[:7]
+        
+        if not top_7:
+            description = "수집된 뉴스가 없습니다."
+        else:
+            description = "심각한 리스크는 발견되지 않았습니다.\n점수 기반 **상위 7개 일반 뉴스**를 보고합니다.\n\n"
+            for i, log in enumerate(top_7, 1):
+                # 제목 클릭 시 이동하도록 링크 적용
+                short_title = log['title'][:35] + "..." if len(log['title']) > 35 else log['title']
+                description += f"**{i}.** [{short_title}]({log['link']}) `Score: {log['score']}`\n"
+        color = 0x2ecc71 # 초록
 
     try:
         data = {
@@ -112,16 +132,13 @@ def send_hourly_report(logs, duplicate_content_count):
 # =========================================================
 
 def is_suspicious_title(title):
+    # 기존 키워드 필터 유지
     risk_keywords = [
-        # 사고/재난
-        "화재", "폭발", "붕괴", "사망", "숨진", "변사", "추락", "산재", "중대재해", "응급", "대피", "고립", "침수",
-        # 범죄/수사
-        "구속", "체포", "입건", "송치", "압수수색", "비리", "횡령", "배임", "뇌물", "도박", "마약", "성범죄", "폭행", "살인",
-        # 경제/기업 위기
-        "부도", "파산", "해고", "폐업", "법정관리", "워크아웃", "임금체불", "세무조사", "탈세", "추징",
-        # 사법/행정 및 인사
-        "검찰", "경찰", "수사", "법원", "징역", "선고", "재판", "기소", "징계", "감사", "적발", "의혹", "논란", "위기",
-        "인사", "전보", "발령", "승진", "청장", "서장", "과장", "검사" 
+        "화재", "폭발", "붕괴", "사망", "숨진", "변사", "추락", "산재", "중대재해", 
+        "구속", "체포", "입건", "송치", "압수수색", "비리", "횡령", "배임", "뇌물", 
+        "부도", "파산", "해고", "세무조사", "탈세", 
+        "검찰", "경찰", "수사", "감사", "적발", "의혹",
+        "인사", "전보", "발령", "승진", "청장", "서장"
     ]
     return any(keyword in title for keyword in risk_keywords)
 
@@ -136,8 +153,6 @@ def search_naver_news(keyword):
 
 def scrape_article(url):
     try:
-        if "news.naver.com" not in url:
-            return None
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(url, headers=headers, timeout=5)
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -149,19 +164,29 @@ def scrape_article(url):
 def analyze_with_ai(title, content):
     if not model: return None
     
+    # [Prompt 수정] 점수(score) 필드 추가 및 채점 기준 제시
     prompt = f"""
     기사 제목: {title}
     기사 본문(일부): {content[:800]}
 
     [분석 목표]
-    다음 3가지 중 하나라도 해당하면 'is_risk': true 로 판별하시오.
-    
-    1. 대구·경북 지역의 '기업 사건사고', '경제범죄(횡령/배임 등)'
-    2. 국세청 및 세무서 관련 부정적 이슈 (압수수색, 자살, 감사, 업무문제) - 지역 무관
-    3. 경찰 및 검찰의 '인사', '승진', '전보' 소식 - 지역 무관
+    이 기사가 다음 3가지 중 하나에 해당하는지 분석하고, '심각도 점수(0~100)'를 매기시오.
+    1. 대구·경북 '기업 사건사고/경제범죄'
+    2. 국세청/세무서 '부정 이슈(비리, 감사, 압수수색)'
+    3. 경찰/검찰 '인사/승진/전보'
+
+    [점수 기준]
+    - 80~100점: 사망, 구속, 횡령, 압수수색, 실제 인사 발령 등 확실한 주요 이슈.
+    - 40~79점: 단순 의혹, 점검, 예방 활동, 루머, 예정 사항.
+    - 0~39점: 관련 없음, 홍보성 기사, 단순 동정.
 
     JSON 포맷 응답:
-    {{ "is_risk": true/false, "category": "기업재난 / 국세청 / 경검인사", "reason": "이유 한 줄 요약" }}
+    {{ 
+        "is_risk": true/false, 
+        "score": 0~100 (int),
+        "category": "기업재난 / 국세청 / 경검인사", 
+        "reason": "이유 한 줄 요약" 
+    }}
     """
     
     try:
@@ -173,15 +198,14 @@ def analyze_with_ai(title, content):
 def main():
     print("☁️ 감시 봇 작동 시작...")
     execution_logs = []  
-    duplicate_content_count = 0 
-    recent_risk_titles = []
+    processed_urls = set()
+    recent_risk_titles = [] # 중복 방지용
 
     # 깃허브 액션용 시간 필터 (최근 70분)
     time_threshold = datetime.now() - timedelta(minutes=70)
-    processed_urls_in_session = set() 
 
     if not model:
-        print("🛑 모델 에러: API 키를 확인하세요.")
+        print("🛑 모델 에러: API 키 확인 필요")
         return
 
     for keyword in KEYWORDS:
@@ -191,70 +215,63 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
-            # 1. URL 중복 체크
-            if link in processed_urls_in_session: continue
-            processed_urls_in_session.add(link)
+            if link in processed_urls: continue
+            processed_urls.add(link)
 
-            # 2. 날짜 체크
             try:
                 pub_date = parsedate_to_datetime(art['pubDate']).replace(tzinfo=None)
                 if pub_date < time_threshold: continue
             except: continue
 
-            # [수정] 로그 엔트리 미리 생성
+            # 기본 로그 엔트리 생성
             log_entry = {
                 "title": title,
+                "link": link,
                 "status": "PASS",
-                "category": "일반",
-                "reason": "특이사항 없음"
+                "score": 0, # 초기 점수
+                "reason": "일반 기사"
             }
 
-            # 3. 키워드 필터
-            if not is_suspicious_title(title):
-                # 키워드가 없어도 로그에 저장하고 넘김 (보고서 포함용)
-                execution_logs.append(log_entry)
-                continue
-            
-            print(f"🔍 AI 분석 요청: {title}")
-            
-            content = scrape_article(link)
-            
-            if content:
-                result = analyze_with_ai(title, content)
+            # [분기점] 의심스러운 제목인가?
+            if is_suspicious_title(title):
+                print(f"🔍 AI 정밀 분석 중: {title}")
+                content = scrape_article(link)
                 
-                if result:
-                    if result.get('is_risk'):
-                        # [도배 방지] 내용 유사도 체크
-                        is_duplicate_content = False
-                        for past_title in recent_risk_titles:
-                            if get_similarity(title, past_title) > 0.6: 
-                                is_duplicate_content = True
-                                break
+                if content:
+                    result = analyze_with_ai(title, content)
+                    
+                    if result:
+                        ai_score = result.get('score', 0)
+                        log_entry['score'] = ai_score
+                        log_entry['category'] = result.get('category', '미분류')
+                        log_entry['reason'] = result.get('reason', '')
                         
-                        if is_duplicate_content:
-                            print(f"🔇 [중복 이슈] 알림 생략: {title}")
-                            log_entry['status'] = "DUPLICATE_RISK"
-                            duplicate_content_count += 1
-                        else:
-                            # 진짜 새로운 위험 기사
-                            log_entry['status'] = "ALERT"
-                            log_entry['category'] = result.get('category')
-                            log_entry['reason'] = result.get('reason')
-                            recent_risk_titles.append(title)
+                        # AI가 리스크라고 판단하고, 점수가 80점 이상일 때만 'ALERT'
+                        if result.get('is_risk') and ai_score >= 80:
+                            # 중복 체크
+                            is_dup = False
+                            for past in recent_risk_titles:
+                                if get_similarity(title, past) > 0.6: is_dup = True
                             
-                            print(f"🚨 이슈 발견: {title}")
-                            send_alert_discord(title, "주요 이슈 감지", result['reason'], link, result['category'])
-                            time.sleep(2)
-                    else:
-                        log_entry['reason'] = "AI 분석 결과 안전함"
-                
-                # 분석 마친 기사 로그 저장
-                execution_logs.append(log_entry)
-            
+                            if not is_dup:
+                                log_entry['status'] = "ALERT"
+                                recent_risk_titles.append(title)
+                                print(f"🚨 긴급 이슈(점수 {ai_score}): {title}")
+                                send_alert_discord(title, "긴급 이슈", log_entry['reason'], link, log_entry['category'], ai_score)
+                            else:
+                                log_entry['status'] = "DUPLICATE"
+                        else:
+                            # 리스크는 맞는데 점수가 낮거나(단순 의혹 등), AI가 아니라고 한 경우
+                            log_entry['reason'] = f"(AI 점수 {ai_score}) {log_entry['reason']}"
+            else:
+                # [NEW] 의심스럽지 않은 기사도 파이썬으로 '기본 점수' 매김 (Top 7 산정용)
+                log_entry['score'] = calculate_basic_score(title)
+
+            execution_logs.append(log_entry)
             time.sleep(1)
 
-    # [디스코드] 정기 보고 전송
-    send_hourly_report(execution_logs, duplicate_content_count)
+    # [디스코드] 최종 정기 보고 (조건부 전송)
+    send_hourly_report(execution_logs)
     print("✅ 실행 완료")
 
 if __name__ == "__main__":
