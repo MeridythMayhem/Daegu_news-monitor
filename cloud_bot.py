@@ -38,7 +38,7 @@ model = get_available_model()
 def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-# [파이썬 강제 필터] 사용자 지정 절대 기준 (기업 확인 + 오탐지 방지)
+# [파이썬 강제 필터] 사용자 지정 절대 기준 (기업 확인 + 경제범죄 추가 + 오탐지 방지)
 def check_critical_patterns(title):
     title = title.replace(" ", "") # 띄어쓰기 무시
     
@@ -52,13 +52,22 @@ def check_critical_patterns(title):
     if any(safe in title for safe in safe_guard_keywords):
         return 0, ""
 
-    # [1] 대구/경북 기업 재난 (지역 + 재난 + 기업 3조건 충족 시)
+    # [1] 대구/경북 기업 재난 및 범죄 (지역 + 이슈 + 기업 3조건 충족 시)
     loc_condition = any(loc in title for loc in ["대구", "경북", "구미", "포항"])
+    
+    # 이슈 1: 물리적 재난
     disaster_condition = any(d in title for d in ["화재", "폭발", "사망", "숨져", "숨진", "붕괴", "산불", "중상", "중대재해"])
-    target_condition = any(t in title for t in ["공장", "기업", "업체", "산단", "공단", "사업장", "노동자", "근로자", "법인", "대표", "사옥", "본사"])
+    # 이슈 2: 경제 범죄 및 비리 (새로 추가됨)
+    crime_condition = any(c in title for c in ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "체포", "기소", "입건"])
+    
+    # 타겟: 임원, 직원, 회장 추가
+    target_condition = any(t in title for t in ["공장", "기업", "업체", "산단", "공단", "사업장", "노동자", "근로자", "법인", "대표", "사옥", "본사", "임원", "직원", "회장"])
 
-    if loc_condition and disaster_condition and target_condition:
-        return 100, "지역 기업 내 재난/사고 발생 (강제필터)"
+    if loc_condition and target_condition:
+        if disaster_condition:
+            return 100, "지역 기업 내 재난/사고 발생 (강제필터)"
+        elif crime_condition:
+            return 100, "지역 기업 내 범죄/비리 발생 (강제필터)"
 
     # [2] 국세청/세무서 + 강력 이슈
     if any(agency in title for agency in ["국세청", "세무서", "국세공무원"]) and \
@@ -76,7 +85,7 @@ def check_critical_patterns(title):
 def calculate_basic_score(title):
     score = 0
     if any(k in title for k in ["대구", "경북", "국세청", "경찰", "검찰"]): score += 10
-    if any(k in title for k in ["사망", "구속", "횡령", "화재", "인사"]): score += 20
+    if any(k in title for k in ["사망", "구속", "횡령", "화재", "인사", "탈세"]): score += 20
     return score
 
 # [디스코드] 즉시 알림 전송
@@ -106,7 +115,7 @@ def send_hourly_report(logs):
     
     if high_risks:
         title = f"🚨 정기 보고 (주요 뉴스 {len(high_risks)}건)"
-        description = "설정하신 **절대 기준(기업 재난, 비리, 인사)**에 부합하는 기사가 있습니다.\n\n"
+        description = "설정하신 **절대 기준(기업 재난/비리, 공무원 이슈, 인사)**에 부합하는 기사가 있습니다.\n\n"
         for log in high_risks:
             description += f"🔥 **[{log['score']}점]** {log['title']}\n└ {log['reason']}\n"
         color = 0xe74c3c
@@ -168,7 +177,7 @@ def analyze_with_ai(title, content, forced_score):
     다음 기준에 따라 점수(0~100)를 엄격하게 매기시오.
 
     [🚨 100점 기준 (반드시 기업/기관 관련)]
-    1. 대구/경북 지역의 '공장, 기업, 산단, 업체'에서 발생한 화재, 폭발, 사망사고
+    1. 대구/경북 지역의 '공장, 기업, 산단, 업체'에서 발생한 화재, 폭발, 사망사고 또는 횡령, 배임, 탈세 등 범죄
     2. 국세청/세무서 내부 비리, 자살, 압수수색, 구속
     3. 경찰/검찰 조직의 '인사', '전보', '승진', '대기발령' 명단
 
@@ -189,7 +198,7 @@ def main():
     execution_logs = []  
     processed_urls = set()
     
-    # [핵심 수정 1] 이번 턴에 확인한 기사 '제목'을 모두 저장할 리스트
+    # 제목 도배 방지용 리스트
     seen_titles = [] 
     
     time_threshold = datetime.now() - timedelta(minutes=70)
@@ -213,9 +222,7 @@ def main():
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
-            # =========================================================
-            # [핵심 수정 2] 제목 60% 이상 일치하는 도배 기사 원천 차단
-            # =========================================================
+            # 제목 60% 이상 일치하는 도배 기사 차단
             is_dup_title = False
             for past_title in seen_titles:
                 if get_similarity(title, past_title) > 0.6:
@@ -223,12 +230,11 @@ def main():
                     break
             
             if is_dup_title:
-                continue # 이미 비슷한 제목을 처리했으면 아예 무시하고 건너뜀
+                continue 
                 
-            seen_titles.append(title) # 처음 보는 기사면 리스트에 추가
-            # =========================================================
+            seen_titles.append(title) 
 
-            # 파이썬 강제 필터
+            # 파이썬 강제 필터 (범죄 조건 추가됨)
             forced_score, forced_reason = check_critical_patterns(title)
             
             log_entry = {
@@ -238,7 +244,7 @@ def main():
             }
 
             # AI 분석 판단
-            suspicious_keywords = ["부도", "해고", "재판", "선고", "의혹", "논란", "위기", "제동", "송치"]
+            suspicious_keywords = ["부도", "해고", "재판", "선고", "의혹", "논란", "위기", "제동", "송치", "횡령", "탈세", "배임"]
             needs_ai_check = forced_score == 100 or any(k in title for k in suspicious_keywords)
 
             if needs_ai_check:
@@ -263,7 +269,6 @@ def main():
                             # 즉시 알림은 여기서 전송됨
                             send_alert_discord(title, "주요 뉴스", log_entry['reason'], link, log_entry['category'], final_score)
                     else:
-                        # AI 에러 시 안전장치
                         log_entry['score'] = max(forced_score, calculate_basic_score(title))
             else:
                 log_entry['score'] = calculate_basic_score(title)
