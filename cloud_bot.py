@@ -38,11 +38,11 @@ model = get_available_model()
 def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-# [수정됨] 절대적 기준 로직: "기업" 관련성이 확인되어야만 100점 부여
+# [파이썬 강제 필터] 사용자 지정 절대 기준 (기업 확인 + 오탐지 방지)
 def check_critical_patterns(title):
     title = title.replace(" ", "") # 띄어쓰기 무시
     
-    # [0] 방어 로직 (Safe Guard)
+    # [0] 방어 로직 (Safe Guard) - 행사, 지원, 단순 논란 등 무시
     safe_guard_keywords = [
         "예방", "방지", "점검", "훈련", "모의", "감지", "대책", 
         "설명회", "참관", "캠페인", "전통시장", "활력", "MOU", "협약",
@@ -52,26 +52,22 @@ def check_critical_patterns(title):
     if any(safe in title for safe in safe_guard_keywords):
         return 0, ""
 
-    # [1] 대구/경북 기업 재난 (3단 조건: 지역 + 재난 + 기업)
-    # 수정: 단순히 화재가 났다고 잡는 게 아니라, '공장/기업/산단' 등 기업 키워드가 있어야 함
+    # [1] 대구/경북 기업 재난 (지역 + 재난 + 기업 3조건 충족 시)
     loc_condition = any(loc in title for loc in ["대구", "경북", "구미", "포항"])
-    
     disaster_condition = any(d in title for d in ["화재", "폭발", "사망", "숨져", "숨진", "붕괴", "산불", "중상", "중대재해"])
-    
-    # [NEW] 기업 특정 키워드 (이게 없으면 일반 재난으로 취급하여 0점)
     target_condition = any(t in title for t in ["공장", "기업", "업체", "산단", "공단", "사업장", "노동자", "근로자", "법인", "대표", "사옥", "본사"])
 
     if loc_condition and disaster_condition and target_condition:
         return 100, "지역 기업 내 재난/사고 발생 (강제필터)"
 
-    # [2] 국세청/세무서 + 강력 이슈 (여기는 기관 자체가 특정이므로 유지)
+    # [2] 국세청/세무서 + 강력 이슈
     if any(agency in title for agency in ["국세청", "세무서", "국세공무원"]) and \
        any(issue in title for issue in ["자살", "압수수색", "구속", "횡령", "비리", "체포", "사망"]):
         return 100, "국세청 핵심 리스크 (강제필터)"
 
     # [3] 경찰/검찰 + 인사
     if any(agency in title for agency in ["경찰", "검찰", "지검", "지청"]) and \
-       any(insa in title for insa in ["인사", "전보", "발령", "승진", "프로필", "내정"]):
+       any(insa in title for insa in ["인사", "전보", "발령", "승진", "프로필", "내정", "대기발령"]):
         return 100, "경검 인사 주요뉴스 (강제필터)"
         
     return 0, ""
@@ -110,7 +106,7 @@ def send_hourly_report(logs):
     
     if high_risks:
         title = f"🚨 정기 보고 (주요 뉴스 {len(high_risks)}건)"
-        description = "설정하신 **절대 기준(기업 재난, 자살, 인사)**에 부합하는 기사가 있습니다.\n\n"
+        description = "설정하신 **절대 기준(기업 재난, 비리, 인사)**에 부합하는 기사가 있습니다.\n\n"
         for log in high_risks:
             description += f"🔥 **[{log['score']}점]** {log['title']}\n└ {log['reason']}\n"
         color = 0xe74c3c
@@ -161,7 +157,7 @@ def analyze_with_ai(title, content, forced_score):
     
     context_hint = ""
     if forced_score == 100:
-        context_hint = "※ 중요: 이 기사는 '기업 재난/공무원 비리/인사' 관련 핵심 키워드가 있어 무조건 중요 기사임."
+        context_hint = "※ 중요: 이 기사는 '기업 재난/비리/인사' 관련 핵심 키워드가 있어 무조건 중요 기사임."
 
     prompt = f"""
     [분석 요청]
@@ -174,7 +170,7 @@ def analyze_with_ai(title, content, forced_score):
     [🚨 100점 기준 (반드시 기업/기관 관련)]
     1. 대구/경북 지역의 '공장, 기업, 산단, 업체'에서 발생한 화재, 폭발, 사망사고
     2. 국세청/세무서 내부 비리, 자살, 압수수색, 구속
-    3. 경찰/검찰 조직의 '인사', '전보', '승진' 명단
+    3. 경찰/검찰 조직의 '인사', '전보', '승진', '대기발령' 명단
 
     [⚠️ 0점 처리 기준]
     1. 기업과 무관한 일반 가정집 화재, 단순 산불, 교통사고
@@ -192,7 +188,9 @@ def main():
     print("☁️ 봇 작동 시작...")
     execution_logs = []  
     processed_urls = set()
-    recent_risk_titles = [] 
+    
+    # [핵심 수정 1] 이번 턴에 확인한 기사 '제목'을 모두 저장할 리스트
+    seen_titles = [] 
     
     time_threshold = datetime.now() - timedelta(minutes=70)
 
@@ -206,14 +204,31 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
+            # 주소 중복 체크
             if link in processed_urls: continue
             processed_urls.add(link)
             
+            # 시간 필터
             try:
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
-            # [1] 파이썬 강제 필터
+            # =========================================================
+            # [핵심 수정 2] 제목 60% 이상 일치하는 도배 기사 원천 차단
+            # =========================================================
+            is_dup_title = False
+            for past_title in seen_titles:
+                if get_similarity(title, past_title) > 0.6:
+                    is_dup_title = True
+                    break
+            
+            if is_dup_title:
+                continue # 이미 비슷한 제목을 처리했으면 아예 무시하고 건너뜀
+                
+            seen_titles.append(title) # 처음 보는 기사면 리스트에 추가
+            # =========================================================
+
+            # 파이썬 강제 필터
             forced_score, forced_reason = check_critical_patterns(title)
             
             log_entry = {
@@ -222,7 +237,7 @@ def main():
                 "category": "일반", "reason": forced_reason
             }
 
-            # [2] AI 정밀 분석 조건
+            # AI 분석 판단
             suspicious_keywords = ["부도", "해고", "재판", "선고", "의혹", "논란", "위기", "제동", "송치"]
             needs_ai_check = forced_score == 100 or any(k in title for k in suspicious_keywords)
 
@@ -233,7 +248,6 @@ def main():
                     result = analyze_with_ai(title, content, forced_score)
                     if result:
                         ai_score = result.get('score', 0)
-                        
                         final_score = max(forced_score, ai_score)
                         
                         log_entry['score'] = final_score
@@ -244,17 +258,13 @@ def main():
                             log_entry['reason'] = f"[자동탐지] {forced_reason} / " + log_entry['reason']
 
                         if final_score >= 80:
-                            is_dup = False
-                            for past in recent_risk_titles:
-                                if get_similarity(title, past) > 0.6: is_dup = True
-                            
-                            if not is_dup:
-                                log_entry['status'] = "ALERT"
-                                recent_risk_titles.append(title)
-                                print(f"🚨 중요 기사 감지: {title}")
-                                send_alert_discord(title, "주요 뉴스", log_entry['reason'], link, log_entry['category'], final_score)
-                            else:
-                                log_entry['status'] = "DUPLICATE"
+                            log_entry['status'] = "ALERT"
+                            print(f"🚨 중요 기사 감지: {title}")
+                            # 즉시 알림은 여기서 전송됨
+                            send_alert_discord(title, "주요 뉴스", log_entry['reason'], link, log_entry['category'], final_score)
+                    else:
+                        # AI 에러 시 안전장치
+                        log_entry['score'] = max(forced_score, calculate_basic_score(title))
             else:
                 log_entry['score'] = calculate_basic_score(title)
 
