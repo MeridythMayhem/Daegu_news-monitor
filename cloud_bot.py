@@ -37,28 +37,21 @@ model = get_available_model()
 def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-# [파이썬 강제 필터]
+# [파이썬 강제 필터] - 수정완료: 중요한 걸 먼저 검사하고 예외를 나중에 검사함
 def check_critical_patterns(title):
-    title = title.replace(" ", "") # 띄어쓰기 무시
+    title_no_space = title.replace(" ", "") # 띄어쓰기 무시
     
-    # [0] 방어 로직 (Safe Guard)
-    safe_guard_keywords = [
-        "예방", "방지", "점검", "훈련", "모의", "감지", "대책", 
-        "설명회", "참관", "캠페인", "전통시장", "활력", "MOU", "협약",
-        "임시주택", "요금", "폭탄", "논란", "지원", "성금", "기탁", 
-        "복구", "위로", "격려", "봉사", "전달", "나눔"
-    ]
-    if any(safe in title for safe in safe_guard_keywords):
-        return 0, ""
-
-    # 공통 지역 조건 키워드
+    # 키워드 확장 (회사, 제조업, 창고 등 추가)
     local_keywords = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산"]
+    disaster_keywords = ["화재", "폭발", "사망", "숨져", "숨진", "붕괴", "산불", "중상", "중대재해"]
+    crime_keywords = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "체포", "기소", "입건"]
+    target_keywords = ["공장", "기업", "업체", "산단", "공단", "사업장", "노동자", "근로자", "법인", "대표", "사옥", "본사", "임원", "직원", "회장", "회사", "제조업", "창고"]
 
-    # [1] 대구/경북 기업 재난 및 범죄
+    # 1. 치명적 리스크 '먼저' 체크 (세이프가드보다 우선)
     loc_condition = any(loc in title for loc in local_keywords)
-    disaster_condition = any(d in title for d in ["화재", "폭발", "사망", "숨져", "숨진", "붕괴", "산불", "중상", "중대재해"])
-    crime_condition = any(c in title for c in ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "체포", "기소", "입건"])
-    target_condition = any(t in title for t in ["공장", "기업", "업체", "산단", "공단", "사업장", "노동자", "근로자", "법인", "대표", "사옥", "본사", "임원", "직원", "회장"])
+    disaster_condition = any(d in title for d in disaster_keywords)
+    crime_condition = any(c in title for c in crime_keywords)
+    target_condition = any(t in title for t in target_keywords)
 
     if loc_condition and target_condition:
         if disaster_condition:
@@ -66,18 +59,25 @@ def check_critical_patterns(title):
         elif crime_condition:
             return 100, "지역 기업 내 범죄/비리 발생 (강제필터)"
 
-    # [2] 국세청/세무서 + 강력 이슈 (전국 공통 적용)
     if any(agency in title for agency in ["국세청", "세무서", "국세공무원"]) and \
        any(issue in title for issue in ["자살", "압수수색", "구속", "횡령", "비리", "체포", "사망"]):
         return 100, "국세청 핵심 리스크 (강제필터)"
 
-    # [3] 경찰/검찰 + 인사 [수정됨: 대구/경북 지역 한정]
     agency_condition = any(agency in title for agency in ["경찰", "검찰", "지검", "지청"])
     insa_condition = any(insa in title for insa in ["인사", "전보", "발령", "승진", "프로필", "내정", "대기발령"])
     
-    # 지역 조건(loc_condition)이 만족될 때만 인사 기사를 100점으로 처리
     if loc_condition and agency_condition and insa_condition:
         return 100, "지역 경검 인사 주요뉴스 (강제필터)"
+
+    # 2. 치명적이지 않다면 그제야 세이프가드 적용 (충돌을 일으키던 "논란" 제거)
+    safe_guard_keywords = [
+        "예방", "방지", "점검", "훈련", "모의", "감지", "대책", 
+        "설명회", "참관", "캠페인", "전통시장", "활력", "MOU", "협약",
+        "임시주택", "요금", "폭탄", "지원", "성금", "기탁", 
+        "복구", "위로", "격려", "봉사", "전달", "나눔"
+    ]
+    if any(safe in title_no_space for safe in safe_guard_keywords):
+        return 0, ""
         
     return 0, ""
 
@@ -165,7 +165,6 @@ def analyze_with_ai(title, content, forced_score):
     if forced_score == 100:
         context_hint = "※ 중요: 이 기사는 '기업 재난/비리/인사' 관련 핵심 키워드가 있어 무조건 중요 기사임."
 
-    # 프롬프트: 대구/경북 지역 한정 인사로 수정
     prompt = f"""
     [분석 요청]
     기사: {title}
@@ -217,10 +216,10 @@ def main():
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
-            # 제목 도배 방지
+            # 제목 도배 방지 (유사도 기준 0.6 -> 0.8 상향)
             is_dup_title = False
             for past_title in seen_titles:
-                if get_similarity(title, past_title) > 0.6:
+                if get_similarity(title, past_title) > 0.8:
                     is_dup_title = True
                     break
             if is_dup_title: continue 
@@ -235,12 +234,18 @@ def main():
                 "category": "일반", "reason": forced_reason
             }
 
-            suspicious_keywords = ["부도", "해고", "재판", "선고", "의혹", "논란", "위기", "제동", "송치", "횡령", "탈세", "배임"]
+            # 의심 키워드에 재난 관련 단어 추가
+            suspicious_keywords = ["부도", "해고", "재판", "선고", "의혹", "논란", "위기", "제동", "송치", "횡령", "탈세", "배임", "화재", "사망", "폭발", "구속"]
             needs_ai_check = forced_score == 100 or any(k in title for k in suspicious_keywords)
 
             if needs_ai_check:
                 print(f"🔍 AI 분석 진행: {title}")
                 content = scrape_article(link)
+                
+                # 크롤링 실패 시, 네이버 API가 제공하는 기사 요약(description)을 본문 대체재로 사용
+                if not content:
+                    content = art.get('description', '').replace('<b>','').replace('</b>','')
+
                 if content:
                     result = analyze_with_ai(title, content, forced_score)
                     
@@ -262,12 +267,11 @@ def main():
                             send_alert_discord(title, "주요 뉴스", log_entry['reason'], link, log_entry['category'], final_score)
                             
                     else:
-                        # [버그 수정됨] AI가 응답을 안 했을 때 (에러 시)
+                        # AI가 응답을 안 했을 때 (에러 시)
                         final_score = max(forced_score, calculate_basic_score(title))
                         log_entry['score'] = final_score
                         log_entry['reason'] = "AI 응답 지연 (파이썬 자체 채점)"
                         
-                        # 100점이면 무조건 ALERT 상태(빨간 딱지)를 붙여줍니다.
                         if final_score >= 80:
                             log_entry['status'] = "ALERT" 
                             print(f"🚨 중요 기사 감지 (AI 대체): {title}")
