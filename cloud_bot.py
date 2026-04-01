@@ -25,7 +25,6 @@ KEYWORDS = [
     "대구경찰청 인사", "경북경찰청 인사", "대구지검 인사", "대구지검 전보"
 ]
 
-# 봇의 기억을 저장할 파일 이름
 HISTORY_FILE = "news_history.json"
 
 # =========================================================
@@ -40,27 +39,16 @@ def load_history():
     return {"urls": [], "titles": []}
 
 def save_history(history):
-    # 파일이 너무 커지지 않도록 최근 500개만 기억합니다.
     history["urls"] = history["urls"][-500:]
     history["titles"] = history["titles"][-500:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
-def get_available_model():
-    if not GOOGLE_API_KEY: return None
-    genai.configure(api_key=GOOGLE_API_KEY)
-    try:
-        return genai.GenerativeModel('gemini-1.5-flash')
-    except:
-        return genai.GenerativeModel('gemini-pro')
-
-model = get_available_model()
-
 def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 # =========================================================
-# [3] 스나이퍼 필터 (점수 세분화)
+# [3] 스나이퍼 필터 (점수 세분화 및 타겟 감지)
 # =========================================================
 def check_critical_patterns(title):
     title_no_space = title.replace(" ", "")
@@ -96,13 +84,12 @@ def check_critical_patterns(title):
     target_pol_pro = is_local and any(agency in title for agency in agencies_police_prosecutor)
     target_tax = (is_local and any(tax in title for tax in agencies_tax)) or ("국세청" in title)
 
-    # 타겟에 대한 세분화된 점수 부여
     if target_company_or_figure:
         if any(crime in title for crime in issue_crime): return 100, "기업(인물) 범죄/의혹/수사"
         if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난(화재/폭발)"
         if any(acc in title for acc in issue_accident): return 100, "기업 노동자 사망/중대재해"
         if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/소송 주의보"
-        if is_vip_company: return 50, "VIP 기업 일반 동향" # VIP 기업은 별일 없어도 50점으로 모니터링
+        if is_vip_company: return 50, "VIP 기업 일반 동향"
 
     if target_pol_pro:
         if any(personnel in title for personnel in issue_personnel): return 100, "경찰/검찰 인사"
@@ -114,10 +101,10 @@ def check_critical_patterns(title):
     return 0, ""
 
 # =========================================================
-# [4] 알림 보고 로직 (2단 분리)
+# [4] 알림 보고 로직 (2단 분리 모아 쏘기)
 # =========================================================
 def send_hourly_report(logs):
-    # 50점 이상인 의미 있는 기사만 필터링
+    # 50점 이상 기사만 남겨서 10, 20, 30점짜리 쓸데없는 기사를 완전히 차단합니다.
     valid_logs = [l for l in logs if l.get('score', 0) >= 50]
     sorted_logs = sorted(valid_logs, key=lambda x: x.get('score', 0), reverse=True)
     
@@ -126,24 +113,22 @@ def send_hourly_report(logs):
     
     if not sorted_logs:
         title = "🟢 뉴스 모니터링 (특이사항 없음)"
-        description = "설정하신 타겟(기업, 경검, 국세청) 관련 이슈 뉴스가 없습니다."
+        description = "설정하신 5대 핵심 타겟 관련 이슈 뉴스가 없습니다."
         color = 0x2ecc71
     else:
         title = f"📊 정기 보고 (총 {len(sorted_logs)}건 감지)"
         description = ""
         color = 0xe74c3c if high_risks else 0xFFA500
         
-        # 1단: 100점짜리 치명적 리스크
         if high_risks:
             description += "🚨 **[핵심 리스크] 즉시 확인 요망**\n"
             for log in high_risks:
                 description += f"**[{log['score']}점]** [{log['title']}]({log['link']})\n└ {log['reason']}\n\n"
         
-        # 2단: 70점/50점짜리 주의 및 동향
         if medium_risks:
-            if high_risks: description += "---\n" # 구분선
+            if high_risks: description += "---\n"
             description += "⚠️ **[주의 및 동향] 모니터링 필요**\n"
-            for log in medium_risks[:7]: # 너무 길어지지 않게 7개까지만
+            for log in medium_risks[:7]:
                 description += f"**[{log['score']}점]** [{log['title']}]({log['link']})\n└ {log['reason']}\n"
 
     try:
@@ -158,7 +143,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (AI 에러 방지 및 안전필터 해제 적용)
+# [5] 분석 로직 (🚨 AI 에러 자동 우회 및 복구 시스템 적용)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -178,7 +163,8 @@ def scrape_article(url):
     except: return None
 
 def analyze_with_ai(title, content, forced_reason):
-    if not model: return None
+    if not GOOGLE_API_KEY: return None
+    genai.configure(api_key=GOOGLE_API_KEY)
     
     prompt = f"""
     [분석 요청]
@@ -204,54 +190,57 @@ def analyze_with_ai(title, content, forced_reason):
     - "성금 기부", "MOU 체결", "표창 수여" 등 긍정적 내용
     - 대구/경북과 무관한 타 지역 기사
 
-    JSON 포맷 응답: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
+    반드시 아래와 같은 JSON 포맷으로만 응답할 것:
+    {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
     """
+    
+    safety_settings = [
+        {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+        {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"}
+    ]
+
+    model_flash = genai.GenerativeModel('gemini-1.5-flash')
+    model_pro = genai.GenerativeModel('gemini-pro')
+
     try:
-        # [핵심 수정 1] AI의 과도한 안전 필터를 전부 해제합니다. (사망, 폭발 등의 단어 허용)
-        safety_settings = [
-            {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
-            {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
-            {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
-            {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"}
-        ]
-        
-        # 모델에 안전 필터 세팅을 함께 넘겨서 실행합니다.
-        res = model.generate_content(
+        res = model_flash.generate_content(
             prompt, 
             safety_settings=safety_settings,
             generation_config={"response_mime_type": "application/json"}
         )
-        
-        # [핵심 수정 2] 혹시라도 AI가 ```json 이라는 마크다운 기호를 붙여서 보내면 
-        # 파이썬 에러가 나기 때문에, 이를 깔끔하게 벗겨내는 로직 추가
-        raw_text = res.text.strip()
-        if raw_text.startswith("```json"):
-            raw_text = raw_text[7:]
-        elif raw_text.startswith("```"):
-            raw_text = raw_text[3:]
-            
-        if raw_text.endswith("```"):
-            raw_text = raw_text[:-3]
-            
-        return json.loads(raw_text.strip())
-        
     except Exception as e:
-        # 어디서 에러가 났는지 터미널/깃허브 액션 로그에 출력되도록 합니다.
-        print(f"⚠️ AI 분석 에러 발생: {title} | 사유: {e}")
+        print(f"⚠️ 1.5 Flash 에러 발생 ({e}). 구형 모델(Gemini Pro)로 자동 우회합니다...")
+        try:
+            res = model_pro.generate_content(
+                prompt, 
+                safety_settings=safety_settings
+            )
+        except Exception as e2:
+            print(f"❌ AI 분석 최종 실패: {title} | 사유: {e2}")
+            return None
+
+    try:
+        raw_text = res.text.strip()
+        # 마크다운 충돌 방지를 위해 백틱 문자열 생성 방식을 변경했습니다.
+        marker = "`" * 3
+        if raw_text.startswith(f"{marker}json"): raw_text = raw_text[7:]
+        elif raw_text.startswith(marker): raw_text = raw_text[3:]
+        if raw_text.endswith(marker): raw_text = raw_text[:-3]
+        return json.loads(raw_text.strip())
+    except Exception as e:
+        print(f"❌ AI JSON 파싱 실패: {title} | 텍스트: {res.text}")
         return None
 
 def main():
-    print("☁️ 스마트 기억력 & 2단 분리 봇 작동 시작...")
+    print("☁️ 스마트 기억력 & AI 2중 복구 봇 작동 시작...")
     
     history = load_history()
     
     execution_logs = []  
     processed_urls = set()
     time_threshold = datetime.now() - timedelta(minutes=70)
-
-    if not model: 
-        print("API 키 오류")
-        return
 
     for keyword in KEYWORDS:
         articles = search_naver_news(keyword)
@@ -261,7 +250,6 @@ def main():
             
             if link in processed_urls: continue
             processed_urls.add(link)
-            
             if link in history["urls"]: continue
 
             try:
@@ -298,13 +286,11 @@ def main():
                         log_entry['category'] = result.get('category', forced_reason)
                         
                         if final_score == 0:
-                            log_entry['reason'] = "[AI 기각] 정치 또는 무관한 내용"
+                            log_entry['reason'] = "[AI 기각] 정치 또는 가짜 뉴스"
                         else:
-                            # 정상적으로 AI 요약이 나왔을 때 (AI 응답 지연 텍스트 안붙음)
                             log_entry['reason'] = result.get('reason', forced_reason)
                     else:
-                        # try-except에서 에러가 발생하여 None이 반환되었을 때만 출력
-                        log_entry['reason'] += " (AI 응답 지연)"
+                        log_entry['reason'] += " (AI 분석 불가 - 파이썬 점수 유지)"
             
             execution_logs.append(log_entry)
             
