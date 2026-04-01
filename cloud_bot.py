@@ -25,9 +25,27 @@ KEYWORDS = [
     "대구경찰청 인사", "경북경찰청 인사", "대구지검 인사", "대구지검 전보"
 ]
 
+# 봇의 기억을 저장할 파일 이름
+HISTORY_FILE = "news_history.json"
+
 # =========================================================
-# [2] AI 모델 연결
+# [2] 기억력(과거 데이터 저장/불러오기) 및 유틸리티
 # =========================================================
+def load_history():
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except: pass
+    return {"urls": [], "titles": []}
+
+def save_history(history):
+    # 파일이 너무 커지지 않도록 최근 500개만 기억합니다.
+    history["urls"] = history["urls"][-500:]
+    history["titles"] = history["titles"][-500:]
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
 def get_available_model():
     if not GOOGLE_API_KEY: return None
     genai.configure(api_key=GOOGLE_API_KEY)
@@ -42,12 +60,12 @@ def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 # =========================================================
-# [3] 스나이퍼 필터 (파이썬 강제 채점)
+# [3] 스나이퍼 필터 (점수 세분화)
 # =========================================================
 def check_critical_patterns(title):
     title_no_space = title.replace(" ", "")
     
-    # 🚫 [강제 차단] 정치 관련 키워드
+    # 🚫 정치 관련 키워드 즉시 차단 (0점)
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
     if any(pol in title for pol in politics_keywords):
         return 0, ""
@@ -60,10 +78,14 @@ def check_critical_patterns(title):
     agencies_police_prosecutor = ["경찰", "검찰", "지검", "지청"]
     agencies_tax = ["국세청", "세무서", "국세공무원"]
 
+    # 🚨 100점짜리 치명적 이슈
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
+    
+    # ⚠️ 70점짜리 주의보 (위기, 갈등)
+    issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동", "하락"]
 
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
@@ -74,49 +96,59 @@ def check_critical_patterns(title):
     target_pol_pro = is_local and any(agency in title for agency in agencies_police_prosecutor)
     target_tax = (is_local and any(tax in title for tax in agencies_tax)) or ("국세청" in title)
 
+    # 타겟에 대한 세분화된 점수 부여
     if target_company_or_figure:
-        if any(crime in title for crime in issue_crime): return 100, "1. 대구/경북 기업(인물) 범죄/의혹/수사 이슈"
-        if any(disaster in title for disaster in issue_disaster): return 100, "2. 대구/경북 기업 재난(화재/폭발) 이슈"
-        if any(acc in title for acc in issue_accident): return 100, "3. 대구/경북 기업 노동자 사망/중대재해"
+        if any(crime in title for crime in issue_crime): return 100, "기업(인물) 범죄/의혹/수사"
+        if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난(화재/폭발)"
+        if any(acc in title for acc in issue_accident): return 100, "기업 노동자 사망/중대재해"
+        if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/소송 주의보"
+        if is_vip_company: return 50, "VIP 기업 일반 동향" # VIP 기업은 별일 없어도 50점으로 모니터링
 
     if target_pol_pro:
-        if any(personnel in title for personnel in issue_personnel): return 100, "4. 대구/경북 경찰/검찰 인사 소식"
+        if any(personnel in title for personnel in issue_personnel): return 100, "경찰/검찰 인사"
 
     if target_tax:
         if any(crime in title for crime in issue_crime + issue_accident) or any(personnel in title for personnel in issue_personnel):
-            return 100, "5. 대구/경북 세무서 및 국세청 주요 이슈"
+            return 100, "세무서 및 국세청 주요 이슈"
 
     return 0, ""
 
 # =========================================================
-# [4] 알림 보고 로직 (한 번에 모아서 쏘기)
+# [4] 알림 보고 로직 (2단 분리)
 # =========================================================
 def send_hourly_report(logs):
-    valid_logs = [l for l in logs if l.get('score', 0) > 0]
+    # 50점 이상인 의미 있는 기사만 필터링
+    valid_logs = [l for l in logs if l.get('score', 0) >= 50]
     sorted_logs = sorted(valid_logs, key=lambda x: x.get('score', 0), reverse=True)
     
-    high_risks = [l for l in sorted_logs if l.get('score', 0) >= 80 and l['status'] == 'ALERT']
+    high_risks = [l for l in sorted_logs if l.get('score', 0) >= 80]
+    medium_risks = [l for l in sorted_logs if 50 <= l.get('score', 0) < 80]
     
-    if high_risks:
-        title = f"🚨 정기 보고 (주요 타겟 뉴스 {len(high_risks)}건 감지)"
-        description = "설정하신 **5대 핵심 타겟**에 부합하는 중대한 기사가 있습니다.\n\n"
-        for log in high_risks:
-            description += f"🔥 **[{log['score']}점]** [{log['title']}]({log['link']})\n└ {log['reason']}\n\n"
-        color = 0xe74c3c
-    else:
-        title = "🟢 정기 보고 (특이사항 없음)"
-        if not sorted_logs: 
-            description = "설정하신 5대 타겟과 일치하는 뉴스가 현재 없습니다."
-        else:
-            description = "주요 리스크는 없습니다. (AI가 낮게 평가한 의심 기사 목록)\n\n"
-            for i, log in enumerate(sorted_logs[:5], 1):
-                short = log['title'][:40] + "..." if len(log['title']) > 40 else log['title']
-                description += f"**{i}.** [{short}]({log['link']}) `Score: {log['score']}`\n"
+    if not sorted_logs:
+        title = "🟢 뉴스 모니터링 (특이사항 없음)"
+        description = "설정하신 타겟(기업, 경검, 국세청) 관련 이슈 뉴스가 없습니다."
         color = 0x2ecc71
+    else:
+        title = f"📊 정기 보고 (총 {len(sorted_logs)}건 감지)"
+        description = ""
+        color = 0xe74c3c if high_risks else 0xFFA500
+        
+        # 1단: 100점짜리 치명적 리스크
+        if high_risks:
+            description += "🚨 **[핵심 리스크] 즉시 확인 요망**\n"
+            for log in high_risks:
+                description += f"**[{log['score']}점]** [{log['title']}]({log['link']})\n└ {log['reason']}\n\n"
+        
+        # 2단: 70점/50점짜리 주의 및 동향
+        if medium_risks:
+            if high_risks: description += "---\n" # 구분선
+            description += "⚠️ **[주의 및 동향] 모니터링 필요**\n"
+            for log in medium_risks[:7]: # 너무 길어지지 않게 7개까지만
+                description += f"**[{log['score']}점]** [{log['title']}]({log['link']})\n└ {log['reason']}\n"
 
     try:
         data = {
-            "username": "뉴스 모니터링 요약",
+            "username": "뉴스 요약 봇",
             "embeds": [{
                 "title": title, "description": description, "color": color,
                 "footer": {"text": f"{datetime.now().strftime('%H:%M')} 기준"}
@@ -126,7 +158,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (AI 판사)
+# [5] 분석 로직 (AI 판사 프롬프트 수정)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -154,18 +186,23 @@ def analyze_with_ai(title, content, forced_reason):
     기사 본문: {content[:600]}
     사전 감지된 타겟: {forced_reason}
 
-    이 기사가 사전 감지된 타겟에 **실제로** 부합하는지 엄격하게 검증하시오.
+    이 기사를 읽고 아래 기준에 따라 0에서 100 사이의 점수로 평가하시오.
 
-    [🚨 100점 처리 기준 (진짜 상황일 때)]
-    - 기업, 공장, 주요 인물(기업인, 단체장 등)의 횡령, 배임, 비리 의혹, 세금 탈루 제기 및 수사 혐의
-    - 실제로 화재/폭발/사망 사고가 발생한 경우
-    - 실제로 대구/경북 경찰, 검찰, 세무서의 인사/전보 명단이 포함된 경우
+    [🚨 80~100점: 확정적이고 치명적인 리스크]
+    - 확정된 횡령, 구속, 압수수색, 탈루 수사
+    - 실제 발생한 화재, 폭발, 노동자 사망사고
+    - 실제 발표된 경검/세무서 인사 명단
 
-    [⚠️ 0점 처리 기준 (오탐지 방지 - 가짜 상황일 때)]
-    - 🚨 **정치인(국회의원, 시장, 구청장, 도의원, 선거 후보 등)과 관련된 의혹이나 재판 (무조건 0점 처리)**
-    - 제목만 자극적이고 본문은 "화재 예방 캠페인", "안전 점검 실시", "대책 마련"인 경우
-    - 단순히 "성금 기탁", "위로금 전달", "표창장 수여"를 하는 내용인 경우
-    - 대구/경북 지역과 무관한 타 지역의 소식인 경우
+    [⚠️ 50~79점: 주의 깊게 봐야 할 위기 및 논란]
+    - 아직 확정되지 않은 의혹 제기, 고발장 접수, 재판 진행 중
+    - 파업, 노조 갈등, 영업 적자, 주가 폭락, 소송 등의 기업 위기
+    - VIP 기업의 일반적인 부정적 동향
+
+    [❌ 0점: 가짜 뉴스 및 오탐지 방지]
+    - 무조건 0점: 정치인(국회의원, 시장, 선거 등) 관련 기사
+    - 단순 화재 "예방 캠페인", "안전 훈련", "대책 회의"
+    - "성금 기부", "MOU 체결", "표창 수여" 등 긍정적 내용
+    - 대구/경북과 무관한 타 지역 기사
 
     JSON 포맷 응답: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
     """
@@ -175,11 +212,13 @@ def analyze_with_ai(title, content, forced_reason):
     except: return None
 
 def main():
-    print("☁️ 5대 타겟 전용 봇 작동 시작 (개별알림 제거됨)...")
+    print("☁️ 스마트 기억력 & 2단 분리 봇 작동 시작...")
+    
+    # [새로운 기능] 과거 봇의 기억을 불러옵니다.
+    history = load_history()
+    
     execution_logs = []  
     processed_urls = set()
-    seen_titles = [] 
-    
     time_threshold = datetime.now() - timedelta(minutes=70)
 
     if not model: 
@@ -192,30 +231,35 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
+            # 현재 실행 중 중복 방지
             if link in processed_urls: continue
             processed_urls.add(link)
             
+            # [새로운 기능] 1시간 전, 어제 처리했던 URL이면 건너뜁니다.
+            if link in history["urls"]: continue
+
             try:
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
+            # [새로운 기능] 과거 봇이 처리했던 제목들과도 유사도를 비교합니다 (강력한 도배 방지)
             is_dup_title = False
-            for past_title in seen_titles:
+            for past_title in history["titles"]:
                 if get_similarity(title, past_title) > 0.8:
                     is_dup_title = True
                     break
             if is_dup_title: continue 
-            seen_titles.append(title) 
 
             forced_score, forced_reason = check_critical_patterns(title)
             
             log_entry = {
-                "title": title, "link": link, "status": "PASS",
-                "score": 0, "category": "일반", "reason": ""
+                "title": title, "link": link,
+                "score": forced_score, "category": "일반", "reason": forced_reason
             }
 
-            if forced_score == 100:
-                print(f"🔍 타겟 감지됨. AI 검증 진행: {title}")
+            # 50점 이상(주의보 이상) 기사만 AI에게 검증을 맡깁니다.
+            if forced_score >= 50:
+                print(f"🔍 타겟 감지됨({forced_score}점). AI 검증 진행: {title}")
                 content = scrape_article(link)
                 
                 if not content:
@@ -230,26 +274,24 @@ def main():
                         log_entry['category'] = result.get('category', forced_reason)
                         
                         if final_score == 0:
-                            log_entry['reason'] = "[AI 기각] " + result.get('reason', '관련 없는 내용')
+                            log_entry['reason'] = "[AI 기각] 정치 또는 무관한 내용"
                         else:
                             log_entry['reason'] = result.get('reason', forced_reason)
-                        
-                        if final_score >= 80:
-                            log_entry['status'] = "ALERT"
-                            print(f"🚨 중요 타겟 뉴스 확정: {title} (종합보고에 추가됨)")
-                            
                     else:
-                        log_entry['score'] = 100
-                        log_entry['status'] = "ALERT" 
-                        log_entry['reason'] = forced_reason + " (AI 응답 지연)"
-                        print(f"🚨 타겟 감지 (AI 대체): {title} (종합보고에 추가됨)")
+                        log_entry['reason'] += " (AI 응답 지연)"
             
             execution_logs.append(log_entry)
+            
+            # AI 처리를 받았든 안 받았든, 새 기사는 봇의 '기억'에 추가합니다.
+            history["urls"].append(link)
+            history["titles"].append(title)
             time.sleep(1)
 
-    # 모든 처리가 끝난 후 딱 한 번! 모아서 리포트 전송
     send_hourly_report(execution_logs)
-    print("✅ 완료")
+    
+    # [새로운 기능] 새롭게 배운 제목과 링크를 파일에 저장합니다.
+    save_history(history)
+    print("✅ 완료 및 기억 저장 성공")
 
 if __name__ == "__main__":
     main()
