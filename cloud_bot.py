@@ -104,7 +104,6 @@ def check_critical_patterns(title):
 # [4] 알림 보고 로직 (2단 분리 모아 쏘기)
 # =========================================================
 def send_hourly_report(logs):
-    # 50점 이상 기사만 남겨서 10, 20, 30점짜리 쓸데없는 기사를 완전히 차단합니다.
     valid_logs = [l for l in logs if l.get('score', 0) >= 50]
     sorted_logs = sorted(valid_logs, key=lambda x: x.get('score', 0), reverse=True)
     
@@ -143,7 +142,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (🚨 AI 에러 자동 우회 및 복구 시스템 적용)
+# [5] 분석 로직 (🚨 서버에서 사용 가능한 모델 자동 탐색)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -201,43 +200,58 @@ def analyze_with_ai(title, content, forced_reason):
         {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"}
     ]
 
-    model_flash = genai.GenerativeModel('gemini-1.5-flash')
-    model_pro = genai.GenerativeModel('gemini-pro')
-
     try:
-        res = model_flash.generate_content(
-            prompt, 
-            safety_settings=safety_settings,
-            generation_config={"response_mime_type": "application/json"}
-        )
-    except Exception as e:
-        print(f"⚠️ 1.5 Flash 에러 발생 ({e}). 구형 모델(Gemini Pro)로 자동 우회합니다...")
-        try:
-            res = model_pro.generate_content(
+        # [핵심 로직] 내 API 키로 사용할 수 있는 모델 목록을 구글 서버에서 직접 받아옵니다.
+        valid_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+        
+        target_model = None
+        # 1.5 계열의 똑똑한 모델을 먼저 찾고, 없으면 1.0이나 pro를 찾습니다.
+        for pref in ['models/gemini-1.5-flash', 'models/gemini-1.5-pro', 'models/gemini-1.0-pro', 'models/gemini-pro']:
+            if pref in valid_models:
+                target_model = pref.replace('models/', '')
+                break
+                
+        # 만약 위 이름들이 다 없으면 구글이 허락한 첫 번째 텍스트 생성 모델을 무조건 씁니다.
+        if not target_model:
+            if valid_models:
+                target_model = valid_models[0].replace('models/', '')
+            else:
+                print("❌ API 키에 연결된 사용 가능한 Gemini 모델이 없습니다.")
+                return None
+
+        # 확정된 모델로 세팅
+        model = genai.GenerativeModel(target_model)
+
+        # 1.5 최신 버전일 때만 JSON 강제 출력 옵션을 사용합니다 (구버전 충돌 방지)
+        if "1.5" in target_model:
+            res = model.generate_content(
+                prompt, 
+                safety_settings=safety_settings,
+                generation_config={"response_mime_type": "application/json"}
+            )
+        else:
+            res = model.generate_content(
                 prompt, 
                 safety_settings=safety_settings
             )
-        except Exception as e2:
-            print(f"❌ AI 분석 최종 실패: {title} | 사유: {e2}")
-            return None
 
-    try:
+        # JSON 마크다운 찌꺼기 깔끔하게 제거
         raw_text = res.text.strip()
-        # 마크다운 충돌 방지를 위해 백틱 문자열 생성 방식을 변경했습니다.
         marker = "`" * 3
         if raw_text.startswith(f"{marker}json"): raw_text = raw_text[7:]
         elif raw_text.startswith(marker): raw_text = raw_text[3:]
         if raw_text.endswith(marker): raw_text = raw_text[:-3]
+        
         return json.loads(raw_text.strip())
+        
     except Exception as e:
-        print(f"❌ AI JSON 파싱 실패: {title} | 텍스트: {res.text}")
+        print(f"❌ AI 분석 최종 실패: {title} | 사유: {e}")
         return None
 
 def main():
-    print("☁️ 스마트 기억력 & AI 2중 복구 봇 작동 시작...")
+    print("☁️ 스마트 기억력 & AI 모델 자동 탐색 봇 작동 시작...")
     
     history = load_history()
-    
     execution_logs = []  
     processed_urls = set()
     time_threshold = datetime.now() - timedelta(minutes=70)
@@ -290,7 +304,7 @@ def main():
                         else:
                             log_entry['reason'] = result.get('reason', forced_reason)
                     else:
-                        log_entry['reason'] += " (AI 분석 불가 - 파이썬 점수 유지)"
+                        log_entry['reason'] += " (AI 분석 에러 - 파이썬 점수 유지)"
             
             execution_logs.append(log_entry)
             
