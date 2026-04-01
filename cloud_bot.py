@@ -16,10 +16,11 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
-# [핵심] 수집 단계부터 타겟팅된 정밀 키워드로만 검색합니다. (전국구 노이즈 차단)
+# [검색어 추가] 의혹, 혐의, 탈루 검색어 추가
 KEYWORDS = [
     "대구 압수수색", "경북 압수수색", "대구 공장 화재", "경북 공장 화재", 
     "대구 중대재해", "경북 중대재해", "대구 횡령", "경북 횡령",
+    "대구 의혹", "경북 의혹", "대구 혐의", "경북 혐의", "대구 탈루", "경북 탈루",
     "포스코", "포항제철소", "에코프로", "엘앤에프", "iM뱅크", "대구은행", 
     "대구지방국세청", "대구 세무서", "경북 세무서", "국세청",
     "대구경찰청 인사", "경북경찰청 인사", "대구지검 인사", "대구지검 전보"
@@ -47,38 +48,46 @@ def get_similarity(a, b):
 def check_critical_patterns(title):
     title_no_space = title.replace(" ", "")
     
-    # 1. 지역 및 주체 사전 (Dictionary)
+    # 🚫 [강제 차단] 정치 관련 키워드가 하나라도 있으면 즉시 0점 처리 (Kill-switch)
+    politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
+    if any(pol in title for pol in politics_keywords):
+        return 0, ""
+
+    # 1. 지역 및 주체 사전
     local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
     company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업"]
     
-    # [중요] 지역어가 없어도 통과되는 대구경북 주요 기업/기관 (VIP망)
+    # [추가] 인물 타겟팅 (기업인, 기관장 등)
+    figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장"]
+    
     vip_companies = ["포스코", "포항제철", "에코프로", "엘앤에프", "대구은행", "iM뱅크", "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력", "한수원", "성서산단", "구미산단"]
     
     agencies_police_prosecutor = ["경찰", "검찰", "지검", "지청"]
     agencies_tax = ["국세청", "세무서", "국세공무원"]
 
-    # 2. 이슈(사건) 사전
-    issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포"]
+    # 2. 이슈(사건) 사전 [추가: 의혹, 혐의, 탈루]
+    issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
 
-    # 3. 주체 파악 (True/False)
+    # 3. 주체 파악
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
+    is_figure = any(fig in title for fig in figures_general)
     is_vip_company = any(vip in title for vip in vip_companies)
     
-    # 기업 타겟팅: (지역어 + 일반기업어) 또는 (VIP기업명)
-    target_company = (is_local and is_general_company) or is_vip_company
-    # 경검 타겟팅: (지역어 + 경검어)
+    # 기업/인물 타겟팅: (지역어 + 일반기업/인물어) 또는 (VIP기업명)
+    target_company_or_figure = (is_local and (is_general_company or is_figure)) or is_vip_company
+    
+    # 경검/세무 타겟팅
     target_pol_pro = is_local and any(agency in title for agency in agencies_police_prosecutor)
-    # 세무 타겟팅: (지역어 + 세무어) 또는 (국세청 본청)
     target_tax = (is_local and any(tax in title for tax in agencies_tax)) or ("국세청" in title)
 
-    # 4. 타겟별 이슈 매칭 (5대 목표)
-    if target_company:
+    # 4. 타겟별 이슈 매칭
+    if target_company_or_figure:
         if any(crime in title for crime in issue_crime):
-            return 100, "1. 대구/경북 기업 범죄/수사 이슈"
+            return 100, "1. 대구/경북 기업(인물) 범죄/의혹/수사 이슈"
         if any(disaster in title for disaster in issue_disaster):
             return 100, "2. 대구/경북 기업 재난(화재/폭발) 이슈"
         if any(acc in title for acc in issue_accident):
@@ -92,7 +101,6 @@ def check_critical_patterns(title):
         if any(crime in title for crime in issue_crime + issue_accident) or any(personnel in title for personnel in issue_personnel):
             return 100, "5. 대구/경북 세무서 및 국세청 주요 이슈"
 
-    # 타겟에 해당하지 않거나 타겟이더라도 우리가 원하는 이슈가 아니면 무조건 0점
     return 0, ""
 
 # =========================================================
@@ -118,7 +126,6 @@ def send_alert_discord(title, summary, reason, link, category, score):
     except: pass
 
 def send_hourly_report(logs):
-    # 0점이 아닌 유효한 기사만 필터링합니다. (쓸데없는 기사 원천 차단)
     valid_logs = [l for l in logs if l.get('score', 0) > 0]
     sorted_logs = sorted(valid_logs, key=lambda x: x.get('score', 0), reverse=True)
     
@@ -133,7 +140,7 @@ def send_hourly_report(logs):
     else:
         title = "🟢 정기 보고 (특이사항 없음)"
         if not sorted_logs: 
-            description = "설정하신 5대 타겟(기업 비리, 재난, 사망, 경검 인사, 국세청)과 일치하는 뉴스가 현재 없습니다."
+            description = "설정하신 5대 타겟(기업 비리, 의혹, 재난, 사망, 경검 인사, 국세청)과 일치하는 뉴스가 현재 없습니다."
         else:
             description = "주요 리스크는 없습니다. (AI가 낮게 평가한 의심 기사 목록)\n\n"
             for i, log in enumerate(sorted_logs[:5], 1):
@@ -181,17 +188,18 @@ def analyze_with_ai(title, content, forced_reason):
     기사 본문: {content[:600]}
     사전 감지된 타겟: {forced_reason}
 
-    이 기사가 사전 감지된 타겟(대구/경북 기업 재난/사망/비리, 경검 인사, 국세청 이슈)에 **실제로** 부합하는지 엄격하게 검증하시오.
+    이 기사가 사전 감지된 타겟에 **실제로** 부합하는지 엄격하게 검증하시오.
 
     [🚨 100점 처리 기준 (진짜 상황일 때)]
+    - 기업, 공장, 주요 인물(기업인, 단체장 등)의 횡령, 배임, 비리 의혹, 세금 탈루 제기 및 수사 혐의
     - 실제로 화재/폭발/사망 사고가 발생한 경우
-    - 실제로 압수수색, 횡령, 구속, 비리 등 수사가 진행/발표된 경우
     - 실제로 대구/경북 경찰, 검찰, 세무서의 인사/전보 명단이 포함된 경우
 
     [⚠️ 0점 처리 기준 (오탐지 방지 - 가짜 상황일 때)]
-    - 제목만 자극적이고 본문은 "화재 예방 캠페인", "안전 점검 실시", "모의 훈련", "대책 마련"인 경우
-    - 과거의 사고를 단순히 언급하며 "성금 기탁", "위로금 전달", "표창장 수여", "MOU 체결"을 하는 내용인 경우
-    - 대구/경북 지역과 완전히 무관한 타 지역(서울, 충남 등)의 소식인 경우
+    - 🚨 **정치인(국회의원, 시장, 구청장, 도의원, 선거 후보 등)과 관련된 의혹이나 재판 (무조건 0점 처리)**
+    - 제목만 자극적이고 본문은 "화재 예방 캠페인", "안전 점검 실시", "대책 마련"인 경우
+    - 단순히 "성금 기탁", "위로금 전달", "표창장 수여"를 하는 내용인 경우
+    - 대구/경북 지역과 무관한 타 지역의 소식인 경우
 
     JSON 포맷 응답: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
     """
@@ -239,11 +247,10 @@ def main():
             
             log_entry = {
                 "title": title, "link": link, "status": "PASS",
-                "score": 0,  # 기본값 0점
+                "score": 0,
                 "category": "일반", "reason": ""
             }
 
-            # 파이썬 1차망에서 100점(타겟 명중)을 받은 기사만 AI에게 검증을 맡깁니다.
             if forced_score == 100:
                 print(f"🔍 타겟 감지됨. AI 검증 진행: {title}")
                 content = scrape_article(link)
@@ -259,27 +266,23 @@ def main():
                         log_entry['score'] = final_score
                         log_entry['category'] = result.get('category', forced_reason)
                         
-                        # AI가 0점을 주면 가짜 뉴스(예방/점검/기부 등)로 판명된 것
                         if final_score == 0:
-                            log_entry['reason'] = "[AI 기각] " + result.get('reason', '관련 없는 내용')
+                            log_entry['reason'] = "[AI 기각] " + result.get('reason', '관련 없는 내용 (또는 정치 기사)')
                         else:
                             log_entry['reason'] = result.get('reason', forced_reason)
                         
-                        # AI가 80점 이상을 유지하면 진짜 뉴스이므로 알림 전송
                         if final_score >= 80:
                             log_entry['status'] = "ALERT"
                             print(f"🚨 중요 타겟 뉴스 확정: {title}")
                             send_alert_discord(title, "주요 타겟 뉴스", log_entry['reason'], link, log_entry['category'], final_score)
                             
                     else:
-                        # AI 에러 시 파이썬 점수 유지 및 알림
                         log_entry['score'] = 100
                         log_entry['status'] = "ALERT" 
                         log_entry['reason'] = forced_reason + " (AI 응답 지연)"
                         print(f"🚨 타겟 감지 (AI 대체): {title}")
                         send_alert_discord(title, "주요 타겟 뉴스", log_entry['reason'], link, forced_reason, 100)
             
-            # 파이썬 1차망에서 0점을 받은 기사나 최종 처리가 끝난 기사를 기록에 추가
             execution_logs.append(log_entry)
             time.sleep(1)
 
@@ -289,4 +292,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
