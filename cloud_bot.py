@@ -16,7 +16,6 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
-# [검색어 추가] 의혹, 혐의, 탈루 검색어 추가
 KEYWORDS = [
     "대구 압수수색", "경북 압수수색", "대구 공장 화재", "경북 공장 화재", 
     "대구 중대재해", "경북 중대재해", "대구 횡령", "경북 횡령",
@@ -48,54 +47,40 @@ def get_similarity(a, b):
 def check_critical_patterns(title):
     title_no_space = title.replace(" ", "")
     
-    # 🚫 [강제 차단] 정치 관련 키워드가 하나라도 있으면 즉시 0점 처리 (Kill-switch)
+    # 🚫 [강제 차단] 정치 관련 키워드
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
     if any(pol in title for pol in politics_keywords):
         return 0, ""
 
-    # 1. 지역 및 주체 사전
     local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
     company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업"]
-    
-    # [추가] 인물 타겟팅 (기업인, 기관장 등)
     figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장"]
-    
     vip_companies = ["포스코", "포항제철", "에코프로", "엘앤에프", "대구은행", "iM뱅크", "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력", "한수원", "성서산단", "구미산단"]
     
     agencies_police_prosecutor = ["경찰", "검찰", "지검", "지청"]
     agencies_tax = ["국세청", "세무서", "국세공무원"]
 
-    # 2. 이슈(사건) 사전 [추가: 의혹, 혐의, 탈루]
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
 
-    # 3. 주체 파악
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
     is_figure = any(fig in title for fig in figures_general)
     is_vip_company = any(vip in title for vip in vip_companies)
     
-    # 기업/인물 타겟팅: (지역어 + 일반기업/인물어) 또는 (VIP기업명)
     target_company_or_figure = (is_local and (is_general_company or is_figure)) or is_vip_company
-    
-    # 경검/세무 타겟팅
     target_pol_pro = is_local and any(agency in title for agency in agencies_police_prosecutor)
     target_tax = (is_local and any(tax in title for tax in agencies_tax)) or ("국세청" in title)
 
-    # 4. 타겟별 이슈 매칭
     if target_company_or_figure:
-        if any(crime in title for crime in issue_crime):
-            return 100, "1. 대구/경북 기업(인물) 범죄/의혹/수사 이슈"
-        if any(disaster in title for disaster in issue_disaster):
-            return 100, "2. 대구/경북 기업 재난(화재/폭발) 이슈"
-        if any(acc in title for acc in issue_accident):
-            return 100, "3. 대구/경북 기업 노동자 사망/중대재해"
+        if any(crime in title for crime in issue_crime): return 100, "1. 대구/경북 기업(인물) 범죄/의혹/수사 이슈"
+        if any(disaster in title for disaster in issue_disaster): return 100, "2. 대구/경북 기업 재난(화재/폭발) 이슈"
+        if any(acc in title for acc in issue_accident): return 100, "3. 대구/경북 기업 노동자 사망/중대재해"
 
     if target_pol_pro:
-        if any(personnel in title for personnel in issue_personnel):
-            return 100, "4. 대구/경북 경찰/검찰 인사 소식"
+        if any(personnel in title for personnel in issue_personnel): return 100, "4. 대구/경북 경찰/검찰 인사 소식"
 
     if target_tax:
         if any(crime in title for crime in issue_crime + issue_accident) or any(personnel in title for personnel in issue_personnel):
@@ -104,27 +89,8 @@ def check_critical_patterns(title):
     return 0, ""
 
 # =========================================================
-# [4] 알림 및 보고 로직
+# [4] 알림 보고 로직 (한 번에 모아서 쏘기)
 # =========================================================
-def send_alert_discord(title, summary, reason, link, category, score):
-    color = 0xFF0000 if score >= 80 else 0xFFA500
-    try:
-        data = {
-            "username": "리스크 감시 봇",
-            "embeds": [{
-                "title": f"🚨 [자동감지] {category}",
-                "description": f"**{title}**",
-                "color": color, 
-                "fields": [
-                    {"name": "💡 감지 사유", "value": reason, "inline": False},
-                    {"name": "🔗 바로가기", "value": f"[기사 원문]({link})", "inline": True}
-                ],
-                "footer": {"text": "Critical News Alert"}
-            }]
-        }
-        requests.post(DISCORD_WEBHOOK_URL, json=data)
-    except: pass
-
 def send_hourly_report(logs):
     valid_logs = [l for l in logs if l.get('score', 0) > 0]
     sorted_logs = sorted(valid_logs, key=lambda x: x.get('score', 0), reverse=True)
@@ -135,12 +101,12 @@ def send_hourly_report(logs):
         title = f"🚨 정기 보고 (주요 타겟 뉴스 {len(high_risks)}건 감지)"
         description = "설정하신 **5대 핵심 타겟**에 부합하는 중대한 기사가 있습니다.\n\n"
         for log in high_risks:
-            description += f"🔥 **[{log['score']}점]** {log['title']}\n└ {log['reason']}\n\n"
+            description += f"🔥 **[{log['score']}점]** [{log['title']}]({log['link']})\n└ {log['reason']}\n\n"
         color = 0xe74c3c
     else:
         title = "🟢 정기 보고 (특이사항 없음)"
         if not sorted_logs: 
-            description = "설정하신 5대 타겟(기업 비리, 의혹, 재난, 사망, 경검 인사, 국세청)과 일치하는 뉴스가 현재 없습니다."
+            description = "설정하신 5대 타겟과 일치하는 뉴스가 현재 없습니다."
         else:
             description = "주요 리스크는 없습니다. (AI가 낮게 평가한 의심 기사 목록)\n\n"
             for i, log in enumerate(sorted_logs[:5], 1):
@@ -209,7 +175,7 @@ def analyze_with_ai(title, content, forced_reason):
     except: return None
 
 def main():
-    print("☁️ 5대 타겟 전용 봇 작동 시작...")
+    print("☁️ 5대 타겟 전용 봇 작동 시작 (개별알림 제거됨)...")
     execution_logs = []  
     processed_urls = set()
     seen_titles = [] 
@@ -233,7 +199,6 @@ def main():
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
-            # 제목 유사도 도배 방지 (0.8 기준)
             is_dup_title = False
             for past_title in seen_titles:
                 if get_similarity(title, past_title) > 0.8:
@@ -242,13 +207,11 @@ def main():
             if is_dup_title: continue 
             seen_titles.append(title) 
 
-            # 1. 스나이퍼 필터 (파이썬 1차망)
             forced_score, forced_reason = check_critical_patterns(title)
             
             log_entry = {
                 "title": title, "link": link, "status": "PASS",
-                "score": 0,
-                "category": "일반", "reason": ""
+                "score": 0, "category": "일반", "reason": ""
             }
 
             if forced_score == 100:
@@ -267,26 +230,24 @@ def main():
                         log_entry['category'] = result.get('category', forced_reason)
                         
                         if final_score == 0:
-                            log_entry['reason'] = "[AI 기각] " + result.get('reason', '관련 없는 내용 (또는 정치 기사)')
+                            log_entry['reason'] = "[AI 기각] " + result.get('reason', '관련 없는 내용')
                         else:
                             log_entry['reason'] = result.get('reason', forced_reason)
                         
                         if final_score >= 80:
                             log_entry['status'] = "ALERT"
-                            print(f"🚨 중요 타겟 뉴스 확정: {title}")
-                            send_alert_discord(title, "주요 타겟 뉴스", log_entry['reason'], link, log_entry['category'], final_score)
+                            print(f"🚨 중요 타겟 뉴스 확정: {title} (종합보고에 추가됨)")
                             
                     else:
                         log_entry['score'] = 100
                         log_entry['status'] = "ALERT" 
                         log_entry['reason'] = forced_reason + " (AI 응답 지연)"
-                        print(f"🚨 타겟 감지 (AI 대체): {title}")
-                        send_alert_discord(title, "주요 타겟 뉴스", log_entry['reason'], link, forced_reason, 100)
+                        print(f"🚨 타겟 감지 (AI 대체): {title} (종합보고에 추가됨)")
             
             execution_logs.append(log_entry)
             time.sleep(1)
 
-    # 1시간 요약 리포트 전송
+    # 모든 처리가 끝난 후 딱 한 번! 모아서 리포트 전송
     send_hourly_report(execution_logs)
     print("✅ 완료")
 
