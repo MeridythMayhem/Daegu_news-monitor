@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from newspaper import Article # 💡 새로 추가된 범용 스크래핑 라이브러리
 import time
 import json
 import os
@@ -16,7 +17,11 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 
-# [핵심] 수집 단계부터 타겟팅된 정밀 키워드로만 검색합니다. (전국구 노이즈 차단)
+# 💡 기록을 저장할 파일 이름과 최대 보관 개수 설정
+HISTORY_FILE = "bot_history.json"
+MAX_HISTORY = 1000
+
+# [핵심] 수집 단계부터 타겟팅된 정밀 키워드로만 검색합니다.
 KEYWORDS = [
     "대구 압수수색", "경북 압수수색", "대구 공장 화재", "경북 공장 화재", 
     "대구 중대재해", "경북 중대재해", "대구 횡령", "경북 횡령",
@@ -26,7 +31,34 @@ KEYWORDS = [
 ]
 
 # =========================================================
-# [2] AI 모델 연결
+# [2] 상태 관리 (기억 유지 로직 추가)
+# =========================================================
+def load_history():
+    """실행 시 이전 기록(DB)을 불러옵니다."""
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return set(data.get("processed_urls", [])), data.get("seen_titles", [])
+        except Exception as e:
+            print(f"⚠️ 기록 파일을 읽는 중 오류 발생 (초기화 진행): {e}")
+            return set(), []
+    return set(), []
+
+def save_history(processed_urls, seen_titles):
+    """종료 전 현재 기록을 파일에 저장합니다."""
+    data = {
+        "processed_urls": list(processed_urls)[-MAX_HISTORY:],
+        "seen_titles": seen_titles[-MAX_HISTORY:]
+    }
+    try:
+        with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"❌ 기록 저장 실패: {e}")
+
+# =========================================================
+# [3] AI 모델 연결 및 유틸리티
 # =========================================================
 def get_available_model():
     if not GOOGLE_API_KEY: return None
@@ -42,61 +74,47 @@ def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 # =========================================================
-# [3] 스나이퍼 필터 (파이썬 강제 채점)
+# [4] 스나이퍼 필터 (파이썬 강제 채점)
 # =========================================================
 def check_critical_patterns(title):
     title_no_space = title.replace(" ", "")
     
-    # 1. 지역 및 주체 사전 (Dictionary)
     local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
     company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업"]
-    
-    # [중요] 지역어가 없어도 통과되는 대구경북 주요 기업/기관 (VIP망)
     vip_companies = ["포스코", "포항제철", "에코프로", "엘앤에프", "대구은행", "iM뱅크", "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력", "한수원", "성서산단", "구미산단"]
     
     agencies_police_prosecutor = ["경찰", "검찰", "지검", "지청"]
     agencies_tax = ["국세청", "세무서", "국세공무원"]
 
-    # 2. 이슈(사건) 사전
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
 
-    # 3. 주체 파악 (True/False)
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
     is_vip_company = any(vip in title for vip in vip_companies)
     
-    # 기업 타겟팅: (지역어 + 일반기업어) 또는 (VIP기업명)
     target_company = (is_local and is_general_company) or is_vip_company
-    # 경검 타겟팅: (지역어 + 경검어)
     target_pol_pro = is_local and any(agency in title for agency in agencies_police_prosecutor)
-    # 세무 타겟팅: (지역어 + 세무어) 또는 (국세청 본청)
     target_tax = (is_local and any(tax in title for tax in agencies_tax)) or ("국세청" in title)
 
-    # 4. 타겟별 이슈 매칭 (5대 목표)
     if target_company:
-        if any(crime in title for crime in issue_crime):
-            return 100, "1. 대구/경북 기업 범죄/수사 이슈"
-        if any(disaster in title for disaster in issue_disaster):
-            return 100, "2. 대구/경북 기업 재난(화재/폭발) 이슈"
-        if any(acc in title for acc in issue_accident):
-            return 100, "3. 대구/경북 기업 노동자 사망/중대재해"
+        if any(crime in title for crime in issue_crime): return 100, "1. 대구/경북 기업 범죄/수사 이슈"
+        if any(disaster in title for disaster in issue_disaster): return 100, "2. 대구/경북 기업 재난(화재/폭발) 이슈"
+        if any(acc in title for acc in issue_accident): return 100, "3. 대구/경북 기업 노동자 사망/중대재해"
 
     if target_pol_pro:
-        if any(personnel in title for personnel in issue_personnel):
-            return 100, "4. 대구/경북 경찰/검찰 인사 소식"
+        if any(personnel in title for personnel in issue_personnel): return 100, "4. 대구/경북 경찰/검찰 인사 소식"
 
     if target_tax:
         if any(crime in title for crime in issue_crime + issue_accident) or any(personnel in title for personnel in issue_personnel):
             return 100, "5. 대구/경북 세무서 및 국세청 주요 이슈"
 
-    # 타겟에 해당하지 않거나 타겟이더라도 우리가 원하는 이슈가 아니면 무조건 0점
     return 0, ""
 
 # =========================================================
-# [4] 알림 및 보고 로직
+# [5] 알림 및 보고 로직
 # =========================================================
 def send_alert_discord(title, summary, reason, link, category, score):
     color = 0xFF0000 if score >= 80 else 0xFFA500
@@ -115,13 +133,12 @@ def send_alert_discord(title, summary, reason, link, category, score):
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
-    except: pass
+    except Exception as e:
+        print(f"⚠️ 디스코드 알림 발송 실패: {e}")
 
 def send_hourly_report(logs):
-    # 0점이 아닌 유효한 기사만 필터링합니다. (쓸데없는 기사 원천 차단)
     valid_logs = [l for l in logs if l.get('score', 0) > 0]
     sorted_logs = sorted(valid_logs, key=lambda x: x.get('score', 0), reverse=True)
-    
     high_risks = [l for l in sorted_logs if l.get('score', 0) >= 80 and l['status'] == 'ALERT']
     
     if high_risks:
@@ -150,10 +167,11 @@ def send_hourly_report(logs):
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
-    except: pass
+    except Exception as e:
+        print(f"⚠️ 디스코드 리포트 발송 실패: {e}")
 
 # =========================================================
-# [5] 분석 로직 (AI 판사)
+# [6] 데이터 수집 및 분석 (스크래핑 로직 개선됨)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -161,16 +179,37 @@ def search_naver_news(keyword):
     params = {"query": keyword, "display": 15, "sort": "date"}
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
-    except: return []
+    except Exception as e: 
+        print(f"⚠️ 네이버 API 검색 실패 ({keyword}): {e}")
+        return []
 
 def scrape_article(url):
+    """newspaper3k를 활용한 범용 기사 스크래핑 (언론사 아웃링크 대응)"""
     try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
+        # 1차 시도: newspaper3k
+        article = Article(url, language='ko')
+        article.download()
+        article.parse()
+        if article.text:
+            return article.text.strip()[:1000]
+    except Exception as e:
+        pass # 조용히 2차 시도로 넘어감
+
+    # 2차 시도 (Fallback): 기존 BeautifulSoup 네이버 인링크 전용 방식
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
         response = requests.get(url, headers=headers, timeout=5)
         soup = BeautifulSoup(response.text, 'html.parser')
-        content = soup.select_one('#dic_area') or soup.select_one('#articeBody') or soup.select_one('.go_trans._article_content')
+        
+        content = (soup.select_one('#dic_area') or 
+                   soup.select_one('#articeBody') or 
+                   soup.select_one('.go_trans._article_content') or
+                   soup.select_one('article'))
+                   
         return content.get_text(strip=True)[:1000] if content else None
-    except: return None
+    except Exception as e:
+        print(f"❌ 스크래핑 최종 실패 ({url}): {e}")
+        return None
 
 def analyze_with_ai(title, content, forced_reason):
     if not model: return None
@@ -198,18 +237,24 @@ def analyze_with_ai(title, content, forced_reason):
     try:
         res = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
         return json.loads(res.text)
-    except: return None
+    except Exception as e:
+        print(f"⚠️ AI 분석 오류: {e}")
+        return None
 
+# =========================================================
+# [7] 메인 실행 (수정됨)
+# =========================================================
 def main():
     print("☁️ 5대 타겟 전용 봇 작동 시작...")
     execution_logs = []  
-    processed_urls = set()
-    seen_titles = [] 
+    
+    # 💡 [추가] 시작할 때 이전 기록 불러오기 (중복 방지)
+    processed_urls, seen_titles = load_history()
     
     time_threshold = datetime.now() - timedelta(minutes=70)
 
     if not model: 
-        print("API 키 오류")
+        print("❌ API 키 오류: 구글 제미나이 API 키를 확인하세요.")
         return
 
     for keyword in KEYWORDS:
@@ -218,6 +263,7 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
+            # 이미 처리한 URL이면 건너뛰기 (기록 파일 덕분에 봇이 꺼졌다 켜져도 기억함)
             if link in processed_urls: continue
             processed_urls.add(link)
             
@@ -225,7 +271,7 @@ def main():
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
-            # 제목 유사도 도배 방지 (0.8 기준)
+            # 제목 유사도 도배 방지
             is_dup_title = False
             for past_title in seen_titles:
                 if get_similarity(title, past_title) > 0.8:
@@ -239,11 +285,9 @@ def main():
             
             log_entry = {
                 "title": title, "link": link, "status": "PASS",
-                "score": 0,  # 기본값 0점
-                "category": "일반", "reason": ""
+                "score": 0, "category": "일반", "reason": ""
             }
 
-            # 파이썬 1차망에서 100점(타겟 명중)을 받은 기사만 AI에게 검증을 맡깁니다.
             if forced_score == 100:
                 print(f"🔍 타겟 감지됨. AI 검증 진행: {title}")
                 content = scrape_article(link)
@@ -259,33 +303,32 @@ def main():
                         log_entry['score'] = final_score
                         log_entry['category'] = result.get('category', forced_reason)
                         
-                        # AI가 0점을 주면 가짜 뉴스(예방/점검/기부 등)로 판명된 것
                         if final_score == 0:
                             log_entry['reason'] = "[AI 기각] " + result.get('reason', '관련 없는 내용')
                         else:
                             log_entry['reason'] = result.get('reason', forced_reason)
                         
-                        # AI가 80점 이상을 유지하면 진짜 뉴스이므로 알림 전송
                         if final_score >= 80:
                             log_entry['status'] = "ALERT"
                             print(f"🚨 중요 타겟 뉴스 확정: {title}")
                             send_alert_discord(title, "주요 타겟 뉴스", log_entry['reason'], link, log_entry['category'], final_score)
                             
                     else:
-                        # AI 에러 시 파이썬 점수 유지 및 알림
                         log_entry['score'] = 100
                         log_entry['status'] = "ALERT" 
                         log_entry['reason'] = forced_reason + " (AI 응답 지연)"
                         print(f"🚨 타겟 감지 (AI 대체): {title}")
                         send_alert_discord(title, "주요 타겟 뉴스", log_entry['reason'], link, forced_reason, 100)
             
-            # 파이썬 1차망에서 0점을 받은 기사나 최종 처리가 끝난 기사를 기록에 추가
             execution_logs.append(log_entry)
-            time.sleep(1)
+            time.sleep(1) # API 과부하 방지
 
     # 1시간 요약 리포트 전송
     send_hourly_report(execution_logs)
-    print("✅ 완료")
+    
+    # 💡 [추가] 모든 작업이 끝나면 기록 저장하기
+    save_history(processed_urls, seen_titles)
+    print("✅ 완료 및 기록 저장 성공 (bot_history.json 생성됨)")
 
 if __name__ == "__main__":
     main()
