@@ -11,10 +11,8 @@ from difflib import SequenceMatcher
 # =========================================================
 # [1] 환경변수 및 설정
 # =========================================================
-# 🚨 [중요] 테스트 스위치 🚨
-# True : 과거 기억을 무시하고 최근 24시간 기사를 전부 AI로 다시 검사합니다. (작동 확인용)
-# False: 정상 작동 모드 (과거 기억 유지, 최근 70분 기사만 검사)
-TEST_MODE = True  
+# 🚨 정상 작동 모드 (최근 70분 기사만 초고속으로 검사합니다)
+TEST_MODE = False
 
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
@@ -44,6 +42,7 @@ def load_history():
     return {"urls": [], "titles": []}
 
 def save_history(history):
+    # 최근 500개만 기억하여 깃허브 용량 최적화
     history["urls"] = history["urls"][-500:]
     history["titles"] = history["titles"][-500:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
@@ -71,10 +70,13 @@ def check_critical_patterns(title):
     agencies_police_prosecutor = ["경찰", "검찰", "지검", "지청"]
     agencies_tax = ["국세청", "세무서", "국세공무원"]
 
+    # 🚨 100점짜리 치명적 이슈
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
+    
+    # ⚠️ 70점짜리 주의보 (위기, 갈등)
     issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동", "하락"]
 
     is_local = any(loc in title for loc in local_areas)
@@ -146,7 +148,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (🚨 AI 에러 자동 우회 및 복구 시스템 적용)
+# [5] 분석 로직 (AI 한도 초과(429) 방지 및 자동 우회/재시도)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -165,9 +167,20 @@ def scrape_article(url):
         return content.get_text(strip=True)[:1000] if content else None
     except: return None
 
-def analyze_with_ai(title, content, forced_reason):
+def get_best_ai_model_name():
     if not GOOGLE_API_KEY: return None
     genai.configure(api_key=GOOGLE_API_KEY)
+    try:
+        valid_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+        for pref in ['models/gemini-2.5-flash', 'models/gemini-1.5-flash', 'models/gemini-2.5-pro', 'models/gemini-1.5-pro', 'models/gemini-1.0-pro', 'models/gemini-pro']:
+            if pref in valid_models: return pref.replace('models/', '')
+        return valid_models[0].replace('models/', '') if valid_models else None
+    except Exception as e:
+        print(f"❌ AI 모델 초기화 실패: {e}")
+        return None
+
+def analyze_with_ai(title, content, forced_reason, model_name):
+    if not model_name: return None
     
     prompt = f"""
     [분석 요청]
@@ -204,62 +217,56 @@ def analyze_with_ai(title, content, forced_reason):
         {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"}
     ]
 
-    try:
-        valid_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
-        
-        target_model = None
-        for pref in ['models/gemini-1.5-flash', 'models/gemini-1.5-pro', 'models/gemini-1.0-pro', 'models/gemini-pro']:
-            if pref in valid_models:
-                target_model = pref.replace('models/', '')
-                break
-                
-        if not target_model:
-            if valid_models:
-                target_model = valid_models[0].replace('models/', '')
+    model = genai.GenerativeModel(model_name)
+
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            if "1.5" in model_name or "2.5" in model_name:
+                res = model.generate_content(prompt, safety_settings=safety_settings, generation_config={"response_mime_type": "application/json"})
             else:
-                print("❌ API 키에 연결된 사용 가능한 Gemini 모델이 없습니다.")
+                res = model.generate_content(prompt, safety_settings=safety_settings)
+
+            raw_text = res.text.strip()
+            marker = "`" * 3
+            if raw_text.startswith(f"{marker}json"): raw_text = raw_text[7:]
+            elif raw_text.startswith(marker): raw_text = raw_text[3:]
+            if raw_text.endswith(marker): raw_text = raw_text[:-3]
+            
+            return json.loads(raw_text.strip())
+            
+        except Exception as e:
+            error_msg = str(e)
+            if "429" in error_msg or "Quota" in error_msg:
+                print(f"⏳ API 무료 할당량 초과(429). 25초 대기 후 재시도 합니다... ({attempt+1}/{max_retries})")
+                time.sleep(25)
+                continue
+            else:
+                print(f"❌ AI 분석 에러 발생: {title} | 사유: {error_msg}")
                 return None
-
-        model = genai.GenerativeModel(target_model)
-
-        if "1.5" in target_model:
-            res = model.generate_content(
-                prompt, 
-                safety_settings=safety_settings,
-                generation_config={"response_mime_type": "application/json"}
-            )
-        else:
-            res = model.generate_content(
-                prompt, 
-                safety_settings=safety_settings
-            )
-
-        raw_text = res.text.strip()
-        marker = "`" * 3
-        if raw_text.startswith(f"{marker}json"): raw_text = raw_text[7:]
-        elif raw_text.startswith(marker): raw_text = raw_text[3:]
-        if raw_text.endswith(marker): raw_text = raw_text[:-3]
-        
-        return json.loads(raw_text.strip())
-        
-    except Exception as e:
-        print(f"❌ AI 분석 최종 실패: {title} | 사유: {e}")
-        return None
+                
+    print(f"❌ {max_retries}번 재시도 했으나 실패했습니다: {title}")
+    return None
 
 def main():
-    print("☁️ 스마트 봇 작동 시작...")
+    print("☁️ 초고속 모니터링 봇 작동 시작...")
     
+    ai_model_name = get_best_ai_model_name()
+    if ai_model_name:
+        print(f"🤖 AI 연결 성공 (사용 모델: {ai_model_name})")
+    else:
+        print("⚠️ AI 연결 실패 (파이썬 기본 점수로만 구동됩니다)")
+
     execution_logs = []  
     processed_urls = set()
     
-    # [테스트 모드 처리]
     if TEST_MODE:
-        print("🛠️ [테스트 모드 ON] 과거 기억을 초기화하고 최근 24시간 기사를 재검사합니다!")
+        print("🛠️ [테스트 모드 ON] 최근 24시간 기사를 집중 검사합니다!")
         history = {"urls": [], "titles": []}
-        time_threshold = datetime.now() - timedelta(hours=24) # 24시간 전 기사까지 긁어옴
+        time_threshold = datetime.now() - timedelta(hours=24)
     else:
         history = load_history()
-        time_threshold = datetime.now() - timedelta(minutes=70) # 정상 모드는 70분 전까지만
+        time_threshold = datetime.now() - timedelta(minutes=70) # 1시간 주기에 맞춰 70분 전까지만 검색
 
     for keyword in KEYWORDS:
         articles = search_naver_news(keyword)
@@ -267,10 +274,9 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
+            # 이미 처리한 기사나 과거 기록(history)에 있는 기사는 0.01초 만에 빛의 속도로 건너뜁니다!
             if link in processed_urls: continue
             processed_urls.add(link)
-            
-            # 테스트 모드일 때는 history가 텅 비어있으므로 모두 무사통과합니다!
             if link in history["urls"]: continue
 
             try:
@@ -291,6 +297,7 @@ def main():
                 "score": forced_score, "category": "일반", "reason": forced_reason
             }
 
+            # 파이썬 필터를 통과한 '진짜 의심 기사(50점 이상)'만 AI에게 물어봅니다.
             if forced_score >= 50:
                 print(f"🔍 타겟 감지됨({forced_score}점). AI 검증 진행: {title}")
                 content = scrape_article(link)
@@ -299,7 +306,7 @@ def main():
                     content = art.get('description', '').replace('<b>','').replace('</b>','')
 
                 if content:
-                    result = analyze_with_ai(title, content, forced_reason)
+                    result = analyze_with_ai(title, content, forced_reason, ai_model_name)
                     
                     if result:
                         final_score = result.get('score', 0)
@@ -311,23 +318,22 @@ def main():
                         else:
                             log_entry['reason'] = result.get('reason', forced_reason)
                     else:
-                        log_entry['reason'] += " (AI 분석 에러 - 파이썬 점수 유지)"
+                        log_entry['reason'] += " (AI 분석 지연 - 파이썬 점수 유지)"
+                
+                # 구글 API 과속 방지 (AI를 호출했을 때만 4초간 쉽니다)
+                time.sleep(4)
             
             execution_logs.append(log_entry)
-            
-            # 읽은 기사는 기억에 추가 (테스트 모드라도 일단 이 실행 안에서는 도배 방지)
             history["urls"].append(link)
             history["titles"].append(title)
-            time.sleep(1)
-
+            
     send_hourly_report(execution_logs)
     
-    # 테스트 모드가 아닐 때만 깃허브에 기억을 저장합니다. (테스트 끝난 후 꼬임 방지)
     if not TEST_MODE:
         save_history(history)
         print("✅ 완료 및 기억 저장 성공")
     else:
-        print("🛠️ 테스트 완료! (테스트 모드이므로 기억 파일은 저장하지 않았습니다.)")
+        print("🛠️ 테스트 완료! (기억 파일 미저장)")
 
 if __name__ == "__main__":
     main()
