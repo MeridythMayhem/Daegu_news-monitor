@@ -158,7 +158,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (AI 판사 프롬프트 수정)
+# [5] 분석 로직 (AI 에러 방지 및 안전필터 해제 적용)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -207,14 +207,42 @@ def analyze_with_ai(title, content, forced_reason):
     JSON 포맷 응답: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
     """
     try:
-        res = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
-        return json.loads(res.text)
-    except: return None
+        # [핵심 수정 1] AI의 과도한 안전 필터를 전부 해제합니다. (사망, 폭발 등의 단어 허용)
+        safety_settings = [
+            {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"}
+        ]
+        
+        # 모델에 안전 필터 세팅을 함께 넘겨서 실행합니다.
+        res = model.generate_content(
+            prompt, 
+            safety_settings=safety_settings,
+            generation_config={"response_mime_type": "application/json"}
+        )
+        
+        # [핵심 수정 2] 혹시라도 AI가 ```json 이라는 마크다운 기호를 붙여서 보내면 
+        # 파이썬 에러가 나기 때문에, 이를 깔끔하게 벗겨내는 로직 추가
+        raw_text = res.text.strip()
+        if raw_text.startswith("```json"):
+            raw_text = raw_text[7:]
+        elif raw_text.startswith("```"):
+            raw_text = raw_text[3:]
+            
+        if raw_text.endswith("```"):
+            raw_text = raw_text[:-3]
+            
+        return json.loads(raw_text.strip())
+        
+    except Exception as e:
+        # 어디서 에러가 났는지 터미널/깃허브 액션 로그에 출력되도록 합니다.
+        print(f"⚠️ AI 분석 에러 발생: {title} | 사유: {e}")
+        return None
 
 def main():
     print("☁️ 스마트 기억력 & 2단 분리 봇 작동 시작...")
     
-    # [새로운 기능] 과거 봇의 기억을 불러옵니다.
     history = load_history()
     
     execution_logs = []  
@@ -231,18 +259,15 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
-            # 현재 실행 중 중복 방지
             if link in processed_urls: continue
             processed_urls.add(link)
             
-            # [새로운 기능] 1시간 전, 어제 처리했던 URL이면 건너뜁니다.
             if link in history["urls"]: continue
 
             try:
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
-            # [새로운 기능] 과거 봇이 처리했던 제목들과도 유사도를 비교합니다 (강력한 도배 방지)
             is_dup_title = False
             for past_title in history["titles"]:
                 if get_similarity(title, past_title) > 0.8:
@@ -257,7 +282,6 @@ def main():
                 "score": forced_score, "category": "일반", "reason": forced_reason
             }
 
-            # 50점 이상(주의보 이상) 기사만 AI에게 검증을 맡깁니다.
             if forced_score >= 50:
                 print(f"🔍 타겟 감지됨({forced_score}점). AI 검증 진행: {title}")
                 content = scrape_article(link)
@@ -276,20 +300,19 @@ def main():
                         if final_score == 0:
                             log_entry['reason'] = "[AI 기각] 정치 또는 무관한 내용"
                         else:
+                            # 정상적으로 AI 요약이 나왔을 때 (AI 응답 지연 텍스트 안붙음)
                             log_entry['reason'] = result.get('reason', forced_reason)
                     else:
+                        # try-except에서 에러가 발생하여 None이 반환되었을 때만 출력
                         log_entry['reason'] += " (AI 응답 지연)"
             
             execution_logs.append(log_entry)
             
-            # AI 처리를 받았든 안 받았든, 새 기사는 봇의 '기억'에 추가합니다.
             history["urls"].append(link)
             history["titles"].append(title)
             time.sleep(1)
 
     send_hourly_report(execution_logs)
-    
-    # [새로운 기능] 새롭게 배운 제목과 링크를 파일에 저장합니다.
     save_history(history)
     print("✅ 완료 및 기억 저장 성공")
 
