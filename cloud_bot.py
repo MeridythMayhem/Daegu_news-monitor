@@ -11,6 +11,11 @@ from difflib import SequenceMatcher
 # =========================================================
 # [1] 환경변수 및 설정
 # =========================================================
+# 🚨 [중요] 테스트 스위치 🚨
+# True : 과거 기억을 무시하고 최근 24시간 기사를 전부 AI로 다시 검사합니다. (작동 확인용)
+# False: 정상 작동 모드 (과거 기억 유지, 최근 70분 기사만 검사)
+TEST_MODE = True  
+
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
@@ -66,13 +71,10 @@ def check_critical_patterns(title):
     agencies_police_prosecutor = ["경찰", "검찰", "지검", "지청"]
     agencies_tax = ["국세청", "세무서", "국세공무원"]
 
-    # 🚨 100점짜리 치명적 이슈
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
-    
-    # ⚠️ 70점짜리 주의보 (위기, 갈등)
     issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동", "하락"]
 
     is_local = any(loc in title for loc in local_areas)
@@ -101,7 +103,7 @@ def check_critical_patterns(title):
     return 0, ""
 
 # =========================================================
-# [4] 알림 보고 로직 (2단 분리 모아 쏘기)
+# [4] 알림 보고 로직
 # =========================================================
 def send_hourly_report(logs):
     valid_logs = [l for l in logs if l.get('score', 0) >= 50]
@@ -116,6 +118,8 @@ def send_hourly_report(logs):
         color = 0x2ecc71
     else:
         title = f"📊 정기 보고 (총 {len(sorted_logs)}건 감지)"
+        if TEST_MODE: title = "🛠️ [테스트 모드] " + title
+        
         description = ""
         color = 0xe74c3c if high_risks else 0xFFA500
         
@@ -142,7 +146,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (🚨 서버에서 사용 가능한 모델 자동 탐색)
+# [5] 분석 로직 (🚨 AI 에러 자동 우회 및 복구 시스템 적용)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -201,17 +205,14 @@ def analyze_with_ai(title, content, forced_reason):
     ]
 
     try:
-        # [핵심 로직] 내 API 키로 사용할 수 있는 모델 목록을 구글 서버에서 직접 받아옵니다.
         valid_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
         
         target_model = None
-        # 1.5 계열의 똑똑한 모델을 먼저 찾고, 없으면 1.0이나 pro를 찾습니다.
         for pref in ['models/gemini-1.5-flash', 'models/gemini-1.5-pro', 'models/gemini-1.0-pro', 'models/gemini-pro']:
             if pref in valid_models:
                 target_model = pref.replace('models/', '')
                 break
                 
-        # 만약 위 이름들이 다 없으면 구글이 허락한 첫 번째 텍스트 생성 모델을 무조건 씁니다.
         if not target_model:
             if valid_models:
                 target_model = valid_models[0].replace('models/', '')
@@ -219,10 +220,8 @@ def analyze_with_ai(title, content, forced_reason):
                 print("❌ API 키에 연결된 사용 가능한 Gemini 모델이 없습니다.")
                 return None
 
-        # 확정된 모델로 세팅
         model = genai.GenerativeModel(target_model)
 
-        # 1.5 최신 버전일 때만 JSON 강제 출력 옵션을 사용합니다 (구버전 충돌 방지)
         if "1.5" in target_model:
             res = model.generate_content(
                 prompt, 
@@ -235,7 +234,6 @@ def analyze_with_ai(title, content, forced_reason):
                 safety_settings=safety_settings
             )
 
-        # JSON 마크다운 찌꺼기 깔끔하게 제거
         raw_text = res.text.strip()
         marker = "`" * 3
         if raw_text.startswith(f"{marker}json"): raw_text = raw_text[7:]
@@ -249,12 +247,19 @@ def analyze_with_ai(title, content, forced_reason):
         return None
 
 def main():
-    print("☁️ 스마트 기억력 & AI 모델 자동 탐색 봇 작동 시작...")
+    print("☁️ 스마트 봇 작동 시작...")
     
-    history = load_history()
     execution_logs = []  
     processed_urls = set()
-    time_threshold = datetime.now() - timedelta(minutes=70)
+    
+    # [테스트 모드 처리]
+    if TEST_MODE:
+        print("🛠️ [테스트 모드 ON] 과거 기억을 초기화하고 최근 24시간 기사를 재검사합니다!")
+        history = {"urls": [], "titles": []}
+        time_threshold = datetime.now() - timedelta(hours=24) # 24시간 전 기사까지 긁어옴
+    else:
+        history = load_history()
+        time_threshold = datetime.now() - timedelta(minutes=70) # 정상 모드는 70분 전까지만
 
     for keyword in KEYWORDS:
         articles = search_naver_news(keyword)
@@ -264,6 +269,8 @@ def main():
             
             if link in processed_urls: continue
             processed_urls.add(link)
+            
+            # 테스트 모드일 때는 history가 텅 비어있으므로 모두 무사통과합니다!
             if link in history["urls"]: continue
 
             try:
@@ -308,13 +315,19 @@ def main():
             
             execution_logs.append(log_entry)
             
+            # 읽은 기사는 기억에 추가 (테스트 모드라도 일단 이 실행 안에서는 도배 방지)
             history["urls"].append(link)
             history["titles"].append(title)
             time.sleep(1)
 
     send_hourly_report(execution_logs)
-    save_history(history)
-    print("✅ 완료 및 기억 저장 성공")
+    
+    # 테스트 모드가 아닐 때만 깃허브에 기억을 저장합니다. (테스트 끝난 후 꼬임 방지)
+    if not TEST_MODE:
+        save_history(history)
+        print("✅ 완료 및 기억 저장 성공")
+    else:
+        print("🛠️ 테스트 완료! (테스트 모드이므로 기억 파일은 저장하지 않았습니다.)")
 
 if __name__ == "__main__":
     main()
