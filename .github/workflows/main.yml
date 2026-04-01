@@ -8,6 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # 🚨 [새로 추가됨] 봇이 파일을 깃허브에 저장할 수 있도록 '쓰기 권한' 부여
+    permissions:
+      contents: write 
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -23,7 +28,6 @@ jobs:
           pip install requests beautifulsoup4
           pip install -U google-generativeai
 
-
       - name: Run Script
         env:
           NAVER_ID: ${{ secrets.NAVER_ID }}
@@ -31,3 +35,13 @@ jobs:
           GOOGLE_KEY: ${{ secrets.GOOGLE_KEY }}
           DISCORD_URL: ${{ secrets.DISCORD_URL }}
         run: python cloud_bot.py
+
+      # 🚨 [새로 추가됨] 봇의 기억(히스토리 파일)을 깃허브 저장소에 박제하기
+      - name: 봇 기억(히스토리) 저장하기
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add news_history.json
+          # 파일에 변경사항이 있을 때만 저장(commit)합니다
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 봇 기억력 업데이트 (news_history.json)"
+          git push
