@@ -11,8 +11,7 @@ from difflib import SequenceMatcher
 # =========================================================
 # [1] 환경변수 및 설정
 # =========================================================
-# 🚨 정상 작동 모드 (최근 70분 기사만 초고속으로 검사합니다)
-TEST_MODE = False
+TEST_MODE = False  # 운영 시 False로 설정
 
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
@@ -31,7 +30,7 @@ KEYWORDS = [
 HISTORY_FILE = "news_history.json"
 
 # =========================================================
-# [2] 기억력(과거 데이터 저장/불러오기) 및 유틸리티
+# [2] 기억력 및 유틸리티
 # =========================================================
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -42,7 +41,6 @@ def load_history():
     return {"urls": [], "titles": []}
 
 def save_history(history):
-    # 최근 500개만 기억하여 깃허브 용량 최적화
     history["urls"] = history["urls"][-500:]
     history["titles"] = history["titles"][-500:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
@@ -52,33 +50,36 @@ def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 # =========================================================
-# [3] 스나이퍼 필터 (점수 세분화 및 타겟 감지)
+# [3] 스나이퍼 필터 (정치/주식 차단 및 타겟 감지)
 # =========================================================
 def check_critical_patterns(title):
     title_no_space = title.replace(" ", "")
     
-    # 🚫 정치 관련 키워드 즉시 차단 (0점)
+    # 🚫 [강제 차단 1] 정치 관련 키워드 (0점)
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
     if any(pol in title for pol in politics_keywords):
         return 0, ""
 
-    local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
-    company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업", "신탁", "증권", "투자", "금융", "건설", "시행사", "조합", "은행", "지점"]
+    # 🚫 [강제 차단 2] 주식/증시 관련 키워드 (0점)
+    stock_keywords = ["주가", "상승", "하락", "급등", "급락", "증시", "코스피", "코스닥", "종목", "시황", "주식", "매수", "매도", "개미", "외인", "기관", "상장", "공모"]
+    if any(stock in title for stock in stock_keywords):
+        return 0, ""
 
+    local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
+    
+    # [확장] 금융/건설/신탁 등 포함
+    company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업", "신탁", "증권", "투자", "금융", "건설", "시행사", "조합", "은행", "지점"]
     figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장"]
     vip_companies = ["포스코", "포항제철", "에코프로", "엘앤에프", "대구은행", "iM뱅크", "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력", "한수원", "성서산단", "구미산단"]
     
     agencies_police_prosecutor = ["경찰", "검찰", "지검", "지청"]
     agencies_tax = ["국세청", "세무서", "국세공무원"]
 
-    # 🚨 100점짜리 치명적 이슈
-    issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루"]
+    issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루", "밀약"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
-    
-    # ⚠️ 70점짜리 주의보 (위기, 갈등)
-    issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동", "하락"]
+    issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동"]
 
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
@@ -122,7 +123,6 @@ def send_hourly_report(logs):
     else:
         title = f"📊 정기 보고 (총 {len(sorted_logs)}건 감지)"
         if TEST_MODE: title = "🛠️ [테스트 모드] " + title
-        
         description = ""
         color = 0xe74c3c if high_risks else 0xFFA500
         
@@ -149,7 +149,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (AI 한도 초과(429) 방지 및 자동 우회/재시도)
+# [5] 분석 로직 (🚨 API 한도 초과 방지 및 자동 재시도)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -192,23 +192,21 @@ def analyze_with_ai(title, content, forced_reason, model_name):
     이 기사를 읽고 아래 기준에 따라 0에서 100 사이의 점수로 평가하시오.
 
     [🚨 80~100점: 확정적이고 치명적인 리스크]
-    - 확정된 횡령, 구속, 압수수색, 탈루 수사
+    - 확정된 횡령, 배임, 비리 의혹, 세금 탈루 제기 및 수사 혐의
     - 실제 발생한 화재, 폭발, 노동자 사망사고
-    - 실제 발표된 경검/세무서 인사 명단
+    - 실제 발표된 대구/경북 경찰, 검찰, 세무서 인사 명단
 
     [⚠️ 50~79점: 주의 깊게 봐야 할 위기 및 논란]
-    - 아직 확정되지 않은 의혹 제기, 고발장 접수, 재판 진행 중
-    - 파업, 노조 갈등, 영업 적자, 주가 폭락, 소송 등의 기업 위기
-    - VIP 기업의 일반적인 부정적 동향
+    - 아직 확정되지 않은 고발장 접수, 재판 진행, 기업 위기(적자, 파업)
+    - VIP 기업의 일반적인 동향
 
-    [❌ 0점: 가짜 뉴스 및 오탐지 방지]
-    - 무조건 0점: 정치인(국회의원, 시장, 선거 등) 관련 기사
-    - 단순 화재 "예방 캠페인", "안전 훈련", "대책 회의"
-    - "성금 기부", "MOU 체결", "표창 수여" 등 긍정적 내용
+    [❌ 무조건 0점 처리 (오탐지 방지)]
+    - 🚨 정치인(국회의원, 시장, 선거 등) 관련 기사
+    - 🚨 단순 주가 등락, 증시 시황, 주식 종목 추천 관련 기사
+    - 단순 캠페인, 안전 점검 훈련, 성금 기탁, MOU 체결 등 긍정적 내용
     - 대구/경북과 무관한 타 지역 기사
 
-    반드시 아래와 같은 JSON 포맷으로만 응답할 것:
-    {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
+    JSON 포맷 응답: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
     """
     
     safety_settings = [
@@ -219,7 +217,6 @@ def analyze_with_ai(title, content, forced_reason, model_name):
     ]
 
     model = genai.GenerativeModel(model_name)
-
     max_retries = 3
     for attempt in range(max_retries):
         try:
@@ -233,41 +230,28 @@ def analyze_with_ai(title, content, forced_reason, model_name):
             if raw_text.startswith(f"{marker}json"): raw_text = raw_text[7:]
             elif raw_text.startswith(marker): raw_text = raw_text[3:]
             if raw_text.endswith(marker): raw_text = raw_text[:-3]
-            
             return json.loads(raw_text.strip())
-            
         except Exception as e:
-            error_msg = str(e)
-            if "429" in error_msg or "Quota" in error_msg:
-                print(f"⏳ API 무료 할당량 초과(429). 25초 대기 후 재시도 합니다... ({attempt+1}/{max_retries})")
+            if "429" in str(e) or "Quota" in str(e):
+                print(f"⏳ API 한도 초과. 25초 대기... ({attempt+1}/{max_retries})")
                 time.sleep(25)
                 continue
-            else:
-                print(f"❌ AI 분석 에러 발생: {title} | 사유: {error_msg}")
-                return None
-                
-    print(f"❌ {max_retries}번 재시도 했으나 실패했습니다: {title}")
+            return None
     return None
 
 def main():
-    print("☁️ 초고속 모니터링 봇 작동 시작...")
-    
+    print("☁️ 초고속 스나이퍼 봇(주식 차단 모드) 작동 시작...")
     ai_model_name = get_best_ai_model_name()
-    if ai_model_name:
-        print(f"🤖 AI 연결 성공 (사용 모델: {ai_model_name})")
-    else:
-        print("⚠️ AI 연결 실패 (파이썬 기본 점수로만 구동됩니다)")
-
+    history = load_history()
     execution_logs = []  
     processed_urls = set()
     
     if TEST_MODE:
-        print("🛠️ [테스트 모드 ON] 최근 24시간 기사를 집중 검사합니다!")
+        print("🛠️ [테스트 모드] 최근 24시간 검사")
         history = {"urls": [], "titles": []}
         time_threshold = datetime.now() - timedelta(hours=24)
     else:
-        history = load_history()
-        time_threshold = datetime.now() - timedelta(minutes=70) # 1시간 주기에 맞춰 70분 전까지만 검색
+        time_threshold = datetime.now() - timedelta(minutes=70)
 
     for keyword in KEYWORDS:
         articles = search_naver_news(keyword)
@@ -275,53 +259,30 @@ def main():
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
-            # 이미 처리한 기사나 과거 기록(history)에 있는 기사는 0.01초 만에 빛의 속도로 건너뜁니다!
-            if link in processed_urls: continue
+            if link in processed_urls or link in history["urls"]: continue
             processed_urls.add(link)
-            if link in history["urls"]: continue
 
             try:
                 if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
             except: continue
 
-            is_dup_title = False
-            for past_title in history["titles"]:
-                if get_similarity(title, past_title) > 0.8:
-                    is_dup_title = True
-                    break
-            if is_dup_title: continue 
+            is_dup = False
+            for past in history["titles"]:
+                if get_similarity(title, past) > 0.8: is_dup = True; break
+            if is_dup: continue 
 
             forced_score, forced_reason = check_critical_patterns(title)
-            
-            log_entry = {
-                "title": title, "link": link,
-                "score": forced_score, "category": "일반", "reason": forced_reason
-            }
+            log_entry = {"title": title, "link": link, "score": forced_score, "category": "일반", "reason": forced_reason}
 
-            # 파이썬 필터를 통과한 '진짜 의심 기사(50점 이상)'만 AI에게 물어봅니다.
             if forced_score >= 50:
-                print(f"🔍 타겟 감지됨({forced_score}점). AI 검증 진행: {title}")
-                content = scrape_article(link)
-                
-                if not content:
-                    content = art.get('description', '').replace('<b>','').replace('</b>','')
-
+                print(f"🔍 타겟 감지({forced_score}점): {title}")
+                content = scrape_article(link) or art.get('description', '').replace('<b>','').replace('</b>','')
                 if content:
                     result = analyze_with_ai(title, content, forced_reason, ai_model_name)
-                    
                     if result:
-                        final_score = result.get('score', 0)
-                        log_entry['score'] = final_score
-                        log_entry['category'] = result.get('category', forced_reason)
-                        
-                        if final_score == 0:
-                            log_entry['reason'] = "[AI 기각] 정치 또는 가짜 뉴스"
-                        else:
-                            log_entry['reason'] = result.get('reason', forced_reason)
-                    else:
-                        log_entry['reason'] += " (AI 분석 지연 - 파이썬 점수 유지)"
-                
-                # 구글 API 과속 방지 (AI를 호출했을 때만 4초간 쉽니다)
+                        log_entry['score'] = result.get('score', 0)
+                        log_entry['reason'] = result.get('reason', forced_reason)
+                        if log_entry['score'] >= 80: log_entry['status'] = "ALERT"
                 time.sleep(4)
             
             execution_logs.append(log_entry)
@@ -329,12 +290,10 @@ def main():
             history["titles"].append(title)
             
     send_hourly_report(execution_logs)
-    
-    if not TEST_MODE:
-        save_history(history)
-        print("✅ 완료 및 기억 저장 성공")
-    else:
-        print("🛠️ 테스트 완료! (기억 파일 미저장)")
+    if not TEST_MODE: save_history(history)
+    print("✅ 완료")
 
 if __name__ == "__main__":
     main()
+
+
