@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 import google.generativeai as genai
 from difflib import SequenceMatcher
@@ -11,7 +11,7 @@ from difflib import SequenceMatcher
 # =========================================================
 # [1] 환경변수 및 설정
 # =========================================================
-TEST_MODE = False  # 운영 시 False로 설정
+TEST_MODE = False  # 운영 시 False 유지
 
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
@@ -28,6 +28,7 @@ KEYWORDS = [
 ]
 
 HISTORY_FILE = "news_history.json"
+KST = timezone(timedelta(hours=9)) # 🚨 한국 시간(KST) 고정 설정
 
 # =========================================================
 # [2] 기억력 및 유틸리티
@@ -50,24 +51,19 @@ def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 # =========================================================
-# [3] 스나이퍼 필터 (정치/주식 차단 및 타겟 감지)
+# [3] 스나이퍼 필터
 # =========================================================
 def check_critical_patterns(title):
     title_no_space = title.replace(" ", "")
     
-    # 🚫 [강제 차단 1] 정치 관련 키워드 (0점)
+    # 정치/주식 원천 차단
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
-    if any(pol in title for pol in politics_keywords):
-        return 0, ""
+    if any(pol in title for pol in politics_keywords): return 0, ""
 
-    # 🚫 [강제 차단 2] 주식/증시 관련 키워드 (0점)
     stock_keywords = ["주가", "상승", "하락", "급등", "급락", "증시", "코스피", "코스닥", "종목", "시황", "주식", "매수", "매도", "개미", "외인", "기관", "상장", "공모"]
-    if any(stock in title for stock in stock_keywords):
-        return 0, ""
+    if any(stock in title for stock in stock_keywords): return 0, ""
 
     local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
-    
-    # [확장] 금융/건설/신탁 등 포함
     company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업", "신탁", "증권", "투자", "금융", "건설", "시행사", "조합", "은행", "지점"]
     figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장"]
     vip_companies = ["포스코", "포항제철", "에코프로", "엘앤에프", "대구은행", "iM뱅크", "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력", "한수원", "성서산단", "구미산단"]
@@ -142,14 +138,14 @@ def send_hourly_report(logs):
             "username": "뉴스 요약 봇",
             "embeds": [{
                 "title": title, "description": description, "color": color,
-                "footer": {"text": f"{datetime.now().strftime('%H:%M')} 기준"}
+                "footer": {"text": f"{datetime.now(KST).strftime('%H:%M')} 기준"}
             }]
         }
         requests.post(DISCORD_WEBHOOK_URL, json=data)
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (🚨 API 한도 초과 방지 및 자동 재시도)
+# [5] 분석 로직 (AI 안정성 대폭 강화)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -231,27 +227,34 @@ def analyze_with_ai(title, content, forced_reason, model_name):
             elif raw_text.startswith(marker): raw_text = raw_text[3:]
             if raw_text.endswith(marker): raw_text = raw_text[:-3]
             return json.loads(raw_text.strip())
+            
         except Exception as e:
-            if "429" in str(e) or "Quota" in str(e):
-                print(f"⏳ API 한도 초과. 25초 대기... ({attempt+1}/{max_retries})")
+            error_msg = str(e)
+            # 🚨 429(속도제한) 뿐만 아니라 500, 503(구글 서버 혼잡 에러)도 방어합니다.
+            if "429" in error_msg or "Quota" in error_msg or "503" in error_msg or "500" in error_msg:
+                print(f"⏳ 구글 AI 서버 지연. 25초 대기 후 재시도... ({attempt+1}/{max_retries})")
                 time.sleep(25)
                 continue
             return None
     return None
 
 def main():
-    print("☁️ 초고속 스나이퍼 봇(주식 차단 모드) 작동 시작...")
+    print("☁️ 초고속 스나이퍼 봇 작동 시작...")
     ai_model_name = get_best_ai_model_name()
     history = load_history()
     execution_logs = []  
     processed_urls = set()
     
+    # 🚨 한국 시간(KST)으로 현재 시간을 가져옵니다.
+    now_kst = datetime.now(KST)
+
     if TEST_MODE:
         print("🛠️ [테스트 모드] 최근 24시간 검사")
         history = {"urls": [], "titles": []}
-        time_threshold = datetime.now() - timedelta(hours=24)
+        time_threshold = now_kst - timedelta(hours=24)
     else:
-        time_threshold = datetime.now() - timedelta(minutes=70)
+        # 정상 모드: 깃허브가 어디에 있든 한국 시간 기준으로 딱 70분 전까지만 검사
+        time_threshold = now_kst - timedelta(minutes=70)
 
     for keyword in KEYWORDS:
         articles = search_naver_news(keyword)
@@ -263,7 +266,9 @@ def main():
             processed_urls.add(link)
 
             try:
-                if parsedate_to_datetime(art['pubDate']).replace(tzinfo=None) < time_threshold: continue
+                # 네이버 뉴스 배포 시간(pubDate)도 분석하여 70분 전인지 정확히 비교합니다.
+                pub_dt = parsedate_to_datetime(art['pubDate'])
+                if pub_dt < time_threshold: continue
             except: continue
 
             is_dup = False
@@ -295,5 +300,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
