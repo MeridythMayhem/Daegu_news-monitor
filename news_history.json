@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/025/0003513750?sid=102",
-    "https://n.news.naver.com/mnews/article/016/0002624260?sid=100",
-    "https://www.goodmorningcc.com/news/articleView.html?idxno=444052",
-    "https://n.news.naver.com/mnews/article/052/0002335880?sid=100",
-    "https://n.news.naver.com/mnews/article/028/0002799060?sid=102",
     "https://www.m-i.kr/news/articleView.html?idxno=1361299",
     "https://n.news.naver.com/mnews/article/421/0008868175?sid=102",
     "https://n.news.naver.com/mnews/article/056/0012155116?sid=100",
@@ -499,14 +494,14 @@
     "https://n.news.naver.com/mnews/article/448/0000601344?sid=102",
     "https://www.tbc.co.kr/news/view?pno=20260403170228AE08103&id=205118",
     "http://www.econonews.co.kr/news/articleView.html?idxno=434027",
-    "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=341817"
+    "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=341817",
+    "https://www.laborplus.co.kr/news/articleView.html?idxno=40600",
+    "https://n.news.naver.com/mnews/article/052/0002336197?sid=100",
+    "https://www.natv.go.kr/natv/news/newsView.do?newsId=513018",
+    "https://n.news.naver.com/mnews/article/047/0002510694?sid=162",
+    "https://n.news.naver.com/mnews/article/022/0004118109?sid=101"
   ],
   "titles": [
-    "‘대선 앞두고 李대통령 비판 연설’…유동규 벌금 200만원 선고",
-    "與野, 보름 간 ‘경선 전쟁’ 돌입…최대 승부처 서울·경기 대진표 나...",
-    "'현금 살포 의혹' 김관영 민주당 제명 불복...효력정지 가처분 신청",
-    "'전쟁 추경' 두고 공방 계속...오후 대정부질문",
-    "‘이재명 비방 연설 혐의’ 유동규, 1심서 200만원 벌금형",
     "김관영 전북지사, '민주당 제명' 불복 가처분 신청",
     "'대선 앞두고 이재명 반대 연설' 유동규, 1심서 벌금 200만원",
     "[전격시사] ‘돈 봉투’ 전북지사 한밤 긴급 제명 (김기흥) “민주당 끈...",
@@ -1001,6 +996,11 @@
     "\"매 맞는 딸 지키려다\"…'여행가방 시신' 장모, 사위 폭력에 숨져",
     "흉기 들고 위협적 행동 반복한 50대 징역 8개월 선고",
     "코스닥, 개인 매수에 상승 마감...리노공업, 삼천당제약 상승 VS 펩트론...",
-    "&lt;기동&gt; 미등록 단말기 피해, 전국 곳곳 ‘속출’..대책은?"
+    "&lt;기동&gt; 미등록 단말기 피해, 전국 곳곳 ‘속출’..대책은?",
+    "[위클립] 4월 1주",
+    "'컷오프' 주호영 가처분도 기각...무소속 출마 강행?",
+    "주호영 컷오프 유지…임세은 \"주호영 정치적 타격 불가피\" 권영현 \"무소...",
+    "대구시장 포기 안한 이진숙 \"김부겸 이길 사람 나밖에 없다\"",
+    "고환율에 ‘정부가 달러 매각 강제·환전제한’ 헛소문… “고발 등 엄..."
   ]
 }
