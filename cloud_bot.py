@@ -51,12 +51,11 @@ def get_similarity(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 # =========================================================
-# [3] 스나이퍼 필터 (🚨 AI 선택적 호출 스위치 추가)
+# [3] 스나이퍼 필터 (정치/주식 차단 및 선택적 AI)
 # =========================================================
 def check_critical_patterns(title):
     title_no_space = title.replace(" ", "")
     
-    # 🚫 정치/주식 차단 (0점, AI 불필요)
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
     if any(pol in title for pol in politics_keywords): return 0, "", False
 
@@ -86,20 +85,19 @@ def check_critical_patterns(title):
     target_pol_pro = is_local and any(agency in title for agency in agencies_police_prosecutor)
     target_tax = (is_local and any(tax in title for tax in agencies_tax)) or ("국세청" in title)
 
-    # 반환값: (점수, 이유, AI_필요_여부)
     if target_company_or_figure:
         if any(crime in title for crime in issue_crime): return 100, "기업(인물) 범죄/의혹/수사", True
-        if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난(화재/폭발)", False  # AI 패스
-        if any(acc in title for acc in issue_accident): return 100, "기업 노동자 사망/중대재해", False  # AI 패스
+        if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난(화재/폭발)", False
+        if any(acc in title for acc in issue_accident): return 100, "기업 노동자 사망/중대재해", False
         if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/소송 주의보", True
         if is_vip_company: return 50, "VIP 기업 일반 동향", True
 
     if target_pol_pro:
-        if any(personnel in title for personnel in issue_personnel): return 100, "경찰/검찰 인사", False  # AI 패스
+        if any(personnel in title for personnel in issue_personnel): return 100, "경찰/검찰 인사", False
 
     if target_tax:
-        if any(crime in title for crime in issue_crime + issue_accident): return 100, "세무서 및 국세청 주요 이슈", True
-        if any(personnel in title for personnel in issue_personnel): return 100, "세무서 및 국세청 인사", False  # AI 패스
+        if any(crime in title for crime in issue_crime + issue_accident): return 100, "세무서/국세청 주요 이슈", True
+        if any(personnel in title for personnel in issue_personnel): return 100, "세무서/국세청 인사", False
 
     return 0, "", False
 
@@ -146,7 +144,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직
+# [5] 분석 로직 (🚨 서킷 브레이커: AI 자동 포기 기능)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -159,7 +157,8 @@ def search_naver_news(keyword):
 def scrape_article(url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
-        response = requests.get(url, headers=headers, timeout=5)
+        # 응답 지연 시 파이썬까지 멈추는 것을 방지하기 위해 타임아웃을 3초로 짧게 줍니다.
+        response = requests.get(url, headers=headers, timeout=3)
         soup = BeautifulSoup(response.text, 'html.parser')
         content = soup.select_one('#dic_area') or soup.select_one('#articeBody') or soup.select_one('.go_trans._article_content')
         return content.get_text(strip=True)[:1000] if content else None
@@ -177,30 +176,20 @@ def get_best_ai_model_name():
         print(f"❌ AI 모델 초기화 실패: {e}")
         return None
 
-def analyze_with_ai(title, content, forced_reason, model_name):
+def analyze_with_ai(title, content, forced_reason, model_name, api_status):
+    # 🚨 서킷 브레이커 발동 상태면 아예 AI 근처에도 안 가고 바로 None 반환
+    if not api_status["is_alive"]: return None
     if not model_name: return None
     
     prompt = f"""
-    [분석 요청]
-    기사 제목: {title}
-    기사 본문: {content[:600]}
-    사전 감지된 타겟: {forced_reason}
+    [분석 요청] 기사 제목: {title} | 기사 본문: {content[:600]} | 사전 감지: {forced_reason}
 
-    이 기사를 읽고 아래 기준에 따라 0에서 100 사이의 점수로 평가하시오.
+    이 기사를 읽고 아래 기준에 따라 0~100점 사이로 평가하시오.
+    [🚨 80~100점] 확정된 횡령, 배임, 비리 의혹, 세금 탈루 제기 및 수사 혐의
+    [⚠️ 50~79점] 의혹/재판 진행, 기업 위기(적자, 파업), VIP 기업 사업 동향
+    [❌ 0점 (가짜 뉴스)] 정치인 기사, 주식/증시(상승, 하락, 시황) 기사, 단순 안전/기부 캠페인, 타 지역 기사
 
-    [🚨 80~100점: 확정적이고 치명적인 리스크]
-    - 확정된 횡령, 배임, 비리 의혹, 세금 탈루 제기 및 수사 혐의
-
-    [⚠️ 50~79점: 주의 깊게 봐야 할 위기 및 논란]
-    - 아직 확정되지 않은 고발장 접수, 재판 진행, 기업 위기(적자, 파업)
-    - VIP 기업의 일반적인 사업 동향 및 재무 상태
-
-    [❌ 무조건 0점 처리 (오탐지 방지)]
-    - 🚨 정치인(국회의원, 시장, 선거 등) 관련 기사
-    - 🚨 단순 주가 등락, 증시 시황, 주식 종목 추천 관련 기사
-    - 단순 캠페인, 안전 점검 훈련, 성금 기탁, 사회공헌 활동 등
-
-    JSON 포맷 응답: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
+    응답 포맷: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
     """
     
     safety_settings = [
@@ -233,15 +222,22 @@ def analyze_with_ai(title, content, forced_reason, model_name):
                 time.sleep(25)
                 continue
             return None
+            
+    # 🚨 3번 연속 실패하면 하루 한도 고갈로 판단하고, 봇 전체의 AI 전원을 차단합니다. (서킷 브레이커 작동)
+    print("❌ 3회 재시도 실패. 하루 무료 할당량이 고갈된 것으로 판단하여, 이번 실행 동안 AI를 완전 차단합니다.")
+    api_status["is_alive"] = False 
     return None
 
 def main():
-    print("☁️ 초고속 스나이퍼 봇 작동 시작...")
+    print("☁️ 초고속 스나이퍼 봇(서킷 브레이커 탑재) 작동 시작...")
     ai_model_name = get_best_ai_model_name()
     history = load_history()
     execution_logs = []  
     processed_urls = set()
     now_kst = datetime.now(KST)
+    
+    # 🚨 AI 생존 여부를 체크하는 상태 값
+    api_status = {"is_alive": True}
 
     if TEST_MODE:
         history = {"urls": [], "titles": []}
@@ -268,23 +264,25 @@ def main():
                 if get_similarity(title, past) > 0.8: is_dup = True; break
             if is_dup: continue 
 
-            # 🚨 반환값을 3개(점수, 사유, AI필요여부)로 받아옵니다.
             forced_score, forced_reason, need_ai = check_critical_patterns(title)
             log_entry = {"title": title, "link": link, "score": forced_score, "category": "일반", "reason": forced_reason}
 
             if forced_score >= 50:
-                # AI가 필요한 기사(기업 동향, 의혹 등)
                 if need_ai:
                     print(f"🔍 타겟 감지({forced_score}점). AI 검증 진행: {title}")
                     content = scrape_article(link) or art.get('description', '').replace('<b>','').replace('</b>','')
                     if content:
-                        result = analyze_with_ai(title, content, forced_reason, ai_model_name)
+                        # api_status를 넘겨서 할당량이 죽었는지 실시간으로 판단합니다.
+                        result = analyze_with_ai(title, content, forced_reason, ai_model_name, api_status)
                         if result:
                             log_entry['score'] = result.get('score', 0)
                             log_entry['reason'] = result.get('reason', forced_reason)
                             if log_entry['score'] >= 80: log_entry['status'] = "ALERT"
-                    time.sleep(4) # AI 호출 시에만 API 제한 방지를 위해 대기
-                # AI가 필요 없는 기사(팩트 기반의 사고, 인사발령 등)
+                        elif not api_status["is_alive"]:
+                            log_entry['reason'] += " (AI 할당량 고갈 - 파이썬 점수 유지)"
+                            
+                    # AI가 살아있을 때만 속도 조절용 4초를 쉽니다. (죽었으면 0.1초만에 스킵)
+                    if api_status["is_alive"]: time.sleep(4) 
                 else:
                     print(f"⚡ [AI 패스] 안전/인사 기사 감지({forced_score}점). 즉시 통과: {title}")
                     log_entry['reason'] += " (사건/사고/인사 팩트)"
