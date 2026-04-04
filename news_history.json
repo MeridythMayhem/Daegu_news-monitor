@@ -1,9 +1,5 @@
 {
   "urls": [
-    "http://www.issuenbiz.com/news/articleView.html?idxno=75117",
-    "https://www.greened.kr/news/articleView.html?idxno=338818",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4407603",
-    "https://n.news.naver.com/mnews/article/018/0006249285?sid=101",
     "https://n.news.naver.com/mnews/article/003/0013865316?sid=101",
     "https://n.news.naver.com/mnews/article/374/0000502121?sid=101",
     "https://n.news.naver.com/mnews/article/421/0008868305?sid=101",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/018/0006250067?sid=101",
     "https://www.etoday.co.kr/news/view/2572411",
     "https://n.news.naver.com/mnews/article/243/0000095721?sid=101",
-    "https://m.sports.naver.com/kfootball/article/657/0000050042"
+    "https://m.sports.naver.com/kfootball/article/657/0000050042",
+    "https://www.ppss.kr/news/articleView.html?idxno=291320",
+    "http://www.ftoday.co.kr/news/articleView.html?idxno=357317",
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=50108",
+    "https://n.news.naver.com/mnews/article/023/0003968846?sid=102"
   ],
   "titles": [
-    "정부 \"가짜뉴스로 외환시장 교란 시 즉시 고발\"…엄정 대응",
-    "글로벌금융판매, '보험 사기' 유죄에도 \"일부조직 일탈\"…7800억 수수료...",
-    "정부, 외환시장 교란 행위에 칼 뺐다…국정원·국세청도 가세",
-    "'달러 강제매각' 가짜뉴스 기승…정부 \"시장 교란행위 엄정 조치\"",
     "'달러 매각' '환전 제한' 가짜뉴스 난무…재경부 \"고발 등 엄정조치\"",
     "불법 외환거래 대응반 회의…\"시장교란 가짜뉴스 엄정 조치\"",
     "\"외환 가짜뉴스·시장교란 엄정 대응\"…정부, 불법 외환거래 대응반 회...",
@@ -1001,6 +997,10 @@
     "[VC’s Pick]K엔비디아 후보에 쏠린 관심…AI 반도체 투자 유치 속속",
     "차는 늘었는데 주차는 그대로…“아파트 고를 때 주차부터 본다”",
     "AI로 분석한 반려동물 사진…글로벌에서도 통했다[이코노 인터뷰]",
-    "연패 탈출 절실한 대구FC···또 하나의 어려움 '부상 주의보'"
+    "연패 탈출 절실한 대구FC···또 하나의 어려움 '부상 주의보'",
+    "GS칼텍스, 챔피언 결정전 2연승...트레블까지 단 1승 남았다",
+    "국가대표 우리금융이 키우는 국가대표 메세나 [마이케나스]",
+    "급등락 파도 탄 개인 투자자 지난주 '순매도'",
+    "유명 프로게이머 ‘룰러’ 탈세 논란…아버지 도움이 ‘증여’ 됐다"
   ]
 }
