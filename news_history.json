@@ -1,9 +1,5 @@
 {
   "urls": [
-    "http://www.hidomin.com/news/articleView.html?idxno=615212",
-    "https://n.news.naver.com/mnews/article/056/0012155195?sid=102",
-    "https://n.news.naver.com/mnews/article/448/0000601186?sid=102",
-    "https://n.news.naver.com/mnews/article/119/0003076766?sid=102",
     "https://n.news.naver.com/mnews/article/015/0005270624?sid=102",
     "https://economychosun.com/site/data/html_dir/2026/03/27/2026032700021.html",
     "https://weekly.cnbnews.com/news/article.html?no=210990",
@@ -499,13 +495,13 @@
     "https://www.tfmedia.co.kr/news/article.html?no=203397",
     "https://n.news.naver.com/mnews/article/023/0003968866?sid=103",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069006",
-    "https://n.news.naver.com/mnews/article/015/0005270927?sid=101"
+    "https://n.news.naver.com/mnews/article/015/0005270927?sid=101",
+    "https://n.news.naver.com/mnews/article/057/0001943153?sid=162",
+    "https://n.news.naver.com/mnews/article/448/0000601477?sid=100",
+    "https://www.pn.or.kr/news/articleView.html?idxno=33462",
+    "https://n.news.naver.com/mnews/article/448/0000601475?sid=100"
   ],
   "titles": [
-    "'캐리어 시신' 장모, 가정폭력 시달리는 딸 지키려다 참변당했다",
-    "필리핀 마약총책 박왕열 구속 송치…‘131억 원 규모 마약 유통·밀수·...",
-    "\"사위 폭력에 딸 지키려고\"…'캐리어 시신' 장모 원룸서 함께 동거",
-    "\"보육원에 맡기느니…\" 4살 아들 살해 시도한 친모 끝내",
     "폭력 사위로부터 딸 지키려고…장모, 신혼원룸 동거 택했다",
     "[재계 이슈] 네카오, AI 에이전트 진검 승부 막 오른다 | 검색 넘어 ‘행...",
     "포스코이앤씨, 신안산선 사고 사과 “안전관리체계 혁신할 것”",
@@ -1001,6 +997,10 @@
     "법무법인 화우, ‘국제조세전략센터’ 오는 10일 본격 출범",
     "제주 4·3 사건의 시작? 3·1 발포 사건의 진실 [호준석의 역사전쟁]",
     "대구 '캐리어 시신' 사건 피해자, 가정폭력 딸 지키려다 숨졌다",
-    "\"모르면 돈 날릴 뻔\"…꼼꼼한 주주들 '세금 폭탄' 피하는 법 [세테크]"
+    "\"모르면 돈 날릴 뻔\"…꼼꼼한 주주들 '세금 폭탄' 피하는 법 [세테크]",
+    "[6·3 지선] 무소속 변수에 여야 '긴장'…텃밭 대구·전북 본선 안갯속",
+    "[뉴스더] '진술회유' 의혹도 특검 수사…박상용 '퇴정' 누가 위법?",
+    "'윤석열 파면' 1년...대구시민들, 다시 광장에 \"이재명 정부, 사회대개혁...",
+    "'전쟁 추경'에 농지전수조사·TBS 지원·중국인 환대까지…野 \"삭감해야..."
   ]
 }
