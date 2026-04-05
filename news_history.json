@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=836595",
-    "https://n.news.naver.com/mnews/article/421/0008869333?sid=101",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=163288",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=299698",
-    "http://www.newsdream.kr/news/articleView.html?idxno=111136",
     "https://www.ezyeconomy.com/news/articleView.html?idxno=234338",
     "https://n.news.naver.com/mnews/article/138/0002223258?sid=101",
     "https://www.thepublic.kr/news/articleView.html?idxno=299903",
@@ -499,14 +494,14 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=598728",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4076383",
     "https://www.ksmnews.co.kr/news/view.php?idx=598670",
-    "https://www.ksmnews.co.kr/news/view.php?idx=598692"
+    "https://www.ksmnews.co.kr/news/view.php?idx=598692",
+    "https://n.news.naver.com/mnews/article/022/0004118465?sid=110",
+    "https://n.news.naver.com/mnews/article/022/0004118456?sid=102",
+    "https://n.news.naver.com/mnews/article/016/0002624940?sid=102",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=299403",
+    "https://www.newspim.com/news/view/20260405000152"
   ],
   "titles": [
-    "코스피, 외인 12거래일만 '사자' 전환에…2%대 상승 5300선 회복",
-    "12거래일 만에 돌아온 외국인…코스피 2.74% 상승 마감[시황종합]",
-    "코스닥...삼천당제약 · 알테오젠 · 삼현 · 대한광통신 '껑충'",
-    "코스피, 호르무즈 해협 개방 기대감에 2.7% 상승…5370대 회복",
-    "[시황] 코스피, 하루 만에 5300선 회복…\"원유 공급 불안 해소 반영\"",
     "코스피, 중동 리스크 완화에 하루 만에 반등…5300선 회복",
     "돌아온 외국인, 코스피 2.7% 급등…알테오젠, 에코프로 제치고 코스닥 ...",
     "외국인 매수세 유입...코스피 5400선 터치 후 상승 유지",
@@ -1001,6 +996,11 @@
     "에코프로, 주민과 함께하는 ‘녹색 실천’",
     "박정권 수성구청장 예비후보, 'S-AX 상생 금융지원책' 발표",
     "대한적십자사 경북지사, 구호 대응 체계 가동",
-    "KLPGA 정규투어, ‘iM금융오픈 2026’ 이벤트 관전 포인트"
+    "KLPGA 정규투어, ‘iM금융오픈 2026’ 이벤트 관전 포인트",
+    "[사설] 가처분에 휘둘리는 공천… ‘정치의 사법화’ 자초하는 정당",
+    "아들 앞 ‘집단폭행’ 감독 사망…딸 지키려 ‘원룸 동거’ 버텼지만 살...",
+    "50대 장모, 매맞는 20대 딸 지키려 신혼원룸서 함께 살았다…‘캐리어 ...",
+    "[살집 말집] 엄궁역 트라비스하늘채', \"손색없는 대표 대단지...스테디셀...",
+    "[프로야구] 이정효 감독의 수원, 충북청주와 0-0 무승부...6연승 실패"
   ]
 }
