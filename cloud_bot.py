@@ -31,7 +31,7 @@ HISTORY_FILE = "news_history.json"
 KST = timezone(timedelta(hours=9))
 
 # =========================================================
-# [2] 기억력 및 중복 제거 유틸리티
+# [2] 유틸리티 및 Groq 동적 모델 탐지 (🚨 핵심 추가 기능)
 # =========================================================
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -51,6 +51,31 @@ def get_similarity(a, b):
     a_clean = re.sub(r'[^가-힣a-zA-Z0-9]', '', a)
     b_clean = re.sub(r'[^가-힣a-zA-Z0-9]', '', b)
     return SequenceMatcher(None, a_clean, b_clean).ratio()
+
+def get_active_groq_model():
+    """Groq 서버에 실시간으로 접속해 현재 살아있는 모델 중 가장 좋은 것을 선택합니다."""
+    if not GROQ_API_KEY: return None
+    try:
+        headers = {"Authorization": f"Bearer {GROQ_API_KEY}"}
+        res = requests.get("https://api.groq.com/openai/v1/models", headers=headers, timeout=5)
+        if res.status_code == 200:
+            models_data = res.json().get('data', [])
+            available_models = [m['id'] for m in models_data]
+            
+            # 1순위: 최신 70B, 2순위: 8B, 3순위: 믹스트랄 (살아있는 것 위주로 탐색)
+            preferences = ["llama-3.3-70b-versatile", "llama-3.1-8b-instant", "mixtral-8x7b-32768", "gemma2-9b-it"]
+            for pref in preferences:
+                if pref in available_models:
+                    print(f"🤖 Groq 생존 모델 자동 선택 완료: {pref}")
+                    return pref
+            # 선호 모델이 다 죽었으면, 목록에 있는 첫 번째 모델 강제 선택
+            if available_models:
+                print(f"🤖 Groq 생존 모델 자동 선택 완료: {available_models[0]}")
+                return available_models[0]
+    except Exception as e:
+        print(f"⚠️ 모델 탐지 실패: {e}")
+    # 최후의 보루 (기본값)
+    return "mixtral-8x7b-32768"
 
 # =========================================================
 # [3] 스나이퍼 필터
@@ -137,8 +162,8 @@ def scrape_article(url):
 # =========================================================
 # [5] Groq AI 분석 로직
 # =========================================================
-def analyze_with_ai(title, content, forced_reason, api_status):
-    if not api_status["is_alive"] or not GROQ_API_KEY: return None
+def analyze_with_ai(title, content, forced_reason, model_name, api_status):
+    if not api_status["is_alive"] or not GROQ_API_KEY or not model_name: return None
     
     prompt = f"""
     [분석 요청] 기사 제목: {title} | 기사 본문: {content[:600]} | 사전 감지: {forced_reason}
@@ -161,9 +186,9 @@ def analyze_with_ai(title, content, forced_reason, api_status):
         "Content-Type": "application/json"
     }
     
-    # 🚨 단종되지 않는 가장 안정적인 스테디셀러 모델로 교체했습니다.
+    # 🚨 이제 코드에 이름을 박아두지 않고, 동적으로 살아남은 모델(model_name)을 변수로 넘깁니다.
     payload = {
-        "model": "llama3-70b-8192",
+        "model": model_name,
         "messages": [
             {"role": "system", "content": "You are a helpful assistant. You must respond in valid JSON format only."},
             {"role": "user", "content": prompt}
@@ -178,7 +203,7 @@ def analyze_with_ai(title, content, forced_reason, api_status):
             
             if res.status_code != 200:
                 print(f"❌ API 에러({res.status_code}): {res.text}")
-                if res.status_code == 400: return None
+                if res.status_code == 400: return None # 모델이 진짜 죽었거나 요청이 잘못되면 즉시 포기
                 time.sleep(10)
                 continue
             
@@ -204,7 +229,10 @@ def analyze_with_ai(title, content, forced_reason, api_status):
 # [6] 메인 실행 루프
 # =========================================================
 def main():
-    print("☁️ 초고속 스나이퍼 봇(Groq AI 안정화 모델 탑재) 작동 시작...")
+    print("☁️ 초고속 스나이퍼 봇 작동 시작...")
+    
+    # 🚨 봇이 실행될 때마다 살아있는 모델을 알아서 찾습니다.
+    active_model = get_active_groq_model()
     
     if not GROQ_API_KEY:
         print("⚠️ GROQ_API_KEY가 설정되지 않아 AI 없이 파이썬 필터로만 작동합니다.")
@@ -251,11 +279,11 @@ def main():
             log_entry = {"title": title, "link": link, "score": forced_score, "category": "일반", "reason": forced_reason}
 
             if forced_score >= 50:
-                if need_ai and api_status["is_alive"] and GROQ_API_KEY:
+                if need_ai and api_status["is_alive"] and GROQ_API_KEY and active_model:
                     print(f"🔍 타겟 감지({forced_score}점). AI 검증 진행: {title}")
                     content = scrape_article(link) or art.get('description', '').replace('<b>','').replace('</b>','')
                     if content:
-                        result = analyze_with_ai(title, content, forced_reason, api_status)
+                        result = analyze_with_ai(title, content, forced_reason, active_model, api_status)
                         if result:
                             log_entry['score'] = result.get('score', 0)
                             log_entry['reason'] = result.get('reason', forced_reason)
