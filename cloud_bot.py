@@ -5,18 +5,17 @@ import json
 import os
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-import google.generativeai as genai
 from difflib import SequenceMatcher
 
 # =========================================================
-# [1] 환경변수 및 설정
+# [1] 환경변수 및 설정 (Groq API 키로 변경)
 # =========================================================
 TEST_MODE = False  
 
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
-GOOGLE_API_KEY = os.environ.get("GOOGLE_KEY")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")  # 🚨 새로 추가된 Groq 키
 
 KEYWORDS = [
     "대구 압수수색", "경북 압수수색", "대구 공장 화재", "경북 공장 화재", 
@@ -144,7 +143,7 @@ def send_hourly_report(logs):
     except: pass
 
 # =========================================================
-# [5] 분석 로직 (🚨 서킷 브레이커: AI 자동 포기 기능)
+# [5] 분석 로직 (🚨 AI 모듈 완전 교체: Google -> Groq)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -157,7 +156,6 @@ def search_naver_news(keyword):
 def scrape_article(url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
-        # 응답 지연 시 파이썬까지 멈추는 것을 방지하기 위해 타임아웃을 3초로 짧게 줍니다.
         response = requests.get(url, headers=headers, timeout=3)
         soup = BeautifulSoup(response.text, 'html.parser')
         content = soup.select_one('#dic_area') or soup.select_one('#articeBody') or soup.select_one('.go_trans._article_content')
@@ -165,21 +163,14 @@ def scrape_article(url):
     except: return None
 
 def get_best_ai_model_name():
-    if not GOOGLE_API_KEY: return None
-    genai.configure(api_key=GOOGLE_API_KEY)
-    try:
-        valid_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
-        for pref in ['models/gemini-2.5-flash', 'models/gemini-1.5-flash', 'models/gemini-2.5-pro', 'models/gemini-1.5-pro', 'models/gemini-1.0-pro', 'models/gemini-pro']:
-            if pref in valid_models: return pref.replace('models/', '')
-        return valid_models[0].replace('models/', '') if valid_models else None
-    except Exception as e:
-        print(f"❌ AI 모델 초기화 실패: {e}")
+    # 🚨 Groq의 최고 성능 무료 모델인 Llama3 70B 모델을 하드코딩으로 고정합니다.
+    if not GROQ_API_KEY:
+        print("❌ GROQ_API_KEY가 깃허브 Secrets에 없습니다.")
         return None
+    return "llama3-70b-8192"
 
 def analyze_with_ai(title, content, forced_reason, model_name, api_status):
-    # 🚨 서킷 브레이커 발동 상태면 아예 AI 근처에도 안 가고 바로 None 반환
-    if not api_status["is_alive"]: return None
-    if not model_name: return None
+    if not api_status["is_alive"] or not model_name: return None
     
     prompt = f"""
     [분석 요청] 기사 제목: {title} | 기사 본문: {content[:600]} | 사전 감지: {forced_reason}
@@ -189,54 +180,61 @@ def analyze_with_ai(title, content, forced_reason, model_name, api_status):
     [⚠️ 50~79점] 의혹/재판 진행, 기업 위기(적자, 파업), VIP 기업 사업 동향
     [❌ 0점 (가짜 뉴스)] 정치인 기사, 주식/증시(상승, 하락, 시황) 기사, 단순 안전/기부 캠페인, 타 지역 기사
 
-    응답 포맷: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
+    반드시 아래 JSON 포맷으로만 응답하시오:
+    {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
     """
     
-    safety_settings = [
-        {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
-        {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
-        {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
-        {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"}
-    ]
+    # 🚨 Groq API 호출을 위한 설정 (REST API 방식)
+    headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    
+    payload = {
+        "model": model_name,
+        "messages": [
+            {"role": "system", "content": "You are a helpful assistant that strictly outputs valid JSON."},
+            {"role": "user", "content": prompt}
+        ],
+        "response_format": {"type": "json_object"}, # JSON 강제 모드 켜기
+        "temperature": 0.2
+    }
 
-    model = genai.GenerativeModel(model_name)
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            if "1.5" in model_name or "2.5" in model_name:
-                res = model.generate_content(prompt, safety_settings=safety_settings, generation_config={"response_mime_type": "application/json"})
-            else:
-                res = model.generate_content(prompt, safety_settings=safety_settings)
-
-            raw_text = res.text.strip()
-            marker = "`" * 3
-            if raw_text.startswith(f"{marker}json"): raw_text = raw_text[7:]
-            elif raw_text.startswith(marker): raw_text = raw_text[3:]
-            if raw_text.endswith(marker): raw_text = raw_text[:-3]
-            return json.loads(raw_text.strip())
+            # Groq의 OpenAI 호환 엔드포인트로 전송합니다 (속도가 무척 빠릅니다)
+            res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=payload, timeout=10)
+            res.raise_for_status() # 4xx, 5xx 에러 발생 시 예외 처리로 던짐
+            
+            # 결과물 추출
+            result_data = res.json()
+            raw_text = result_data['choices'][0]['message']['content'].strip()
+            
+            return json.loads(raw_text)
             
         except Exception as e:
             error_msg = str(e)
-            if "429" in error_msg or "Quota" in error_msg or "503" in error_msg or "500" in error_msg:
-                print(f"⏳ 구글 AI 서버 지연. 25초 대기 후 재시도... ({attempt+1}/{max_retries})")
+            if "429" in error_msg or "Too Many Requests" in error_msg:
+                print(f"⏳ Groq 서버 지연. 25초 대기 후 재시도... ({attempt+1}/{max_retries})")
                 time.sleep(25)
                 continue
-            return None
+            else:
+                print(f"❌ AI 분석 에러 발생: {error_msg}")
+                return None
             
-    # 🚨 3번 연속 실패하면 하루 한도 고갈로 판단하고, 봇 전체의 AI 전원을 차단합니다. (서킷 브레이커 작동)
-    print("❌ 3회 재시도 실패. 하루 무료 할당량이 고갈된 것으로 판단하여, 이번 실행 동안 AI를 완전 차단합니다.")
+    print("❌ 3회 재시도 실패. 이번 실행 동안 AI를 완전 차단합니다.")
     api_status["is_alive"] = False 
     return None
 
 def main():
-    print("☁️ 초고속 스나이퍼 봇(서킷 브레이커 탑재) 작동 시작...")
+    print("☁️ 초고속 스나이퍼 봇(Groq AI 탑재) 작동 시작...")
     ai_model_name = get_best_ai_model_name()
     history = load_history()
     execution_logs = []  
     processed_urls = set()
     now_kst = datetime.now(KST)
     
-    # 🚨 AI 생존 여부를 체크하는 상태 값
     api_status = {"is_alive": True}
 
     if TEST_MODE:
@@ -272,7 +270,6 @@ def main():
                     print(f"🔍 타겟 감지({forced_score}점). AI 검증 진행: {title}")
                     content = scrape_article(link) or art.get('description', '').replace('<b>','').replace('</b>','')
                     if content:
-                        # api_status를 넘겨서 할당량이 죽었는지 실시간으로 판단합니다.
                         result = analyze_with_ai(title, content, forced_reason, ai_model_name, api_status)
                         if result:
                             log_entry['score'] = result.get('score', 0)
@@ -281,8 +278,7 @@ def main():
                         elif not api_status["is_alive"]:
                             log_entry['reason'] += " (AI 할당량 고갈 - 파이썬 점수 유지)"
                             
-                    # AI가 살아있을 때만 속도 조절용 4초를 쉽니다. (죽었으면 0.1초만에 스킵)
-                    if api_status["is_alive"]: time.sleep(4) 
+                    if api_status["is_alive"]: time.sleep(1) # 🚨 Groq는 빠르고 제한이 널널해서 1초만 쉬어도 충분합니다.
                 else:
                     print(f"⚡ [AI 패스] 안전/인사 기사 감지({forced_score}점). 즉시 통과: {title}")
                     log_entry['reason'] += " (사건/사고/인사 팩트)"
