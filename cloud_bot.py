@@ -12,7 +12,7 @@ from difflib import SequenceMatcher
 # =========================================================
 # [1] 환경변수 및 설정
 # =========================================================
-TEST_MODE = False  
+TEST_MODE = False  # 실전 배포를 위해 False로 돌려두었습니다. 테스트시 True로 변경하세요!
 
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
@@ -20,7 +20,7 @@ DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY") 
 
 # =========================================================
-# 🏢 [VIP 기업 명단 작성소]
+# 🏢 [VIP 기업 명단]
 # =========================================================
 VIP_COMPANIES_KR = [
     "포스코", "포항제철소", "에코프로", "엘앤에프", "iM뱅크", "대구은행", 
@@ -33,12 +33,14 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
+# 🚨 그물망(검색어) 확장: 대구/경북 + 의혹, 비리, 혐의 추가
 KEYWORDS_KR_BASE = [
     "대구경찰청 인사", "경북경찰청 인사", "대구지검 인사", "대구지검 전보",
     "대구지방국세청장", "대구 세무서", "경북 세무서",
     "대구 공장 화재", "경북 공장 화재", "성서산단 화재", "구미산단 화재", "포항 철강공단",
     "대구 중대재해", "경북 중대재해", "대구 노동자 사망", "경북 노동자 사망",
-    "대구 압수수색", "경북 압수수색", "대구 횡령", "경북 횡령", "대구 배임", "경북 배임"
+    "대구 압수수색", "경북 압수수색", "대구 횡령", "경북 횡령", "대구 배임", "경북 배임",
+    "대구 의혹", "경북 의혹", "대구 비리", "경북 비리", "대구 혐의", "경북 혐의"
 ]
 KEYWORDS_KR = KEYWORDS_KR_BASE + VIP_COMPANIES_KR
 KEYWORDS_GLOBAL = VIP_COMPANIES_EN
@@ -47,8 +49,17 @@ HISTORY_FILE = "news_history.json"
 KST = timezone(timedelta(hours=9))
 
 # =========================================================
-# [2] 유틸리티 및 Groq 동적 모델 탐지
+# [2] 디스코드 전송 도우미 & 유틸리티
 # =========================================================
+def send_discord_alert(embeds):
+    if not DISCORD_WEBHOOK_URL: return
+    try:
+        res = requests.post(DISCORD_WEBHOOK_URL, json={"username": "뉴스 요약 봇", "embeds": embeds})
+        if res.status_code not in [200, 204]:
+            print(f"❌ 디스코드 전송 실패: [{res.status_code}] {res.text}")
+    except Exception as e:
+        print(f"❌ 디스코드 전송 에러: {e}")
+
 def load_history():
     if os.path.exists(HISTORY_FILE):
         try:
@@ -83,7 +94,7 @@ def get_active_groq_model():
     return "mixtral-8x7b-32768"
 
 # =========================================================
-# [3] 스나이퍼 필터
+# [3] 스나이퍼 필터 (국내용)
 # =========================================================
 def check_critical_patterns(title):
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
@@ -126,26 +137,29 @@ def check_critical_patterns(title):
     return 0, "", False
 
 # =========================================================
-# [4] 수집 로직 (🚨 URL 특수문자 인코딩 버그 수정)
+# [4] 수집 로직 
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    params = {"query": keyword, "display": 15, "sort": "date"}
+    params = {"query": keyword, "display": 10, "sort": "date"}
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
     except: return []
 
 def search_google_news(keyword, lang='ko'):
-    safe_keyword = urllib.parse.quote(keyword) # 🚨 띄어쓰기와 & 기호가 깨지지 않게 변환
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+    safe_keyword = urllib.parse.quote_plus(keyword)
+    
     if lang == 'ko':
         url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=ko&gl=KR&ceid=KR:ko"
     else:
         url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=en-US&gl=US&ceid=US:en"
     try:
-        response = requests.get(url, timeout=5)
+        response = requests.get(url, headers=headers, timeout=5)
+        if response.status_code != 200: return []
         soup = BeautifulSoup(response.content, 'xml')
-        return [{'title': item.title.text, 'link': item.link.text, 'pubDate': item.pubDate.text, 'lang': lang} for item in soup.find_all('item')[:15]]
+        return [{'title': item.title.text, 'link': item.link.text, 'pubDate': item.pubDate.text, 'lang': lang} for item in soup.find_all('item')[:10]]
     except: return []
 
 def scrape_article(url):
@@ -207,11 +221,11 @@ def analyze_with_ai(title, content, forced_reason, lang, model_name, api_status)
 # =========================================================
 def deduplicate_with_ai_desk(logs, model_name):
     if len(logs) <= 1 or not GROQ_API_KEY or not model_name: return logs
-    print(f"🤖 AI 국장 데스킹 진행 중... (총 {len(logs)}개 기사 통합)")
+    print(f"🤖 AI 국장 데스킹 진행 중... (총 {len(logs)}개 기사 검토)")
     
     prompt = "뉴스 목록:\n"
     for i, log in enumerate(logs): prompt += f"[{i}] {log['title']} | 요약: {log['reason']}\n"
-    prompt += "위에서 완전히 중복된 사건을 찾아 대표 1개만 남기고 인덱스 번호를 JSON 리스트로 응답하시오: [{\"index\": 0}]"
+    prompt += "목록 중 '동일한 사건'을 다룬 중복 기사들을 찾아 대표 1개만 남기시오. 중복이 아닌 독립적인 사건들은 빠짐없이 모두 남기시오. 최종적으로 살아남은 기사들의 인덱스 번호를 JSON 리스트로 응답하시오: [{\"index\": 0}, {\"index\": 1}]"
     
     try:
         res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": f"Bearer {GROQ_API_KEY}"}, 
@@ -241,7 +255,6 @@ def main():
 
     articles_all = []
     
-    # 🚨 [현황판 추가] 얼마나 수집되었는지 화면에 표시합니다.
     print(f"\n🔍 국내 뉴스 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
     kr_count = 0
     for kw in KEYWORDS_KR:
@@ -249,7 +262,7 @@ def main():
         fetched_google = search_google_news(kw, lang='ko')
         articles_all += fetched_naver + fetched_google
         kr_count += len(fetched_naver) + len(fetched_google)
-        time.sleep(0.1)
+        time.sleep(0.5) 
     print(f"   -> 국내 원본 기사 {kr_count}건 발견")
     
     print(f"\n🌍 글로벌 외신 수집 중... (키워드 {len(KEYWORDS_GLOBAL)}개)")
@@ -258,10 +271,10 @@ def main():
         fetched_en = search_google_news(kw, lang='en')
         articles_all += fetched_en
         en_count += len(fetched_en)
-        time.sleep(0.1)
+        time.sleep(0.5) 
     print(f"   -> 외신 원본 기사 {en_count}건 발견")
     
-    print("\n⏳ 최근 75분 이내 기사 선별 및 AI 분석을 시작합니다...\n")
+    print("\n⏳ 기사 선별 및 AI 분석을 시작합니다...\n")
 
     for art in articles_all:
         title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
@@ -305,8 +318,9 @@ def main():
     final_logs = deduplicate_with_ai_desk(execution_logs, active_model)
     
     if not final_logs:
-        if not TEST_MODE:
-            requests.post(DISCORD_WEBHOOK_URL, json={"username": "뉴스 요약 봇", "embeds": [{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 특이 리스크가 발견되지 않았습니다.", "color": 0x2ecc71}]})
+        embed = {"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 특이 리스크가 발견되지 않았습니다.", "color": 0x2ecc71}
+        if TEST_MODE: embed["title"] = "🛠️ [테스트] " + embed["title"]
+        send_discord_alert([embed])
     else:
         high = [l for l in final_logs if l['score'] >= 80]
         med = [l for l in final_logs if 50 <= l['score'] < 80]
@@ -319,7 +333,10 @@ def main():
             desc += "⚠️ **[동향 및 주의]**\n"
             for l in med: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n"
             
-        requests.post(DISCORD_WEBHOOK_URL, json={"username": "뉴스 요약 봇", "embeds": [{"title": f"📊 정기 보고 (KST {datetime.now(KST).strftime('%H:%M')})", "description": desc, "color": 0xe74c3c if high else 0xFFA500}]})
+        title_str = f"📊 정기 보고 (KST {datetime.now(KST).strftime('%H:%M')})"
+        if TEST_MODE: title_str = "🛠️ [테스트] " + title_str
+        
+        send_discord_alert([{"title": title_str, "description": desc, "color": 0xe74c3c if high else 0xFFA500}])
 
     if not TEST_MODE: save_history(history)
     print("✅ 완료")
