@@ -161,8 +161,9 @@ def analyze_with_ai(title, content, forced_reason, api_status):
         "Content-Type": "application/json"
     }
     
+    # 🚨 단종되지 않는 가장 안정적인 스테디셀러 모델로 교체했습니다.
     payload = {
-        "model": "llama-3.1-70b-versatile",
+        "model": "llama3-70b-8192",
         "messages": [
             {"role": "system", "content": "You are a helpful assistant. You must respond in valid JSON format only."},
             {"role": "user", "content": prompt}
@@ -203,7 +204,7 @@ def analyze_with_ai(title, content, forced_reason, api_status):
 # [6] 메인 실행 루프
 # =========================================================
 def main():
-    print("☁️ 초고속 스나이퍼 봇(Groq AI 탑재) 작동 시작...")
+    print("☁️ 초고속 스나이퍼 봇(Groq AI 안정화 모델 탑재) 작동 시작...")
     
     if not GROQ_API_KEY:
         print("⚠️ GROQ_API_KEY가 설정되지 않아 AI 없이 파이썬 필터로만 작동합니다.")
@@ -271,7 +272,6 @@ def main():
             history["urls"].append(link)
             history["titles"].append(title)
             
-    # 🚨 실수로 지웠던 생존 알림 전송 로직 복구 완료!
     final_logs = [l for l in execution_logs if l.get('score', 0) >= 50]
     
     if not final_logs:
