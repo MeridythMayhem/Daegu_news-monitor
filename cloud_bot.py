@@ -101,7 +101,7 @@ def check_critical_patterns(title):
 # [4] 수집 로직 (네이버 + 구글 RSS)
 # =========================================================
 def search_naver_news(keyword):
-    url = "[https://openapi.naver.com/v1/search/news.json](https://openapi.naver.com/v1/search/news.json)"
+    url = "https://openapi.naver.com/v1/search/news.json"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
     params = {"query": keyword, "display": 15, "sort": "date"}
     try:
@@ -109,7 +109,7 @@ def search_naver_news(keyword):
     except: return []
 
 def search_google_news(keyword):
-    url = f"[https://news.google.com/rss/search?q=](https://news.google.com/rss/search?q=){keyword}&hl=ko&gl=KR&ceid=KR:ko"
+    url = f"https://news.google.com/rss/search?q={keyword}&hl=ko&gl=KR&ceid=KR:ko"
     try:
         response = requests.get(url, timeout=5)
         soup = BeautifulSoup(response.content, 'xml')
@@ -173,7 +173,7 @@ def analyze_with_ai(title, content, forced_reason, api_status):
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            res = requests.post("[https://api.groq.com/openai/v1/chat/completions](https://api.groq.com/openai/v1/chat/completions)", headers=headers, json=payload, timeout=10)
+            res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=payload, timeout=10)
             
             if res.status_code != 200:
                 print(f"❌ API 에러({res.status_code}): {res.text}")
@@ -184,7 +184,6 @@ def analyze_with_ai(title, content, forced_reason, api_status):
             result_data = res.json()
             raw_text = result_data['choices'][0]['message']['content'].strip()
             
-            # UI 깨짐 방지를 위해 마커 변수를 생성하여 마크다운 블록을 제거합니다.
             marker = chr(96) * 3
             if f"{marker}json" in raw_text: 
                 raw_text = raw_text.split(f"{marker}json")[1].split(marker)[0]
@@ -272,8 +271,19 @@ def main():
             history["urls"].append(link)
             history["titles"].append(title)
             
+    # 🚨 실수로 지웠던 생존 알림 전송 로직 복구 완료!
     final_logs = [l for l in execution_logs if l.get('score', 0) >= 50]
-    if final_logs:
+    
+    if not final_logs:
+        requests.post(DISCORD_WEBHOOK_URL, json={
+            "username": "뉴스 요약 봇",
+            "embeds": [{
+                "title": "🟢 뉴스 모니터링 (특이사항 없음)", 
+                "description": "설정하신 핵심 타겟 관련 뉴스가 없습니다.", 
+                "color": 0x2ecc71
+            }]
+        })
+    else:
         sorted_logs = sorted(final_logs, key=lambda x: x.get('score', 0), reverse=True)
         high = [l for l in sorted_logs if l['score'] >= 80]
         med = [l for l in sorted_logs if 50 <= l['score'] < 80]
