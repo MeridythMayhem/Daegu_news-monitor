@@ -12,7 +12,7 @@ from difflib import SequenceMatcher
 # =========================================================
 # [1] 환경변수 및 설정
 # =========================================================
-TEST_MODE = False  # 실전 배포를 위해 False로 돌려두었습니다. 테스트시 True로 변경하세요!
+TEST_MODE = False  
 
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
@@ -33,15 +33,20 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
-# 🚨 그물망(검색어) 확장: 공소청, 중수청 등 사법개편 관련 키워드 추가
+# 🚨 그물망(검색어) 확장: 국세청 타겟형 '심층 재무/세무/지배구조' 이슈 대거 추가
 KEYWORDS_KR_BASE = [
     "대구경찰청 인사", "경북경찰청 인사", 
     "대구지검 인사", "대구지검 전보", "대구공소청 인사", "경북공소청 인사", "대구중수청 인사", "경북중수청 인사",
     "대구지방국세청장", "대구 세무서", "경북 세무서",
     "대구 공장 화재", "경북 공장 화재", "성서산단 화재", "구미산단 화재", "포항 철강공단",
     "대구 중대재해", "경북 중대재해", "대구 노동자 사망", "경북 노동자 사망",
+    # 기존 범죄 키워드
     "대구 압수수색", "경북 압수수색", "대구 횡령", "경북 횡령", "대구 배임", "경북 배임",
-    "대구 의혹", "경북 의혹", "대구 비리", "경북 비리", "대구 혐의", "경북 혐의"
+    "대구 의혹", "경북 의혹", "대구 비리", "경북 비리", "대구 혐의", "경북 혐의",
+    # 🚨 신규: 자본시장 전문매체(딜사이트 등) 및 국세청 타겟팅 키워드
+    "대구 비자금", "경북 비자금", "대구 페이퍼컴퍼니", "경북 페이퍼컴퍼니",
+    "대구 분식회계", "경북 분식회계", "대구 편법증여", "경북 편법증여",
+    "대구 일감몰아주기", "경북 일감몰아주기", "대구 자본잠식", "경북 자본잠식"
 ]
 KEYWORDS_KR = KEYWORDS_KR_BASE + VIP_COMPANIES_KR
 KEYWORDS_GLOBAL = VIP_COMPANIES_EN
@@ -106,29 +111,29 @@ def check_critical_patterns(title):
 
     local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
     company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업", "신탁", "증권", "투자", "금융", "건설", "시행사", "조합", "은행", "지점"]
-    figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장"]
+    figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장", "오너일가"] # 오너일가 추가
     
-    issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루", "밀약"]
+    # 🚨 스나이퍼 필터망에 국세청 타겟 용어 완벽 편입
+    issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루", "밀약", 
+                   "비자금", "분식회계", "일감몰아주기", "일감 몰아주기", "편법증여", "편법 증여", "페이퍼컴퍼니", "자본잠식", "비상장사"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
-    issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동"]
+    issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동", "승계", "지배구조"]
 
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
     is_vip_company = any(vip in title for vip in VIP_COMPANIES_KR)
     
     target_company_or_figure = (is_local and (is_general_company or any(fig in title for fig in figures_general))) or is_vip_company
-    
-    # 🚨 AI 필터: 경찰, 검찰, 지검, 지청 외에 "공소청", "중수청", "국가수사위원회" 완벽 추가!
     target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "지청", "공소청", "중수청", "국가수사위원회"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서", "국세공무원"])) or ("국세청" in title)
 
     if target_company_or_figure:
-        if any(crime in title for crime in issue_crime): return 100, "기업 범죄/의혹/수사", True
+        if any(crime in title for crime in issue_crime): return 100, "기업 범죄/재무의혹/수사", True
         if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난(화재/폭발)", False
         if any(acc in title for acc in issue_accident): return 100, "기업 노동자 사망/중대재해", False
-        if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/소송 주의보", True
+        if any(warn in title for warn in issue_warning): return 70, "기업 위기/경영권갈등/소송", True
 
     if target_pol_pro:
         if any(personnel in title for personnel in issue_personnel): return 100, "사법/경찰 인사", False
@@ -180,7 +185,7 @@ def scrape_article(url):
 def analyze_with_ai(title, content, forced_reason, lang, model_name, api_status):
     if not api_status["is_alive"] or not GROQ_API_KEY or not model_name: return None
     
-    system_instr = "You are a news risk analyst. Respond in JSON only."
+    system_instr = "You are a news risk analyst for a regional tax authority. Respond in JSON only."
     
     if lang == 'en':
         prompt = f"""
@@ -198,10 +203,17 @@ def analyze_with_ai(title, content, forced_reason, lang, model_name, api_status)
         {{ "score": 50, "category": "글로벌 동향", "reason": "한국어 요약" }}
         """
     else:
+        # 🚨 AI 분석 지침: 국세청 조사국 관점의 심층 요약 지시
         prompt = f"""
         [국내 뉴스 분석] 기사 제목: {title} | 본문: {content[:600]}
-        평가: 80점 이상(범죄/수사/사고), 50~79점(의혹/갈등/일반동향), 0점(가짜타겟/주식/정치/캠페인)
-        포맷: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
+        당신은 국세청 조사국을 위한 기업 리스크 감별사입니다.
+        
+        평가 기준:
+        [🚨 80~100점] 확정된 횡령/배임, 비자금 조성, 편법증여, 일감몰아주기, 페이퍼컴퍼니, 분식회계 등 세금 탈루 및 지배구조 의혹
+        [⚠️ 50~79점] 단순 경영권 갈등, 기업 위기(적자/파업), 사고/재난, 일반 사업동향
+        [❌ 0점] 주식/증시 시황, 단순 실적발표, 정치인 가십, 단순 기부/캠페인
+        
+        포맷: {{ "score": 점수, "category": "카테고리명", "reason": "세무/재무 리스크 중심의 핵심 이유 1줄 요약" }}
         """
     
     headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
