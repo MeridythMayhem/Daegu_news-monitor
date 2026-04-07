@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0013871675?sid=101",
-    "https://www.viva100.com/article/20260407500270",
-    "http://www.impacton.net/news/articleView.html?idxno=18471",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16027534",
-    "https://www.joongangenews.com/news/articleView.html?idxno=509417",
-    "https://www.smartbizn.com/news/articleView.html?idxno=141358",
-    "https://n.news.naver.com/mnews/article/001/0016006336?sid=101",
     "https://www.mediapen.com/news/view/1091709",
     "http://www.newsdream.kr/news/articleView.html?idxno=111169",
     "https://n.news.naver.com/mnews/article/629/0000488910?sid=101",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/056/0012157502?sid=100",
     "https://n.news.naver.com/mnews/article/009/0005662572?sid=101",
     "https://n.news.naver.com/mnews/article/629/0000489270?sid=101",
-    "https://n.news.naver.com/mnews/article/003/0013873675?sid=101"
+    "https://n.news.naver.com/mnews/article/003/0013873675?sid=101",
+    "https://www.dkilbo.com/news/articleView.html?idxno=540244",
+    "https://n.news.naver.com/mnews/article/421/0008876113?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005662571?sid=101",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=634376",
+    "https://www.kyeongin.com/article/1761466",
+    "http://www.ujeil.com/news/articleView.html?idxno=383831",
+    "https://www.hidomin.com/news/articleView.html?idxno=700402"
   ],
   "titles": [
-    "'중동사태 여파' 포스코, 올 2Q 전 제품 톤당 5만원 인상…\"원가 부담에...",
-    "현대차·SK도 반한 ‘브릴스’⋯ 포스코도 70억 쐈다",
-    "【데일리 ESG정책 브리핑】기후에너지환경부, 순환자원 추가지정 및 수...",
-    "에코프로 주가, 4월 7일 장중 150,500원 5.24% 상승",
-    "에코프로머티 주가, 4월 7일 장중 78,200원 13.50% 상승",
-    "코스피 5500선 돌파 '질주'···삼성전자 어닝 서프라이즈에 반도체 랠...",
-    "코스피, '삼전 깜짝 호실적'에 장초반 2%대 오른 5,570대(종합)",
     "\"반도체 신화의 힘\"…삼성 20만원 안착 코스피 2% 급등",
     "[시황] 삼전 최대 실적·종전 기대감…코스피 5500선 출발",
     "코스피, 장 초반 5500선 안착…삼성전자 20만원 터치",
@@ -1001,6 +994,13 @@
     "“김부겸 캠프 합류 권칠승 의원, 대구 비하”",
     "협력사 7천명 직고용…포스코의 '파격 상생'",
     "포스코, 포항·광양 협력사 직원 직고용 결단…7000명 규모",
-    "포스코, 협력사 직원 대규모 직고용 금명간 발표…\"생산체계 재편\""
+    "포스코, 협력사 직원 대규모 직고용 금명간 발표…\"생산체계 재편\"",
+    "포스코, 협력사 7천명 직고용…원·하청 상생 새지평 열었다",
+    "포스코, 철강 제품가 인상 '전쟁發 원가 인상-中 물량 감소' 반영",
+    "'마스가' 협력 속도내는 정부 … 美 LNG사업 수출 보증 나선다",
+    "가스공사, 열효율 개선으로 취약계층 에너지 복지 지원",
+    "[사설] 중동상황 장기화, 경제 실핏줄 중소기업 지원 강화해야",
+    "한국동서발전·한국수력원자력, 공공데이터 제공 평가 '최우수'",
+    "한수원·캐나다 전력 운영사, 원전 디지털 전환 맞손"
   ]
 }
