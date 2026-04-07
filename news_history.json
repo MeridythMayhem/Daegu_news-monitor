@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.mediapen.com/news/view/1091709",
-    "http://www.newsdream.kr/news/articleView.html?idxno=111169",
-    "https://n.news.naver.com/mnews/article/629/0000488910?sid=101",
-    "https://www.ekn.kr/web/view.php?key=20260407029104873",
     "https://www.seoulfn.com/news/articleView.html?idxno=625797",
     "https://www.greened.kr/news/articleView.html?idxno=338926",
     "https://n.news.naver.com/mnews/article/008/0005340702?sid=101",
@@ -499,13 +495,13 @@
     "https://www.gnnews.co.kr/news/articleView.html?idxno=634376",
     "https://www.kyeongin.com/article/1761466",
     "http://www.ujeil.com/news/articleView.html?idxno=383831",
-    "https://www.hidomin.com/news/articleView.html?idxno=700402"
+    "https://www.hidomin.com/news/articleView.html?idxno=700402",
+    "https://n.news.naver.com/mnews/article/020/0003710555?sid=101",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=434580",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4408209",
+    "https://www.etoday.co.kr/news/view/2573646"
   ],
   "titles": [
-    "\"반도체 신화의 힘\"…삼성 20만원 안착 코스피 2% 급등",
-    "[시황] 삼전 최대 실적·종전 기대감…코스피 5500선 출발",
-    "코스피, 장 초반 5500선 안착…삼성전자 20만원 터치",
-    "종전 기대감·삼성전자 어닝 서프라이즈...코스피 5500대 복귀 [개장시황...",
     "코스피, 삼성전자 호실적에 5550선 상승 출발",
     "코스피 5500선 회복…삼성전자 '어닝 서프라이즈'에 '20만전자' 재진입",
     "\"실적 시즌 저평가주 찾아라\"…2차전지주 동반 상승",
@@ -1001,6 +997,10 @@
     "가스공사, 열효율 개선으로 취약계층 에너지 복지 지원",
     "[사설] 중동상황 장기화, 경제 실핏줄 중소기업 지원 강화해야",
     "한국동서발전·한국수력원자력, 공공데이터 제공 평가 '최우수'",
-    "한수원·캐나다 전력 운영사, 원전 디지털 전환 맞손"
+    "한수원·캐나다 전력 운영사, 원전 디지털 전환 맞손",
+    "포스코, 7000명 하청 근로자 본사 직고용 결정",
+    "포스코청암재단, 제18기 '사이언스펠로십' 모집…\"환경 분야 신설, 탄소...",
+    "포스코, 협력사 직원 7천명 정규직 직고용하기로",
+    "‘7000명 직고용’ 포스코, 원·하청 구조 수술⋯‘위험 외주화’ 끊는..."
   ]
 }
