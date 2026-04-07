@@ -18,7 +18,7 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY") 
 
-# [국내 뉴스 키워드]
+# [국내 뉴스 키워드] - 🚨 대구/경북 주요 VIP 기업 명단 대폭 추가
 KEYWORDS_KR = [
     "대구경찰청 인사", "경북경찰청 인사", "대구지검 인사", "대구지검 전보",
     "대구지방국세청장", "대구 세무서", "경북 세무서",
@@ -26,14 +26,14 @@ KEYWORDS_KR = [
     "대구 중대재해", "경북 중대재해", "대구 노동자 사망", "경북 노동자 사망",
     "대구 압수수색", "경북 압수수색", "대구 횡령", "경북 횡령", "대구 배임", "경북 배임",
     "포스코", "포항제철소", "에코프로", "엘앤에프", "iM뱅크", "대구은행", 
-    "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력"
+    "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력",
+    "대동", "이수페타시스", "씨아이에스", "아진산업", "대구텍", "피에이치에이", "평화산업", "메가젠임플란트"
 ]
 
-# [🚨 외신(글로벌) 리스크 키워드] - 주요 기업 영문명 + 리스크 단어 조합
+# [🚨 외신(글로벌) 키워드] - 주요 기업 영문명
 KEYWORDS_GLOBAL = [
-    "POSCO fire", "POSCO accident", "POSCO lawsuit", "POSCO strike",
-    "EcoPro BM fire", "EcoPro incident", "EcoPro stock crisis",
-    "L&F battery fire", "iM Bank risk", "Daegu Korea investigation"
+    "POSCO", "EcoPro", "L&F battery", "iM Bank", 
+    "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
 HISTORY_FILE = "news_history.json"
@@ -88,7 +88,14 @@ def check_critical_patterns(title):
     local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
     company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업", "신탁", "증권", "투자", "금융", "건설", "시행사", "조합", "은행", "지점"]
     figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장"]
-    vip_companies = ["포스코", "포항제철", "에코프로", "엘앤에프", "대구은행", "iM뱅크", "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력", "한수원", "성서산단", "구미산단"]
+    
+    # 🚨 점수 부여를 위한 VIP 명단에도 동일하게 추가
+    vip_companies = [
+        "포스코", "포항제철", "에코프로", "엘앤에프", "대구은행", "iM뱅크", 
+        "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력", "한수원", 
+        "성서산단", "구미산단", "대동", "이수페타시스", "씨아이에스", "아진산업", 
+        "대구텍", "피에이치에이", "평화산업", "메가젠임플란트"
+    ]
     
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루", "밀약"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
@@ -121,7 +128,7 @@ def check_critical_patterns(title):
     return 0, "", False
 
 # =========================================================
-# [4] 수집 로직 (네이버 + 구글 RSS 국내 + 구글 RSS 글로벌)
+# [4] 수집 로직 (국내 + 글로벌)
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -134,7 +141,7 @@ def search_naver_news(keyword):
 def search_google_news(keyword, lang='ko'):
     if lang == 'ko':
         url = f"https://news.google.com/rss/search?q={keyword}&hl=ko&gl=KR&ceid=KR:ko"
-    else: # 🚨 글로벌 외신용 영어 검색
+    else:
         url = f"https://news.google.com/rss/search?q={keyword}&hl=en&gl=US&ceid=US:en"
     try:
         response = requests.get(url, timeout=5)
@@ -152,30 +159,32 @@ def scrape_article(url):
     except: return None
 
 # =========================================================
-# [5] Groq AI 분석 로직 (🚨 영어 기사 번역 포함)
+# [5] Groq AI 분석 로직
 # =========================================================
 def analyze_with_ai(title, content, forced_reason, lang, model_name, api_status):
     if not api_status["is_alive"] or not GROQ_API_KEY or not model_name: return None
     
-    # 🚨 외신 기사(lang='en')일 경우 AI에게 한국어 번역 및 요약을 동시에 지시합니다.
     system_instr = "You are a news risk analyst. Respond in JSON only."
+    
     if lang == 'en':
         prompt = f"""
         [GLOBAL NEWS ANALYSIS]
         Title: {title}
         Content Snippet: {content[:800]}
         
-        1. Translate this news summary into natural Korean.
-        2. Evaluate the risk score (0-100) for Korean business stakeholders.
-        3. Determine if it's a critical incident (80+), concern (50-79), or irrelevant (0).
+        1. Translate the core event into natural Korean.
+        2. Evaluate the score (0-100) for Korean stakeholders.
+        [🚨 80~100점] Major crisis (Fire, lawsuit, accident, massive loss)
+        [⚠️ 50~79점] General Business & Trends (M&A, new factory, exhibition, global contracts, business strategy)
+        [❌ 0점] Stock Market / Financial Trading (stock price, rally, plunge, buy/sell ratings, dividend) OR irrelevant politics.
         
-        Response must be in Korean and strictly follow this JSON format:
-        {{ "score": score_number, "category": "category_in_korean", "reason": "summary_in_korean" }}
+        Response MUST be in Korean and strictly follow this JSON format:
+        {{ "score": 50, "category": "글로벌 동향", "reason": "한국어 요약" }}
         """
     else:
         prompt = f"""
         [국내 뉴스 분석] 기사 제목: {title} | 본문: {content[:600]}
-        평가: 80점 이상(범죄/수사/사고), 50~79점(의혹/갈등/동향), 0점(가짜타겟/기타)
+        평가: 80점 이상(범죄/수사/사고), 50~79점(의혹/갈등/일반동향), 0점(가짜타겟/주식/정치/캠페인)
         포맷: {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
         """
     
@@ -222,7 +231,7 @@ def deduplicate_with_ai_desk(logs, model_name):
 # =========================================================
 def main():
     print("☁️ 글로벌 리스크 스나이퍼 봇 작동 시작...")
-    active_model = get_best_model = get_active_groq_model()
+    active_model = get_active_groq_model()
     history = load_history()
     execution_logs = []  
     processed_urls = set()
@@ -231,13 +240,13 @@ def main():
 
     time_threshold = now_kst - (timedelta(hours=24) if TEST_MODE else timedelta(minutes=75))
 
-    # 1. 국내 뉴스 수집 (네이버 + 구글)
     articles_all = []
+    # 1. 국내 뉴스
     for kw in KEYWORDS_KR:
         articles_all += search_naver_news(kw)
         articles_all += search_google_news(kw, lang='ko')
     
-    # 2. 🚨 글로벌 외신 수집 (구글 영어)
+    # 2. 글로벌 외신
     for kw in KEYWORDS_GLOBAL:
         articles_all += search_google_news(kw, lang='en')
 
@@ -255,13 +264,11 @@ def main():
             if pub_dt < time_threshold: continue
         except: continue
 
-        # 중복 방지 (제목 유사도)
         if any(get_similarity(title, p) > 0.85 for p in history["titles"] + [l['title'] for l in execution_logs]): continue
 
         forced_score, forced_reason, need_ai = check_critical_patterns(title)
         
-        # 🚨 외신은 무조건 AI 분석이 필요함 (번역 때문)
-        if lang == 'en': need_ai = True; forced_score = 50; forced_reason = "Global Risk Detected"
+        if lang == 'en': need_ai = True; forced_score = 50; forced_reason = "글로벌 VIP 동향"
 
         log_entry = {"title": title, "link": link, "score": forced_score, "reason": forced_reason, "lang": lang}
 
@@ -274,7 +281,6 @@ def main():
                     if result:
                         log_entry['score'] = result.get('score', 0)
                         log_entry['reason'] = result.get('reason', forced_reason)
-                        # 외신 제목 옆에 🌐 이모지 추가
                         if lang == 'en': log_entry['title'] = "🌐 (외신) " + log_entry['title']
                 time.sleep(1.2)
             
@@ -283,10 +289,8 @@ def main():
                 history["urls"].append(link)
                 history["titles"].append(title)
             
-    # AI 국장 데스킹 (통합 중복 제거)
     final_logs = deduplicate_with_ai_desk(execution_logs, active_model)
     
-    # 보고서 전송
     if not final_logs:
         if not TEST_MODE:
             requests.post(DISCORD_WEBHOOK_URL, json={"username": "뉴스 요약 봇", "embeds": [{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "특이 리스크가 발견되지 않았습니다.", "color": 0x2ecc71}]})
