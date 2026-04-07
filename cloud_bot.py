@@ -33,22 +33,36 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
-# 🚨 그물망(검색어) 확장: 국세청 타겟형 '심층 재무/세무/지배구조' 이슈 대거 추가
-KEYWORDS_KR_BASE = [
-    "대구경찰청 인사", "경북경찰청 인사", 
-    "대구지검 인사", "대구지검 전보", "대구공소청 인사", "경북공소청 인사", "대구중수청 인사", "경북중수청 인사",
-    "대구지방국세청장", "대구 세무서", "경북 세무서",
-    "대구 공장 화재", "경북 공장 화재", "성서산단 화재", "구미산단 화재", "포항 철강공단",
-    "대구 중대재해", "경북 중대재해", "대구 노동자 사망", "경북 노동자 사망",
-    # 기존 범죄 키워드
-    "대구 압수수색", "경북 압수수색", "대구 횡령", "경북 횡령", "대구 배임", "경북 배임",
-    "대구 의혹", "경북 의혹", "대구 비리", "경북 비리", "대구 혐의", "경북 혐의",
-    # 🚨 신규: 자본시장 전문매체(딜사이트 등) 및 국세청 타겟팅 키워드
-    "대구 비자금", "경북 비자금", "대구 페이퍼컴퍼니", "경북 페이퍼컴퍼니",
-    "대구 분식회계", "경북 분식회계", "대구 편법증여", "경북 편법증여",
-    "대구 일감몰아주기", "경북 일감몰아주기", "대구 자본잠식", "경북 자본잠식"
+# =========================================================
+# 🚨 [검색어 망 전체 복구] 지금까지 나왔던 모든 키워드 총망라
+# =========================================================
+# 1. 자동 조합 리스크 엔진 (지역 + 범죄/재무)
+REGIONS = ["대구", "경북", "구미", "포항"]
+CORE_RISKS = [
+    "압수수색", "횡령", "배임", "비자금", "페이퍼컴퍼니", "분식회계", "세무조사", 
+    "편법증여", "일감몰아주기", "가공거래", "역외탈세", "의견거절", "중대재해",
+    "의혹", "비리", "혐의", "탈루", "구속"
 ]
-KEYWORDS_KR = KEYWORDS_KR_BASE + VIP_COMPANIES_KR
+COMBINED_KEYWORDS = [f"{region} {risk}" for region in REGIONS for risk in CORE_RISKS]
+
+# 2. 오리지널 고정 키워드 (실수로 빠졌던 재난/인사 등 100% 복구)
+KEYWORDS_KR_BASE = [
+    # [인사/사법 개편]
+    "대구경찰청 인사", "경북경찰청 인사", "국세청 인사",
+    "대구지검 인사", "대구지검 전보", "대구공소청 인사", "경북공소청 인사", "대구중수청 인사", "경북중수청 인사",
+    "대구지방국세청", "대구지방국세청장", "대구 세무서", "경북 세무서",
+    
+    # [재난/안전/공장] 🚨 빠졌던 화재, 누출, 사고 키워드 완벽 복원
+    "대구 화재", "경북 화재", "대구 공장 화재", "경북 공장 화재", "성서산단 화재", "구미산단 화재", "구미공단 화재", "포항 철강공단",
+    "대구 노동자 사망", "경북 노동자 사망", "대구 끼임 사고", "경북 추락 사고", "대구 화학물질 누출", "구미 불산 누출", "대구경북산업단지",
+    
+    # [구체적 사건/이슈 징후]
+    "대구 업체 비리", "경북 업체 비리", "대구 세금 탈루", "경북 세금 탈루", 
+    "구미 업체 구속", "포항 업체 압수수색", "대구 밀약", "경북 밀약"
+]
+
+# 3. 최종 국내 검색어 = 오리지널 + 자동조합 리스크 + VIP 기업명
+KEYWORDS_KR = KEYWORDS_KR_BASE + COMBINED_KEYWORDS + VIP_COMPANIES_KR
 KEYWORDS_GLOBAL = VIP_COMPANIES_EN
 
 HISTORY_FILE = "news_history.json"
@@ -100,40 +114,54 @@ def get_active_groq_model():
     return "mixtral-8x7b-32768"
 
 # =========================================================
-# [3] 스나이퍼 필터 (국내용)
+# [3] 스나이퍼 필터 (🚨 주식 슈퍼 패스 로직 & 모든 필터어 포함)
 # =========================================================
 def check_critical_patterns(title):
+    # 1. 가짜 단어 (정치, 단순 주가)
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
-    if any(pol in title for pol in politics_keywords): return 0, "", False
-
     stock_keywords = ["주가", "상승", "하락", "급등", "급락", "증시", "코스피", "코스닥", "종목", "시황", "주식", "매수", "매도", "개미", "외인", "기관", "상장", "공모"]
-    if any(stock in title for stock in stock_keywords): return 0, "", False
 
-    local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡"]
-    company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업", "신탁", "증권", "투자", "금융", "건설", "시행사", "조합", "은행", "지점"]
-    figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장", "오너일가"] # 오너일가 추가
-    
-    # 🚨 스나이퍼 필터망에 국세청 타겟 용어 완벽 편입
-    issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루", "밀약", 
-                   "비자금", "분식회계", "일감몰아주기", "일감 몰아주기", "편법증여", "편법 증여", "페이퍼컴퍼니", "자본잠식", "비상장사"]
-    issue_disaster = ["화재", "폭발", "붕괴", "산불"]
-    issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
+    # 2. 핵심 단어 모음 (빠진 단어 없이 꽉 채움)
+    issue_crime = [
+        "횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "송치", "체포", "장부압수", 
+        "비자금", "가공거래", "허위세금계산서", "페이퍼컴퍼니", "유령법인", "해외법인송금", "조세회피처", "역외거래", "수출단가조작", 
+        "분식회계", "의견거절", "회계처리기준위반", "세무조사", "특별세무조사", "조사4국", "검찰고발", "금융감독원",
+        "의혹", "혐의", "탈루", "밀약"
+    ]
+    issue_finance = [
+        "가업승계", "편법증여", "일감몰아주기", "일감 몰아주기", "지분매각", "자녀회사",
+        "전환사채", "CB", "신주인수권부사채", "BW", "유상증자", "자사주매입", 
+        "비상장주식", "주식저가양도", "우회상장", "내부회계관리", "자본잠식", "차입금", "내사", "포착"
+    ]
+    issue_disaster = ["화재", "폭발", "붕괴", "산불", "사망", "중대재해", "끼임", "추락", "누출"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
     issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동", "승계", "지배구조"]
+
+    # [슈퍼 패스] 
+    has_critical_risk = any(word in title for word in issue_crime + issue_finance + issue_disaster)
+    if not has_critical_risk:
+        if any(pol in title for pol in politics_keywords): return 0, "", False
+        if any(stock in title for stock in stock_keywords): return 0, "", False
+
+    # 3. 타겟 확인
+    local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡", "성서산단", "국가산단"]
+    company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업", "신탁", "증권", "투자", "자동차부품사", "이차전지", "섬유업체", "계열사", "자회사"]
+    figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장", "오너일가", "특수관계인"]
 
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
     is_vip_company = any(vip in title for vip in VIP_COMPANIES_KR)
     
     target_company_or_figure = (is_local and (is_general_company or any(fig in title for fig in figures_general))) or is_vip_company
-    target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "지청", "공소청", "중수청", "국가수사위원회"])
+    target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "지청", "공소청", "중수청", "국가수사본부"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서", "국세공무원"])) or ("국세청" in title)
 
+    # 4. 점수 부여
     if target_company_or_figure:
-        if any(crime in title for crime in issue_crime): return 100, "기업 범죄/재무의혹/수사", True
-        if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난(화재/폭발)", False
-        if any(acc in title for acc in issue_accident): return 100, "기업 노동자 사망/중대재해", False
-        if any(warn in title for warn in issue_warning): return 70, "기업 위기/경영권갈등/소송", True
+        if any(crime in title for crime in issue_crime): return 100, "세무/재무/범죄 리스크 포착", True
+        if any(fin in title for fin in issue_finance): return 80, "지배구조/자본거래 징후 포착", True
+        if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난/사고(화재 등)", False
+        if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/소송", True
 
     if target_pol_pro:
         if any(personnel in title for personnel in issue_personnel): return 100, "사법/경찰 인사", False
@@ -158,7 +186,6 @@ def search_naver_news(keyword):
 def search_google_news(keyword, lang='ko'):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
     safe_keyword = urllib.parse.quote_plus(keyword)
-    
     if lang == 'ko':
         url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=ko&gl=KR&ceid=KR:ko"
     else:
@@ -189,31 +216,22 @@ def analyze_with_ai(title, content, forced_reason, lang, model_name, api_status)
     
     if lang == 'en':
         prompt = f"""
-        [GLOBAL NEWS ANALYSIS]
-        Title: {title}
-        Content Snippet: {content[:800]}
-        
-        1. Translate the core event into natural Korean.
-        2. Evaluate the score (0-100) for Korean stakeholders.
-        [🚨 80~100점] Major crisis (Fire, lawsuit, accident, massive loss)
-        [⚠️ 50~79점] General Business & Trends (M&A, new factory, global contracts, business strategy)
-        [❌ 0점] Stock Market / Financial Trading (stock price, rally, plunge, buy/sell ratings) OR irrelevant politics.
-        
-        Response MUST be in Korean and strictly follow this JSON format:
-        {{ "score": 50, "category": "글로벌 동향", "reason": "한국어 요약" }}
+        [GLOBAL NEWS ANALYSIS] Title: {title} | Snippet: {content[:800]}
+        1. Translate the core event to Korean.
+        2. Score 0-100: [🚨 80-100] Crisis/Financial crime. [⚠️ 50-79] M&A, Strategy. [❌ 0] Stock market, simple PR.
+        JSON format: {{ "score": 50, "category": "글로벌 동향", "reason": "한국어 요약" }}
         """
     else:
-        # 🚨 AI 분석 지침: 국세청 조사국 관점의 심층 요약 지시
         prompt = f"""
         [국내 뉴스 분석] 기사 제목: {title} | 본문: {content[:600]}
-        당신은 국세청 조사국을 위한 기업 리스크 감별사입니다.
+        당신은 국세청 조사국을 위한 자본시장/기업 리스크 감별사입니다.
         
         평가 기준:
-        [🚨 80~100점] 확정된 횡령/배임, 비자금 조성, 편법증여, 일감몰아주기, 페이퍼컴퍼니, 분식회계 등 세금 탈루 및 지배구조 의혹
-        [⚠️ 50~79점] 단순 경영권 갈등, 기업 위기(적자/파업), 사고/재난, 일반 사업동향
-        [❌ 0점] 주식/증시 시황, 단순 실적발표, 정치인 가십, 단순 기부/캠페인
+        [🚨 80~100점] 비자금, 가공거래, 페이퍼컴퍼니, 편법증여, 일감몰아주기, CB/BW 꼼수발행 등 세금 탈루 및 지배구조 의혹, 세무조사/압수수색 징후
+        [⚠️ 50~79점] 단순 경영권 갈등, 기업 위기, 화재/사고/재난, 금감원 공시
+        [❌ 0점] 주식/증시 시황, 단순 실적발표, 정치인 가십, 단순 기부
         
-        포맷: {{ "score": 점수, "category": "카테고리명", "reason": "세무/재무 리스크 중심의 핵심 이유 1줄 요약" }}
+        포맷: {{ "score": 점수, "category": "카테고리명", "reason": "세무/재무/지배구조/사고 리스크 중심 핵심 요약" }}
         """
     
     headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
@@ -227,7 +245,6 @@ def analyze_with_ai(title, content, forced_reason, lang, model_name, api_status)
             if f"{marker}json" in raw_text: raw_text = raw_text.split(f"{marker}json")[1].split(marker)[0]
             elif marker in raw_text: raw_text = raw_text.split(marker)[1].split(marker)[0]
             return json.loads(raw_text.strip())
-        elif res.status_code == 400: return None
     except: pass
     return None
 
@@ -240,7 +257,7 @@ def deduplicate_with_ai_desk(logs, model_name):
     
     prompt = "뉴스 목록:\n"
     for i, log in enumerate(logs): prompt += f"[{i}] {log['title']} | 요약: {log['reason']}\n"
-    prompt += "목록 중 '동일한 사건'을 다룬 중복 기사들을 찾아 대표 1개만 남기시오. 중복이 아닌 독립적인 사건들은 빠짐없이 모두 남기시오. 최종적으로 살아남은 기사들의 인덱스 번호를 JSON 리스트로 응답하시오: [{\"index\": 0}, {\"index\": 1}]"
+    prompt += "동일한 사건/의혹을 다룬 중복 기사들을 찾아 대표 1개만 남기고, 독립적인 사건들은 모두 남기시오. 인덱스 번호를 JSON 리스트로 응답하시오: [{\"index\": 0}, {\"index\": 1}]"
     
     try:
         res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": f"Bearer {GROQ_API_KEY}"}, 
@@ -258,7 +275,7 @@ def deduplicate_with_ai_desk(logs, model_name):
 # [7] 메인 실행 루프
 # =========================================================
 def main():
-    print("☁️ 글로벌 리스크 스나이퍼 봇 작동 시작...")
+    print("☁️ 글로벌 & 재무 리스크 스나이퍼 봇 작동 시작...")
     active_model = get_active_groq_model()
     history = load_history()
     execution_logs = []  
@@ -267,9 +284,9 @@ def main():
     api_status = {"is_alive": True}
 
     time_threshold = now_kst - (timedelta(hours=24) if TEST_MODE else timedelta(minutes=75))
-
     articles_all = []
     
+    # 🚨 키워드 개수가 늘어나 검색량이 많아졌으므로 구글 차단 방지용 딜레이(0.7초) 유지
     print(f"\n🔍 국내 뉴스 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
     kr_count = 0
     for kw in KEYWORDS_KR:
@@ -277,7 +294,7 @@ def main():
         fetched_google = search_google_news(kw, lang='ko')
         articles_all += fetched_naver + fetched_google
         kr_count += len(fetched_naver) + len(fetched_google)
-        time.sleep(0.5) 
+        time.sleep(0.7) 
     print(f"   -> 국내 원본 기사 {kr_count}건 발견")
     
     print(f"\n🌍 글로벌 외신 수집 중... (키워드 {len(KEYWORDS_GLOBAL)}개)")
@@ -286,10 +303,10 @@ def main():
         fetched_en = search_google_news(kw, lang='en')
         articles_all += fetched_en
         en_count += len(fetched_en)
-        time.sleep(0.5) 
+        time.sleep(0.7) 
     print(f"   -> 외신 원본 기사 {en_count}건 발견")
     
-    print("\n⏳ 기사 선별 및 AI 분석을 시작합니다...\n")
+    print("\n⏳ 기사 선별 및 AI(조사관 모드) 분석을 시작합니다...\n")
 
     for art in articles_all:
         title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
@@ -345,7 +362,7 @@ def main():
             for l in high: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n\n"
         if med:
             if high: desc += "---\n"
-            desc += "⚠️ **[동향 및 주의]**\n"
+            desc += "⚠️ **[동향 및 징후 주의]**\n"
             for l in med: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n"
             
         title_str = f"📊 정기 보고 (KST {datetime.now(KST).strftime('%H:%M')})"
