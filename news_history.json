@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/421/0008874169?sid=102",
-    "https://www.enetnews.co.kr/news/articleView.html?idxno=48584",
-    "https://www.electimes.com/news/articleView.html?idxno=366804",
-    "https://www.kbmaeil.com/article/20260407500135",
     "https://n.news.naver.com/mnews/article/003/0013871675?sid=101",
     "https://www.viva100.com/article/20260407500270",
     "http://www.impacton.net/news/articleView.html?idxno=18471",
@@ -499,13 +495,13 @@
     "http://www.popcornnews.net/news/articleView.html?idxno=117747",
     "https://www.topstarnews.net/news/articleView.html?idxno=16028087",
     "https://n.news.naver.com/mnews/article/056/0012157456?sid=101",
-    "https://www.mhns.co.kr/news/articleView.html?idxno=743887"
+    "https://www.mhns.co.kr/news/articleView.html?idxno=743887",
+    "https://n.news.naver.com/mnews/article/056/0012157502?sid=100",
+    "https://n.news.naver.com/mnews/article/009/0005662572?sid=101",
+    "https://n.news.naver.com/mnews/article/629/0000489270?sid=101",
+    "https://n.news.naver.com/mnews/article/003/0013873675?sid=101"
   ],
   "titles": [
-    "카페 침입해 강아지들 내팽개치고 하천 유기…잔혹 학대 남성 추적",
-    "옥동 핵심 입지···'더샵 안동더퍼스트' 분양",
-    "기후부 \"민간기업, 자발적 에너지절약 대열에 속속 동참\"",
-    "포스코, 로봇 자동화 기업 투자···AX 전환 가속",
     "'중동사태 여파' 포스코, 올 2Q 전 제품 톤당 5만원 인상…\"원가 부담에...",
     "현대차·SK도 반한 ‘브릴스’⋯ 포스코도 70억 쐈다",
     "【데일리 ESG정책 브리핑】기후에너지환경부, 순환자원 추가지정 및 수...",
@@ -1001,6 +997,10 @@
     "iM금융그룹, 서울핀테크랩 소속 기업과 시너지 창줄 위해 밋업데이 진행",
     "박유천, 마약 투약 혐의 부인 속 日 술자리 겸한 노래방서 보낸 근황 공...",
     "[단독] ‘체납 1위’ 권혁, 해외 비자금 400억 빼돌렸나…혐의 추가 포착",
-    "'PD수첩' 3938억 미납 권혁 회장, 조세 회피 실태 추적...고액 체납의 민..."
+    "'PD수첩' 3938억 미납 권혁 회장, 조세 회피 실태 추적...고액 체납의 민...",
+    "“김부겸 캠프 합류 권칠승 의원, 대구 비하”",
+    "협력사 7천명 직고용…포스코의 '파격 상생'",
+    "포스코, 포항·광양 협력사 직원 직고용 결단…7000명 규모",
+    "포스코, 협력사 직원 대규모 직고용 금명간 발표…\"생산체계 재편\""
   ]
 }
