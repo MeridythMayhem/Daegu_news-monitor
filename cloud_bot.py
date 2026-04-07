@@ -33,9 +33,10 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
-# 🚨 그물망(검색어) 확장: 대구/경북 + 의혹, 비리, 혐의 추가
+# 🚨 그물망(검색어) 확장: 공소청, 중수청 등 사법개편 관련 키워드 추가
 KEYWORDS_KR_BASE = [
-    "대구경찰청 인사", "경북경찰청 인사", "대구지검 인사", "대구지검 전보",
+    "대구경찰청 인사", "경북경찰청 인사", 
+    "대구지검 인사", "대구지검 전보", "대구공소청 인사", "경북공소청 인사", "대구중수청 인사", "경북중수청 인사",
     "대구지방국세청장", "대구 세무서", "경북 세무서",
     "대구 공장 화재", "경북 공장 화재", "성서산단 화재", "구미산단 화재", "포항 철강공단",
     "대구 중대재해", "경북 중대재해", "대구 노동자 사망", "경북 노동자 사망",
@@ -118,7 +119,9 @@ def check_critical_patterns(title):
     is_vip_company = any(vip in title for vip in VIP_COMPANIES_KR)
     
     target_company_or_figure = (is_local and (is_general_company or any(fig in title for fig in figures_general))) or is_vip_company
-    target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "지청"])
+    
+    # 🚨 AI 필터: 경찰, 검찰, 지검, 지청 외에 "공소청", "중수청", "국가수사위원회" 완벽 추가!
+    target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "지청", "공소청", "중수청", "국가수사위원회"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서", "국세공무원"])) or ("국세청" in title)
 
     if target_company_or_figure:
@@ -128,7 +131,7 @@ def check_critical_patterns(title):
         if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/소송 주의보", True
 
     if target_pol_pro:
-        if any(personnel in title for personnel in issue_personnel): return 100, "경찰/검찰 인사", False
+        if any(personnel in title for personnel in issue_personnel): return 100, "사법/경찰 인사", False
 
     if target_tax:
         if any(crime in title for crime in issue_crime): return 100, "세무서/국세청 주요 이슈", True
