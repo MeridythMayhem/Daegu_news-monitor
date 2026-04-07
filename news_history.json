@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4076561",
-    "https://www.tbc.co.kr/news/view?pno=20260406133205AE08155&id=205172",
-    "https://n.news.naver.com/mnews/article/214/0001490943?sid=102",
-    "https://idsn.co.kr/news/view/1065593801848870",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069166",
-    "https://n.news.naver.com/mnews/article/056/0012156435?sid=102",
-    "https://n.news.naver.com/mnews/article/002/0002435685?sid=102",
-    "https://n.news.naver.com/mnews/article/079/0004133345?sid=102",
-    "https://www.natv.go.kr/natv/news/newsView.do?newsId=513021",
     "https://n.news.naver.com/mnews/article/660/0000106834?sid=100",
     "https://www.polinews.co.kr/news/articleView.html?idxno=727646",
     "https://n.news.naver.com/mnews/article/028/0002799398?sid=100",
@@ -499,18 +490,18 @@
     "https://n.news.naver.com/mnews/article/015/0005271862?sid=100",
     "https://n.news.naver.com/mnews/article/001/0016006897?sid=100",
     "https://www.koreadaily.com/article/20260406202112713",
-    "https://n.news.naver.com/mnews/article/016/0002625967?sid=102"
+    "https://n.news.naver.com/mnews/article/016/0002625967?sid=102",
+    "https://www.naeil.com/news/read/584342?ref=naver",
+    "https://n.news.naver.com/mnews/article/023/0003969328?sid=102",
+    "https://n.news.naver.com/mnews/article/469/0000924030?sid=102",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16027717",
+    "https://www.naeil.com/news/read/584294?ref=naver",
+    "https://www.tfmedia.co.kr/news/article.html?no=203480",
+    "https://www.naeil.com/news/read/584293?ref=naver",
+    "https://www.naeil.com/news/read/584269?ref=naver",
+    "https://www.bzeronews.com/news/articleView.html?idxno=815662"
   ],
   "titles": [
-    "이재표 미디어날 대표 \"박덕흠 공관위, 충북 경선 초기화… 현직 프리미...",
-    "근로자 3명 숨진 '영덕 풍력발전소' 압수수색",
-    "'3명 사망' 영덕풍력발전 압수수색‥사망 책임 규명",
-    "[사건사고 조사결과] 경찰, 영덕 풍력발전소 화재 사망사고 압수수색",
-    "영덕 풍력발전소 사망사고 수사 본격화…경찰 압수수색 착수",
-    "‘3명 사망’ 풍력발전기 화재 본사 압수수색…발전기 14기 철거키로",
-    "포항시의회 제329회 임시회 마무리…조례안 17건 처리·지역 현안 집중...",
-    "박승호 \"사법 리스크는 곧 행정마비\"…무소속 출마 시사",
-    "[국회라이브1/정치직설] 배종호 \"추경, 골든타임 중요…문화인·농어민...",
     "호준석 \"8월 전당대회 앞두고 한 지붕 아래 명나라 당과 청나라 당이 싸...",
     "박지원 \"尹영치금 12억 너무하다…당 차원 '내란범 영치금 제한법' 준비...",
     "[뉴스 다이브] 대구시장 선거, 4파전?",
@@ -1001,6 +992,15 @@
     "상임위 '전쟁 추경' 3조원 육박…오는 10일 본회의 의결",
     "'전쟁 추경' 국회 예비심사 마무리 수순…상임위 마다 대폭 증액",
     "세금 보고 사기 기승…신분도용, 세무집행국 사칭 협박",
-    "광주시 “4월은 법인지방소득세 신고·납부의 달”"
+    "광주시 “4월은 법인지방소득세 신고·납부의 달”",
+    "노동부·경찰, 풍력발전 사망사고 압수수색",
+    "특검 “건진이 尹 부부 정신적으로 이끌었다는 증언 있다” 尹 “건진이...",
+    "[단독] '캐리어 시신 사건' 사위 \"장모, 좋은 곳 보내드리려 하천에 내버...",
+    "\"포핸드 끝맺음\" 유시우, 런던 세계선수권 막차 탑승",
+    "포스코그룹, 로봇 자동화기업에 투자",
+    "세무사회 64년 만의 첫 ‘제명’…허위 광고 세무사 ‘퇴출’",
+    "“가업상속공제대상 심의위원회 구성”",
+    "‘편법승계’ 가업상속공제 손본다",
+    "'충주상의-국세청 간담회'…기업 애로 청취·세정지원 개선 요구 확산"
   ]
 }
