@@ -33,35 +33,24 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
-# =========================================================
-# 🚨 [검색어 망 전체 복구] 지금까지 나왔던 모든 키워드 총망라
-# =========================================================
-# 1. 자동 조합 리스크 엔진 (지역 + 범죄/재무)
 REGIONS = ["대구", "경북", "구미", "포항"]
 CORE_RISKS = [
     "압수수색", "횡령", "배임", "비자금", "페이퍼컴퍼니", "분식회계", "세무조사", 
     "편법증여", "일감몰아주기", "가공거래", "역외탈세", "의견거절", "중대재해",
-    "의혹", "비리", "혐의", "탈루", "구속"
+    "의혹", "비리", "혐의", "탈루", "구속", "밀약"
 ]
+
 COMBINED_KEYWORDS = [f"{region} {risk}" for region in REGIONS for risk in CORE_RISKS]
 
-# 2. 오리지널 고정 키워드 (실수로 빠졌던 재난/인사 등 100% 복구)
 KEYWORDS_KR_BASE = [
-    # [인사/사법 개편]
     "대구경찰청 인사", "경북경찰청 인사", "국세청 인사",
     "대구지검 인사", "대구지검 전보", "대구공소청 인사", "경북공소청 인사", "대구중수청 인사", "경북중수청 인사",
     "대구지방국세청", "대구지방국세청장", "대구 세무서", "경북 세무서",
-    
-    # [재난/안전/공장] 🚨 빠졌던 화재, 누출, 사고 키워드 완벽 복원
     "대구 화재", "경북 화재", "대구 공장 화재", "경북 공장 화재", "성서산단 화재", "구미산단 화재", "구미공단 화재", "포항 철강공단",
     "대구 노동자 사망", "경북 노동자 사망", "대구 끼임 사고", "경북 추락 사고", "대구 화학물질 누출", "구미 불산 누출", "대구경북산업단지",
-    
-    # [구체적 사건/이슈 징후]
-    "대구 업체 비리", "경북 업체 비리", "대구 세금 탈루", "경북 세금 탈루", 
-    "구미 업체 구속", "포항 업체 압수수색", "대구 밀약", "경북 밀약"
+    "대구 업체 비리", "경북 업체 비리", "대구 세금 탈루", "경북 세금 탈루", "구미 업체 구속", "포항 업체 압수수색"
 ]
 
-# 3. 최종 국내 검색어 = 오리지널 + 자동조합 리스크 + VIP 기업명
 KEYWORDS_KR = KEYWORDS_KR_BASE + COMBINED_KEYWORDS + VIP_COMPANIES_KR
 KEYWORDS_GLOBAL = VIP_COMPANIES_EN
 
@@ -114,14 +103,12 @@ def get_active_groq_model():
     return "mixtral-8x7b-32768"
 
 # =========================================================
-# [3] 스나이퍼 필터 (🚨 주식 슈퍼 패스 로직 & 모든 필터어 포함)
+# [3] 스나이퍼 필터 
 # =========================================================
 def check_critical_patterns(title):
-    # 1. 가짜 단어 (정치, 단순 주가)
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
     stock_keywords = ["주가", "상승", "하락", "급등", "급락", "증시", "코스피", "코스닥", "종목", "시황", "주식", "매수", "매도", "개미", "외인", "기관", "상장", "공모"]
 
-    # 2. 핵심 단어 모음 (빠진 단어 없이 꽉 채움)
     issue_crime = [
         "횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "송치", "체포", "장부압수", 
         "비자금", "가공거래", "허위세금계산서", "페이퍼컴퍼니", "유령법인", "해외법인송금", "조세회피처", "역외거래", "수출단가조작", 
@@ -137,13 +124,11 @@ def check_critical_patterns(title):
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
     issue_warning = ["논란", "위기", "적자", "파업", "노조", "갈등", "소송", "재판", "항소", "벌금", "제동", "승계", "지배구조"]
 
-    # [슈퍼 패스] 
     has_critical_risk = any(word in title for word in issue_crime + issue_finance + issue_disaster)
     if not has_critical_risk:
         if any(pol in title for pol in politics_keywords): return 0, "", False
         if any(stock in title for stock in stock_keywords): return 0, "", False
 
-    # 3. 타겟 확인
     local_areas = ["대구", "경북", "구미", "포항", "경주", "김천", "안동", "경산", "영천", "칠곡", "성서산단", "국가산단"]
     company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "사옥", "제조업", "신탁", "증권", "투자", "자동차부품사", "이차전지", "섬유업체", "계열사", "자회사"]
     figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장", "오너일가", "특수관계인"]
@@ -156,7 +141,6 @@ def check_critical_patterns(title):
     target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "지청", "공소청", "중수청", "국가수사본부"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서", "국세공무원"])) or ("국세청" in title)
 
-    # 4. 점수 부여
     if target_company_or_figure:
         if any(crime in title for crime in issue_crime): return 100, "세무/재무/범죄 리스크 포착", True
         if any(fin in title for fin in issue_finance): return 80, "지배구조/자본거래 징후 포착", True
@@ -248,9 +232,6 @@ def analyze_with_ai(title, content, forced_reason, lang, model_name, api_status)
     except: pass
     return None
 
-# =========================================================
-# [6] AI 데스킹 로직
-# =========================================================
 def deduplicate_with_ai_desk(logs, model_name):
     if len(logs) <= 1 or not GROQ_API_KEY or not model_name: return logs
     print(f"🤖 AI 국장 데스킹 진행 중... (총 {len(logs)}개 기사 검토)")
@@ -272,7 +253,7 @@ def deduplicate_with_ai_desk(logs, model_name):
     return logs
 
 # =========================================================
-# [7] 메인 실행 루프
+# [7] 메인 실행 루프 (🚨 속도 최적화 - 투트랙 엔진)
 # =========================================================
 def main():
     print("☁️ 글로벌 & 재무 리스크 스나이퍼 봇 작동 시작...")
@@ -286,27 +267,35 @@ def main():
     time_threshold = now_kst - (timedelta(hours=24) if TEST_MODE else timedelta(minutes=75))
     articles_all = []
     
-    # 🚨 키워드 개수가 늘어나 검색량이 많아졌으므로 구글 차단 방지용 딜레이(0.7초) 유지
-    print(f"\n🔍 국내 뉴스 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
     kr_count = 0
-    for kw in KEYWORDS_KR:
-        fetched_naver = search_naver_news(kw)
-        fetched_google = search_google_news(kw, lang='ko')
-        articles_all += fetched_naver + fetched_google
-        kr_count += len(fetched_naver) + len(fetched_google)
-        time.sleep(0.7) 
-    print(f"   -> 국내 원본 기사 {kr_count}건 발견")
-    
-    print(f"\n🌍 글로벌 외신 수집 중... (키워드 {len(KEYWORDS_GLOBAL)}개)")
     en_count = 0
+
+    # 🚀 [1단계] 네이버 초고속 수집 (공식 API라 딜레이 거의 없이 돌파)
+    print(f"\n⚡ [1단계] 네이버 초고속 엔진 가동... (키워드 {len(KEYWORDS_KR)}개)")
+    for kw in KEYWORDS_KR:
+        fetched = search_naver_news(kw)
+        articles_all += fetched
+        kr_count += len(fetched)
+        time.sleep(0.05) # 0.05초로 극강의 속도! (약 5초만에 전체 스캔 완료)
+
+    # 🛡️ [2단계] 구글 국내 안전 수집 (차단 방지를 위해 0.4초 딜레이)
+    print(f"\n🛡️ [2단계] 구글 스텔스 엔진 가동 (국내)... (키워드 {len(KEYWORDS_KR)}개)")
+    for kw in KEYWORDS_KR:
+        fetched = search_google_news(kw, lang='ko')
+        articles_all += fetched
+        kr_count += len(fetched)
+        time.sleep(0.4) 
+
+    # 🌍 [3단계] 구글 외신 안전 수집
+    print(f"\n🌍 [3단계] 구글 스텔스 엔진 가동 (외신)... (키워드 {len(KEYWORDS_GLOBAL)}개)")
     for kw in KEYWORDS_GLOBAL:
-        fetched_en = search_google_news(kw, lang='en')
-        articles_all += fetched_en
-        en_count += len(fetched_en)
-        time.sleep(0.7) 
-    print(f"   -> 외신 원본 기사 {en_count}건 발견")
-    
-    print("\n⏳ 기사 선별 및 AI(조사관 모드) 분석을 시작합니다...\n")
+        fetched = search_google_news(kw, lang='en')
+        articles_all += fetched
+        en_count += len(fetched)
+        time.sleep(0.4) 
+
+    print(f"\n🎯 [탐지 결과] 국내 기사 {kr_count}건 / 외신 기사 {en_count}건 수집 완료")
+    print("⏳ 기사 선별 및 AI(조사관 모드) 분석을 시작합니다...\n")
 
     for art in articles_all:
         title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
@@ -358,7 +347,7 @@ def main():
         med = [l for l in final_logs if 50 <= l['score'] < 80]
         desc = ""
         if high:
-            desc += "🚨 **[핵심 리스크]**\n"
+            desc += "🚨 **[재무/수사 핵심 리스크]**\n"
             for l in high: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n\n"
         if med:
             if high: desc += "---\n"
