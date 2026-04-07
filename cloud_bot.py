@@ -10,7 +10,7 @@ from difflib import SequenceMatcher
 # =========================================================
 # [1] 환경변수 및 설정 (Groq API 키로 변경)
 # =========================================================
-TEST_MODE = False  
+TEST_MODE = True  
 
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
