@@ -3,19 +3,20 @@ from bs4 import BeautifulSoup
 import time
 import json
 import os
+import re
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from difflib import SequenceMatcher
 
 # =========================================================
-# [1] 환경변수 및 설정 (Groq API 키로 변경)
+# [1] 환경변수 및 설정
 # =========================================================
 TEST_MODE = False  
 
 NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")  # 🚨 새로 추가된 Groq 키
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY") 
 
 KEYWORDS = [
     "대구 압수수색", "경북 압수수색", "대구 공장 화재", "경북 공장 화재", 
@@ -30,7 +31,7 @@ HISTORY_FILE = "news_history.json"
 KST = timezone(timedelta(hours=9))
 
 # =========================================================
-# [2] 기억력 및 유틸리티
+# [2] 기억력 및 중복 제거 유틸리티
 # =========================================================
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -47,14 +48,14 @@ def save_history(history):
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 def get_similarity(a, b):
-    return SequenceMatcher(None, a, b).ratio()
+    a_clean = re.sub(r'[^가-힣a-zA-Z0-9]', '', a)
+    b_clean = re.sub(r'[^가-힣a-zA-Z0-9]', '', b)
+    return SequenceMatcher(None, a_clean, b_clean).ratio()
 
 # =========================================================
-# [3] 스나이퍼 필터 (정치/주식 차단 및 선택적 AI)
+# [3] 스나이퍼 필터
 # =========================================================
 def check_critical_patterns(title):
-    title_no_space = title.replace(" ", "")
-    
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
     if any(pol in title for pol in politics_keywords): return 0, "", False
 
@@ -66,9 +67,6 @@ def check_critical_patterns(title):
     figures_general = ["회장", "대표", "원장", "이사장", "총장", "임원", "지점장"]
     vip_companies = ["포스코", "포항제철", "에코프로", "엘앤에프", "대구은행", "iM뱅크", "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력", "한수원", "성서산단", "구미산단"]
     
-    agencies_police_prosecutor = ["경찰", "검찰", "지검", "지청"]
-    agencies_tax = ["국세청", "세무서", "국세공무원"]
-
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "수사", "송치", "체포", "의혹", "혐의", "탈루", "밀약"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불"]
     issue_accident = ["사망", "숨져", "숨진", "중상", "중대재해", "추락", "끼임", "사상"]
@@ -77,12 +75,11 @@ def check_critical_patterns(title):
 
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
-    is_figure = any(fig in title for fig in figures_general)
     is_vip_company = any(vip in title for vip in vip_companies)
     
-    target_company_or_figure = (is_local and (is_general_company or is_figure)) or is_vip_company
-    target_pol_pro = is_local and any(agency in title for agency in agencies_police_prosecutor)
-    target_tax = (is_local and any(tax in title for tax in agencies_tax)) or ("국세청" in title)
+    target_company_or_figure = (is_local and (is_general_company or any(fig in title for fig in figures_general))) or is_vip_company
+    target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "지청"])
+    target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서", "국세공무원"])) or ("국세청" in title)
 
     if target_company_or_figure:
         if any(crime in title for crime in issue_crime): return 100, "기업(인물) 범죄/의혹/수사", True
@@ -95,62 +92,37 @@ def check_critical_patterns(title):
         if any(personnel in title for personnel in issue_personnel): return 100, "경찰/검찰 인사", False
 
     if target_tax:
-        if any(crime in title for crime in issue_crime + issue_accident): return 100, "세무서/국세청 주요 이슈", True
+        if any(crime in title for crime in issue_crime): return 100, "세무서/국세청 주요 이슈", True
         if any(personnel in title for personnel in issue_personnel): return 100, "세무서/국세청 인사", False
 
     return 0, "", False
 
 # =========================================================
-# [4] 알림 보고 로직
-# =========================================================
-def send_hourly_report(logs):
-    valid_logs = [l for l in logs if l.get('score', 0) >= 50]
-    sorted_logs = sorted(valid_logs, key=lambda x: x.get('score', 0), reverse=True)
-    
-    high_risks = [l for l in sorted_logs if l.get('score', 0) >= 80]
-    medium_risks = [l for l in sorted_logs if 50 <= l.get('score', 0) < 80]
-    
-    if not sorted_logs:
-        title = "🟢 뉴스 모니터링 (특이사항 없음)"
-        description = "설정하신 5대 핵심 타겟 관련 이슈 뉴스가 없습니다."
-        color = 0x2ecc71
-    else:
-        title = f"📊 정기 보고 (총 {len(sorted_logs)}건 감지)"
-        if TEST_MODE: title = "🛠️ [테스트 모드] " + title
-        description = ""
-        color = 0xe74c3c if high_risks else 0xFFA500
-        
-        if high_risks:
-            description += "🚨 **[핵심 리스크] 즉시 확인 요망**\n"
-            for log in high_risks:
-                description += f"**[{log['score']}점]** [{log['title']}]({log['link']})\n└ {log['reason']}\n\n"
-        
-        if medium_risks:
-            if high_risks: description += "---\n"
-            description += "⚠️ **[주의 및 동향] 모니터링 필요**\n"
-            for log in medium_risks[:7]:
-                description += f"**[{log['score']}점]** [{log['title']}]({log['link']})\n└ {log['reason']}\n"
-
-    try:
-        data = {
-            "username": "뉴스 요약 봇",
-            "embeds": [{
-                "title": title, "description": description, "color": color,
-                "footer": {"text": f"{datetime.now(KST).strftime('%H:%M')} 기준"}
-            }]
-        }
-        requests.post(DISCORD_WEBHOOK_URL, json=data)
-    except: pass
-
-# =========================================================
-# [5] 분석 로직 (🚨 AI 모듈 완전 교체: Google -> Groq)
+# [4] 수집 로직 (네이버 + 구글 RSS)
 # =========================================================
 def search_naver_news(keyword):
-    url = "https://openapi.naver.com/v1/search/news.json"
+    url = "[https://openapi.naver.com/v1/search/news.json](https://openapi.naver.com/v1/search/news.json)"
     headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
     params = {"query": keyword, "display": 15, "sort": "date"}
     try:
         return requests.get(url, headers=headers, params=params).json().get('items', [])
+    except: return []
+
+def search_google_news(keyword):
+    url = f"[https://news.google.com/rss/search?q=](https://news.google.com/rss/search?q=){keyword}&hl=ko&gl=KR&ceid=KR:ko"
+    try:
+        response = requests.get(url, timeout=5)
+        soup = BeautifulSoup(response.content, 'xml')
+        items = soup.find_all('item')
+        
+        google_articles = []
+        for item in items[:15]:
+            google_articles.append({
+                'title': item.title.text,
+                'link': item.link.text,
+                'pubDate': item.pubDate.text
+            })
+        return google_articles
     except: return []
 
 def scrape_article(url):
@@ -162,15 +134,11 @@ def scrape_article(url):
         return content.get_text(strip=True)[:1000] if content else None
     except: return None
 
-def get_best_ai_model_name():
-    # 🚨 Groq의 최고 성능 무료 모델인 Llama3 70B 모델을 하드코딩으로 고정합니다.
-    if not GROQ_API_KEY:
-        print("❌ GROQ_API_KEY가 깃허브 Secrets에 없습니다.")
-        return None
-    return "llama3-70b-8192"
-
-def analyze_with_ai(title, content, forced_reason, model_name, api_status):
-    if not api_status["is_alive"] or not model_name: return None
+# =========================================================
+# [5] Groq AI 분석 로직
+# =========================================================
+def analyze_with_ai(title, content, forced_reason, api_status):
+    if not api_status["is_alive"] or not GROQ_API_KEY: return None
     
     prompt = f"""
     [분석 요청] 기사 제목: {title} | 기사 본문: {content[:600]} | 사전 감지: {forced_reason}
@@ -178,58 +146,69 @@ def analyze_with_ai(title, content, forced_reason, model_name, api_status):
     이 기사를 읽고 아래 기준에 따라 0~100점 사이로 평가하시오.
     [🚨 80~100점] 확정된 횡령, 배임, 비리 의혹, 세금 탈루 제기 및 수사 혐의
     [⚠️ 50~79점] 의혹/재판 진행, 기업 위기(적자, 파업), VIP 기업 사업 동향
-    [❌ 0점 (가짜 뉴스)] 정치인 기사, 주식/증시(상승, 하락, 시황) 기사, 단순 안전/기부 캠페인, 타 지역 기사
+    [❌ 0점] 정치인 기사, 주식/증시(상승, 하락, 시황) 기사, 단순 안전/기부 캠페인, 타 지역 기사
 
-    반드시 아래 JSON 포맷으로만 응답하시오:
-    {{ "score": 점수, "category": "카테고리명", "reason": "이유 한 줄 요약" }}
+    응답은 반드시 아래와 같은 순수 JSON 형태로만 작성하시오 (마크다운 기호 금지, 다른 설명 금지):
+    {{
+      "score": 점수숫자,
+      "category": "카테고리명",
+      "reason": "이유 한 줄 요약"
+    }}
     """
     
-    # 🚨 Groq API 호출을 위한 설정 (REST API 방식)
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json"
     }
     
     payload = {
-        "model": model_name,
+        "model": "llama-3.1-70b-versatile",
         "messages": [
-            {"role": "system", "content": "You are a helpful assistant that strictly outputs valid JSON."},
+            {"role": "system", "content": "You are a helpful assistant. You must respond in valid JSON format only."},
             {"role": "user", "content": prompt}
         ],
-        "response_format": {"type": "json_object"}, # JSON 강제 모드 켜기
         "temperature": 0.2
     }
 
     max_retries = 3
     for attempt in range(max_retries):
         try:
-            # Groq의 OpenAI 호환 엔드포인트로 전송합니다 (속도가 무척 빠릅니다)
-            res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=payload, timeout=10)
-            res.raise_for_status() # 4xx, 5xx 에러 발생 시 예외 처리로 던짐
+            res = requests.post("[https://api.groq.com/openai/v1/chat/completions](https://api.groq.com/openai/v1/chat/completions)", headers=headers, json=payload, timeout=10)
             
-            # 결과물 추출
+            if res.status_code != 200:
+                print(f"❌ API 에러({res.status_code}): {res.text}")
+                if res.status_code == 400: return None
+                time.sleep(10)
+                continue
+            
             result_data = res.json()
             raw_text = result_data['choices'][0]['message']['content'].strip()
             
-            return json.loads(raw_text)
+            # UI 깨짐 방지를 위해 마커 변수를 생성하여 마크다운 블록을 제거합니다.
+            marker = chr(96) * 3
+            if f"{marker}json" in raw_text: 
+                raw_text = raw_text.split(f"{marker}json")[1].split(marker)[0]
+            elif marker in raw_text:
+                raw_text = raw_text.split(marker)[1].split(marker)[0]
+            
+            return json.loads(raw_text.strip())
             
         except Exception as e:
-            error_msg = str(e)
-            if "429" in error_msg or "Too Many Requests" in error_msg:
-                print(f"⏳ Groq 서버 지연. 25초 대기 후 재시도... ({attempt+1}/{max_retries})")
-                time.sleep(25)
-                continue
-            else:
-                print(f"❌ AI 분석 에러 발생: {error_msg}")
-                return None
+            print(f"❌ AI 분석 에러 발생: {str(e)}")
+            return None
             
-    print("❌ 3회 재시도 실패. 이번 실행 동안 AI를 완전 차단합니다.")
     api_status["is_alive"] = False 
     return None
 
+# =========================================================
+# [6] 메인 실행 루프
+# =========================================================
 def main():
     print("☁️ 초고속 스나이퍼 봇(Groq AI 탑재) 작동 시작...")
-    ai_model_name = get_best_ai_model_name()
+    
+    if not GROQ_API_KEY:
+        print("⚠️ GROQ_API_KEY가 설정되지 않아 AI 없이 파이썬 필터로만 작동합니다.")
+        
     history = load_history()
     execution_logs = []  
     processed_urls = set()
@@ -244,8 +223,9 @@ def main():
         time_threshold = now_kst - timedelta(minutes=70)
 
     for keyword in KEYWORDS:
-        articles = search_naver_news(keyword)
-        for art in articles:
+        raw_articles = search_naver_news(keyword) + search_google_news(keyword)
+        
+        for art in raw_articles:
             title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
             link = art['link']
             
@@ -254,6 +234,7 @@ def main():
 
             try:
                 pub_dt = parsedate_to_datetime(art['pubDate'])
+                if pub_dt.tzinfo is None: pub_dt = pub_dt.replace(tzinfo=timezone.utc)
                 if pub_dt < time_threshold: continue
             except: continue
 
@@ -262,23 +243,27 @@ def main():
                 if get_similarity(title, past) > 0.8: is_dup = True; break
             if is_dup: continue 
 
+            for log in execution_logs:
+                if get_similarity(title, log['title']) > 0.8: is_dup = True; break
+            if is_dup: continue
+
             forced_score, forced_reason, need_ai = check_critical_patterns(title)
             log_entry = {"title": title, "link": link, "score": forced_score, "category": "일반", "reason": forced_reason}
 
             if forced_score >= 50:
-                if need_ai:
+                if need_ai and api_status["is_alive"] and GROQ_API_KEY:
                     print(f"🔍 타겟 감지({forced_score}점). AI 검증 진행: {title}")
                     content = scrape_article(link) or art.get('description', '').replace('<b>','').replace('</b>','')
                     if content:
-                        result = analyze_with_ai(title, content, forced_reason, ai_model_name, api_status)
+                        result = analyze_with_ai(title, content, forced_reason, api_status)
                         if result:
                             log_entry['score'] = result.get('score', 0)
                             log_entry['reason'] = result.get('reason', forced_reason)
                             if log_entry['score'] >= 80: log_entry['status'] = "ALERT"
                         elif not api_status["is_alive"]:
-                            log_entry['reason'] += " (AI 할당량 고갈 - 파이썬 점수 유지)"
+                            log_entry['reason'] += " (AI 응답 지연 - 파이썬 점수 유지)"
                             
-                    if api_status["is_alive"]: time.sleep(1) # 🚨 Groq는 빠르고 제한이 널널해서 1초만 쉬어도 충분합니다.
+                    if api_status["is_alive"]: time.sleep(1.5) 
                 else:
                     print(f"⚡ [AI 패스] 안전/인사 기사 감지({forced_score}점). 즉시 통과: {title}")
                     log_entry['reason'] += " (사건/사고/인사 팩트)"
@@ -287,7 +272,27 @@ def main():
             history["urls"].append(link)
             history["titles"].append(title)
             
-    send_hourly_report(execution_logs)
+    final_logs = [l for l in execution_logs if l.get('score', 0) >= 50]
+    if final_logs:
+        sorted_logs = sorted(final_logs, key=lambda x: x.get('score', 0), reverse=True)
+        high = [l for l in sorted_logs if l['score'] >= 80]
+        med = [l for l in sorted_logs if 50 <= l['score'] < 80]
+        
+        color = 0xe74c3c if high else 0xFFA500
+        desc = ""
+        if high:
+            desc += "🚨 **[핵심 리스크]**\n"
+            for l in high: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n\n"
+        if med:
+            if high: desc += "---\n"
+            desc += "⚠️ **[주의 및 동향]**\n"
+            for l in med[:7]: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n"
+            
+        requests.post(DISCORD_WEBHOOK_URL, json={
+            "username": "뉴스 요약 봇",
+            "embeds": [{"title": f"📊 정기 보고 (KST {datetime.now(KST).strftime('%H:%M')})", "description": desc, "color": color}]
+        })
+
     if not TEST_MODE: save_history(history)
     print("✅ 완료")
 
