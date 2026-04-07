@@ -33,14 +33,22 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
-# 🚨 [검색어 망 전체 복구] 모든 키워드 보존
+# 🚨 [검색어 망 전체 복구 및 자본흐름 확장]
 REGIONS = ["대구", "경북", "구미", "포항"]
+
+# 1. 기존 핵심 리스크
 CORE_RISKS = [
     "압수수색", "횡령", "배임", "비자금", "페이퍼컴퍼니", "분식회계", "세무조사", 
     "편법증여", "일감몰아주기", "가공거래", "역외탈세", "의견거절", "중대재해",
     "의혹", "비리", "혐의", "탈루", "구속", "밀약"
 ]
-COMBINED_KEYWORDS = [f"{region} {risk}" for region in REGIONS for risk in CORE_RISKS]
+
+# 2. 신규: 대규모 자금/투자 흐름 (이름 모를 기업도 낚기 위함)
+CORE_INVESTMENTS = [
+    "투자협약", "MOU", "신공장", "건립", "M&A", "인수합병", "대규모 수주", "테크노폴리스"
+]
+
+COMBINED_KEYWORDS = [f"{region} {word}" for region in REGIONS for word in CORE_RISKS + CORE_INVESTMENTS]
 
 KEYWORDS_KR_BASE = [
     "대구경찰청 인사", "경북경찰청 인사", "국세청 인사",
@@ -111,20 +119,25 @@ def check_critical_patterns(title):
     issue_disaster = ["화재", "폭발", "붕괴", "산불", "사망", "중대재해", "끼임", "추락", "누출"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
     issue_warning = ["논란", "위기", "적자", "파업", "노조", "소송", "재판", "승계", "지배구조"]
+    
+    # 🚨 신규: 대규모 자본 흐름 패턴 (이걸로 대성하이텍 같은 기사를 잡습니다)
+    issue_investment = ["투자협약", "MOU", "신공장", "팩토리", "건립", "신설", "M&A", "인수합병", "대규모 수주", "투자 유치", "자금 조달", "테크노폴리스"]
 
-    has_critical_risk = any(word in title for word in issue_crime + issue_finance + issue_disaster)
+    # [슈퍼 패스] 
+    has_critical_risk = any(word in title for word in issue_crime + issue_finance + issue_disaster + issue_investment)
     if not has_critical_risk:
         if any(pol in title for pol in politics_keywords): return 0, "", False
         if any(stock in title for stock in stock_keywords): return 0, "", False
 
-    local_areas = ["대구", "경북", "구미", "포항", "경주", "성서산단"]
-    company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "자동차부품사", "이차전지", "계열사"]
+    local_areas = ["대구", "경북", "구미", "포항", "경주", "성서산단", "국가산단", "테크노폴리스"]
+    company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "자동차부품사", "이차전지", "계열사", "제조"]
     figures_general = ["회장", "대표", "임원", "오너일가", "특수관계인"]
 
     is_local = any(loc in title for loc in local_areas)
     is_general_company = any(comp in title for comp in company_general)
     is_vip_company = any(vip in title for vip in VIP_COMPANIES_KR)
     
+    # VIP가 아니어도, 대구(is_local)에 있는 일반기업(is_general_company)이면 레이더에 들어옴
     target_company_or_figure = (is_local and (is_general_company or any(fig in title for fig in figures_general))) or is_vip_company
     target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "공소청", "중수청", "수사본부"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서"])) or ("국세청" in title)
@@ -134,6 +147,8 @@ def check_critical_patterns(title):
         if any(fin in title for fin in issue_finance): return 80, "지배구조/자본거래 징후", True
         if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난/사고(화재 등)", False
         if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/논란", True
+        # 🚨 대규모 자금 흐름에 70점 부여
+        if any(inv in title for inv in issue_investment): return 70, "지역 기업 대규모 자금/투자 동향", True
 
     if target_pol_pro:
         if any(personnel in title for personnel in issue_personnel): return 100, "사법/경찰 인사", False
@@ -145,7 +160,7 @@ def check_critical_patterns(title):
     return 0, "", False
 
 # =========================================================
-# [4] 수집 로직 (🚨 중복 제거 고도화)
+# [4] 수집 로직 
 # =========================================================
 def search_naver_news(keyword):
     url = "https://openapi.naver.com/v1/search/news.json"
@@ -169,7 +184,7 @@ def search_google_news(keyword, lang='ko'):
     except: return []
 
 # =========================================================
-# [5] 메인 실행 루프 (🚨 투명성 강화 로직)
+# [5] 메인 실행 루프
 # =========================================================
 def main():
     print("☁️ 글로벌 & 재무 리스크 스나이퍼 봇 작동 시작...")
@@ -180,7 +195,6 @@ def main():
     unique_links = set()
     now_kst = datetime.now(KST)
 
-    # 1. 수집 단계 (중복 주소는 수집 단계에서 즉시 컷)
     print(f"\n⚡ [1단계] 네이버/구글 뉴스 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
     for kw in KEYWORDS_KR:
         items = search_naver_news(kw) + search_google_news(kw, lang='ko')
@@ -200,20 +214,17 @@ def main():
                 raw_articles.append(it)
         time.sleep(0.4)
 
-    # 🚨 투명한 숫자 보고
     print(f"\n📊 [수집 결과 보고]")
     print(f"   - 총 검색된 고유 기사: {len(raw_articles)}건 (키워드 중복 제거 완료)")
     
     time_threshold = now_kst - (timedelta(hours=24) if TEST_MODE else timedelta(minutes=75))
     valid_articles = []
     
-    # 2. 선별 단계
     for art in raw_articles:
         title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
         link = art.get('link') or art.get('originallink')
         lang = art.get('lang', 'ko')
 
-        # 시간 필터 및 과거 기록 필터
         try:
             pub_dt = parsedate_to_datetime(art['pubDate'])
             if pub_dt.tzinfo is None: pub_dt = pub_dt.replace(tzinfo=timezone.utc)
@@ -222,9 +233,8 @@ def main():
             if any(get_similarity(title, t) > 0.85 for t in history["titles"]): continue
         except: continue
 
-        # 스나이퍼 필터 적용
         score, reason, need_ai = check_critical_patterns(title)
-        if lang == 'en': score = 50; need_ai = True # 외신은 무조건 AI행
+        if lang == 'en': score = 50; need_ai = True 
         
         if score >= 50:
             valid_articles.append({'title': title, 'link': link, 'score': score, 'reason': reason, 'lang': lang, 'need_ai': need_ai, 'raw': art})
@@ -232,44 +242,61 @@ def main():
     print(f"   - 최근 1시간 이내 타겟 기사: {len(valid_articles)}건 (시간/리스크 필터 통과)")
     print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 정밀 분석을 시작합니다...\n")
 
-    # 3. AI 분석 단계
     api_status = {"is_alive": True}
-    from requests import post # analyze_with_ai 호출 대신 인라인 처리하여 속도 개선 가능하나 구조 유지
     
     for v in valid_articles:
         if v['need_ai'] and api_status["is_alive"] and active_model:
             print(f"🔍 AI 분석 중: {v['title'][:40]}...")
-            # (기존 analyze_with_ai 로직 수행 - 생략 없이 구조 유지)
+            
+            system_instr = "You are a news risk analyst for a regional tax authority. Respond in JSON only."
+            if v['lang'] == 'en':
+                prompt = f"""[GLOBAL NEWS ANALYSIS] Title: {v['title']} | Snippet: {v['raw'].get('description', '')[:500]}
+                1. Translate to Korean. 2. Score 0-100: [🚨 80-100] Crisis. [⚠️ 50-79] M&A, Strategy. [❌ 0] Stock.
+                Format: {{ "score": 50, "category": "글로벌 동향", "reason": "한국어 요약" }}"""
+            else:
+                prompt = f"""[국내 뉴스 분석] 기사 제목: {v['title']} | 본문: {v['raw'].get('description', '')[:500]}
+                당신은 국세청 조사국을 위한 기업 리스크/자본흐름 감별사입니다.
+                [🚨 80~100점] 세금 탈루, 횡령, 지배구조 의혹, 세무조사, 기업 재난/사망
+                [⚠️ 50~79점] 대규모 투자협약, 신공장 건립, M&A, 수백억대 자금조달 및 수주
+                [❌ 0점] 단순 주가 시황, 실적발표, 기부, 제품출시
+                포맷: {{ "score": 점수, "category": "카테고리명", "reason": "세무/재무/자본흐름 중심 1줄 요약" }}"""
+
             headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
-            prompt = f"분석: {v['title']} | 요약: {v['raw'].get('description', '')[:500]}"
             try:
-                res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json={"model": active_model, "messages": [{"role": "user", "content": prompt}], "temperature": 0.2}, timeout=12)
+                res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json={"model": active_model, "messages": [{"role": "system", "content": system_instr}, {"role": "user", "content": prompt}], "temperature": 0.2}, timeout=12)
                 if res.status_code == 200:
-                    # JSON 파싱 등 기존 로직 수행 (여기선 간략화)
-                    v['reason'] = "AI 정밀 분석 완료" 
+                    raw_text = res.json()['choices'][0]['message']['content'].strip()
+                    marker = chr(96) * 3
+                    if marker in raw_text: raw_text = re.sub(f'{marker}(json)?|{marker}', '', raw_text)
+                    parsed = json.loads(raw_text.strip())
+                    v['score'] = parsed.get('score', v['score'])
+                    v['reason'] = parsed.get('reason', v['reason'])
             except: pass
             time.sleep(1.2)
-        execution_logs.append(v)
-        history["urls"].append(v['link'])
-        history["titles"].append(v['title'])
+            
+        if v['score'] >= 50:
+            execution_logs.append(v)
+            history["urls"].append(v['link'])
+            history["titles"].append(v['title'])
 
-    # 4. 최종 리포트 및 디스코드 전송
-    final_logs = deduplicate_with_ai_desk(execution_logs, active_model)
-    
-    if not final_logs:
-        send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 리스크 기사가 없습니다.", "color": 0x2ecc71}])
+    # AI 데스킹 및 디스코드 전송 로직
+    if not execution_logs:
+        send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 리스크 및 자본이동 기사가 없습니다.", "color": 0x2ecc71}])
     else:
-        # (기존 디스코드 전송 로직 수행)
+        # 중복 제거 생략 (간소화)
+        final_logs = execution_logs
+        
         high = [l for l in final_logs if l['score'] >= 80]
         med = [l for l in final_logs if 50 <= l['score'] < 80]
         desc = ""
         if high:
-            desc += "🚨 **[핵심 리스크]**\n"
-            for l in high: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n"
+            desc += "🚨 **[핵심 리스크 / 징후]**\n"
+            for l in high: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n\n"
         if med:
-            desc += "\n⚠️ **[동향 및 징후]**\n"
-            for l in med: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n"
-        send_discord_alert([{"title": f"📊 정기 보고 ({datetime.now(KST).strftime('%H:%M')})", "description": desc, "color": 0xe74c3c}])
+            desc += "🏢 **[대규모 자본이동 및 동향]**\n"
+            for l in med: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n"
+        
+        send_discord_alert([{"title": f"📊 정기 보고 ({datetime.now(KST).strftime('%H:%M')})", "description": desc, "color": 0xe74c3c if high else 0xFFA500}])
 
     if not TEST_MODE: save_history(history)
     print("✅ 완료")
