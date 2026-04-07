@@ -34,7 +34,9 @@ jobs:
           NAVER_SECRET: ${{ secrets.NAVER_SECRET }}
           GOOGLE_KEY: ${{ secrets.GOOGLE_KEY }}
           DISCORD_URL: ${{ secrets.DISCORD_URL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} 
         run: python cloud_bot.py
+          
 
       # 🚨 [새로 추가됨] 봇의 기억(히스토리 파일)을 깃허브 저장소에 박제하기
       - name: 봇 기억(히스토리) 저장하기
