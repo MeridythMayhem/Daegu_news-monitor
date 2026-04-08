@@ -33,7 +33,7 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
-# 🚨 [검색어 망]
+# 🚨 [검색어 망 세팅]
 REGIONS = ["대구", "경북", "구미", "포항"]
 CORE_RISKS = [
     "압수수색", "횡령", "배임", "비자금", "페이퍼컴퍼니", "분식회계", "세무조사", 
@@ -51,8 +51,15 @@ KEYWORDS_KR_BASE = [
     "대구 노동자 사망", "경북 노동자 사망", "대구 끼임 사고", "경북 추락 사고", "대구 화학물질 누출", "구미 불산 누출", "대구경북산업단지",
     "대구 업체 비리", "경북 업체 비리", "대구 세금 탈루", "경북 세금 탈루", "구미 업체 구속", "포항 업체 압수수색"
 ]
+# [트랙 1] 국내 핵심 타겟
 KEYWORDS_KR = KEYWORDS_KR_BASE + COMBINED_KEYWORDS + VIP_COMPANIES_KR
+# [트랙 2] 외신 글로벌 타겟
 KEYWORDS_GLOBAL = VIP_COMPANIES_EN
+
+# 🚨 신규: [트랙 3] 지역 언론 전용망 (리스크 키워드 없이 경제/기업 동향만 순수 수집)
+LOCAL_MEDIA_NAMES = ["영남일보", "매일신문", "대구일보", "경북일보", "경북도민일보", "TBC"]
+LOCAL_TOPICS = ["경제", "기업", "산업단지", "투자", "부동산"]
+KEYWORDS_LOCAL_MEDIA = [f"{media} {topic}" for media in LOCAL_MEDIA_NAMES for topic in LOCAL_TOPICS]
 
 HISTORY_FILE = "news_history.json"
 KST = timezone(timedelta(hours=9))
@@ -100,7 +107,7 @@ def get_active_groq_model():
     return "mixtral-8x7b-32768"
 
 # =========================================================
-# [3] 스나이퍼 필터 (사전 태그 부여)
+# [3] 스나이퍼 필터 
 # =========================================================
 def check_critical_patterns(title):
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
@@ -157,17 +164,24 @@ def search_naver_news(keyword):
         return requests.get(url, headers=headers, params=params).json().get('items', [])
     except: return []
 
-def search_google_news(keyword, lang='ko'):
+def search_google_news(keyword):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
     safe_keyword = urllib.parse.quote_plus(keyword)
-    if lang == 'ko':
-        url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=ko&gl=KR&ceid=KR:ko"
-    else:
-        url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=en-US&gl=US&ceid=US:en"
+    url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=ko&gl=KR&ceid=KR:ko"
     try:
         response = requests.get(url, headers=headers, timeout=5)
         soup = BeautifulSoup(response.content, 'xml')
-        return [{'title': item.title.text, 'link': item.link.text, 'pubDate': item.pubDate.text, 'lang': lang} for item in soup.find_all('item')[:10]]
+        return [{'title': item.title.text, 'link': item.link.text, 'pubDate': item.pubDate.text} for item in soup.find_all('item')[:10]]
+    except: return []
+
+def search_google_news_en(keyword):
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    safe_keyword = urllib.parse.quote_plus(keyword)
+    url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=en-US&gl=US&ceid=US:en"
+    try:
+        response = requests.get(url, headers=headers, timeout=5)
+        soup = BeautifulSoup(response.content, 'xml')
+        return [{'title': item.title.text, 'link': item.link.text, 'pubDate': item.pubDate.text} for item in soup.find_all('item')[:10]]
     except: return []
 
 def scrape_article(url):
@@ -180,27 +194,17 @@ def scrape_article(url):
     except: return None
 
 # =========================================================
-# [5] 🚨 AI 데스킹 로직 (중복 뉴스 철저한 통폐합)
+# [5] AI 데스킹 로직
 # =========================================================
 def deduplicate_with_ai_desk(logs, model_name):
     if len(logs) <= 1 or not GROQ_API_KEY or not model_name: return logs
-    print(f"\n🤖 AI 국장 데스킹 진행 중... (총 {len(logs)}개 기사 문맥 분석 및 통폐합)")
+    print(f"\n🤖 AI 국장 데스킹 진행 중... (총 {len(logs)}개 기사 통폐합)")
     
-    prompt = """[뉴스 중복 통폐합 지시사항]
-아래 뉴스 목록의 제목을 문맥상으로 파악하여, '완전히 동일한 사건이나 이슈(예: 포스코 하청노조 교섭 관련 일련의 보도들)'를 다루는 기사들을 하나의 그룹으로 묶으세요.
-그리고 각 그룹에서 가장 대표적인 기사 1개의 인덱스 번호만 남기고 나머지는 모두 버리세요.
-서로 다른 독립적인 사건이라면 모두 남겨야 합니다.
-
-응답은 반드시 살아남은 기사의 인덱스 번호만 포함된 JSON 배열 형식으로만 출력하세요. 다른 말은 절대 금지.
-예시: [{"index": 0}, {"index": 3}]
-
-뉴스 목록:\n"""
-    for i, log in enumerate(logs): 
-        prompt += f"[{i}] {log['title']}\n"
+    prompt = "목록 중 '동일한 사건/이슈'를 다룬 중복 기사들을 찾아 대표 1개만 남기고, 독립적인 사건들은 모두 남기시오. 인덱스 번호를 JSON 배열로 응답: [{\"index\": 0}, {\"index\": 1}]\n뉴스 목록:\n"
+    for i, log in enumerate(logs): prompt += f"[{i}] {log['title']}\n"
     
-    headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
     try:
-        res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, 
+        res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": f"Bearer {GROQ_API_KEY}"}, 
                            json={"model": model_name, "messages": [{"role": "system", "content": "You are a data deduping AI. Output JSON array only."}, {"role": "user", "content": prompt}], "temperature": 0.0}, timeout=15)
         if res.status_code == 200:
             raw_text = res.json()['choices'][0]['message']['content'].strip()
@@ -209,15 +213,14 @@ def deduplicate_with_ai_desk(logs, model_name):
             parsed = json.loads(raw_text.strip())
             deduped = [logs[item['index']] for item in parsed if 'index' in item and 0 <= item['index'] < len(logs)]
             if deduped: return deduped
-    except Exception as e: 
-        print(f"⚠️ 데스킹 오류: {e}")
-    return logs # 실패 시 원본 유지
+    except: pass
+    return logs
 
 # =========================================================
 # [6] 메인 실행 루프
 # =========================================================
 def main():
-    print("☁️ 스나이퍼 봇 작동 시작 (태그 요약 & AI 데스킹 탑재)...")
+    print("☁️ 스나이퍼 봇 작동 시작 (지역 언론 3트랙 시스템 도입)...")
     active_model = get_active_groq_model()
     history = load_history()
     execution_logs = []  
@@ -225,24 +228,39 @@ def main():
     unique_links = set()
     now_kst = datetime.now(KST)
 
-    print(f"\n⚡ [1단계] 네이버/구글 뉴스 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
+    # ⚡ 트랙 1: 국내 핵심 리스크/동향
+    print(f"\n⚡ [1단계] 국내 핵심 타겟 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
     for kw in KEYWORDS_KR:
-        items = search_naver_news(kw) + search_google_news(kw, lang='ko')
-        for it in items:
+        for it in search_naver_news(kw) + search_google_news(kw):
+            it['track'] = 'kr'
             link = it.get('link') or it.get('originallink')
             if link and link not in unique_links:
                 unique_links.add(link)
                 raw_articles.append(it)
         time.sleep(0.05)
     
-    print(f"🌍 [2단계] 글로벌 외신 수집 중...")
+    # 🌍 트랙 2: 글로벌 외신
+    print(f"🌍 [2단계] 글로벌 외신 수집 중... (키워드 {len(KEYWORDS_GLOBAL)}개)")
     for kw in KEYWORDS_GLOBAL:
-        items = search_google_news(kw, lang='en')
-        for it in items:
+        for it in search_google_news_en(kw):
+            it['track'] = 'en'
             if it['link'] not in unique_links:
                 unique_links.add(it['link'])
                 raw_articles.append(it)
         time.sleep(0.4)
+
+    # 📰 트랙 3: 지역 언론 브리핑용 수집 (리스크 상관없이 넓게 수집)
+    print(f"📰 [3단계] 지역 언론(영남일보 등) 전용망 수집 중... (키워드 {len(KEYWORDS_LOCAL_MEDIA)}개)")
+    for kw in KEYWORDS_LOCAL_MEDIA:
+        for it in search_naver_news(kw):
+            it['track'] = 'local'
+            link = it.get('link') or it.get('originallink')
+            if link and link not in unique_links:
+                unique_links.add(link)
+                raw_articles.append(it)
+        time.sleep(0.05)
+
+    print(f"\n📊 [수집 결과] 총 검색된 고유 기사: {len(raw_articles)}건")
     
     time_threshold = now_kst - (timedelta(hours=24) if TEST_MODE else timedelta(minutes=75))
     valid_articles = []
@@ -250,7 +268,7 @@ def main():
     for art in raw_articles:
         title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
         link = art.get('link') or art.get('originallink')
-        lang = art.get('lang', 'ko')
+        track = art['track']
 
         try:
             pub_dt = parsedate_to_datetime(art['pubDate'])
@@ -261,28 +279,47 @@ def main():
         except: continue
 
         score, reason, need_ai = check_critical_patterns(title)
-        if lang == 'en': score = 50; need_ai = True 
         
+        # 🚨 트랙별 강제 규칙 적용
+        if track == 'en': 
+            score = 50; need_ai = True 
+        elif track == 'local' and score < 70:
+            # 지역 언론 트랙으로 들어온 기사 중 파이썬 필터(70점 이상)에 안 걸린 녀석들은
+            # AI가 읽어보고 괜찮은 경제 뉴스면 60점을 주도록 강제 배정합니다.
+            score = 60; need_ai = True; reason = "[지역언론 확인용]"
+
         if score >= 50:
-            valid_articles.append({'title': title, 'link': link, 'score': score, 'reason': reason, 'lang': lang, 'need_ai': need_ai, 'raw': art})
+            valid_articles.append({'title': title, 'link': link, 'score': score, 'reason': reason, 'track': track, 'need_ai': need_ai, 'raw': art})
 
     print(f"   - 최근 1시간 이내 타겟 기사: {len(valid_articles)}건")
-    print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 태그 부여를 시작합니다...\n")
+    print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 정밀 태그 부여를 시작합니다...\n")
 
     api_status = {"is_alive": True}
     
     for v in valid_articles:
         if v['need_ai'] and api_status["is_alive"] and active_model:
-            print(f"🔍 태그 부여 중: {v['title'][:40]}...")
+            print(f"🔍 AI 분석 중: {v['title'][:40]}...")
             
             scraped_text = scrape_article(v['link'])
             full_content = scraped_text[:800] if scraped_text else v['raw'].get('description', '')[:500]
             
             system_instr = "You are a categorical tagging AI. Respond in JSON only."
-            if v['lang'] == 'en':
+            
+            if v['track'] == 'en':
                 prompt = f"""[GLOBAL NEWS TAGGING] Title: {v['title']} | Content: {full_content}
                 1. Score (0-100). 2. Choose ONE tag: [글로벌동향], [자본이동], [사고/재난], [경영/갈등].
                 Format: {{ "score": 50, "category": "Global", "reason": "[글로벌동향]" }}"""
+            
+            elif v['track'] == 'local' and v['score'] == 60:
+                # 🚨 지역 언론 전용 AI 평가: 쓰레기 기사(날씨/가십)면 0점 줘서 버리기!
+                prompt = f"""[지역 언론 경제/정책 분석] 제목: {v['title']} | 본문: {full_content}
+                지시사항:
+                1. 대구/경북 지역의 의미 있는 '기업 동향, 경제, 부동산, 산단 개발, 지자체 정책' 뉴스라면 65점을 부여하세요.
+                2. 단순 날씨, 스포츠, 일반 사건사고, 정치 가십이라면 0점을 부여하여 폐기하세요.
+                3. 살려둘 경우 아래 3개 태그 중 1개만 복사해서 출력. 문장 작성 금지.
+                [지역경제], [지자체정책], [부동산/개발]
+                포맷: {{ "score": 65, "category": "분류", "reason": "[지역경제]" }}"""
+
             else:
                 prompt = f"""[국내 기사 태그 분류] 제목: {v['title']} | 본문: {full_content}
                 1. '점수(score)'는 국세청 관점 리스크로.
@@ -308,23 +345,27 @@ def main():
             history["urls"].append(v['link'])
             history["titles"].append(v['title'])
 
-    # 🚨 실수로 생략했던 AI 데스킹(중복 통폐합) 부활!
     final_logs = deduplicate_with_ai_desk(execution_logs, active_model)
-    if not final_logs: final_logs = execution_logs # 혹시 에러 나면 원본이라도 전송
+    if not final_logs: final_logs = execution_logs 
 
     if not final_logs:
         send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 타겟 기사가 없습니다.", "color": 0x2ecc71}])
     else:
+        # 점수대별 3단 분리
         high = [l for l in final_logs if l['score'] >= 80]
-        med = [l for l in final_logs if 50 <= l['score'] < 80]
-        desc = ""
+        med = [l for l in final_logs if 70 <= l['score'] < 80]
+        local_news = [l for l in final_logs if 50 <= l['score'] < 70] 
         
+        desc = ""
         if high:
             desc += "🚨 **[핵심 리스크 / 징후]**\n"
             for l in high: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
         if med:
             desc += "🏢 **[대규모 자본이동 및 동향]**\n"
             for l in med: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
+        if local_news:
+            desc += "📰 **[지역 언론 주요 경제/정책]**\n"
+            for l in local_news: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
         
         send_discord_alert([{"title": f"📊 정기 보고 ({datetime.now(KST).strftime('%H:%M')})", "description": desc, "color": 0xe74c3c if high else 0xFFA500}])
 
