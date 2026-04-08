@@ -100,7 +100,7 @@ def get_active_groq_model():
     return "mixtral-8x7b-32768"
 
 # =========================================================
-# [3] 스나이퍼 필터 
+# [3] 스나이퍼 필터 (사전 태그 부여)
 # =========================================================
 def check_critical_patterns(title):
     politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
@@ -130,19 +130,20 @@ def check_critical_patterns(title):
     target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "공소청", "중수청", "수사본부"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서"])) or ("국세청" in title)
 
+    # 🚨 AI가 뻗었을 때를 대비해 파이썬 코드에서도 미리 [태그] 형식으로 세팅해 둡니다.
     if target_company_or_figure:
-        if any(crime in title for crime in issue_crime): return 100, "핵심 재무/수사 리스크", True
-        if any(fin in title for fin in issue_finance): return 80, "지배구조/자본거래 징후", True
-        if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난/사고(화재 등)", False
-        if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/논란", True
-        if any(inv in title for inv in issue_investment): return 70, "지역 기업 대규모 자금/투자 동향", True
+        if any(crime in title for crime in issue_crime): return 100, "[세무/재무]", True
+        if any(fin in title for fin in issue_finance): return 80, "[자본이동]", True
+        if any(disaster in title for disaster in issue_disaster): return 100, "[사고/재난]", False
+        if any(warn in title for warn in issue_warning): return 70, "[경영/갈등]", True
+        if any(inv in title for inv in issue_investment): return 70, "[자본이동]", True
 
     if target_pol_pro:
-        if any(personnel in title for personnel in issue_personnel): return 100, "사법/경찰 인사", False
+        if any(personnel in title for personnel in issue_personnel): return 100, "[사법/인사]", False
 
     if target_tax:
-        if any(crime in title for crime in issue_crime): return 100, "세무서/국세청 주요 이슈", True
-        if any(personnel in title for personnel in issue_personnel): return 100, "세무서/국세청 인사", False
+        if any(crime in title for crime in issue_crime): return 100, "[세무/재무]", True
+        if any(personnel in title for personnel in issue_personnel): return 100, "[사법/인사]", False
 
     return 0, "", False
 
@@ -183,7 +184,7 @@ def scrape_article(url):
 # [5] 메인 실행 루프
 # =========================================================
 def main():
-    print("☁️ 글로벌 & 재무 리스크 스나이퍼 봇 작동 시작...")
+    print("☁️ 단일 태그(Tag) UI 적용 - 스나이퍼 봇 작동 시작...")
     active_model = get_active_groq_model()
     history = load_history()
     execution_logs = []  
@@ -236,42 +237,42 @@ def main():
             valid_articles.append({'title': title, 'link': link, 'score': score, 'reason': reason, 'lang': lang, 'need_ai': need_ai, 'raw': art})
 
     print(f"   - 최근 1시간 이내 타겟 기사: {len(valid_articles)}건")
-    print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 정밀 분석을 시작합니다...\n")
+    print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 정밀 태그 분류를 시작합니다...\n")
 
     api_status = {"is_alive": True}
     
     for v in valid_articles:
         if v['need_ai'] and api_status["is_alive"] and active_model:
-            print(f"🔍 AI 분석 중: {v['title'][:40]}...")
+            print(f"🔍 AI 분석(태그 부여) 중: {v['title'][:40]}...")
             
-            # 🚨 치명적 버그 수정: AI에게 짧은 설명이 아닌 '진짜 스크랩한 본문'을 먹여줍니다.
             scraped_text = scrape_article(v['link'])
             full_content = scraped_text[:800] if scraped_text else v['raw'].get('description', '')[:500]
             
-            system_instr = "You are a highly objective news summarizer. Respond in JSON only."
+            system_instr = "You are a categorical tagging AI. Respond in JSON only."
             
-            # 🚨 프롬프트 개조: 점수(국세청 기준)와 요약(객관적 팩트)을 완전히 분리
+            # 🚨 프롬프트 개조: 문장을 길게 쓰지 말고, 무조건 6개 태그 중 1개만 선택해서 응답하도록 강제합니다.
             if v['lang'] == 'en':
-                prompt = f"""[GLOBAL NEWS ANALYSIS]
+                prompt = f"""[GLOBAL NEWS TAGGING]
                 Title: {v['title']}
                 Content: {full_content}
                 
                 1. Score (0-100) based on Korean Tax/Finance risk (80+: Crisis/Crime, 50-79: M&A/Trend, 0: Stock/PR).
-                2. Summarize EXACTLY what happened based on the facts in the text. Do NOT invent tax audit possibilities. Translate to Korean.
-                Format: {{ "score": 50, "category": "글로벌 동향", "reason": "객관적 팩트 기반 한국어 1줄 요약" }}"""
+                2. Choose exactly ONE tag for the 'reason' field from this list: [글로벌동향], [자본이동], [사고/재난], [경영/갈등]. DO NOT write sentences.
+                Format: {{ "score": 50, "category": "Global", "reason": "[글로벌동향]" }}"""
             else:
-                prompt = f"""[국내 기사 분석]
+                prompt = f"""[국내 기사 태그 분류]
                 제목: {v['title']}
                 본문: {full_content}
 
-                당신은 객관적인 팩트 요약 AI입니다.
-
                 지시사항:
-                1. '점수(score)'는 국세청 관점의 리스크로 매기세요. (80~100: 횡령/탈세/압수수색/지배구조/중대재해, 50~79: 대규모투자/M&A/파업/갈등, 0: 단순주식/가십)
-                2. '요약(reason)'은 본문 바탕으로 '실제 발생한 팩트'만 정확하게 1줄로 요약하세요. 기사에 명시되지 않은 '세무조사 가능성, 지배구조 의혹' 등을 절대 지어내거나 추측해서 덧붙이지 마세요.
+                1. '점수(score)'는 국세청 관점 리스크로 매기세요. (80~100: 횡령/탈세/압수수색/지배구조/재난, 50~79: 대규모투자/M&A/파업, 0: 단순주식/가십)
+                2. '요약(reason)'은 절대 문장으로 쓰지 말고, 기사 내용과 가장 잘 맞는 아래 6개의 태그 중 딱 1개만 복사해서 출력하세요.
+
+                [태그 목록]
+                [세무/재무], [자본이동], [사고/재난], [경영/갈등], [사법/인사], [일반동향]
 
                 포맷 (반드시 JSON):
-                {{ "score": 85, "category": "카테고리명", "reason": "객관적 팩트 기반 1줄 요약" }}"""
+                {{ "score": 85, "category": "분류", "reason": "[세무/재무]" }}"""
 
             headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
             try:
@@ -292,19 +293,21 @@ def main():
             history["titles"].append(v['title'])
 
     if not execution_logs:
-        send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 리스크 및 자본이동 기사가 없습니다.", "color": 0x2ecc71}])
+        send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 타겟 기사가 없습니다.", "color": 0x2ecc71}])
     else:
         final_logs = execution_logs
         
         high = [l for l in final_logs if l['score'] >= 80]
         med = [l for l in final_logs if 50 <= l['score'] < 80]
         desc = ""
+        
+        # 🚨 디스코드 UI 최적화: 엔터바꿈 요약 줄을 없애고 제목 바로 앞에 태그를 달아줍니다.
         if high:
             desc += "🚨 **[핵심 리스크 / 징후]**\n"
-            for l in high: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n\n"
+            for l in high: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
         if med:
             desc += "🏢 **[대규모 자본이동 및 동향]**\n"
-            for l in med: desc += f"**[{l['score']}]** [{l['title']}]({l['link']})\n└ {l['reason']}\n"
+            for l in med: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
         
         send_discord_alert([{"title": f"📊 정기 보고 ({datetime.now(KST).strftime('%H:%M')})", "description": desc, "color": 0xe74c3c if high else 0xFFA500}])
 
