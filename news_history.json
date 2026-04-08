@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/449/0000340809?sid=100",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=40249",
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=200317",
-    "https://www.joongdo.co.kr/web/view.php?key=20260406010001758",
     "https://www.industrynews.co.kr/news/articleView.html?idxno=79711",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5008697",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=836884",
@@ -499,13 +495,13 @@
     "https://www.eroun.net/news/articleView.html?idxno=77681",
     "https://www.greened.kr/news/articleView.html?idxno=339048",
     "https://www.ppss.kr/news/articleView.html?idxno=291965",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069516"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069516",
+    "https://m.sports.naver.com/basketball/article/351/0000085926",
+    "https://www.ksmnews.co.kr/news/view.php?idx=599327",
+    "https://www.ksmnews.co.kr/news/view.php?idx=599489",
+    "https://www.tbc.co.kr/news/view?pno=20260408182000AE08298&id=205270"
   ],
   "titles": [
-    "인터뷰 전문: 정광재 “尹 키운 게 文…지금 당정청이 라이트급 박상용...",
-    "포스코그룹, 로봇 자동화 기업 '브릴스' 투자… AX 전환 본격 추진",
-    "LS일렉트릭, 퇴직자 3분의 1 재고용...해외 거점에 '기술 DNA' 이식",
-    "박희정 민주당 포항시장 후보, 노조 초청 토론회 환영",
     "포스코그룹, 로봇 자동화 솔루션 기업 '브릴스'에 70억원 투자…\"AX전환...",
     "포스코그룹, 로봇 솔루션 기업 70억 투자…AX 본격 추진",
     "AX 전환 박차…포스코, 로봇 자동화 솔루션 기업 브릴스에 70억 투자",
@@ -1001,6 +997,10 @@
     "포스코, 협력사 직원 대규모 '직고용' 결단... 15년 소송 마침표 찍고 상...",
     "포스코, 하청노조 '사용자' 인정...노란봉투법 첫 사례",
     "포스코, 협력사 직원 7000명 직접 고용 결정 '근로자 소송 갈등 종식'",
-    "포스코 직고용 7천명 발표에 노조 반발…노사 충돌 격화"
+    "포스코 직고용 7천명 발표에 노조 반발…노사 충돌 격화",
+    "[BK 리뷰] ‘벨란겔 폭발+김민규 끝내기!’ 한국가스공사, 실내체육관 고...",
+    "경북교육청, ‘경북미래교육지구 업무 담당자 협의회’ 개최",
+    "이철우 “안동·예천 ‘북부권 대전환’ 도시로”",
+    "도지사...이철우 '우세' 속 김재원.오중기 '추격'"
   ]
 }
