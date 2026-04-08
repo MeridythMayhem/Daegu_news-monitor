@@ -33,21 +33,14 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
-# 🚨 [검색어 망 전체 복구 및 자본흐름 확장]
+# 🚨 [검색어 망]
 REGIONS = ["대구", "경북", "구미", "포항"]
-
-# 1. 기존 핵심 리스크
 CORE_RISKS = [
     "압수수색", "횡령", "배임", "비자금", "페이퍼컴퍼니", "분식회계", "세무조사", 
     "편법증여", "일감몰아주기", "가공거래", "역외탈세", "의견거절", "중대재해",
     "의혹", "비리", "혐의", "탈루", "구속", "밀약"
 ]
-
-# 2. 신규: 대규모 자금/투자 흐름 (이름 모를 기업도 낚기 위함)
-CORE_INVESTMENTS = [
-    "투자협약", "MOU", "신공장", "건립", "M&A", "인수합병", "대규모 수주", "테크노폴리스"
-]
-
+CORE_INVESTMENTS = ["투자협약", "MOU", "신공장", "건립", "M&A", "인수합병", "대규모 수주", "테크노폴리스"]
 COMBINED_KEYWORDS = [f"{region} {word}" for region in REGIONS for word in CORE_RISKS + CORE_INVESTMENTS]
 
 KEYWORDS_KR_BASE = [
@@ -58,7 +51,6 @@ KEYWORDS_KR_BASE = [
     "대구 노동자 사망", "경북 노동자 사망", "대구 끼임 사고", "경북 추락 사고", "대구 화학물질 누출", "구미 불산 누출", "대구경북산업단지",
     "대구 업체 비리", "경북 업체 비리", "대구 세금 탈루", "경북 세금 탈루", "구미 업체 구속", "포항 업체 압수수색"
 ]
-
 KEYWORDS_KR = KEYWORDS_KR_BASE + COMBINED_KEYWORDS + VIP_COMPANIES_KR
 KEYWORDS_GLOBAL = VIP_COMPANIES_EN
 
@@ -71,7 +63,7 @@ KST = timezone(timedelta(hours=9))
 def send_discord_alert(embeds):
     if not DISCORD_WEBHOOK_URL: return
     try:
-        res = requests.post(DISCORD_WEBHOOK_URL, json={"username": "뉴스 요약 봇", "embeds": embeds})
+        requests.post(DISCORD_WEBHOOK_URL, json={"username": "뉴스 요약 봇", "embeds": embeds})
     except: pass
 
 def load_history():
@@ -119,11 +111,8 @@ def check_critical_patterns(title):
     issue_disaster = ["화재", "폭발", "붕괴", "산불", "사망", "중대재해", "끼임", "추락", "누출"]
     issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
     issue_warning = ["논란", "위기", "적자", "파업", "노조", "소송", "재판", "승계", "지배구조"]
-    
-    # 🚨 신규: 대규모 자본 흐름 패턴 (이걸로 대성하이텍 같은 기사를 잡습니다)
     issue_investment = ["투자협약", "MOU", "신공장", "팩토리", "건립", "신설", "M&A", "인수합병", "대규모 수주", "투자 유치", "자금 조달", "테크노폴리스"]
 
-    # [슈퍼 패스] 
     has_critical_risk = any(word in title for word in issue_crime + issue_finance + issue_disaster + issue_investment)
     if not has_critical_risk:
         if any(pol in title for pol in politics_keywords): return 0, "", False
@@ -137,7 +126,6 @@ def check_critical_patterns(title):
     is_general_company = any(comp in title for comp in company_general)
     is_vip_company = any(vip in title for vip in VIP_COMPANIES_KR)
     
-    # VIP가 아니어도, 대구(is_local)에 있는 일반기업(is_general_company)이면 레이더에 들어옴
     target_company_or_figure = (is_local and (is_general_company or any(fig in title for fig in figures_general))) or is_vip_company
     target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "공소청", "중수청", "수사본부"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서"])) or ("국세청" in title)
@@ -147,7 +135,6 @@ def check_critical_patterns(title):
         if any(fin in title for fin in issue_finance): return 80, "지배구조/자본거래 징후", True
         if any(disaster in title for disaster in issue_disaster): return 100, "기업 재난/사고(화재 등)", False
         if any(warn in title for warn in issue_warning): return 70, "기업 위기/갈등/논란", True
-        # 🚨 대규모 자금 흐름에 70점 부여
         if any(inv in title for inv in issue_investment): return 70, "지역 기업 대규모 자금/투자 동향", True
 
     if target_pol_pro:
@@ -183,6 +170,15 @@ def search_google_news(keyword, lang='ko'):
         return [{'title': item.title.text, 'link': item.link.text, 'pubDate': item.pubDate.text, 'lang': lang} for item in soup.find_all('item')[:10]]
     except: return []
 
+def scrape_article(url):
+    try:
+        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=3)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        content = soup.select_one('#dic_area') or soup.select_one('#articeBody') or soup.select_one('.go_trans._article_content')
+        if not content and 'news.google' not in url: content = soup.find('body')
+        return content.get_text(strip=True)[:1000] if content else None
+    except: return None
+
 # =========================================================
 # [5] 메인 실행 루프
 # =========================================================
@@ -215,7 +211,7 @@ def main():
         time.sleep(0.4)
 
     print(f"\n📊 [수집 결과 보고]")
-    print(f"   - 총 검색된 고유 기사: {len(raw_articles)}건 (키워드 중복 제거 완료)")
+    print(f"   - 총 검색된 고유 기사: {len(raw_articles)}건")
     
     time_threshold = now_kst - (timedelta(hours=24) if TEST_MODE else timedelta(minutes=75))
     valid_articles = []
@@ -239,7 +235,7 @@ def main():
         if score >= 50:
             valid_articles.append({'title': title, 'link': link, 'score': score, 'reason': reason, 'lang': lang, 'need_ai': need_ai, 'raw': art})
 
-    print(f"   - 최근 1시간 이내 타겟 기사: {len(valid_articles)}건 (시간/리스크 필터 통과)")
+    print(f"   - 최근 1시간 이내 타겟 기사: {len(valid_articles)}건")
     print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 정밀 분석을 시작합니다...\n")
 
     api_status = {"is_alive": True}
@@ -248,22 +244,38 @@ def main():
         if v['need_ai'] and api_status["is_alive"] and active_model:
             print(f"🔍 AI 분석 중: {v['title'][:40]}...")
             
-            system_instr = "You are a news risk analyst for a regional tax authority. Respond in JSON only."
+            # 🚨 치명적 버그 수정: AI에게 짧은 설명이 아닌 '진짜 스크랩한 본문'을 먹여줍니다.
+            scraped_text = scrape_article(v['link'])
+            full_content = scraped_text[:800] if scraped_text else v['raw'].get('description', '')[:500]
+            
+            system_instr = "You are a highly objective news summarizer. Respond in JSON only."
+            
+            # 🚨 프롬프트 개조: 점수(국세청 기준)와 요약(객관적 팩트)을 완전히 분리
             if v['lang'] == 'en':
-                prompt = f"""[GLOBAL NEWS ANALYSIS] Title: {v['title']} | Snippet: {v['raw'].get('description', '')[:500]}
-                1. Translate to Korean. 2. Score 0-100: [🚨 80-100] Crisis. [⚠️ 50-79] M&A, Strategy. [❌ 0] Stock.
-                Format: {{ "score": 50, "category": "글로벌 동향", "reason": "한국어 요약" }}"""
+                prompt = f"""[GLOBAL NEWS ANALYSIS]
+                Title: {v['title']}
+                Content: {full_content}
+                
+                1. Score (0-100) based on Korean Tax/Finance risk (80+: Crisis/Crime, 50-79: M&A/Trend, 0: Stock/PR).
+                2. Summarize EXACTLY what happened based on the facts in the text. Do NOT invent tax audit possibilities. Translate to Korean.
+                Format: {{ "score": 50, "category": "글로벌 동향", "reason": "객관적 팩트 기반 한국어 1줄 요약" }}"""
             else:
-                prompt = f"""[국내 뉴스 분석] 기사 제목: {v['title']} | 본문: {v['raw'].get('description', '')[:500]}
-                당신은 국세청 조사국을 위한 기업 리스크/자본흐름 감별사입니다.
-                [🚨 80~100점] 세금 탈루, 횡령, 지배구조 의혹, 세무조사, 기업 재난/사망
-                [⚠️ 50~79점] 대규모 투자협약, 신공장 건립, M&A, 수백억대 자금조달 및 수주
-                [❌ 0점] 단순 주가 시황, 실적발표, 기부, 제품출시
-                포맷: {{ "score": 점수, "category": "카테고리명", "reason": "세무/재무/자본흐름 중심 1줄 요약" }}"""
+                prompt = f"""[국내 기사 분석]
+                제목: {v['title']}
+                본문: {full_content}
+
+                당신은 객관적인 팩트 요약 AI입니다.
+
+                지시사항:
+                1. '점수(score)'는 국세청 관점의 리스크로 매기세요. (80~100: 횡령/탈세/압수수색/지배구조/중대재해, 50~79: 대규모투자/M&A/파업/갈등, 0: 단순주식/가십)
+                2. '요약(reason)'은 본문 바탕으로 '실제 발생한 팩트'만 정확하게 1줄로 요약하세요. 기사에 명시되지 않은 '세무조사 가능성, 지배구조 의혹' 등을 절대 지어내거나 추측해서 덧붙이지 마세요.
+
+                포맷 (반드시 JSON):
+                {{ "score": 85, "category": "카테고리명", "reason": "객관적 팩트 기반 1줄 요약" }}"""
 
             headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
             try:
-                res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json={"model": active_model, "messages": [{"role": "system", "content": system_instr}, {"role": "user", "content": prompt}], "temperature": 0.2}, timeout=12)
+                res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json={"model": active_model, "messages": [{"role": "system", "content": system_instr}, {"role": "user", "content": prompt}], "temperature": 0.1}, timeout=12)
                 if res.status_code == 200:
                     raw_text = res.json()['choices'][0]['message']['content'].strip()
                     marker = chr(96) * 3
@@ -279,11 +291,9 @@ def main():
             history["urls"].append(v['link'])
             history["titles"].append(v['title'])
 
-    # AI 데스킹 및 디스코드 전송 로직
     if not execution_logs:
         send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 리스크 및 자본이동 기사가 없습니다.", "color": 0x2ecc71}])
     else:
-        # 중복 제거 생략 (간소화)
         final_logs = execution_logs
         
         high = [l for l in final_logs if l['score'] >= 80]
