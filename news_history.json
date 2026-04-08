@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.taxtimes.co.kr/news/article.html?no=274621",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=867166",
-    "https://www.ajunews.com/view/20260407102836636",
-    "https://n.news.naver.com/mnews/article/079/0004133659?sid=100",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=77780",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5008633",
-    "https://www.viewsnnews.com/article?q=234924",
-    "https://n.news.naver.com/mnews/article/016/0002625792?sid=102",
-    "https://n.news.naver.com/mnews/article/056/0012157156?sid=100",
     "https://n.news.naver.com/mnews/article/031/0001020171?sid=102",
     "http://www.lawissue.co.kr/view.php?ud=2026040710221143429a8c8bf58f_12",
     "https://n.news.naver.com/mnews/article/052/0002337311?sid=102",
@@ -499,18 +490,18 @@
     "https://n.news.naver.com/mnews/article/002/0002436233?sid=102",
     "https://www.ajunews.com/view/20260408165051059",
     "https://n.news.naver.com/mnews/article/082/0001375049?sid=101",
-    "https://www.m-i.kr/news/articleView.html?idxno=1362754"
+    "https://www.m-i.kr/news/articleView.html?idxno=1362754",
+    "https://n.news.naver.com/mnews/article/022/0004119324?sid=102",
+    "https://n.news.naver.com/mnews/article/028/0002799792?sid=101",
+    "https://www.goodnews1.com/news/articleView.html?idxno=458571",
+    "https://n.news.naver.com/mnews/article/469/0000924373?sid=102",
+    "https://n.news.naver.com/mnews/article/009/0005663136?sid=102",
+    "https://n.news.naver.com/mnews/article/032/0003438638?sid=102",
+    "https://n.news.naver.com/mnews/article/215/0001248370?sid=101",
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4077171",
+    "https://www.eroun.net/news/articleView.html?idxno=77681"
   ],
   "titles": [
-    "장난감가게 증가율 1년새 16.6% 껑충",
-    "부산경찰청 신임 김성희 청장...취임식 갖고 공식 업무 돌입",
-    "LH 대구경북본부, 반복 훈련이 현장서 생명 살렸다",
-    "김경율 \"장동혁 면전 비판 윤상현? 선거철에 제정신으로 돌아오시는 분...",
-    "포항시의회 제329회 임시회 폐회…'코스타밸리·정당공천제' 열띤 공방",
-    "국민의힘 경주시장 경선, '불법 ARS' 논란에 법적 공방 비화",
-    "전한길도 장동혁 비판하며 탈당. 트럼프에 'SOS'",
-    "“아이들 보는데” 병아리 산 채 먹이로…구미 동물원 동물학대 논란",
-    "[전격시사] 이건태 더불어민주당 의원 - “검찰-국정원-대통령실 합작…...",
     "'대구 캐리어 시신' 사위, 장모 호소에소 12시간 걸쳐 폭행⋯뺨 때리며...",
     "대구지법, 뇌병변 장애 네살 아들 살해하려다 울음소리에 멈춘 엄마 '집...",
     "'쉬고 담배 피우고 또 구타'...12시간 폭행 전말 드러나",
@@ -1001,6 +992,15 @@
     "건설노조 \"지난해 5명 숨졌는데…포스코, 올해도 안전조치 미흡 70여 건...",
     "경북지노위, 포스코 하청 노조 교섭단위 분리 '인정'…노란봉투법 첫 판...",
     "포스코 하청노조 “꼼수 직고용 수용불가…전형적인 책임 회피”",
-    "포스코 하청 노조 교섭단위 분리 '사용자성 인정'…민간 기업 첫 판단"
+    "포스코 하청 노조 교섭단위 분리 '사용자성 인정'…민간 기업 첫 판단",
+    "“포스코 복수 하청노조 원청과 개별 교섭하라”",
+    "포스코 ‘7천명 직고용’ 갑툭 로드맵에 노조 “별정직으로 차별 재생산...",
+    "포스코 하청 노조 간 교섭단위 분리…노란봉투법 후 첫 판정",
+    "\"포스코, 하청노조 3곳과 각각 교섭해야\"… 대기업 사용자성 첫 판단",
+    "포스코, 3개 하청 노조와 협상할 판",
+    "포스코 하청노조 ‘사용자성’ 인정 및 ‘교섭단위 분리’…노란봉투법...",
+    "포스코, 7천명 직고용 누가 됐나…노조는 반발",
+    "'포스코' 하청 노조, 노란봉투법 시행 후 첫 노조 간 교섭 분리 결정",
+    "포스코, 협력사 직원 대규모 '직고용' 결단... 15년 소송 마침표 찍고 상..."
   ]
 }
