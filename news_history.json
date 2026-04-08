@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/008/0005340702?sid=101",
-    "http://www.seoulwire.com/news/articleView.html?idxno=715535",
     "https://www.ggilbo.com/news/articleView.html?idxno=1151193",
     "https://n.news.naver.com/mnews/article/417/0001137805?sid=101",
     "https://www.itooza.com/common/iview.php?no=2026040709340107018",
@@ -499,11 +497,11 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4408209",
     "https://www.etoday.co.kr/news/view/2573646",
     "https://n.news.naver.com/mnews/article/024/0000104644?sid=101",
-    "https://www.viva100.com/article/20260407501310"
+    "https://www.viva100.com/article/20260407501310",
+    "https://www.ekn.kr/web/view.php?key=20260408026435046",
+    "https://n.news.naver.com/mnews/article/008/0005341251?sid=101"
   ],
   "titles": [
-    "\"실적 시즌 저평가주 찾아라\"…2차전지주 동반 상승",
-    "삼성전자 '57조 영업익', 코스피 5500선 회복…삼천당 제약 '급락'",
     "에코프로머티 주가, 급등세... 왜?",
     "코스피, 삼성전자 최대 실적에 1.84% 급등으로 5550선 회복",
     "[52주] 최고가 16개, 최저가 10개... 코스피 5500대 회복",
@@ -1001,6 +999,8 @@
     "포스코, 협력사 직원 7천명 정규직 직고용하기로",
     "‘7000명 직고용’ 포스코, 원·하청 구조 수술⋯‘위험 외주화’ 끊는...",
     "신안산선 붕괴 포스코이앤씨 ‘인재’로 결론 [재계톡톡]",
-    "‘15년 묵은 갈등 끊는다’ 장인화의 파격 승부수⋯ 포스코, 하청 7000명..."
+    "‘15년 묵은 갈등 끊는다’ 장인화의 파격 승부수⋯ 포스코, 하청 7000명...",
+    "“한·베 여성기업 협력 본격화”…경북지회-타이응우옌 MOU 체결",
+    "포스코 \"철강 위기, 상생으로 돌파\"…협력사 7000명 직접 고용"
   ]
 }
