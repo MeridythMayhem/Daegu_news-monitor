@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://m.sports.naver.com/golf/article/001/0016006278",
-    "https://www.taxtimes.co.kr/news/article.html?no=274622",
-    "https://www.taxtimes.co.kr/news/article.html?no=274623",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=565973",
-    "http://www.newsprime.co.kr/news/article.html?no=729405",
-    "https://www.koit.co.kr/news/articleView.html?idxno=206613",
     "https://www.taxtimes.co.kr/news/article.html?no=274621",
     "https://www.getnews.co.kr/news/articleView.html?idxno=867166",
     "https://www.ajunews.com/view/20260407102836636",
@@ -499,15 +493,15 @@
     "https://n.news.naver.com/mnews/article/003/0013875784?sid=102",
     "https://n.news.naver.com/mnews/article/421/0008878192?sid=101",
     "https://www.businessplus.kr/news/articleView.html?idxno=110317",
-    "https://n.news.naver.com/mnews/article/014/0005504560?sid=101"
+    "https://n.news.naver.com/mnews/article/014/0005504560?sid=101",
+    "https://n.news.naver.com/mnews/article/079/0004134455?sid=102",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604081658266810532",
+    "https://n.news.naver.com/mnews/article/002/0002436233?sid=102",
+    "https://www.ajunews.com/view/20260408165051059",
+    "https://n.news.naver.com/mnews/article/082/0001375049?sid=101",
+    "https://www.m-i.kr/news/articleView.html?idxno=1362754"
   ],
   "titles": [
-    "KLPGA 투어 iM금융오픈, 9일 개막…방신실·이예원 등 출격",
-    "대구지방국세청, 경주벚꽃마라톤대회서 세정홍보",
-    "수영세무서, 신선대감만터미널 찾아 현장 간담",
-    "2026년 근로장려금 신청 기준 정리…유가 불안 속 '생활 버팀목' 역할 주...",
-    "'취하는 술'에서 '즐기는 음료'로…주류업계는 질적 진화 中",
-    "사업자등록 한번으로 고용·산재보험도 가입",
     "장난감가게 증가율 1년새 16.6% 껑충",
     "부산경찰청 신임 김성희 청장...취임식 갖고 공식 업무 돌입",
     "LH 대구경북본부, 반복 훈련이 현장서 생명 살렸다",
@@ -1001,6 +995,12 @@
     "포스코 '하청노조 사용자성' 인정…첫 교섭단위 분리 결정",
     "포스코 하청노조 사용자성 인정…복수노조 분리교섭 허용(상보)",
     "포스코, 협력사 현장직원 7000명 직접 고용…15년 소송 마침표",
-    "포스코, 협력사 직원 7천명 직고용..노조 \"공감대 형성 없어\" 반발"
+    "포스코, 협력사 직원 7천명 직고용..노조 \"공감대 형성 없어\" 반발",
+    "포스코 하청노조 교섭단위 분리…원청 '사용자성' 첫 판단",
+    "포스코 하청노조 교섭단위 분리 첫 인정",
+    "건설노조 \"지난해 5명 숨졌는데…포스코, 올해도 안전조치 미흡 70여 건...",
+    "경북지노위, 포스코 하청 노조 교섭단위 분리 '인정'…노란봉투법 첫 판...",
+    "포스코 하청노조 “꼼수 직고용 수용불가…전형적인 책임 회피”",
+    "포스코 하청 노조 교섭단위 분리 '사용자성 인정'…민간 기업 첫 판단"
   ]
 }
