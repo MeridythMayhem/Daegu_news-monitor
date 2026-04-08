@@ -130,7 +130,6 @@ def check_critical_patterns(title):
     target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "공소청", "중수청", "수사본부"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서"])) or ("국세청" in title)
 
-    # 🚨 AI가 뻗었을 때를 대비해 파이썬 코드에서도 미리 [태그] 형식으로 세팅해 둡니다.
     if target_company_or_figure:
         if any(crime in title for crime in issue_crime): return 100, "[세무/재무]", True
         if any(fin in title for fin in issue_finance): return 80, "[자본이동]", True
@@ -181,10 +180,44 @@ def scrape_article(url):
     except: return None
 
 # =========================================================
-# [5] 메인 실행 루프
+# [5] 🚨 AI 데스킹 로직 (중복 뉴스 철저한 통폐합)
+# =========================================================
+def deduplicate_with_ai_desk(logs, model_name):
+    if len(logs) <= 1 or not GROQ_API_KEY or not model_name: return logs
+    print(f"\n🤖 AI 국장 데스킹 진행 중... (총 {len(logs)}개 기사 문맥 분석 및 통폐합)")
+    
+    prompt = """[뉴스 중복 통폐합 지시사항]
+아래 뉴스 목록의 제목을 문맥상으로 파악하여, '완전히 동일한 사건이나 이슈(예: 포스코 하청노조 교섭 관련 일련의 보도들)'를 다루는 기사들을 하나의 그룹으로 묶으세요.
+그리고 각 그룹에서 가장 대표적인 기사 1개의 인덱스 번호만 남기고 나머지는 모두 버리세요.
+서로 다른 독립적인 사건이라면 모두 남겨야 합니다.
+
+응답은 반드시 살아남은 기사의 인덱스 번호만 포함된 JSON 배열 형식으로만 출력하세요. 다른 말은 절대 금지.
+예시: [{"index": 0}, {"index": 3}]
+
+뉴스 목록:\n"""
+    for i, log in enumerate(logs): 
+        prompt += f"[{i}] {log['title']}\n"
+    
+    headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
+    try:
+        res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, 
+                           json={"model": model_name, "messages": [{"role": "system", "content": "You are a data deduping AI. Output JSON array only."}, {"role": "user", "content": prompt}], "temperature": 0.0}, timeout=15)
+        if res.status_code == 200:
+            raw_text = res.json()['choices'][0]['message']['content'].strip()
+            marker = chr(96) * 3
+            if marker in raw_text: raw_text = re.sub(f'{marker}(json)?|{marker}', '', raw_text)
+            parsed = json.loads(raw_text.strip())
+            deduped = [logs[item['index']] for item in parsed if 'index' in item and 0 <= item['index'] < len(logs)]
+            if deduped: return deduped
+    except Exception as e: 
+        print(f"⚠️ 데스킹 오류: {e}")
+    return logs # 실패 시 원본 유지
+
+# =========================================================
+# [6] 메인 실행 루프
 # =========================================================
 def main():
-    print("☁️ 단일 태그(Tag) UI 적용 - 스나이퍼 봇 작동 시작...")
+    print("☁️ 스나이퍼 봇 작동 시작 (태그 요약 & AI 데스킹 탑재)...")
     active_model = get_active_groq_model()
     history = load_history()
     execution_logs = []  
@@ -210,9 +243,6 @@ def main():
                 unique_links.add(it['link'])
                 raw_articles.append(it)
         time.sleep(0.4)
-
-    print(f"\n📊 [수집 결과 보고]")
-    print(f"   - 총 검색된 고유 기사: {len(raw_articles)}건")
     
     time_threshold = now_kst - (timedelta(hours=24) if TEST_MODE else timedelta(minutes=75))
     valid_articles = []
@@ -237,42 +267,28 @@ def main():
             valid_articles.append({'title': title, 'link': link, 'score': score, 'reason': reason, 'lang': lang, 'need_ai': need_ai, 'raw': art})
 
     print(f"   - 최근 1시간 이내 타겟 기사: {len(valid_articles)}건")
-    print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 정밀 태그 분류를 시작합니다...\n")
+    print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 태그 부여를 시작합니다...\n")
 
     api_status = {"is_alive": True}
     
     for v in valid_articles:
         if v['need_ai'] and api_status["is_alive"] and active_model:
-            print(f"🔍 AI 분석(태그 부여) 중: {v['title'][:40]}...")
+            print(f"🔍 태그 부여 중: {v['title'][:40]}...")
             
             scraped_text = scrape_article(v['link'])
             full_content = scraped_text[:800] if scraped_text else v['raw'].get('description', '')[:500]
             
             system_instr = "You are a categorical tagging AI. Respond in JSON only."
-            
-            # 🚨 프롬프트 개조: 문장을 길게 쓰지 말고, 무조건 6개 태그 중 1개만 선택해서 응답하도록 강제합니다.
             if v['lang'] == 'en':
-                prompt = f"""[GLOBAL NEWS TAGGING]
-                Title: {v['title']}
-                Content: {full_content}
-                
-                1. Score (0-100) based on Korean Tax/Finance risk (80+: Crisis/Crime, 50-79: M&A/Trend, 0: Stock/PR).
-                2. Choose exactly ONE tag for the 'reason' field from this list: [글로벌동향], [자본이동], [사고/재난], [경영/갈등]. DO NOT write sentences.
+                prompt = f"""[GLOBAL NEWS TAGGING] Title: {v['title']} | Content: {full_content}
+                1. Score (0-100). 2. Choose ONE tag: [글로벌동향], [자본이동], [사고/재난], [경영/갈등].
                 Format: {{ "score": 50, "category": "Global", "reason": "[글로벌동향]" }}"""
             else:
-                prompt = f"""[국내 기사 태그 분류]
-                제목: {v['title']}
-                본문: {full_content}
-
-                지시사항:
-                1. '점수(score)'는 국세청 관점 리스크로 매기세요. (80~100: 횡령/탈세/압수수색/지배구조/재난, 50~79: 대규모투자/M&A/파업, 0: 단순주식/가십)
-                2. '요약(reason)'은 절대 문장으로 쓰지 말고, 기사 내용과 가장 잘 맞는 아래 6개의 태그 중 딱 1개만 복사해서 출력하세요.
-
-                [태그 목록]
+                prompt = f"""[국내 기사 태그 분류] 제목: {v['title']} | 본문: {full_content}
+                1. '점수(score)'는 국세청 관점 리스크로.
+                2. '요약(reason)'은 기사와 가장 잘 맞는 아래 6개 태그 중 딱 1개만 복사해서 출력. 문장 작성 금지.
                 [세무/재무], [자본이동], [사고/재난], [경영/갈등], [사법/인사], [일반동향]
-
-                포맷 (반드시 JSON):
-                {{ "score": 85, "category": "분류", "reason": "[세무/재무]" }}"""
+                포맷: {{ "score": 85, "category": "분류", "reason": "[세무/재무]" }}"""
 
             headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
             try:
@@ -292,16 +308,17 @@ def main():
             history["urls"].append(v['link'])
             history["titles"].append(v['title'])
 
-    if not execution_logs:
+    # 🚨 실수로 생략했던 AI 데스킹(중복 통폐합) 부활!
+    final_logs = deduplicate_with_ai_desk(execution_logs, active_model)
+    if not final_logs: final_logs = execution_logs # 혹시 에러 나면 원본이라도 전송
+
+    if not final_logs:
         send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 타겟 기사가 없습니다.", "color": 0x2ecc71}])
     else:
-        final_logs = execution_logs
-        
         high = [l for l in final_logs if l['score'] >= 80]
         med = [l for l in final_logs if 50 <= l['score'] < 80]
         desc = ""
         
-        # 🚨 디스코드 UI 최적화: 엔터바꿈 요약 줄을 없애고 제목 바로 앞에 태그를 달아줍니다.
         if high:
             desc += "🚨 **[핵심 리스크 / 징후]**\n"
             for l in high: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
