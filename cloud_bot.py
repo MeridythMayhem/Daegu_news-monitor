@@ -33,7 +33,7 @@ VIP_COMPANIES_EN = [
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
 ]
 
-# 🚨 [검색어 망 세팅]
+# 🚨 [검색어 망]
 REGIONS = ["대구", "경북", "구미", "포항"]
 CORE_RISKS = [
     "압수수색", "횡령", "배임", "비자금", "페이퍼컴퍼니", "분식회계", "세무조사", 
@@ -51,12 +51,9 @@ KEYWORDS_KR_BASE = [
     "대구 노동자 사망", "경북 노동자 사망", "대구 끼임 사고", "경북 추락 사고", "대구 화학물질 누출", "구미 불산 누출", "대구경북산업단지",
     "대구 업체 비리", "경북 업체 비리", "대구 세금 탈루", "경북 세금 탈루", "구미 업체 구속", "포항 업체 압수수색"
 ]
-# [트랙 1] 국내 핵심 타겟
 KEYWORDS_KR = KEYWORDS_KR_BASE + COMBINED_KEYWORDS + VIP_COMPANIES_KR
-# [트랙 2] 외신 글로벌 타겟
 KEYWORDS_GLOBAL = VIP_COMPANIES_EN
 
-# 🚨 신규: [트랙 3] 지역 언론 전용망 (리스크 키워드 없이 경제/기업 동향만 순수 수집)
 LOCAL_MEDIA_NAMES = ["영남일보", "매일신문", "대구일보", "경북일보", "경북도민일보", "TBC"]
 LOCAL_TOPICS = ["경제", "기업", "산업단지", "투자", "부동산"]
 KEYWORDS_LOCAL_MEDIA = [f"{media} {topic}" for media in LOCAL_MEDIA_NAMES for topic in LOCAL_TOPICS]
@@ -107,12 +104,17 @@ def get_active_groq_model():
     return "mixtral-8x7b-32768"
 
 # =========================================================
-# [3] 스나이퍼 필터 
+# [3] 스나이퍼 필터 (🚨 스포츠/선거 절대 방어선 구축)
 # =========================================================
 def check_critical_patterns(title):
-    politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "더불어민주당", "국민의힘"]
+    # 1. 버려야 할 함정 단어들 
+    # 🚨 스포츠는 예외 없이 무조건 차단 (가스공사 페가수스, 삼성 라이온즈 등)
+    sports_keywords = ["프로농구", "KBL", "프로야구", "KBO", "프로축구", "K리그", "감독", "선수", "득점", "리바운드", "홈런", "페가수스", "라이온즈", "대구FC", "실내체육관", "끝내기", "결승", "스포츠", "MVP", "매치"]
+    # 🚨 정치는 더 정교하게 추가 (도지사, 선거, 추격 등)
+    politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "도지사", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "민주당", "국민의힘", "우세", "추격", "경선", "여론조사", "지지율", "출마", "득표", "총선", "지선", "대선"]
     stock_keywords = ["주가", "상승", "하락", "급등", "급락", "증시", "코스피", "코스닥", "종목", "시황", "주식", "매수", "매도", "개미", "외인", "기관", "상장", "공모"]
 
+    # 2. 리스크 단어들
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "송치", "체포", "비자금", "가공거래", "허위세금계산서", "페이퍼컴퍼니", "의혹", "혐의", "탈루", "밀약"]
     issue_finance = ["가업승계", "편법증여", "일감몰아주기", "일감 몰아주기", "지분매각", "전환사채", "CB", "신주인수권부사채", "BW", "비상장주식", "우회상장", "자본잠식"]
     issue_disaster = ["화재", "폭발", "붕괴", "산불", "사망", "중대재해", "끼임", "추락", "누출"]
@@ -120,11 +122,20 @@ def check_critical_patterns(title):
     issue_warning = ["논란", "위기", "적자", "파업", "노조", "소송", "재판", "승계", "지배구조"]
     issue_investment = ["투자협약", "MOU", "신공장", "팩토리", "건립", "신설", "M&A", "인수합병", "대규모 수주", "투자 유치", "자금 조달", "테크노폴리스"]
 
-    has_critical_risk = any(word in title for word in issue_crime + issue_finance + issue_disaster + issue_investment)
-    if not has_critical_risk:
-        if any(pol in title for pol in politics_keywords): return 0, "", False
-        if any(stock in title for stock in stock_keywords): return 0, "", False
+    # 🚨 [절대 방어선] 스포츠 단어가 하나라도 있으면 무조건 버림 (폭발, 끝내기가 있어도 버림)
+    if any(sport in title for sport in sports_keywords): return 0, "", False
 
+    # 🚨 [조건부 방어선] 정치와 주식은 '범죄/재무' 이슈가 없을 때만 버림
+    has_crime_risk = any(word in title for word in issue_crime)
+    has_finance_risk = any(word in title for word in issue_finance)
+    
+    if any(pol in title for pol in politics_keywords) and not has_crime_risk:
+        return 0, "", False # 정치인의 범죄/비리 기사가 아니면 선거 가십이므로 버림
+    
+    if any(stock in title for stock in stock_keywords) and not (has_crime_risk or has_finance_risk):
+        return 0, "", False # 우회상장, 비상장주식, 횡령 같은 재무 이슈가 없으면 단순 주가 시황이므로 버림
+
+    # 3. 타겟 확인
     local_areas = ["대구", "경북", "구미", "포항", "경주", "성서산단", "국가산단", "테크노폴리스"]
     company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "자동차부품사", "이차전지", "계열사", "제조"]
     figures_general = ["회장", "대표", "임원", "오너일가", "특수관계인"]
@@ -137,6 +148,7 @@ def check_critical_patterns(title):
     target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "공소청", "중수청", "수사본부"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서"])) or ("국세청" in title)
 
+    # 4. 점수 및 태그 할당
     if target_company_or_figure:
         if any(crime in title for crime in issue_crime): return 100, "[세무/재무]", True
         if any(fin in title for fin in issue_finance): return 80, "[자본이동]", True
@@ -220,7 +232,7 @@ def deduplicate_with_ai_desk(logs, model_name):
 # [6] 메인 실행 루프
 # =========================================================
 def main():
-    print("☁️ 스나이퍼 봇 작동 시작 (지역 언론 3트랙 시스템 도입)...")
+    print("☁️ 스나이퍼 봇 작동 시작 (스포츠/선거 완벽 차단 탑재)...")
     active_model = get_active_groq_model()
     history = load_history()
     execution_logs = []  
@@ -228,7 +240,6 @@ def main():
     unique_links = set()
     now_kst = datetime.now(KST)
 
-    # ⚡ 트랙 1: 국내 핵심 리스크/동향
     print(f"\n⚡ [1단계] 국내 핵심 타겟 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
     for kw in KEYWORDS_KR:
         for it in search_naver_news(kw) + search_google_news(kw):
@@ -239,7 +250,6 @@ def main():
                 raw_articles.append(it)
         time.sleep(0.05)
     
-    # 🌍 트랙 2: 글로벌 외신
     print(f"🌍 [2단계] 글로벌 외신 수집 중... (키워드 {len(KEYWORDS_GLOBAL)}개)")
     for kw in KEYWORDS_GLOBAL:
         for it in search_google_news_en(kw):
@@ -249,7 +259,6 @@ def main():
                 raw_articles.append(it)
         time.sleep(0.4)
 
-    # 📰 트랙 3: 지역 언론 브리핑용 수집 (리스크 상관없이 넓게 수집)
     print(f"📰 [3단계] 지역 언론(영남일보 등) 전용망 수집 중... (키워드 {len(KEYWORDS_LOCAL_MEDIA)}개)")
     for kw in KEYWORDS_LOCAL_MEDIA:
         for it in search_naver_news(kw):
@@ -280,12 +289,13 @@ def main():
 
         score, reason, need_ai = check_critical_patterns(title)
         
-        # 🚨 트랙별 강제 규칙 적용
+        # 만약 스나이퍼 필터에서 0점(스포츠 등)을 맞았다면 즉시 폐기합니다.
+        if score == 0 and track != 'en':
+            continue
+
         if track == 'en': 
             score = 50; need_ai = True 
         elif track == 'local' and score < 70:
-            # 지역 언론 트랙으로 들어온 기사 중 파이썬 필터(70점 이상)에 안 걸린 녀석들은
-            # AI가 읽어보고 괜찮은 경제 뉴스면 60점을 주도록 강제 배정합니다.
             score = 60; need_ai = True; reason = "[지역언론 확인용]"
 
         if score >= 50:
@@ -311,11 +321,11 @@ def main():
                 Format: {{ "score": 50, "category": "Global", "reason": "[글로벌동향]" }}"""
             
             elif v['track'] == 'local' and v['score'] == 60:
-                # 🚨 지역 언론 전용 AI 평가: 쓰레기 기사(날씨/가십)면 0점 줘서 버리기!
+                # 🚨 AI에게 선거/가십에 대한 엄격한 0점 처리를 재차 강조
                 prompt = f"""[지역 언론 경제/정책 분석] 제목: {v['title']} | 본문: {full_content}
                 지시사항:
                 1. 대구/경북 지역의 의미 있는 '기업 동향, 경제, 부동산, 산단 개발, 지자체 정책' 뉴스라면 65점을 부여하세요.
-                2. 단순 날씨, 스포츠, 일반 사건사고, 정치 가십이라면 0점을 부여하여 폐기하세요.
+                2. 단순 날씨, 스포츠, 정치인 여론조사/득표/선거판세 등 단순 정치/선거 가십이라면 0점을 부여하여 폐기하세요.
                 3. 살려둘 경우 아래 3개 태그 중 1개만 복사해서 출력. 문장 작성 금지.
                 [지역경제], [지자체정책], [부동산/개발]
                 포맷: {{ "score": 65, "category": "분류", "reason": "[지역경제]" }}"""
@@ -351,7 +361,6 @@ def main():
     if not final_logs:
         send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 타겟 기사가 없습니다.", "color": 0x2ecc71}])
     else:
-        # 점수대별 3단 분리
         high = [l for l in final_logs if l['score'] >= 80]
         med = [l for l in final_logs if 70 <= l['score'] < 80]
         local_news = [l for l in final_logs if 50 <= l['score'] < 70] 
