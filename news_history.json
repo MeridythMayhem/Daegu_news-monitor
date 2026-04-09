@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000029317",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3550765",
     "https://n.news.naver.com/mnews/article/648/0000046036?sid=101",
     "https://www.hidomin.com/news/articleView.html?idxno=700225",
     "https://n.news.naver.com/mnews/article/081/0003633024?sid=101",
@@ -499,11 +497,11 @@
     "https://www.korea.kr/briefing/actuallyView.do?newsId=148962361&call_from=naver_news",
     "https://www.naeil.com/news/read/584655?ref=naver",
     "http://www.seoulwire.com/news/articleView.html?idxno=716102",
-    "https://www.theguru.co.kr/news/article.html?no=100364"
+    "https://www.theguru.co.kr/news/article.html?no=100364",
+    "https://www.eroun.net/news/articleView.html?idxno=77788",
+    "https://n.news.naver.com/mnews/article/421/0008880837?sid=102"
   ],
   "titles": [
-    "삼성전자 '깜짝 호실적'에 코스피 5500선 돌파",
-    "엘앤에프·더블유씨피·파워넷 등 2차전지주 급등한 이유",
     "삼전 '깜짝 실적'에 코스피도 함박웃음…\"5500선 회복\"",
     "코스피 장 초반 5500선 회복… 삼성전자 '57조 실적'에 반도체 랠리",
     "[서울데이터랩] 광전자 26.94% 폭등…실시간 상승률 1위",
@@ -1001,6 +999,8 @@
     "[사실은 이렇습니다] (설명) 중앙일보, \"포스코 최소 4개 노조와 교섭해...",
     "포스코 하청도 사용자성 인정…하청노조 교섭단위 분리",
     "[핫스톡 현미경] 엘앤에프, '적자 늪' 넘고 2차전지 소재 '블루칩' 등극...",
-    "포스코 베트남 합작법인, 베트남 세금 탈루 조사…합작 구조 정밀 점검"
+    "포스코 베트남 합작법인, 베트남 세금 탈루 조사…합작 구조 정밀 점검",
+    "'펑' 소리에 공장 전소·산불까지... 경주 외동 공장·야산 '잿더미'",
+    "포항 흥해 공장서 화재…직원들 소화기로 발빠른 초기 진화"
   ]
 }
