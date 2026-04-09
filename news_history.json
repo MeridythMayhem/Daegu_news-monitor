@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/648/0000046036?sid=101",
     "https://www.hidomin.com/news/articleView.html?idxno=700225",
     "https://n.news.naver.com/mnews/article/081/0003633024?sid=101",
     "https://n.news.naver.com/mnews/article/119/0003077776?sid=101",
@@ -499,10 +498,10 @@
     "http://www.seoulwire.com/news/articleView.html?idxno=716102",
     "https://www.theguru.co.kr/news/article.html?no=100364",
     "https://www.eroun.net/news/articleView.html?idxno=77788",
-    "https://n.news.naver.com/mnews/article/421/0008880837?sid=102"
+    "https://n.news.naver.com/mnews/article/421/0008880837?sid=102",
+    "https://www.geconomy.co.kr/news/article.html?no=319002"
   ],
   "titles": [
-    "삼전 '깜짝 실적'에 코스피도 함박웃음…\"5500선 회복\"",
     "코스피 장 초반 5500선 회복… 삼성전자 '57조 실적'에 반도체 랠리",
     "[서울데이터랩] 광전자 26.94% 폭등…실시간 상승률 1위",
     "코스피, 삼성전자 ‘어닝 서프라이즈’에 5500선 회복 [시황]",
@@ -1001,6 +1000,7 @@
     "[핫스톡 현미경] 엘앤에프, '적자 늪' 넘고 2차전지 소재 '블루칩' 등극...",
     "포스코 베트남 합작법인, 베트남 세금 탈루 조사…합작 구조 정밀 점검",
     "'펑' 소리에 공장 전소·산불까지... 경주 외동 공장·야산 '잿더미'",
-    "포항 흥해 공장서 화재…직원들 소화기로 발빠른 초기 진화"
+    "포항 흥해 공장서 화재…직원들 소화기로 발빠른 초기 진화",
+    "“7천명 직고용 발표에도 ‘반쪽’ 논란…포스코 향한 노동계 압박 커진..."
   ]
 }
