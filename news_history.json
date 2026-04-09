@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.econonews.co.kr/news/articleView.html?idxno=434478",
-    "https://www.joongdo.co.kr/web/view.php?key=20260406010001753",
     "https://www.businesspost.co.kr/BP?command=article_view&num=435106",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000029317",
     "https://www.gukjenews.com/news/articleView.html?idxno=3550765",
@@ -499,11 +497,11 @@
     "https://www.smartbizn.com/news/articleView.html?idxno=141513",
     "http://andongmbc.co.kr/adboard/NewsView81811",
     "https://www.yeongnam.com/web/view.php?key=20260409021256821",
-    "https://www.korea.kr/briefing/actuallyView.do?newsId=148962361&call_from=naver_news"
+    "https://www.korea.kr/briefing/actuallyView.do?newsId=148962361&call_from=naver_news",
+    "https://www.naeil.com/news/read/584655?ref=naver",
+    "http://www.seoulwire.com/news/articleView.html?idxno=716102"
   ],
   "titles": [
-    "에코프로머티, 전날 상승 이어 8% 급등…7만4000원선 재돌파",
-    "에코프로, 2026 굿사이클링 물품 기부 캠페인",
     "코스피 삼성전자 '깜짝실적'에 장중 2%대 강세 5580선, 원/달러 환율은 ...",
     "삼성전자 '깜짝 호실적'에 코스피 5500선 돌파",
     "엘앤에프·더블유씨피·파워넷 등 2차전지주 급등한 이유",
@@ -1001,6 +999,8 @@
     "포스코, 15년 소송 종지부 찍나···협력사 7천명 '직고용' 의미는?",
     "R]포스코, 협력사 7천명 직고용 결단..포스코 노조 반발",
     "대구지검, 100억원대 대출 비리 저지른 농협 임원·대출브로커 등 16명 ...",
-    "[사실은 이렇습니다] (설명) 중앙일보, \"포스코 최소 4개 노조와 교섭해..."
+    "[사실은 이렇습니다] (설명) 중앙일보, \"포스코 최소 4개 노조와 교섭해...",
+    "포스코 하청도 사용자성 인정…하청노조 교섭단위 분리",
+    "[핫스톡 현미경] 엘앤에프, '적자 늪' 넘고 2차전지 소재 '블루칩' 등극..."
   ]
 }
