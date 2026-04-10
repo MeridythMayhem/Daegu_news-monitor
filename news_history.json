@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/119/0003077776?sid=101",
     "https://n.news.naver.com/mnews/article/081/0003633026?sid=101",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=830969",
     "https://www.news2day.co.kr/article/20260407500110",
@@ -499,10 +498,10 @@
     "https://n.news.naver.com/mnews/article/421/0008880837?sid=102",
     "https://www.geconomy.co.kr/news/article.html?no=319002",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=656713",
-    "https://www.sisaon.co.kr/news/articleView.html?idxno=200104"
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=200104",
+    "https://it.chosun.com/news/articleView.html?idxno=2023092160125"
   ],
   "titles": [
-    "코스피, 삼성전자 ‘어닝 서프라이즈’에 5500선 회복 [시황]",
     "[서울데이터랩]개장 직후 인기 검색 종목 20選",
     "[개장시황] 삼성전자 '깜짝 호실적'…코스피, 장 초반 2%대 상승",
     "코스피, 장 초 2% 강세 속 5,560선 회복…삼성전자 호실적, 주가도 랠리",
@@ -1001,6 +1000,7 @@
     "포항 흥해 공장서 화재…직원들 소화기로 발빠른 초기 진화",
     "“7천명 직고용 발표에도 ‘반쪽’ 논란…포스코 향한 노동계 압박 커진...",
     "포스코, 협력사 임직원 7000명 '직고용' 선택…노조 교섭·역차별·비용...",
-    "포스코, 7000명 직고용 결단에 노조 반발…선별적 고용 논란"
+    "포스코, 7000명 직고용 결단에 노조 반발…선별적 고용 논란",
+    "포스코 하청 직고용 발표, 하청노조는 반발"
   ]
 }
