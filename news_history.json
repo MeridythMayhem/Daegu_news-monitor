@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/081/0003633026?sid=101",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=830969",
     "https://www.news2day.co.kr/article/20260407500110",
     "https://biz.newdaily.co.kr/site/data/html/2026/04/07/2026040700073.html",
@@ -499,10 +498,10 @@
     "https://www.geconomy.co.kr/news/article.html?no=319002",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=656713",
     "https://www.sisaon.co.kr/news/articleView.html?idxno=200104",
-    "https://it.chosun.com/news/articleView.html?idxno=2023092160125"
+    "https://it.chosun.com/news/articleView.html?idxno=2023092160125",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1356887"
   ],
   "titles": [
-    "[서울데이터랩]개장 직후 인기 검색 종목 20選",
     "[개장시황] 삼성전자 '깜짝 호실적'…코스피, 장 초반 2%대 상승",
     "코스피, 장 초 2% 강세 속 5,560선 회복…삼성전자 호실적, 주가도 랠리",
     "'삼전 깜짝 실적+중동 휴전 기대' … 코스피, 2% 대 올라 5500선 회복",
@@ -1001,6 +1000,7 @@
     "“7천명 직고용 발표에도 ‘반쪽’ 논란…포스코 향한 노동계 압박 커진...",
     "포스코, 협력사 임직원 7000명 '직고용' 선택…노조 교섭·역차별·비용...",
     "포스코, 7000명 직고용 결단에 노조 반발…선별적 고용 논란",
-    "포스코 하청 직고용 발표, 하청노조는 반발"
+    "포스코 하청 직고용 발표, 하청노조는 반발",
+    "'협력사 직고용 결단' 포스코…노조 반응은 '싸늘'"
   ]
 }
