@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.ekn.kr/web/view.php?key=20260407028184746",
     "http://www.lawissue.co.kr/view.php?ud=202604071026431627f4ab64559d_12",
     "https://www.topstarnews.net/news/articleView.html?idxno=16027547",
     "https://www.news2day.co.kr/article/20260407500085",
@@ -499,10 +498,10 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1363517",
     "https://www.yeongnam.com/web/view.php?key=20260411024466855",
     "https://n.news.naver.com/mnews/article/016/0002628151?sid=102",
-    "https://n.news.naver.com/mnews/article/055/0001347774?sid=102"
+    "https://n.news.naver.com/mnews/article/055/0001347774?sid=102",
+    "https://n.news.naver.com/mnews/article/001/0016015820?sid=102"
   ],
   "titles": [
-    "엘앤에프, 오를 일만 남았다?…LFP 날개 달고 ‘진격의 상향’",
     "‘첨단산업용 핵심소재’로 K-소재 강국 실현 앞당기는 LS",
     "엘앤에프 주가, 4월 7일 장중 187,500원 9.90% 상승",
     "[N2 증시 풍향계] 삼성전자 호실적에 반도체주 ‘불기둥’…삼성E&amp;A·풍...",
@@ -1001,6 +1000,7 @@
     "포항시, 물가안정 위해 현장 대응력 높인다... '2026 물가모니터요원 간...",
     "[주말 돋보기] 천차만별 빵값, 어디가 가장 맛있을까? 비쌀수록 맛있을...",
     "영주시 ‘쥬네뜨 와이너리’, 우리술 어워즈서 한국 와인 2개 부문 수상",
-    "경북 경주 공장서 60대 노동자 추락사고"
+    "경북 경주 공장서 60대 노동자 추락사고",
+    "경주 공장서 크레인 점검 중 4ｍ 아래 추락…60대 사망(종합)"
   ]
 }
