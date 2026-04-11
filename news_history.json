@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.news2day.co.kr/article/20260407500085",
     "https://swtvnews.com/news/newsview.php?ncode=1065577534181948",
     "https://n.news.naver.com/mnews/article/002/0002435824?sid=102",
     "https://www.newspim.com/news/view/20260407000389",
@@ -499,10 +498,10 @@
     "https://n.news.naver.com/mnews/article/055/0001347774?sid=102",
     "https://n.news.naver.com/mnews/article/001/0016015820?sid=102",
     "https://n.news.naver.com/mnews/article/081/0003634403?sid=102",
-    "https://n.news.naver.com/mnews/article/079/0004135626?sid=102"
+    "https://n.news.naver.com/mnews/article/079/0004135626?sid=102",
+    "http://www.babytimes.co.kr/news/articleView.html?idxno=72633"
   ],
   "titles": [
-    "[N2 증시 풍향계] 삼성전자 호실적에 반도체주 ‘불기둥’…삼성E&amp;A·풍...",
     "[KLPGA] 새 모자 쓴 김민주, 생애 첫 타이틀 방어 도전 \"부담보다 설렘 ...",
     "iM금융그룹 서울핀테크랩 소속 18개사와 ‘오픈이노베이션 밋업데이’ ...",
     "BC카드, AI 카메라 앱 '스노우' 무료 제공",
@@ -1001,6 +1000,7 @@
     "경북 경주 공장서 60대 노동자 추락사고",
     "경주 공장서 크레인 점검 중 4ｍ 아래 추락…60대 사망(종합)",
     "경북 경주 한 제조공장서 작업자 추락…60대 사망",
-    "경주 자동차부품 공장서 60대 작업자 4m 아래 추락 숨져"
+    "경주 자동차부품 공장서 60대 작업자 4m 아래 추락 숨져",
+    "포스코이앤씨, 입찰제안서 개봉 전 '홍보지침 위반' 논란"
   ]
 }
