@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.dkilbo.com/news/articleView.html?idxno=540097",
-    "https://n.news.naver.com/mnews/article/016/0002625933?sid=100",
-    "https://n.news.naver.com/mnews/article/422/0000852371?sid=100",
-    "http://www.econonews.co.kr/news/articleView.html?idxno=434503",
     "https://www.idaegu.com/news/articleView.html?idxno=659981",
     "https://n.news.naver.com/mnews/article/079/0004133685?sid=102",
     "https://www.ajunews.com/view/20260407110155688",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010340",
     "https://www.yeongnam.com/web/view.php?key=20260412027346057",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010356",
-    "http://www.ikld.kr/news/articleView.html?idxno=332636"
+    "http://www.ikld.kr/news/articleView.html?idxno=332636",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247413",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247424",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247430",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247423"
   ],
   "titles": [
-    "대구 북구, '현장 사고 막는다' 실무형 안전교육 가동",
-    "국힘 컷오프 후폭풍…대구시장 4파전 되나",
-    "이 대통령, 여야 대표 오찬 회동…국회 추경안 본격 심사",
-    "[오늘의 주요 정치 일정] 국회(4월7일 화요일)",
     "[격전지를 가다] &lt;12.영양&gt; '안정이냐 변화냐'…4파전 속 표심 향배 촉각",
     "불법 ARS vs 지지자 공갈·협박…경주시장 경선 '진흙탕'",
     "아이 눈앞서 병아리 '꿀꺽'…구미 동물원서 무슨 일이",
@@ -1001,6 +997,10 @@
     "원익큐엔씨 백홍주 대표, '한국의 경영자상' 수상자 선정",
     "[달갑지 않은 홀로서기 ②] 고물가 시대, 독립 미루는 청년들…전업자녀...",
     "상주시 청사주차장 및 공영주차장 승용차 5부제 시행",
-    "대규모 개발 수혜 한곳에… '더샵 안동더퍼스트' 본격 분양"
+    "대규모 개발 수혜 한곳에… '더샵 안동더퍼스트' 본격 분양",
+    "경북도, 중소기업 판로 지원 확대… 온라인 기획전 500개사 모집",
+    "경주시, 바가지요금·불공정 거래 신고센터 운영",
+    "대구시, AI 의료데이터 중개사업 본격화… 기업 성장 지원",
+    "문경시, 지적재조사 경계결정 완료… 토지분쟁 해소 기대"
   ]
 }
