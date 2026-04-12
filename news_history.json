@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.newspim.com/news/view/20260407000389",
-    "http://www.seoulwire.com/news/articleView.html?idxno=715553",
     "https://n.news.naver.com/mnews/article/003/0013871920?sid=100",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000029324",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5008457",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/079/0004135626?sid=102",
     "http://www.babytimes.co.kr/news/articleView.html?idxno=72633",
     "https://www.kbmaeil.com/article/20260412500047",
-    "https://n.news.naver.com/mnews/article/009/0005664552?sid=102"
+    "https://n.news.naver.com/mnews/article/009/0005664552?sid=102",
+    "http://www.segyebiz.com/newsView/20260412503755?OutUrl=naver",
+    "https://www.yeongnam.com/web/view.php?key=20260412022446684"
   ],
   "titles": [
-    "BC카드, AI 카메라 앱 '스노우' 무료 제공",
-    "iM금융, 서울핀테크랩과 밋업데이 개최…핀테크 18개사와 협업 확대",
     "與 한정애 \"중동 전쟁 장기화, 에너지 안보 전환 요구…대전환 적기\"",
     "광주시 \"법인지방소득세 30일까지 신고·납부하세요\"",
     "디스플레이협회, '수출금융·세제지원 종합 설명회' 개최",
@@ -1001,6 +999,8 @@
     "경주 자동차부품 공장서 60대 작업자 4m 아래 추락 숨져",
     "포스코이앤씨, 입찰제안서 개봉 전 '홍보지침 위반' 논란",
     "경주서 주말 사고 잇따라… 차량 추락·공장 사고로 5명 숨져",
-    "유럽여행 포기하고 공짜 기차표 끊었는데…기차역 갈 버스가 없다고?"
+    "유럽여행 포기하고 공짜 기차표 끊었는데…기차역 갈 버스가 없다고?",
+    "포스코 협력사 직고용에…분위기 엇갈려",
+    "[플랫폼의 습격 ②] 플랫폼에 잠식 당한 요식업과 택시 “플랫폼 없이 ..."
   ]
 }
