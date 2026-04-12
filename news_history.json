@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/021/0002782873?sid=110",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=683802",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=299561",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=299559",
     "https://n.news.naver.com/mnews/article/243/0000095892?sid=101",
     "https://n.news.naver.com/mnews/article/021/0002782866?sid=101",
@@ -499,12 +496,12 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=599795",
     "https://www.ksmnews.co.kr/news/view.php?idx=599978",
     "https://www.ksmnews.co.kr/news/view.php?idx=599790",
-    "https://www.ksmnews.co.kr/news/view.php?idx=599831"
+    "https://www.ksmnews.co.kr/news/view.php?idx=599831",
+    "https://www.taxtimes.co.kr/news/article.html?no=274686",
+    "https://n.news.naver.com/mnews/article/003/0013882823?sid=102",
+    "https://www.koscaj.com/news/articleView.html?idxno=323504"
   ],
   "titles": [
-    "남북관계 더 왜곡할 일방적 유화책[포럼]",
-    "포스코·브릴스 로봇 동맹, 제철소 극한 환경 속 '시험대'",
-    "시총 19조 증발한 대구·경북 증시… '알루미늄·부품주'는 하락장 뚫고...",
     "美·이스라엘-이란 전쟁에 대구·경북 상장사, 한 달 새 시총 19조 '증발...",
     "“이제는 ‘육각형 아파트’ 시대”…6박자 갖춘 ‘더샵 안동더퍼스트...",
     "포스코, 로봇 자동화 기업투자… 그룹차원 AI전환 본격적 추진",
@@ -1001,6 +998,9 @@
     "울진군 청년지원 사업 마감 임박",
     "대구 남구, 전국 첫 주거·일자리 결합 시니어 일자리센터 ‘이룸채’ ...",
     "울릉군, 민원 수수료 카드결제 서비스 도입",
-    "문경, 지적재조사사업 경계결정위원회 개최"
+    "문경, 지적재조사사업 경계결정위원회 개최",
+    "\"연예인 1인 기획사, 탈세 통로? 국세청이 '조세회피 목적' 입증해야\"",
+    "[대구·경북 조간 헤드라인]",
+    "[보라매칼럼] 다주택자 대출 규제···공급 대책도 병행을"
   ]
 }
