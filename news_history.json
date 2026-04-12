@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.idaegu.com/news/articleView.html?idxno=659981",
-    "https://n.news.naver.com/mnews/article/079/0004133685?sid=102",
-    "https://www.ajunews.com/view/20260407110155688",
-    "https://n.news.naver.com/mnews/article/021/0002782888?sid=100",
-    "https://n.news.naver.com/mnews/article/657/0000050139?sid=102",
     "https://n.news.naver.com/mnews/article/021/0002782873?sid=110",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=683802",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=299561",
@@ -499,14 +494,14 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247413",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247424",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247430",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247423"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1247423",
+    "https://www.ksmnews.co.kr/news/view.php?idx=599859",
+    "https://www.ksmnews.co.kr/news/view.php?idx=599795",
+    "https://www.ksmnews.co.kr/news/view.php?idx=599978",
+    "https://www.ksmnews.co.kr/news/view.php?idx=599790",
+    "https://www.ksmnews.co.kr/news/view.php?idx=599831"
   ],
   "titles": [
-    "[격전지를 가다] &lt;12.영양&gt; '안정이냐 변화냐'…4파전 속 표심 향배 촉각",
-    "불법 ARS vs 지지자 공갈·협박…경주시장 경선 '진흙탕'",
-    "아이 눈앞서 병아리 '꿀꺽'…구미 동물원서 무슨 일이",
-    "기관·기업이전 공약 쏟아내는 민주당 ‘노란봉투법 암초’",
-    "'지인에게 800만 원 빌린 뒤 갚지 않은' 60대, 징역 4개월 선고",
     "남북관계 더 왜곡할 일방적 유화책[포럼]",
     "포스코·브릴스 로봇 동맹, 제철소 극한 환경 속 '시험대'",
     "시총 19조 증발한 대구·경북 증시… '알루미늄·부품주'는 하락장 뚫고...",
@@ -1001,6 +996,11 @@
     "경북도, 중소기업 판로 지원 확대… 온라인 기획전 500개사 모집",
     "경주시, 바가지요금·불공정 거래 신고센터 운영",
     "대구시, AI 의료데이터 중개사업 본격화… 기업 성장 지원",
-    "문경시, 지적재조사 경계결정 완료… 토지분쟁 해소 기대"
+    "문경시, 지적재조사 경계결정 완료… 토지분쟁 해소 기대",
+    "고령군, 하나금융그룹과 MOU 지역 산단 입주기업 금융 지원",
+    "울진군 청년지원 사업 마감 임박",
+    "대구 남구, 전국 첫 주거·일자리 결합 시니어 일자리센터 ‘이룸채’ ...",
+    "울릉군, 민원 수수료 카드결제 서비스 도입",
+    "문경, 지적재조사사업 경계결정위원회 개최"
   ]
 }
