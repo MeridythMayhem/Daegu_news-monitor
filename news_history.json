@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.mtn.co.kr/news-detail/2026040711515649546",
-    "http://www.newstnt.com/news/articleView.html?idxno=604905",
     "https://n.news.naver.com/mnews/article/374/0000502770?sid=101",
     "https://sateconomy.co.kr/news/view/1065579827554344",
     "https://www.newspost.kr/news/articleView.html?idxno=222189",
@@ -499,11 +497,11 @@
     "http://www.snmnews.com/news/articleView.html?idxno=567933",
     "https://www.etoday.co.kr/news/view/2575239",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010719",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=435579"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=435579",
+    "https://n.news.naver.com/mnews/article/629/0000491005?sid=101",
+    "http://www.newslock.co.kr/news/articleView.html?idxno=128567"
   ],
   "titles": [
-    "엘앤에프, LFP 선점·어닝 서프라이즈 기대감에…18만원선 '돌파'",
-    "[특징주] 외국인 '삼성E&amp;A·후성'...기관 '삼성전자·건설주'",
     "중동 긴장감 속 삼성전자 호실적 코스피 장중 5590선 터치했다 하락 전...",
     "LS, 탈중국 희토류 방산용 공급망 구축… 배터리 소재까지 밸류체인 확...",
     "LS, 첨단산업 핵심소재 밸류체인으로 'K-소재' 강국 앞당긴다",
@@ -1001,6 +999,8 @@
     "포스코 직고용 추진…노조 반발 속 협의 변수",
     "포스코 직고용 파장…하청노조 “차별 없는 전면 직고용” 요구",
     "'EPEK 2026' 대구 엑스코서 개최…AI·무탄소 시대 전력산업 방향 제시",
-    "포스코이앤씨 반포서 오티에르 '후분양' 승부수, 송치영 역대 최대 수주..."
+    "포스코이앤씨 반포서 오티에르 '후분양' 승부수, 송치영 역대 최대 수주...",
+    "[단독] 신반포19·25차, 포스코이앤씨 서류 유출 논란…제안서 개봉 파행",
+    "포스코, 하청노조 '패싱'한 꼼수 직고용 논란... 금속노조 \"특별교섭 응..."
   ]
 }
