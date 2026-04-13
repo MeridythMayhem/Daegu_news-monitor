@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/374/0000502770?sid=101",
-    "https://sateconomy.co.kr/news/view/1065579827554344",
-    "https://www.newspost.kr/news/articleView.html?idxno=222189",
     "https://n.news.naver.com/mnews/article/657/0000050134?sid=101",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=836902",
     "https://n.news.naver.com/mnews/article/123/0002380885?sid=004",
@@ -499,12 +496,12 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010719",
     "https://www.businesspost.co.kr/BP?command=article_view&num=435579",
     "https://n.news.naver.com/mnews/article/629/0000491005?sid=101",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=128567"
+    "http://www.newslock.co.kr/news/articleView.html?idxno=128567",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600058",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600075",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600249"
   ],
   "titles": [
-    "중동 긴장감 속 삼성전자 호실적 코스피 장중 5590선 터치했다 하락 전...",
-    "LS, 탈중국 희토류 방산용 공급망 구축… 배터리 소재까지 밸류체인 확...",
-    "LS, 첨단산업 핵심소재 밸류체인으로 'K-소재' 강국 앞당긴다",
     "3월 대구·경북 상장사 시가총액 13.3% 감소···거래대금은 7.9% 증가",
     "[#금융톡톡] 기업銀 IBK창공 모집·iM금융 핀테크 협업·토스뱅크 금융사...",
     "[인사] 국세청 국세외수입징수관리단 과장급 전보",
@@ -1001,6 +998,9 @@
     "'EPEK 2026' 대구 엑스코서 개최…AI·무탄소 시대 전력산업 방향 제시",
     "포스코이앤씨 반포서 오티에르 '후분양' 승부수, 송치영 역대 최대 수주...",
     "[단독] 신반포19·25차, 포스코이앤씨 서류 유출 논란…제안서 개봉 파행",
-    "포스코, 하청노조 '패싱'한 꼼수 직고용 논란... 금속노조 \"특별교섭 응..."
+    "포스코, 하청노조 '패싱'한 꼼수 직고용 논란... 금속노조 \"특별교섭 응...",
+    "구미상공회의소, 21일 구미지역발전 세미나 개최",
+    "구미, iM금융오픈 2026 성료",
+    "김천시, 2026년 일자리대책 연차별 세부계획 공시"
   ]
 }
