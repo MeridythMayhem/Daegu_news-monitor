@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016006731?sid=101",
-    "https://n.news.naver.com/mnews/article/421/0008874757?sid=101",
-    "https://www.ppss.kr/news/articleView.html?idxno=291726",
-    "https://n.news.naver.com/mnews/article/277/0005745984?sid=101",
     "https://n.news.naver.com/mnews/article/015/0005271831?sid=101",
     "https://news.mtn.co.kr/news-detail/2026040711515649546",
     "http://www.newstnt.com/news/articleView.html?idxno=604905",
@@ -499,13 +495,13 @@
     "http://www.e2news.com/news/articleView.html?idxno=329481",
     "https://n.news.naver.com/mnews/article/088/0001005303?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010708",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010674"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010674",
+    "http://www.newsdream.kr/news/articleView.html?idxno=111273",
+    "http://www.snmnews.com/news/articleView.html?idxno=567933",
+    "https://www.etoday.co.kr/news/view/2575239",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010719"
   ],
   "titles": [
-    "코스피, 장중 약보합 전환해 5,440대…코스닥도 하락세로",
-    "삼전 상승분 반납, 코스피 5450선 보합…개인·외인 동반 순매도[장중시...",
-    "코스피 2%대 급등… 삼성전자 '어닝 서프라이즈'에 5,570선 돌파",
-    "코스피·코스닥, 장중 '하락' 전환…삼전 보합권",
     "코스피, 美·이란 협상 경계감에 장중 하락 전환…삼전 오름폭 줄여",
     "엘앤에프, LFP 선점·어닝 서프라이즈 기대감에…18만원선 '돌파'",
     "[특징주] 외국인 '삼성E&amp;A·후성'...기관 '삼성전자·건설주'",
@@ -1001,6 +997,10 @@
     "에코프로, 캐나다로부터 전고체 리튬메탈 음극재 R&amp;D 자금 조달",
     "세감면 사업 양도·양수에 의한 개인기업 법인전환",
     "대구도시개발공사, 학교 밖 청소년 대상 기업탐방 운영…진로 설계 지원",
-    "봉화군, 임대형 스마트팜 토마토 출하 본격화…청년농 정착 지원 강화"
+    "봉화군, 임대형 스마트팜 토마토 출하 본격화…청년농 정착 지원 강화",
+    "[기자수첩] 포스코 노조, 왜 '위험의 불공정'은 외면하나",
+    "포스코 직고용 추진…노조 반발 속 협의 변수",
+    "포스코 직고용 파장…하청노조 “차별 없는 전면 직고용” 요구",
+    "'EPEK 2026' 대구 엑스코서 개최…AI·무탄소 시대 전력산업 방향 제시"
   ]
 }
