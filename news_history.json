@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.tfmedia.co.kr/news/article.html?no=203476",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1245839",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2050019",
     "https://sports.hankooki.com/news/articleView.html?idxno=6930271",
     "https://www.sejungilbo.com/news/articleView.html?idxno=57888",
     "https://n.news.naver.com/mnews/article/024/0000104631?sid=101",
@@ -499,12 +496,12 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=599882",
     "https://www.ksmnews.co.kr/news/view.php?idx=600074",
     "https://www.tbc.co.kr/news/view?pno=20260413185418AE08477&id=205385",
-    "https://www.tbc.co.kr/news/view?pno=20260413162431AE08459&id=205383"
+    "https://www.tbc.co.kr/news/view?pno=20260413162431AE08459&id=205383",
+    "https://m.skyedaily.com/news_view.html?ID=302347",
+    "https://n.news.naver.com/mnews/article/056/0012161306?sid=102",
+    "https://www.newspim.com/news/view/20260414000028"
   ],
   "titles": [
-    "[인사] 국세청 과장급 전보",
-    "인천 부평구, 법인지방소득세 신고·납부 기간 운영",
-    "[인사] 국세청 과장급 전보·프로필(4월 7일자)",
     "가족 간 자산 이전의 함정…상속·증여·양도, 세무조사의 출발점",
     "[인사] 국세청, 국세외수입징수관리 팀장 인사(2명)",
     "베이커리카페 절반이 상속 꼼수?…가업상속공제 확 바뀐다",
@@ -1001,6 +998,9 @@
     "울릉군, 어선장비 등 지원사업…6개 분야에 보조금",
     "청도군, 출산 소상공인 위한 아이보듬 지원사업 추진",
     "\"김부겸 대항마. 대구 경제 살릴 적임자... '원팀'으로 뭉쳐야\"",
-    "대구TP 수당 부당 지급 '47억 원'...환수 '나 몰라라'"
+    "대구TP 수당 부당 지급 '47억 원'...환수 '나 몰라라'",
+    "포스코 ‘하청 직고용’ 결단인가 꼼수인가… 노조 “대법원 판결 무력...",
+    "[이슈브리핑] 노란봉투법 시행 파장은? 외",
+    "전국 광역단체장 4월14일 일정"
   ]
 }
