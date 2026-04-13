@@ -54,7 +54,6 @@ KEYWORDS_KR_BASE = [
 KEYWORDS_KR = KEYWORDS_KR_BASE + COMBINED_KEYWORDS + VIP_COMPANIES_KR
 KEYWORDS_GLOBAL = VIP_COMPANIES_EN
 
-# 🚨 신규: 지역 언론 특화 검색어 대폭 확장 (수출, 토지, 무역 등 돈 냄새가 나는 단어 추가)
 LOCAL_MEDIA_NAMES = ["영남일보", "매일신문", "대구일보", "경북일보", "경북도민일보", "TBC"]
 LOCAL_TOPICS = ["경제", "기업", "산업단지", "투자", "부동산", "수출", "무역", "토지", "상공회의소", "테크노파크"]
 KEYWORDS_LOCAL_MEDIA = [f"{media} {topic}" for media in LOCAL_MEDIA_NAMES for topic in LOCAL_TOPICS]
@@ -105,12 +104,11 @@ def get_active_groq_model():
     return "mixtral-8x7b-32768"
 
 # =========================================================
-# [3] 스나이퍼 필터 (🚨 쓰레기(-1)와 중립(0)의 완벽한 분리)
+# [3] 스나이퍼 필터
 # =========================================================
 def check_critical_patterns(title):
-    # 1. 절대 쓰레기 단어
     sports_keywords = ["프로농구", "KBL", "프로야구", "KBO", "프로축구", "K리그", "감독", "선수", "득점", "리바운드", "홈런", "페가수스", "라이온즈", "대구FC", "실내체육관", "끝내기", "결승", "스포츠", "MVP", "매치"]
-    politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "도지사", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "민주당", "국민의힘", "우세", "추격", "경선", "여론조사", "지지율", "출마", "득표", "총선", "지선", "대선"]
+    politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "도지사", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "민주당", "더불어민주당", "국민의힘", "국힘", "우세", "추격", "경선", "여론조사", "지지율", "출마", "득표", "총선", "지선", "대선", "최고위", "원내대표"]
     stock_keywords = ["주가", "상승", "하락", "급등", "급락", "증시", "코스피", "코스닥", "종목", "시황", "주식", "매수", "매도", "개미", "외인", "기관", "상장", "공모"]
 
     issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "송치", "체포", "비자금", "가공거래", "허위세금계산서", "페이퍼컴퍼니", "의혹", "혐의", "탈루", "밀약"]
@@ -120,7 +118,6 @@ def check_critical_patterns(title):
     issue_warning = ["논란", "위기", "적자", "파업", "노조", "소송", "재판", "승계", "지배구조"]
     issue_investment = ["투자협약", "MOU", "신공장", "팩토리", "건립", "신설", "M&A", "인수합병", "대규모 수주", "투자 유치", "자금 조달", "테크노폴리스"]
 
-    # 🚨 [절대 방어선] -1점 처리하여 지역 언론이라도 칼같이 버립니다.
     if any(sport in title for sport in sports_keywords): return -1, "", False
     
     has_crime_risk = any(word in title for word in issue_crime)
@@ -141,7 +138,6 @@ def check_critical_patterns(title):
     target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "공소청", "중수청", "수사본부"])
     target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서"])) or ("국세청" in title)
 
-    # 4. 점수 할당
     if target_company_or_figure:
         if any(crime in title for crime in issue_crime): return 100, "[세무/재무]", True
         if any(fin in title for fin in issue_finance): return 80, "[자본이동]", True
@@ -156,7 +152,6 @@ def check_critical_patterns(title):
         if any(crime in title for crime in issue_crime): return 100, "[세무/재무]", True
         if any(personnel in title for personnel in issue_personnel): return 100, "[사법/인사]", False
 
-    # 범죄/투자 등은 아니지만 일반적인 경제 기사인 경우 (0점 반환)
     return 0, "", False
 
 # =========================================================
@@ -226,13 +221,28 @@ def deduplicate_with_ai_desk(logs, model_name):
 # [6] 메인 실행 루프
 # =========================================================
 def main():
-    print("☁️ 스나이퍼 봇 작동 시작 (지역언론 거시경제 심층 탐지)...")
+    print("☁️ 스나이퍼 봇 작동 시작 (아침 모닝 브리핑 모드 탑재)...")
     active_model = get_active_groq_model()
     history = load_history()
     execution_logs = []  
     raw_articles = []
     unique_links = set()
+    
+    # 🚨 현재 KST 시간 확인 및 아침 8시 브리핑 모드 감지
     now_kst = datetime.now(KST)
+    is_morning_briefing = (now_kst.hour == 8)
+    
+    if TEST_MODE:
+        lookback = timedelta(hours=24)
+        print("\n⏳ [테스트 모드] 최근 24시간 전체 기사를 수집합니다.")
+    elif is_morning_briefing:
+        lookback = timedelta(hours=24)
+        print("\n🌅 [모닝 브리핑 모드] 전날 늦은 밤~오늘 아침까지의 주요 기사를 수집합니다.")
+    else:
+        lookback = timedelta(minutes=75)
+        print("\n🕒 [정기 모드] 최근 1시간 기사를 수집합니다.")
+        
+    time_threshold = now_kst - lookback
 
     print(f"\n⚡ [1단계] 국내 핵심 타겟 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
     for kw in KEYWORDS_KR:
@@ -253,7 +263,7 @@ def main():
                 raw_articles.append(it)
         time.sleep(0.4)
 
-    print(f"📰 [3단계] 지역 언론(영남일보 등) 전용망 수집 중... (키워드 {len(KEYWORDS_LOCAL_MEDIA)}개)")
+    print(f"📰 [3단계] 지역 언론 전용망 수집 중... (키워드 {len(KEYWORDS_LOCAL_MEDIA)}개)")
     for kw in KEYWORDS_LOCAL_MEDIA:
         for it in search_naver_news(kw):
             it['track'] = 'local'
@@ -265,7 +275,6 @@ def main():
 
     print(f"\n📊 [수집 결과] 총 검색된 고유 기사: {len(raw_articles)}건")
     
-    time_threshold = now_kst - (timedelta(hours=24) if TEST_MODE else timedelta(minutes=75))
     valid_articles = []
     
     for art in raw_articles:
@@ -276,30 +285,31 @@ def main():
         try:
             pub_dt = parsedate_to_datetime(art['pubDate'])
             if pub_dt.tzinfo is None: pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+            # 🚨 8시 모닝 브리핑일 때는 24시간 필터를 통과시킵니다.
             if pub_dt < time_threshold: continue
+            
+            # 어제 이미 디스코드로 전송한 기사는 중복이니까 가볍게 무시합니다! (history의 강력함)
             if link in history["urls"]: continue
             if any(get_similarity(title, t) > 0.85 for t in history["titles"]): continue
         except: continue
 
         score, reason, need_ai = check_critical_patterns(title)
         
-        # 🚨 절대 쓰레기(-1점)는 무조건 폐기
         if score == -1:
             continue
 
         if track == 'en': 
             score = 50; need_ai = True 
         elif track == 'local':
-            # 🚨 지역 언론은 쓰레기(-1)만 아니면(0점이어도) AI 검토를 받게 살려줍니다.
             if score < 70:
                 score = 60; need_ai = True; reason = "[지역언론 확인용]"
         elif score == 0:
-            continue # 국내 일반 트랙인데 0점(매칭 안됨)이면 버림
+            continue 
 
         if score >= 50:
             valid_articles.append({'title': title, 'link': link, 'score': score, 'reason': reason, 'track': track, 'need_ai': need_ai, 'raw': art})
 
-    print(f"   - 최근 1시간 이내 타겟 기사: {len(valid_articles)}건")
+    print(f"   - 필터 통과 대상 기사: {len(valid_articles)}건")
     print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 정밀 태그 부여를 시작합니다...\n")
 
     api_status = {"is_alive": True}
@@ -319,11 +329,10 @@ def main():
                 Format: {{ "score": 50, "category": "Global", "reason": "[글로벌동향]" }}"""
             
             elif v['track'] == 'local' and v['score'] == 60:
-                # 🚨 지역 언론 태그 및 점수 기준 완전 개편 (거시경제, 토지 집중)
                 prompt = f"""[지역 언론 경제/정책 분석] 제목: {v['title']} | 본문: {full_content}
                 지시사항:
-                1. 대구/경북 지역의 의미 있는 '거시경제(수출/물가), 부동산/토지, 지역기업 동향(실적/애로사항), 산단 개발, 지자체 정책' 뉴스라면 65점을 부여하세요. (예: 수출 부진, 외국인 토지 증가 등)
-                2. 단순 날씨, 교통사고, 미담, 행사 안내, 단순 가십은 무조건 0점을 부여하여 폐기하세요.
+                1. 대구/경북 지역의 의미 있는 '거시경제(수출/물가), 부동산/토지, 지역기업 동향(실적/애로사항), 산단 개발, 지자체 정책' 뉴스라면 65점을 부여하세요. 
+                2. 단순 날씨, 교통사고, 미담, 행사 안내, 정치판세, 국회 관련 단순 가십은 무조건 0점을 부여하여 폐기하세요.
                 3. 65점을 줄 경우, 아래 4개 태그 중 1개만 복사해서 출력. 문장 작성 절대 금지.
                 [거시경제], [부동산/토지], [지역기업동향], [지자체정책]
                 포맷: {{ "score": 65, "category": "분류", "reason": "[거시경제]" }}"""
@@ -357,11 +366,12 @@ def main():
     if not final_logs: final_logs = execution_logs 
 
     if not final_logs:
-        send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": "최근 1시간 내 발견된 타겟 기사가 없습니다.", "color": 0x2ecc71}])
+        empty_msg = "밤사이 새롭게 발견된 타겟 기사가 없습니다." if is_morning_briefing else "최근 1시간 내 발견된 타겟 기사가 없습니다."
+        send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": empty_msg, "color": 0x2ecc71}])
     else:
         high = [l for l in final_logs if l['score'] >= 80]
         med = [l for l in final_logs if 70 <= l['score'] < 80]
-        local_news = [l for l in final_logs if 50 <= l['score'] < 70] 
+        local_news = [l for l in final_logs if l['score'] == 65] 
         
         desc = ""
         if high:
@@ -374,7 +384,18 @@ def main():
             desc += "📰 **[지역 언론 주요 경제/정책]**\n"
             for l in local_news: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
         
-        send_discord_alert([{"title": f"📊 정기 보고 ({datetime.now(KST).strftime('%H:%M')})", "description": desc, "color": 0xe74c3c if high else 0xFFA500}])
+        if not desc.strip():
+            empty_msg = "밤사이 새롭게 발견된 타겟 기사가 없습니다." if is_morning_briefing else "최근 1시간 내 발견된 유효 타겟 기사가 없습니다."
+            send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": empty_msg, "color": 0x2ecc71}])
+        else:
+            # 🚨 8시 정각일 때는 '아침 브리핑' 이라는 산뜻한 제목 사용
+            if is_morning_briefing:
+                title_str = f"🌅 아침 브리핑 ({datetime.now(KST).strftime('%m/%d %H:%M')})"
+            else:
+                title_str = f"📊 정기 보고 ({datetime.now(KST).strftime('%H:%M')})"
+                
+            if TEST_MODE: title_str = "🛠️ [테스트] " + title_str
+            send_discord_alert([{"title": title_str, "description": desc, "color": 0xe74c3c if high else 0xFFA500}])
 
     if not TEST_MODE: save_history(history)
     print("✅ 완료")
