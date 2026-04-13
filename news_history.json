@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/015/0005271831?sid=101",
     "https://news.mtn.co.kr/news-detail/2026040711515649546",
     "http://www.newstnt.com/news/articleView.html?idxno=604905",
     "https://n.news.naver.com/mnews/article/374/0000502770?sid=101",
@@ -499,10 +498,10 @@
     "http://www.newsdream.kr/news/articleView.html?idxno=111273",
     "http://www.snmnews.com/news/articleView.html?idxno=567933",
     "https://www.etoday.co.kr/news/view/2575239",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010719"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010719",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=435579"
   ],
   "titles": [
-    "코스피, 美·이란 협상 경계감에 장중 하락 전환…삼전 오름폭 줄여",
     "엘앤에프, LFP 선점·어닝 서프라이즈 기대감에…18만원선 '돌파'",
     "[특징주] 외국인 '삼성E&amp;A·후성'...기관 '삼성전자·건설주'",
     "중동 긴장감 속 삼성전자 호실적 코스피 장중 5590선 터치했다 하락 전...",
@@ -1001,6 +1000,7 @@
     "[기자수첩] 포스코 노조, 왜 '위험의 불공정'은 외면하나",
     "포스코 직고용 추진…노조 반발 속 협의 변수",
     "포스코 직고용 파장…하청노조 “차별 없는 전면 직고용” 요구",
-    "'EPEK 2026' 대구 엑스코서 개최…AI·무탄소 시대 전력산업 방향 제시"
+    "'EPEK 2026' 대구 엑스코서 개최…AI·무탄소 시대 전력산업 방향 제시",
+    "포스코이앤씨 반포서 오티에르 '후분양' 승부수, 송치영 역대 최대 수주..."
   ]
 }
