@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/657/0000050134?sid=101",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=836902",
-    "https://n.news.naver.com/mnews/article/123/0002380885?sid=004",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2050022",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4408103",
     "https://www.tfmedia.co.kr/news/article.html?no=203476",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1245839",
     "http://www.intn.co.kr/news/articleView.html?idxno=2050019",
@@ -499,14 +494,14 @@
     "http://www.newslock.co.kr/news/articleView.html?idxno=128567",
     "https://www.ksmnews.co.kr/news/view.php?idx=600058",
     "https://www.ksmnews.co.kr/news/view.php?idx=600075",
-    "https://www.ksmnews.co.kr/news/view.php?idx=600249"
+    "https://www.ksmnews.co.kr/news/view.php?idx=600249",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600155",
+    "https://www.ksmnews.co.kr/news/view.php?idx=599882",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600074",
+    "https://www.tbc.co.kr/news/view?pno=20260413185418AE08477&id=205385",
+    "https://www.tbc.co.kr/news/view?pno=20260413162431AE08459&id=205383"
   ],
   "titles": [
-    "3월 대구·경북 상장사 시가총액 13.3% 감소···거래대금은 7.9% 증가",
-    "[#금융톡톡] 기업銀 IBK창공 모집·iM금융 핀테크 협업·토스뱅크 금융사...",
-    "[인사] 국세청 국세외수입징수관리단 과장급 전보",
-    "국세청, 공익법인 '투명성' 집중 점검…출연재산 사용·내부거래 규제 ...",
-    "[인사] 국세청",
     "[인사] 국세청 과장급 전보",
     "인천 부평구, 법인지방소득세 신고·납부 기간 운영",
     "[인사] 국세청 과장급 전보·프로필(4월 7일자)",
@@ -1001,6 +996,11 @@
     "포스코, 하청노조 '패싱'한 꼼수 직고용 논란... 금속노조 \"특별교섭 응...",
     "구미상공회의소, 21일 구미지역발전 세미나 개최",
     "구미, iM금융오픈 2026 성료",
-    "김천시, 2026년 일자리대책 연차별 세부계획 공시"
+    "김천시, 2026년 일자리대책 연차별 세부계획 공시",
+    "울진군, 지방세 체납액 일제정리 돌입",
+    "울릉군, 어선장비 등 지원사업…6개 분야에 보조금",
+    "청도군, 출산 소상공인 위한 아이보듬 지원사업 추진",
+    "\"김부겸 대항마. 대구 경제 살릴 적임자... '원팀'으로 뭉쳐야\"",
+    "대구TP 수당 부당 지급 '47억 원'...환수 '나 몰라라'"
   ]
 }
