@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/021/0002782866?sid=101",
-    "https://www.s-journal.co.kr/news/articleView.html?idxno=40250",
-    "https://n.news.naver.com/mnews/article/028/0002799536?sid=102",
-    "http://www.4th.kr/news/articleView.html?idxno=2110100",
-    "https://n.news.naver.com/mnews/article/016/0002625934?sid=101",
-    "https://www.industrynews.co.kr/news/articleView.html?idxno=79718",
-    "https://www.slist.kr/news/articleView.html?idxno=729832",
     "https://n.news.naver.com/mnews/article/001/0016006731?sid=101",
     "https://n.news.naver.com/mnews/article/421/0008874757?sid=101",
     "https://www.ppss.kr/news/articleView.html?idxno=291726",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/003/0013882823?sid=102",
     "https://www.koscaj.com/news/articleView.html?idxno=323504",
     "https://mdtoday.co.kr/news/view/1065594920898467",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=163693"
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=163693",
+    "https://n.news.naver.com/mnews/article/123/0002381243?sid=101",
+    "http://www.4th.kr/news/articleView.html?idxno=2110350",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589728847649",
+    "http://www.e2news.com/news/articleView.html?idxno=329481",
+    "https://n.news.naver.com/mnews/article/088/0001005303?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010708",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5010674"
   ],
   "titles": [
-    "포스코, 로봇 자동화 기업투자… 그룹차원 AI전환 본격적 추진",
-    "증권가, 포스코홀딩스 1분기 실적 방어 전망… 2분기 개선 기대",
-    "“로봇은 고위험 맡는다”…제조업, 무인화 아닌 인간·AI ‘협력’으로",
-    "\"자가용 멈추고 기름 아끼자\"..민간 '고유가' 대응 확산",
-    "‘세계 최대’ 철의 도시를 움직이는 ‘또 하나의 엔진’",
-    "석화·정유·시멘트 50개사, '원전 1개월 발전량' 석유 절약 추진",
-    "코스피, 삼성전자 깜짝 실적에도 약보합 전환…5,440대",
     "코스피, 장중 약보합 전환해 5,440대…코스닥도 하락세로",
     "삼전 상승분 반납, 코스피 5450선 보합…개인·외인 동반 순매도[장중시...",
     "코스피 2%대 급등… 삼성전자 '어닝 서프라이즈'에 5,570선 돌파",
@@ -1001,6 +994,13 @@
     "[대구·경북 조간 헤드라인]",
     "[보라매칼럼] 다주택자 대출 규제···공급 대책도 병행을",
     "포스코, 직고용 내세웠지만 ‘별도 직군’ 신설…노조 불만 확산",
-    "중동 정세 불안 장기화에, 中 기업들 '경영난' 호소"
+    "중동 정세 불안 장기화에, 中 기업들 '경영난' 호소",
+    "줄줄이 예고된 4월 승진, 발표는 언제? [지금 국세청은]",
+    "'7천명 직고용' 포스코 내홍 격화...노조 \"당사자 배제\"",
+    "[메가이슈토픽] 포스코, 7000명 정규직 전환 강행…형평성 논란 '후폭풍...",
+    "에코프로, 캐나다로부터 전고체 리튬메탈 음극재 R&amp;D 자금 조달",
+    "세감면 사업 양도·양수에 의한 개인기업 법인전환",
+    "대구도시개발공사, 학교 밖 청소년 대상 기업탐방 운영…진로 설계 지원",
+    "봉화군, 임대형 스마트팜 토마토 출하 본격화…청년농 정착 지원 강화"
   ]
 }
