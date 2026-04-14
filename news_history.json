@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.fetv.co.kr/news/article.html?no=216448",
-    "https://n.news.naver.com/mnews/article/119/0003077864?sid=102",
-    "https://www.newspim.com/news/view/20260407000468",
-    "https://n.news.naver.com/mnews/article/009/0005662187?sid=101",
     "http://www.weeklytoday.com/news/articleView.html?idxno=769651",
     "https://n.news.naver.com/mnews/article/015/0005271862?sid=100",
     "https://n.news.naver.com/mnews/article/001/0016006897?sid=100",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248133",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248132",
     "https://n.news.naver.com/mnews/article/088/0001005536?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011176"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011176",
+    "https://www.gasnews.com/news/articleView.html?idxno=124693",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248195",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248211",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248221"
   ],
   "titles": [
-    "[토스 IPO 준비] ①2년 만에 상장 재시동…국내서 미국으로 선회",
-    "“산업현장 고수가 강단으로”…폴리텍대, 2026년도 하반기 교수 공개 ...",
-    "폴리텍대학, 전국 캠퍼스 교원 82명 공개 채용…\"실력파 교수진 구축\"",
-    "글로벌 ESS 시장 확대에 힘받나…국내 이차전지 관련주 상승 랠리 [매경...",
     "[금융권 소식] 신한금융ㆍBNK부산은행ㆍ새마을금고중앙회ㆍiM금융(4.7)",
     "상임위 '전쟁 추경' 3조원 육박…오는 10일 본회의 의결",
     "'전쟁 추경' 국회 예비심사 마무리 수순…상임위 마다 대폭 증액",
@@ -1001,6 +997,10 @@
     "대구시, 친환경차 보급 앞당긴다… 고유가 대응 4월부터 시행",
     "안동 바이오생명 국가산단 예타 통과… 경북 북부 '첨단 산업 거점' 시동",
     "대구 악성 미분양 전국 최다인데…LH 매입 협의 완료는 고작 20가구",
-    "포항, 소상공인 카드수수료 지원사업 시행"
+    "포항, 소상공인 카드수수료 지원사업 시행",
+    "[인터뷰] (사)한국가스공사 사우회 오정선 회장 \"가스회관 건립 위한 원...",
+    "강원도 '일본 K-관광 로드쇼' 강원 관광 매력 알려",
+    "경기도보건환경연구원, 미규제 금속 조사 결과 '안전'",
+    "경기도일자리재단, 청년 대상 '미래내일 일경험 지원사업' 운영"
   ]
 }
