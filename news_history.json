@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=24111&Newsnumb=20260424111",
-    "https://www.upkoreanews.kr/news/articleView.html?idxno=97883",
     "https://www.fetv.co.kr/news/article.html?no=216448",
     "https://n.news.naver.com/mnews/article/119/0003077864?sid=102",
     "https://www.newspim.com/news/view/20260407000468",
@@ -499,11 +497,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011047",
     "https://n.news.naver.com/mnews/article/088/0001005500?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248133",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248132"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248132",
+    "https://n.news.naver.com/mnews/article/088/0001005536?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011176"
   ],
   "titles": [
-    "포스코, 로봇 자동화 회사 '브릴스'에 70억 투자 | ‘인텔리전트 팩토리...",
-    "시티오씨엘, \"2,000대 1 경쟁률의 착시\"...수요 몰림인지 '무순위 왜곡'...",
     "[토스 IPO 준비] ①2년 만에 상장 재시동…국내서 미국으로 선회",
     "“산업현장 고수가 강단으로”…폴리텍대, 2026년도 하반기 교수 공개 ...",
     "폴리텍대학, 전국 캠퍼스 교원 82명 공개 채용…\"실력파 교수진 구축\"",
@@ -1001,6 +999,8 @@
     "안동 바이오생명 국가산단 예타 통과…'글로벌 백신 허브' 도약 시동",
     "대구시 고유가시대 친환경차 보조금 조기 시행, 4월 20일 진행",
     "대구시, 친환경차 보급 앞당긴다… 고유가 대응 4월부터 시행",
-    "안동 바이오생명 국가산단 예타 통과… 경북 북부 '첨단 산업 거점' 시동"
+    "안동 바이오생명 국가산단 예타 통과… 경북 북부 '첨단 산업 거점' 시동",
+    "대구 악성 미분양 전국 최다인데…LH 매입 협의 완료는 고작 20가구",
+    "포항, 소상공인 카드수수료 지원사업 시행"
   ]
 }
