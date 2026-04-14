@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.newscammp.co.kr/news/articleView.html?idxno=5999",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4076811",
-    "http://robotzine.co.kr/entry/277580",
     "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=24111&Newsnumb=20260424111",
     "https://www.upkoreanews.kr/news/articleView.html?idxno=97883",
     "https://www.fetv.co.kr/news/article.html?no=216448",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/117/0004053845?sid=103",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248039",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248036",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011047"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011047",
+    "https://n.news.naver.com/mnews/article/088/0001005500?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248133",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248132"
   ],
   "titles": [
-    "대기업·금융권, 승용차 5부제 자율 시행…에너지 절약 확산",
-    "3월 대구·경북 상장사 시가총액 13.3% 급감... 글로벌 악재에 휘청",
-    "포스코그룹, 로봇 자동화 기업 브릴스에 70억 투자 통해 AX 전환 속도 낸...",
     "포스코, 로봇 자동화 회사 '브릴스'에 70억 투자 | ‘인텔리전트 팩토리...",
     "시티오씨엘, \"2,000대 1 경쟁률의 착시\"...수요 몰림인지 '무순위 왜곡'...",
     "[토스 IPO 준비] ①2년 만에 상장 재시동…국내서 미국으로 선회",
@@ -1001,6 +998,9 @@
     "베르크, 대구 이로프린텍 공장 추가하며 전국 인쇄망 완성…“납기·품...",
     "포항시 '그래핀 산업' 본격 시동… 전국 첫 육성위원회 출범",
     "경북도, 기후테크 기업 육성 지원사업 추진",
-    "안동 바이오생명 국가산단 예타 통과…'글로벌 백신 허브' 도약 시동"
+    "안동 바이오생명 국가산단 예타 통과…'글로벌 백신 허브' 도약 시동",
+    "대구시 고유가시대 친환경차 보조금 조기 시행, 4월 20일 진행",
+    "대구시, 친환경차 보급 앞당긴다… 고유가 대응 4월부터 시행",
+    "안동 바이오생명 국가산단 예타 통과… 경북 북부 '첨단 산업 거점' 시동"
   ]
 }
