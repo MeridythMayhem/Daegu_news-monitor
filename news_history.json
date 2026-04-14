@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/016/0002625967?sid=102",
-    "https://www.naeil.com/news/read/584342?ref=naver",
-    "https://n.news.naver.com/mnews/article/023/0003969328?sid=102",
-    "https://n.news.naver.com/mnews/article/469/0000924030?sid=102",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16027717",
-    "https://www.naeil.com/news/read/584294?ref=naver",
-    "https://www.tfmedia.co.kr/news/article.html?no=203480",
     "https://www.naeil.com/news/read/584293?ref=naver",
     "https://www.naeil.com/news/read/584269?ref=naver",
     "https://www.bzeronews.com/news/articleView.html?idxno=815662",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/022/0004120811?sid=162",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=241856",
     "https://www.newsmin.co.kr/news/131343/",
-    "https://www.yeongnam.com/web/view.php?key=20260414025007596"
+    "https://www.yeongnam.com/web/view.php?key=20260414025007596",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600278",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600331",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600352",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600378",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600405",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600436",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600470"
   ],
   "titles": [
-    "광주시 “4월은 법인지방소득세 신고·납부의 달”",
-    "노동부·경찰, 풍력발전 사망사고 압수수색",
-    "특검 “건진이 尹 부부 정신적으로 이끌었다는 증언 있다” 尹 “건진이...",
-    "[단독] '캐리어 시신 사건' 사위 \"장모, 좋은 곳 보내드리려 하천에 내버...",
-    "\"포핸드 끝맺음\" 유시우, 런던 세계선수권 막차 탑승",
-    "포스코그룹, 로봇 자동화기업에 투자",
-    "세무사회 64년 만의 첫 ‘제명’…허위 광고 세무사 ‘퇴출’",
     "“가업상속공제대상 심의위원회 구성”",
     "‘편법승계’ 가업상속공제 손본다",
     "'충주상의-국세청 간담회'…기업 애로 청취·세정지원 개선 요구 확산",
@@ -1001,6 +994,13 @@
     "“경제가 먼저 아인교”… 최대 격전지 된 대구의 ‘최우선 과제’ [6·...",
     "[인사종합·14일] 과기부·노동부·식약처 등",
     "경북행복재단 연구원 사망···유족·동료들 “대표이사 괴롭힘” 증언",
-    "‘고유가 피해지원금’ 대구선 27일부터 1129억 상당 우선 지급될 듯"
+    "‘고유가 피해지원금’ 대구선 27일부터 1129억 상당 우선 지급될 듯",
+    "안동 바이오 국가산단, 예타 통과...경북 신성장 거점 확보",
+    "청도군, 위기청소년 특별지원사업 집중 신청기간 운영",
+    "대구 차세대 경영인협의회 교육 기업경영 위한 금융 이해도 제고",
+    "대구시, 친환경차 보급 한 달씩 앞당긴다",
+    "국토부, 전국 권역별 지방정부·건설업계 릴레이 간담회 개최",
+    "대구청년특화고용센터, 대구·경북 청년특화 고용네트워크 발대식 개최",
+    "구미상의 경북FTA통상진흥센터·경북서부지식재산센터, 해외 IP 권리화·..."
   ]
 }
