@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/050/0000104670?sid=101",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=299582",
-    "http://www.aptn.co.kr/news/articleView.html?idxno=111611",
-    "https://m.sports.naver.com/kfootball/article/079/0004133806",
-    "https://m.sports.naver.com/kfootball/article/413/0000216273",
-    "https://mdtoday.co.kr/news/view/1065590419509923",
-    "https://n.news.naver.com/mnews/article/366/0001154847?sid=101",
-    "https://www.newscj.com/news/articleView.html?idxno=3391931",
-    "https://n.news.naver.com/mnews/article/018/0006252042?sid=101",
     "https://www.inews365.com/news/article.html?no=914152",
     "https://www.ibabynews.com/news/articleView.html?idxno=150327",
     "https://www.huffingtonpost.kr/article/256430",
@@ -499,18 +490,18 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248484",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248516",
     "https://www.wikitree.co.kr/articles/1131690",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011547"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011547",
+    "https://n.news.naver.com/mnews/article/082/0001376213?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248533",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248564",
+    "http://mcnews.co.kr/86044",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248503",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011639",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011641",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011638",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011633"
   ],
   "titles": [
-    "사람·AI·로봇 협업…포스코그룹, AX로 공장 판 다시 짠다",
-    "포스코, 세계 최초 23mm 대형 '현가용 스프링강' 양산… 전기차 시장 정...",
-    "넷폼알앤디, AI 안전솔루션 기업 슈어포인트 인수로 \"사고 원천 차단\"",
-    "'김천전 멀티골' 인천 무고사, K리그1 6라운드 MVP 선정",
-    "[오피셜] K리그1은 무고사, K리그2는 김종민...라운드 MVP 공개 눈길",
-    "KLPGA 투어 시즌 세 번째 대회, 구미서 나흘간 열전 돌입…iM금융오픈 9...",
-    "원화 스테이블코인 양강 신한·하나 vs KB… 우리금융 향방이 변수",
-    "국회 '전쟁 추경' 예비심사 마무리… 민생·AI 예산 확대",
-    "구윤철 \"체납관리단, 주로 청년 채용\"",
     "충주상의, 대전국세청장 초청 간담회",
     "모르면 손해... 아이에게 5000만 원 이상 '세금 한 푼 없이' 물려주는 법",
     "'빵 안 굽는 베이커리' 퇴출, 공제대상 업종 대폭 축소해 '상속용 편법'...",
@@ -1001,6 +992,15 @@
     "횡성군, 베트남 호치민... 농특산물 수출 교두보 마련",
     "철원군, 신품종 '철기50' 쌀 첫 해외 수출",
     "계명대 동산병원 고위험 산모·신생아 통합치료센터, 메디컬 헬스케어 ...",
-    "울진군, 대한민국 대표브랜드 대상 2관왕…수소·교육 경쟁력 입증"
+    "울진군, 대한민국 대표브랜드 대상 2관왕…수소·교육 경쟁력 입증",
+    "포스코, 불법파견 대법 선고…직고용 선언에도 소송전 계속",
+    "가평군 '산림아카데미' 운영··· 임업소득 창출",
+    "아산시, 멸종위기종 보호... 시민 공존 생태공원 재조성",
+    "올 수도권에 공공주택 6만호 착공… 상반기에 1만호 첫삽",
+    "충남교육청, 예술활동 복합공간 건립사업 선정",
+    "구미시의회 임시회 개회…조례안 등 24건 심사 돌입",
+    "영양署, 범죄 피해자 통합지원 협의체 회의",
+    "구미장학재단, 상반기 장학생 347명 선발",
+    "포항, 내년 1조 6000억 규모 국비 확보 총력"
   ]
 }
