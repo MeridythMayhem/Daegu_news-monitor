@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0013872717?sid=101",
-    "http://www.koreatimes.com/article/1608101",
-    "https://n.news.naver.com/mnews/article/654/0000174383?sid=100",
-    "https://n.news.naver.com/mnews/article/586/0000126250?sid=101",
-    "https://n.news.naver.com/mnews/article/088/0001004482?sid=102",
-    "https://n.news.naver.com/mnews/article/018/0006251988?sid=102",
-    "https://n.news.naver.com/mnews/article/008/0005340934?sid=102",
-    "https://n.news.naver.com/mnews/article/079/0004133810?sid=102",
-    "https://www.m-i.kr/news/articleView.html?idxno=1362275",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=41477",
     "https://www.cstimes.com/news/articleView.html?idxno=701122",
     "https://www.topstarnews.net/news/articleView.html?idxno=16027769",
@@ -499,18 +490,18 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248406",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248346",
     "https://news.ifm.kr/news/articleView.html?idxno=468912",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011110"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011110",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248393",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248344",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248359",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248429",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248402",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248442",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248423",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248421",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011464"
   ],
   "titles": [
-    "골드앤에스, 1분기 매출 77억…전년比 248%↑",
-    "평균 세금 환급액 1인당 3,521달러",
-    "'전쟁 추경' 상임위 예비심사 마무리 단계…증액 2조6783억원 넘어",
-    "[단독] 국세청, 글로벌세아그룹 계열 세아상역 특별 세무조사 착수",
-    "대구시, 산업단지 화재안전 강화…화재종합대책 추진",
-    "대장동 수사 강백신 검사 \"국정조사, 李수사·재판 관여 목적 명백\"",
-    "애견카페 강아지들 내던지고 하천 유기…CCTV 속 학대 남성 추적",
-    "포스코 포항제철소, 세계 최초 대형 '현가용 스프링강' 양산",
-    "인니 정상회담…상사업계, 사업 연결 축으로 재조명",
     "[현장리뷰] 영광 낙월 해상풍력, 민간 최대 프로젝트 '가동 임박'",
     "기업들, 다양한 상생 모델 제시…그룹전환 '가속화'",
     "'3차 토너먼트 완주'…유시우, 세계선수권 첫 태극마크 획득",
@@ -1001,6 +992,15 @@
     "장흥 출신 이광흠 유원이엔에프㈜ 대표, '은탑 산업훈장' 수훈",
     "서초구, 바퀴달린 서초 우산과 칼'…'그린월드 어워즈' 은상 받았다",
     "\"李리트윗, 외교 리스크인가 보편적 인권 행보인가\"…여야, 이스라엘 이...",
-    "본좌김밥–김천지역자활센터 협력 '김천부곡점' 운영…공공연계 자활 모..."
+    "본좌김밥–김천지역자활센터 협력 '김천부곡점' 운영…공공연계 자활 모...",
+    "의왕시 '2026 일자리박람회' 23일 개최",
+    "광주시, 공식 캐릭터 '그리니·크리니' 상표 등록 완료",
+    "성남시 '2026 채용박람회' 23일 개최",
+    "고흥군, 로컬브랜드 온라인 판로개척 지원...참여기업 모집",
+    "이천시 '중소기업 상생마켓' 성료",
+    "오산시, 세교3신도시에 AI 허브 유치",
+    "하남시, 임대주택 분쟁조정위원회 개최",
+    "포천시 '축산시설 맞춤형 악취개선사업' 현장 점검",
+    "계명문화대, '파란사다리' 8년 연속 선정…70명 해외 연수 추진"
   ]
 }
