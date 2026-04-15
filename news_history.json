@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001004505?sid=102",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=727777",
-    "https://n.news.naver.com/mnews/article/022/0004118938?sid=102",
-    "https://www.pointe.co.kr/news/articleView.html?idxno=77892",
-    "https://n.news.naver.com/mnews/article/008/0005340950?sid=101",
-    "https://n.news.naver.com/mnews/article/079/0004133853?sid=102",
-    "https://n.news.naver.com/mnews/article/003/0013872981?sid=102",
-    "https://www.news2day.co.kr/article/20260407500199",
     "https://www.korea.kr/news/policyNewsView.do?newsId=148962215&call_from=naver_news",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2415909",
     "https://n.news.naver.com/mnews/article/421/0008875396?sid=101",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248609",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248559",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248632",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248643"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248643",
+    "http://andongmbc.co.kr/adboard/NewsView81952",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=201845&mode=view",
+    "https://www.ekn.kr/web/view.php?key=20260415027207311",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600611",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600608",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600677",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600736",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600759"
   ],
   "titles": [
-    "영주시 봉현면 소하천 염료 투기…환경당국 조사 착수",
-    "[6·3 지방선거] 민주당 지선 슈퍼위크…경기지사 본경선 결과 오늘 발표...",
-    "장모 시신 버리고 ‘좋은 곳 보내려 했다’는 20대 사위, ‘여전히 사랑...",
-    "포스코그룹, 로봇 기업 '브릴스'에 70억 투자…철강이차전지 공정 AX 전...",
-    "AI반도체 모빌린트, 포스코 이어 롯데와도 NPU 실증",
-    "용혜인 \"동부권 산업전환 이익 공유\"…\"기본소득당, 호남 쇄빙선 역할\"",
-    "오중기 \"김부겸과 경북·대구 원팀, 행정통합 이루겠다\"",
-    "포스코 포항제철소, 대형 스프링강 양산 기술 세계 첫 확보",
     "중동발 에너지 위기에…민간 기업들도 에너지 절약 자발적 동참",
     "\"클릭 한번에 내 집 체험\"···사이버 견본주택, 분양시장 새 표준 되나",
     "삼전 실적에도 중동發 불확실성 발목…코스피 5450선 보합[장중시황]",
@@ -1001,6 +993,14 @@
     "경과원, 중소기업 ESG 경영 컨설팅 지원사업 참여 기업 모집",
     "전남도, 농어민 공익수당 70만 원으로 인상 지급",
     "포항시, 중국 닝보서 투자유치전… 글로벌 기업 공략",
-    "부산시, 서부산스마트밸리 스마트산단 전환 본격화"
+    "부산시, 서부산스마트밸리 스마트산단 전환 본격화",
+    "R]허가 부서 간부 공무원이 임원으로..포항 의료폐기물 소각장 논란",
+    "허가 부서 간부 공무원이 임원으로..포항 의료폐기물 소각장 논란",
+    "[패트롤] 경주시-영남이공대-DGIST-대구보건대-계명대 동산병원-대구시...",
+    "‘살던 곳서 건강한 노후를’ 예천 통합돌봄 출발",
+    "‘구미 장학사업’ 지원 문턱 낮추고 규모 키웠다",
+    "구미시의회, 제295회 임시회 인사청문특별위원회 구성",
+    "포항시, 소상공인·복지시설 고효율기기 교체 지원",
+    "경북신용보증재단, 중동전쟁 피해 소상공인 우대지원"
   ]
 }
