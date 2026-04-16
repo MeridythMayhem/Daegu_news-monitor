@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/417/0001137909?sid=102",
-    "https://n.news.naver.com/mnews/article/629/0000489188?sid=100",
-    "https://n.news.naver.com/mnews/article/047/0002511115?sid=100",
     "https://www.dkilbo.com/news/articleView.html?idxno=540169",
     "https://n.news.naver.com/mnews/article/422/0000852481?sid=100",
     "https://www.kukinews.com/article/view/kuk202604070168",
@@ -499,12 +496,12 @@
     "https://www.yeongnam.com/web/view.php?key=20260416023078144",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249060",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249059",
-    "https://www.m-economynews.com/news/article.html?no=66488"
+    "https://www.m-economynews.com/news/article.html?no=66488",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600795",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600864",
+    "https://www.ksmnews.co.kr/news/view.php?idx=600777"
   ],
   "titles": [
-    "'캐리어 시신 사건' 사위, 한다는 말이…\"장모 좋은 곳 보내려 하천 유...",
-    "조작기소 국조특위 출석한 '대장동 2기 수사팀' 강백신·엄희준 검사 [T...",
-    "전쟁추경·부동산... 대통령 앞에서 여야 대표 '뼈 있는' 설전",
     "대구시선관위, 지방선거 '정책 대결' 판 깔았다",
     "이 대통령·여야 오찬 회담서 '개헌·국조' 시각차",
     "주낙영 경주시장 예비후보, 허위사실 공표·정책토론회 불참 ‘맞불 공...",
@@ -1001,6 +998,9 @@
     "도시가스비용 인상해 역대급 수익 낸 대성에너지, 정작 설비투자·시민...",
     "강남구의회·몽골 항올구, 친선결연 협약 체결",
     "북부산림청ㆍ현대백화점그룹, 탄소중립 실현... 나무심기 행사",
-    "‘5극 3특’ 실현을 위한 지방대학의 발전 방안은?"
+    "‘5극 3특’ 실현을 위한 지방대학의 발전 방안은?",
+    "울릉교육청-대저페리, 관광·문화 업무협약",
+    "경북도, 10곳 지역기업 맞춤형 금융 컨설팅",
+    "경북도, ‘하수구 청소도 AI 가’…경북·전북·광주 맞손"
   ]
 }
