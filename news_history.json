@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/422/0000852481?sid=100",
-    "https://www.kukinews.com/article/view/kuk202604070168",
-    "https://www.ntoday.co.kr/news/articleView.html?idxno=126395",
-    "https://n.news.naver.com/mnews/article/654/0000174416?sid=102",
-    "https://n.news.naver.com/mnews/article/016/0002626073?sid=102",
-    "https://n.news.naver.com/mnews/article/056/0012157335?sid=100",
     "https://n.news.naver.com/mnews/article/119/0003077999?sid=102",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069308",
     "https://n.news.naver.com/mnews/article/056/0012157326?sid=102",
@@ -499,15 +493,15 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=600795",
     "https://www.ksmnews.co.kr/news/view.php?idx=600864",
     "https://www.ksmnews.co.kr/news/view.php?idx=600777",
-    "http://www.babytimes.co.kr/news/articleView.html?idxno=72693"
+    "http://www.babytimes.co.kr/news/articleView.html?idxno=72693",
+    "https://www.thepublic.kr/news/articleView.html?idxno=301420",
+    "https://n.news.naver.com/mnews/article/001/0016026660?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012054",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012014",
+    "http://www.segyebiz.com/newsView/20260416523204?OutUrl=naver",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=58044"
   ],
   "titles": [
-    "이 대통령·여야 오찬 회담서 '개헌·국조' 시각차",
-    "주낙영 경주시장 예비후보, 허위사실 공표·정책토론회 불참 ‘맞불 공...",
-    "신고중심 대응 한계…'캐리어 시신' 사건이 드러낸 가정폭력 사각지대",
-    "보호관찰기간에도 학교폭력 반복한 10대 결국 소년원행",
-    "“사위가 장모 12시간 폭행. 의식 흐려지자 뺨 때려 확인했다”…‘캐리...",
-    "[KBS 열린토론] “대구시장 선거, 무조건 2파전으로 갈 것”",
     "장모 12시간 때린 사위 \"하천에 버린 이유? 좋은 곳 보내려고\"",
     "흉기 협박·냉동창고 감금…알바생 괴롭힌 20대 매니저 집행유예",
     "“환불해 줄 현금 없다”며 버티는 업체…수영장 회원 3억 원대 피해",
@@ -1001,6 +995,12 @@
     "울릉교육청-대저페리, 관광·문화 업무협약",
     "경북도, 10곳 지역기업 맞춤형 금융 컨설팅",
     "경북도, ‘하수구 청소도 AI 가’…경북·전북·광주 맞손",
-    "신반포19·25차 재건축 카톡방 잠입 '포스코'…정보수집·사찰 의혹 확산"
+    "신반포19·25차 재건축 카톡방 잠입 '포스코'…정보수집·사찰 의혹 확산",
+    "\"인맥 아닌 실적\"…국세청, 직원 참여 평가로 승진 바꿨다",
+    "밤사이 대구·경북서 공장·주택 화재 잇따라…인명피해 없어",
+    "DGFEZ, 튀르키예 무역사절단 모집…유럽·중동 진출 교두보 마련",
+    "가스공사, 생산설비 효율화로 에너지 16% 절감…AI 기반 추가 감축 추진",
+    "아이케미스트, 대구한국일보사와 업무협약 체결… 공동사업 협력 확대",
+    "대구국세청, 포항 철강 기업인들과 현장간담회…민주원 청장 \"기업인들..."
   ]
 }
