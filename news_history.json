@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.asiatoday.co.kr/view.php?key=20260407010002142",
-    "https://www.ekn.kr/web/view.php?key=20260407025555028",
-    "https://n.news.naver.com/mnews/article/018/0006252192?sid=101",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=443614",
     "https://tk.newdaily.co.kr/site/data/html/2026/04/06/2026040600371.html",
     "https://n.news.naver.com/mnews/article/016/0002626087?sid=101",
@@ -499,12 +496,12 @@
     "https://www.ebn.co.kr/news/articleView.html?idxno=1705773",
     "http://www.seoulwire.com/news/articleView.html?idxno=717458",
     "https://www.gukjenews.com/news/articleView.html?idxno=3559826",
-    "https://www.hidomin.com/news/articleView.html?idxno=701815"
+    "https://www.hidomin.com/news/articleView.html?idxno=701815",
+    "https://n.news.naver.com/mnews/article/421/0008896823?sid=102",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=264922",
+    "https://n.news.naver.com/mnews/article/009/0005667698?sid=102"
   ],
   "titles": [
-    "포스코그룹, AI 기반 '안전' 고도화…로봇 자동화 '체질 개선'",
-    "삼성전자 ‘어닝 서프라이즈’에도 코스피 5490선 마무리 [마감시황]",
-    "‘상장 한 달’ 코스닥 액티브 ETF, 성적표는 ‘부진’",
     "삼성전자 호실적도 못 막았다…코스피 중동 리스크에 롤러코스터 장세",
     "에코프로, ‘굿사이클링’ 7년째···기부로 일자리·환경 두 마리 토끼...",
     "삼성전자 ‘역대급 실적’에도 힘 못 쓴 코스피, 5494 마감…코스닥은 ...",
@@ -1001,6 +998,9 @@
     "국내선 중대재해 해외선 파산...내우외환 갇힌 포스코이앤씨",
     "[Biz&amp;Law] 대동, 美 개인정보 유출 집단소송 한숨 돌려…합의 돌입",
     "대구시 달성군 하빈면 폐기물처리업체에서 화재발생",
-    "경주 안강 화학공장서 600kg 탱크 뚜껑 추락… 30대 노동자 사망"
+    "경주 안강 화학공장서 600kg 탱크 뚜껑 추락… 30대 노동자 사망",
+    "대구 달성군 폐기물공장 화재 8시간40분 만에 진화(종합)",
+    "포스코퓨처엠, 수익 반등에도 현금흐름 적자…ESS LFP배터리 전환 '승부...",
+    "AI인재가 곧 국력 … 고숙련이민 '골든타임'"
   ]
 }
