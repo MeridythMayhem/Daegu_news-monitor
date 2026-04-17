@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/016/0002626087?sid=101",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000029412",
-    "https://www.ziksir.com/news/articleView.html?idxno=130031",
-    "https://n.news.naver.com/mnews/article/374/0000502868?sid=101",
-    "https://www.goodkyung.com/news/articleView.html?idxno=285548",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=163465",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=443602",
     "https://news.mtn.co.kr/news-detail/2026040716205725658",
     "https://biz.newdaily.co.kr/site/data/html/2026/04/07/2026040700300.html",
@@ -499,15 +493,15 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=264922",
     "https://n.news.naver.com/mnews/article/009/0005667698?sid=102",
     "https://n.news.naver.com/mnews/article/277/0005751245?sid=102",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4070335"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4070335",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249216",
+    "https://www.news2day.co.kr/article/20260417500317",
+    "https://www.ajunews.com/view/20260417134709964",
+    "http://www.nongaek.com/news/articleView.html?idxno=95123",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012447",
+    "https://n.news.naver.com/mnews/article/020/0003713220?sid=101"
   ],
   "titles": [
-    "삼성전자 ‘역대급 실적’에도 힘 못 쓴 코스피, 5494 마감…코스닥은 ...",
-    "코스피, 중동 최후통첩 앞두고 '롤러코스터'…5490대 턱걸이 마감",
-    "코스피, 트럼프 최후통첩 앞두고 상승폭 축소…5490대 마감",
-    "[증시 인사이트] 국내증시, 상승 출발 후 혼조 마감…코스피↑ 코스닥↓",
-    "코스피, 5490선 상승 마감…삼성전자 '어닝 서프라이즈'에도 중동 변수...",
-    "코스닥...삼천당제약 · 대한광통신 · 펄어비스 · 우리기술 '뚝'",
     "[거래소 기관] 삼성전자 집중 매수...현대차·기아 매도 봇물",
     "코스피, 0.8% 올라 5490선 마감…코스닥은 1% 내려 [MTN 마감시황]",
     "중동 불확실성에 빛바랜 삼전 호실적 … 코스피 5500선 못지켜, 코스닥...",
@@ -1001,6 +995,12 @@
     "포스코퓨처엠, 수익 반등에도 현금흐름 적자…ESS LFP배터리 전환 '승부...",
     "AI인재가 곧 국력 … 고숙련이민 '골든타임'",
     "경북경찰청 경무관 인사 단행…핵심 보직 재편으로 조직 안정화",
-    "경찰청 경무관 56명 전보…경북청 공공안전·수사·생활안전 '3축 교체'"
+    "경찰청 경무관 56명 전보…경북청 공공안전·수사·생활안전 '3축 교체'",
+    "의정부시, 용현 공공주택지구 교통대책 개선방안 마련",
+    "[오늘의 부고 : 4월 17일] 안상연(현대해상 수도권장기손사부장)씨 모친...",
+    "&lt;오늘의 부고&gt;",
+    "[오늘의 사설] '장동혁 대표,미국엔 왜 갔나?\"",
+    "[캠코 공매] 내주 대구 효목동 '단독주택' 등 압류재산 매각",
+    "산업정책연구원, ‘2026 국가산업대상’ 시상식 개최"
   ]
 }
