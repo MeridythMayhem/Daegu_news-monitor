@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=300121",
-    "https://www.eroun.net/news/articleView.html?idxno=77568",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=260702",
     "https://www.mediapen.com/news/view/1091871",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=443609",
     "https://www.nspna.com/news/?mode=view&newsid=808981",
@@ -499,12 +496,12 @@
     "https://www.mhns.co.kr/news/articleView.html?idxno=745169",
     "https://n.news.naver.com/mnews/article/025/0003516907?sid=101",
     "https://n.news.naver.com/mnews/article/022/0004121575?sid=102",
-    "https://www.newspim.com/news/view/20260417000171"
+    "https://www.newspim.com/news/view/20260417000171",
+    "https://n.news.naver.com/mnews/article/016/0002631326?sid=101",
+    "http://www.fieldnews.kr/news/articleView.html?idxno=28018",
+    "https://n.news.naver.com/mnews/article/016/0002631289?sid=101"
   ],
   "titles": [
-    "철강업계, 바닥은 지났지만…관세·공급과잉·탄소규제 '삼중고'",
-    "포항제철소, '전기차' 버틸 뼈대 만든다… 23mm 대형 스프링강 세계 첫 ...",
-    "포스코 포항제철소, 23㎜ 대형 현가용 스프링강 세계 첫 양산…고부가 ...",
     "포스코그룹, AX 전환 가속화…로봇 기업 ‘브릴스’에 투자",
     "[코스피 지수선물 옵션] 삼성전자·하이닉스 견인… 지수 방어 vs 성장주...",
     "[기업경쟁력] 포스코, 23mm 스프링강 양산…고부가 선재 경쟁력 ‘강화...",
@@ -1001,6 +998,9 @@
     "국세청 \"60년 관행 깼다\"… 직원이 뽑은 '특별성과자' 56명 파격 승진",
     "내연녀 아들집서 체납자 잡았다…“오직 성과” 국세청장 지시에 승진",
     "대구·경북 화재 잇따라…공장 불나고 아궁이 부주의 주택 소실",
-    "대구 하빈리 폐기물처리업체 화재 '진화 중'...인명피해 없어"
+    "대구 하빈리 폐기물처리업체 화재 '진화 중'...인명피해 없어",
+    "수천억원 지킨 7급 조사관 곧장 6급…임광현 국세청장 ‘성과중심 인사...",
+    "[단독] 국세청, 승진자 '민감 신체 이력'까지 홍보 도구로…'인권 불감...",
+    "수천억 지킨 7급 곧장 6급…임광현 국세청장 ‘성과 인사 실험’"
   ]
 }
