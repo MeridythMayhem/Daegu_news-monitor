@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/656/0000173233?sid=100",
-    "https://www.natv.go.kr/natv/news/newsView.do?newsId=513041",
-    "https://n.news.naver.com/mnews/article/014/0005503913?sid=100",
-    "http://www.breaknews.com/1198340",
     "https://tk.newdaily.co.kr/site/data/html/2026/04/07/2026040700337.html",
     "https://n.news.naver.com/mnews/article/002/0002435991?sid=102",
     "https://www.kbsm.net/news/view.php?idx=515064",
@@ -499,13 +495,13 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=601171",
     "https://www.tbc.co.kr/news/view?pno=20260419183520AE08722&id=205598",
     "https://www.tbc.co.kr/news/view?pno=20260419164052AE08716&id=205597",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601229"
+    "https://www.ksmnews.co.kr/news/view.php?idx=601229",
+    "https://n.news.naver.com/mnews/article/088/0001006213?sid=102",
+    "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054463",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3020165",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012532"
   ],
   "titles": [
-    "구윤철 \"체납관리단, 청년 일자리 창출·세외 수입 증가 위한 것\"",
-    "[국회라이브1/정치인사이트] 서갑원 \"여야 대치 속 대통령과 회담…국민...",
-    "'전쟁추경' 심사 시작...與 \"지원금 전 국민에\" vs 野 \"피해 영역에 집중...",
-    "대구시, 산업단지 화재 예방 총력…370개 사업장 대상 고강도 안전점검",
     "‘도덕성 검증’ 시험대 오른 포항 공천…국민의힘 “시민 눈높이 맞나...",
     "의성군의회 A의원 ‘금품수수 의혹’…언론사 ‘혐의없음’ 이후 역고발...",
     "대구시선관위, 지선 '정당 업무협의회'개최",
@@ -1001,6 +997,10 @@
     "포항시, 낙동강수계 주민지원사업 1억8000만원 투입 본격 추진",
     "\"무소속 단일화 반대..내가 대구 발전 이끌 적임자\"",
     "김부겸 1호 공약 \" '대구판 판교밸리' 조성..국민성장펀드 15조 유치\"",
-    "대구시, 로봇기반 공간컴퓨팅 창업 혁신거점 도약"
+    "대구시, 로봇기반 공간컴퓨팅 창업 혁신거점 도약",
+    "TK 공안·생안부장·수성서장 교체…대구경찰청 전보인사",
+    "울산 전세난 더 부추기는 '신축 선호'",
+    "평택시청 이승철, 헤럴드경제·코리아헤럴드배 전국레슬링 우승",
+    "[주간분양] 이주 '옥정중앙역 대방 디에트르' 등 13곳 청약"
   ]
 }
