@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604071511528310314",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3551183",
     "https://n.news.naver.com/mnews/article/586/0000126298?sid=100",
     "https://n.news.naver.com/mnews/article/032/0003438334?sid=101",
     "https://n.news.naver.com/mnews/article/082/0001374830?sid=100",
@@ -499,11 +497,11 @@
     "https://www.apnews.kr/news/articleView.html?idxno=3047984",
     "https://www.yeongnam.com/web/view.php?key=20260419023008620",
     "http://www.newslock.co.kr/news/articleView.html?idxno=128883",
-    "https://www.yeongnam.com/web/view.php?key=20260419021316732"
+    "https://www.yeongnam.com/web/view.php?key=20260419021316732",
+    "https://www.yeongnam.com/web/view.php?key=20260419023528492",
+    "https://n.news.naver.com/mnews/article/003/0013896392?sid=102"
   ],
   "titles": [
-    "[금융레이더]iM금융/BNK경남은행/카카오뱅크/카카오페이/캠코/신용보증...",
-    "iM금융그룹, 핀테크 스타트업과 맞손...실무적인 사업 제휴 강화",
     "野 \"선거용 매표\" 與 \"민생 발목\"…추경 놓고 여야 정면충돌",
     "나프타 단가 68% 올랐는데…숙박쿠폰·체납관리단 채용이 ‘전쟁 추경’...",
     "국회, 26조 규모 추경 심사 돌입…민주 \"신속처리\" 국힘 \"송곳 검증\"",
@@ -1001,6 +999,8 @@
     "포스코이앤씨, '아파트 중심 캠페인'으로 국가 에너지 위기 대응한다",
     "[이슈 분석]개복·복강경 넘어 로봇으로…구병원, 대구·경북 외과수술...",
     "포스코이앤씨, 중동발 위기 속 '100일 에너지절약 챌린지' 추진",
-    "W병원 앞세운 한국, 세계 미세수술 학술대회 2030 경주 유치"
+    "W병원 앞세운 한국, 세계 미세수술 학술대회 2030 경주 유치",
+    "“시혜적 복지 넘어 신산업으로”…디지털포용법 시행, 지역 딥테크엔 ...",
+    "추경호·유영하 \"주호영·이진숙과 단일화 반대\""
   ]
 }
