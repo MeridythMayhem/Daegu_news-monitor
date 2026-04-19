@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=443606",
-    "https://www.nspna.com/news/?mode=view&newsid=809008",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604071511528310314",
     "https://www.gukjenews.com/news/articleView.html?idxno=3551183",
     "https://n.news.naver.com/mnews/article/586/0000126298?sid=100",
@@ -499,11 +497,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012708",
     "https://n.news.naver.com/mnews/article/088/0001006202?sid=102",
     "https://www.apnews.kr/news/articleView.html?idxno=3047984",
-    "https://www.yeongnam.com/web/view.php?key=20260419023008620"
+    "https://www.yeongnam.com/web/view.php?key=20260419023008620",
+    "http://www.newslock.co.kr/news/articleView.html?idxno=128883",
+    "https://www.yeongnam.com/web/view.php?key=20260419021316732"
   ],
   "titles": [
-    "신한 '땡겨요' 선점에 하나 '먹깨비' 가세…은행권, 배달앱 상생 경쟁 본...",
-    "[업앤다운]은행주 하락…JB금융·케이뱅크↓",
     "[금융레이더]iM금융/BNK경남은행/카카오뱅크/카카오페이/캠코/신용보증...",
     "iM금융그룹, 핀테크 스타트업과 맞손...실무적인 사업 제휴 강화",
     "野 \"선거용 매표\" 與 \"민생 발목\"…추경 놓고 여야 정면충돌",
@@ -1001,6 +999,8 @@
     "안동, 맞춤형 전문 컨설팅 지원사업 추진",
     "경북경찰청 공공안전·수사·생활안전부장 교체…정부, 경무관 전보 인...",
     "포스코이앤씨, '아파트 중심 캠페인'으로 국가 에너지 위기 대응한다",
-    "[이슈 분석]개복·복강경 넘어 로봇으로…구병원, 대구·경북 외과수술..."
+    "[이슈 분석]개복·복강경 넘어 로봇으로…구병원, 대구·경북 외과수술...",
+    "포스코이앤씨, 중동발 위기 속 '100일 에너지절약 챌린지' 추진",
+    "W병원 앞세운 한국, 세계 미세수술 학술대회 2030 경주 유치"
   ]
 }
