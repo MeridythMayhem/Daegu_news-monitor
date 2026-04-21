@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/052/0002337605?sid=004",
     "https://n.news.naver.com/mnews/article/079/0004134044?sid=102",
     "https://www.hidomin.com/news/articleView.html?idxno=700394",
     "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260407&SEQUENCE=0118",
@@ -499,10 +498,10 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=601555",
     "https://www.ksmnews.co.kr/news/view.php?idx=601599",
     "https://www.sentv.co.kr/article/view/sentv202604210172",
-    "https://www.tbc.co.kr/news/view?pno=20260420152144AE08747&id=205687"
+    "https://www.tbc.co.kr/news/view?pno=20260420152144AE08747&id=205687",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=834444"
   ],
   "titles": [
-    "여야 모두 '정원오 때리기'...민주 경기지사 후보 추미애 확정",
     "국힘 경주시장 경선 '고발 난타전'…'정·언 유착' 허위사실 공방",
     "선수 계약금 부풀려 가로챈 문경시청 씨름단 감독 구속",
     "환전 수수료 미끼로 대낮 도심서 납치.. 외국인 일당 추적",
@@ -1001,6 +1000,7 @@
     "성주군, 2026년도 개별공시지가 부동산가격공시위원회 개최",
     "김천시, 동아수영대회 성황 종료 ‘지역 활기’",
     "김천시, '제98회 동아수영대회' 성공 개최",
-    "참다랑어 폐기 막는다...실시간 쿼터에 양식까지"
+    "참다랑어 폐기 막는다...실시간 쿼터에 양식까지",
+    "경북 김천시, 제98회 동아수영대회 성료"
   ]
 }
