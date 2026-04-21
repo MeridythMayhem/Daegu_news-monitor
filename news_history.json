@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/658/0000140372?sid=110",
     "https://n.news.naver.com/mnews/article/031/0001020392?sid=102",
     "https://n.news.naver.com/mnews/article/016/0002626128?sid=105",
     "https://www.thepublic.kr/news/articleView.html?idxno=300309",
@@ -499,10 +498,10 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250270",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250170",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250256",
-    "https://www.m-i.kr/news/articleView.html?idxno=1366464"
+    "https://www.m-i.kr/news/articleView.html?idxno=1366464",
+    "https://www.yeongnam.com/web/view.php?key=20260421025229235"
   ],
   "titles": [
-    "[사설] “부산시장 장관 나오라”는 노란봉투법 시행 한달",
     "조지연 의원, “고유가 추경, 피해 계층에 집중해야”…예산 구조조정 ...",
     "“‘19금’ 댄스로 ‘13억’ 번다?” BJ, 앞으로 이렇게 벌다간 다 뺏긴...",
     "'대장동 변호사'누나 휴스턴 총영사 임명…외교 경력 '전무'",
@@ -1001,6 +1000,7 @@
     "KB금융, '정보보호 자율공시' 시행…\"소비자보호 체계 강화\"",
     "경북도 \"저출생 대응 1분기 진도율 41.2%\"",
     "위성곤 \"제주형 사회연대경제 키우겠다\"…국비 선정 계기 성장 비전 제...",
-    "\"첨단의료 기업 키운다\"…기보·케이메디허브 협력 체계 구축"
+    "\"첨단의료 기업 키운다\"…기보·케이메디허브 협력 체계 구축",
+    "대구 출신 최영전 주미대사관 재경관, 러시아 나프타 수입 막힌 결제길..."
   ]
 }
