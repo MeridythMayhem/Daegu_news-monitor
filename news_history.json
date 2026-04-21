@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.huffingtonpost.kr/article/256451",
-    "https://n.news.naver.com/mnews/article/015/0005272106?sid=102",
-    "https://www.news2day.co.kr/article/20260407500279",
-    "https://www.joongdo.co.kr/web/view.php?key=20260407010002153",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=57897",
-    "https://www.thepublic.kr/news/articleView.html?idxno=300227",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=57896",
-    "http://www.metroseoul.co.kr/article/20260407500516",
-    "https://n.news.naver.com/mnews/article/366/0001154968?sid=100",
     "https://www.newsmin.co.kr/news/131097/",
     "https://n.news.naver.com/mnews/article/001/0016007887?sid=100",
     "https://n.news.naver.com/mnews/article/421/0008875990?sid=102",
@@ -499,18 +490,18 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013413",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013424",
     "https://www.m-i.kr/news/articleView.html?idxno=1366318",
-    "https://n.news.naver.com/mnews/article/629/0000493287?sid=102"
+    "https://n.news.naver.com/mnews/article/629/0000493287?sid=102",
+    "http://www.kdfnews.com/news/articleView.html?idxno=182364",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250181",
+    "http://www.newstnt.com/news/articleView.html?idxno=607605",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250160",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250132",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250179",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250150",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250167",
+    "https://n.news.naver.com/mnews/article/382/0001269483?sid=102"
   ],
   "titles": [
-    "대우건설 독립이사 5명 중 법률가 2명, 안전 전문가 0명 : 대형 건설사들...",
-    "[인사] 고용노동부 ; 기후에너지환경부 ; 국세청 등",
-    "[오늘의 인사 : 4월 7일] 중소기업중앙회·한국식품산업협회·모나미·고...",
-    "충주상의, 대전지방국세청장 초청 간담회 개최…세제 개선 건의",
-    "남동세무서, 피스코리아 등 8개 기업 '50년 장수 성실기업' 선정…감사...",
-    "'꼼수 가업' 베이커리 카페·주차장업, 상속공제 안 해준다",
-    "또 서울국세청 조사4국…세아상역 3연속 특별 세무조사 왜?",
-    "인사-4월 7일",
-    "‘예산 끼워넣기’에 30조원으로 부푼 추경… “스포츠 관람 지원이 ‘...",
     "김용판 전 의원, ‘이재명 국제 마피아 연루설’ 주장 사과···“대통...",
     "여야정 회담, 조작기소·개헌·추경 이견…\"민생 공통분모 확인\"(종합)",
     "6·3 지방선거 D-57…대구시선관위, '정당 업무협의회' 개최",
@@ -1001,6 +992,15 @@
     "동해시, 1,153필지 지적재조사 완료…재산권 불편 해소 기대",
     "영주시, 중동 정세 여파 아스콘 수급 점검…건설현장 대응 강화",
     "\"훈련은 끝났지만\"…감천면 산불 대응, 장비·인력 현실은 뒷전",
-    "울진군, 방송 타고 관광·특산물 알린다"
+    "울진군, 방송 타고 관광·특산물 알린다",
+    "한국가스공사, 안전·청렴 결의...\"중대재해 막고 신뢰 높인다\".",
+    "대전 노루벌 지방정원 조성, 중앙투자심사 통과",
+    "[동정] 심재국 교수, 신간 'AI 도시, 자연을 닮다' 출간",
+    "金총리 \"전쟁 추경의 생명은 속도\"…지방정부 집행·중동 대응 총력 주...",
+    "전남도, 중동상황 비상경제 대응·민생 안정 총력",
+    "강원특별자치도 '불가사리' 친환경 제설제 활용 박차",
+    "'반도체 효과' 4월 수출 1~20일 기준 역대 최대…원유 수입 3개월 연속 ...",
+    "과천시, 주암지구 데이터센터 입지 재검토 요구",
+    "김천, 전국 수영 열기 정점… ‘제98회 동아수영대회’ 성황리 마무리"
   ]
 }
