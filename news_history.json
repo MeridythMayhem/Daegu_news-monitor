@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=234485",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=867219",
-    "https://www.seoulfn.com/news/articleView.html?idxno=625858",
     "https://www.fntoday.co.kr/news/articleView.html?idxno=381751",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=831149",
     "http://www.newstomato.com/ReadNews.aspx?no=1297013&inflow=N",
@@ -499,12 +496,12 @@
     "https://www.youthdaily.co.kr/news/article.html?no=217706",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013139",
     "https://n.news.naver.com/mnews/article/657/0000050660?sid=102",
-    "https://www.m-i.kr/news/articleView.html?idxno=1366157"
+    "https://www.m-i.kr/news/articleView.html?idxno=1366157",
+    "http://www.ikld.kr/news/articleView.html?idxno=333253",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013252",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013248"
   ],
   "titles": [
-    "지정학 변수에 코스피 상승폭 반납…코스닥은 하락 전환",
-    "코스피, 이란전 위기 고조에 0.82%↑... '역대 최고 실적' 삼성전자 약진...",
-    "'중동 긴장감'에 변동성 확대···코스피 5490선 강보합 마감",
     "실적 호재 덮은 중동 전운… 코스피, 상승폭 줄이며 5,490선에서 '숨고르...",
     "[마감시황] 트럼프 '최후통첩'…코스피 상승폭 축소",
     "정부, 코스닥 활성화 외치는데…투자 판단은 '깜깜이'",
@@ -1001,6 +998,9 @@
     "철도 부문 실적 반등에도...현대로템, 입찰 제한에 소송 리스크 '첩첩산...",
     "상주 문화예술회관 건립 '순항'…2027년 11월 준공 목표",
     "경북 구미시 공단동 건물 화재···포항 구룡포읍 식당 창고에도 불",
-    "경북문화관광공사, 업사이클링 협약으로 자원순환 골프장 구축"
+    "경북문화관광공사, 업사이클링 협약으로 자원순환 골프장 구축",
+    "지식산업센터도 차별화 시대… 입주 기업 배려한 특화 설계 갖춰 '눈길...",
+    "경북도, 저출생 대응 120대 과제 1분기 점검…\"정책 성과 전국 확산\"",
+    "보문골프클럽, 투명 페트병 '회수~제품화' 자원순환 모델 도입"
   ]
 }
