@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.newsmin.co.kr/news/131097/",
-    "https://n.news.naver.com/mnews/article/001/0016007887?sid=100",
-    "https://n.news.naver.com/mnews/article/421/0008875990?sid=102",
-    "https://www.mediapen.com/news/view/1091895",
-    "https://www.asiatoday.co.kr/view.php?key=20260408010002224",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=435150",
-    "https://n.news.naver.com/mnews/article/016/0002626129?sid=102",
     "https://n.news.naver.com/mnews/article/088/0001004598?sid=102",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069385",
     "https://n.news.naver.com/mnews/article/018/0006252256?sid=102",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250179",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250150",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250167",
-    "https://n.news.naver.com/mnews/article/382/0001269483?sid=102"
+    "https://n.news.naver.com/mnews/article/382/0001269483?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250174",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250193",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250199",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013519",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013541",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013554",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013546"
   ],
   "titles": [
-    "김용판 전 의원, ‘이재명 국제 마피아 연루설’ 주장 사과···“대통...",
-    "여야정 회담, 조작기소·개헌·추경 이견…\"민생 공통분모 확인\"(종합)",
-    "6·3 지방선거 D-57…대구시선관위, '정당 업무협의회' 개최",
-    "조작기소 국조특위 “엄희준·강백신, 정식 수사팀 아닌데 사건 관여”",
-    "잇단 경선 잡음에… '그들만의 리그'된 여야 텃밭",
-    "[7일 오!정말] 민주당 서영교 \"이게(박상용 검사의 회유 의혹) 사람 사냥...",
-    "공천 갈등 너도나도 가처분…컷오프에 바빠진 남부지법 [세상&amp;]",
     "[속보] \"장모 좋은 곳 보내려 하천에 버려\"…'캐리어 시신' 사위 진술에...",
     "'캐리어 시신' 비극…가정폭력 대응 실패가 키웠다",
     "대전 길거리서 흉기로 아내 찌른 40대에 구속 영장 신청",
@@ -1001,6 +994,13 @@
     "강원특별자치도 '불가사리' 친환경 제설제 활용 박차",
     "'반도체 효과' 4월 수출 1~20일 기준 역대 최대…원유 수입 3개월 연속 ...",
     "과천시, 주암지구 데이터센터 입지 재검토 요구",
-    "김천, 전국 수영 열기 정점… ‘제98회 동아수영대회’ 성황리 마무리"
+    "김천, 전국 수영 열기 정점… ‘제98회 동아수영대회’ 성황리 마무리",
+    "의왕시, 오전동 노후 공업지역 광역교통 거점 추진",
+    "김진경 경기도의회 의장, 민생경제 위기 대응 강조",
+    "평택시, 2050 탄소중립 녹색성장위원회 출범",
+    "'국제그린에너지엑스포' 22일 개막…글로벌 에너지 기술 총집결",
+    "영천, 성별영향평가 대면 컨설팅 실시",
+    "안동, 강소기업 육성 기반구축 사업 추진",
+    "영양인재육성장학회, 1학기 장학생 359명 신청"
   ]
 }
