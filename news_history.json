@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/031/0001020392?sid=102",
-    "https://n.news.naver.com/mnews/article/016/0002626128?sid=105",
-    "https://www.thepublic.kr/news/articleView.html?idxno=300309",
-    "https://n.news.naver.com/mnews/article/018/0006252264?sid=101",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=435160",
-    "https://n.news.naver.com/mnews/article/028/0002799623?sid=102",
-    "https://n.news.naver.com/mnews/article/421/0008875986?sid=100",
-    "https://n.news.naver.com/mnews/article/015/0005272130?sid=100",
     "https://www.hidomin.com/news/articleView.html?idxno=700397",
     "https://n.news.naver.com/mnews/article/138/0002223664?sid=101",
     "https://n.news.naver.com/mnews/article/052/0002337605?sid=004",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250170",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250256",
     "https://www.m-i.kr/news/articleView.html?idxno=1366464",
-    "https://www.yeongnam.com/web/view.php?key=20260421025229235"
+    "https://www.yeongnam.com/web/view.php?key=20260421025229235",
+    "https://www.yeongnam.com/web/view.php?key=20260421020058986",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601514",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601541",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601578",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601558",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601572",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601555",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601599"
   ],
   "titles": [
-    "조지연 의원, “고유가 추경, 피해 계층에 집중해야”…예산 구조조정 ...",
-    "“‘19금’ 댄스로 ‘13억’ 번다?” BJ, 앞으로 이렇게 벌다간 다 뺏긴...",
-    "'대장동 변호사'누나 휴스턴 총영사 임명…외교 경력 '전무'",
-    "전쟁 추경 '30조'로 확대되나…면세유 지원확대 등 요구 봇물",
-    "3월 기업가치 제고계획 알린 상장사 크게 늘었다, '고배당' 세제혜택 영...",
-    "4월8일 인사",
-    "'전쟁 추경' 상임위 심사 막바지…증액 규모 3.4조 안팎",
-    "'전쟁추경' 심사 돌입…벌써 3兆 증액요구 쏟아져",
     "LH대경본부, 반복 훈련으로 중대재해 차단",
     "李 노동정책 맞물린 장인화 결단…포스코, 협력사 7000명 직고용",
     "여야 모두 '정원오 때리기'...민주 경기지사 후보 추미애 확정",
@@ -1001,6 +993,14 @@
     "경북도 \"저출생 대응 1분기 진도율 41.2%\"",
     "위성곤 \"제주형 사회연대경제 키우겠다\"…국비 선정 계기 성장 비전 제...",
     "\"첨단의료 기업 키운다\"…기보·케이메디허브 협력 체계 구축",
-    "대구 출신 최영전 주미대사관 재경관, 러시아 나프타 수입 막힌 결제길..."
+    "대구 출신 최영전 주미대사관 재경관, 러시아 나프타 수입 막힌 결제길...",
+    "대구 집 살때 ‘부모 찬스’ 크게 늘었다",
+    "안동시, 중소기업 근로환경 개선사업 참여기업 모집",
+    "영양군인재육성장학회, 장학제도 개편 효과톡톡",
+    "성주군, 소상공인 지원사업 본격 추진",
+    "고령군, 지방세 안내 책자 발간",
+    "구미 들성로, 막힌 길 뚫고 밤길까지 밝힌다",
+    "성주군, 2026년도 개별공시지가 부동산가격공시위원회 개최",
+    "김천시, 동아수영대회 성황 종료 ‘지역 활기’"
   ]
 }
