@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001004598?sid=102",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069385",
-    "https://n.news.naver.com/mnews/article/018/0006252256?sid=102",
-    "https://n.news.naver.com/mnews/article/022/0004118987?sid=102",
-    "https://idsn.co.kr/news/view/1065603682945088",
-    "https://www.ceoscoredaily.com/page/view/2026040718590096637",
-    "https://m.sports.naver.com/general/article/421/0008876059",
-    "https://www.livebiz.today/news/articleView.html?idxno=201489",
-    "https://www.asiatoday.co.kr/view.php?key=20260407010002231",
     "https://n.news.naver.com/mnews/article/660/0000106927?sid=101",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069378",
     "https://n.news.naver.com/mnews/article/082/0001374883?sid=101",
@@ -499,18 +490,18 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013519",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013541",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013554",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013546"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013546",
+    "http://kr.people.com.cn/n3/2026/0421/c208059-20448707.html",
+    "https://n.news.naver.com/mnews/article/009/0005669246?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250247",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250240",
+    "https://n.news.naver.com/mnews/article/088/0001006566?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250217",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250227",
+    "http://mcnews.co.kr/86072",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250226"
   ],
   "titles": [
-    "[속보] \"장모 좋은 곳 보내려 하천에 버려\"…'캐리어 시신' 사위 진술에...",
-    "'캐리어 시신' 비극…가정폭력 대응 실패가 키웠다",
-    "대전 길거리서 흉기로 아내 찌른 40대에 구속 영장 신청",
-    "보호관찰 중에도 ‘동급생 감금’…학폭 반복한 10대 소년원행",
-    "[7일 사건사고] 부천 고강동 다세대주택 화재…심야 화재로 60대 남성 화...",
-    "협력사 직원 7000명 직접 고용한다…포스코의 파격 결단",
-    "'신유빈 등' 탁구 대표팀, 2026 런던선수권 단체전 출전 멤버 확정",
-    "\"같은 일해도 적은 급여받았는데\"...포스코, 협력사 직원 7천명 '직접 고...",
-    "포스코, 협력사 직원 7000명 직고용…'대승적 결단'",
     "[속보] 포스코, 협력사 직원 7,000명 정규직으로 '직접 고용'",
     "오중기 경북도지사 예비후보 \"대구·경북 통합으로 경북 재도약 이끌 것...",
     "노봉법 압박에…포스코, 하청 직원 7000명 직고용 추진",
@@ -1001,6 +992,15 @@
     "'국제그린에너지엑스포' 22일 개막…글로벌 에너지 기술 총집결",
     "영천, 성별영향평가 대면 컨설팅 실시",
     "안동, 강소기업 육성 기반구축 사업 추진",
-    "영양인재육성장학회, 1학기 장학생 359명 신청"
+    "영양인재육성장학회, 1학기 장학생 359명 신청",
+    "대구경북경제자유구역청, 포항융합기술산업지구 제조시설 건립 투자양...",
+    "한국수력원자력, 대규모 건설에도 4년연속 중대재해 '제로'",
+    "이철우, 첨단산업 10대 공약 발표…\"경북을 아태 AI 수도로 만들겠다\"",
+    "여주 금사농협, 조합원 자녀 지원 '장학사업' 호응",
+    "흔들리는 펀더멘털…원화 '안전판'이 없다",
+    "성남산업진흥원, 교육훈련협의체 MD-TAP 성료",
+    "은행권 2분기 가계대출 문턱 더 높인다…중동 리스크에 신용위험 확대 ...",
+    "김윤덕 장관 “고유가 위기, 항공업계 비상방파제 역할 할 것”",
+    "日, 살상 무기 수출 허용…'전쟁 가능 국가' 전환 논란 확산"
   ]
 }
