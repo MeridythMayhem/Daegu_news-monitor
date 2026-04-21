@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/079/0004134044?sid=102",
-    "https://www.hidomin.com/news/articleView.html?idxno=700394",
-    "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260407&SEQUENCE=0118",
     "https://n.news.naver.com/mnews/article/437/0000486348?sid=100",
     "https://n.news.naver.com/mnews/article/055/0001346668?sid=101",
     "https://n.news.naver.com/mnews/article/028/0002799643?sid=101",
@@ -499,12 +496,12 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=601599",
     "https://www.sentv.co.kr/article/view/sentv202604210172",
     "https://www.tbc.co.kr/news/view?pno=20260420152144AE08747&id=205687",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=834444"
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=834444",
+    "https://www.youthdaily.co.kr/news/article.html?no=217773",
+    "https://www.yeongnam.com/web/view.php?key=20260421029294731",
+    "https://n.news.naver.com/mnews/article/088/0001006615?sid=100"
   ],
   "titles": [
-    "국힘 경주시장 경선 '고발 난타전'…'정·언 유착' 허위사실 공방",
-    "선수 계약금 부풀려 가로챈 문경시청 씨름단 감독 구속",
-    "환전 수수료 미끼로 대낮 도심서 납치.. 외국인 일당 추적",
     "[더in터뷰] \"한국 진로 뒤흔들 것\"…'오일쇼크 취재' 조갑제의 경고",
     "포스코, 협력사 직원 7천 명 정규직으로 '직접 고용'…원·하청 구조 문...",
     "포스코, 협력사 직원 7천명 직접 고용한다",
@@ -1001,6 +998,9 @@
     "김천시, 동아수영대회 성황 종료 ‘지역 활기’",
     "김천시, '제98회 동아수영대회' 성공 개최",
     "참다랑어 폐기 막는다...실시간 쿼터에 양식까지",
-    "경북 김천시, 제98회 동아수영대회 성료"
+    "경북 김천시, 제98회 동아수영대회 성료",
+    "포스코 직고용에 내부 '부글부글'…대상자 적격성·형평성 논란 확산",
+    "[경제대기획-House ②] 자녀세대에 물려주는 ‘또 다른 계급장’",
+    "추경호 '청년과 치맥 간담회'-유영하 '유튜브로 신뢰 회복'"
   ]
 }
