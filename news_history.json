@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005663136?sid=102",
-    "https://n.news.naver.com/mnews/article/032/0003438638?sid=102",
-    "https://n.news.naver.com/mnews/article/215/0001248370?sid=101",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4077171",
-    "https://www.eroun.net/news/articleView.html?idxno=77681",
-    "https://www.greened.kr/news/articleView.html?idxno=339048",
-    "https://www.ppss.kr/news/articleView.html?idxno=291965",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4069516",
     "https://m.sports.naver.com/basketball/article/351/0000085926",
     "https://www.ksmnews.co.kr/news/view.php?idx=599327",
@@ -499,16 +492,16 @@
     "https://m.sports.naver.com/general/article/481/0000013075",
     "https://www.yeongnam.com/web/view.php?key=20260422020229384",
     "https://www.yeongnam.com/web/view.php?key=20260422021589389",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250651"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250651",
+    "https://www.yeongnam.com/web/view.php?key=20260422027409550",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601766",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601797",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601820",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601837",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601892",
+    "https://www.ksmnews.co.kr/news/view.php?idx=601894"
   ],
   "titles": [
-    "포스코, 3개 하청 노조와 협상할 판",
-    "포스코 하청노조 ‘사용자성’ 인정 및 ‘교섭단위 분리’…노란봉투법...",
-    "포스코, 7천명 직고용 누가 됐나…노조는 반발",
-    "'포스코' 하청 노조, 노란봉투법 시행 후 첫 노조 간 교섭 분리 결정",
-    "포스코, 협력사 직원 대규모 '직고용' 결단... 15년 소송 마침표 찍고 상...",
-    "포스코, 하청노조 '사용자' 인정...노란봉투법 첫 사례",
-    "포스코, 협력사 직원 7000명 직접 고용 결정 '근로자 소송 갈등 종식'",
     "포스코 직고용 7천명 발표에 노조 반발…노사 충돌 격화",
     "[BK 리뷰] ‘벨란겔 폭발+김민규 끝내기!’ 한국가스공사, 실내체육관 고...",
     "경북교육청, ‘경북미래교육지구 업무 담당자 협의회’ 개최",
@@ -1001,6 +994,13 @@
     "[김종석의 그라운드] 반려 식물 곁에서 키우는 생각의 습관…현대백화...",
     "[영남일보 CEO 아카데미] 장세철 통합신공항 추진단 대표 “TK신공항 낙...",
     "“설치는 보조금, 관리는 나 몰라라”…대구 곳곳 멈춰버린 전기차 충전...",
-    "IBK기업은행, '지속가능금융 최우수 은행' 3년 연속 수상"
+    "IBK기업은행, '지속가능금융 최우수 은행' 3년 연속 수상",
+    "100t 1억4천만원 폴리에틸렌 2억5천만원까지 올라…실물경제는 이미 고...",
+    "영덕군, 원전 유치 통합 대응 체계 ‘전면 강화’",
+    "구미시, ‘로컬팩’으로 소상공인 브랜드 육성",
+    "김천시, 오는 27일부터 ‘고유가 피해지원금 지급’ 본격 개시",
+    "경북창경센터, ‘모두의 창업’ 전국 순회 설명회 경북편 성료",
+    "대구서부고용센터, 보건·의료분야 채용행사 개최",
+    "대구고용노동청, 취약계층 권리보호ㆍ민생안정 위해 추경예산 신속 집행..."
   ]
 }
