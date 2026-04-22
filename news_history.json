@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/437/0000486348?sid=100",
-    "https://n.news.naver.com/mnews/article/055/0001346668?sid=101",
-    "https://n.news.naver.com/mnews/article/028/0002799643?sid=101",
     "https://n.news.naver.com/mnews/article/088/0001004602?sid=102",
     "https://n.news.naver.com/mnews/article/001/0016007961?sid=101",
     "https://n.news.naver.com/mnews/article/014/0005504096?sid=101",
@@ -499,12 +496,12 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=834444",
     "https://www.youthdaily.co.kr/news/article.html?no=217773",
     "https://www.yeongnam.com/web/view.php?key=20260421029294731",
-    "https://n.news.naver.com/mnews/article/088/0001006615?sid=100"
+    "https://n.news.naver.com/mnews/article/088/0001006615?sid=100",
+    "https://www.joongangenews.com/news/articleView.html?idxno=513586",
+    "https://www.upkoreanews.kr/news/articleView.html?idxno=98154",
+    "https://www.ekn.kr/web/view.php?key=20260422021378941"
   ],
   "titles": [
-    "[더in터뷰] \"한국 진로 뒤흔들 것\"…'오일쇼크 취재' 조갑제의 경고",
-    "포스코, 협력사 직원 7천 명 정규직으로 '직접 고용'…원·하청 구조 문...",
-    "포스코, 협력사 직원 7천명 직접 고용한다",
     "\"하청 문제 손본다\"…포스코, 7000명 직접 채용 결정",
     "포스코, '노란봉투법' 압박 정면 돌파…하청 7천명 직고용 승부수",
     "포스코, 협력사 직원 7천명 직고용..'위험의 외주화' 해소",
@@ -1001,6 +998,9 @@
     "경북 김천시, 제98회 동아수영대회 성료",
     "포스코 직고용에 내부 '부글부글'…대상자 적격성·형평성 논란 확산",
     "[경제대기획-House ②] 자녀세대에 물려주는 ‘또 다른 계급장’",
-    "추경호 '청년과 치맥 간담회'-유영하 '유튜브로 신뢰 회복'"
+    "추경호 '청년과 치맥 간담회'-유영하 '유튜브로 신뢰 회복'",
+    "[위기의 포스코, 생존의 길(中)] \"철강 의존 낮춰야 산다\"…新사업 수익...",
+    "엘앤에프, 9조 계약 '조건 변경' 변수 현실화…적자 축소에도 재무 부담...",
+    "[패트롤] 김천시-구미시-구미시의회-문경시-성주군"
   ]
 }
