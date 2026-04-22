@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001004602?sid=102",
-    "https://n.news.naver.com/mnews/article/001/0016007961?sid=101",
     "https://n.news.naver.com/mnews/article/014/0005504096?sid=101",
     "https://n.news.naver.com/mnews/article/015/0005272159?sid=101",
     "https://n.news.naver.com/mnews/article/079/0004134045?sid=102",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/088/0001006615?sid=100",
     "https://www.joongangenews.com/news/articleView.html?idxno=513586",
     "https://www.upkoreanews.kr/news/articleView.html?idxno=98154",
-    "https://www.ekn.kr/web/view.php?key=20260422021378941"
+    "https://www.ekn.kr/web/view.php?key=20260422021378941",
+    "https://n.news.naver.com/mnews/article/088/0001006654?sid=100",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013718"
   ],
   "titles": [
-    "\"하청 문제 손본다\"…포스코, 7000명 직접 채용 결정",
-    "포스코, '노란봉투법' 압박 정면 돌파…하청 7천명 직고용 승부수",
     "포스코, 협력사 직원 7천명 직고용..'위험의 외주화' 해소",
     "포스코, 협력사 직원 7000명 직고용…노란봉투법 시행 후 대기업 최초",
     "포스코, 협력사 7천명 직접 고용…원·하청 구조 개편",
@@ -1001,6 +999,8 @@
     "추경호 '청년과 치맥 간담회'-유영하 '유튜브로 신뢰 회복'",
     "[위기의 포스코, 생존의 길(中)] \"철강 의존 낮춰야 산다\"…新사업 수익...",
     "엘앤에프, 9조 계약 '조건 변경' 변수 현실화…적자 축소에도 재무 부담...",
-    "[패트롤] 김천시-구미시-구미시의회-문경시-성주군"
+    "[패트롤] 김천시-구미시-구미시의회-문경시-성주군",
+    "김부겸 \"대구 살리는데 보수·진보, 여·야 구분 없어…영혼까지 갈아 ...",
+    "구미시의회, 제295회 임시회 마무리…조례안 등 20건 처리"
   ]
 }
