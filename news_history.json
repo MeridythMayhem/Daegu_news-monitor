@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/014/0005504096?sid=101",
-    "https://n.news.naver.com/mnews/article/015/0005272159?sid=101",
     "https://n.news.naver.com/mnews/article/079/0004134045?sid=102",
     "https://www.tbc.co.kr/news/view?pno=20260407185452AE08242&id=205224",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=831190",
@@ -499,11 +497,11 @@
     "https://www.upkoreanews.kr/news/articleView.html?idxno=98154",
     "https://www.ekn.kr/web/view.php?key=20260422021378941",
     "https://n.news.naver.com/mnews/article/088/0001006654?sid=100",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013718"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013718",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013766",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013780"
   ],
   "titles": [
-    "포스코, 협력사 직원 7천명 직고용..'위험의 외주화' 해소",
-    "포스코, 협력사 직원 7000명 직고용…노란봉투법 시행 후 대기업 최초",
     "포스코, 협력사 7천명 직접 고용…원·하청 구조 개편",
     "포스코 \"포항.광양 협력사 직원 직접 고용\"...7천 명 채용 전망",
     "포스코, 협력사 7000명 직고용... \"상생의 중대한 이정표\" 전망",
@@ -1001,6 +999,8 @@
     "엘앤에프, 9조 계약 '조건 변경' 변수 현실화…적자 축소에도 재무 부담...",
     "[패트롤] 김천시-구미시-구미시의회-문경시-성주군",
     "김부겸 \"대구 살리는데 보수·진보, 여·야 구분 없어…영혼까지 갈아 ...",
-    "구미시의회, 제295회 임시회 마무리…조례안 등 20건 처리"
+    "구미시의회, 제295회 임시회 마무리…조례안 등 20건 처리",
+    "달성군, 대구 최초 외국인 아동 '누리보육료 추가 지원'…보육 격차 해...",
+    "경주시, 고유가 피해지원금 지급…취약계층 최대 60만원"
   ]
 }
