@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=600075",
-    "https://www.ksmnews.co.kr/news/view.php?idx=600249",
-    "https://www.ksmnews.co.kr/news/view.php?idx=600155",
-    "https://www.ksmnews.co.kr/news/view.php?idx=599882",
     "https://www.ksmnews.co.kr/news/view.php?idx=600074",
     "https://www.tbc.co.kr/news/view?pno=20260413185418AE08477&id=205385",
     "https://www.tbc.co.kr/news/view?pno=20260413162431AE08459&id=205383",
@@ -499,13 +495,13 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=602076",
     "https://www.ksmnews.co.kr/news/view.php?idx=602125",
     "https://www.ksmnews.co.kr/news/view.php?idx=601997",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601957"
+    "https://www.ksmnews.co.kr/news/view.php?idx=601957",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=546090",
+    "https://www.tbc.co.kr/news/view?pno=20260421195624AE08828&id=205790",
+    "https://www.tbc.co.kr/news/view?pno=20260423155707AE08931&id=205788",
+    "https://www.tbc.co.kr/news/view?pno=20260423160744AE08933&id=205795"
   ],
   "titles": [
-    "구미, iM금융오픈 2026 성료",
-    "김천시, 2026년 일자리대책 연차별 세부계획 공시",
-    "울진군, 지방세 체납액 일제정리 돌입",
-    "울릉군, 어선장비 등 지원사업…6개 분야에 보조금",
     "청도군, 출산 소상공인 위한 아이보듬 지원사업 추진",
     "\"김부겸 대항마. 대구 경제 살릴 적임자... '원팀'으로 뭉쳐야\"",
     "대구TP 수당 부당 지급 '47억 원'...환수 '나 몰라라'",
@@ -1001,6 +997,10 @@
     "대구 중소기업 위기 타개…경제 해법은?",
     "구미시, 고교인재-기업 인턴십 확대",
     "성주군, ART ON 생활현장 속으로 확산",
-    "문경시, 개별공시지가 부동산가격공시위원회 개최"
+    "문경시, 개별공시지가 부동산가격공시위원회 개최",
+    "경찰 총경 승진, 102명 발표…대구·경북에선 총 6명 배출",
+    "[에너지전환] 중동전쟁 '나프타 쇼크'...폐비닐에서 답을 찾다",
+    "김부겸 \"정부 재정 1조 원 확보... 내년 신공항 첫 삽 뜨겠다 \"",
+    "대구TP '부적절 지급' 연구관련수당 25억여 원"
   ]
 }
