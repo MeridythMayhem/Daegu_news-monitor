@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4408561",
-    "https://www.smartbizn.com/news/articleView.html?idxno=141513",
-    "http://andongmbc.co.kr/adboard/NewsView81811",
-    "https://www.yeongnam.com/web/view.php?key=20260409021256821",
-    "https://www.korea.kr/briefing/actuallyView.do?newsId=148962361&call_from=naver_news",
-    "https://www.naeil.com/news/read/584655?ref=naver",
-    "http://www.seoulwire.com/news/articleView.html?idxno=716102",
-    "https://www.theguru.co.kr/news/article.html?no=100364",
     "https://www.eroun.net/news/articleView.html?idxno=77788",
     "https://n.news.naver.com/mnews/article/421/0008880837?sid=102",
     "https://www.geconomy.co.kr/news/article.html?no=319002",
@@ -499,17 +491,17 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014029",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014164",
     "https://www.m-i.kr/news/articleView.html?idxno=1366932",
-    "https://n.news.naver.com/mnews/article/082/0001377463?sid=101"
+    "https://n.news.naver.com/mnews/article/082/0001377463?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250807",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250798",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250776",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250768",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250818",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250794",
+    "https://www.ajunews.com/view/20260423100207843",
+    "https://www.kpinews.kr/newsView/1065576165644640"
   ],
   "titles": [
-    "위기에 빛나는 종합상사의 힘…포스코인터, 역대 1분기 최대 실적 예고",
-    "포스코, 15년 소송 종지부 찍나···협력사 7천명 '직고용' 의미는?",
-    "R]포스코, 협력사 7천명 직고용 결단..포스코 노조 반발",
-    "대구지검, 100억원대 대출 비리 저지른 농협 임원·대출브로커 등 16명 ...",
-    "[사실은 이렇습니다] (설명) 중앙일보, \"포스코 최소 4개 노조와 교섭해...",
-    "포스코 하청도 사용자성 인정…하청노조 교섭단위 분리",
-    "[핫스톡 현미경] 엘앤에프, '적자 늪' 넘고 2차전지 소재 '블루칩' 등극...",
-    "포스코 베트남 합작법인, 베트남 세금 탈루 조사…합작 구조 정밀 점검",
     "'펑' 소리에 공장 전소·산불까지... 경주 외동 공장·야산 '잿더미'",
     "포항 흥해 공장서 화재…직원들 소화기로 발빠른 초기 진화",
     "“7천명 직고용 발표에도 ‘반쪽’ 논란…포스코 향한 노동계 압박 커진...",
@@ -1001,6 +993,14 @@
     "포항시 추모공원 건립 '본격화'…도시계획 용역 착수",
     "박세채 의원, 제295회 구미시의회 임시회…'5분 자유발언'",
     "구미시, 경북 로봇 플래그쉽 거점 개소…구미형 로봇산업 구축 본격화",
-    "직고용 처우 공개에도…포스코 노조 ‘이중 반발’ 확산"
+    "직고용 처우 공개에도…포스코 노조 ‘이중 반발’ 확산",
+    "노동장관 \"화물연대 참사 본질은 다단계 하청…노란봉투법 미실현의 결...",
+    "전남도-광주광역시, 기후환경 에너지대전...사흘간 성료",
+    "'위기 속 수출길 확장'… 충남도, 해외 바이어 초청 수출상담회",
+    "용인시, 원삼산단 부분준공 승인",
+    "시흥시, 제2차 환경교육계획 수립 추진",
+    "태안군, 지방소멸대응기금 사업 추진상황 보고회",
+    "홍준표, 조선일보 향해 \"이젠 니들의 시대 아냐\" 직격",
+    "[노성열의 AI경제] AI, 해킹 넘어 양자컴퓨터까지…통제의 전쟁 시작됐..."
   ]
 }
