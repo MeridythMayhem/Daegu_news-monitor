@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.eroun.net/news/articleView.html?idxno=77788",
-    "https://n.news.naver.com/mnews/article/421/0008880837?sid=102",
-    "https://www.geconomy.co.kr/news/article.html?no=319002",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=656713",
     "https://www.sisaon.co.kr/news/articleView.html?idxno=200104",
     "https://it.chosun.com/news/articleView.html?idxno=2023092160125",
     "https://daily.hankooki.com/news/articleView.html?idxno=1356887",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250818",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250794",
     "https://www.ajunews.com/view/20260423100207843",
-    "https://www.kpinews.kr/newsView/1065576165644640"
+    "https://www.kpinews.kr/newsView/1065576165644640",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250817",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250870",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250867",
+    "https://n.news.naver.com/mnews/article/057/0001945994?sid=102"
   ],
   "titles": [
-    "'펑' 소리에 공장 전소·산불까지... 경주 외동 공장·야산 '잿더미'",
-    "포항 흥해 공장서 화재…직원들 소화기로 발빠른 초기 진화",
-    "“7천명 직고용 발표에도 ‘반쪽’ 논란…포스코 향한 노동계 압박 커진...",
-    "포스코, 협력사 임직원 7000명 '직고용' 선택…노조 교섭·역차별·비용...",
     "포스코, 7000명 직고용 결단에 노조 반발…선별적 고용 논란",
     "포스코 하청 직고용 발표, 하청노조는 반발",
     "'협력사 직고용 결단' 포스코…노조 반응은 '싸늘'",
@@ -1001,6 +997,10 @@
     "시흥시, 제2차 환경교육계획 수립 추진",
     "태안군, 지방소멸대응기금 사업 추진상황 보고회",
     "홍준표, 조선일보 향해 \"이젠 니들의 시대 아냐\" 직격",
-    "[노성열의 AI경제] AI, 해킹 넘어 양자컴퓨터까지…통제의 전쟁 시작됐..."
+    "[노성열의 AI경제] AI, 해킹 넘어 양자컴퓨터까지…통제의 전쟁 시작됐...",
+    "천안시, '천안미래유니콘 C-STAR' 4기 7곳 선정",
+    "정읍시, 상반기 취업박람회 개최...구직자 취업 지원 강화",
+    "홍성군, 무인민원발급기 옥외 설치 확대",
+    "\"또 누굴 부추겨 보수 진영 망치려고\"…'장동혁 사퇴론'에 반박한 홍준..."
   ]
 }
