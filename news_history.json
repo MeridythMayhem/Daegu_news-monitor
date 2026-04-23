@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=600074",
     "https://www.tbc.co.kr/news/view?pno=20260413185418AE08477&id=205385",
     "https://www.tbc.co.kr/news/view?pno=20260413162431AE08459&id=205383",
     "https://m.skyedaily.com/news_view.html?ID=302347",
@@ -499,10 +498,10 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=546090",
     "https://www.tbc.co.kr/news/view?pno=20260421195624AE08828&id=205790",
     "https://www.tbc.co.kr/news/view?pno=20260423155707AE08931&id=205788",
-    "https://www.tbc.co.kr/news/view?pno=20260423160744AE08933&id=205795"
+    "https://www.tbc.co.kr/news/view?pno=20260423160744AE08933&id=205795",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014152"
   ],
   "titles": [
-    "청도군, 출산 소상공인 위한 아이보듬 지원사업 추진",
     "\"김부겸 대항마. 대구 경제 살릴 적임자... '원팀'으로 뭉쳐야\"",
     "대구TP 수당 부당 지급 '47억 원'...환수 '나 몰라라'",
     "포스코 ‘하청 직고용’ 결단인가 꼼수인가… 노조 “대법원 판결 무력...",
@@ -1001,6 +1000,7 @@
     "경찰 총경 승진, 102명 발표…대구·경북에선 총 6명 배출",
     "[에너지전환] 중동전쟁 '나프타 쇼크'...폐비닐에서 답을 찾다",
     "김부겸 \"정부 재정 1조 원 확보... 내년 신공항 첫 삽 뜨겠다 \"",
-    "대구TP '부적절 지급' 연구관련수당 25억여 원"
+    "대구TP '부적절 지급' 연구관련수당 25억여 원",
+    "경북도·포항·경주·지역대학, SMR 유치 '원팀' 구축"
   ]
 }
