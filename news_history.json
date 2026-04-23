@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=599859",
-    "https://www.ksmnews.co.kr/news/view.php?idx=599795",
-    "https://www.ksmnews.co.kr/news/view.php?idx=599978",
-    "https://www.ksmnews.co.kr/news/view.php?idx=599790",
-    "https://www.ksmnews.co.kr/news/view.php?idx=599831",
-    "https://www.taxtimes.co.kr/news/article.html?no=274686",
-    "https://n.news.naver.com/mnews/article/003/0013882823?sid=102",
     "https://www.koscaj.com/news/articleView.html?idxno=323504",
     "https://mdtoday.co.kr/news/view/1065594920898467",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=163693",
@@ -499,16 +492,16 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014465",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014468",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014466",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014472"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014472",
+    "https://n.news.naver.com/mnews/article/001/0016039650?sid=102",
+    "https://n.news.naver.com/mnews/article/088/0001006975?sid=102",
+    "https://www.kbmaeil.com/article/20260423500659",
+    "https://n.news.naver.com/mnews/article/138/0002225691?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251022",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251031",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250984"
   ],
   "titles": [
-    "고령군, 하나금융그룹과 MOU 지역 산단 입주기업 금융 지원",
-    "울진군 청년지원 사업 마감 임박",
-    "대구 남구, 전국 첫 주거·일자리 결합 시니어 일자리센터 ‘이룸채’ ...",
-    "울릉군, 민원 수수료 카드결제 서비스 도입",
-    "문경, 지적재조사사업 경계결정위원회 개최",
-    "\"연예인 1인 기획사, 탈세 통로? 국세청이 '조세회피 목적' 입증해야\"",
-    "[대구·경북 조간 헤드라인]",
     "[보라매칼럼] 다주택자 대출 규제···공급 대책도 병행을",
     "포스코, 직고용 내세웠지만 ‘별도 직군’ 신설…노조 불만 확산",
     "중동 정세 불안 장기화에, 中 기업들 '경영난' 호소",
@@ -1001,6 +994,13 @@
     "포항시, 포항사랑카드 160억 원 할인 판매…지역 소비 활성화 기대",
     "영천, 상리에 자립형 공동체 돌봄마을 조성",
     "예천, 곤충양잠산업 거점단지 3대 핵심 프로젝트 착수",
-    "'구미형 로봇산업 생태계 구축' 본격화"
+    "'구미형 로봇산업 생태계 구축' 본격화",
+    "'경찰의 꽃' 총경, 대구·경북경찰청서 6명 승진",
+    "李정부 첫 경찰 총경 승진 인사…대구·경북 각 3명 배출",
+    "대구·경북경찰청, 각각 3명 총경 승진",
+    "포스코노조, 직고용 방침 '반발' 격화…이틀 연속 집회 열어",
+    "송파구시설관리공단, 임직원 4대폭력예방 교육",
+    "부산시, 글로벌 허브도시 핵심사업 총력 다한다",
+    "김해시, 거리정화·청렴 결의 캠페인 실시"
   ]
 }
