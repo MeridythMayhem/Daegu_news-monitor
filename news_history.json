@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://m.skyedaily.com/news_view.html?ID=302347",
-    "https://n.news.naver.com/mnews/article/056/0012161306?sid=102",
-    "https://www.newspim.com/news/view/20260414000028",
     "https://www.m-i.kr/news/articleView.html?idxno=1364040",
     "https://n.news.naver.com/mnews/article/021/0002784458?sid=102",
     "https://www.yeongnam.com/web/view.php?key=20260414025537547",
@@ -499,12 +496,12 @@
     "https://www.tbc.co.kr/news/view?pno=20260423160744AE08933&id=205795",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014152",
     "https://n.news.naver.com/mnews/article/003/0013907353?sid=102",
-    "http://www.ferrotimes.com/news/articleView.html?idxno=47639"
+    "http://www.ferrotimes.com/news/articleView.html?idxno=47639",
+    "https://n.news.naver.com/mnews/article/657/0000050784?sid=102",
+    "https://www.mtnews.net/news/articleView.html?idxno=24615",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014635"
   ],
   "titles": [
-    "포스코 ‘하청 직고용’ 결단인가 꼼수인가… 노조 “대법원 판결 무력...",
-    "[이슈브리핑] 노란봉투법 시행 파장은? 외",
-    "전국 광역단체장 4월14일 일정",
     "[단독] 구미국가산업단지 3공단 내 불법 공장 운영…환경·화재 위험 '심...",
     "경북도, 중국 상하이서 글로벌 투자유치 나서…4개 기업과 MOU 체결",
     "[사설] 사는 곳이 계급인 나라, 더 이상 두고 볼 수 없다",
@@ -1001,6 +998,9 @@
     "대구TP '부적절 지급' 연구관련수당 25억여 원",
     "경북도·포항·경주·지역대학, SMR 유치 '원팀' 구축",
     "대구 달성 논공읍서 야적장·공장서 화재…인명피해 없어",
-    "포스코 노조 \"일방적 직고용 추진\" 반발…공정가치 결의대회 확산"
+    "포스코 노조 \"일방적 직고용 추진\" 반발…공정가치 결의대회 확산",
+    "경찰 총경 인사···대구·경북서 6명 승진",
+    "포스코퓨처엠, 베트남에 인조흑연 음극재 공장 건립… '공급망 내재화'...",
+    "구미역~금오산 잇는 '낭만토미버스' 25일 운행…관광·교통 결합한 이색..."
   ]
 }
