@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248036",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011047",
-    "https://n.news.naver.com/mnews/article/088/0001005500?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248133",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248132",
-    "https://n.news.naver.com/mnews/article/088/0001005536?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011176",
     "https://www.gasnews.com/news/articleView.html?idxno=124693",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248195",
@@ -499,15 +493,15 @@
     "https://n.news.naver.com/mnews/article/047/0002513335?sid=102",
     "https://www.wikitree.co.kr/articles/1133428",
     "https://n.news.naver.com/mnews/article/001/0016042237?sid=102",
-    "https://www.idaegu.com/news/articleView.html?idxno=661099"
+    "https://www.idaegu.com/news/articleView.html?idxno=661099",
+    "https://n.news.naver.com/mnews/article/055/0001351312?sid=102",
+    "https://www.newspim.com/news/view/20260425000030",
+    "https://n.news.naver.com/mnews/article/657/0000050827?sid=102",
+    "https://n.news.naver.com/mnews/article/081/0003638616?sid=102",
+    "https://n.news.naver.com/mnews/article/657/0000050826?sid=102",
+    "https://n.news.naver.com/mnews/article/421/0008911104?sid=102"
   ],
   "titles": [
-    "경북도, 기후테크 기업 육성 지원사업 추진",
-    "안동 바이오생명 국가산단 예타 통과…'글로벌 백신 허브' 도약 시동",
-    "대구시 고유가시대 친환경차 보조금 조기 시행, 4월 20일 진행",
-    "대구시, 친환경차 보급 앞당긴다… 고유가 대응 4월부터 시행",
-    "안동 바이오생명 국가산단 예타 통과… 경북 북부 '첨단 산업 거점' 시동",
-    "대구 악성 미분양 전국 최다인데…LH 매입 협의 완료는 고작 20가구",
     "포항, 소상공인 카드수수료 지원사업 시행",
     "[인터뷰] (사)한국가스공사 사우회 오정선 회장 \"가스회관 건립 위한 원...",
     "강원도 '일본 K-관광 로드쇼' 강원 관광 매력 알려",
@@ -1001,6 +995,12 @@
     "경찰의 무혐의 후 일어난 비극... 8만2890명을 움직였다",
     "“자기 비하하지 말라”… 故 이순재가 생전 말한 ‘인생을 망치는 생각...",
     "경북 영천서 공장 화재 잇따라…인명 피해 없어",
-    "[대구일보 기획 : 불여일견 - 청년, 현장에서 길을 찾다] ②조일알미늄"
+    "[대구일보 기획 : 불여일견 - 청년, 현장에서 길을 찾다] ②조일알미늄",
+    "경북 영천 폐업 공장서 화재…큰불 잡아",
+    "영천서 공장 화재 잇따라...경북소방 큰 불길잡고 진화 중",
+    "경북 영천시 북안면 돈사 용품 공장서 화재…1시간 40여 분 만에 불길 잡...",
+    "경북 영천서 공장 화재 잇따라…당국 초진 완료",
+    "경북 영천시 고경면 폐업 공장서 화재…폐알루미늄 창고로 번져 5시간 ...",
+    "경북 영천서 공장 화재 2건 연이어 발생…인명피해 없어"
   ]
 }
