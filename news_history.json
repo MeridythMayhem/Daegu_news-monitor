@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/020/0003712455?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011175",
-    "http://www.ikld.kr/news/articleView.html?idxno=332882",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011323",
     "https://thetracker.co.kr/View.aspx?No=4042150",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248337",
@@ -499,12 +496,12 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=602437",
     "https://www.ksmnews.co.kr/news/view.php?idx=602197",
     "https://www.ksmnews.co.kr/news/view.php?idx=602367",
-    "https://www.newspim.com/news/view/20260426000212"
+    "https://www.newspim.com/news/view/20260426000212",
+    "https://www.ksmnews.co.kr/news/view.php?idx=602364",
+    "https://n.news.naver.com/mnews/article/088/0001007208?sid=102",
+    "https://n.news.naver.com/mnews/article/022/0004123771?sid=102"
   ],
   "titles": [
-    "190억 받을 땅을… “市 정책 동의” 한마디에 94억에 팔아",
-    "상주, 시민 염원 공설추모공원 조성사업 '순항'",
-    "주변 시세 대비 저렴한 임대료 갖춘 '공공형 지식산업센터' 부상",
     "구미서 첫 방산 전문교육 개강…'K-방산 인재양성 거점' 본격화",
     "귀뚜라미 지주사, 작년 돌연 3588억 거액배당 미스테리....정말 승계자금...",
     "부평구, 십정2지구 지적 재조사 사업 조정금 산정 심의",
@@ -1001,6 +998,9 @@
     "구미 장세용·문경 이윤희·영양 김상훈 ‘단수 추천’",
     "울릉교육청, 미래교육·지역연계 실천협력 업무협약",
     "포항상의, 수출기업 애로 해소 현장 상담",
-    "김부겸 개소식 '인산인해'…대구시민 열망 표출"
+    "김부겸 개소식 '인산인해'…대구시민 열망 표출",
+    "영덕군, ‘원전 유치’ 검증된 부지로 승부수",
+    "[망치질 사라진 대구]건축 허가 반토막, 규모 줄어…\"진행 중 공사도 중...",
+    "[단독] 경산시 10만t 매립 폐기물 ‘셀프 면죄부’ 논란"
   ]
 }
