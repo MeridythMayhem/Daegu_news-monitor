@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=600331",
-    "https://www.ksmnews.co.kr/news/view.php?idx=600352",
     "https://www.ksmnews.co.kr/news/view.php?idx=600378",
     "https://www.ksmnews.co.kr/news/view.php?idx=600405",
     "https://www.ksmnews.co.kr/news/view.php?idx=600436",
@@ -499,11 +497,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015101",
     "https://www.newscj.com/news/articleView.html?idxno=3396487",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4071137",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251501"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251501",
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4080511",
+    "https://www.tbc.co.kr/news/view?pno=20260421173528AE08818&id=205865"
   ],
   "titles": [
-    "청도군, 위기청소년 특별지원사업 집중 신청기간 운영",
-    "대구 차세대 경영인협의회 교육 기업경영 위한 금융 이해도 제고",
     "대구시, 친환경차 보급 한 달씩 앞당긴다",
     "국토부, 전국 권역별 지방정부·건설업계 릴레이 간담회 개최",
     "대구청년특화고용센터, 대구·경북 청년특화 고용네트워크 발대식 개최",
@@ -1001,6 +999,8 @@
     "영천, 중장기 관광 정책 로드맵 수립 '시동",
     "추경호 본선행… 김부겸과 '보수 텃밭' 대구서 정면승부",
     "대구시, 산단 화재 막는다…'통합 안전관리 협의체' 본격 가동",
-    "경북도, 지하수 우라늄 99% 제거 혁신기술 개발"
+    "경북도, 지하수 우라늄 99% 제거 혁신기술 개발",
+    "대구시, 산단 화재 예방 '총력전' 선포",
+    "구미 주력산업 '공급망 충격' 제각각…맞춤형 전략 절실"
   ]
 }
