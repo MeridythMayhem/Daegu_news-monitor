@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248337",
-    "https://www.gokorea.kr/news/articleView.html?idxno=863634",
-    "https://www.youthdaily.co.kr/news/article.html?no=217412",
-    "https://n.news.naver.com/mnews/article/005/0001843341?sid=102",
     "https://n.news.naver.com/mnews/article/088/0001005669?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248380",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248358",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/088/0001007208?sid=102",
     "https://n.news.naver.com/mnews/article/022/0004123771?sid=102",
     "https://n.news.naver.com/mnews/article/016/0002635573?sid=102",
-    "https://n.news.naver.com/mnews/article/088/0001007314?sid=101"
+    "https://n.news.naver.com/mnews/article/088/0001007314?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015531",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015522",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015530",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015527"
   ],
   "titles": [
-    "부평구, 십정2지구 지적 재조사 사업 조정금 산정 심의",
-    "[기획] 1표에 3만원, 민주주의 유지비는 왜 해마다 올라가나",
-    "\"수도권 소형·지방 대형\"...분양가 부담에 온도차 '뚜렷'",
-    "경주시, 중소기업 기숙사 개선·화재보험료 지원",
     "\"자유무역 시대는 끝났다…방산·반도체·에너지 ETF 지속 투자해야\"[매...",
     "충남도, 우수한 지역 전통주 뽑는다",
     "목포시, 지역 상권 활력 TF 회의 열어",
@@ -1001,6 +997,10 @@
     "[망치질 사라진 대구]건축 허가 반토막, 규모 줄어…\"진행 중 공사도 중...",
     "[단독] 경산시 10만t 매립 폐기물 ‘셀프 면죄부’ 논란",
     "[단독] 李대통령 ‘한국가스공사 부지 용적률 특혜 의혹’ 고발 사건, 檢...",
-    "[가업승계]명의신탁 실제 소유자확인 제도, 명의신탁주식 증여의제 증여..."
+    "[가업승계]명의신탁 실제 소유자확인 제도, 명의신탁주식 증여의제 증여...",
+    "상주, 생활안정 고유가 피해지원금 지급 시작",
+    "영양, 건강검진비 지원사업 가시적 성과",
+    "안동 '청년 구직활동 지원사업' 내달 접수 시작",
+    "구미 '고교인재-지역기업 인턴십 지원사업' 추진"
   ]
 }
