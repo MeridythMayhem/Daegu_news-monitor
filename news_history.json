@@ -1,8 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86044",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248503",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011639",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011641",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011638",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5011633",
@@ -499,12 +496,12 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1299396&inflow=N",
     "https://n.news.naver.com/mnews/article/088/0001007593?sid=102",
     "https://www.sejungilbo.com/news/articleView.html?idxno=58227",
-    "https://n.news.naver.com/mnews/article/022/0004124347?sid=101"
+    "https://n.news.naver.com/mnews/article/022/0004124347?sid=101",
+    "https://n.news.naver.com/mnews/article/082/0001378287?sid=102",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3568759",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1252293"
   ],
   "titles": [
-    "올 수도권에 공공주택 6만호 착공… 상반기에 1만호 첫삽",
-    "충남교육청, 예술활동 복합공간 건립사업 선정",
-    "구미시의회 임시회 개회…조례안 등 24건 심사 돌입",
     "영양署, 범죄 피해자 통합지원 협의체 회의",
     "구미장학재단, 상반기 장학생 347명 선발",
     "포항, 내년 1조 6000억 규모 국비 확보 총력",
@@ -1001,6 +998,9 @@
     "직고용 착수한 포스코, 시작부터 ‘난관’…노조 ‘거부’ 방침",
     "'버스 수급 난항' 혁신도시 DRT 운송사업자 재모집…1차 공고 신청 업체...",
     "이철훈 대구본부세관장 취임…\"수출입기업 총력 지원, 사회안전 위해물...",
-    "“서울 아파트 공급, 구미시 수준 추락”…2027년 ‘아수라장’ 경고 [부..."
+    "“서울 아파트 공급, 구미시 수준 추락”…2027년 ‘아수라장’ 경고 [부...",
+    "[속보] 경주 건천산단 석유류 취급업체 화재로 연기 다량 발생…당국 \"...",
+    "[속보] 경주 건천읍 폐기물 처리업체서 화재...'차량 우회'",
+    "경주시, 방사선환경 로봇실증센터 구축… 원전해체 산업 거점 도약"
   ]
 }
