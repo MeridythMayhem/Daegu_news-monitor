@@ -1,9 +1,5 @@
 {
   "urls": [
-    "http://andongmbc.co.kr/adboard/NewsView81952",
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=201845&mode=view",
-    "https://www.ekn.kr/web/view.php?key=20260415027207311",
-    "https://www.ksmnews.co.kr/news/view.php?idx=600611",
     "https://www.ksmnews.co.kr/news/view.php?idx=600608",
     "https://www.ksmnews.co.kr/news/view.php?idx=600677",
     "https://www.ksmnews.co.kr/news/view.php?idx=600736",
@@ -499,13 +495,13 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=602851",
     "https://www.ksmnews.co.kr/news/view.php?idx=602706",
     "https://www.ksmnews.co.kr/news/view.php?idx=602926",
-    "https://www.ksmnews.co.kr/news/view.php?idx=602795"
+    "https://www.ksmnews.co.kr/news/view.php?idx=602795",
+    "https://n.news.naver.com/mnews/article/016/0002636788?sid=102",
+    "https://n.news.naver.com/mnews/article/023/0003973585?sid=102",
+    "https://n.news.naver.com/mnews/article/448/0000607515?sid=102",
+    "https://www.tbc.co.kr/news/view?pno=20260428140645AE09115&id=205950"
   ],
   "titles": [
-    "R]허가 부서 간부 공무원이 임원으로..포항 의료폐기물 소각장 논란",
-    "허가 부서 간부 공무원이 임원으로..포항 의료폐기물 소각장 논란",
-    "[패트롤] 경주시-영남이공대-DGIST-대구보건대-계명대 동산병원-대구시...",
-    "‘살던 곳서 건강한 노후를’ 예천 통합돌봄 출발",
     "‘구미 장학사업’ 지원 문턱 낮추고 규모 키웠다",
     "구미시의회, 제295회 임시회 인사청문특별위원회 구성",
     "포항시, 소상공인·복지시설 고효율기기 교체 지원",
@@ -1001,6 +997,10 @@
     "중동발 직격탄 해운업계, 유동성 지원 확대",
     "상주시, 고유가 피해지원금 신청 가족관계증명서 수수료 면제",
     "출퇴근 방식 바꾸면 최대 30% 교통비 환급",
-    "성주군, 지역맞춤형 지방소멸대응기금 투자계획 수립 박차"
+    "성주군, 지역맞춤형 지방소멸대응기금 투자계획 수립 박차",
+    "경주 열분해유 제조업체 화재 3시간 만에 진화…인명 피해 없어",
+    "경주 건천산단 제조업체 화재… 3시간 만에 완진",
+    "경북 경주 공장 화재…인명피해 없이 3시간만에 진화",
+    "TK 신공항 6년째 표류...\"생존권 위협\""
   ]
 }
