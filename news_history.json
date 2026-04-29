@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1364859",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=728602",
-    "https://www.yeongnam.com/web/view.php?key=20260414029137884",
-    "https://n.news.naver.com/mnews/article/001/0016025138?sid=101",
     "https://www.asiatime.co.kr/article/20260416500242",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248860",
     "https://www.etoday.co.kr/news/view/2576381",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5016008",
     "https://www.m-i.kr/news/articleView.html?idxno=1368179",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015762",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5016147"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5016147",
+    "https://www.sentv.co.kr/article/view/sentv202604290023",
+    "https://n.news.naver.com/mnews/article/003/0013916159?sid=101",
+    "https://www.cstimes.com/news/articleView.html?idxno=703833",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5016154"
   ],
   "titles": [
-    "(사)구미중소기업협의회·경북북부근로자건강센터, 업무협약 체결",
-    "포스코 협력사 상생협의회, \"'협력사 직원 직고용' 관련 논란 유감\"… '...",
-    "[영남시론] 우주에는 중심이 없다",
-    "포스코 \"대법 판결 존중…소송 결과 상관없이 7천명 직고용 추진\"",
     "대법, 불법파견 소송 고리 끊었다⋯포스코 \"7000명 직고용\"",
     "경북연구원, 2026년 'AI 대전환' 선도…300건 연구사업 추진",
     "국세청, 60년 인사관행 깼다…직원이 직접 뽑은 특별성과자 56명 발탁",
@@ -1001,6 +997,10 @@
     "안동 산불 이후 재난 대응 체계 전환…예방 중심 정책 강화 추진",
     "포항시, 세계 3위 연어기업 '리로이'와 스마트양식 클러스터 협력 논의",
     "청도군, 재정 신속 집행 총력…\"지역경제 회복 마중물\"",
-    "구미상의, 제조업 연구인력 주거비 지원…핵심인재 장기근속 유도"
+    "구미상의, 제조업 연구인력 주거비 지원…핵심인재 장기근속 유도",
+    "덕우전자·드림씨아이에스, 큐리바이오 사업 협력 MOU 체결",
+    "덕우전자-드림씨아이에스, 큐리바이오 사업 협력 MOU",
+    "덕우전자, 드림씨아이에스와 큐리바이오 사업 협력 MOU",
+    "대구·경북, 100억 규모 '광역이음 프로젝트' 추진…초광역 일자리 생태..."
   ]
 }
