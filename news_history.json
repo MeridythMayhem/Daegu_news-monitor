@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/082/0001376446?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249038",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249037",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249029",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249055",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/119/0003086359?sid=102",
     "https://n.news.naver.com/mnews/article/629/0000495953?sid=101",
     "http://www.intn.co.kr/news/articleView.html?idxno=2050508",
-    "https://www.hidomin.com/news/articleView.html?idxno=703607"
+    "https://www.hidomin.com/news/articleView.html?idxno=703607",
+    "https://www.joongangenews.com/news/articleView.html?idxno=516146",
+    "https://www.kukinews.com/article/view/kuk202604300125"
   ],
   "titles": [
-    "대리운전업체 갑질 고발, 부산지방국세청 조사국 직원 특별승진",
-    "김재균 의원, 평택 포승지구 제조기업 투자협약 체결식 참석",
     "유영일 의원 '제6회 안양시 소상공인 희망대상' 수상",
     "이정현 \"광주·전남 메가시티 구축...대기업 몰리는 산업 중심지 만들겠...",
     "KB국민은행, 'SME 현장지원팀' 운영…\"생산적금융 확대\"",
@@ -1001,6 +999,8 @@
     "[인사] 국세청",
     "[인사] 국세청",
     "국세청 30명 조직 상위 2% 반열에 올라…특별승진 4명",
-    "비수도권상의협 \"법인세·근로소득세 차등 개편 필요\""
+    "비수도권상의협 \"법인세·근로소득세 차등 개편 필요\"",
+    "포스코퓨처엠, 1분기 영업익 177억...배터리소재 적자폭 축소",
+    "포스코홀딩스, 1Q 영업익 24.3% 증가한 7100억원…리튬 적자 축소 효과"
   ]
 }
