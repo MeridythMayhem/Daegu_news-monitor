@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249037",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249029",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249055",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249043",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248494",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1248728",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249036",
@@ -499,13 +495,13 @@
     "http://www.intn.co.kr/news/articleView.html?idxno=2050508",
     "https://www.hidomin.com/news/articleView.html?idxno=703607",
     "https://www.joongangenews.com/news/articleView.html?idxno=516146",
-    "https://www.kukinews.com/article/view/kuk202604300125"
+    "https://www.kukinews.com/article/view/kuk202604300125",
+    "https://www.thelec.kr/news/articleView.html?idxno=55946",
+    "https://www.ziksir.com/news/articleView.html?idxno=132617",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=687712",
+    "http://www.ikld.kr/news/articleView.html?idxno=333861"
   ],
   "titles": [
-    "유영일 의원 '제6회 안양시 소상공인 희망대상' 수상",
-    "이정현 \"광주·전남 메가시티 구축...대기업 몰리는 산업 중심지 만들겠...",
-    "KB국민은행, 'SME 현장지원팀' 운영…\"생산적금융 확대\"",
-    "진주시, 고유가 대응 화물·교통 대책 추진…유가보조금 확대",
     "평창군, 자활근로사업단 '백억커피' 본격 운영",
     "[PICK! 이 안건] 백종헌 등 11인 \"우리나라 화장품의 지식재산권 보호해...",
     "경기도, 국방부와 상생발전협의회 개최",
@@ -1001,6 +997,10 @@
     "국세청 30명 조직 상위 2% 반열에 올라…특별승진 4명",
     "비수도권상의협 \"법인세·근로소득세 차등 개편 필요\"",
     "포스코퓨처엠, 1분기 영업익 177억...배터리소재 적자폭 축소",
-    "포스코홀딩스, 1Q 영업익 24.3% 증가한 7100억원…리튬 적자 축소 효과"
+    "포스코홀딩스, 1Q 영업익 24.3% 증가한 7100억원…리튬 적자 축소 효과",
+    "포스코퓨처엠, 1분기 배터리 소재 적자 11억원으로 축소",
+    "포스코홀딩스, 1분기 영업익 7100억…\"리튬 적자 축소 영향\"",
+    "'IBK기업은행 대구 이전설'에 금융노조 거센 반발···조직 대응 준비",
+    "결국은 브랜드… 지방 시세 견인하는 '대장 아파트 법칙' 이어진다"
   ]
 }
