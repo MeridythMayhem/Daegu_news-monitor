@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016026660?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012054",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012014",
     "http://www.segyebiz.com/newsView/20260416523204?OutUrl=naver",
     "https://www.sejungilbo.com/news/articleView.html?idxno=58044",
@@ -499,11 +497,11 @@
     "http://www.metroseoul.co.kr/article/20260501500037",
     "https://www.yeongnam.com/web/view.php?key=20260501022121487",
     "https://www.tbc.co.kr/news/view?pno=20260429135654AE09177&id=206066",
-    "https://www.slist.kr/news/articleView.html?idxno=736367"
+    "https://www.slist.kr/news/articleView.html?idxno=736367",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=836602",
+    "https://n.news.naver.com/mnews/article/088/0001008106?sid=102"
   ],
   "titles": [
-    "밤사이 대구·경북서 공장·주택 화재 잇따라…인명피해 없어",
-    "DGFEZ, 튀르키예 무역사절단 모집…유럽·중동 진출 교두보 마련",
     "가스공사, 생산설비 효율화로 에너지 16% 절감…AI 기반 추가 감축 추진",
     "아이케미스트, 대구한국일보사와 업무협약 체결… 공동사업 협력 확대",
     "대구국세청, 포항 철강 기업인들과 현장간담회…민주원 청장 \"기업인들...",
@@ -1001,6 +999,8 @@
     "포스코홀딩스, 리튬 적자 축소에 실적 반등…호주 광산 투자로 공급망 ...",
     "“일자리에 달린 대구의 미래” 김부겸-추경호의 ‘노동절’ 메시지는...",
     "대구 취수원 4년 만에 타당성조사..관건은 수질·수량 확보",
-    "[은행가] 하나금융-포스코-두나무 블록체인 서비스 MOU 外"
+    "[은행가] 하나금융-포스코-두나무 블록체인 서비스 MOU 外",
+    "포스코홀딩스, 1Q 영업익 24%↑...리튬 사업 적자 축소",
+    "소원관문=갓바위, 공룡관문=도심 화석, 치맥관문=닭벌판(달구벌)…대법..."
   ]
 }
