@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.yeongnam.com/web/view.php?key=20260419023008620",
     "http://www.newslock.co.kr/news/articleView.html?idxno=128883",
     "https://www.yeongnam.com/web/view.php?key=20260419021316732",
     "https://www.yeongnam.com/web/view.php?key=20260419023528492",
@@ -499,10 +498,10 @@
     "https://n.news.naver.com/mnews/article/005/0001847317?sid=102",
     "https://n.news.naver.com/mnews/article/469/0000929224?sid=102",
     "http://www.lawissue.co.kr/view.php?ud=2026050609511942809a8c8bf58f_12",
-    "http://www.fieldnews.kr/news/articleView.html?idxno=28371"
+    "http://www.fieldnews.kr/news/articleView.html?idxno=28371",
+    "http://www.newsmaker.or.kr/news/articleView.html?idxno=176762"
   ],
   "titles": [
-    "[이슈 분석]개복·복강경 넘어 로봇으로…구병원, 대구·경북 외과수술...",
     "포스코이앤씨, 중동발 위기 속 '100일 에너지절약 챌린지' 추진",
     "W병원 앞세운 한국, 세계 미세수술 학술대회 2030 경주 유치",
     "“시혜적 복지 넘어 신산업으로”…디지털포용법 시행, 지역 딥테크엔 ...",
@@ -1001,6 +1000,7 @@
     "대구노동청 11~15일 끼임사고 초고위험 사업장 점검",
     "대구노동청, 제조업 끼임사고 불시점검 집중 주간 운영",
     "대법원, 임금 소송 한국수력원자력 패소 부분 파기환송",
-    "[단독] 국세청 \"여비 개인 수령 없다\"…인사혁신처 \"일비·식비는 출장자..."
+    "[단독] 국세청 \"여비 개인 수령 없다\"…인사혁신처 \"일비·식비는 출장자...",
+    "서부지방산림청, 춘향제 대동길놀이와 연계한 산불예방 캠페인"
   ]
 }
