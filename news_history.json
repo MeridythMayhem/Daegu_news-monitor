@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012708",
-    "https://n.news.naver.com/mnews/article/088/0001006202?sid=102",
     "https://www.apnews.kr/news/articleView.html?idxno=3047984",
     "https://www.yeongnam.com/web/view.php?key=20260419023008620",
     "http://www.newslock.co.kr/news/articleView.html?idxno=128883",
@@ -499,11 +497,11 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4071924",
     "https://www.m-i.kr/news/articleView.html?idxno=1369849",
     "https://n.news.naver.com/mnews/article/657/0000051139?sid=102",
-    "https://n.news.naver.com/mnews/article/005/0001847317?sid=102"
+    "https://n.news.naver.com/mnews/article/005/0001847317?sid=102",
+    "https://n.news.naver.com/mnews/article/469/0000929224?sid=102",
+    "http://www.lawissue.co.kr/view.php?ud=2026050609511942809a8c8bf58f_12"
   ],
   "titles": [
-    "안동, 맞춤형 전문 컨설팅 지원사업 추진",
-    "경북경찰청 공공안전·수사·생활안전부장 교체…정부, 경무관 전보 인...",
     "포스코이앤씨, '아파트 중심 캠페인'으로 국가 에너지 위기 대응한다",
     "[이슈 분석]개복·복강경 넘어 로봇으로…구병원, 대구·경북 외과수술...",
     "포스코이앤씨, 중동발 위기 속 '100일 에너지절약 챌린지' 추진",
@@ -1001,6 +999,8 @@
     "[헤리티지 경북, 오래된 미래를 걷다] 1. 영천 인종태실",
     "통신 3사, 인공지능 시대 필수 인프라 AIDC 선점 위해 투자·기술 총력",
     "경북 고령군 성산면에 공장 화재···1억 6,500만 원 피해",
-    "대구노동청 11~15일 끼임사고 초고위험 사업장 점검"
+    "대구노동청 11~15일 끼임사고 초고위험 사업장 점검",
+    "대구노동청, 제조업 끼임사고 불시점검 집중 주간 운영",
+    "대법원, 임금 소송 한국수력원자력 패소 부분 파기환송"
   ]
 }
