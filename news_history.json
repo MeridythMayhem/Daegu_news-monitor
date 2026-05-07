@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=601193",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601171",
-    "https://www.tbc.co.kr/news/view?pno=20260419183520AE08722&id=205598",
     "https://www.tbc.co.kr/news/view?pno=20260419164052AE08716&id=205597",
     "https://www.ksmnews.co.kr/news/view.php?idx=601229",
     "https://n.news.naver.com/mnews/article/088/0001006213?sid=102",
@@ -499,12 +496,12 @@
     "https://www.yeongnam.com/web/view.php?key=20260506027112295",
     "http://mcnews.co.kr/86114",
     "https://www.m-i.kr/news/articleView.html?idxno=1370092",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018243"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018243",
+    "https://mdtoday.co.kr/news/view/1065586864802661",
+    "https://www.dkilbo.com/news/articleView.html?idxno=543774",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018516"
   ],
   "titles": [
-    "구미시, 동유럽 공략 K-푸드 수출 본격화",
-    "포항시, 낙동강수계 주민지원사업 1억8000만원 투입 본격 추진",
-    "\"무소속 단일화 반대..내가 대구 발전 이끌 적임자\"",
     "김부겸 1호 공약 \" '대구판 판교밸리' 조성..국민성장펀드 15조 유치\"",
     "대구시, 로봇기반 공간컴퓨팅 창업 혁신거점 도약",
     "TK 공안·생안부장·수성서장 교체…대구경찰청 전보인사",
@@ -1001,6 +998,9 @@
     "국민통합위에 접수된 국민 제안, ‘대구’ 키워드로 살펴보니…",
     "[단독] ‘선금 축소’에 ‘사업별 통장’까지 만들라니… 건설업계 “탁...",
     "경주 외동일반산단 '아름다운 거리' 준공 임박",
-    "국립낙동강생물자원관, 미활용 특허 기술나눔…창업기업 사업화 지원"
+    "국립낙동강생물자원관, 미활용 특허 기술나눔…창업기업 사업화 지원",
+    "포스코홀딩스, 15년 불법파견 소송 패소…장인화 리더십 시험대",
+    "대구 바이오, '연구는 끝났다' 이제 돈을 만들 때다",
+    "경주시, 해오름동맹 상생협의회 개최…울산·포항·경주 공동발전 협력..."
   ]
 }
