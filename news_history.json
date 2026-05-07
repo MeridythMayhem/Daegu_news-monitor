@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.kbsm.net/news/view.php?idx=516729",
-    "https://n.news.naver.com/mnews/article/277/0005752022?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013036",
-    "http://fpn119.co.kr/249950",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013101",
     "https://n.news.naver.com/mnews/article/003/0013898657?sid=102",
     "https://www.hidomin.com/news/articleView.html?idxno=702125",
@@ -499,13 +495,13 @@
     "https://www.eroun.net/news/articleView.html?idxno=80028",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072200",
     "https://www.yeongnam.com/web/view.php?key=20260507025350772",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072205"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072205",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3575958",
+    "https://n.news.naver.com/mnews/article/088/0001008958?sid=101",
+    "https://n.news.naver.com/mnews/article/654/0000179464?sid=102",
+    "http://www.financialreview.co.kr/news/articleView.html?idxno=42116"
   ],
   "titles": [
-    "포항에 83억 투자 유치…첨단 금속소재 기업 공장 신설",
-    "비케이엠솔, 포항융합기술지구에 83억 들여 공장 건립…양해각서 체결",
-    "경북도, 무료로 떠나는 대한민국 경제성장 현장 탐방",
-    "대구 달성군 폐기물 처리 공장 화재… 인명피해 없어",
     "DGFEZ·포항시, 비케이엠솔과 투자협약…포항에 제조시설 구축",
     "비케이엠솔, 포항에 83억 들여 '합금 분발·선재 공장' 신설",
     "포항시, 첨단 금속소재 분야 유망기업 ㈜비케이엠솔과 83억 규모 MOU 체결",
@@ -1001,6 +997,10 @@
     "금속노조, 포스코 장인화 회장 고발… '불법을 합법으로 세탁하지 마라...",
     "영주 산업 해법 찾기…원전·청년·기업 상생모델 머리 맞댔다",
     "[지속 가능한 창작 생태계를 만들자 ③·끝] 예술 기틀 바로 세워야 ‘...",
-    "\"기업과 시민 함께 살아야\"…영주포럼서 쏟아진 주민 목소리"
+    "\"기업과 시민 함께 살아야\"…영주포럼서 쏟아진 주민 목소리",
+    "대구광역시, \"AI 팩토리로 제조 공정 혁신에 나선다\"",
+    "삼성전자 노조는 적자 땐 월급 반납할 건가 [가스인라이팅]",
+    "금강대기 10일 '킥오프' 강릉 축구열기 후끈",
+    "[역사속 오늘리뷰] 5월 7일 LG폴리머스인디아 가스 누출 사고"
   ]
 }
