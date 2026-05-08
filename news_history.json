@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.joongdo.co.kr/web/view.php?key=20260420010006184",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249726",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601314",
     "https://www.ksmnews.co.kr/news/view.php?idx=601329",
     "https://www.ksmnews.co.kr/news/view.php?idx=601333",
     "https://www.ksmnews.co.kr/news/view.php?idx=601378",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/079/0004144696?sid=102",
     "https://www.businessplus.kr/news/articleView.html?idxno=111552",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018715",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018864"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5018864",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=720043",
+    "https://n.news.naver.com/mnews/article/088/0001008971?sid=100",
+    "http://www.ikld.kr/news/articleView.html?idxno=334185"
   ],
   "titles": [
-    "비케이엠솔, 포항융합기술산업지구에 합금분말공장 건립",
-    "안동시, 파크골프장 확충 및 운영체계 개선",
-    "국토부, 건설자재 수급 불안에 긴급 대응",
     "영양군, 교통오지 탈출 ‘신호탄’…국도31호선 선형개량 본격 시동",
     "영양군, 5년간 청년 창업업체 39개 발굴",
     "경북 글로벌 진출 지원 프로그램 '2026년 글로벌 스타트업 패키지' 참여...",
@@ -1001,6 +998,9 @@
     "중국 심천전자상회 대표단 경북 방문…Post-APEC 투자 유치 본격화",
     "[AX2.0 대전환]\"쇳물도 AI가 끓인다\"…포스코 '인텔리전트 팩토리'로",
     "구미시, 로봇 국가첨단전략산업 특화단지 유치 총력",
-    "포항시·포항상의·RIST, 중소기업 기술지원 협력 강화"
+    "포항시·포항상의·RIST, 중소기업 기술지원 협력 강화",
+    "[THE Biz&amp;CEO] 송치영 포스코이앤씨 사장의 '안전·성장' 해법",
+    "김인만 \"오세훈·정원오, 부동산 공약 비슷…체감 안 돼\"",
+    "행정·바이오·교통 호재 몰리는 안동… 옥동 등 주거선호지역 재조명"
   ]
 }
