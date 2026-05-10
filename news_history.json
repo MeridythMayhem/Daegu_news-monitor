@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=601446",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601469",
     "https://www.ksmnews.co.kr/news/view.php?idx=601343",
     "https://www.ksmnews.co.kr/news/view.php?idx=601364",
     "https://www.ksmnews.co.kr/news/view.php?idx=601360",
@@ -499,11 +497,11 @@
     "http://www.ikld.kr/news/articleView.html?idxno=334185",
     "https://www.yeongnam.com/web/view.php?key=20260509029479814",
     "https://www.kbsm.net/news/view.php?idx=518417",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1254907"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1254907",
+    "https://n.news.naver.com/mnews/article/009/0005677737?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1254866"
   ],
   "titles": [
-    "경북창경센터, 소상공인 협업 파트너 모집",
-    "꽉 막힌 기름길에 ‘에너지 비상등’…‘자원 주권’ 서둘러야",
     "영덕 로하스센터, AI 활용 역량강화 연수",
     "구미시, 중앙부처 5곳 돌며 국비 반영 ‘잰걸음’",
     "김천시, 지적재조사 현장상담실 연장 운영",
@@ -1001,6 +999,8 @@
     "행정·바이오·교통 호재 몰리는 안동… 옥동 등 주거선호지역 재조명",
     "서울대병원 웃을 때 경북대병원은 울었다…‘의료 수익’에 가려진 지방...",
     "대구노동청, 제조업 ‘끼임 사고’ 막는다···11일부터 불시점검",
-    "영천시, 16~18세 여성청소년 생리용품 보편 지원 시행"
+    "영천시, 16~18세 여성청소년 생리용품 보편 지원 시행",
+    "빅텍크 ‘年1000조 AI 투자’에 웃는 동아시아, 고유가 늪에 빠진 유럽",
+    "광주시, 고액 체납자 부동산 공매 추진"
   ]
 }
