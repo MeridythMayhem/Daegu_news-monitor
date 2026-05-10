@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=601360",
-    "http://www.dynews.co.kr/news/articleView.html?idxno=847505",
     "https://www.tbc.co.kr/news/view?pno=20260420124500AE08739&id=205634",
     "https://www.youthdaily.co.kr/news/article.html?no=217706",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013139",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/009/0005677737?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1254866",
     "https://www.yeongnam.com/web/view.php?key=20260510027460417",
-    "https://n.news.naver.com/mnews/article/088/0001009200?sid=104"
+    "https://n.news.naver.com/mnews/article/088/0001009200?sid=104",
+    "https://n.news.naver.com/mnews/article/082/0001379988?sid=101",
+    "https://www.yeongnam.com/web/view.php?key=20260510020381918"
   ],
   "titles": [
-    "김천시, 지적재조사 현장상담실 연장 운영",
-    "내달 세종·충남지역 입주물량 없다...대전 1349세대·충북 874세대 '집들...",
     "'천 원 아침밥, 반값 점심'...대학 학생식당 인기",
     "철도 부문 실적 반등에도...현대로템, 입찰 제한에 소송 리스크 '첩첩산...",
     "상주 문화예술회관 건립 '순항'…2027년 11월 준공 목표",
@@ -1001,6 +999,8 @@
     "빅텍크 ‘年1000조 AI 투자’에 웃는 동아시아, 고유가 늪에 빠진 유럽",
     "광주시, 고액 체납자 부동산 공매 추진",
     "[흉물된 디지털 TK ①] 찾을 수도 쓸모도 없는 대구의 메타버스·AI",
-    "다카이치 日 총리, 19~20일 안동 온다"
+    "다카이치 日 총리, 19~20일 안동 온다",
+    "우리마트 기업회생 개시… 정상화까진 진통 예고",
+    "아파트 이름이 뭐길래…대구 공공주택 브랜드 ‘청아람’ 18년만에 교체"
   ]
 }
