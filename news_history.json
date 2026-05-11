@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1366318",
-    "https://n.news.naver.com/mnews/article/629/0000493287?sid=102",
-    "http://www.kdfnews.com/news/articleView.html?idxno=182364",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250181",
     "http://www.newstnt.com/news/articleView.html?idxno=607605",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250160",
@@ -499,12 +496,12 @@
     "https://www.insight.co.kr/news/553562",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072483",
     "https://www.businesspost.co.kr/BP?command=article_view&num=437542",
-    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026051100071&story_seq=0&soCode=114&socttSn=NS2026051100071&socttSeq=0"
+    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026051100071&story_seq=0&soCode=114&socttSn=NS2026051100071&socttSeq=0",
+    "http://www.lawissue.co.kr/view.php?ud=2026051118503648069a8c8bf58f_12",
+    "https://n.news.naver.com/mnews/article/029/0003026071?sid=101",
+    "https://www.eroun.net/news/articleView.html?idxno=80330"
   ],
   "titles": [
-    "\"훈련은 끝났지만\"…감천면 산불 대응, 장비·인력 현실은 뒷전",
-    "울진군, 방송 타고 관광·특산물 알린다",
-    "한국가스공사, 안전·청렴 결의...\"중대재해 막고 신뢰 높인다\".",
     "대전 노루벌 지방정원 조성, 중앙투자심사 통과",
     "[동정] 심재국 교수, 신간 'AI 도시, 자연을 닮다' 출간",
     "金총리 \"전쟁 추경의 생명은 속도\"…지방정부 집행·중동 대응 총력 주...",
@@ -1001,6 +998,9 @@
     "포스코 7000명 직고용 놓고 노사 조율 고비...회사는 \"15년 소송·안전 혁...",
     "포스코 직고용 후폭풍…노조연대 \"현장 혼란·박탈감 키웠다\"",
     "'하청 직고용 반발' 포스코 노조 중노위에 조정신청, 사측 \"노조와 지속...",
-    "[매일신문 조규덕 기자의 위클리TK] 이승환 손해배상 1심 결과, 홈플러스..."
+    "[매일신문 조규덕 기자의 위클리TK] 이승환 손해배상 1심 결과, 홈플러스...",
+    "[인사]대구경찰청-경정급",
+    "[기획] 하청 직고용 반발… 포스코노조 파업 경고",
+    "포스코노조연대, '7000명 직고용 발표는 경영 실패… 현장 노동자 희생..."
   ]
 }
