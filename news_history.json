@@ -1,10 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86066",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250075",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250134",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013413",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013424",
     "https://www.m-i.kr/news/articleView.html?idxno=1366318",
     "https://n.news.naver.com/mnews/article/629/0000493287?sid=102",
     "http://www.kdfnews.com/news/articleView.html?idxno=182364",
@@ -499,14 +494,14 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5019580",
     "https://www.koreaittimes.com/news/articleView.html?idxno=153663",
     "https://www.thepublic.kr/news/articleView.html?idxno=303977",
-    "https://www.idaegu.com/news/articleView.html?idxno=661977"
+    "https://www.idaegu.com/news/articleView.html?idxno=661977",
+    "https://n.news.naver.com/mnews/article/088/0001009429?sid=102",
+    "https://www.insight.co.kr/news/553562",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072483",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=437542",
+    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026051100071&story_seq=0&soCode=114&socttSn=NS2026051100071&socttSeq=0"
   ],
   "titles": [
-    "한컴, 올해 단독 매출 2천억 시대 연다… 창사 이래 최초",
-    "광양시 드림스타트, 아동 대상 금융교육·생활체육 프로그램 성료",
-    "동해시, 지적재조사사업 완료...주민 재산권 불편 해소",
-    "동해시, 1,153필지 지적재조사 완료…재산권 불편 해소 기대",
-    "영주시, 중동 정세 여파 아스콘 수급 점검…건설현장 대응 강화",
     "\"훈련은 끝났지만\"…감천면 산불 대응, 장비·인력 현실은 뒷전",
     "울진군, 방송 타고 관광·특산물 알린다",
     "한국가스공사, 안전·청렴 결의...\"중대재해 막고 신뢰 높인다\".",
@@ -1001,6 +996,11 @@
     "영양산나물축제 성료…4일간 12만 명 방문·60억 경제효과",
     "포스코 노사 갈등 격화… 노조, 중노위 조정 신청 착수",
     "포스코 직고용 갈등 확산…원청 노조 중노위 신청에 파업 우려 고조",
-    "모노레일 유력해진 대구도시철도 4호선...국비 반납 수순 밟나"
+    "모노레일 유력해진 대구도시철도 4호선...국비 반납 수순 밟나",
+    "포스코노조, 협력사 직원 7천명 직고용 갈등…11일 중노위 조정 신청",
+    "포스코 7000명 직고용 놓고 노사 조율 고비...회사는 \"15년 소송·안전 혁...",
+    "포스코 직고용 후폭풍…노조연대 \"현장 혼란·박탈감 키웠다\"",
+    "'하청 직고용 반발' 포스코 노조 중노위에 조정신청, 사측 \"노조와 지속...",
+    "[매일신문 조규덕 기자의 위클리TK] 이승환 손해배상 1심 결과, 홈플러스..."
   ]
 }
