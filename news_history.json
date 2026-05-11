@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250029",
-    "https://www.youthdaily.co.kr/news/article.html?no=217777",
-    "https://www.m-i.kr/news/articleView.html?idxno=1366260",
     "http://mcnews.co.kr/86066",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250075",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250134",
@@ -499,12 +496,12 @@
     "https://www.ajunews.com/view/20260511143157214",
     "https://n.news.naver.com/mnews/article/138/0002227440?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5019590",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5019580"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5019580",
+    "https://www.koreaittimes.com/news/articleView.html?idxno=153663",
+    "https://www.thepublic.kr/news/articleView.html?idxno=303977",
+    "https://www.idaegu.com/news/articleView.html?idxno=661977"
   ],
   "titles": [
-    "생존 넘어 성장으로… 인천시, 소상공인 통합 지원체계 강화(上)",
-    "LH 전세임대형 든든주택 4천200호 공급...21일부터 입주자 모집",
-    "한진, 경북 지역농가 물류비 경감 나서…고령 농가·대형 농산물 맞춤",
     "한컴, 올해 단독 매출 2천억 시대 연다… 창사 이래 최초",
     "광양시 드림스타트, 아동 대상 금융교육·생활체육 프로그램 성료",
     "동해시, 지적재조사사업 완료...주민 재산권 불편 해소",
@@ -1001,6 +998,9 @@
     "하청에 이어 원청까지...장인화號 포스코, 창사 이후 첫 파업 위기감 고...",
     "포스코 노조, 중노위 조정 신청…협력사 7000명 직고용에 노사 갈등 격화",
     "영천시, 여성 청소년 생리용품 보편 지원 시행…월 1만4천 원 바우처 지...",
-    "영양산나물축제 성료…4일간 12만 명 방문·60억 경제효과"
+    "영양산나물축제 성료…4일간 12만 명 방문·60억 경제효과",
+    "포스코 노사 갈등 격화… 노조, 중노위 조정 신청 착수",
+    "포스코 직고용 갈등 확산…원청 노조 중노위 신청에 파업 우려 고조",
+    "모노레일 유력해진 대구도시철도 4호선...국비 반납 수순 밟나"
   ]
 }
