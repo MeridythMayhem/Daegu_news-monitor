@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250160",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250132",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250179",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250150",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250167",
     "https://n.news.naver.com/mnews/article/382/0001269483?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250174",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/029/0003026071?sid=101",
     "https://www.eroun.net/news/articleView.html?idxno=80330",
     "https://www.yeongnam.com/web/view.php?key=20260511027253332",
-    "https://www.yeongnam.com/web/view.php?key=20260511023243386"
+    "https://www.yeongnam.com/web/view.php?key=20260511023243386",
+    "https://n.news.naver.com/mnews/article/052/0002351734?sid=101",
+    "http://mcnews.co.kr/86134",
+    "http://mcnews.co.kr/86129",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1255080"
   ],
   "titles": [
-    "金총리 \"전쟁 추경의 생명은 속도\"…지방정부 집행·중동 대응 총력 주...",
-    "전남도, 중동상황 비상경제 대응·민생 안정 총력",
-    "강원특별자치도 '불가사리' 친환경 제설제 활용 박차",
-    "'반도체 효과' 4월 수출 1~20일 기준 역대 최대…원유 수입 3개월 연속 ...",
     "과천시, 주암지구 데이터센터 입지 재검토 요구",
     "김천, 전국 수영 열기 정점… ‘제98회 동아수영대회’ 성황리 마무리",
     "의왕시, 오전동 노후 공업지역 광역교통 거점 추진",
@@ -1001,6 +997,10 @@
     "[기획] 하청 직고용 반발… 포스코노조 파업 경고",
     "포스코노조연대, '7000명 직고용 발표는 경영 실패… 현장 노동자 희생...",
     "[르포: 대구 바닥민심을 훑다] 수성알파시티 IT직장인들 “주차·정주여...",
-    "설계 확정·시공권까지 정한 ‘도시철도 4호선’ 계약 해지 가능할까?"
+    "설계 확정·시공권까지 정한 ‘도시철도 4호선’ 계약 해지 가능할까?",
+    "[스타트 브리핑] '영업이익의 N% 성과급' 못박으면, 통상임금 후폭풍",
+    "1분기 부동산서비스산업 BSI 62.7… 업계 “경기 비관적”",
+    "“청약통장 84점 만점자 속출”… 당첨자 전수조사 실시",
+    "'반도체 슈퍼사이클'에…5월 초 수출 43.7% 급증 '역대 최대'"
   ]
 }
