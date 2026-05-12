@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/382/0001269483?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250174",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250193",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250199",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013519",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013541",
@@ -499,12 +496,12 @@
     "http://mcnews.co.kr/86134",
     "http://mcnews.co.kr/86129",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1255080",
-    "https://n.news.naver.com/mnews/article/030/0003426405?sid=102"
+    "https://n.news.naver.com/mnews/article/030/0003426405?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5019750",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5019714",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5019735"
   ],
   "titles": [
-    "김천, 전국 수영 열기 정점… ‘제98회 동아수영대회’ 성황리 마무리",
-    "의왕시, 오전동 노후 공업지역 광역교통 거점 추진",
-    "김진경 경기도의회 의장, 민생경제 위기 대응 강조",
     "평택시, 2050 탄소중립 녹색성장위원회 출범",
     "'국제그린에너지엑스포' 22일 개막…글로벌 에너지 기술 총집결",
     "영천, 성별영향평가 대면 컨설팅 실시",
@@ -1001,6 +998,9 @@
     "1분기 부동산서비스산업 BSI 62.7… 업계 “경기 비관적”",
     "“청약통장 84점 만점자 속출”… 당첨자 전수조사 실시",
     "'반도체 슈퍼사이클'에…5월 초 수출 43.7% 급증 '역대 최대'",
-    "CIS케미칼-엘앤에프, LFP·NCM 리사이클링 협력 MOU…자원순환형 밸류체..."
+    "CIS케미칼-엘앤에프, LFP·NCM 리사이클링 협력 MOU…자원순환형 밸류체...",
+    "안동시, 공공배달앱 '땡겨요' 정식 도입…수수료 2%로 상생 플랫폼 구축",
+    "경북도, 150조 '국민성장펀드' 선점 총력…핵심 프로젝트 11건 발굴",
+    "구미대, 교육부 'AID 전환 중점 전문대학' 선정…AI 인재 1만명 양성"
   ]
 }
