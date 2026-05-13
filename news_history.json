@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.hidomin.com/news/articleView.html?idxno=702422",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=569524",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250558",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250436",
     "http://mcnews.co.kr/86074",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250570",
@@ -499,12 +496,12 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5020414",
     "https://www.m-i.kr/news/articleView.html?idxno=1372477",
     "https://www.m-i.kr/news/articleView.html?idxno=1372468",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072666"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072666",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256057",
+    "https://n.news.naver.com/mnews/article/009/0005679440?sid=101",
+    "https://www.idaegu.com/news/articleView.html?idxno=662138"
   ],
   "titles": [
-    "포항환경련, 청하의료폐기물 인허가 의혹…\"퇴직 공무원, 사업체 이사로...",
-    "[속보] 이수페타시스 VI 두 번 터졌다…\"위아래로 흔든다\" 변동성 폭발",
-    "이천시 '쿠팡 대규모 채용 박람회' 개최...230명 규모 채용",
     "화성특례시 '영유아 성장발달수당' 지급",
     "동서발전, ‘월드 아이티 쇼’ 참가… ‘에너지 플랫폼 미래’ 제시",
     "평창군 농수산식품수출협회, 미국 트로닉 홀딩스와 수출 계약 체결",
@@ -1001,6 +998,9 @@
     "포항시, 고유가 피해지원금 2차 접수…18일부터 신청 시작",
     "안동레이크GC, '9홀 셀프라운드' 도입",
     "경주시, 딥테크 스타트업 유치 본격화",
-    "신라 삼보·삼기 재조명…경주서 '2026 경북문화포럼' 열린다"
+    "신라 삼보·삼기 재조명…경주서 '2026 경북문화포럼' 열린다",
+    "고성군 '제40회 회장기 전국궁도대회' 15일 개막",
+    "\"헌 크록스 신발 반납하면 기부·재사용 … 지구 위한 발걸음이죠\"",
+    "김부겸 보수 외연 확장, 박근혜 전 대통령 예방 요청…\"언제든 맞춰 찾..."
   ]
 }
