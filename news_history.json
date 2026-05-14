@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=601797",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601820",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601837",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601892",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601894",
     "https://www.tbc.co.kr/news/view?pno=20260422165948AE08874&id=205737",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=242167",
     "https://n.news.naver.com/mnews/article/088/0001006788?sid=102",
@@ -499,14 +494,14 @@
     "https://n.news.naver.com/mnews/article/138/0002227830?sid=105",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256354",
     "https://www.kpinews.kr/newsView/1065579018601273",
-    "https://n.news.naver.com/mnews/article/022/0004128115?sid=102"
+    "https://n.news.naver.com/mnews/article/022/0004128115?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256350",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256403",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5020783",
+    "https://enter.etoday.co.kr/news/view/297346",
+    "https://dealsite.co.kr/articles/161843"
   ],
   "titles": [
-    "구미시, ‘로컬팩’으로 소상공인 브랜드 육성",
-    "김천시, 오는 27일부터 ‘고유가 피해지원금 지급’ 본격 개시",
-    "경북창경센터, ‘모두의 창업’ 전국 순회 설명회 경북편 성료",
-    "대구서부고용센터, 보건·의료분야 채용행사 개최",
-    "대구고용노동청, 취약계층 권리보호ㆍ민생안정 위해 추경예산 신속 집행...",
     "재생에너지도 AI가 화두...그린에너지엑스포 개막",
     "[안전상황실·23일] 경북서 공장·사무실 화재 3건",
     "\"포항 의료폐기물 소각장 인허가권자, 업체 재취업 의혹\"",
@@ -1001,6 +996,11 @@
     "웨이브에서 지역방송도 본다…\"일상 플랫폼으로 도약\"",
     "경기도 'AI 중심대학' 가천대·성균관대 선정",
     "[노성열의 AI경제] 청년 실업과 인공지능(AI) 세금",
-    "[단독] 경산 시유지 옹벽 부수고 ‘포크레인’ 동원해 무단 훼손…지자..."
+    "[단독] 경산 시유지 옹벽 부수고 ‘포크레인’ 동원해 무단 훼손…지자...",
+    "경기도 4차산업혁명센터 'C4IR Korea 멤버십 프로그램' 추진",
+    "성남시 '물빛정원' 우수 행정사례",
+    "영양군, 기본소득 거점 가맹점 운영…주민 소비 편의 확대",
+    "웨이브, 지역 민영 방송 뉴스 대폭 확충…뉴스 채널 라인업 확대",
+    "[IT는 지금] KT, AICC 솔루션 '에이센' CSAP 인증 갱신 外"
   ]
 }
