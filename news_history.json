@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250651",
-    "https://www.yeongnam.com/web/view.php?key=20260422027409550",
-    "https://www.ksmnews.co.kr/news/view.php?idx=601766",
     "https://www.ksmnews.co.kr/news/view.php?idx=601797",
     "https://www.ksmnews.co.kr/news/view.php?idx=601820",
     "https://www.ksmnews.co.kr/news/view.php?idx=601837",
@@ -499,12 +496,12 @@
     "https://www.etoday.co.kr/news/view/2584423",
     "https://www.sentv.co.kr/article/view/sentv202605140012",
     "http://www.ftoday.co.kr/news/articleView.html?idxno=358915",
-    "https://n.news.naver.com/mnews/article/138/0002227830?sid=105"
+    "https://n.news.naver.com/mnews/article/138/0002227830?sid=105",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256354",
+    "https://www.kpinews.kr/newsView/1065579018601273",
+    "https://n.news.naver.com/mnews/article/022/0004128115?sid=102"
   ],
   "titles": [
-    "IBK기업은행, '지속가능금융 최우수 은행' 3년 연속 수상",
-    "100t 1억4천만원 폴리에틸렌 2억5천만원까지 올라…실물경제는 이미 고...",
-    "영덕군, 원전 유치 통합 대응 체계 ‘전면 강화’",
     "구미시, ‘로컬팩’으로 소상공인 브랜드 육성",
     "김천시, 오는 27일부터 ‘고유가 피해지원금 지급’ 본격 개시",
     "경북창경센터, ‘모두의 창업’ 전국 순회 설명회 경북편 성료",
@@ -1001,6 +998,9 @@
     "웨이브, 지역방송 뉴스 대거 추가⋯“전국 뉴스부터 우리 동네 소식까지...",
     "웨이브, 지역 뉴스 대폭 확대…“중앙·지역 한곳서 본다”",
     "웨이브, 지역까지 뉴스 네트워크 촘촘히 구축",
-    "웨이브에서 지역방송도 본다…\"일상 플랫폼으로 도약\""
+    "웨이브에서 지역방송도 본다…\"일상 플랫폼으로 도약\"",
+    "경기도 'AI 중심대학' 가천대·성균관대 선정",
+    "[노성열의 AI경제] 청년 실업과 인공지능(AI) 세금",
+    "[단독] 경산 시유지 옹벽 부수고 ‘포크레인’ 동원해 무단 훼손…지자..."
   ]
 }
