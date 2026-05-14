@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250955",
     "https://www.ibabynews.com/news/articleView.html?idxno=150784",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250980",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014486",
@@ -499,10 +498,10 @@
     "https://n.news.naver.com/mnews/article/052/0002353065?sid=102",
     "https://n.news.naver.com/mnews/article/448/0000611575?sid=102",
     "https://n.news.naver.com/mnews/article/214/0001498999?sid=102",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072869"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072869",
+    "https://www.ksmnews.co.kr/news/view.php?idx=605159"
   ],
   "titles": [
-    "가평 자라섬서 직거래 장터 '바로마켓' 열린다",
     "[제약·바이오 트렌드] 광동제약, 사내 중고거래 '보물장터'로 일상 속 ...",
     "박웅두 \"조상래 후보, 군 공유재산 무상거주 특혜 의혹\"…후보직 사퇴 ...",
     "\"위기 상황 속 더 탄탄하게\"…도로공사, '비상경영체제' 돌입",
@@ -1001,6 +1000,7 @@
     "경찰, '신안산선 사망 사고' 포스코이앤씨 현장소장 피의자 조사",
     "경찰, '여의도 신안산선 사망사고' 포스코이앤씨 소장 피의자 조사",
     "신안산선 사망 사고 5개월 만에 포스코이앤씨 관계자 첫 조사",
-    "\"전국 로컬푸드 한자리에\"…경북 농축수산물 판매대전 수원서 개최"
+    "\"전국 로컬푸드 한자리에\"…경북 농축수산물 판매대전 수원서 개최",
+    "경북, AI·가상융합으로 관광 AX(인공지능 전환)시대 연다"
   ]
 }
