@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014411",
-    "https://www.idaegu.com/news/articleView.html?idxno=661043",
-    "https://www.namdonews.com/news/articleView.html?idxno=908416",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250921",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250955",
     "https://www.ibabynews.com/news/articleView.html?idxno=150784",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250980",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5020904",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5020965",
     "https://n.news.naver.com/mnews/article/421/0008945598?sid=102",
-    "https://www.newscj.com/news/articleView.html?idxno=3400861"
+    "https://www.newscj.com/news/articleView.html?idxno=3400861",
+    "https://n.news.naver.com/mnews/article/052/0002353065?sid=102",
+    "https://n.news.naver.com/mnews/article/448/0000611575?sid=102",
+    "https://n.news.naver.com/mnews/article/214/0001498999?sid=102",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072869"
   ],
   "titles": [
-    "경북문화관광공사, 수소연료전지 폐열로 골프장 운영…세계 첫 시도",
-    "[인사] 대구·경북 경찰청",
-    "포스코 직고용 갈등 격화…노조 단체행동 돌입",
-    "홍천군, 기업 맞춤형 일자리 매칭 '활발'",
     "가평 자라섬서 직거래 장터 '바로마켓' 열린다",
     "[제약·바이오 트렌드] 광동제약, 사내 중고거래 '보물장터'로 일상 속 ...",
     "박웅두 \"조상래 후보, 군 공유재산 무상거주 특혜 의혹\"…후보직 사퇴 ...",
@@ -1001,6 +997,10 @@
     "에스앤아이, 대구서 '중대형 업무시설 매각' 중개 성공",
     "포항시, AI·BIM 활용 건축행정 교육 실시",
     "경찰, '신안산선 공사 사망 사고' 포스코이앤씨 현장소장 소환",
-    "[깊이 읽는 경제] 1948년 헌법의 답, 2026년 삼성의 질문"
+    "[깊이 읽는 경제] 1948년 헌법의 답, 2026년 삼성의 질문",
+    "경찰, '신안산선 사망 사고' 포스코이앤씨 현장소장 피의자 조사",
+    "경찰, '여의도 신안산선 사망사고' 포스코이앤씨 소장 피의자 조사",
+    "신안산선 사망 사고 5개월 만에 포스코이앤씨 관계자 첫 조사",
+    "\"전국 로컬푸드 한자리에\"…경북 농축수산물 판매대전 수원서 개최"
   ]
 }
