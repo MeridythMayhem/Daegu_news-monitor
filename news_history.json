@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.tbc.co.kr/news/view?pno=20260422165948AE08874&id=205737",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=242167",
-    "https://n.news.naver.com/mnews/article/088/0001006788?sid=102",
-    "https://n.news.naver.com/mnews/article/079/0004139724?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013794",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014029",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014164",
-    "https://www.m-i.kr/news/articleView.html?idxno=1366932",
     "https://n.news.naver.com/mnews/article/082/0001377463?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250807",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250798",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256403",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5020783",
     "https://enter.etoday.co.kr/news/view/297346",
-    "https://dealsite.co.kr/articles/161843"
+    "https://dealsite.co.kr/articles/161843",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256459",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256495",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256492",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256466",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1256486",
+    "https://www.m-i.kr/news/articleView.html?idxno=1372752",
+    "https://www.m-i.kr/news/articleView.html?idxno=1372910",
+    "https://m.entertain.naver.com/article/001/0016077372"
   ],
   "titles": [
-    "재생에너지도 AI가 화두...그린에너지엑스포 개막",
-    "[안전상황실·23일] 경북서 공장·사무실 화재 3건",
-    "\"포항 의료폐기물 소각장 인허가권자, 업체 재취업 의혹\"",
-    "직고용 방침 밝혔지만 원·하청 노조 모두 '반발'…포스코 갈등 왜?",
-    "구미상공회의소·한국은행, '구미지역발전 세미나' 개최",
-    "포항시 추모공원 건립 '본격화'…도시계획 용역 착수",
-    "박세채 의원, 제295회 구미시의회 임시회…'5분 자유발언'",
-    "구미시, 경북 로봇 플래그쉽 거점 개소…구미형 로봇산업 구축 본격화",
     "직고용 처우 공개에도…포스코 노조 ‘이중 반발’ 확산",
     "노동장관 \"화물연대 참사 본질은 다단계 하청…노란봉투법 미실현의 결...",
     "전남도-광주광역시, 기후환경 에너지대전...사흘간 성료",
@@ -1001,6 +993,14 @@
     "성남시 '물빛정원' 우수 행정사례",
     "영양군, 기본소득 거점 가맹점 운영…주민 소비 편의 확대",
     "웨이브, 지역 민영 방송 뉴스 대폭 확충…뉴스 채널 라인업 확대",
-    "[IT는 지금] KT, AICC 솔루션 '에이센' CSAP 인증 갱신 外"
+    "[IT는 지금] KT, AICC 솔루션 '에이센' CSAP 인증 갱신 外",
+    "정선군 '2026년 다달이 알알이 걷기 챌린지' 운영",
+    "성남시, K-의료기기 중국 진출 발판 마련",
+    "남양주시 '2035년 공업지역 기본계획' 확정...관리 방향 마련",
+    "1분기 나라살림 적자 40조원…6년 만에 최소",
+    "군포시 '청년공간 플라잉' 지역특화 청년사업 선정",
+    "[기획] \"이제는 지방으로\"…외국인이 바꾸는 K-유통 지도",
+    "[기획] 방한 외국인 1900만 시대, 유통街 함박웃음",
+    "[테크스냅] 딜라이브TV, 아마존 프라임비디오 진출"
   ]
 }
