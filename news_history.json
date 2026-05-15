@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250980",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014486",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014465",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014468",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014466",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/214/0001498999?sid=102",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4072869",
     "https://www.ksmnews.co.kr/news/view.php?idx=605159",
-    "https://www.tbc.co.kr/news/view?pno=20260514155353AE09788&id=206415"
+    "https://www.tbc.co.kr/news/view?pno=20260514155353AE09788&id=206415",
+    "https://www.m-i.kr/news/articleView.html?idxno=1373087",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5020743"
   ],
   "titles": [
-    "박웅두 \"조상래 후보, 군 공유재산 무상거주 특혜 의혹\"…후보직 사퇴 ...",
-    "\"위기 상황 속 더 탄탄하게\"…도로공사, '비상경영체제' 돌입",
     "포항시, 포항사랑카드 160억 원 할인 판매…지역 소비 활성화 기대",
     "영천, 상리에 자립형 공동체 돌봄마을 조성",
     "예천, 곤충양잠산업 거점단지 3대 핵심 프로젝트 착수",
@@ -1001,6 +999,8 @@
     "신안산선 사망 사고 5개월 만에 포스코이앤씨 관계자 첫 조사",
     "\"전국 로컬푸드 한자리에\"…경북 농축수산물 판매대전 수원서 개최",
     "경북, AI·가상융합으로 관광 AX(인공지능 전환)시대 연다",
-    "홈플러스 휴업에 '대량 실직 위기'...영업 재개 불투명"
+    "홈플러스 휴업에 '대량 실직 위기'...영업 재개 불투명",
+    "\"구미 미래사업 속도 높인다\"…간부공무원 경북도청 총출동",
+    "파파존스·자담치킨·본좌김밥·진이찬방, 대구 창업박람회서 예비창업..."
   ]
 }
