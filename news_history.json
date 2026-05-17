@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251060",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251062",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251059",
-    "https://www.tokenpost.kr/news/blockchain/352582",
     "https://www.ksmnews.co.kr/news/view.php?idx=601987",
     "https://www.ksmnews.co.kr/news/view.php?idx=601986",
     "https://www.ksmnews.co.kr/news/view.php?idx=602025",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021431",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021578",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021555",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021582"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021582",
+    "https://www.kbsm.net/news/view.php?idx=519775",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021595",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021599",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021589"
   ],
   "titles": [
-    "한국전자통신연구원, 자율주행·원격의료 핵심 에지 컴퓨팅 국제표준 완...",
-    "조달청, 알루미늄제품 업계와 소통 통해 안정적 공급 지원",
-    "충남대 외국인 유학생, 대전지역 무형유산 전수 받는다",
-    "포스코인터내셔널, 1,400억원 규모 디지털 채권 발행으로 외화 자금 조달...",
     "성주군,사회연대경제기업 인ㆍ지정 및 지원설명회 개최",
     "고령군, 개별주택가격 8621호 심의 완료",
     "대구시 명장, 숙련기술인의 도전을 기다립니다",
@@ -1001,6 +997,10 @@
     "경북도, 한일 정상 안동 회동 환영…\"지방외교 새 전기 기대\"",
     "포항시, 하반기 공공일자리 참여자 모집…취약계층 고용 확대",
     "울릉군, 고유가 피해지원금 2차 지급…1인당 20만 원",
-    "예천군, 7만4천 필지 대상 농지 전수조사 착수"
+    "예천군, 7만4천 필지 대상 농지 전수조사 착수",
+    "안전보건공단 대구광역본부, '끼임사고 ZERO' 안전다짐 선포식",
+    "구미시, 반도체 챔버 테스트베드 구축 선정…400억원 투입",
+    "김재욱, 석적 하이패스IC·북삼오평산단 추진 가시화",
+    "영천시, 청렴·혁신·규제개혁 평가 잇단 성과…행정 역량 입증"
   ]
 }
