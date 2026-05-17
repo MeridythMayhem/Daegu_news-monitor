@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=601986",
     "https://www.ksmnews.co.kr/news/view.php?idx=602025",
     "https://www.ksmnews.co.kr/news/view.php?idx=602063",
     "https://www.ksmnews.co.kr/news/view.php?idx=602076",
@@ -499,10 +498,10 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021595",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021599",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021589",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021623"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021623",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1257151"
   ],
   "titles": [
-    "고령군, 개별주택가격 8621호 심의 완료",
     "대구시 명장, 숙련기술인의 도전을 기다립니다",
     "성주군, 고유가 피해지원금 1차 신청 개시",
     "대구 중소기업 위기 타개…경제 해법은?",
@@ -1001,6 +1000,7 @@
     "구미시, 반도체 챔버 테스트베드 구축 선정…400억원 투입",
     "김재욱, 석적 하이패스IC·북삼오평산단 추진 가시화",
     "영천시, 청렴·혁신·규제개혁 평가 잇단 성과…행정 역량 입증",
-    "김진열 측 \"통합신공항 재원 문제, 정부 실행계획으로 이어져야\""
+    "김진열 측 \"통합신공항 재원 문제, 정부 실행계획으로 이어져야\"",
+    "경북도, 생성형 AI 기반 가상융합 인재양성 사업 선정"
   ]
 }
