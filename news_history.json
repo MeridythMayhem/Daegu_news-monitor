@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=602063",
-    "https://www.ksmnews.co.kr/news/view.php?idx=602076",
-    "https://www.ksmnews.co.kr/news/view.php?idx=602125",
     "https://www.ksmnews.co.kr/news/view.php?idx=601997",
     "https://www.ksmnews.co.kr/news/view.php?idx=601957",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=546090",
@@ -499,12 +496,12 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021589",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021623",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1257151",
-    "https://n.news.naver.com/mnews/article/469/0000931198?sid=102"
+    "https://n.news.naver.com/mnews/article/469/0000931198?sid=102",
+    "https://www.yeongnam.com/web/view.php?key=20260517024484424",
+    "https://www.yeongnam.com/web/view.php?key=20260517024293989",
+    "https://n.news.naver.com/mnews/article/005/0001849425?sid=100"
   ],
   "titles": [
-    "성주군, 고유가 피해지원금 1차 신청 개시",
-    "대구 중소기업 위기 타개…경제 해법은?",
-    "구미시, 고교인재-기업 인턴십 확대",
     "성주군, ART ON 생활현장 속으로 확산",
     "문경시, 개별공시지가 부동산가격공시위원회 개최",
     "경찰 총경 승진, 102명 발표…대구·경북에선 총 6명 배출",
@@ -1001,6 +998,9 @@
     "영천시, 청렴·혁신·규제개혁 평가 잇단 성과…행정 역량 입증",
     "김진열 측 \"통합신공항 재원 문제, 정부 실행계획으로 이어져야\"",
     "경북도, 생성형 AI 기반 가상융합 인재양성 사업 선정",
-    "[미지답 칼럼] 일반 상가 공실률 13.1%… 자영업자들 굽어 살펴주소서"
+    "[미지답 칼럼] 일반 상가 공실률 13.1%… 자영업자들 굽어 살펴주소서",
+    "한일정상회담 계기 경북도-日 지방 외교 ‘새 전환점’ 맞나",
+    "대구 하천·계곡 불법점용 재조사 결과 적발 건수 대폭 증가",
+    "TK신공항으로 구애하는 金… 대구 각계원로 등에 업은 秋"
   ]
 }
