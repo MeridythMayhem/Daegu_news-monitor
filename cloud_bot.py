@@ -385,8 +385,8 @@ def load_history():
 
 
 def save_history(history: dict):
-    history["urls"]   = history["urls"][-500:]
-    history["titles"] = history["titles"][-500:]
+    history["urls"]   = history["urls"][-2000:]
+    history["titles"] = history["titles"][-2000:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
@@ -586,6 +586,11 @@ def main():
 
         print(f"  [{score}점] {tag} | {title[:40]}")
 
+        # 점수 무관하게 모든 분석 기사를 히스토리에 등록
+        # → 0점 폐기된 기사도 다음 실행에서 재수집/재분석 방지
+        history["urls"].append(link)
+        history["titles"].append(title)
+
         if score >= 50:
             final_logs.append({
                 "title": title,
@@ -594,8 +599,6 @@ def main():
                 "tag":   tag,
                 "track": track,
             })
-            history["urls"].append(link)
-            history["titles"].append(title)
 
     # ── 최종 중복 제거 ─────────────────────────────────────
     final_logs = deduplicate_final(final_logs)
