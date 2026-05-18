@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/119/0003085660?sid=102",
-    "https://www.newspim.com/news/view/20260428001350",
-    "https://www.ksmnews.co.kr/news/view.php?idx=602735",
-    "https://www.ksmnews.co.kr/news/view.php?idx=602835",
-    "https://www.ksmnews.co.kr/news/view.php?idx=602854",
-    "https://www.ksmnews.co.kr/news/view.php?idx=602851",
-    "https://www.ksmnews.co.kr/news/view.php?idx=602706",
     "https://www.ksmnews.co.kr/news/view.php?idx=602926",
     "https://www.ksmnews.co.kr/news/view.php?idx=602795",
     "https://n.news.naver.com/mnews/article/016/0002636788?sid=102",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/031/0001029259?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021740",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE4weVNMWkFra1k4ZFNGQTRuLW5uRHQzcVVHWGFqankxQWhEeXhhYTg3bEJVdTNVXzY5VzIyS2QwaFZ1T2s0WHpQaF9pUjV0b2twbjJhazhhYXFRVUFFdThZand1bEpnYWUzVXpraFNkVWFTb1p4c3VN?oc=5",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=841042"
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=841042",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wS2JsM3J3WmRRTUhRaklOUG5fZ2tzcDFqaXFnMlVNT21ZYW9FVHNGSURUZXhfS0RNdjZ2bk54M2Izd3l1OHZaX2R1RVp6OURhTTBMajhiWVNfLTExc1RR?oc=5",
+    "https://www.tbc.co.kr/news/view?pno=20260518091942AE09902&id=206506",
+    "https://n.news.naver.com/mnews/article/138/0002228168?sid=105",
+    "https://n.news.naver.com/mnews/article/011/0004621878?sid=102",
+    "https://n.news.naver.com/mnews/article/030/0003428499?sid=102",
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxSjVnR0gwTkZnWjZzOTdtRGctSHc0dTZGSFZTbXJvWGFCODlPN2JCRzBGSVB1WUIzQjJiNjZ0V01jd0FIVnNtcWlTd0V3QQ?oc=5",
+    "https://www.g-enews.com/view.php?ud=20260518092325256244093b5d4e_1"
   ],
   "titles": [
-    "경북 경주 열분해유 제조업체서 화재…아직까지 인명피해 없어",
-    "경주 건천읍 폐비닐류 공장서 화재 진화 중...현재까지 인명피해 없어",
-    "문경, 산후조리비 지원 금액 ‘도내 최고’…산모 1인 150만원까지 확대",
-    "구미시, ‘저출생 대책’ 출생아 반등 이끌었다",
-    "‘김천팜앤장터’ 농특산물 소비 살리기 나선다",
-    "중동발 직격탄 해운업계, 유동성 지원 확대",
-    "상주시, 고유가 피해지원금 신청 가족관계증명서 수수료 면제",
     "출퇴근 방식 바꾸면 최대 30% 교통비 환급",
     "성주군, 지역맞춤형 지방소멸대응기금 투자계획 수립 박차",
     "경주 열분해유 제조업체 화재 3시간 만에 진화…인명 피해 없어",
@@ -1001,6 +994,13 @@
     "에코아이 최대주주 지분 72% 보호예수 해제",
     "두산, SK실트론 인수…28일 계약 체결 완료",
     "두산, SK실트론 인수 눈앞…반도체 밸류체인 소재·후공정으로 확대 - 이코노미트리뷴",
-    "[#IT라운지] 딥브레인 '시댄스 2.0 탑재'·네이버-넥슨 '협업 본격화'·노..."
+    "[#IT라운지] 딥브레인 '시댄스 2.0 탑재'·네이버-넥슨 '협업 본격화'·노...",
+    "경상북도경제진흥원, 영세사업장 대상 「중대재해 예방 사각지대 해소 지원사업」 본격 추진 - gjsiminnews.com",
+    "에스엘은 수익성 개선…삼보·PHA는 영업이익 감소",
+    "‘탈 오라클’ 수요 겨냥…엔텔스, 다원씨앤에스 인수로 DB 사업 강화",
+    "해외사업장 인권리스크 대응 머리 맞댄다…인권위·법무부 2차협의회",
+    "대동, 26년 1Q 매출 3777억 원…AI 기반 사업 모델 전환 '가속'",
+    "대동, 26년 1Q 매출 3777억 원…AI 기반 사업 모델 전환 '가속' - 전자신문",
+    "유안타증권 이수페타시스, 공격적인 증설 효과.. 목표가 상향"
   ]
 }
