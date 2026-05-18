@@ -175,7 +175,7 @@ def passes_prefilter(title: str, track: str) -> bool:
 # =========================================================
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    "gemini-2.0-flash:generateContent"
+    "gemini-2.5-flash:generateContent"
 )
 
 CATEGORY_TAGS = {
@@ -509,8 +509,9 @@ def main():
         time.sleep(0.5)   # Gemini free tier: 15 RPM → 0.5초면 충분
 
         if result is None:
-            # AI 실패 시: cat별 기본 점수로 통과
-            fallback_score = {1: 60, 2: 70, 3: 70, 0: 0}.get(cat, 0)
+            # AI 실패 시: 재난(cat2)/인사(cat3)만 기본 점수로 통과, 나머지 폐기
+            # cat1(비리)은 AI 없이 판단 불가 → 폐기하여 노이즈 방지
+            fallback_score = {2: 70, 3: 70}.get(cat, 0)
             if fallback_score == 0:
                 continue
             result = {
