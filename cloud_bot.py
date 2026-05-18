@@ -278,19 +278,20 @@ def build_prompt(title: str, content: str, cat: int, track: str) -> str:
 
     if track == "vip":
         return (
-            f"[VIP 기업 모니터링 분류]\n"
+            f"[VIP 기업 이상징후 감지]\n"
             f"제목: {title}\n본문: {content}\n\n"
-            f"지시:\n"
-            f"다음 중 하나라도 해당하면 score 0:\n"
-            f"- 단순 분기/연간 실적 발표 (매출, 영업이익 증감만 다루는 기사)\n"
-            f"- 증시 시황, 주가 등락, 종목 추천\n"
-            f"- 신제품 홍보, 마케팅, 채용 공고\n"
-            f"- 해당 기업과 무관한 산업 전반 기사\n"
-            f"점수 기준 (위 해당 없을 때):\n"
-            f"- 80+ : 횡령·배임·압수수색·구속·세무조사 등 직접 수사/제재\n"
-            f"- 70~79 : 의혹 제기·소송·분쟁·대규모 자본이동·M&A\n"
-            f"- 60~69 : 경영진 교체·사업 구조개편·화재·사고\n"
-            f"- 50~59 : 주목할 만한 투자·수주·정책 영향\n"
+            f"[즉시 score 0 처리 — 아래 중 하나라도 해당하면]\n"
+            f"- 실적 발표 (매출/영업이익/순이익 증감)\n"
+            f"- 신제품·신기술 출시, 공장 준공, 생산 개시\n"
+            f"- 수주·공급계약·MOU (비리 의혹 없는 단순 계약)\n"
+            f"- 주가·증시·종목 분석\n"
+            f"- 채용·인턴·복지·사내 행사\n"
+            f"- 홍보·마케팅·CSR 활동\n"
+            f"- 산업 전반 동향 (해당 기업이 단순 언급만 된 경우)\n\n"
+            f"[점수 부여 — 위 해당 없고 아래 중 하나일 때만]\n"
+            f"- 80+ : 압수수색·구속·기소·세무조사·횡령·배임 등 직접 수사/제재\n"
+            f"- 70~79 : 비리 의혹·내부고발·소송·분쟁·오너리스크·지배구조 문제\n"
+            f"- 65~69 : 경영진 갑작스러운 교체·대규모 M&A·화재·중대재해\n"
             f"tag: 다음 중 하나만 선택 → {tags_str}\n"
             f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
         )
@@ -403,7 +404,7 @@ def deduplicate_final(articles: list) -> list:
     result = []
     for art in sorted_arts:
         # 0.65 이상이면 같은 사건으로 판단 (기존 0.80보다 완화)
-        if not any(get_similarity(art["title"], r["title"]) > 0.65 for r in result):
+        if not any(get_similarity(art["title"], r["title"]) > 0.45 for r in result):
             result.append(art)
     return result
 
