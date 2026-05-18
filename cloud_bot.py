@@ -77,7 +77,7 @@ CAT1_RISKS = [
     "사익편취", "계열사 부당지원", "주주대표소송", "오너리스크",
     "주가조작", "시세조종", "미공개정보", "내부자거래",
     "임금체불", "폐수 불법방류", "환경오염",
-    "페이퍼컴퍼니", "의견거절",
+    "페이퍼컴퍼니", "의견거절", "밀약", "배임증재", "불법자금",
 ]
 
 # 카테고리 2: 화재/재난/산업재해
@@ -116,13 +116,13 @@ def build_keywords():
     for agency in CAT3_AGENCIES:
         keywords.append({"query": f"{agency} {CAT3_PERSONNEL_OR}", "track": "kr", "cat": 3})
 
-    # 그룹 A: 본사/주력이 대구경북 → 단독 검색
+    # 그룹 A: 본사/주력이 대구경북 → 단독 검색 (vip 트랙)
     for company in VIP_LOCAL:
-        keywords.append({"query": company, "track": "kr", "cat": 1})
+        keywords.append({"query": company, "track": "vip", "cat": 1})
 
-    # 그룹 B: 지역 사업장 보유 대기업 → 지역어 붙여서 검색
+    # 그룹 B: 지역 사업장 보유 대기업 → 지역어 붙여서 검색 (vip 트랙)
     for company in VIP_REGIONAL:
-        keywords.append({"query": f"{company} {REGION_OR}", "track": "kr", "cat": 1})
+        keywords.append({"query": f"{company} {REGION_OR}", "track": "vip", "cat": 1})
 
     # 글로벌 외신
     for company in VIP_COMPANIES_EN:
@@ -170,6 +170,10 @@ def passes_prefilter(title: str, track: str) -> bool:
         return False
     if any(w in title for w in BLOCK_STOCK) and not has_crime:
         return False
+
+    # vip 트랙은 1차 필터 없이 전부 AI로 넘김
+    if track == "vip":
+        return True
 
     # local 트랙은 지역 관련 경제/기업 기사만
     if track == "local":
@@ -272,9 +276,28 @@ def build_prompt(title: str, content: str, cat: int, track: str) -> str:
             f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
         )
 
+    if track == "vip":
+        return (
+            f"[VIP 기업 모니터링 분류]\n"
+            f"제목: {title}\n본문: {content}\n\n"
+            f"지시:\n"
+            f"다음 중 하나라도 해당하면 score 0:\n"
+            f"- 단순 분기/연간 실적 발표 (매출, 영업이익 증감만 다루는 기사)\n"
+            f"- 증시 시황, 주가 등락, 종목 추천\n"
+            f"- 신제품 홍보, 마케팅, 채용 공고\n"
+            f"- 해당 기업과 무관한 산업 전반 기사\n"
+            f"점수 기준 (위 해당 없을 때):\n"
+            f"- 80+ : 횡령·배임·압수수색·구속·세무조사 등 직접 수사/제재\n"
+            f"- 70~79 : 의혹 제기·소송·분쟁·대규모 자본이동·M&A\n"
+            f"- 60~69 : 경영진 교체·사업 구조개편·화재·사고\n"
+            f"- 50~59 : 주목할 만한 투자·수주·정책 영향\n"
+            f"tag: 다음 중 하나만 선택 → {tags_str}\n"
+            f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
+        )
+
     cat_desc = {
-        1: "세무·횡령·비리·기업 리스크 관점",
-        2: "산업재해·화재·재난 심각도 관점",
+        1: "세무·횡령·비리·기업 리스크 관점 (대구/경북 지역 한정)",
+        2: "산업재해·화재·재난 심각도 관점 (대구/경북 지역 한정)",
         3: "수사기관·행정기관 인사 중요도 관점",
     }.get(cat, "종합 중요도 관점")
 
@@ -282,8 +305,12 @@ def build_prompt(title: str, content: str, cat: int, track: str) -> str:
         f"[국내 뉴스 분류 — {cat_desc}]\n"
         f"제목: {title}\n본문: {content}\n\n"
         f"지시:\n"
-        f"1. score: 0~100 (80+ = 즉각 대응 필요, 60~79 = 주의 요망, 50~59 = 참고, 50 미만 = 무시)\n"
-        f"2. tag: 다음 중 하나만 선택 → {tags_str}\n"
+        f"대구/경북 지역과 직접 관련 없는 기사 → 무조건 score 0\n"
+        f"점수 기준 (지역 관련 기사일 때):\n"
+        f"- 80+ : 즉각 대응 필요 (압수수색·구속·대형사고 등)\n"
+        f"- 60~79 : 주의 요망\n"
+        f"- 50~59 : 참고 동향\n"
+        f"tag: 다음 중 하나만 선택 → {tags_str}\n"
         f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
     )
 
