@@ -356,10 +356,13 @@ def get_similarity(a: str, b: str) -> float:
 
 
 def deduplicate_final(articles: list) -> list:
-    """제목 유사도 기반 최종 중복 제거 (AI 없이)"""
+    """제목 유사도 기반 최종 중복 제거 — 점수 높은 것 우선 유지"""
+    # 점수 내림차순 정렬 후 중복 제거 (높은 점수 기사를 대표로)
+    sorted_arts = sorted(articles, key=lambda x: x["score"], reverse=True)
     result = []
-    for art in articles:
-        if not any(get_similarity(art["title"], r["title"]) > 0.80 for r in result):
+    for art in sorted_arts:
+        # 0.65 이상이면 같은 사건으로 판단 (기존 0.80보다 완화)
+        if not any(get_similarity(art["title"], r["title"]) > 0.65 for r in result):
             result.append(art)
     return result
 
@@ -381,11 +384,10 @@ def send_discord(embeds: list):
 
 
 def build_discord_message(final_logs: list, is_morning: bool) -> list:
-    high   = [l for l in final_logs if l["score"] >= 80]
-    mid    = [l for l in final_logs if 65 <= l["score"] < 80]
-    local  = [l for l in final_logs if l["score"] == 65 and l["track"] == "local"]
-    # mid에서 local 제거
-    mid    = [l for l in mid if l not in local]
+    high  = [l for l in final_logs if l["score"] >= 80]
+    mid   = [l for l in final_logs if 65 <= l["score"] < 80 and l["track"] != "local"]
+    local = [l for l in final_logs if l["track"] == "local" and l["score"] >= 65]
+    low   = [l for l in final_logs if 50 <= l["score"] < 65]
 
     desc = ""
     if high:
@@ -396,10 +398,14 @@ def build_discord_message(final_logs: list, is_morning: bool) -> list:
         desc += "🏢 **[주요 동향 / 주의 요망]**\n"
         for l in mid:
             desc += f"**[{l['score']}점]** {l['tag']} [{l['title']}]({l['link']})\n\n"
+    if low:
+        desc += "📋 **[참고 동향]**\n"
+        for l in low:
+            desc += f"[{l['score']}점] {l['tag']} [{l['title']}]({l['link']})\n\n"
     if local:
         desc += "📰 **[지역 언론 경제/정책]**\n"
         for l in local:
-            desc += f"**[{l['score']}점]** {l['tag']} [{l['title']}]({l['link']})\n\n"
+            desc += f"[{l['score']}점] {l['tag']} [{l['title']}]({l['link']})\n\n"
 
     if not desc.strip():
         msg = "밤사이 주요 기사 없음" if is_morning else "최근 1시간 주요 기사 없음"
