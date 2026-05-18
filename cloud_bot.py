@@ -12,393 +12,544 @@ from difflib import SequenceMatcher
 # =========================================================
 # [1] 환경변수 및 설정
 # =========================================================
-TEST_MODE = False  
+TEST_MODE = False
 
-NAVER_CLIENT_ID = os.environ.get("NAVER_ID")
+NAVER_CLIENT_ID     = os.environ.get("NAVER_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY") 
+GEMINI_API_KEY      = os.environ.get("GOOGLE_KEY")   # Google AI Studio 키
+
+KST = timezone(timedelta(hours=9))
+HISTORY_FILE = "news_history.json"
 
 # =========================================================
-# 🏢 [VIP 기업 명단]
+# [2] VIP 기업 명단
 # =========================================================
 VIP_COMPANIES_KR = [
-    "포스코", "포항제철소", "에코프로", "엘앤에프", "iM뱅크", "대구은행", 
+    # 기존
+    "포스코", "포항제철소", "에코프로", "엘앤에프", "iM뱅크", "대구은행",
     "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력",
-    "대동", "이수페타시스", "씨아이에스", "아진산업", "대구텍", "피에이치에이", "평화산업", "메가젠임플란트"
+    "대동", "이수페타시스", "씨아이에스", "아진산업", "대구텍", "피에이치에이",
+    "평화산업", "메가젠임플란트",
+    # 대구 상장사 추가
+    "KCC글라스", "대구백화점", "이노와이어리스", "드림텍",
+    "SH에너지화학", "삼영엠텍", "제이브이엠", "인터플렉스",
+    # 경북/구미 상장사 추가
+    "SK실트론", "서진시스템", "일진전기", "국일제지",
+    "나라엠앤디", "풍산", "포스코인터내셔널", "포스코DX",
+    "포스코퓨처엠", "POSCO홀딩스",
+    # 포항 철강 계열 추가
+    "세아베스틸", "포스코스틸리온", "포스코엠텍", "포스코케미칼",
+    # 비상장 주요 기업
+    "동일산업",
 ]
 
 VIP_COMPANIES_EN = [
-    "POSCO", "EcoPro", "L&F battery", "iM Bank", 
-    "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery"
+    "POSCO", "EcoPro", "L&F battery", "iM Bank",
+    "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery",
+    "SeAH Besteel", "Poongsan",
 ]
 
-# 🚨 [검색어 망]
-REGIONS = ["대구", "경북", "구미", "포항"]
-CORE_RISKS = [
-    "압수수색", "횡령", "배임", "비자금", "페이퍼컴퍼니", "분식회계", "세무조사", 
-    "편법증여", "일감몰아주기", "가공거래", "역외탈세", "의견거절", "중대재해",
-    "의혹", "비리", "혐의", "탈루", "구속", "밀약"
-]
-CORE_INVESTMENTS = ["투자협약", "MOU", "신공장", "건립", "M&A", "인수합병", "대규모 수주", "테크노폴리스"]
-COMBINED_KEYWORDS = [f"{region} {word}" for region in REGIONS for word in CORE_RISKS + CORE_INVESTMENTS]
+# =========================================================
+# [3] 키워드 체계 (OR 묶음으로 압축)
+# =========================================================
 
-KEYWORDS_KR_BASE = [
-    "대구경찰청 인사", "경북경찰청 인사", "국세청 인사",
-    "대구지검 인사", "대구지검 전보", "대구공소청 인사", "경북공소청 인사", "대구중수청 인사", "경북중수청 인사",
-    "대구지방국세청", "대구지방국세청장", "대구 세무서", "경북 세무서",
-    "대구 화재", "경북 화재", "대구 공장 화재", "경북 공장 화재", "성서산단 화재", "구미산단 화재", "구미공단 화재", "포항 철강공단",
-    "대구 노동자 사망", "경북 노동자 사망", "대구 끼임 사고", "경북 추락 사고", "대구 화학물질 누출", "구미 불산 누출", "대구경북산업단지",
-    "대구 업체 비리", "경북 업체 비리", "대구 세금 탈루", "경북 세금 탈루", "구미 업체 구속", "포항 업체 압수수색"
-]
-KEYWORDS_KR = KEYWORDS_KR_BASE + COMBINED_KEYWORDS + VIP_COMPANIES_KR
-KEYWORDS_GLOBAL = VIP_COMPANIES_EN
+# 지역 OR 묶음 (네이버 API OR 연산자 지원)
+REGION_OR = "대구 OR 경북 OR 구미 OR 포항 OR 경주"
 
+# 카테고리 1: 비리/세무/횡령 리스크
+CAT1_RISKS = [
+    "압수수색", "횡령", "배임", "비자금", "탈세", "탈루",
+    "분식회계", "가공거래", "역외탈세", "편법증여", "일감몰아주기",
+    "의혹", "비리", "혐의", "구속", "기소", "세무조사",
+    "고발", "내부고발", "공익제보", "내사", "수사의뢰",
+    "추징금", "허위세금계산서", "차명계좌", "차명주식", "명의신탁",
+    "사익편취", "계열사 부당지원", "주주대표소송", "오너리스크",
+    "주가조작", "시세조종", "미공개정보", "내부자거래",
+    "임금체불", "폐수 불법방류", "환경오염",
+    "페이퍼컴퍼니", "의견거절",
+]
+
+# 카테고리 2: 화재/재난/산업재해
+CAT2_DISASTERS = [
+    "공장 화재", "산단 화재", "공단 화재", "폭발 사고",
+    "화학물질 누출", "불산 누출", "중대재해",
+    "노동자 사망", "산업재해", "끼임 사고", "추락 사고",
+]
+
+# 카테고리 3: 주요기관 인사
+CAT3_AGENCIES = [
+    "대구지검", "대구고검", "대구공소청", "대구중수청",
+    "대구경찰청", "경북경찰청", "대구지방국세청",
+    "대구고용노동청", "경북고용노동청", "대구금융감독원",
+]
+CAT3_PERSONNEL_OR = "인사 OR 전보 OR 발령 OR 승진 OR 내정"
+
+# 지역 언론 모니터링
 LOCAL_MEDIA_NAMES = ["영남일보", "매일신문", "대구일보", "경북일보", "경북도민일보", "TBC"]
-LOCAL_TOPICS = ["경제", "기업", "산업단지", "투자", "부동산", "수출", "무역", "토지", "상공회의소", "테크노파크"]
-KEYWORDS_LOCAL_MEDIA = [f"{media} {topic}" for media in LOCAL_MEDIA_NAMES for topic in LOCAL_TOPICS]
+LOCAL_TOPICS = ["경제", "기업", "산업단지", "투자", "부동산", "수출"]
 
-HISTORY_FILE = "news_history.json"
-KST = timezone(timedelta(hours=9))
+
+def build_keywords():
+    """키워드 목록 생성 (OR 묶음으로 압축)"""
+    keywords = []
+
+    # 카테고리 1: 지역 OR + 리스크 단어
+    for risk in CAT1_RISKS:
+        keywords.append({"query": f"{REGION_OR} {risk}", "track": "kr", "cat": 1})
+
+    # 카테고리 2: 지역 OR + 재난 단어
+    for disaster in CAT2_DISASTERS:
+        keywords.append({"query": f"{REGION_OR} {disaster}", "track": "kr", "cat": 2})
+
+    # 카테고리 3: 기관명 + 인사 OR
+    for agency in CAT3_AGENCIES:
+        keywords.append({"query": f"{agency} {CAT3_PERSONNEL_OR}", "track": "kr", "cat": 3})
+
+    # VIP 기업 개별 검색
+    for company in VIP_COMPANIES_KR:
+        keywords.append({"query": company, "track": "kr", "cat": 1})
+
+    # 글로벌 외신
+    for company in VIP_COMPANIES_EN:
+        keywords.append({"query": company, "track": "en", "cat": 1})
+
+    # 지역 언론 전용
+    for media in LOCAL_MEDIA_NAMES:
+        for topic in LOCAL_TOPICS:
+            keywords.append({"query": f"{media} {topic}", "track": "local", "cat": 0})
+
+    return keywords
+
 
 # =========================================================
-# [2] 디스코드 전송 도우미 & 유틸리티
+# [4] 1차 필터 (통과/차단만 결정 — 점수는 AI가 결정)
 # =========================================================
-def send_discord_alert(embeds):
-    if not DISCORD_WEBHOOK_URL: return
+BLOCK_SPORTS = [
+    "프로농구", "KBL", "프로야구", "KBO", "프로축구", "K리그",
+    "감독", "선수", "득점", "리바운드", "홈런", "페가수스", "라이온즈",
+    "대구FC", "스포츠", "MVP", "결승골", "끝내기",
+]
+BLOCK_POLITICS = [
+    "국회의원", "시의원", "도의원", "구의원", "정치", "후보", "공천",
+    "당선", "선거", "여당", "야당", "국회", "민주당", "국민의힘",
+    "경선", "여론조사", "지지율", "출마", "총선", "지선", "대선",
+    "최고위", "원내대표",
+]
+BLOCK_STOCK = [
+    "주가", "상승", "하락", "급등", "급락", "증시",
+    "코스피", "코스닥", "시황", "매수", "매도",
+]
+# 범죄/리스크 단어가 있으면 정치/주식 차단 면제
+CRIME_OVERRIDE = [
+    "횡령", "배임", "비리", "탈세", "구속", "압수수색",
+    "기소", "의혹", "혐의", "비자금", "주가조작", "내부자거래",
+]
+
+def passes_prefilter(title: str, track: str) -> bool:
+    """True면 AI 분석 대상, False면 즉시 폐기"""
+    has_crime = any(w in title for w in CRIME_OVERRIDE)
+
+    if any(w in title for w in BLOCK_SPORTS):
+        return False
+    if any(w in title for w in BLOCK_POLITICS) and not has_crime:
+        return False
+    if any(w in title for w in BLOCK_STOCK) and not has_crime:
+        return False
+
+    # local 트랙은 지역 관련 경제/기업 기사만
+    if track == "local":
+        local_signal = ["대구", "경북", "구미", "포항", "경주", "영남"]
+        econ_signal  = ["기업", "공장", "산단", "투자", "수출", "부동산",
+                        "경제", "무역", "토지", "상공", "테크노"]
+        if not any(w in title for w in local_signal):
+            return False
+        if not any(w in title for w in econ_signal):
+            return False
+
+    return True
+
+
+# =========================================================
+# [5] Gemini AI 분석
+# =========================================================
+GEMINI_URL = (
+    "https://generativelanguage.googleapis.com/v1beta/models/"
+    "gemini-2.0-flash:generateContent"
+)
+
+CATEGORY_TAGS = {
+    1: ["[세무/재무]", "[자본이동]", "[경영/갈등]", "[사법/인사]", "[일반동향]"],
+    2: ["[사고/재난]"],
+    3: ["[사법/인사]"],
+    0: ["[거시경제]", "[부동산/토지]", "[지역기업동향]", "[지자체정책]"],
+}
+
+SYSTEM_PROMPT = """당신은 대구/경북 지역 뉴스를 분류하는 AI입니다.
+반드시 JSON만 출력하세요. 설명, 마크다운, 코드블록 절대 금지.
+출력 형식: {"score": 숫자, "tag": "태그"}"""
+
+def call_gemini(prompt: str) -> dict | None:
+    if not GEMINI_API_KEY:
+        return None
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "generationConfig": {
+            "temperature": 0.0,
+            "maxOutputTokens": 80,
+        },
+    }
     try:
-        requests.post(DISCORD_WEBHOOK_URL, json={"username": "뉴스 요약 봇", "embeds": embeds})
-    except: pass
+        res = requests.post(
+            GEMINI_URL,
+            params={"key": GEMINI_API_KEY},
+            json=payload,
+            timeout=8,
+        )
+        if res.status_code != 200:
+            print(f"  ⚠️ Gemini HTTP {res.status_code}")
+            return None
+        raw = res.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+        # 혹시 남은 마크다운 제거
+        raw = re.sub(r"```(?:json)?|```", "", raw).strip()
+        return json.loads(raw)
+    except Exception as e:
+        print(f"  ⚠️ Gemini 오류: {e}")
+        return None
 
-def load_history():
+
+def build_prompt(title: str, content: str, cat: int, track: str) -> str:
+    tags = CATEGORY_TAGS.get(cat, CATEGORY_TAGS[1])
+    tags_str = ", ".join(tags)
+
+    if track == "en":
+        return (
+            f"[글로벌 외신 분류]\n"
+            f"제목: {title}\n본문: {content}\n\n"
+            f"지시:\n"
+            f"1. score: 이 기사가 대구/경북 기업 리스크에 얼마나 중요한지 0~100점\n"
+            f"2. tag: 다음 중 하나만 선택 → {tags_str}\n"
+            f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
+        )
+
+    if track == "local":
+        return (
+            f"[지역 언론 경제/정책 분류]\n"
+            f"제목: {title}\n본문: {content}\n\n"
+            f"지시:\n"
+            f"1. 단순 날씨·교통사고·미담·행사·정치 가십 → score 0\n"
+            f"2. 대구/경북 지역의 의미 있는 경제·기업·투자·부동산·정책 기사 → score 65\n"
+            f"3. tag: 다음 중 하나만 선택 → {tags_str}\n"
+            f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
+        )
+
+    cat_desc = {
+        1: "세무·횡령·비리·기업 리스크 관점",
+        2: "산업재해·화재·재난 심각도 관점",
+        3: "수사기관·행정기관 인사 중요도 관점",
+    }.get(cat, "종합 중요도 관점")
+
+    return (
+        f"[국내 뉴스 분류 — {cat_desc}]\n"
+        f"제목: {title}\n본문: {content}\n\n"
+        f"지시:\n"
+        f"1. score: 0~100 (80+ = 즉각 대응 필요, 60~79 = 주의 요망, 50~59 = 참고, 50 미만 = 무시)\n"
+        f"2. tag: 다음 중 하나만 선택 → {tags_str}\n"
+        f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
+    )
+
+
+# =========================================================
+# [6] 뉴스 수집
+# =========================================================
+def search_naver_news(query: str) -> list:
+    url = "https://openapi.naver.com/v1/search/news.json"
+    headers = {
+        "X-Naver-Client-Id": NAVER_CLIENT_ID,
+        "X-Naver-Client-Secret": NAVER_CLIENT_SECRET,
+    }
+    params = {"query": query, "display": 10, "sort": "date"}
+    try:
+        res = requests.get(url, headers=headers, params=params, timeout=5)
+        return res.json().get("items", [])
+    except Exception as e:
+        print(f"  ⚠️ 네이버 검색 오류 ({query[:20]}): {e}")
+        return []
+
+
+def search_google_news(query: str, lang: str = "ko") -> list:
+    safe = urllib.parse.quote_plus(query)
+    if lang == "en":
+        url = f"https://news.google.com/rss/search?q={safe}&hl=en-US&gl=US&ceid=US:en"
+    else:
+        url = f"https://news.google.com/rss/search?q={safe}&hl=ko&gl=KR&ceid=KR:ko"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    try:
+        res = requests.get(url, headers=headers, timeout=5)
+        soup = BeautifulSoup(res.content, "xml")
+        return [
+            {"title": i.title.text, "link": i.link.text, "pubDate": i.pubDate.text}
+            for i in soup.find_all("item")[:10]
+        ]
+    except Exception as e:
+        print(f"  ⚠️ 구글 뉴스 오류 ({query[:20]}): {e}")
+        return []
+
+
+def scrape_article(url: str) -> str:
+    """기사 본문 스크래핑 — 실패 시 빈 문자열 반환"""
+    try:
+        res = requests.get(
+            url, headers={"User-Agent": "Mozilla/5.0"}, timeout=4
+        )
+        soup = BeautifulSoup(res.text, "html.parser")
+        for selector in ["#dic_area", "#articeBody", ".go_trans._article_content"]:
+            content = soup.select_one(selector)
+            if content:
+                return content.get_text(strip=True)[:800]
+        # fallback: body 전체
+        body = soup.find("body")
+        return body.get_text(strip=True)[:800] if body else ""
+    except:
+        return ""
+
+
+# =========================================================
+# [7] 중복 제거
+# =========================================================
+def load_history() -> dict:
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, "r", encoding="utf-8") as f:
                 return json.load(f)
-        except: pass
+        except:
+            pass
     return {"urls": [], "titles": []}
 
-def save_history(history):
-    history["urls"] = history["urls"][-500:]
+
+def save_history(history: dict):
+    history["urls"]   = history["urls"][-500:]
     history["titles"] = history["titles"][-500:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
-def get_similarity(a, b):
-    a_clean = re.sub(r'[^가-힣a-zA-Z0-9]', '', a)
-    b_clean = re.sub(r'[^가-힣a-zA-Z0-9]', '', b)
-    return SequenceMatcher(None, a_clean, b_clean).ratio()
 
-def get_active_groq_model():
-    if not GROQ_API_KEY: return None
+def get_similarity(a: str, b: str) -> float:
+    a_c = re.sub(r"[^가-힣a-zA-Z0-9]", "", a)
+    b_c = re.sub(r"[^가-힣a-zA-Z0-9]", "", b)
+    return SequenceMatcher(None, a_c, b_c).ratio()
+
+
+def deduplicate_final(articles: list) -> list:
+    """제목 유사도 기반 최종 중복 제거 (AI 없이)"""
+    result = []
+    for art in articles:
+        if not any(get_similarity(art["title"], r["title"]) > 0.80 for r in result):
+            result.append(art)
+    return result
+
+
+# =========================================================
+# [8] 디스코드 전송
+# =========================================================
+def send_discord(embeds: list):
+    if not DISCORD_WEBHOOK_URL:
+        return
     try:
-        headers = {"Authorization": f"Bearer {GROQ_API_KEY}"}
-        res = requests.get("https://api.groq.com/openai/v1/models", headers=headers, timeout=5)
-        if res.status_code == 200:
-            available_models = [m['id'] for m in res.json().get('data', [])]
-            preferences = ["llama-3.3-70b-versatile", "llama-3.1-8b-instant", "mixtral-8x7b-32768"]
-            for pref in preferences:
-                if pref in available_models: return pref
-            if available_models: return available_models[0]
-    except: pass
-    return "mixtral-8x7b-32768"
+        requests.post(
+            DISCORD_WEBHOOK_URL,
+            json={"username": "뉴스 요약 봇", "embeds": embeds},
+            timeout=5,
+        )
+    except Exception as e:
+        print(f"  ⚠️ 디스코드 전송 오류: {e}")
+
+
+def build_discord_message(final_logs: list, is_morning: bool) -> list:
+    high   = [l for l in final_logs if l["score"] >= 80]
+    mid    = [l for l in final_logs if 65 <= l["score"] < 80]
+    local  = [l for l in final_logs if l["score"] == 65 and l["track"] == "local"]
+    # mid에서 local 제거
+    mid    = [l for l in mid if l not in local]
+
+    desc = ""
+    if high:
+        desc += "🚨 **[핵심 리스크 / 즉각 확인]**\n"
+        for l in high:
+            desc += f"**[{l['score']}점]** {l['tag']} [{l['title']}]({l['link']})\n\n"
+    if mid:
+        desc += "🏢 **[주요 동향 / 주의 요망]**\n"
+        for l in mid:
+            desc += f"**[{l['score']}점]** {l['tag']} [{l['title']}]({l['link']})\n\n"
+    if local:
+        desc += "📰 **[지역 언론 경제/정책]**\n"
+        for l in local:
+            desc += f"**[{l['score']}점]** {l['tag']} [{l['title']}]({l['link']})\n\n"
+
+    if not desc.strip():
+        msg = "밤사이 주요 기사 없음" if is_morning else "최근 1시간 주요 기사 없음"
+        return [{"title": "🟢 이상 없음", "description": msg, "color": 0x2ECC71}]
+
+    title_str = (
+        f"🌅 아침 브리핑 ({datetime.now(KST).strftime('%m/%d %H:%M')})"
+        if is_morning
+        else f"📊 정기 보고 ({datetime.now(KST).strftime('%H:%M')})"
+    )
+    if TEST_MODE:
+        title_str = "🛠️ [테스트] " + title_str
+
+    color = 0xE74C3C if high else 0xFFA500
+    return [{"title": title_str, "description": desc, "color": color}]
+
 
 # =========================================================
-# [3] 스나이퍼 필터
-# =========================================================
-def check_critical_patterns(title):
-    sports_keywords = ["프로농구", "KBL", "프로야구", "KBO", "프로축구", "K리그", "감독", "선수", "득점", "리바운드", "홈런", "페가수스", "라이온즈", "대구FC", "실내체육관", "끝내기", "결승", "스포츠", "MVP", "매치"]
-    politics_keywords = ["국회의원", "시의원", "도의원", "구의원", "시장", "군수", "구청장", "도지사", "정치", "후보", "공천", "당선", "선거", "여당", "야당", "국회", "민주당", "더불어민주당", "국민의힘", "국힘", "우세", "추격", "경선", "여론조사", "지지율", "출마", "득표", "총선", "지선", "대선", "최고위", "원내대표"]
-    stock_keywords = ["주가", "상승", "하락", "급등", "급락", "증시", "코스피", "코스닥", "종목", "시황", "주식", "매수", "매도", "개미", "외인", "기관", "상장", "공모"]
-
-    issue_crime = ["횡령", "배임", "비리", "탈세", "구속", "압수수색", "기소", "입건", "송치", "체포", "비자금", "가공거래", "허위세금계산서", "페이퍼컴퍼니", "의혹", "혐의", "탈루", "밀약"]
-    issue_finance = ["가업승계", "편법증여", "일감몰아주기", "일감 몰아주기", "지분매각", "전환사채", "CB", "신주인수권부사채", "BW", "비상장주식", "우회상장", "자본잠식"]
-    issue_disaster = ["화재", "폭발", "붕괴", "산불", "사망", "중대재해", "끼임", "추락", "누출"]
-    issue_personnel = ["인사", "전보", "승진", "발령", "내정", "프로필"]
-    issue_warning = ["논란", "위기", "적자", "파업", "노조", "소송", "재판", "승계", "지배구조"]
-    issue_investment = ["투자협약", "MOU", "신공장", "팩토리", "건립", "신설", "M&A", "인수합병", "대규모 수주", "투자 유치", "자금 조달", "테크노폴리스"]
-
-    if any(sport in title for sport in sports_keywords): return -1, "", False
-    
-    has_crime_risk = any(word in title for word in issue_crime)
-    has_finance_risk = any(word in title for word in issue_finance)
-    
-    if any(pol in title for pol in politics_keywords) and not has_crime_risk: return -1, "", False
-    if any(stock in title for stock in stock_keywords) and not (has_crime_risk or has_finance_risk): return -1, "", False
-
-    local_areas = ["대구", "경북", "구미", "포항", "경주", "성서산단", "국가산단", "테크노폴리스"]
-    company_general = ["공장", "기업", "업체", "산단", "공단", "사업장", "법인", "본사", "자동차부품사", "이차전지", "계열사", "제조"]
-    figures_general = ["회장", "대표", "임원", "오너일가", "특수관계인"]
-
-    is_local = any(loc in title for loc in local_areas)
-    is_general_company = any(comp in title for comp in company_general)
-    is_vip_company = any(vip in title for vip in VIP_COMPANIES_KR)
-    
-    target_company_or_figure = (is_local and (is_general_company or any(fig in title for fig in figures_general))) or is_vip_company
-    target_pol_pro = is_local and any(agency in title for agency in ["경찰", "검찰", "지검", "공소청", "중수청", "수사본부"])
-    target_tax = (is_local and any(tax in title for tax in ["국세청", "세무서"])) or ("국세청" in title)
-
-    if target_company_or_figure:
-        if any(crime in title for crime in issue_crime): return 100, "[세무/재무]", True
-        if any(fin in title for fin in issue_finance): return 80, "[자본이동]", True
-        if any(disaster in title for disaster in issue_disaster): return 100, "[사고/재난]", False
-        if any(warn in title for warn in issue_warning): return 70, "[경영/갈등]", True
-        if any(inv in title for inv in issue_investment): return 70, "[자본이동]", True
-
-    if target_pol_pro:
-        if any(personnel in title for personnel in issue_personnel): return 100, "[사법/인사]", False
-
-    if target_tax:
-        if any(crime in title for crime in issue_crime): return 100, "[세무/재무]", True
-        if any(personnel in title for personnel in issue_personnel): return 100, "[사법/인사]", False
-
-    return 0, "", False
-
-# =========================================================
-# [4] 수집 로직 
-# =========================================================
-def search_naver_news(keyword):
-    url = "https://openapi.naver.com/v1/search/news.json"
-    headers = {"X-Naver-Client-Id": NAVER_CLIENT_ID, "X-Naver-Client-Secret": NAVER_CLIENT_SECRET}
-    params = {"query": keyword, "display": 10, "sort": "date"}
-    try:
-        return requests.get(url, headers=headers, params=params).json().get('items', [])
-    except: return []
-
-def search_google_news(keyword, lang='ko'):
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-    safe_keyword = urllib.parse.quote_plus(keyword)
-    url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=ko&gl=KR&ceid=KR:ko"
-    try:
-        response = requests.get(url, headers=headers, timeout=5)
-        soup = BeautifulSoup(response.content, 'xml')
-        return [{'title': item.title.text, 'link': item.link.text, 'pubDate': item.pubDate.text} for item in soup.find_all('item')[:10]]
-    except: return []
-
-def search_google_news_en(keyword):
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    safe_keyword = urllib.parse.quote_plus(keyword)
-    url = f"https://news.google.com/rss/search?q={safe_keyword}&hl=en-US&gl=US&ceid=US:en"
-    try:
-        response = requests.get(url, headers=headers, timeout=5)
-        soup = BeautifulSoup(response.content, 'xml')
-        return [{'title': item.title.text, 'link': item.link.text, 'pubDate': item.pubDate.text} for item in soup.find_all('item')[:10]]
-    except: return []
-
-def scrape_article(url):
-    try:
-        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=3)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        content = soup.select_one('#dic_area') or soup.select_one('#articeBody') or soup.select_one('.go_trans._article_content')
-        if not content and 'news.google' not in url: content = soup.find('body')
-        return content.get_text(strip=True)[:1000] if content else None
-    except: return None
-
-# =========================================================
-# [5] AI 데스킹 로직
-# =========================================================
-def deduplicate_with_ai_desk(logs, model_name):
-    if len(logs) <= 1 or not GROQ_API_KEY or not model_name: return logs
-    print(f"\n🤖 AI 국장 데스킹 진행 중... (총 {len(logs)}개 기사 통폐합)")
-    
-    prompt = "목록 중 '동일한 사건/이슈'를 다룬 중복 기사들을 찾아 대표 1개만 남기고, 독립적인 사건들은 모두 남기시오. 인덱스 번호를 JSON 배열로 응답: [{\"index\": 0}, {\"index\": 1}]\n뉴스 목록:\n"
-    for i, log in enumerate(logs): prompt += f"[{i}] {log['title']}\n"
-    
-    try:
-        res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": f"Bearer {GROQ_API_KEY}"}, 
-                           json={"model": model_name, "messages": [{"role": "system", "content": "You are a data deduping AI. Output JSON array only."}, {"role": "user", "content": prompt}], "temperature": 0.0}, timeout=15)
-        if res.status_code == 200:
-            raw_text = res.json()['choices'][0]['message']['content'].strip()
-            marker = chr(96) * 3
-            if marker in raw_text: raw_text = re.sub(f'{marker}(json)?|{marker}', '', raw_text)
-            parsed = json.loads(raw_text.strip())
-            deduped = [logs[item['index']] for item in parsed if 'index' in item and 0 <= item['index'] < len(logs)]
-            if deduped: return deduped
-    except: pass
-    return logs
-
-# =========================================================
-# [6] 메인 실행 루프
+# [9] 메인
 # =========================================================
 def main():
-    print("☁️ 스나이퍼 봇 작동 시작 (아침 모닝 브리핑 모드 탑재)...")
-    active_model = get_active_groq_model()
-    history = load_history()
-    execution_logs = []  
-    raw_articles = []
-    unique_links = set()
-    
-    # 🚨 현재 KST 시간 확인 및 아침 8시 브리핑 모드 감지
+    print("☁️ 스나이퍼 봇 시작...")
     now_kst = datetime.now(KST)
-    is_morning_briefing = (now_kst.hour == 8)
-    
+    is_morning = (now_kst.hour == 8)
+
     if TEST_MODE:
         lookback = timedelta(hours=24)
-        print("\n⏳ [테스트 모드] 최근 24시간 전체 기사를 수집합니다.")
-    elif is_morning_briefing:
+        print("⏳ [테스트] 24시간 수집")
+    elif is_morning:
         lookback = timedelta(hours=24)
-        print("\n🌅 [모닝 브리핑 모드] 전날 늦은 밤~오늘 아침까지의 주요 기사를 수집합니다.")
+        print("🌅 [모닝 브리핑] 24시간 수집")
     else:
         lookback = timedelta(minutes=75)
-        print("\n🕒 [정기 모드] 최근 1시간 기사를 수집합니다.")
-        
+        print("🕒 [정기] 75분 수집")
+
     time_threshold = now_kst - lookback
+    history = load_history()
 
-    print(f"\n⚡ [1단계] 국내 핵심 타겟 수집 중... (키워드 {len(KEYWORDS_KR)}개)")
-    for kw in KEYWORDS_KR:
-        for it in search_naver_news(kw) + search_google_news(kw):
-            it['track'] = 'kr'
-            link = it.get('link') or it.get('originallink')
-            if link and link not in unique_links:
-                unique_links.add(link)
-                raw_articles.append(it)
-        time.sleep(0.05)
-    
-    print(f"🌍 [2단계] 글로벌 외신 수집 중... (키워드 {len(KEYWORDS_GLOBAL)}개)")
-    for kw in KEYWORDS_GLOBAL:
-        for it in search_google_news_en(kw):
-            it['track'] = 'en'
-            if it['link'] not in unique_links:
-                unique_links.add(it['link'])
-                raw_articles.append(it)
-        time.sleep(0.4)
+    # ── 수집 ──────────────────────────────────────────────
+    keywords   = build_keywords()
+    raw_map    = {}   # link → article dict (중복 URL 제거)
 
-    print(f"📰 [3단계] 지역 언론 전용망 수집 중... (키워드 {len(KEYWORDS_LOCAL_MEDIA)}개)")
-    for kw in KEYWORDS_LOCAL_MEDIA:
-        for it in search_naver_news(kw):
-            it['track'] = 'local'
-            link = it.get('link') or it.get('originallink')
-            if link and link not in unique_links:
-                unique_links.add(link)
-                raw_articles.append(it)
-        time.sleep(0.05)
+    print(f"\n⚡ 수집 시작 (키워드 {len(keywords)}개)")
 
-    print(f"\n📊 [수집 결과] 총 검색된 고유 기사: {len(raw_articles)}건")
-    
-    valid_articles = []
-    
-    for art in raw_articles:
-        title = art['title'].replace('<b>','').replace('</b>','').replace('&quot;','"')
-        link = art.get('link') or art.get('originallink')
-        track = art['track']
+    for kw in keywords:
+        query = kw["query"]
+        track = kw["track"]
+        cat   = kw["cat"]
 
+        if track == "en":
+            items = search_google_news(query, lang="en")
+            time.sleep(0.4)
+        else:
+            items = search_naver_news(query) + search_google_news(query)
+            time.sleep(0.05)
+
+        for it in items:
+            link = it.get("link") or it.get("originallink", "")
+            if not link or link in raw_map:
+                continue
+            it["track"] = track
+            it["cat"]   = cat
+            raw_map[link] = it
+
+    print(f"   수집된 고유 기사: {len(raw_map)}건")
+
+    # ── 시간 필터 + 히스토리 중복 제거 ────────────────────
+    candidates = []
+    for link, art in raw_map.items():
+        title = re.sub(r"<.*?>|&quot;|&amp;|&lt;|&gt;", "", art.get("title", "")).strip()
+        if not title:
+            continue
         try:
-            pub_dt = parsedate_to_datetime(art['pubDate'])
-            if pub_dt.tzinfo is None: pub_dt = pub_dt.replace(tzinfo=timezone.utc)
-            # 🚨 8시 모닝 브리핑일 때는 24시간 필터를 통과시킵니다.
-            if pub_dt < time_threshold: continue
-            
-            # 어제 이미 디스코드로 전송한 기사는 중복이니까 가볍게 무시합니다! (history의 강력함)
-            if link in history["urls"]: continue
-            if any(get_similarity(title, t) > 0.85 for t in history["titles"]): continue
-        except: continue
-
-        score, reason, need_ai = check_critical_patterns(title)
-        
-        if score == -1:
+            pub_dt = parsedate_to_datetime(art["pubDate"])
+            if pub_dt.tzinfo is None:
+                pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+            if pub_dt < time_threshold:
+                continue
+        except:
             continue
 
-        if track == 'en': 
-            score = 50; need_ai = True 
-        elif track == 'local':
-            if score < 70:
-                score = 60; need_ai = True; reason = "[지역언론 확인용]"
-        elif score == 0:
-            continue 
+        if link in history["urls"]:
+            continue
+        if any(get_similarity(title, t) > 0.85 for t in history["titles"]):
+            continue
+
+        # 1차 필터
+        if not passes_prefilter(title, art["track"]):
+            continue
+
+        candidates.append({
+            "title": title,
+            "link":  link,
+            "track": art["track"],
+            "cat":   art["cat"],
+            "raw":   art,
+        })
+
+    print(f"   1차 필터 통과: {len(candidates)}건")
+
+    # ── Gemini AI 분석 ─────────────────────────────────────
+    print(f"\n🤖 Gemini 분석 시작...")
+    final_logs = []
+
+    for art in candidates:
+        title   = art["title"]
+        link    = art["link"]
+        track   = art["track"]
+        cat     = art["cat"]
+
+        # 본문 스크래핑 (구글 뉴스 리다이렉트 링크 제외)
+        if "news.google.com" not in link:
+            content = scrape_article(link)
+        else:
+            content = ""
+        if not content:
+            content = re.sub(r"<.*?>", "", art["raw"].get("description", ""))[:500]
+
+        prompt  = build_prompt(title, content, cat, track)
+        result  = call_gemini(prompt)
+        time.sleep(0.5)   # Gemini free tier: 15 RPM → 0.5초면 충분
+
+        if result is None:
+            # AI 실패 시: cat별 기본 점수로 통과
+            fallback_score = {1: 60, 2: 70, 3: 70, 0: 0}.get(cat, 0)
+            if fallback_score == 0:
+                continue
+            result = {
+                "score": fallback_score,
+                "tag":   CATEGORY_TAGS.get(cat, ["[일반동향]"])[0],
+            }
+
+        score = int(result.get("score", 0))
+        tag   = result.get("tag", "[일반동향]")
+
+        print(f"  [{score}점] {tag} | {title[:40]}")
 
         if score >= 50:
-            valid_articles.append({'title': title, 'link': link, 'score': score, 'reason': reason, 'track': track, 'need_ai': need_ai, 'raw': art})
+            final_logs.append({
+                "title": title,
+                "link":  link,
+                "score": score,
+                "tag":   tag,
+                "track": track,
+            })
+            history["urls"].append(link)
+            history["titles"].append(title)
 
-    print(f"   - 필터 통과 대상 기사: {len(valid_articles)}건")
-    print(f"⏳ 이제 {len(valid_articles)}건의 기사에 대해 AI 정밀 태그 부여를 시작합니다...\n")
+    # ── 최종 중복 제거 ─────────────────────────────────────
+    final_logs = deduplicate_final(final_logs)
+    final_logs.sort(key=lambda x: x["score"], reverse=True)
 
-    api_status = {"is_alive": True}
-    
-    for v in valid_articles:
-        if v['need_ai'] and api_status["is_alive"] and active_model:
-            print(f"🔍 AI 분석 중: {v['title'][:40]}...")
-            
-            scraped_text = scrape_article(v['link'])
-            full_content = scraped_text[:800] if scraped_text else v['raw'].get('description', '')[:500]
-            
-            system_instr = "You are a categorical tagging AI. Respond in JSON only."
-            
-            if v['track'] == 'en':
-                prompt = f"""[GLOBAL NEWS TAGGING] Title: {v['title']} | Content: {full_content}
-                1. Score (0-100). 2. Choose ONE tag: [글로벌동향], [자본이동], [사고/재난], [경영/갈등].
-                Format: {{ "score": 50, "category": "Global", "reason": "[글로벌동향]" }}"""
-            
-            elif v['track'] == 'local' and v['score'] == 60:
-                prompt = f"""[지역 언론 경제/정책 분석] 제목: {v['title']} | 본문: {full_content}
-                지시사항:
-                1. 대구/경북 지역의 의미 있는 '거시경제(수출/물가), 부동산/토지, 지역기업 동향(실적/애로사항), 산단 개발, 지자체 정책' 뉴스라면 65점을 부여하세요. 
-                2. 단순 날씨, 교통사고, 미담, 행사 안내, 정치판세, 국회 관련 단순 가십은 무조건 0점을 부여하여 폐기하세요.
-                3. 65점을 줄 경우, 아래 4개 태그 중 1개만 복사해서 출력. 문장 작성 절대 금지.
-                [거시경제], [부동산/토지], [지역기업동향], [지자체정책]
-                포맷: {{ "score": 65, "category": "분류", "reason": "[거시경제]" }}"""
+    print(f"\n📊 최종 발송 기사: {len(final_logs)}건")
 
-            else:
-                prompt = f"""[국내 기사 태그 분류] 제목: {v['title']} | 본문: {full_content}
-                1. '점수(score)'는 국세청 관점 리스크로.
-                2. '요약(reason)'은 기사와 가장 잘 맞는 아래 6개 태그 중 딱 1개만 복사해서 출력. 문장 작성 금지.
-                [세무/재무], [자본이동], [사고/재난], [경영/갈등], [사법/인사], [일반동향]
-                포맷: {{ "score": 85, "category": "분류", "reason": "[세무/재무]" }}"""
+    # ── 디스코드 전송 ──────────────────────────────────────
+    embeds = build_discord_message(final_logs, is_morning)
+    send_discord(embeds)
 
-            headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
-            try:
-                res = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json={"model": active_model, "messages": [{"role": "system", "content": system_instr}, {"role": "user", "content": prompt}], "temperature": 0.1}, timeout=12)
-                if res.status_code == 200:
-                    raw_text = res.json()['choices'][0]['message']['content'].strip()
-                    marker = chr(96) * 3
-                    if marker in raw_text: raw_text = re.sub(f'{marker}(json)?|{marker}', '', raw_text)
-                    parsed = json.loads(raw_text.strip())
-                    v['score'] = parsed.get('score', v['score'])
-                    v['reason'] = parsed.get('reason', v['reason'])
-            except: pass
-            time.sleep(1.2)
-            
-        if v['score'] >= 50:
-            execution_logs.append(v)
-            history["urls"].append(v['link'])
-            history["titles"].append(v['title'])
+    # ── 히스토리 저장 ──────────────────────────────────────
+    if not TEST_MODE:
+        save_history(history)
 
-    final_logs = deduplicate_with_ai_desk(execution_logs, active_model)
-    if not final_logs: final_logs = execution_logs 
-
-    if not final_logs:
-        empty_msg = "밤사이 새롭게 발견된 타겟 기사가 없습니다." if is_morning_briefing else "최근 1시간 내 발견된 타겟 기사가 없습니다."
-        send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": empty_msg, "color": 0x2ecc71}])
-    else:
-        high = [l for l in final_logs if l['score'] >= 80]
-        med = [l for l in final_logs if 70 <= l['score'] < 80]
-        local_news = [l for l in final_logs if l['score'] == 65] 
-        
-        desc = ""
-        if high:
-            desc += "🚨 **[핵심 리스크 / 징후]**\n"
-            for l in high: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
-        if med:
-            desc += "🏢 **[대규모 자본이동 및 동향]**\n"
-            for l in med: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
-        if local_news:
-            desc += "📰 **[지역 언론 주요 경제/정책]**\n"
-            for l in local_news: desc += f"**[{l['score']}점]** {l['reason']} [{l['title']}]({l['link']})\n\n"
-        
-        if not desc.strip():
-            empty_msg = "밤사이 새롭게 발견된 타겟 기사가 없습니다." if is_morning_briefing else "최근 1시간 내 발견된 유효 타겟 기사가 없습니다."
-            send_discord_alert([{"title": "🟢 뉴스 모니터링 (이상 없음)", "description": empty_msg, "color": 0x2ecc71}])
-        else:
-            # 🚨 8시 정각일 때는 '아침 브리핑' 이라는 산뜻한 제목 사용
-            if is_morning_briefing:
-                title_str = f"🌅 아침 브리핑 ({datetime.now(KST).strftime('%m/%d %H:%M')})"
-            else:
-                title_str = f"📊 정기 보고 ({datetime.now(KST).strftime('%H:%M')})"
-                
-            if TEST_MODE: title_str = "🛠️ [테스트] " + title_str
-            send_discord_alert([{"title": title_str, "description": desc, "color": 0xe74c3c if high else 0xFFA500}])
-
-    if not TEST_MODE: save_history(history)
     print("✅ 완료")
+
 
 if __name__ == "__main__":
     main()
