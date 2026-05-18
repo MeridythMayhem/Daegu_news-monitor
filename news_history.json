@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/421/0008917170?sid=102",
-    "https://n.news.naver.com/mnews/article/421/0008917168?sid=102",
-    "https://n.news.naver.com/mnews/article/088/0001007621?sid=101",
-    "https://n.news.naver.com/mnews/article/052/0002346844?sid=102",
-    "https://n.news.naver.com/mnews/article/079/0004141814?sid=102",
-    "https://n.news.naver.com/mnews/article/003/0013915687?sid=102",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4071463",
     "https://n.news.naver.com/mnews/article/119/0003085660?sid=102",
     "https://www.newspim.com/news/view/20260428001350",
     "https://www.ksmnews.co.kr/news/view.php?idx=602735",
@@ -499,16 +492,16 @@
     "https://www.industrynews.co.kr/news/articleView.html?idxno=81137",
     "https://n.news.naver.com/mnews/article/079/0004147861?sid=101",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE5sYmZ0clBQSjJYZzl1NUpKMTFpUUw4S3pfQnZxeWxSWGNaNFNFaExuZERhX1FnQ2dadHF3cHVvSm16aDVyYVh5aW8tQ0xTY1FkTG5pdlpnR0VCN05odF8wUVVyLXRrYVZHWTF5dkZGSWZ5QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sX3VpU3hJR25Nb2tZcDVPNE1iLUZYOFQwN3FBNnAtdWJoellzM01FSVlqS2phSmtwMnBHa0Z0aG5TVEZDSnpUMXVxZzZOQXdmN1ctVlJLR0psem5jaFVkVGdNZUYteEdzVmRiZGhqNDI?oc=5"
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sX3VpU3hJR25Nb2tZcDVPNE1iLUZYOFQwN3FBNnAtdWJoellzM01FSVlqS2phSmtwMnBHa0Z0aG5TVEZDSnpUMXVxZzZOQXdmN1ctVlJLR0psem5jaFVkVGdNZUYteEdzVmRiZGhqNDI?oc=5",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=839292",
+    "https://www.betanews.net/article/view/beta202605180038",
+    "https://n.news.naver.com/mnews/article/277/0005764217?sid=102",
+    "https://n.news.naver.com/mnews/article/031/0001029259?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021740",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE4weVNMWkFra1k4ZFNGQTRuLW5uRHQzcVVHWGFqankxQWhEeXhhYTg3bEJVdTNVXzY5VzIyS2QwaFZ1T2s0WHpQaF9pUjV0b2twbjJhazhhYXFRVUFFdThZand1bEpnYWUzVXpraFNkVWFTb1p4c3VN?oc=5",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=841042"
   ],
   "titles": [
-    "경주 건천산업단지 공장 화재",
-    "경주 건천산업단지 공장 화재",
-    "대호에이엘, 개선기간 1년 부여…경영지배인 선임 '분쟁 대응'",
-    "경주 건천산단 공장 화재...1시간 40분 만에 초진",
-    "경주 폐비닐 재활용 공장 화재 3시간 만에 완진…공장 2동 반소",
-    "경주 열분해 공장 화재 완진…인명 피해 없어(종합)",
-    "경주 건천산단 열분해유 공장 화재… 검은 연기 확산",
     "경북 경주 열분해유 제조업체서 화재…아직까지 인명피해 없어",
     "경주 건천읍 폐비닐류 공장서 화재 진화 중...현재까지 인명피해 없어",
     "문경, 산후조리비 지원 금액 ‘도내 최고’…산모 1인 150만원까지 확대",
@@ -1001,6 +994,13 @@
     "두산, 5조원 규모 SK실트론 인수.. 다음주 계약 체결 예상돼",
     "두산, SK실트론 지분 100% 인수…반도체 수직계열화 완성",
     "두산, 5조원 규모 SK실트론 인수.. 다음주 계약 체결 예상돼 - 인더스트리뉴스",
-    "두산, SK실트론 인수…반도체 밸류체인 넓힌다 - 신아일보"
+    "두산, SK실트론 인수…반도체 밸류체인 넓힌다 - 신아일보",
+    "[RE:기업] 두나무, 1분기 실적 반토막…하나금융 1조 베팅 왜?",
+    "현대건설, 신한울 3·4호기 현장에 안전체험교육장 오픈 현장 밀착형 교...",
+    "인권위·법무부, '해외 진출기업 인권경영' 토론회 개최",
+    "에코아이 최대주주 지분 72% 보호예수 해제",
+    "두산, SK실트론 인수…28일 계약 체결 완료",
+    "두산, SK실트론 인수 눈앞…반도체 밸류체인 소재·후공정으로 확대 - 이코노미트리뷴",
+    "[#IT라운지] 딥브레인 '시댄스 2.0 탑재'·네이버-넥슨 '협업 본격화'·노..."
   ]
 }
