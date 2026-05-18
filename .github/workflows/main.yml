@@ -5,13 +5,17 @@ on:
     types: [run_monitor]
   workflow_dispatch:
 
+# 동시 실행 방지 (이전 실행 완료 후 다음 실행)
+concurrency:
+  group: news-monitor
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # 🚨 [새로 추가됨] 봇이 파일을 깃허브에 저장할 수 있도록 '쓰기 권한' 부여
+
     permissions:
-      contents: write 
+      contents: write
 
     steps:
       - name: Checkout code
@@ -25,8 +29,7 @@ jobs:
       - name: 라이브러리 설치
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
-          pip install -U google-generativeai
+          pip install requests beautifulsoup4 lxml
 
       - name: Run Script
         env:
@@ -34,16 +37,13 @@ jobs:
           NAVER_SECRET: ${{ secrets.NAVER_SECRET }}
           GOOGLE_KEY: ${{ secrets.GOOGLE_KEY }}
           DISCORD_URL: ${{ secrets.DISCORD_URL }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} 
         run: python cloud_bot.py
-          
 
-      # 🚨 [새로 추가됨] 봇의 기억(히스토리 파일)을 깃허브 저장소에 박제하기
       - name: 봇 기억(히스토리) 저장하기
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add news_history.json
-          # 파일에 변경사항이 있을 때만 저장(commit)합니다
           git diff --quiet && git diff --staged --quiet || git commit -m "🤖 봇 기억력 업데이트 (news_history.json)"
           git push
+
