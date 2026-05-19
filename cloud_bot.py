@@ -25,25 +25,35 @@ HISTORY_FILE = "news_history.json"
 # =========================================================
 # [2] VIP 기업 명단
 # =========================================================
-VIP_COMPANIES_KR = [
-    # 기존
-    "포스코", "포항제철소", "에코프로", "엘앤에프", "iM뱅크", "대구은행",
-    "에스엘", "화성산업", "삼보모터스", "한국가스공사", "한국수력원자력",
-    "대동", "이수페타시스", "씨아이에스", "아진산업", "대구텍", "피에이치에이",
-    "평화산업", "메가젠임플란트",
-    # 대구 상장사 추가
-    "KCC글라스", "대구백화점", "이노와이어리스", "드림텍",
-    "SH에너지화학", "삼영엠텍", "제이브이엠", "인터플렉스",
-    # 경북/구미 상장사 추가
-    "SK실트론", "서진시스템", "일진전기", "국일제지",
-    "나라엠앤디", "풍산", "포스코인터내셔널", "포스코DX",
-    "포스코퓨처엠", "POSCO홀딩스",
-    # 포항 철강 계열 추가
-    "세아베스틸", "포스코스틸리온", "포스코엠텍", "포스코케미칼",
-    # 비상장 주요 기업
-    "동일산업",
+
+# 그룹 A: 본사/주력이 대구경북 → 지역어 없이 단독 검색
+VIP_LOCAL = [
+    # 대구 본사
+    "iM뱅크", "대구은행", "대구백화점",
+    "KCC글라스", "이노와이어리스", "드림텍", "SH에너지화학",
+    "삼영엠텍", "제이브이엠", "인터플렉스",
+    "화성산업", "삼보모터스", "동일산업",
+    "에스엘", "아진산업", "피에이치에이", "평화산업",
+    "메가젠임플란트",
+    # 구미 본사/주력
+    "에코프로", "엘앤에프", "씨아이에스",
+    "서진시스템", "나라엠앤디",
+    # 포항 본사/주력
+    "포스코", "포항제철소", "세아베스틸",
+    "포스코스틸리온", "포스코엠텍", "포스코케미칼",
+    "포스코퓨처엠", "포스코DX", "POSCO홀딩스",
+    # 경북 본사
+    "대동", "이수페타시스", "대구텍", "풍산",
+    "일진전기", "국일제지",
 ]
 
+# 그룹 B: 지역 사업장 보유 대기업 → 지역어 붙여서 검색
+VIP_REGIONAL = [
+    "SK실트론",       # 구미 공장
+    "한국수력원자력",  # 경주 월성
+]
+
+# 글로벌 외신 모니터링
 VIP_COMPANIES_EN = [
     "POSCO", "EcoPro", "L&F battery", "iM Bank",
     "Isu Petasys", "Daedong", "TaeguTec", "Ajin Industrial", "CIS battery",
@@ -67,7 +77,7 @@ CAT1_RISKS = [
     "사익편취", "계열사 부당지원", "주주대표소송", "오너리스크",
     "주가조작", "시세조종", "미공개정보", "내부자거래",
     "임금체불", "폐수 불법방류", "환경오염",
-    "페이퍼컴퍼니", "의견거절",
+    "페이퍼컴퍼니", "의견거절", "밀약", "배임증재", "불법자금",
 ]
 
 # 카테고리 2: 화재/재난/산업재해
@@ -106,9 +116,13 @@ def build_keywords():
     for agency in CAT3_AGENCIES:
         keywords.append({"query": f"{agency} {CAT3_PERSONNEL_OR}", "track": "kr", "cat": 3})
 
-    # VIP 기업 개별 검색
-    for company in VIP_COMPANIES_KR:
-        keywords.append({"query": company, "track": "kr", "cat": 1})
+    # 그룹 A: 본사/주력이 대구경북 → 단독 검색 (vip 트랙)
+    for company in VIP_LOCAL:
+        keywords.append({"query": company, "track": "vip", "cat": 1})
+
+    # 그룹 B: 지역 사업장 보유 대기업 → 지역어 붙여서 검색 (vip 트랙)
+    for company in VIP_REGIONAL:
+        keywords.append({"query": f"{company} {REGION_OR}", "track": "vip", "cat": 1})
 
     # 글로벌 외신
     for company in VIP_COMPANIES_EN:
@@ -157,6 +171,10 @@ def passes_prefilter(title: str, track: str) -> bool:
     if any(w in title for w in BLOCK_STOCK) and not has_crime:
         return False
 
+    # vip 트랙은 1차 필터 없이 전부 AI로 넘김
+    if track == "vip":
+        return True
+
     # local 트랙은 지역 관련 경제/기업 기사만
     if track == "local":
         local_signal = ["대구", "경북", "구미", "포항", "경주", "영남"]
@@ -175,7 +193,7 @@ def passes_prefilter(title: str, track: str) -> bool:
 # =========================================================
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    "gemini-2.0-flash:generateContent"
+    "gemini-2.5-flash-preview-05-20:generateContent"
 )
 
 CATEGORY_TAGS = {
@@ -197,7 +215,9 @@ def call_gemini(prompt: str):
         "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
         "generationConfig": {
             "temperature": 0.0,
-            "maxOutputTokens": 80,
+            "maxOutputTokens": 200,
+            "responseMimeType": "application/json",
+            "thinkingConfig": {"thinkingBudget": 0},
         },
     }
     try:
@@ -205,13 +225,25 @@ def call_gemini(prompt: str):
             GEMINI_URL,
             params={"key": GEMINI_API_KEY},
             json=payload,
-            timeout=8,
+            timeout=10,
         )
         if res.status_code != 200:
-            print(f"  ⚠️ Gemini HTTP {res.status_code}")
+            print(f"  ⚠️ Gemini HTTP {res.status_code}: {res.text[:100]}")
             return None
-        raw = res.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
-        # 혹시 남은 마크다운 제거
+
+        # parts 중 text 타입만 추출 (thinking 파트 건너뜀)
+        parts = res.json()["candidates"][0]["content"]["parts"]
+        raw = ""
+        for part in parts:
+            if "text" in part:
+                raw = part["text"].strip()
+                break
+
+        if not raw:
+            print("  ⚠️ Gemini 빈 응답")
+            return None
+
+        # 마크다운 펜스 제거 후 JSON 파싱
         raw = re.sub(r"```(?:json)?|```", "", raw).strip()
         return json.loads(raw)
     except Exception as e:
@@ -244,18 +276,46 @@ def build_prompt(title: str, content: str, cat: int, track: str) -> str:
             f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
         )
 
+    if track == "vip":
+        return (
+            f"[VIP 기업 이상징후 감지]\n"
+            f"제목: {title}\n본문: {content}\n\n"
+            f"[즉시 score 0 처리 — 아래 중 하나라도 해당하면]\n"
+            f"- VIP 기업이 기사의 주인공이 아니라 단순 언급·연관 기업으로만 등장\n"
+            f"  (예: 인수금융 주선 은행 기사에 VIP 기업이 피인수 대상으로 언급만 된 경우)\n"
+            f"- 실적 발표 (매출/영업이익/순이익 증감)\n"
+            f"- 신제품·신기술 출시, 공장 준공, 생산 개시\n"
+            f"- 수주·공급계약·MOU (비리 의혹 없는 단순 계약)\n"
+            f"- 주가·증시·종목 분석\n"
+            f"- 채용·인턴·복지·사내 행사\n"
+            f"- 홍보·마케팅·CSR 활동\n\n"
+            f"[점수 부여 — VIP 기업이 주인공이고 위 해당 없을 때만]\n"
+            f"- 80+ : 압수수색·구속·기소·세무조사·횡령·배임 등 직접 수사/제재\n"
+            f"- 70~79 : 비리 의혹·내부고발·소송·분쟁·오너리스크·지배구조 문제\n"
+            f"- 65~69 : 경영진 갑작스러운 교체·대규모 M&A·화재·중대재해\n"
+            f"tag: 다음 중 하나만 선택 → {tags_str}\n"
+            f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
+        )
+
     cat_desc = {
-        1: "세무·횡령·비리·기업 리스크 관점",
-        2: "산업재해·화재·재난 심각도 관점",
+        1: "세무·횡령·비리·기업 리스크 관점 (대구/경북 지역 한정)",
+        2: "산업재해·화재·재난 심각도 관점 (대구/경북 지역 한정)",
         3: "수사기관·행정기관 인사 중요도 관점",
     }.get(cat, "종합 중요도 관점")
 
     return (
         f"[국내 뉴스 분류 — {cat_desc}]\n"
         f"제목: {title}\n본문: {content}\n\n"
-        f"지시:\n"
-        f"1. score: 0~100 (80+ = 즉각 대응 필요, 60~79 = 주의 요망, 50~59 = 참고, 50 미만 = 무시)\n"
-        f"2. tag: 다음 중 하나만 선택 → {tags_str}\n"
+        f"[즉시 score 0 처리 — 아래 중 하나라도 해당하면]\n"
+        f"- 대구/경북 소재 기업·기관·인물이 기사의 주인공이 아닌 경우\n"
+        f"  (예: 전국 이슈 기사에 대구/경북이 단순 언급만 된 경우)\n"
+        f"- 정치인 관련 기사 (선거·공천·여론조사 등)\n"
+        f"- 단순 날씨·교통·행사·미담\n\n"
+        f"[점수 부여 — 대구/경북 주체 기사일 때]\n"
+        f"- 80+ : 즉각 대응 필요 (압수수색·구속·대형사고 등)\n"
+        f"- 65~79 : 주의 요망 (의혹·분쟁·인사·자본이동)\n"
+        f"- 50~64 : 참고 동향\n"
+        f"tag: 다음 중 하나만 선택 → {tags_str}\n"
         f"출력: {{\"score\": 숫자, \"tag\": \"태그\"}}"
     )
 
@@ -318,7 +378,7 @@ def scrape_article(url: str) -> str:
 # =========================================================
 # [7] 중복 제거
 # =========================================================
-def load_history() -> dict:
+def load_history():
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, "r", encoding="utf-8") as f:
@@ -329,8 +389,8 @@ def load_history() -> dict:
 
 
 def save_history(history: dict):
-    history["urls"]   = history["urls"][-500:]
-    history["titles"] = history["titles"][-500:]
+    history["urls"]   = history["urls"][-2000:]
+    history["titles"] = history["titles"][-2000:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
@@ -342,10 +402,13 @@ def get_similarity(a: str, b: str) -> float:
 
 
 def deduplicate_final(articles: list) -> list:
-    """제목 유사도 기반 최종 중복 제거 (AI 없이)"""
+    """제목 유사도 기반 최종 중복 제거 — 점수 높은 것 우선 유지"""
+    # 점수 내림차순 정렬 후 중복 제거 (높은 점수 기사를 대표로)
+    sorted_arts = sorted(articles, key=lambda x: x["score"], reverse=True)
     result = []
-    for art in articles:
-        if not any(get_similarity(art["title"], r["title"]) > 0.80 for r in result):
+    for art in sorted_arts:
+        # 0.65 이상이면 같은 사건으로 판단 (기존 0.80보다 완화)
+        if not any(get_similarity(art["title"], r["title"]) > 0.45 for r in result):
             result.append(art)
     return result
 
@@ -367,11 +430,10 @@ def send_discord(embeds: list):
 
 
 def build_discord_message(final_logs: list, is_morning: bool) -> list:
-    high   = [l for l in final_logs if l["score"] >= 80]
-    mid    = [l for l in final_logs if 65 <= l["score"] < 80]
-    local  = [l for l in final_logs if l["score"] == 65 and l["track"] == "local"]
-    # mid에서 local 제거
-    mid    = [l for l in mid if l not in local]
+    high  = [l for l in final_logs if l["score"] >= 80]
+    mid   = [l for l in final_logs if 65 <= l["score"] < 80 and l["track"] != "local"]
+    local = [l for l in final_logs if l["track"] == "local" and l["score"] >= 65]
+    low   = [l for l in final_logs if 50 <= l["score"] < 65]
 
     desc = ""
     if high:
@@ -382,10 +444,14 @@ def build_discord_message(final_logs: list, is_morning: bool) -> list:
         desc += "🏢 **[주요 동향 / 주의 요망]**\n"
         for l in mid:
             desc += f"**[{l['score']}점]** {l['tag']} [{l['title']}]({l['link']})\n\n"
+    if low:
+        desc += "📋 **[참고 동향]**\n"
+        for l in low:
+            desc += f"[{l['score']}점] {l['tag']} [{l['title']}]({l['link']})\n\n"
     if local:
         desc += "📰 **[지역 언론 경제/정책]**\n"
         for l in local:
-            desc += f"**[{l['score']}점]** {l['tag']} [{l['title']}]({l['link']})\n\n"
+            desc += f"[{l['score']}점] {l['tag']} [{l['title']}]({l['link']})\n\n"
 
     if not desc.strip():
         msg = "밤사이 주요 기사 없음" if is_morning else "최근 1시간 주요 기사 없음"
@@ -509,8 +575,9 @@ def main():
         time.sleep(0.5)   # Gemini free tier: 15 RPM → 0.5초면 충분
 
         if result is None:
-            # AI 실패 시: cat별 기본 점수로 통과
-            fallback_score = {1: 60, 2: 70, 3: 70, 0: 0}.get(cat, 0)
+            # AI 실패 시: 재난(cat2)/인사(cat3)만 기본 점수로 통과, 나머지 폐기
+            # cat1(비리)은 AI 없이 판단 불가 → 폐기하여 노이즈 방지
+            fallback_score = {2: 70, 3: 70}.get(cat, 0)
             if fallback_score == 0:
                 continue
             result = {
@@ -523,6 +590,11 @@ def main():
 
         print(f"  [{score}점] {tag} | {title[:40]}")
 
+        # 점수 무관하게 모든 분석 기사를 히스토리에 등록
+        # → 0점 폐기된 기사도 다음 실행에서 재수집/재분석 방지
+        history["urls"].append(link)
+        history["titles"].append(title)
+
         if score >= 50:
             final_logs.append({
                 "title": title,
@@ -531,8 +603,6 @@ def main():
                 "tag":   tag,
                 "track": track,
             })
-            history["urls"].append(link)
-            history["titles"].append(title)
 
     # ── 최종 중복 제거 ─────────────────────────────────────
     final_logs = deduplicate_final(final_logs)
