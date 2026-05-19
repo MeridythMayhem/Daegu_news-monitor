@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/374/0000510524?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021342",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021432",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021431",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021578",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021555",
@@ -499,12 +496,12 @@
     "https://www.etoday.co.kr/news/view/2585922",
     "https://n.news.naver.com/mnews/article/088/0001010602?sid=103",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022362",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022371"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022371",
+    "https://n.news.naver.com/mnews/article/657/0000051586?sid=102",
+    "https://n.news.naver.com/mnews/article/052/0002355066?sid=102",
+    "https://www.newspim.com/news/view/20260519000911"
   ],
   "titles": [
-    "[단독] 포스코 노조도 파업 수순…7천명 직고용이 불씨 [많이 본 경제기...",
-    "[캠코 공매] 차주 경북 칠곡군 '공장' 등 압류재산 매각",
-    "문경시, 18일부터 2차 고유가 피해지원금 신청 접수",
     "경북도, 한일 정상 안동 회동 환영…\"지방외교 새 전기 기대\"",
     "포항시, 하반기 공공일자리 참여자 모집…취약계층 고용 확대",
     "울릉군, 고유가 피해지원금 2차 지급…1인당 20만 원",
@@ -1001,6 +998,9 @@
     "[속보] 경북 구미 공단동 사업장서 화재 발생",
     "5월 20일 자 시사상식 퀴즈",
     "영덕군, 신규 원전 유치 추진…\"지역소멸 극복 위한 미래 성장동력\"",
-    "울진군, 소상공인 카드수수료 지원사업 시행"
+    "울진군, 소상공인 카드수수료 지원사업 시행",
+    "경북 구미 폐배터리 재활용 공장 화재···50여 분 만에 큰불 꺼져",
+    "경북 구미시 공장 화재...인명 피해 없어",
+    "[속보] 구미 공단동 한 공장서 화재 진화 중...현재까지 인명피해 없어"
   ]
 }
