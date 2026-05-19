@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1257151",
     "https://n.news.naver.com/mnews/article/469/0000931198?sid=102",
     "https://www.yeongnam.com/web/view.php?key=20260517024484424",
     "https://www.yeongnam.com/web/view.php?key=20260517024293989",
@@ -499,10 +498,10 @@
     "https://www.eroun.net/news/articleView.html?idxno=81092",
     "https://n.news.naver.com/mnews/article/088/0001010666?sid=102",
     "https://n.news.naver.com/mnews/article/003/0013955009?sid=102",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4073344"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4073344",
+    "https://n.news.naver.com/mnews/article/056/0012184192?sid=102"
   ],
   "titles": [
-    "경북도, 생성형 AI 기반 가상융합 인재양성 사업 선정",
     "[미지답 칼럼] 일반 상가 공실률 13.1%… 자영업자들 굽어 살펴주소서",
     "한일정상회담 계기 경북도-日 지방 외교 ‘새 전환점’ 맞나",
     "대구 하천·계곡 불법점용 재조사 결과 적발 건수 대폭 증가",
@@ -1001,6 +1000,7 @@
     "'구미 공단 한복판 검은 연기'... 공장 화재, 50평 불에 타",
     "'내년 택시비 오르나'…대구 택시 기본 요금 조정 용역 막바지",
     "대구동부소방·한국가스공사, 취약층 화재 사각지대 해소",
-    "국세청, 강남 현금부자·다주택자 정조준…부동산 탈세 127명 세무조사"
+    "국세청, 강남 현금부자·다주택자 정조준…부동산 탈세 127명 세무조사",
+    "구미 공단동 폐배터리 재활용 공장 화재"
   ]
 }
