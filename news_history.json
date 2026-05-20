@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcHhvSzBuaVM1ZXBKcUtfc1UxTl9GMlBHNDhQbEc5NzZOdFFFdjI1TWpHYzRCU09YUDVCUU5xVzd5NW9tbExiTXVNb2xxdU5zcFpn?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGZuNWpPcjdGTm96eWIzdXdDNzI2M0NZSWIyenFKaGtNQWViT1ZNR2h0Z012WjdFdjg2MTJrem5lUXZ4dWwzOFBncnoyWi1tOE1KODNiaUZEVzVKWlljaGtoVW9Rbm1ZYWNhVDc2RGhjUnFFUE5XVG1lYkt3YzZXTA?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GUjlIdTF1OVBpVEdjUm1uYXhwVnd3WWM5TXV4Q0R1a1F1bWZpcDhzcTBFbFd5ZmIzQnJRU0pGallUTzRqOElSN1BWOXM3RkRxU3EzV05WLURTVEgzTDNBcnJrdF8?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XemlqVXZlUHdUZHQ3cTN0cjZwR1VESVh0eVFTRWtYTlVfQTM3UUtkeVYzQXhOM3FwN3Vub05CWHdpcVJmUkF6cjBfMWxnbnNhNjRmakNLUjVFVlFESURj?oc=5",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lbkN4RHV0a0o3eG50M1VVNTd1d0dhbTZuQ19mZGRrdE1PNVRxenRtYWlnRXRGcnEwejV6bE9Md1BOUXMxQ0ZKTU9ESTRrVEhxbGZJ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hR0VPS2RhRHZ3MXlvZGQzMzZwbmJuWG1yaDhCOWhCeUVNMnV6NW9BOWNtWmt1bkJnVkFtT0lBXy1VWnJmaVYyRXdQVUxBdmlDMm9TbjFGaWJrcXFHN0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wNXVLWi1JcXIyU24xVmRfZEhuaWM5N3JKSVZ0QjZKMk9oNUg3YnZqY2tseEJqMTYzLTBFSWlLUGNrWUtQN1lDYzJxdTZqUXpwcXBnbg?oc=5",
-    "https://www.newspim.com/news/view/20260518000059",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93NlJud0xjeWFXWTd2eU9NaFZWa2NJZjkzV28yWEdrYjEyUmZmdVp5RVpxZ3dFeS1wbi1Jd3NXblpfRjlVZXNqWE9BQ2RZN1Q1b2RFeC1pZ2ZONm5S?oc=5",
     "https://www.gukjenews.com/news/articleView.html?idxno=3583456",
     "https://www.gasnews.com/news/articleView.html?idxno=125157",
@@ -499,17 +491,17 @@
     "https://www.yeongnam.com/web/view.php?key=20260520022435283",
     "https://www.yeongnam.com/web/view.php?key=20260520022185158",
     "https://www.ksmnews.co.kr/news/view.php?idx=606103",
-    "http://www.dynews.co.kr/news/articleView.html?idxno=851210"
+    "http://www.dynews.co.kr/news/articleView.html?idxno=851210",
+    "https://n.news.naver.com/mnews/article/421/0008956992?sid=102",
+    "https://n.news.naver.com/mnews/article/088/0001010867?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258337",
+    "https://n.news.naver.com/mnews/article/025/0003524800?sid=162",
+    "https://n.news.naver.com/mnews/article/025/0003524803?sid=162",
+    "https://www.ekn.kr/web/view.php?key=20260520028506384",
+    "https://n.news.naver.com/mnews/article/088/0001010817?sid=103",
+    "https://www.m-joongang.com/news/articleView.html?idxno=402542"
   ],
   "titles": [
-    "엘앤에프, LFP 전담 자회사 공장 준공…3분기 양산 - 네이트",
-    "엘앤에프, LFP 공장 준공…3분기 양산 돌입 - 이데일리",
-    "엘앤에프, LFP 자회사 '엘앤에프플러스' 준공…3분기 양산 돌입 - 서울경제TV",
-    "엘앤에프, LFP 자회사 ‘엘앤에프플러스’ 준공… 3분기 양산 돌입 - 뉴스와이어",
-    "엘앤에프, LFP 양극재 공장 준공…3분기 양산 시작 - 네이트",
-    "엘앤에프, LFP 자회사 ‘엘앤에프플러스’ 준공… 3분기 양산 돌입 - 투데이안",
-    "엘앤에프, 대구 국가산단 내 LFP 공장 준공…3분기 양산 돌입 - 이투데이",
-    "[모닝 리포트] 에스엘, 목표가 8만5000원…전장·로봇도 성장축",
     "[모닝 리포트] 에스엘, 목표가 8만5000원…전장·로봇도 성장축 - 뉴스핌",
     "대구광역시, 지역 청년들 우수기업 현장 체험 진로 탐색 및 직무 역량 강...",
     "가스기술공사 임종석 사장, 전국 지사 및 대외사업 현장 안전점검",
@@ -1001,6 +993,14 @@
     "김부겸·추경호, “IBK 기업은행 본점 대구 유치”…공약 이행 가능할까...",
     "“법적 부부 되면 오히려 손해” 혼인신고 미루는 신혼부부들",
     "“선을 넘은 성과급 요구”…삼성전자 총파업에 대통령까지 경고",
-    "충북 광공업생산 증가율 전국 1위"
+    "충북 광공업생산 증가율 전국 1위",
+    "경북서 '한일 지역경제 협력 포럼' 개최…양국 기업 교류 '물꼬'",
+    "[한일 지역경제 포럼] \"경북 첨단산업·日 제조기술 연결…지방 중심 협...",
+    "부산시 '가명정보 활용 얼라이언스' 구축 추진",
+    "김부겸·추경호 초박빙…부동층, 보수가 진보보다 2배 많아 [6·3 중앙일...",
+    "정원오, 서울 전역서 오세훈 앞서…강남권도 정 40% 오 38% [6·3 중앙일보...",
+    "서울 초접전 속 ‘관훈토론’…吳는 부동산, 鄭은 안전 때렸다",
+    "[이춘호의 미각기행] 식객 인문학",
+    "\"우리 아이들을 괴물로 키울 것인가 그림 한 점이 세상을 바꿀 수 있다..."
   ]
 }
