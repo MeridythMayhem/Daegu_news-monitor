@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/018/0006284119?sid=101",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUbjNKYXExT3Voa0FQTzh5UlZJTGs4cnRlU3ViYXJFaHp4VklYNVJOVFFJMWppeXdhTURLa0xGX284OVpZSGx6ZTZQRlB4YlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5naVFVa1BEazhUMEVrV18xcFN2cHdGMEFudEgxc1pCb2Y2aEtXcF92XzRaYkRfb0tyN1VGdmFlS1hGVVBFdXF5MEd6bENlWFFJakRKWkpUbUFQb3fSAWBBVV95cUxOcmd0WkpfMWViZmNZcF9qYWhVRGY5TFdLbWpXbWpvNkNNMG5ydFVvNGdma1lqVkhXM0dLODkyZ05FS1Z5T0ZMOXE5c0lmUFlxWFZzRlhmbVA5dDZHbklYaUg?oc=5",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oZGVLQkc1Vy1oMi1SYVlIYlZ6QXFNZ1ltRjNzVnNhY3E1Sk5WdjdRVW9RVzZBM2d4RG1wQ1ZqS3J6RlZIaS1PTGpMNXAzeVgyYUlfbW5EeFdBSUc0dDdKSVdpSQ?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcHhvSzBuaVM1ZXBKcUtfc1UxTl9GMlBHNDhQbEc5NzZOdFFFdjI1TWpHYzRCU09YUDVCUU5xVzd5NW9tbExiTXVNb2xxdU5zcFpn?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGZuNWpPcjdGTm96eWIzdXdDNzI2M0NZSWIyenFKaGtNQWViT1ZNR2h0Z012WjdFdjg2MTJrem5lUXZ4dWwzOFBncnoyWi1tOE1KODNiaUZEVzVKWlljaGtoVW9Rbm1ZYWNhVDc2RGhjUnFFUE5XVG1lYkt3YzZXTA?oc=5",
@@ -499,12 +496,12 @@
     "https://www.yeongnam.com/web/view.php?key=20260520023284996",
     "https://idsn.co.kr/news/view/1065604729639878",
     "https://www.sentv.co.kr/article/view/sentv202605200091",
-    "https://n.news.naver.com/mnews/article/088/0001010872?sid=102"
+    "https://n.news.naver.com/mnews/article/088/0001010872?sid=102",
+    "https://www.yeongnam.com/web/view.php?key=20260520022435283",
+    "https://www.yeongnam.com/web/view.php?key=20260520022185158",
+    "https://www.ksmnews.co.kr/news/view.php?idx=606103"
   ],
   "titles": [
-    "엘앤에프, LFP 공장 준공…3분기 양산 돌입",
-    "엘앤에프, 대구 국가산단 내 LFP 공장 준공…3분기 양산 돌입 - v.daum.net",
-    "엘앤에프, LFP 양극재 공장 준공…올해 3분기말 본격 양산 - 연합뉴스",
     "테슬라가 끌고 ESS가 민다…엘앤에프 반등의 두 축 - kukinews.com",
     "엘앤에프, LFP 전담 자회사 공장 준공…3분기 양산 - 네이트",
     "엘앤에프, LFP 공장 준공…3분기 양산 돌입 - 이데일리",
@@ -1001,6 +998,9 @@
     "포항시, 해양케이블카 사업부지 ‘흉물 펜스’ 철거 절차 개시",
     "대구 동구 공장 창고 화재",
     "현대제철·포스코, 中 적자 털고 美·印 공략 가속",
-    "세계적 관심 받은 경북 안동, '포스트 한일 정상회담' 시급···지역경제..."
+    "세계적 관심 받은 경북 안동, '포스트 한일 정상회담' 시급···지역경제...",
+    "김부겸·추경호, “IBK 기업은행 본점 대구 유치”…공약 이행 가능할까...",
+    "“법적 부부 되면 오히려 손해” 혼인신고 미루는 신혼부부들",
+    "“선을 넘은 성과급 요구”…삼성전자 총파업에 대통령까지 경고"
   ]
 }
