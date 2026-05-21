@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005681334?sid=101",
-    "https://theviewers.co.kr/View.aspx?No=4081097",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cDFPd3JCeHFFd09sNHhadHY3OGFYa3plc08weEk1U0pmVE9veHg3U0ZyZTZfb2xuOHZsTGtUbFdqRTZhdTFsNmt2Q05SaWxybW5MNDdXdFhjREN5cDNRNWlwQ3NyZTZ0?oc=5",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yVzBJTTRNcTMtYkF3ZHRxSURTcTdwcl93NU5GMU5QM09vcEE3WDE1U1FlQmJxVlltb0hvVVhDM1h2b19nU1FoajRCV2R5Nnd2LUVtODEydlM?oc=5",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=138568",
     "https://n.news.naver.com/mnews/article/366/0001165129?sid=101",
     "https://n.news.naver.com/mnews/article/374/0000510670?sid=101",
     "https://n.news.naver.com/mnews/article/366/0001165114?sid=101",
@@ -499,14 +494,14 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023305",
     "https://m.entertain.naver.com/article/109/0005538347",
     "https://www.kbmaeil.com/article/20260521500397",
-    "https://www.tbc.co.kr/news/view?pno=20260521172551AE00116&id=206668"
+    "https://www.tbc.co.kr/news/view?pno=20260521172551AE00116&id=206668",
+    "https://n.news.naver.com/mnews/article/003/0013961480?sid=102",
+    "https://www.m-i.kr/news/articleView.html?idxno=1375106",
+    "https://n.news.naver.com/mnews/article/001/0016093258?sid=110",
+    "https://www.newdaily.co.kr/site/data/html/2026/05/20/2026052000248.html",
+    "https://n.news.naver.com/mnews/article/023/0003977866?sid=103"
   ],
   "titles": [
-    "“AI 사이클에 소외될 이유가 없다”…오늘이 저점이란 이수페타시스 [...",
-    "[애널픽] 이수페타시스, 하반기 이익 상향...목표가 줄줄이↑",
-    "이수페타시스, AI 수요 폭발에 ‘다중적층’ 또 증설…목표가 ‘17만원’ 쑥 [오늘 나온 보고서] - 매일경제TV",
-    "[애널픽] 이수페타시스, 하반기 이익 상향...목표가 줄줄이↑ - 뷰어스",
-    "두산, 최태원 회장 지분 포함 SK실트론 100% 인수",
     "두산, SK실트론 인수 사실상 확정… 최태원 지분까지 연내 확보 추진",
     "두산, SK실트론 지분 100% 인수…최태원 지분도 매입 예정",
     "NH證 “SK, 자산 매각·포트폴리오 통합으로 재무구조 개선 중…목표가...",
@@ -1001,6 +996,11 @@
     "계명대 동산병원, 의료 AI 데이터 활용 바우처 지원사업 참여",
     "故여운계, 오늘(22일) 사망 17주기…폐암 투병에도 연기 열정 [Oh!쎈 이슈...",
     "국립오페라단 대구 유치 시민운동 확산⋯ 선언 참여자 136명으로 늘어",
-    "열전 13일 돌입.. 김 \"대구 경제 살릴 사람\" VS 추 \"자유 대한민국 지켜..."
+    "열전 13일 돌입.. 김 \"대구 경제 살릴 사람\" VS 추 \"자유 대한민국 지켜...",
+    "[대구·경북 조간 헤드라인]",
+    "HD현대로보틱스, 협력사에 90억 자금 수혈…로봇 공급망 키운다",
+    "[전국 주요 신문 사설](22일 조간)",
+    "'국익 실용주의' 내건 李 정부 … 韓日 ACSA·CPTPP는 침묵 [조문정의 국...",
+    "명문대생의 ‘식모’ 연기 호평… “황정순 뒤를 이을 배우” 여운계"
   ]
 }
