@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2174605",
-    "http://www.itdaily.kr/news/articleView.html?idxno=239361",
-    "http://www.breaknews.com/1207767",
-    "https://www.livebiz.today/news/articleView.html?idxno=202138",
-    "https://www.joongangenews.com/news/articleView.html?idxno=519853",
-    "https://n.news.naver.com/mnews/article/030/0003428438?sid=104",
-    "https://sateconomy.co.kr/news/view/1065569853398012",
-    "http://www.energydaily.co.kr/news/articleView.html?idxno=167340",
-    "http://www.aptn.co.kr/news/articleView.html?idxno=111938",
     "https://m.entertain.naver.com/article/112/0003796107",
     "https://n.news.naver.com/mnews/article/421/0008950298?sid=103",
     "https://n.news.naver.com/mnews/article/016/0002644615?sid=103",
@@ -499,18 +490,18 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258542",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258507",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023163",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3023584"
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3023584",
+    "https://n.news.naver.com/mnews/article/088/0001011048?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258461",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258608",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258662",
+    "https://www.m-i.kr/news/articleView.html?idxno=1375261",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023245",
+    "https://www.huffingtonpost.kr/article/257376",
+    "https://www.idaegu.com/news/articleView.html?idxno=662629",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023258"
   ],
   "titles": [
-    "한수원, 중소기업 AI 역량 강화 지원",
-    "두루이디에스, '한수원 양성과정' 수료…안전경영문화 정착 앞장선다",
-    "반도체 투톱 ‘역대급 질주’..국내 대기업 올 1분기 영업익 156조 원 돌...",
-    "한전이 수출한 UAE 바라카 원전, 드론 피격으로 화재...중동 위기 고조에...",
-    "UAE 바라카 원전 인근 드론 피격...한전 원전 직접 피해 없어",
-    "“한국형 원전 노렸다”…UAE 바라카 원전 드론 공격에 중동 발칵",
-    "사우디, UAE와 ‘안보 연대’ 표명… 바라카 원전 ‘드론 피격’ 강력 비...",
-    "세계 최초 '원전 해체 국제표준' 제정 첫 걸음 내디뎠다",
-    "물·에너지 융합 정책, 당신의 아이디어는?",
     "‘한일가왕전’ 박서진→유다이, 화려한 축하 무대..비하인드 大방출",
     "김유정 소설이 오페라로 변신…창작오페라 '봄봄'과 전통연희의 만남",
     "50만 명 모인 평안·화합의 행렬…로봇 스님도 참여",
@@ -1001,6 +992,15 @@
     "대구시, 섬유산업 고용안정 지원 국비 확보",
     "경산·영천 공무원들, 고향사랑기부 상호 참여로 지역상생 실천",
     "영주시, 제6기 지역사회보장계획 수립 착수",
-    "주엽고 조연우, 기업은행장배 전국사격대회 4관왕"
+    "주엽고 조연우, 기업은행장배 전국사격대회 4관왕",
+    "백승보 조달청장 \"대구 신산업 전환, 공공조달로 성장 발판 마련\"",
+    "경기도, 반도체 패키징 산업전 참가기업 모집",
+    "경콘진, 문화창업플래너 13기 모집",
+    "경기주택도시공사, 공공지식산업센터 브랜드 본격화",
+    "\"서울 안 가도 유니콘 등극\"…한성숙 장관, 지역 창업도시 승부수",
+    "인구보건복지협회 대구경북지회, 저출생 대응 경북 지역연대 정기회의...",
+    "[6·3 판세 분석/대구] 김부겸 vs 추경호, 막판 보수 결집에 ‘초박빙’...",
+    "대구염색산단 \"공장 가동 줄고 매출도 감소\"…업종제한 완화 탄력 받나",
+    "계명문화대, 중소기업융합대구경북연합회 위드융합회와 RISE 사업 협약"
   ]
 }
