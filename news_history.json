@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3583456",
-    "https://www.gasnews.com/news/articleView.html?idxno=125157",
     "https://www.gasnews.com/news/articleView.html?idxno=125156",
     "https://www.g-enews.com/view.php?ud=202605180927138757a9fc143920_1",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2174605",
@@ -499,11 +497,11 @@
     "https://www.ekn.kr/web/view.php?key=20260520028506384",
     "https://n.news.naver.com/mnews/article/088/0001010817?sid=103",
     "https://www.m-joongang.com/news/articleView.html?idxno=402542",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022973"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022973",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258542",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258507"
   ],
   "titles": [
-    "대구광역시, 지역 청년들 우수기업 현장 체험 진로 탐색 및 직무 역량 강...",
-    "가스기술공사 임종석 사장, 전국 지사 및 대외사업 현장 안전점검",
     "가스공사, 배관시설이용규정 개정",
     "가스안전공사, 반도체 가스 안전 ‘맞춤형 교육’ 가동… 인재 양성 사...",
     "한수원, 중소기업 AI 역량 강화 지원",
@@ -1001,6 +999,8 @@
     "서울 초접전 속 ‘관훈토론’…吳는 부동산, 鄭은 안전 때렸다",
     "[이춘호의 미각기행] 식객 인문학",
     "\"우리 아이들을 괴물로 키울 것인가 그림 한 점이 세상을 바꿀 수 있다...",
-    "경북도, 'AI 특화 공동훈련센터' 개소…제조업 AI 전환 인력 양성 나선다"
+    "경북도, 'AI 특화 공동훈련센터' 개소…제조업 AI 전환 인력 양성 나선다",
+    "대구시, 섬유산업 고용안정 지원 국비 확보",
+    "경산·영천 공무원들, 고향사랑기부 상호 참여로 지역상생 실천"
   ]
 }
