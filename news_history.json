@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.itooza.com/common/iview.php?no=2026051809150179467",
-    "https://n.news.naver.com/mnews/article/029/0003027114?sid=101",
-    "https://n.news.naver.com/mnews/article/030/0003428441?sid=101",
-    "https://n.news.naver.com/mnews/article/050/0000106257?sid=101",
-    "https://www.thefairnews.co.kr/news/articleView.html?idxno=77162",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzVGZEpRem9MaFdJRUo0bVgyaTh1TTk0bXBxQjFjellpZFZTMlJfWlJlZmhpUVhsQ0xfWTVrdWM3YWY5amZpMnEtR1c1NjlnalltZU1LSE1Nal9oT1RuRk1qOG4tSzcxYkgwY3gwVTJJSm1EYS1GY3EyRlhYSm5PZNIBlAFBVV95cUxPQS1rNFlLc2dWVGNpQXFkY3R6b2RyaVVsQm9SYVNPNVhBeFVUTk5KZm5XUVFZTThOZUtvUHYteEc4VVNVV2Vjc0xsX2NGN0JfajdEa3hLRkhodnZHc3c2aHdybFJSSkJDdEZpNkVXMWVvS2IydFdxeTB3dHV2SEFkenpLMzBDMjlkV2tPUFdpeEZiMXlf?oc=5",
     "https://n.news.naver.com/mnews/article/003/0013950690?sid=102",
     "http://www.the-biz.co.kr/news/articleView.html?idxno=720836",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453376",
@@ -499,15 +493,15 @@
     "https://n.news.naver.com/mnews/article/421/0008962039?sid=162",
     "https://www.newsmin.co.kr/news/132822/",
     "http://www.weeklytoday.com/news/articleView.html?idxno=776998",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=776997"
+    "http://www.weeklytoday.com/news/articleView.html?idxno=776997",
+    "https://n.news.naver.com/mnews/article/088/0001011185?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023644",
+    "https://n.news.naver.com/mnews/article/016/0002647316?sid=102",
+    "https://n.news.naver.com/mnews/article/020/0003721789?sid=162",
+    "https://n.news.naver.com/mnews/article/119/0003093618?sid=162",
+    "https://n.news.naver.com/mnews/article/020/0003721715?sid=162"
   ],
   "titles": [
-    "[리스트] 변동성 확대 조짐..외국인의 선택은?",
-    "SK하이닉스, ‘일하기 좋은 대기업’ 1위…삼성전자는 6위",
-    "잡플래닛, 일하기 좋은 대기업 TOP 10 발표…1위에 SK하이닉스",
-    "“삼성 갈 바엔 ...” 대기업 재직자들이 선택한 최고의 직장",
-    "신의 직장 어디?… SK하이닉스, 대기업 중 '일하기 좋은 회사' 압도적 1...",
-    "Shinhan Securities lifts POSCO Holdings target as lithium drives profit rebound - CHOSUNBIZ - Chosunbiz",
     "해외 사업장 인권침해 대응…인권위·법무부, 실무협의회",
     "AI가 쇳물도 녹인다… 철강업계, '인프라 수출'로 불황 정면 돌파",
     "낙폭 과대 인식에 로봇 모멘텀 더했다…아이로보틱스, 투자자 '러시'",
@@ -1001,6 +995,12 @@
     "'초박빙' 김부겸·추경호, 첫 토론회서 TK신공항·통합 무산 놓고 설전",
     "김부겸엔 “허공의 숫자” 비판했지만···추경호 본인도 “GRDP 200조”...",
     "[위클리오늘] \"준비된 경제전문가\" vs \"기승전 변명\"… 토론 뒤 더 거칠...",
-    "[위클리오늘] \"대구 심장 꺼진다\" \"정부와 싸워 예산 받겠나\"… 김부겸..."
+    "[위클리오늘] \"대구 심장 꺼진다\" \"정부와 싸워 예산 받겠나\"… 김부겸...",
+    "[창간 80년, 격동 80년]나라 뒤흔든 정경 유착 사건 '사카린 밀수'",
+    "\"수소 생태계 조성 선도\"…한수원, 수소경제 활성화 미래 비전 제시",
+    "김부겸·추경호 TV토론회서 격돌 “대구 경제 살리겠다…지역 현안 놓고...",
+    "김부겸 “정부 움직여 예산 확보” vs 추경호 “대구경제 살리기 올인”",
+    "[6·3 픽] \"엇박자가 발목\" vs \"대구 언제 챙겨\"…김부겸·추경호 첫 TV토...",
+    "김부겸 “정부 움직여 예산 확보” vs 추경호 “대구 경제살리기 최선”"
   ]
 }
