@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IMFJNdWxXdWpxWWFxdVRYTkpmMjdsRVQyLXZRTTAteGJScUFveThpTEk3ajZZQ3g2TVNEWU01ajhveHVHQnM2c3liR2I5LVVOcXZiV2hDdUlpdHBwdGxidm1uZWJhbm1aUU91cS13?oc=5",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YVTlCemZMMzZWX0U5R0xOd0lXSWd3bTJIZ1hzek5TcWxJVlF3X1pMR3lmNzRBWEtxb2h0VU1URXFjbHZEekVFbUxtZ1pGUkdMU3dxcjZRemlnRDhG?oc=5",
-    "https://n.news.naver.com/mnews/article/021/0002791845?sid=101",
-    "https://n.news.naver.com/mnews/article/005/0001849552?sid=102",
-    "https://n.news.naver.com/mnews/article/417/0001143610?sid=101",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrMDlvam52TXFqcU80M2ZfRnBKeGxKZnlsWElHLXlXNVF6NmY1WDJhR0hRWTNoUko0dE9YRHI3d1lLc1R5NTRYVVB1M29IOTVwX0E?oc=5",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4415343",
     "https://n.news.naver.com/mnews/article/366/0001165108?sid=101",
@@ -499,14 +494,14 @@
     "https://www.greened.kr/news/articleView.html?idxno=341212",
     "https://www.newscj.com/news/articleView.html?idxno=3403157",
     "https://n.news.naver.com/mnews/article/001/0016094863?sid=162",
-    "https://www.idaegu.com/news/articleView.html?idxno=662668"
+    "https://www.idaegu.com/news/articleView.html?idxno=662668",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023680",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=548978",
+    "https://www.yeongnam.com/web/view.php?key=20260522022415674",
+    "https://n.news.naver.com/mnews/article/028/0002806374?sid=102",
+    "https://n.news.naver.com/mnews/article/421/0008962039?sid=162"
   ],
   "titles": [
-    "일진전기, 이익률 10% 돌파…“변압기·데이터센터가 바꾼 체질” - 아시아투데이",
-    "[모닝 리포트] 일진전기, 목표가 15만원 상향…중전기가 이익 주도 - 뉴스핌",
-    "月 15만원 ‘기본소득의 마법’… “백반집 하나뿐인 마을에 정육점 생...",
-    "대통령 고향 경북 안동…한일정삼회담으로 다시 비상할까?",
-    "하나은행·두나무 제휴, 하나금융 기대효과는?",
     "'제2의 신유빈 맹위' 女 탁구 포스코인터내셔널, 김나영 앞세워 실업챔피언전 정상 탈환 - nocutnews.co.kr",
     "국민성장펀드 2차 메가딜 어디…SK바이오·대한항공·현대차 '물망'",
     "신한證 “포스코홀딩스, 리튬 가치 재평가와 철강 본업 정상화… 목표가...",
@@ -1001,6 +996,11 @@
     "포스코인터, 美에 2억 달러 희토류 공장 신설",
     "포스코이앤씨, 신반포19·25차 '2억 지원' 논란 잦아드나",
     "김부겸·추경호 \"대구 경제 살리겠다\" 첫 TV 토론서 자격 경쟁",
-    "TK신공항서 세수 결손까지… 김부겸·추경호 전방위 충돌"
+    "TK신공항서 세수 결손까지… 김부겸·추경호 전방위 충돌",
+    "김부겸 vs 추경호, 첫 TV토론회…대구 경제 회복 '공방'",
+    "김부겸 '대구는 절박하다' vs 추경호 '경제는 실력이다'",
+    "김부겸·추경호, 첫 TV토론서 정면충돌",
+    "“부총리 때 대구 위해 뭐 했냐” “국무총리 때는?”…김부겸-추경호 ...",
+    "'초박빙' 김부겸·추경호, 첫 토론회서 TK신공항·통합 무산 놓고 설전"
   ]
 }
