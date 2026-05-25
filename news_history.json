@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sX3VpU3hJR25Nb2tZcDVPNE1iLUZYOFQwN3FBNnAtdWJoellzM01FSVlqS2phSmtwMnBHa0Z0aG5TVEZDSnpUMXVxZzZOQXdmN1ctVlJLR0psem5jaFVkVGdNZUYteEdzVmRiZGhqNDI?oc=5",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=839292",
-    "https://www.betanews.net/article/view/beta202605180038",
     "https://n.news.naver.com/mnews/article/277/0005764217?sid=102",
     "https://n.news.naver.com/mnews/article/031/0001029259?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021740",
@@ -499,12 +496,12 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023937",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5023972",
     "https://n.news.naver.com/mnews/article/088/0001011496?sid=102",
-    "https://www.yeongnam.com/web/view.php?key=20260525025486036"
+    "https://www.yeongnam.com/web/view.php?key=20260525025486036",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1259290",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1259288",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1259278"
   ],
   "titles": [
-    "두산, SK실트론 인수…반도체 밸류체인 넓힌다 - 신아일보",
-    "[RE:기업] 두나무, 1분기 실적 반토막…하나금융 1조 베팅 왜?",
-    "현대건설, 신한울 3·4호기 현장에 안전체험교육장 오픈 현장 밀착형 교...",
     "인권위·법무부, '해외 진출기업 인권경영' 토론회 개최",
     "에코아이 최대주주 지분 72% 보호예수 해제",
     "두산, SK실트론 인수…28일 계약 체결 완료",
@@ -1001,6 +998,9 @@
     "구미시에 '소담스퀘어' 유치…경북 소상공인 디지털 판로 확대 기대",
     "영천 금호읍·더 랜드 호텔, 지역 상생 협약 체결",
     "가난한 노인들의 행렬…누가 그들에게 밥을 줄 것인가",
-    "2년째 불꺼진 아파트 세입자 들어온다…cr리츠 통매각 아파트 990호, 전..."
+    "2년째 불꺼진 아파트 세입자 들어온다…cr리츠 통매각 아파트 990호, 전...",
+    "경북 첫 '소담스퀘어' 구미 유치",
+    "대구시 '스타기업 육성사업' 참여기업 모집… AI·미래산업 지원 강화",
+    "포항시, 청정수소·분산에너지 특화단지 조성 속도"
   ]
 }
