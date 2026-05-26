@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wS2JsM3J3WmRRTUhRaklOUG5fZ2tzcDFqaXFnMlVNT21ZYW9FVHNGSURUZXhfS0RNdjZ2bk54M2Izd3l1OHZaX2R1RVp6OURhTTBMajhiWVNfLTExc1RR?oc=5",
-    "https://www.tbc.co.kr/news/view?pno=20260518091942AE09902&id=206506",
     "https://n.news.naver.com/mnews/article/138/0002228168?sid=105",
     "https://n.news.naver.com/mnews/article/011/0004621878?sid=102",
     "https://n.news.naver.com/mnews/article/030/0003428499?sid=102",
@@ -499,11 +497,11 @@
     "https://www.idaegu.com/news/articleView.html?idxno=662762",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024235",
     "https://n.news.naver.com/mnews/article/092/0002424166?sid=105",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4073790"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4073790",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1259666",
+    "https://n.news.naver.com/mnews/article/088/0001011692?sid=102"
   ],
   "titles": [
-    "경상북도경제진흥원, 영세사업장 대상 「중대재해 예방 사각지대 해소 지원사업」 본격 추진 - gjsiminnews.com",
-    "에스엘은 수익성 개선…삼보·PHA는 영업이익 감소",
     "‘탈 오라클’ 수요 겨냥…엔텔스, 다원씨앤에스 인수로 DB 사업 강화",
     "해외사업장 인권리스크 대응 머리 맞댄다…인권위·법무부 2차협의회",
     "대동, 26년 1Q 매출 3777억 원…AI 기반 사업 모델 전환 '가속'",
@@ -1001,6 +999,8 @@
     "[위기가 기회다] 5.끝 구미국가산단 재도약, 해답은 '광역교통망'",
     "봉화군, 세외수입 체납 징수 강화…TF팀 구성·대책 보고회 개최",
     "뉴로메카, 적자 속 R&amp;D·포항 공장에 '1600억 승부수'",
-    "이정훈, 영천 미래 위한 정책 중심 공개 끝장토론 제안"
+    "이정훈, 영천 미래 위한 정책 중심 공개 끝장토론 제안",
+    "경북도, 전략산업 인재 9천명 양성… 연구장비 120종 구축",
+    "대구 동양자동차운전전문학원, KCIA 아카데미 부문 5년 연속 우수업체"
   ]
 }
