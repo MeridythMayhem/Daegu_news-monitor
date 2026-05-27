@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453409",
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=165399",
-    "https://n.news.naver.com/mnews/article/003/0013951039?sid=101",
-    "https://www.sentv.co.kr/article/view/sentv202605180064",
     "https://n.news.naver.com/mnews/article/277/0005764259?sid=101",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50TThvM3NuaWNydkJ5QjMtZEJSTmJpaUQwaDkyZDNfVC1WRElBV0hyTzFwOGVoUTFHZWpxTTRGamdMa09lYjJLMW03UzJDai1jdXdiUjRkY2t0VUdyaWtTMnJ1c0E?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtUFJOOFJuQW1uNGFkZjJHQWJqZUVxN1BfZkRkM1Fqc013UUZPMGJFN2RqaldaaE1udWQycmswTThnZzhNQmw4YmVFNC1lSDhDMmxKQ2VYbkJmV0h5R2N3ZmdzWEpxcTdV?oc=5",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/469/0000932842?sid=100",
     "https://www.newscj.com/news/articleView.html?idxno=3404030",
     "http://www.newstown.co.kr/news/articleView.html?idxno=704577",
-    "https://www.m-i.kr/news/articleView.html?idxno=1375845"
+    "https://www.m-i.kr/news/articleView.html?idxno=1375845",
+    "https://mdtoday.co.kr/news/view/1065592566640770",
+    "http://www.medisobizanews.com/news/articleView.html?idxno=139003",
+    "https://www.m-i.kr/news/articleView.html?idxno=1376310",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024464"
   ],
   "titles": [
-    "K-방산 필수 부품 잡았다…센서뷰, 차세대 무기사업 참여로 몸값 껑충",
-    "미래에셋증권 등 스페이스X 관련주 '장중 활짝'...이슈는?",
-    "대동, 1분기 영업익 60억…올해 AI 농업 플랫폼 전환 본격화",
-    "대동, 1분기 매출 3777억 원…“농업 피지컬 AI 플랫폼 기업 전환 가속”",
     "대동, 1분기 매출 3777억원…전년 比 2.4%↓",
     "대동, 1분기 매출 3777억 원…“농업 피지컬 AI 플랫폼 기업 전환 가속” - 서울경제TV",
     "글로벌 경기 둔화 타격 받은 대동…1Q 매출 3777억 - ebn.co.kr",
@@ -1001,6 +997,10 @@
     "다주택자도 '양도세 중과' 찬반 팽팽... 부동산보다 AI 국민배당금 비판...",
     "오전엔 \"진정성 있다\" 오후엔 \"없다\"… 민주, 정용진 사과 평가 왜 바뀌...",
     "포항시, '전국 유소년 드론축구대회' 개최... 드론체험·전시 프로그램...",
-    "구미시, 소상공인 온라인 판매 거점 유치"
+    "구미시, 소상공인 온라인 판매 거점 유치",
+    "현대제철·포스코 美 합작 제철소, 환경·법률 논란에 제동 걸리나",
+    "부광약품, 드림씨아이에스ㆍAWS와 차세대 신약개발 MOU",
+    "AI 타고 로봇 수요 급증…중진공, 대구·경북 로봇기업 지원 논의",
+    "경북도, 주거취약계층 부동산 중개보수 최대 30만원 지원"
   ]
 }
