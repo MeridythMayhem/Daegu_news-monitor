@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/277/0005764259?sid=101",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50TThvM3NuaWNydkJ5QjMtZEJSTmJpaUQwaDkyZDNfVC1WRElBV0hyTzFwOGVoUTFHZWpxTTRGamdMa09lYjJLMW03UzJDai1jdXdiUjRkY2t0VUdyaWtTMnJ1c0E?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtUFJOOFJuQW1uNGFkZjJHQWJqZUVxN1BfZkRkM1Fqc013UUZPMGJFN2RqaldaaE1udWQycmswTThnZzhNQmw4YmVFNC1lSDhDMmxKQ2VYbkJmV0h5R2N3ZmdzWEpxcTdV?oc=5",
     "https://n.news.naver.com/mnews/article/629/0000499998?sid=101",
     "https://www.businessplus.kr/news/articleView.html?idxno=111906",
@@ -499,11 +497,11 @@
     "https://mdtoday.co.kr/news/view/1065592566640770",
     "http://www.medisobizanews.com/news/articleView.html?idxno=139003",
     "https://www.m-i.kr/news/articleView.html?idxno=1376310",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024464"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024464",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024511",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024534"
   ],
   "titles": [
-    "대동, 1분기 매출 3777억원…전년 比 2.4%↓",
-    "대동, 1분기 매출 3777억 원…“농업 피지컬 AI 플랫폼 기업 전환 가속” - 서울경제TV",
     "글로벌 경기 둔화 타격 받은 대동…1Q 매출 3777억 - ebn.co.kr",
     "포용금융 확대에 CET1 부담까지…금융지주 '건전성 관리' 시험대",
     "[금융권 이모저모]우리금융, '체감형 금융 안전망' 구축 外",
@@ -1001,6 +999,8 @@
     "현대제철·포스코 美 합작 제철소, 환경·법률 논란에 제동 걸리나",
     "부광약품, 드림씨아이에스ㆍAWS와 차세대 신약개발 MOU",
     "AI 타고 로봇 수요 급증…중진공, 대구·경북 로봇기업 지원 논의",
-    "경북도, 주거취약계층 부동산 중개보수 최대 30만원 지원"
+    "경북도, 주거취약계층 부동산 중개보수 최대 30만원 지원",
+    "구미소방서, 국가중요시설 17곳 화재예방대책 종료…방산·배터리업체 ...",
+    "청도군, 지방소멸대응기금 투자사업 발굴 본격화"
   ]
 }
