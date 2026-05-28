@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12T3lYcGJGczFWcndHMW16UlRtYUNCOU1PSnB4akRYajBfalFxR1BPUlY5azQ4d3J4SHgtc3NhMFE5Y2dmQzVwS3pMcWN5dFg1TE9VZkpRSkdLb0Uy?oc=5",
     "https://n.news.naver.com/mnews/article/003/0013951147?sid=101",
     "https://www.asiatime.co.kr/article/20260518500191",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=42326",
@@ -499,10 +498,10 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1376671",
     "https://www.abcn.kr/news/articleView.html?idxno=88340",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024716",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024899"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024899",
+    "https://n.news.naver.com/mnews/article/366/0001167605?sid=101"
   ],
   "titles": [
-    "대동, 북미·유럽 딜러망·데이터 키워 'AI 플랫폼 기업' 전환 박차 - 뉴스1",
     "엔텔스, 다원씨앤에스 지분 51% 114억에 인수",
     "삼성전자 소액주주 대동단결… 성과급 제도화 ‘결사반대’",
     "[오늘의 건설] 현대건설·GS건설",
@@ -1001,6 +1000,7 @@
     "경북 AI 얼라이언스, 포항서 본격 가동",
     "[ABC뉴스 이 책] AI 시대...숲에서 한국 미래 국부(國富)를 보다",
     "경북도 \"영덕, 대형원전 최적지\"…국가 미래 에너지 거점 육성 구상",
-    "경북 농가소득 5천858만원 역대 최고…전국 증가율 1위·소득 2위"
+    "경북 농가소득 5천858만원 역대 최고…전국 증가율 1위·소득 2위",
+    "비토즈, iM뱅크와 지역 디지털 금융 인프라 구축 MOU"
   ]
 }
