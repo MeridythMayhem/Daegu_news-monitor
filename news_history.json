@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.cpbc.co.kr/article/1172933?division=NAVER",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1002030",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTFFCWGctLWN1Ul9ubkstUHVlbHZTUXIxVVBQSXV0MENhS0JScmY5ZWxDTGtSOHJoSTd3VzdzVHAzSmxsMlJvU1VKSDRCQi1faWJz?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tcU11d09DUnprRE5PcGhrZEpSd1Jjc3hYSlAtMGxNZC1WeDVfb2UyMk1QVFVBX2lDN05UZ0pPa0lUaFl0MnRMdi1KVGl1ZHNBMjU1QTNsX3k1NXB3TThGR2R2anE1ZlJYQVhJZA?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVSXIwZUVGMlpsSlY1QjdDUkxFS3lpQUgyTlRYeFhsRlMxYmtUOWtvcGRUMHlrb0VLTTJNUldRNXo1OUxZN0JqTlZEeU1aNnFOMmtObk80c2NCc0VPYzNMeGR0ZjVMUQ?oc=5",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/009/0005686533?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005686532?sid=101",
     "https://www.hidomin.com/news/articleView.html?idxno=707269",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260532"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260532",
+    "https://ysmbc.co.kr/NewsArticle/1520734",
+    "https://n.news.naver.com/mnews/article/018/0006292635?sid=101"
   ],
   "titles": [
-    "이 대통령 5·18 정신 헌법 수록…여야 결단 요청",
-    "천년 고도 나주 매력 빛났다…읍성문화축제 '4만 5천 명' 역대급 흥행",
     "[Up&Down] 한화, 탄약사업 인수 불발 수직계열화 전략 차질 - 네이트",
     "두산, SK실트론 인수 막바지…최태원 개인 지분 29.4%도 연내 확보 - 뉴스락",
     "대한산업안전협회-한국수력원자력, 현장 안전수준 강화에 ‘맞손’ - 안전저널",
@@ -1001,6 +999,8 @@
     "신현송 금융안정 중시하는 매파...유동성 줄여나갈듯",
     "삼전닉스 2배 ETF로 증명한 레버리지의 민족…이 기회에 나도 타봐?",
     "경북도, AI로 경제위기 3~5개월 앞서 예측",
-    "하나금융, 포용금융 로드맵 가동…\"중·저신용자 및 소상공인 재기에 3..."
+    "하나금융, 포용금융 로드맵 가동…\"중·저신용자 및 소상공인 재기에 3...",
+    "포스코 노조, 오늘(28) 광양에서 쟁의대책위 출범",
+    "포스코 노조 쟁의권 확보 불발…직고용 갈등 일단 ‘숨 고르기’"
   ]
 }
