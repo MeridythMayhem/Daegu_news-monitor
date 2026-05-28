@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UTm5aZVJ3TUFfaGF6UXByMEJRUWw2WEdvNHlMT2lGdmFLWmtSa0tHZmY1V0YzNV9HVnVwV1lqWXZ6R0djX3I0M2F3T0NXSk8tUTJNZXVIZVBDeGs0akRJQTF3?oc=5",
-    "https://n.news.naver.com/mnews/article/008/0005359376?sid=101",
-    "https://www.ekn.kr/web/view.php?key=20260518027515626",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TVXpiSDFEMERDOWltaTFMRnI4bk02X0VsMXlNNTA2Z0pXZklYUW55c3lZWlNGZ0t1YVVScl9xb0Jtd3BhZ1YzTU8zdE1CWFRIaWZCMGdKNnBzUdIBVEFVX3lxTFAxOUVUTFVPdkVRNzFBaWFyLVVZc3Y5QWkyaE1WUEM0aEFFUHJLWXRiS2xMRVlKWHFLYXY3Wi1GUFRXWXFmMnZqM01KZlB0RjVVUU1oYQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lR0lNNFh2VnZGN1RaLXhBQ3RDMFlobTNaS09DU0NhRWRydmx3dXZIbGV2Smwxd1lFUUxrcFlVcEJiQ0hZWjc2SFhJcTBTRkJnSm1jczl5Nk1ST0ZtQXFQcWFpYw?oc=5",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453496",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453516",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1257446",
     "https://n.news.naver.com/mnews/article/015/0005288192?sid=101",
     "https://n.news.naver.com/mnews/article/088/0001010423?sid=101",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453472",
@@ -499,17 +491,17 @@
     "https://n.news.naver.com/mnews/article/003/0013972984?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025132",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025147",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025174"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025174",
+    "https://n.news.naver.com/mnews/article/079/0004151714?sid=102",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=438801",
+    "https://n.news.naver.com/mnews/article/008/0005364173?sid=162",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260444",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260429",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260433",
+    "https://n.news.naver.com/mnews/article/008/0005364161?sid=100",
+    "https://www.m-i.kr/news/articleView.html?idxno=1376944"
   ],
   "titles": [
-    "`5조 빅딜` 두산, SK실트론 품는다… 구미 반도체 축 재편 신호탄 - 매일신문",
-    "[단독]'현금' 넘치는 삼성전자…수협·iM뱅크, 예금 첫 거래텄다",
-    "[패트롤] 경주시-경산시-대구북구-영남대-계명대-iM뱅크",
-    "iM뱅크(아이엠뱅크), 대한노인회 대구연합회 ‘파크골프 대회’ 후원금 전달 - 한국경제",
-    "[패트롤] 경주시-경산시-대구북구-영남대-계명대-iM뱅크 - 에너지경제신문",
-    "글로벌 ESS 경쟁 본격화…서진시스템 대형 수주 확보 '눈에 띄네'",
-    "PCB 이송부터 추적까지… 와이제이링크, 독보적 솔루션으로 세계 시장 ...",
-    "수원대학교, 화성 투자협의체 구축 본격화",
     "엘앤에프, LFP 공장 완공…올해 3분기 가동한다",
     "엘앤에프, 대구서 LFP 양극재 양산 시동…'비중국 공급망' 선점 나선다",
     "포장재부터 첨단 배터리 부품까지… 테이팩스, 거침없는 질주 시작되나",
@@ -1001,6 +993,14 @@
     "송치영 포스코이앤씨 사장 \"신반포19·25차 철의 약속 지킬 것\"",
     "한일 정상외교 효과 확산…경북도, 안동 중심 '관광·산업 연계 전략' 가...",
     "포항시, 제6기 지역사회보장계획 수립 착수…\"복지도시 기반 강화\"",
-    "포항상의, 재직자 대상 AI 실무 교육 실시…데이터 수집 자동화 역량 강..."
+    "포항상의, 재직자 대상 AI 실무 교육 실시…데이터 수집 자동화 역량 강...",
+    "iM뱅크-대구보건대, AI 실무 역량 강화 MOU",
+    "포스코이앤씨 신반포19·25차 재건축 결전 눈앞, 송치영 금융조건 확신...",
+    "내일부터 투표 시작…영남권 총공세 나선 與, 김부겸·하정우 지원 총력",
+    "경기도, 'AI 시그널: 톡톡' 출범…송길영 작가 특강 진행",
+    "성남산업진흥원 지원기업, 글로벌 학회서 기술력 입증",
+    "GH, 경기광주역 지식산업센터 분양·임대 시작",
+    "이 조사에선 김부겸, 저 조사에선 추경호…매번 다른 대구민심 '왜?'",
+    "\"나눠주기식 지원 벗어난다\"…한성숙 장관, 데이터 기반 정책 재설계"
   ]
 }
