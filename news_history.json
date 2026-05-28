@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1524772",
-    "http://www.metroseoul.co.kr/article/20260518500321",
-    "http://www.breaknews.com/1207924",
-    "http://www.engdaily.com/news/articleView.html?idxno=22298",
     "https://n.news.naver.com/mnews/article/215/0001252511?sid=101",
     "https://www.socialvalue.kr/news/view/1065582840634694",
     "https://news.cpbc.co.kr/article/1172933?division=NAVER",
@@ -499,13 +495,13 @@
     "http://mcnews.co.kr/86212",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260346",
     "https://www.newscj.com/news/articleView.html?idxno=3404676",
-    "https://n.news.naver.com/mnews/article/469/0000933241?sid=102"
+    "https://n.news.naver.com/mnews/article/469/0000933241?sid=102",
+    "https://www.newspim.com/news/view/20260528001164",
+    "https://n.news.naver.com/mnews/article/374/0000512837?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005686533?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005686532?sid=101"
   ],
   "titles": [
-    "임형도의 경제노트 (35회)",
-    "취임 후 첫 5·18 참석 이 대통령… 5·18 정신 헌법 전문 수록에 최선...",
-    "[김해 소식] 성년의 날 전통 성년례 개최…19세 청년 25명 새 출발 등",
-    "[아프리카특집-농토목]다리보다 논, 철도보다 물 다산컨설턴트, 아프...",
     "대동, 1분기 영업익 72.3%↓...글로벌 농기계 시장 위축 여파",
     "대동, 1분기 매출 3777억원 전년比 2.4%↓…AI 사업 전환으로 위기 돌파...",
     "이 대통령 5·18 정신 헌법 수록…여야 결단 요청",
@@ -1001,6 +997,10 @@
     "DL이앤씨 “압구정5구역, ‘미래 가치’ 끌어올릴 것”",
     "문경시, 대만 한국여행엑스포 참가로 글로벌 관광 홍보",
     "[깊이 읽는 경제] 국민이 키운 반도체 나무, 삼성 노사는 누구의 열매를...",
-    "\"낙하산 밀실 야합\" vs \"좌파 대구 미래 없어\"... 박형룡·이진숙, 달성..."
+    "\"낙하산 밀실 야합\" vs \"좌파 대구 미래 없어\"... 박형룡·이진숙, 달성...",
+    "송치영 포스코이앤씨 사장 \"신반포19·25차, 금융지원금 2억 등 이행할 ...",
+    "포스코 파업 일단 유예…카카오는 초읽기",
+    "신현송 금융안정 중시하는 매파...유동성 줄여나갈듯",
+    "삼전닉스 2배 ETF로 증명한 레버리지의 민족…이 기회에 나도 타봐?"
   ]
 }
