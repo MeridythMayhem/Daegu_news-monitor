@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/015/0005288192?sid=101",
-    "https://n.news.naver.com/mnews/article/088/0001010423?sid=101",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453472",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453506",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1709191",
-    "https://n.news.naver.com/mnews/article/015/0005288206?sid=101",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zYUJUSi1NSGJ4MVNxaWxoQ2ZXYXQ0WmZ0R3lnaFFFLXNtZjVUSHJjRVoyOFZfQjVfNHUzSHNvMXlpbTd2MlpRZkZIV0tSRnM?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IZ01yaUFXWUtnTl9FQ3RRekZ4R0tGN3dMdENhWjJPSHlId1BxVWVVSnFrX01oNVVaekI0QXFmOUF6eExHLXZJczBpMGU4R05aLVRtdWwzelctTll5NUlfeWRidGdSb2dYLVp5Zk90NFpFTm8?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92MWw3Wm5UOWtvY2dtb0lvdDJ1REVJWmNiTTFVc2lTNkQxU1prS2tSUXN4YTYzX1hKTmowSzFJTXotdFEzY3Zfa3NqNTYxSmtCVGNCS21hRnIxUdIBVEFVX3lxTE43MkljT2hLbTZtQjVPb2JRUHI0MG91MmdUT09rTEhYcnRIMHgxMkRtNXlKV3hpTW1USGI5VXlkYm5TVkhCSllqS3Z6aW1sNS1fMTQxQg?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YNm94clF2UDdfcnMxSFJ3TUN6LWVXR1JDMWlub2RSWF9iY3pFUG91RFBWOXc1LWZOWXVRaWJKNng4ZkhhMERWbGdoVUFmVEpZeDhXVmlqckR5b0plaXZ2dzRIbGtYWExXeVZoNXVBUkFFak3SAXdBVV95cUxNTTVvakJUeDlndVJLT0N4Y1hHYTVSNFNRalZteHRIU3hPOWt3b08tZW00Y05CdUNUalFjbXlqYlBZeGphZVdqcE55eDU2SFJOWjl1TERId3RnUnhVRkU4RENqb1l5aFBIckFpTTRsX1BEaU0tUWdxMA?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYlpxM0plOWJ2V0pMcjBQYmlKMWt2QXh3SXpZTVNpazVzOEhiRnFhRVhjUERWOVJFODNzOERBZV84Qkc4UlVqSVFGSFkxUzlub2MtcFRzN1BiVVpvaGZYaFc0TTFCZjltVUxQdS0tbmZCVkNKZkcxc01XbWFwb0NVbA?oc=5",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260429",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260433",
     "https://n.news.naver.com/mnews/article/008/0005364161?sid=100",
-    "https://www.m-i.kr/news/articleView.html?idxno=1376944"
+    "https://www.m-i.kr/news/articleView.html?idxno=1376944",
+    "http://www.queen.co.kr/news/articleView.html?idxno=457669",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025058",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260245",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260438",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260464",
+    "http://mcnews.co.kr/86208",
+    "http://mcnews.co.kr/86210",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260478"
   ],
   "titles": [
-    "엘앤에프, LFP 공장 완공…올해 3분기 가동한다",
-    "엘앤에프, 대구서 LFP 양극재 양산 시동…'비중국 공급망' 선점 나선다",
-    "포장재부터 첨단 배터리 부품까지… 테이팩스, 거침없는 질주 시작되나",
-    "대주전자재료, '차세대 실리콘 음극재' 독점 체제 굳힌다",
-    "[1% 초고수의 선택] '삼성전자' 팔고 'LG전자' 담았다",
-    "빌드블록, 미국 산업용 부동산 개발 사업 확대…서진시스템과 계약 체결",
-    "빌드블록, 미국 산업용 부동산 개발 사업 확대…서진시스템과 계약 체결 - v.daum.net",
-    "서진시스템, 에이스엔지니어링과 1870억 규모 공급계약 체결 - 마켓인",
     "빌드블록, 미국 산업용 부동산 개발 사업 확대…서진시스템과 계약 체결 - 한국경제",
     "글로벌 ESS 경쟁 본격화…서진시스템 대형 수주 확보 '눈에 띄네' - 핀포인트뉴스",
     "서진시스템, 에이스엔지니어링과 1870억 규모 공급계약 체결 - 이데일리",
@@ -1001,6 +993,14 @@
     "성남산업진흥원 지원기업, 글로벌 학회서 기술력 입증",
     "GH, 경기광주역 지식산업센터 분양·임대 시작",
     "이 조사에선 김부겸, 저 조사에선 추경호…매번 다른 대구민심 '왜?'",
-    "\"나눠주기식 지원 벗어난다\"…한성숙 장관, 데이터 기반 정책 재설계"
+    "\"나눠주기식 지원 벗어난다\"…한성숙 장관, 데이터 기반 정책 재설계",
+    "iM뱅크-대구보건대학교, 임직원 AI 실무 역량 강화 위한 교육 협력 MOU 체...",
+    "포항TP, 제조업 AI 전환 시동…영남권 통합 착수보고회 개최",
+    "정읍시, 민관 협력 일자리창출위원회 개최...맞춤형 정책 모색",
+    "경기도미래세대재단, 경계선지능 청년 일 경험 확대",
+    "NH농협은행·중소기업융합경기연합회, 법인제휴카드 협약 체결",
+    "李 대통령 “서소문 사고·GTX 철근누락, 엄정히 책임 물어야”",
+    "서울시, 공인중개사 위법행위 782건 적발",
+    "인천교통공사, 인천시청역 '아트로(ART-RO)인천' 개소"
   ]
 }
