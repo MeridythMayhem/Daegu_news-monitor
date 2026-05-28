@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/215/0001252511?sid=101",
-    "https://www.socialvalue.kr/news/view/1065582840634694",
     "https://news.cpbc.co.kr/article/1172933?division=NAVER",
     "https://www.cnbnews.com/news/articleView.html?idxno=1002030",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTFFCWGctLWN1Ul9ubkstUHVlbHZTUXIxVVBQSXV0MENhS0JScmY5ZWxDTGtSOHJoSTd3VzdzVHAzSmxsMlJvU1VKSDRCQi1faWJz?oc=5",
@@ -499,11 +497,11 @@
     "https://www.newspim.com/news/view/20260528001164",
     "https://n.news.naver.com/mnews/article/374/0000512837?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005686533?sid=101",
-    "https://n.news.naver.com/mnews/article/009/0005686532?sid=101"
+    "https://n.news.naver.com/mnews/article/009/0005686532?sid=101",
+    "https://www.hidomin.com/news/articleView.html?idxno=707269",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260532"
   ],
   "titles": [
-    "대동, 1분기 영업익 72.3%↓...글로벌 농기계 시장 위축 여파",
-    "대동, 1분기 매출 3777억원 전년比 2.4%↓…AI 사업 전환으로 위기 돌파...",
     "이 대통령 5·18 정신 헌법 수록…여야 결단 요청",
     "천년 고도 나주 매력 빛났다…읍성문화축제 '4만 5천 명' 역대급 흥행",
     "[Up&Down] 한화, 탄약사업 인수 불발 수직계열화 전략 차질 - 네이트",
@@ -1001,6 +999,8 @@
     "송치영 포스코이앤씨 사장 \"신반포19·25차, 금융지원금 2억 등 이행할 ...",
     "포스코 파업 일단 유예…카카오는 초읽기",
     "신현송 금융안정 중시하는 매파...유동성 줄여나갈듯",
-    "삼전닉스 2배 ETF로 증명한 레버리지의 민족…이 기회에 나도 타봐?"
+    "삼전닉스 2배 ETF로 증명한 레버리지의 민족…이 기회에 나도 타봐?",
+    "경북도, AI로 경제위기 3~5개월 앞서 예측",
+    "하나금융, 포용금융 로드맵 가동…\"중·저신용자 및 소상공인 재기에 3..."
   ]
 }
