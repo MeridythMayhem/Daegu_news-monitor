@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdzV4SGtjVXp2V2ozdVNySXpKNTZxZ1I2YWtSSFU1c1h5eWRYMmdfMTVtSVVoOVhJbmRHYVFpTkJuR1E5UjVOWXY1ckFVbi1VV3VtSVZLSzBiQ2RyOW9iQWhZaGZ2YjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rZnJFYXQxNks2dmUtU3pGTzRkNUxyb1VqOUktZjM2QXVtaWxqZFpobW81ZFQ4LTNsSGZKbE9laThiRGdEeUZRY3Zibi1rYW8?oc=5",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=246597",
     "https://m.entertain.naver.com/article/213/0001386663",
     "https://www.inthenews.co.kr/news/article.html?no=86984",
@@ -499,11 +497,11 @@
     "https://www.newsway.co.kr/news/view?ud=2026052821384385576",
     "https://news.mtn.co.kr/news-detail/2026052821021969214",
     "https://www.newspim.com/news/view/20260528001286",
-    "https://www.tbc.co.kr/news/view?pno=20260528163439AE00386&id=206849"
+    "https://www.tbc.co.kr/news/view?pno=20260528163439AE00386&id=206849",
+    "https://www.viva100.com/article/20260528501163",
+    "https://www.namdonews.com/news/articleView.html?idxno=911996"
   ],
   "titles": [
-    "한수원, 고경력 안전전문가 첫 선발…7월부터 발전소 현장 배치 - 교수신문",
-    "추경호 “산단 규제 풀어야 대구경제 살아”… AI센터·UAM 유치 공약 제시 - v.daum.net",
     "[1.5금융①] 중저신용자, 지방은행으로 간다...저축은행보다 좋네",
     "축의금으로 100만 원…곽범, 동료 개그맨 '홍박사' 조훈에 거액 쾌척 ...",
     "[iN The Scene] iM뱅크 대한노인회 대구연합회 파크골프대회 후원금",
@@ -1001,6 +999,8 @@
     "중노위 행정지도에 포스코 숨돌렸다…파업 위기 일단 넘겨",
     "'협력직원 직고용' 포스코, 파업 위기 일단 넘겼다…노조 쟁의권 확보 ...",
     "중노위, 포스코 노조에 행정지도…파업 위기 일단 넘겼다",
-    "여야 원내 지도부 총출동...신공항 해법 놓고 '대전'"
+    "여야 원내 지도부 총출동...신공항 해법 놓고 '대전'",
+    "급한 불 끈 포스코⋯ ‘협력사 직고용 반발’ 노조 파업권 불발",
+    "\"사측 책임 묻겠다\"…포스코노조, 2026 단체교섭 앞두고 쟁대위 체제 전..."
   ]
 }
