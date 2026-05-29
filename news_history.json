@@ -1,9 +1,5 @@
 {
   "urls": [
-    "http://www.newsian.co.kr/news/articleView.html?idxno=89791",
-    "https://n.news.naver.com/mnews/article/030/0003428802?sid=101",
-    "https://m.sports.naver.com/general/article/076/0004406543",
-    "https://www.wikitree.co.kr/articles/1137091",
     "https://www.smartbizn.com/news/articleView.html?idxno=144149",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVFacjZCZVo1V1FNYTNEVjBFRGY3M1plT3pnSklvZGFWcGItQ09IZGp2OXJMb0JXT0t1dkI5TmwwVTFYUXRTblJCeXJTZFBzZm5YSThVNnQ3OVVaa01rV2tjTHc0NWs3ZlppUTNRaUhmY0hkZE10QjExTGJCMkpRZ0ZSaWZyM0tUa2pqTNIBoAFBVV95cUxNbGszOWIwc0d2UWVzSy1aUEZLLVp1U0ZRb0xPR2hBQ0ZkNHlNazJpbGFjci1CYm5BNHRFdTlMMlczNjBpUTAyc0g4NGt6Rkhlb1l4cXFwb3pqZUdfclNvbFE4VUhnZ25EYm1wWnpWTXpvSDZzc0UyM3JjNU5SUndJbkFKT2djYVpTV2NvZFVRZ2RBOWZvaVJIaUxzV2JDOHlN?oc=5",
     "https://news.google.com/rss/articles/CBMisAJBVV95cUxOaEZKUlpzUVBGRXF0V0htS1NLUkNCYWxHVk9QR0pJakczdmtCNHJ6TGZjV0hZd0JWYXVfcG1oWUZHR1VtTkRuOGVsdFhKT0tjV2QxYUFoX3BYZHpoYUZrWHE5b2VYOXEyVHB2Ulk2RTIwSTJ3VUkwM2plMVdlMDkyY2Y2eXFhTUlKMnpMNFpxRVBhd1RVVGFXb0E5bmh5M0FzV3M2TkJ4WXFHVzRXaldoVEp4RDRSZUlUWkJubUdyM2lWVTF2dFBHWktwRFFvM1RxSUF3bnY0MGd2WXQycWRySFFjOTI4Vlc5UV8zYk80a2YwRUVQMndQbEJndGViRFg1VGJ1NTJFN2lqYWRPOV90Zmpua0ppcWhwQVRvVU0zUEpMaE9nRF84SDBaS2ljc25s?oc=5",
@@ -499,13 +495,13 @@
     "https://www.youthdaily.co.kr/news/article.html?no=219938",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1710603",
     "http://www.newstomato.com/ReadNews.aspx?no=1302477&inflow=N",
-    "http://www.finomy.com/news/articleView.html?idxno=255035"
+    "http://www.finomy.com/news/articleView.html?idxno=255035",
+    "https://www.newspim.com/news/view/20260529000967",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3595582",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260673",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260657"
   ],
   "titles": [
-    "연봉보다 조직문화… 직장인들이 꼽은 '일하기 좋은 대기업'은 어디",
-    "신반포19·25차, 포스코이앤씨 2억 선지원에 조합원 호응",
-    "'양산시청 수비 에이스' 이다경, 실업챔피언전 女단식 우승! 시군팀 출...",
-    "삼성전자도 제쳤다…SK하이닉스와 '의외의 투톱' 신의 직장 순위는?",
     "[오늘의 건설 브리핑] AI부터 안전·ESG까지···건설·공기업, 현장 ...",
     "포스코이앤씨, 신반포19·25차 재건축에 금융 조건 제안 - 조선비즈 - Chosunbiz",
     "광양제철소, 가정의 달 맞아 ‘포스코미술관 광양’서 직원가족 대상 미술체험교실 운영 - 포스코그룹 뉴스룸",
@@ -1001,6 +997,10 @@
     "'땅'은 미국·'집'은 중국 독주...외국인 부동산 소유 증가세",
     "포스코이앤씨 송치영, 신반포 수주전 'CEO 마케팅' 승부수...한성희 신화...",
     "포스코, ‘직고용’ 갈등…노조, ’투쟁’ 전열 정비",
-    "iM뱅크 노조, 자립준비청년 사회 정착 지원 나서"
+    "iM뱅크 노조, 자립준비청년 사회 정착 지원 나서",
+    "'직고용 갈등' 포스코, '발등의 불' 껐지만 파업 우려 여전",
+    "전국금융노조 iM뱅크대구은행지부, 자립준비청년 지원에 1천만원 후원금...",
+    "순창군, 수도권 도시민 대상 귀농귀촌 교육 운영",
+    "구례군 마산면 복지기동대, 취약계층 주거환경 개선 지원"
   ]
 }
