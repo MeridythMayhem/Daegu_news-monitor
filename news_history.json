@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.smartbizn.com/news/articleView.html?idxno=144149",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVFacjZCZVo1V1FNYTNEVjBFRGY3M1plT3pnSklvZGFWcGItQ09IZGp2OXJMb0JXT0t1dkI5TmwwVTFYUXRTblJCeXJTZFBzZm5YSThVNnQ3OVVaa01rV2tjTHc0NWs3ZlppUTNRaUhmY0hkZE10QjExTGJCMkpRZ0ZSaWZyM0tUa2pqTNIBoAFBVV95cUxNbGszOWIwc0d2UWVzSy1aUEZLLVp1U0ZRb0xPR2hBQ0ZkNHlNazJpbGFjci1CYm5BNHRFdTlMMlczNjBpUTAyc0g4NGt6Rkhlb1l4cXFwb3pqZUdfclNvbFE4VUhnZ25EYm1wWnpWTXpvSDZzc0UyM3JjNU5SUndJbkFKT2djYVpTV2NvZFVRZ2RBOWZvaVJIaUxzV2JDOHlN?oc=5",
-    "https://news.google.com/rss/articles/CBMisAJBVV95cUxOaEZKUlpzUVBGRXF0V0htS1NLUkNCYWxHVk9QR0pJakczdmtCNHJ6TGZjV0hZd0JWYXVfcG1oWUZHR1VtTkRuOGVsdFhKT0tjV2QxYUFoX3BYZHpoYUZrWHE5b2VYOXEyVHB2Ulk2RTIwSTJ3VUkwM2plMVdlMDkyY2Y2eXFhTUlKMnpMNFpxRVBhd1RVVGFXb0E5bmh5M0FzV3M2TkJ4WXFHVzRXaldoVEp4RDRSZUlUWkJubUdyM2lWVTF2dFBHWktwRFFvM1RxSUF3bnY0MGd2WXQycWRySFFjOTI4Vlc5UV8zYk80a2YwRUVQMndQbEJndGViRFg1VGJ1NTJFN2lqYWRPOV90Zmpua0ppcWhwQVRvVU0zUEpMaE9nRF84SDBaS2ljc25s?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWl1NkptVFo1dGVhT1RlQ00xa0pxdVRkY2NKcGl5bTBOWXFOdUNMb2txekI1NDg1Q3VxdktVN05fOHFMc29qWVJSa0JOZ0ZncjZUbGxoX0JoX0NQanY3bXRDMThSUUNRQm5mZjBFNmZoVzhRVnI3TnctVmQyeDJ1T0dMdXQ4ZnBWSVJkWXNjQjl3MEJKZVJJa19hVQ?oc=5",
     "https://n.news.naver.com/mnews/article/366/0001165273?sid=105",
     "https://www.hidomin.com/news/articleView.html?idxno=705825",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=266432",
@@ -499,13 +495,13 @@
     "https://www.newspim.com/news/view/20260529000967",
     "https://www.gukjenews.com/news/articleView.html?idxno=3595582",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260673",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260657"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260657",
+    "https://www.insightkorea.co.kr/news/articleView.html?idxno=247309",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260712",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260710",
+    "https://n.news.naver.com/mnews/article/011/0004625917?sid=100"
   ],
   "titles": [
-    "[오늘의 건설 브리핑] AI부터 안전·ESG까지···건설·공기업, 현장 ...",
-    "포스코이앤씨, 신반포19·25차 재건축에 금융 조건 제안 - 조선비즈 - Chosunbiz",
-    "광양제철소, 가정의 달 맞아 ‘포스코미술관 광양’서 직원가족 대상 미술체험교실 운영 - 포스코그룹 뉴스룸",
-    "ACE 포스코그룹포커스(469170) - 매일경제 마켓",
     "일하기 좋은 대기업 1위에 SK하이닉스…급여·복지 부문에서 최고점",
     "포스코퓨처엠 내화물2공장, 포항 청림동에 기부물품 전달",
     "[권태오 장군의 '영점사격'] 계산된 트럼프의 젠슨 황 대동과 메시지",
@@ -1001,6 +997,10 @@
     "'직고용 갈등' 포스코, '발등의 불' 껐지만 파업 우려 여전",
     "전국금융노조 iM뱅크대구은행지부, 자립준비청년 지원에 1천만원 후원금...",
     "순창군, 수도권 도시민 대상 귀농귀촌 교육 운영",
-    "구례군 마산면 복지기동대, 취약계층 주거환경 개선 지원"
+    "구례군 마산면 복지기동대, 취약계층 주거환경 개선 지원",
+    "장인화 포스코 회장, 기술·안전경영으로 '관세·노사 위기' 돌파한다",
+    "김종호 기술보증기금 이사장, ㈜정양에스지 현장 간담회 진행",
+    "한국해양진흥공사, 케플러와 해운 정보 글로벌 활용 협력",
+    "“보수 심장까지 내줄 순 없어” “또 속으면 대구는 평생 꼴찌”"
   ]
 }
