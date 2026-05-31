@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV80V1pGbTd5QUVoWlhMQk05WVp4OURiOGhubjl5NFpXN0hiUXRwckFfekpuSWNSbnNyMFpjUXQ0YWxvTnRDUV83b2wxa0sxOUdsT0NqV3cyTFRUYmlRN3N1Y0c?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CaGR2WkF4cXZBTmhGcFdCTWNVQWFkYnZYX2QxazYxVmJyVkRLOHRQdS1YX2luaVV6ZGt3MmN2Tk14RVVnUTVxdzItbEJ6YjNXZEg1Wm1aMWs3dGpYTjF3amU4NXBMa1FJ?oc=5",
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wYlRJeGdaeDRzLW5YbDVzdk9xeHkxZzYtcmZJQ0FhYkhUMFZwV0xEazNQei1uSTNhV1F0N1QwY2ZLUm54UnBJd0hjRQ?oc=5",
     "https://n.news.naver.com/mnews/article/088/0001010458?sid=102",
@@ -499,10 +498,10 @@
     "https://weekly.hankooki.com/news/articleView.html?idxno=7166662",
     "https://n.news.naver.com/mnews/article/119/0003096317?sid=162",
     "https://www.ekn.kr/web/view.php?key=20260531024029334",
-    "https://n.news.naver.com/mnews/article/009/0005687449?sid=101"
+    "https://n.news.naver.com/mnews/article/009/0005687449?sid=101",
+    "https://www.tbc.co.kr/news/view?pno=20260531181518AE00479&id=206899"
   ],
   "titles": [
-    "대동, 1분기 매출 3777억·영업이익 60억…AI 기반 사업 전환 가속 - 디지털데일리",
     "한국수력원자력, 고경력 안전전문가 내세워 '산업 재해' 원천 차단 - 뉴스포스트",
     "If generative artificial intelligence (AI) changed the world of text and knowledge, the industry's a.. - 매일경제",
     "[한일정상회담]'한일 지역경제 협력 포럼' 20일 경북도청서 개최...한일...",
@@ -1001,6 +1000,7 @@
     "[금주의인물] 임광현 국세청장, '탈세 슈퍼카' 근절할 저승사자",
     "[6·3 픽] 김부겸 측 \"지금 대구에 필요한 건 정당 아닌 경제 살릴 사람...",
     "파업 위기 넘겼지만 “소통 부재” 반발…포스코 ‘협력사 직고용’ 가...",
-    "\"첨단산업 AI·반도체 육성 잘했다\" 67% … 노동정책 부정적 72%"
+    "\"첨단산업 AI·반도체 육성 잘했다\" 67% … 노동정책 부정적 72%",
+    "D-3 김부겸 '신공항 착수' VS 추경호 '보수 심장 지켜야'"
   ]
 }
