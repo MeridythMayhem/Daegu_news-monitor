@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.samdailbo.com/news/articleView.html?idxno=264510",
-    "https://n.news.naver.com/mnews/article/008/0005359455?sid=101",
     "https://www.sentv.co.kr/article/view/sentv202605180101",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EUjhZek9tb1FiUlZ0NlVxZ1FJQzg3ekNERXhfSGh3ZXM4STk5ako4d0sxMTRmcTR5Sm1qeHkyMDM4RzZ2NmQ3d0hpQ29fcXNxRlV0SVdObHlZMTI3TFpvTGpTcWo?oc=5",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9paUM2a3otSnBNck9nTFJKN2Q3QXh4ZS14eVhuTzl4TEhsajNCM1JMdnFDWnhCa29ueGotY1EwMm9lNW0zVFBkRnZIRlJWcVBqQS1Ib2xUMlZFelJOTVAwQ0k5eWk?oc=5",
@@ -499,11 +497,11 @@
     "https://www.jnilbo.com/news/articleView.html?idxno=90000038852",
     "https://n.news.naver.com/mnews/article/138/0002229477?sid=101",
     "https://www.etoday.co.kr/news/view/2589476",
-    "https://www.youthdaily.co.kr/news/article.html?no=220022"
+    "https://www.youthdaily.co.kr/news/article.html?no=220022",
+    "https://n.news.naver.com/mnews/article/366/0001168476?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026022"
   ],
   "titles": [
-    "제주 관광의 미래, 디지털 관광증이 답하다",
-    "K배터리 소재 나란히 실적 반등..ESS 비중국산 수혜 본격화되나",
     "‘GS 4세’ 허제홍, 엘앤에프 복귀 다섯 달…“양극재 집중”",
     "‘GS 4세’ 허제홍, 엘앤에프 복귀 다섯 달…“양극재 집중” - 서울경제TV",
     "엘앤에프, LFP 양극재 자회사 '엘앤에프플러스' 준공 - 베타뉴스",
@@ -1001,6 +999,8 @@
     "\"부동산 탈세 꼼짝 마\"…국세청 제보 10건 중 8건 '수도권' 집중",
     "\"포스코 기본급 7.1%·현대제철 성과급 150% 올려야\"…철강노조 요구안 ...",
     "철강업계 임단협 본격화…포스코 노조 기본급 7.1%·현대제철 성과급 15...",
-    "'시장 과열' 양상 고스란히...부동산 탈세 제보 81% 수도권 집중"
+    "'시장 과열' 양상 고스란히...부동산 탈세 제보 81% 수도권 집중",
+    "국세청 부동산 탈세 제보 80%가 수도권 집중",
+    "구미시, 안전예산 1766억 편성…드론·스마트 안전망 확대"
   ]
 }
