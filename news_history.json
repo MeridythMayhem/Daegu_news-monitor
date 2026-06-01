@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9paUM2a3otSnBNck9nTFJKN2Q3QXh4ZS14eVhuTzl4TEhsajNCM1JMdnFDWnhCa29ueGotY1EwMm9lNW0zVFBkRnZIRlJWcVBqQS1Ib2xUMlZFelJOTVAwQ0k5eWk?oc=5",
-    "https://n.news.naver.com/mnews/article/020/0003720445?sid=101",
     "https://n.news.naver.com/mnews/article/030/0003428815?sid=101",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpSWJhNEtxOWQxa1l5VVhWQzREVDY0M3ZqWk4xUWI1Y21XS0VOcnpZTk1kdUU0bVR0X3JVRldVTDNqQzVnU2dELXc1OEVoMElTeUtWbkRpZnE5N1oyM2E1eDhpQlpJWkFLVkRIWnFWNHY2UFk2SEHSAWZBVV95cUxOOXpIZzYwTVJFaURBMXRwdEZJamJLZ01GbGVoOEFLMVBsazl2dzRLcGdQUXlSSnU2a1RORzBHN3huYkJYX3FIWk84ZzZCaEZvZk51NDNxWHluX1BlR25IMmhaTEpfV1E?oc=5",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HamMxYmJNTnQ4OWN1RmVkeW5GZDZwSGZGQ1l5blJWazNRSXYtRzJ4eG5zWXp1YWVxbm40X1YtWFNpblphZkI2UjZXMXd1QQ?oc=5",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/366/0001168476?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026022",
     "https://www.delighti.co.kr/news/articleView.html?idxno=117139",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026187"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026187",
+    "http://fpn119.co.kr/251947",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026233"
   ],
   "titles": [
-    "엘앤에프, LFP 양극재 자회사 '엘앤에프플러스' 준공 - 베타뉴스",
-    "“국내 소부장 기업 美 안착 돕는다” … 빌드블록, 서진시스템과 현지...",
     "빌드블록, 서진시스템과 미국 플랜트 공장 개발 파트너십 체결",
     "“국내 소부장 기업 美 안착 돕는다” … 빌드블록, 서진시스템과 현지 공장 신축·관리 계약 체결 - 동아일보",
     "빌드블록, 서진시스템과 미국 플랜트 공장 개발 파트너십 체결 - 전자신문",
@@ -1001,6 +999,8 @@
     "국세청 부동산 탈세 제보 80%가 수도권 집중",
     "구미시, 안전예산 1766억 편성…드론·스마트 안전망 확대",
     "포스코 기본급 7.1% 인상·현대제철 성과급 150% 증액 요구…노조 협상 ...",
-    "청도군, 위기청소년 특별지원 심의…4명에 생활지원금 지급"
+    "청도군, 위기청소년 특별지원 심의…4명에 생활지원금 지급",
+    "대구 달서구 공장 사무동 화재… 인명피해 없어",
+    "경북도, SK바이오사이언스 차세대 백신사업 국민성장펀드 선정"
   ]
 }
