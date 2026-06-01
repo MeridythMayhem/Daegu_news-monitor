@@ -1,8 +1,5 @@
 {
   "urls": [
-    "http://www.queen.co.kr/news/articleView.html?idxno=457091",
-    "https://www.businessplus.kr/news/articleView.html?idxno=111937",
-    "http://www.thevaluenews.co.kr/news/view.php?idx=198833",
     "http://www.samdailbo.com/news/articleView.html?idxno=264510",
     "https://n.news.naver.com/mnews/article/008/0005359455?sid=101",
     "https://www.sentv.co.kr/article/view/sentv202605180101",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/020/0003723572?sid=102",
     "https://n.news.naver.com/mnews/article/469/0000933730?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025762",
-    "https://www.jnilbo.com/news/articleView.html?idxno=90000038852"
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000038852",
+    "https://n.news.naver.com/mnews/article/138/0002229477?sid=101",
+    "https://www.etoday.co.kr/news/view/2589476",
+    "https://www.youthdaily.co.kr/news/article.html?no=220022"
   ],
   "titles": [
-    "iM뱅크, 대한노인회 대구연합회장기 파크골프대회 후원",
-    "[금융권 이모저모]우리은행, 'WON하는 부동산' 원스톱 주거 서비스 강화...",
-    "[산업 레이더] KCC·삼성重·SKC ‘기술 승부수’…조선·소재·반도체,...",
     "제주 관광의 미래, 디지털 관광증이 답하다",
     "K배터리 소재 나란히 실적 반등..ESS 비중국산 수혜 본격화되나",
     "‘GS 4세’ 허제홍, 엘앤에프 복귀 다섯 달…“양극재 집중”",
@@ -1001,6 +998,9 @@
     "[부고]김순자 별세 外",
     "현장성 높인 AI·직무역량 교육으로 '청년의 내일' 여는 포스코그룹",
     "경북휴먼테크고, 한국가스기술공사와 청정에너지 인재 양성 협약",
-    "\"부동산 탈세 꼼짝 마\"…국세청 제보 10건 중 8건 '수도권' 집중"
+    "\"부동산 탈세 꼼짝 마\"…국세청 제보 10건 중 8건 '수도권' 집중",
+    "\"포스코 기본급 7.1%·현대제철 성과급 150% 올려야\"…철강노조 요구안 ...",
+    "철강업계 임단협 본격화…포스코 노조 기본급 7.1%·현대제철 성과급 15...",
+    "'시장 과열' 양상 고스란히...부동산 탈세 제보 81% 수도권 집중"
   ]
 }
