@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpSWJhNEtxOWQxa1l5VVhWQzREVDY0M3ZqWk4xUWI1Y21XS0VOcnpZTk1kdUU0bVR0X3JVRldVTDNqQzVnU2dELXc1OEVoMElTeUtWbkRpZnE5N1oyM2E1eDhpQlpJWkFLVkRIWnFWNHY2UFk2SEHSAWZBVV95cUxOOXpIZzYwTVJFaURBMXRwdEZJamJLZ01GbGVoOEFLMVBsazl2dzRLcGdQUXlSSnU2a1RORzBHN3huYkJYX3FIWk84ZzZCaEZvZk51NDNxWHluX1BlR25IMmhaTEpfV1E?oc=5",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HamMxYmJNTnQ4OWN1RmVkeW5GZDZwSGZGQ1l5blJWazNRSXYtRzJ4eG5zWXp1YWVxbm40X1YtWFNpblphZkI2UjZXMXd1QQ?oc=5",
-    "https://n.news.naver.com/mnews/article/215/0001252534?sid=101",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=262594",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=839445",
     "https://www.dkilbo.com/news/articleView.html?idxno=544683",
     "https://n.news.naver.com/mnews/article/011/0004622061?sid=101",
     "https://www.kpinews.kr/newsView/1065598748632402",
@@ -499,14 +494,14 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026187",
     "http://fpn119.co.kr/251947",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5026233",
-    "https://n.news.naver.com/mnews/article/629/0000504027?sid=102"
+    "https://n.news.naver.com/mnews/article/629/0000504027?sid=102",
+    "https://www.ceoscoredaily.com/page/view/2026060110073394261",
+    "http://www.breaknews.com/1211262",
+    "https://n.news.naver.com/mnews/article/586/0000130469?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1261353",
+    "https://www.nspna.com/news/?mode=view&newsid=815136"
   ],
   "titles": [
-    "“국내 소부장 기업 美 안착 돕는다” … 빌드블록, 서진시스템과 현지 공장 신축·관리 계약 체결 - 동아일보",
-    "빌드블록, 서진시스템과 미국 플랜트 공장 개발 파트너십 체결 - 전자신문",
-    "인생 달다 부러움 사더니…삼전·현대차 제치고 직장인 '최애' 올랐다",
-    "하나금융, 두나무 지분 1조33억 인수…스테이블코인·블록체인 협력 본...",
-    "잡플래닛, 일하기 좋은 대기업 TOP10 발표",
     "조선내화, 철강 경기 침체 속에서도 1분기 영업익 90억",
     "10m 천장고에 인피니티 풀까지 ‘0.1%’ 경쟁…1채 1000억 시대 오나",
     "신규주택 가뭄 예정된 하반기…'3기 신도시' 단비 될까",
@@ -1001,6 +996,11 @@
     "청도군, 위기청소년 특별지원 심의…4명에 생활지원금 지급",
     "대구 달서구 공장 사무동 화재… 인명피해 없어",
     "경북도, SK바이오사이언스 차세대 백신사업 국민성장펀드 선정",
-    "울진군, 여름 관광객 맞이 총력전…방송·SNS·인플루언서 전방위 활용"
+    "울진군, 여름 관광객 맞이 총력전…방송·SNS·인플루언서 전방위 활용",
+    "포스코·현대제철, 고관세에 노조 리스크까지 ‘겹악재’…기본금·성과...",
+    "경북도, ‘경주 글로벌 CEO 서밋’ 본격 준비…세계 경제리더 네트워크...",
+    "[진주 24시] 진주시, 동부시립도서관 건립 공사 재개…가처분 인용",
+    "경북도, 6월 1일부터 경제총조사 진행",
+    "[글로벌전략]경북도, 경주 글로벌 CEO SUMMIT 추진…POST APEC 협력무대 ..."
   ]
 }
