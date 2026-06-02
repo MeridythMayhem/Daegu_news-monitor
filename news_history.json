@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/011/0004622049?sid=100",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Gakh5TW5lblNHUWFCeVBZdjN0OE1xTVRXWHE0UnVSdGV2V1NVd0lYN3gwUndpR0FXam4yajRNTFpReGdFWlNvWmduLS10S3pjVVg5aHlZTV9JTzRfZFdF?oc=5",
     "https://n.news.naver.com/mnews/article/009/0005681802?sid=101",
     "https://www.m-i.kr/news/articleView.html?idxno=1374029",
@@ -499,10 +498,10 @@
     "https://www.hidomin.com/news/articleView.html?idxno=707745",
     "https://www.hidomin.com/news/articleView.html?idxno=707744",
     "https://n.news.naver.com/mnews/article/022/0004132304?sid=102",
-    "https://mdtoday.co.kr/news/view/1065575215056732"
+    "https://mdtoday.co.kr/news/view/1065575215056732",
+    "https://idsn.co.kr/news/view/1065596130115840"
   ],
   "titles": [
-    "李 “5월 정신 헌법전문 수록…민주 유공자 직권등록에도 최선”",
     "농기계 양강 1분기 성적표…TYM '웃고 vs 대동 '울고' - 뉴스토마토",
     "삼전닉스ETF '넘버3'… 삼성전기·SK스퀘어·한미반도체 각축",
     "한·일정상회담에 선유줄불놀이·하회마을 관심 쏠려",
@@ -1001,6 +1000,7 @@
     "포항 장흥동 공장서 화재…가연성가스 정화설비 일부 소실",
     "포항 대송면 공장서 새벽 화재…철 스크랩 22톤 소실",
     "포항 남구 공장서 화재… 고철 22t 불에 타 [사건수첩]",
-    "포스코 노조, 기본급 7.1% 인상 요구…직접고용 이슈까지 '첩첩산중'"
+    "포스코 노조, 기본급 7.1% 인상 요구…직접고용 이슈까지 '첩첩산중'",
+    "[2일 사건사고]포항 고철가공업체 공장 화재…고철 22t 소실 등"
   ]
 }
