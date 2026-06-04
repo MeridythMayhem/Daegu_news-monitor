@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/648/0000047252?sid=101",
     "https://www.hidomin.com/news/articleView.html?idxno=705866",
     "http://www.kjdaily.com/article.php?aid=1779096782678852018",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3023080",
@@ -499,10 +498,10 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027017",
     "http://www.dailypop.kr/news/articleView.html?idxno=99358",
     "https://www.eroun.net/news/articleView.html?idxno=82378",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027105"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027105",
+    "https://n.news.naver.com/mnews/article/088/0001013121?sid=101"
   ],
   "titles": [
-    "MA 잠룡 하나금융, 비은행서 '두나무'로 눈돌린 이유는",
     "경찰·기업·시니어 손잡고 여성안전 지킨다, 포항형 '여생안전 2026' 본...",
     "[사설]5·18 기념행사가 K-민주주의 축제로 승화되려면",
     "[인천 행정개편으로 돌아보는 역사] 사라지는 이름 '동구'… 제물포구에...",
@@ -1001,6 +1000,7 @@
     "예천군, 경북농식품대전 참가…지역 농특산물 판로 확대 나서",
     "포스코·현대제철 임단협에 카카오 부분파업까지…산업계 긴장",
     "에코프로, 2028년까지 전 공정 AI 전환… '스마트 팩토리' 속도 낸다",
-    "영천시, 육묘 실패 농가에 벼 긴급 예비묘 3천 상자 공급"
+    "영천시, 육묘 실패 농가에 벼 긴급 예비묘 3천 상자 공급",
+    "대구경북 홈플러스 5개 지점 결국 폐점… 희망퇴직도 단행"
   ]
 }
