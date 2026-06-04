@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/660/0000109601?sid=100",
-    "https://n.news.naver.com/mnews/article/088/0001010487?sid=102",
-    "https://www.hellot.net/news/article.html?no=112664",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzZVpzNF85bWpleV9ieGJWaFZTV0lmSEVoeG95TnU3cmFTNDZ4RGc1VTRobC1ST2c3c1FIWkpqcjdjTjlzdFhRMGdPaVFUNUxpcXVLaGhaZWZTUdIBVEFVX3lxTE5Ub0lqM0pvbFRVdjZLTktYdFBVSU5oRF9CWnJHcXdIcHRyY240V3NSa0JGM09YZ2FBV0M1ZzlsMnR0Y2JQZWxHUmtTZFFHVTNibFIzNQ?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE51d0VBeFhfcUtYZTROODRMTmVpaEtYWWMtSUQtRjhuam50YXA5MEF5cnJPaV9RTXlTQ1VLSV9yMXJjVlU0SGo5eXFoTTRsdUtWQm5hTHU0OVdpV3c4OURLYXR3R09jREZ1c0lKdVE4c0czNkU?oc=5",
-    "https://www.yeongnam.com/web/view.php?key=20260518021243949",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrQko0bmVzQjQyV1JxS3gzMHhBYm90czZwdUtNQWhaTm9PY0JpeXJYOGFhOTlrSTY1WUQ4bUVtdmxHQjV1anQzckx2LWV4NHBHVk5QemJXa2xOS011cGhkeDBQRQ?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5za1lPaFNxZS1KQUk2TExzMDBqdjJxS0tzWFZ4UTdCRW93al9hQjdBd0Vud2NNUV9RODlPMTFKSUE1RW82eXhsM08xMWtaTmU2MnlVNU9DMkx5M0RHTVR0VHpSd2N0bU02?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE52Y1JtSVU2NEFPMU00cW9mWENXeFJrNXJDOVFFd21PM2t4RG9XNGhReC1fM1BBRUUzNlljY09OcHlrLTBPT1BtRm9Pd29JRTB6MEpFTF9GTUFrZDVpN3QyTnUxeU1MYmkxNVE?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JSE4xQnh1dURRRUEtX0d2WDFwZk55cnpDZWFPams2MTY2MDVWZ2FjTzhTaDNPWjVMbzYwSTJsV1h0THVZQVI1N3lYWGNuaHR4Sm9CV2hTOVVYdDBaMXlsVUxGZGtpb1BNQ2c?oc=5",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1262309",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1262328",
     "https://www.tbc.co.kr/news/view?pno=20260604162544AE00678&id=207023",
-    "https://www.tbc.co.kr/news/view?pno=20260604165325AE00680&id=207020"
+    "https://www.tbc.co.kr/news/view?pno=20260604165325AE00680&id=207020",
+    "https://www.theguru.co.kr/news/article.html?no=102647",
+    "https://www.ekn.kr/web/view.php?key=20260604020250599",
+    "https://www.bigtanews.co.kr/article/view/big202606040013",
+    "https://www.m-i.kr/news/articleView.html?idxno=1378433",
+    "https://n.news.naver.com/mnews/article/016/0002652279?sid=104",
+    "https://n.news.naver.com/mnews/article/056/0012194305?sid=104",
+    "https://n.news.naver.com/mnews/article/001/0016120749?sid=104"
   ],
   "titles": [
-    "'똘똘이' 김상욱 울산 적벽대전, 불어라 동남풍...국힘에 불벼락, 민주...",
-    "성밖숲 이천변 수놓은 '생명 낙화놀이' 감동의 정점",
-    "[헬로스톡] 5/18 주목할 종목 : LS·이수페타시스·후성·SBS",
-    "반도체용 국산 초순수…SK실트론 공정에 첫 투입 - 한국경제",
-    "산업·우리은행, 두산 SK실트론 인수금융 공동 주선 - 마켓인",
-    "이자 못 갚아 임의경매된 부동산, 대구 넉달만 1천건 돌파",
-    "이자 못 갚아 임의경매된 부동산, 대구 넉달만 1천건 돌파 - Yeongnam Ilbo",
     "[이슈체크] 흔들리는 연호지구 법조타운…투자심리·알파시티 기대감도 ‘주춤’ - 대구일보",
     "경찰·기업·시니어 손잡고 여성안전 지킨다, 포항형 ‘여생안전 2026’ 본격 운영 - hidomin.com",
     "포항상의, 한-UAE CEPA 협정·대미 수출 원산지 규정·판정 설명회 - hidomin.com",
@@ -1001,6 +994,13 @@
     "영천시, 경북농식품산업대전 참가…우수 농식품 홍보",
     "경북도·대구시, 서울국제관광전서 공동 관광마케팅",
     "\"기업 유치부터 인프라까지\"...유권자가 바라는 '새 시정'",
-    "추경호 \"대구 경제 살리기에 최선\""
+    "추경호 \"대구 경제 살리기에 최선\"",
+    "'슈퍼 태풍 극복' 포스코, 글로벌 철강사에 위기 관리 역량 '한 수 지도...",
+    "[패트롤] 익산시-익산교육청",
+    "‘TK 벽은 이번에도 견고’",
+    "의료용 대마·수소발전 길 열린다…규제자유특구 7곳 지정 추진",
+    "“푸틴-트럼프 터널 현실화?”…美·러, 베링해협 해저터널 협정 체결 ...",
+    "“미·러 잇는 베링해협 해저터널 협정 체결 예정”",
+    "\"미·러, 베링해협 '푸틴-트럼프' 터널 협정 체결 예정\""
   ]
 }
