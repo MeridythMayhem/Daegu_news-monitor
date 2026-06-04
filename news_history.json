@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aitimes.kr/news/articleView.html?idxno=40081",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605140836597840108426",
     "https://n.news.naver.com/mnews/article/374/0000510860?sid=101",
     "https://n.news.naver.com/mnews/article/648/0000047252?sid=101",
     "https://www.hidomin.com/news/articleView.html?idxno=705866",
@@ -499,11 +497,11 @@
     "https://www.yeongnam.com/web/view.php?key=20260603022437938",
     "https://www.yeongnam.com/web/view.php?key=20260604021317983",
     "http://www.fieldnews.kr/news/articleView.html?idxno=29046",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027017"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027017",
+    "http://www.dailypop.kr/news/articleView.html?idxno=99358",
+    "https://www.eroun.net/news/articleView.html?idxno=82378"
   ],
   "titles": [
-    "AI 전환, 기술보다 현장이 문제였다··· LG전자·SKT·K증권, AX 실전...",
-    "[더벨][두나무 세컨더리 BM 점검] 자체 브랜드 기와 출격, 차세대 사업 ...",
     "카카오·포스코까지 '들썩'…줄파업 우려 고조",
     "MA 잠룡 하나금융, 비은행서 '두나무'로 눈돌린 이유는",
     "경찰·기업·시니어 손잡고 여성안전 지킨다, 포항형 '여생안전 2026' 본...",
@@ -1001,6 +999,8 @@
     "‘정도경영’ 원칙 국내 차부품산업 역사 경창산업 손기창 명예회장 별...",
     "혈액암 이긴 이철우 3선…TK통합·공항 정면 돌파할까",
     "[단독] 감사원, 국세청 개청 이래 최초 '지방청 인사팀' 디지털 포렌식...",
-    "예천군, 경북농식품대전 참가…지역 농특산물 판로 확대 나서"
+    "예천군, 경북농식품대전 참가…지역 농특산물 판로 확대 나서",
+    "포스코·현대제철 임단협에 카카오 부분파업까지…산업계 긴장",
+    "에코프로, 2028년까지 전 공정 AI 전환… '스마트 팩토리' 속도 낸다"
   ]
 }
