@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JSE4xQnh1dURRRUEtX0d2WDFwZk55cnpDZWFPams2MTY2MDVWZ2FjTzhTaDNPWjVMbzYwSTJsV1h0THVZQVI1N3lYWGNuaHR4Sm9CV2hTOVVYdDBaMXlsVUxGZGtpb1BNQ2c?oc=5",
-    "https://www.ggilbo.com/news/articleView.html?idxno=1158938",
     "https://www.dkilbo.com/news/articleView.html?idxno=544702",
     "https://www.hidomin.com/news/articleView.html?idxno=705902",
     "https://n.news.naver.com/mnews/article/658/0000144244?sid=100",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/056/0012194305?sid=104",
     "https://n.news.naver.com/mnews/article/001/0016120749?sid=104",
     "https://n.news.naver.com/mnews/article/032/0003450153?sid=102",
-    "http://fpn119.co.kr/252146"
+    "http://fpn119.co.kr/252146",
+    "https://www.taxtimes.co.kr/news/article.html?no=275419",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=58694"
   ],
   "titles": [
-    "포항상의, 한-UAE CEPA 협정·대미 수출 원산지 규정·판정 설명회 - hidomin.com",
-    "[주식마감] '세계 최초' 원자층성장(ALG) 장비 출하 소식에 주성엔지니...",
     "포항북부서, 여성 1인 공간 범죄예방 '여생안전 2026' 본격 운영",
     "하늘길·바닷길 열고 첨단특구 유치'",
     "李 “5·18 정신, 헌법에 꼭 수록”…국힘 “與, 자유민주주의 파괴”(종...",
@@ -1001,6 +999,8 @@
     "“미·러 잇는 베링해협 해저터널 협정 체결 예정”",
     "\"미·러, 베링해협 '푸틴-트럼프' 터널 협정 체결 예정\"",
     "경북경찰, ‘공무원 승진 청탁’ 수사 대상자 숨겨준 지인 구속",
-    "경북 포항시 고철가공처리 공장 화재... 자재 22t 소실"
+    "경북 포항시 고철가공처리 공장 화재... 자재 22t 소실",
+    "국세청 고공단, 상반기 정기인사 앞두고 누가 사직서 냈나?",
+    "감사원, 인천지방국세청 인사팀 포렌식 감사 착수"
   ]
 }
