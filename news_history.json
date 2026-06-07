@@ -1,9 +1,5 @@
 {
   "urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=203524",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=262728",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4415613",
-    "http://www.ftoday.co.kr/news/articleView.html?idxno=359144",
     "https://www.g-enews.com/view.php?ud=202605191016029803084322ec9_1",
     "https://n.news.naver.com/mnews/article/421/0008952853?sid=103",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0QVNVRnJwM2lkdXliTjh3cTdIV2Y2MGUyMTBKLTJ1cFk5TXFramwxbnNSVUQ2ZjF0bEMxaGtqajVVb0JMLTJFcnl1OUxFR2dJUHp4R1pn?oc=5",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/022/0004133444?sid=100",
     "https://www.yeongnam.com/web/view.php?key=20260607027084907",
     "https://www.kbmaeil.com/article/20260607500138",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027749"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027749",
+    "https://n.news.naver.com/mnews/article/088/0001013379?sid=102",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260607010002140",
+    "https://n.news.naver.com/mnews/article/088/0001013394?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027869"
   ],
   "titles": [
-    "JW중외제약, 자궁근종선근증학회와 철결핍성 빈혈 질환 공개강좌 개최",
-    "포스코, 스마트공장 지원 확대…AI 트랙 신설로 제조 현장 고도화",
-    "포스코, 중소기업 도와 스마트공장 구축…제조AI 전환 지원",
-    "[이번 주 분양 시장] 수도권·지방 전역 브랜드 대단지 줄줄이 출격",
     "포스코, 중소기업 제조AI 전환 지원 확대…스마트공장 ‘AI 트랙’ 신설",
     "JW중외제약, 철결핍성 빈혈 공개강좌…여성 조기 진단 중요",
     "포스코, 중소기업 스마트공장 구축 지원 팔 걷어 - 헤럴드경제",
@@ -1001,6 +997,10 @@
     "군함 못 만드는 미국…한국 조선소 문 두드렸다 [박수찬의 軍]",
     "[대구 시군구 재정점검 시리즈]수십억씩 쓰는 경북 시·군축제, 수익 회...",
     "포스코그룹, 23개국서 ‘글로벌 볼런티어 위크’…산불 대응·AI 돌봄까...",
-    "경북도, AI 해외마케팅 플랫폼 공동 활용…중소기업 수출 지원 강화"
+    "경북도, AI 해외마케팅 플랫폼 공동 활용…중소기업 수출 지원 강화",
+    "[인사]대구경찰청-&lt;총경급&gt;",
+    "장인화 포스코 회장, 산불 취약 마을 찾아 낙엽 정리…생활안전 봉사",
+    "김대종 세종대 경영학부 교수 \"치솟는 환율…제2 외환위기 촉발 우려 커...",
+    "영천시, 경북 농식품 수출정책 평가 우수상 수상"
   ]
 }
