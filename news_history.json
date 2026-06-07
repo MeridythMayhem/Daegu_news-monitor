@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.g-enews.com/view.php?ud=202605191016029803084322ec9_1",
-    "https://n.news.naver.com/mnews/article/421/0008952853?sid=103",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0QVNVRnJwM2lkdXliTjh3cTdIV2Y2MGUyMTBKLTJ1cFk5TXFramwxbnNSVUQ2ZjF0bEMxaGtqajVVb0JMLTJFcnl1OUxFR2dJUHp4R1pn?oc=5",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HQ2Q0VWlSTlB6NWtLS3I4aHdhRTVJOVBEOHhadEZVZGlXOUhpWkRsZlF5VFdQdjh5SlVjbnN5ZUJBeWhmRkJfZkhfUWROMFB2UGVn?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcV9zWDYzTWI4MThKdmcxT2ZEX2szMFU5TEpaWThsclh2WVJNd252cjFMbTQyeEZLaEx0Si1lRTRZTmhjY0tmcmhMU3lQaWZvaXIteU9xVWJxcWxPTEZ1YURnbHlVRk54bk5R?oc=5",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/088/0001013379?sid=102",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260607010002140",
     "https://n.news.naver.com/mnews/article/088/0001013394?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027869"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027869",
+    "https://n.news.naver.com/mnews/article/088/0001013431?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027936"
   ],
   "titles": [
-    "포스코, 중소기업 제조AI 전환 지원 확대…스마트공장 ‘AI 트랙’ 신설",
-    "JW중외제약, 철결핍성 빈혈 공개강좌…여성 조기 진단 중요",
     "포스코, 중소기업 스마트공장 구축 지원 팔 걷어 - 헤럴드경제",
     "철강B2B - 이야드",
     "엘앤에프, LFP 자회사 준공…3분기 양산 돌입 - ER 이코노믹리뷰",
@@ -1001,6 +999,8 @@
     "[인사]대구경찰청-&lt;총경급&gt;",
     "장인화 포스코 회장, 산불 취약 마을 찾아 낙엽 정리…생활안전 봉사",
     "김대종 세종대 경영학부 교수 \"치솟는 환율…제2 외환위기 촉발 우려 커...",
-    "영천시, 경북 농식품 수출정책 평가 우수상 수상"
+    "영천시, 경북 농식품 수출정책 평가 우수상 수상",
+    "경북도, 민선 9기 조직개편 추진…'식품국' 신설 검토",
+    "청도군, 경북 농식품 수출정책 평가 우수상…2년 연속 수상"
   ]
 }
