@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lSHlRbWNBdTgwemhvM2Z1dnd5SThxLUdsUjRjMDNId0hKVzdKUkFPUUhkQVJ2MDlPeWZVZjNqc3NKOHY5eVRWLUdRczdXU01uZ0xYZVhaSjVCYndtSGJpTmV5YTZvX3NiUHh5bEZONEhuaTg4?oc=5",
-    "https://www.cnbizm.com/news/articleView.html?idxno=303287",
     "http://www.srtimes.kr/news/articleView.html?idxno=203524",
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=262728",
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4415613",
@@ -499,11 +497,11 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=439381",
     "https://www.gukjenews.com/news/articleView.html?idxno=3601801",
     "https://n.news.naver.com/mnews/article/022/0004133444?sid=100",
-    "https://www.yeongnam.com/web/view.php?key=20260607027084907"
+    "https://www.yeongnam.com/web/view.php?key=20260607027084907",
+    "https://www.kbmaeil.com/article/20260607500138",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027749"
   ],
   "titles": [
-    "Korean Steelmakers Exit China Market - Businesskorea",
-    "포스코이앤씨, AI 경진대회 마무리… 현장 업무 자동화 확대",
     "JW중외제약, 자궁근종선근증학회와 철결핍성 빈혈 질환 공개강좌 개최",
     "포스코, 스마트공장 지원 확대…AI 트랙 신설로 제조 현장 고도화",
     "포스코, 중소기업 도와 스마트공장 구축…제조AI 전환 지원",
@@ -1001,6 +999,8 @@
     "포스코이앤씨 망설였던 사업지도 챙긴다, 송치영 도시정비 영토 확장 드...",
     "대구 성서공단 공장서 화재...인명피해 없어",
     "군함 못 만드는 미국…한국 조선소 문 두드렸다 [박수찬의 軍]",
-    "[대구 시군구 재정점검 시리즈]수십억씩 쓰는 경북 시·군축제, 수익 회..."
+    "[대구 시군구 재정점검 시리즈]수십억씩 쓰는 경북 시·군축제, 수익 회...",
+    "포스코그룹, 23개국서 ‘글로벌 볼런티어 위크’…산불 대응·AI 돌봄까...",
+    "경북도, AI 해외마케팅 플랫폼 공동 활용…중소기업 수출 지원 강화"
   ]
 }
