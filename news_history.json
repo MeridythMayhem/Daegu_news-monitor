@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HQ2Q0VWlSTlB6NWtLS3I4aHdhRTVJOVBEOHhadEZVZGlXOUhpWkRsZlF5VFdQdjh5SlVjbnN5ZUJBeWhmRkJfZkhfUWROMFB2UGVn?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcV9zWDYzTWI4MThKdmcxT2ZEX2szMFU5TEpaWThsclh2WVJNd252cjFMbTQyeEZLaEx0Si1lRTRZTmhjY0tmcmhMU3lQaWZvaXIteU9xVWJxcWxPTEZ1YURnbHlVRk54bk5R?oc=5",
-    "https://www.yeongnam.com/web/view.php?key=20260519028340307",
-    "https://www.businessplus.kr/news/articleView.html?idxno=111955",
     "https://dealsite.co.kr/articles/162079",
     "https://lawtalknews.co.kr/article/E387CP541MVN",
     "https://www.gasnews.com/news/articleView.html?idxno=125186",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027869",
     "https://n.news.naver.com/mnews/article/088/0001013431?sid=102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027936",
-    "https://www.cctoday.co.kr/news/articleView.html?idxno=2231240"
+    "https://www.cctoday.co.kr/news/articleView.html?idxno=2231240",
+    "https://www.yeongnam.com/web/view.php?key=20260607025098386",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1262889",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1262891",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1262894"
   ],
   "titles": [
-    "철강B2B - 이야드",
-    "엘앤에프, LFP 자회사 준공…3분기 양산 돌입 - ER 이코노믹리뷰",
-    "[경제대기획-HOUSE③] 경고등 켜진 대구 가계부채…집, 무거운 빚의 굴레...",
-    "[금융권 이모저모]삼성증권, 유튜브 국내 금융사 최초 300만 구독자 돌파...",
     "[은행 이사회 분석] 토스뱅크, 대표이사·이사회 의장 겸직 '유일'",
     "화장실 막고 진돗개 3마리 풀어…9년차 세입자의 호소",
     "가스안전공사, 몽골 ODA 발판으로 한국형 가스안전제도 수출 '청신호'",
@@ -1001,6 +997,10 @@
     "영천시, 경북 농식품 수출정책 평가 우수상 수상",
     "경북도, 민선 9기 조직개편 추진…'식품국' 신설 검토",
     "청도군, 경북 농식품 수출정책 평가 우수상…2년 연속 수상",
-    "이차전지 메카 청주 오창…에코프로 R&amp;D센터 건립 본격화"
+    "이차전지 메카 청주 오창…에코프로 R&amp;D센터 건립 본격화",
+    "수성알파시티를 ‘대구의 판교’로…‘예산통’ 강점 먹혀들까?",
+    "경북도-KOTRA, AI로 수출길 넓힌다…지방 최초 '공공 협업' 모델 가동",
+    "대구시, 수성알파시티에 스마트도시 기술 심는다",
+    "영천시, 경북도 농식품 수출정책 우수성 입증"
   ]
 }
