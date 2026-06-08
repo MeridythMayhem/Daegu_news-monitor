@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.electimes.com/news/articleView.html?idxno=368148",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pbUdFYTROTW94Qzk5OU5NeFNpUEN1b1hRSEctOHBpWEVSVV9GWVE0aGswdndoYlVKejRFbVNmcGNlOFZndGNpUGpCUEJGTnZyTFI0dkxFTk5HQmVQWTg5edIBeEFVX3lxTFB4NUJIc1QwT1RXdkxQV0JkMnpaa1J5UFhVcEpXTHI5cTZlTm1EOVZGNmdhQXVTbDhLMzZZcnFVTU8tRFI4dUozSDlmRDdLa2t0LXgwMjM1eDRLYTlkbjhnazVwSTYyUzAzNkowY19MVHhxNldQTlJDTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xSDhZNGdkVy1YdnVqUm9LZE9sVUxxN2JRektwSVVCTVpEUEhaekx3bE04SzV1VE5LOU1iSzd2bjgyQkk1RzJidDVhS09GbERYVTdQV2FjYzFqelRmeVNzeVRXQXVlbldBOHJz?oc=5",
-    "https://n.news.naver.com/mnews/article/214/0001499872?sid=100",
     "https://n.news.naver.com/mnews/article/018/0006284886?sid=100",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5bDlyaGVITmlQZzJxLXJ6dTVadW5DdVBXOG9CRU44Xzh2Nzlydm1QbjFBVURUNXZmMTJGWnVqZ0pTSW56MW5pYlFTYk14VWZTd3dVc3hFalVpZ9IBVEFVX3lxTE1UYm1LSU9ObVByTE1hTG5GanY2b0hjM3RHM0J1bG03T25USEpjQTlQN0F2WGQ5bVltT3V2VlJrWUxkMUhmVzBBZHFidW5teEVBeEd2bw?oc=5",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453691",
@@ -499,13 +495,13 @@
     "http://fpn119.co.kr/252234",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263302",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263252",
-    "https://www.yeongnam.com/web/view.php?key=20260608021168769"
+    "https://www.yeongnam.com/web/view.php?key=20260608021168769",
+    "https://n.news.naver.com/mnews/article/009/0005691045?sid=101",
+    "https://www.ksmnews.co.kr/news/view.php?idx=608229",
+    "https://www.tbc.co.kr/news/view?pno=20260608170717AE00801&id=207124",
+    "https://www.tbc.co.kr/news/view?pno=20260608170940AE00802&id=207122"
   ],
   "titles": [
-    "韓, 원전 해체 시장 선점 본격화…국제표준 주도해 시장 경쟁력↑",
-    "한수원 사장, 현장 소통 행보…전국 사업소 확대 - 뉴시스",
-    "한수원, 대한산업안전협회와 안전관리 강화 업무협약 체결 - 일간투데이",
-    "[시선집중] 김용남 “김용남의 쓸모, 李 확장전략. 보좌진 폭행? 다소 과...",
     "'보좌진 폭행설' 김용남 과장된 측면…화 냈지만 사실관계 차이있어",
     "박수근·서도호·대동여지도…5월 경매에 희귀작 쏟아진다 - 한국경제",
     "'옵저버-1A' 우주 궤도 안착시킨 나라스페이스…인공위성 전주기 밸류체...",
@@ -1001,6 +997,10 @@
     "대구 달서구 자동차 부품 제조 공장 화재… 인명피해 없어",
     "대구도시개발공사-IBK기업은행, 120억 규모 '동반성장펀드' 협약 연장",
     "상주시, 2년 연속 농식품 수출정책 최우수상 수상",
-    "참다랑어, 경북 수산업 새로운 성장동력으로 떠오를까…유통 인프라 확..."
+    "참다랑어, 경북 수산업 새로운 성장동력으로 떠오를까…유통 인프라 확...",
+    "AI 열풍, 금리 움직일까…새 연준의장의 첫 FOMC에 쏠린 눈 [불앤베어 위...",
+    "구미시, 7만5000여 필지 농지 전수조사 착수",
+    "참치 폐기 이제 그만...'신속 유통 체계' 구축",
+    "추경호\"민생경제 회복에 최우선..사법리스크 이겨내겠다\""
   ]
 }
