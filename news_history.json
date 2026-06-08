@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/018/0006284886?sid=100",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5bDlyaGVITmlQZzJxLXJ6dTVadW5DdVBXOG9CRU44Xzh2Nzlydm1QbjFBVURUNXZmMTJGWnVqZ0pTSW56MW5pYlFTYk14VWZTd3dVc3hFalVpZ9IBVEFVX3lxTE1UYm1LSU9ObVByTE1hTG5GanY2b0hjM3RHM0J1bG03T25USEpjQTlQN0F2WGQ5bVltT3V2VlJrWUxkMUhmVzBBZHFidW5teEVBeEd2bw?oc=5",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453691",
     "https://n.news.naver.com/mnews/article/029/0003027374?sid=101",
@@ -499,10 +498,10 @@
     "https://n.news.naver.com/mnews/article/009/0005691045?sid=101",
     "https://www.ksmnews.co.kr/news/view.php?idx=608229",
     "https://www.tbc.co.kr/news/view?pno=20260608170717AE00801&id=207124",
-    "https://www.tbc.co.kr/news/view?pno=20260608170940AE00802&id=207122"
+    "https://www.tbc.co.kr/news/view?pno=20260608170940AE00802&id=207122",
+    "https://www.yeongnam.com/web/view.php?key=20260608025328381"
   ],
   "titles": [
-    "'보좌진 폭행설' 김용남 과장된 측면…화 냈지만 사실관계 차이있어",
     "박수근·서도호·대동여지도…5월 경매에 희귀작 쏟아진다 - 한국경제",
     "'옵저버-1A' 우주 궤도 안착시킨 나라스페이스…인공위성 전주기 밸류체...",
     "창호업계 ‘그린리모델링’ 바람…KCC글라스, ‘홈씨씨 윈도우 ONE 빌라...",
@@ -1001,6 +1000,7 @@
     "AI 열풍, 금리 움직일까…새 연준의장의 첫 FOMC에 쏠린 눈 [불앤베어 위...",
     "구미시, 7만5000여 필지 농지 전수조사 착수",
     "참치 폐기 이제 그만...'신속 유통 체계' 구축",
-    "추경호\"민생경제 회복에 최우선..사법리스크 이겨내겠다\""
+    "추경호\"민생경제 회복에 최우선..사법리스크 이겨내겠다\"",
+    "폐지된 법령·낡은 용어 그대로…대구경북 ‘유령 조례’ 수십 건"
   ]
 }
