@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5bDlyaGVITmlQZzJxLXJ6dTVadW5DdVBXOG9CRU44Xzh2Nzlydm1QbjFBVURUNXZmMTJGWnVqZ0pTSW56MW5pYlFTYk14VWZTd3dVc3hFalVpZ9IBVEFVX3lxTE1UYm1LSU9ObVByTE1hTG5GanY2b0hjM3RHM0J1bG03T25USEpjQTlQN0F2WGQ5bVltT3V2VlJrWUxkMUhmVzBBZHFidW5teEVBeEd2bw?oc=5",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453691",
-    "https://n.news.naver.com/mnews/article/029/0003027374?sid=101",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaTDZjLWNKMU0xNUZTMzNjUWRKZVJqa0VnVDdIc1NUVHM0bkNXQWtGS1ZBbVFWN0xRWFFOX1Bib3ZyRUgtLUEtTzFpbGhfXzg?oc=5",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605191024540440108230",
-    "https://www.itooza.com/common/iview.php?no=2026051909340106859",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE05d2RnbFBSQjlGYm5SdWdicElBXzdMd29RUWp3eUdialZaLXMyNDl2WlVOUWVfajNuVzhMZjhtZXY0blFUS095Snp0V1B2TldxcGcwWWxGQ0lOa3VRaW5SOHplUk93S3VmLUxUazYzVGV3Tmc?oc=5",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453714",
     "https://n.news.naver.com/mnews/article/003/0013953315?sid=101",
     "https://n.news.naver.com/mnews/article/119/0003091930?sid=101",
     "http://www.press9.kr/news/articleView.html?idxno=76730",
@@ -499,17 +491,17 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=608229",
     "https://www.tbc.co.kr/news/view?pno=20260608170717AE00801&id=207124",
     "https://www.tbc.co.kr/news/view?pno=20260608170940AE00802&id=207122",
-    "https://www.yeongnam.com/web/view.php?key=20260608025328381"
+    "https://www.yeongnam.com/web/view.php?key=20260608025328381",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263049",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263165",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=58714",
+    "https://www.m-i.kr/news/articleView.html?idxno=1379250",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3025365",
+    "https://www.inews365.com/news/article.html?no=922509",
+    "https://www.etoday.co.kr/news/view/2591522",
+    "https://www.sentv.co.kr/article/view/sentv202606080098"
   ],
   "titles": [
-    "박수근·서도호·대동여지도…5월 경매에 희귀작 쏟아진다 - 한국경제",
-    "'옵저버-1A' 우주 궤도 안착시킨 나라스페이스…인공위성 전주기 밸류체...",
-    "창호업계 ‘그린리모델링’ 바람…KCC글라스, ‘홈씨씨 윈도우 ONE 빌라...",
-    "창호업계 ‘그린리모델링’ 바람…KCC글라스, ‘홈씨씨 윈도우 ONE 빌라즈’ 선보여 - v.daum.net",
-    "[더벨][i-point] 정관 개정 마친 드림텍, 자사주 250억 소각 완료",
-    "[52주] 최고가 13개, 최저가 56개.. 지수 약세",
-    "드림텍, 보통주 308만7370주 소각 결정 - 디지털투데이",
-    "선박용 케이블 1위 티엠씨의 진화…데이터센터용 광케이블 신성장 동력...",
     "산은, 'SK실트론 인수' 두산에 2.5조 금융 주선…반도체 밸류체인 뒷받...",
     "산업은행, 두산 SK실트론 인수에 2조5000억 금융 주선",
     "최태원 지분 털어낸 SK와 반도체 날개 단 두산…5조 규모 '실트론 빅딜'...",
@@ -1001,6 +993,14 @@
     "구미시, 7만5000여 필지 농지 전수조사 착수",
     "참치 폐기 이제 그만...'신속 유통 체계' 구축",
     "추경호\"민생경제 회복에 최우선..사법리스크 이겨내겠다\"",
-    "폐지된 법령·낡은 용어 그대로…대구경북 ‘유령 조례’ 수십 건"
+    "폐지된 법령·낡은 용어 그대로…대구경북 ‘유령 조례’ 수십 건",
+    "충남도, 아름다운 우리말 땅이름 '공식화' 한다",
+    "강릉시, 민선 9기 김중남 인수위 출범",
+    "한국지방세학회 '하계 학술대회' 알차게 준비…19~20일 광주에서 연다",
+    "성과 내면 바로 보상…중기부, '모두의창업·수출 성과' 직원에 포상",
+    "김종원 기전산업 회장, 세브란스병원에 3억 원 기부",
+    "관광객도 이제 '보은 주민'…디지털 관광주민증 운영 시작",
+    "케일럼, 항공엔진 고온부품·MRO 진출 선언⋯ '매출 11조' 美 하우멧 벤...",
+    "이규택 작가, 84년 인생 궤적 담은 회고록 '돌담 위를 걷다' 출간"
   ]
 }
