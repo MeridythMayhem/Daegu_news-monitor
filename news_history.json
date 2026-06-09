@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001010559?sid=101",
-    "https://www.g-enews.com/view.php?ud=202605190932198852fbbec65dfb_1",
-    "https://www.tokenpost.kr/news/economy/361004",
-    "https://www.kbmaeil.com/article/20260519500082",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=839575",
     "http://www.financialreview.co.kr/news/articleView.html?idxno=42342",
     "https://n.news.naver.com/mnews/article/138/0002228298?sid=101",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028701",
     "https://www.m-i.kr/news/articleView.html?idxno=1379818",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263663",
-    "https://www.yeongnam.com/web/view.php?key=20260609028003806"
+    "https://www.yeongnam.com/web/view.php?key=20260609028003806",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263674",
+    "https://www.inews365.com/news/article.html?no=922752",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075075",
+    "https://n.news.naver.com/mnews/article/003/0013996665?sid=104"
   ],
   "titles": [
-    "'구조화 금융' 발 넓히는 신한證…'백기사 IB'로 존재감 확대",
-    "美 무기 창고 고갈에 빗장 풀리는 조달 시장… K방산 '구조적 진입 창구...",
-    "[특징주] 한화에어로스페이스, 중동 긴장 속 130만원대 강세…무인로봇...",
-    "포스코, 중소기업 ‘제조 AI 전환’ 가속화",
     "포스코, 中企 상생형 스마트공장 지원사업 확대",
     "포스코, 중소기업 '스마트공장' 구축 지원 확대...'AI 트랙' 도입돼",
     "포스코, 제조AX 지원 확대…스마트공장 구축 中企 모집",
@@ -1001,6 +997,10 @@
     "봉화군, 경북 농식품 수출정책 우수 시·군 평가 우수상 수상",
     "경주시, AI·XR 접목 역사문화 관광서비스 개발 나서",
     "경북도, 1조 2819억 규모 '2026년 제1회 추경안' 편성",
-    "[사는곳이 계급인 나라 ⑥] 아플수록 서울로 가는 악순환…대구·경북의..."
+    "[사는곳이 계급인 나라 ⑥] 아플수록 서울로 가는 악순환…대구·경북의...",
+    "의성군, 경북 농식품 수출정책 평가서 '우수상' 수상",
+    "충북도 누적 채무 '1조3천억원' 육박",
+    "[단독] 한동대, 차세대 엔비디아 GB200 64장 추가 도입 추진",
+    "굶주림 막고 일자리까지…韓 NGO, 태국 난민캠프 자립 지원"
   ]
 }
