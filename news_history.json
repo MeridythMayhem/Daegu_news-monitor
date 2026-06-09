@@ -1,8 +1,5 @@
 {
   "urls": [
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=839575",
-    "http://www.financialreview.co.kr/news/articleView.html?idxno=42342",
-    "https://n.news.naver.com/mnews/article/138/0002228298?sid=101",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605190941427820216",
     "https://n.news.naver.com/mnews/article/421/0008952719?sid=101",
     "https://n.news.naver.com/mnews/article/001/0016085075?sid=101",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263674",
     "https://www.inews365.com/news/article.html?no=922752",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075075",
-    "https://n.news.naver.com/mnews/article/003/0013996665?sid=104"
+    "https://n.news.naver.com/mnews/article/003/0013996665?sid=104",
+    "https://www.ksmnews.co.kr/news/view.php?idx=608452",
+    "https://www.ksmnews.co.kr/news/view.php?idx=608471",
+    "https://n.news.naver.com/mnews/article/009/0005691601?sid=101"
   ],
   "titles": [
-    "포스코, 中企 상생형 스마트공장 지원사업 확대",
-    "포스코, 중소기업 '스마트공장' 구축 지원 확대...'AI 트랙' 도입돼",
-    "포스코, 제조AX 지원 확대…스마트공장 구축 中企 모집",
     "포스코, 상생형 스마트공장 구축 지원사업 확대… 제조 현장 AI화 추진",
     "중소기업 '제조 AI 전환' 앞장…포스코, 지원사업 참여기업 모집",
     "포스코, 상생형 스마트공장 구축 지원…'AI 트랙' 신설",
@@ -1001,6 +998,9 @@
     "의성군, 경북 농식품 수출정책 평가서 '우수상' 수상",
     "충북도 누적 채무 '1조3천억원' 육박",
     "[단독] 한동대, 차세대 엔비디아 GB200 64장 추가 도입 추진",
-    "굶주림 막고 일자리까지…韓 NGO, 태국 난민캠프 자립 지원"
+    "굶주림 막고 일자리까지…韓 NGO, 태국 난민캠프 자립 지원",
+    "“지붕 추락사고, 장비 지원이 답” 안전보건공단, 경주 현장서 실효성...",
+    "대통령 '지방 투자' 드라이브에 TK 긴장감…공기업·반도체 유치전 호남...",
+    "“AI 투자도 인플레 자극, 내년 금리인상 가능”…월가 채권 거물의 경..."
   ]
 }
