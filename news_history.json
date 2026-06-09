@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0013953315?sid=101",
-    "https://n.news.naver.com/mnews/article/119/0003091930?sid=101",
     "http://www.press9.kr/news/articleView.html?idxno=76730",
     "http://www.smedaily.co.kr/news/articleView.html?idxno=357230",
     "https://www.ebn.co.kr/news/articleView.html?idxno=1709303",
@@ -499,11 +497,11 @@
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3025365",
     "https://www.inews365.com/news/article.html?no=922509",
     "https://www.etoday.co.kr/news/view/2591522",
-    "https://www.sentv.co.kr/article/view/sentv202606080098"
+    "https://www.sentv.co.kr/article/view/sentv202606080098",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028459",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028472"
   ],
   "titles": [
-    "산은, 'SK실트론 인수' 두산에 2.5조 금융 주선…반도체 밸류체인 뒷받...",
-    "산업은행, 두산 SK실트론 인수에 2조5000억 금융 주선",
     "최태원 지분 털어낸 SK와 반도체 날개 단 두산…5조 규모 '실트론 빅딜'...",
     "두산, SK실트론 인수작업 착착…산은 2.5조 대출주선 자금해결",
     "[종목분석] 두산, SK실트론 품고 AI 반도체 인프라 기업 변신",
@@ -1001,6 +999,8 @@
     "김종원 기전산업 회장, 세브란스병원에 3억 원 기부",
     "관광객도 이제 '보은 주민'…디지털 관광주민증 운영 시작",
     "케일럼, 항공엔진 고온부품·MRO 진출 선언⋯ '매출 11조' 美 하우멧 벤...",
-    "이규택 작가, 84년 인생 궤적 담은 회고록 '돌담 위를 걷다' 출간"
+    "이규택 작가, 84년 인생 궤적 담은 회고록 '돌담 위를 걷다' 출간",
+    "경북도, 1조2819억 원 규모 추경 편성…민생안정·지역경제 회복 집중",
+    "안동시, 도청신도시 주민 대상 여름특강 운영…AI 콘텐츠·부동산 교육..."
   ]
 }
