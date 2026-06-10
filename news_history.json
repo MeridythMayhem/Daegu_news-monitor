@@ -1,10 +1,5 @@
 {
   "urls": [
-    "http://www.thepingpong.co.kr/news/articleView.html?idxno=12595",
-    "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3039330",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVVhuWERfV3B6YV9LalB2cXV4eFYtRWtoOGl6cHpaMVp3WGNrbkYwcV80dUIzVHFzdU1QdUVtQ3lNNkY5d3ZGWjlSeGJoUndLVGNvWm9keGtpTW5GNFMtS2FILTlOdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wS3NJajd6NHhoeGlYUHJhM2JHb0tZSnd5b19YOURyV29jTHgzX0tDTVdjMG4wbmpuRS1qLTZsOThVV1NsVEZhc1hCTUJpNXZqWFU0Vzd3anpwR2c?oc=5",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=841191",
     "http://www.4th.kr/news/articleView.html?idxno=2111940",
     "https://n.news.naver.com/mnews/article/421/0008953194?sid=101",
     "http://www.finomy.com/news/articleView.html?idxno=254556",
@@ -499,14 +494,14 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264024",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264058",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263990",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264060"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264060",
+    "https://n.news.naver.com/mnews/article/469/0000935723?sid=101",
+    "https://n.news.naver.com/mnews/article/088/0001013963?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264133",
+    "https://n.news.naver.com/mnews/article/088/0001013951?sid=102",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=58749"
   ],
   "titles": [
-    "[포토] #우승_이다경 #2026_실업탁구챔피언전_여자단식_입상자들",
-    "JW중외제약, 철결핍성 빈혈 질환 강좌 열어",
-    "[이로운시선]지갑 닫고 눈돌린 포스코, '기업시민' 무색...포항 지표 '추락' 부추켜 - 이로운넷",
-    "[장혜원의 부동산현장] 같은 건물 위아래층서 붙었다… 삼성·포스코 ‘반포 패권전’ - 에너지경제신문",
-    "상장사 1분기 실적…삼성전자·하이닉스 '끌고' 알테오젠·에코프로 '밀...",
     "[경제소식] 하나금융그룹, '찾아가는 무료 안과 검진'",
     "국민참여형 국민성장펀드 22일 출시…5년 만기, 원금 보장 안 돼요",
     "iM뱅크, 커플·부부 위한 'iM모임통장' 공동 목표 관리 기능 강화",
@@ -1001,6 +996,11 @@
     "강원도, 의료 AX 산업 실증 허브 사업 설명회 개최",
     "안성시, 중부권 광역급행철도 조기 착공 범시민 서명운동 전개",
     "수원특례시 '그린리모델링 2.0 시그니처' 선정",
-    "동두천시, 해묵은 도시환경 현안 정비 '속도'"
+    "동두천시, 해묵은 도시환경 현안 정비 '속도'",
+    "신안산선 공사 현장서 또 노동자 사망... 포스코이앤씨 \"끝까지 책임\"",
+    "경북도, K푸드 전담조직 신설 추진…8월 조직개편 단행 전망",
+    "부산시, '2026년 기록의 날' 기념행사서 대통령표창 수상",
+    "김천시, '60억 배상 압박'에도 덕곡동 쓰레기 소송 대법원 상고",
+    "관세청, 반도체 등 미래 첨단전략산업 지원 '원스톱 관세행정지원팀' 신..."
   ]
 }
