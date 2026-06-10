@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.breaknews.com/1208173",
-    "https://www.kdpress.co.kr/news/articleView.html?idxno=205397",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RenB2TXktLXRVa2ZvSExSUG84UUQxY0pkRkJHeHJGVWhteVU5anhnSFBaOG1lcnRkYnBzc3gtU3BlSmMtU2lhMWEyNlYySnM4d2J0UERHUTAxVi0xMHJIRGdkX0NFc0xXQkNxcEZ1dk5WWGPSAXdBVV95cUxOS21sRHB0bENaWTlsSE0wcHJFNGo5c0x3QzAwMFYxQXlGa3hXM1BvUlB1M0RWczBCNXgwRHU4Z1BGbmp2NXUxeEhkRFlfdEpISzNaU3BudGhCQk1XSTRMMlk2dDlsSlUwVW54QTNpcG5TRDFrV3dNYw?oc=5",
     "http://www.queen.co.kr/news/articleView.html?idxno=457163",
     "https://www.g-enews.com/view.php?ud=202605191126246769a9fc143920_1",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264042",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264003",
     "https://www.yeongnam.com/web/view.php?key=20260610027279020",
-    "https://www.m-i.kr/news/articleView.html?idxno=1380447"
+    "https://www.m-i.kr/news/articleView.html?idxno=1380447",
+    "http://www.4th.kr/news/articleView.html?idxno=2113004",
+    "https://www.ksmnews.co.kr/news/view.php?idx=608546"
   ],
   "titles": [
-    "양산시청 여자탁구단, 전국실업대회서 단식 우승·단체전 3위",
-    "(주)티비즈, '2026년 수요발굴지원단 제1차 포럼(대경·동남권)' 성료",
     "포스코, 중소기업 스마트공장 구축 지원…철강 공급망 금융지원도 확대 - 스트레이트뉴스",
     "iM뱅크, '커플․부부'를 위한 iM모임통장 서비스 강화",
     "‘K-수소 안전’ 홍콩에 수출…가스안전공사, 글로벌 표준 선점 닻 올렸...",
@@ -1001,6 +999,8 @@
     "경북도, '530 한국장데이' 개최…전통장류 산업 활성화",
     "문경시, '찾아가는 지적민원 현장 처리제' 운영",
     "대구스타디움 미디어아트 테마파크 개장 지연…‘수성못 미디어아트’...",
-    "포항시, '퐝퐝 취업(Cheer Up) 박람회' 개최… 35개 기업과 구직자 뜨거..."
+    "포항시, '퐝퐝 취업(Cheer Up) 박람회' 개최… 35개 기업과 구직자 뜨거...",
+    "샤니 대구공장 '끼임 사고'…이주노동자 부상",
+    "경산시, 지적재조사사업 경계 결정 완료"
   ]
 }
