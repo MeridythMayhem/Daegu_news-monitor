@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.newsinside.kr/news/articleView.html?idxno=4685603",
-    "https://n.news.naver.com/mnews/article/092/0002423357?sid=105",
     "http://www.newsprime.co.kr/news/article.html?no=733830",
     "https://n.news.naver.com/mnews/article/243/0000098005?sid=101",
     "https://n.news.naver.com/mnews/article/008/0005359774?sid=101",
@@ -499,11 +497,11 @@
     "https://www.financialpost.co.kr/news/articleView.html?idxno=262076",
     "https://www.itbiznews.com/news/articleView.html?idxno=215613",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=243339",
-    "https://n.news.naver.com/mnews/article/421/0008994762?sid=101"
+    "https://n.news.naver.com/mnews/article/421/0008994762?sid=101",
+    "https://n.news.naver.com/mnews/article/032/0003451052?sid=102",
+    "http://www.datanews.co.kr/news/article.html?no=145020"
   ],
   "titles": [
-    "포스코, 중기부와 상생형 스마트공장 참여기업 모집…금융 지원 1조원 ...",
-    "앵커-협력기업 ‘원팀’으로 저탄소 산업공급망 구축",
     "[현장] 소요 한남 by 파르나스, 고급 주거 넘어선 노후 라이프스타일 경...",
     "대형 건설사 브랜드 단지 선호 확대… 시장 불확실성 속 안정성 주목",
     "코넥스 시장 활성화·수익성, 두 마리 토끼 잡은 VC",
@@ -1001,6 +999,8 @@
     "안전 전문가 포스코이앤씨 송치영號…신안산선 공사 현장서 또 사망",
     "﻿아이티브AI, 포스코와 제조 공정 AI 에이전트 PoC 추진…AI 팩토리 고...",
     "포스코이앤씨 신안산선 공사현장 1년 2개월 새 3명 사망",
-    "포스코이앤씨 신안산선 공사 현장서 하청 노동자 추락사…중처법 위반..."
+    "포스코이앤씨 신안산선 공사 현장서 하청 노동자 추락사…중처법 위반...",
+    "경주 건천산업단지 열분해유 공장 화재···50대 운전기사 중상",
+    "포스코홀딩스·㈜LG, 지주사 지배구조 투톱"
   ]
 }
