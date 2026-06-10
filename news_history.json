@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://m.sports.naver.com/kfootball/article/003/0013953789",
-    "https://m.entertain.naver.com/article/312/0000760363",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=216282",
-    "https://n.news.naver.com/mnews/article/050/0000106315?sid=101",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tNDAzTXdRUW9GdUQwUlJ3VFVPdkQ4NDVnX1QxYWFWblNweDJTeFhPVFVlWFhvQ1pmZnBWTXZ6aENMTU40V1Q5bGV3RjcySnNDTFNGMm5GdWcxUXNLUmMtblNFTzVXeVhyQ3g3dGlGNUpJX29wNTRYdQ?oc=5",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tSkI1eUxzMzZnb0VIQ1ZtVDBTRkxqMk51T3RldGZwSDgxSmZUQWNZSjRycVFGRXBtcGNJaGpiYzdILVFUMzlMSWxMZWxTTVE5VF93RTlVbm5iOW9NY1FEMnE4c2ZrcXo2UDZMUTh3?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pY2tZaUdWQk9lUURja0VKaGMxUl92UV9CWEZPSHNMc1hsYmtnSkdpZkJRTm1WaC1LQWRZQ2JraV96Rkc2WjZ5XzlJTTRBU0VqeWRWdVNhbl9MQQ?oc=5",
     "https://n.news.naver.com/mnews/article/003/0013954162?sid=102",
     "https://www.gukjenews.com/news/articleView.html?idxno=3586326",
@@ -499,15 +493,15 @@
     "https://www.kbmaeil.com/article/20260610500720",
     "https://n.news.naver.com/mnews/article/421/0008996898?sid=102",
     "http://www.srtimes.kr/news/articleView.html?idxno=204991",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=550741"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=550741",
+    "https://n.news.naver.com/mnews/article/657/0000052310?sid=102",
+    "https://n.news.naver.com/mnews/article/016/0002654953?sid=102",
+    "https://n.news.naver.com/mnews/article/022/0004134605?sid=102",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3605156",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075220",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028946"
   ],
   "titles": [
-    "'첫 방한' 北 내고향 오직 경기에만 집중…韓 응원단 상관할 문제 아냐...",
-    "'팬 납치설' 김남길, 진정성 또 퍼졌다…20년차 현직 아이돌 직접 증언",
-    "국내 기술로 제작된 초순수 실증설비, 민간에 기술이전",
-    "한일 경제인, 도쿄서 집결…신동빈·박정원·구자은 등 재계 총출동",
-    "경북 구미 공장서 불…당국 진화 중 - 네이트",
-    "[속보] 구미 공단동 한 공장서 화재...다량 연기 '주의' - gukjenews.com",
     "구미 공장 화재 진화 중 - 경북매일",
     "구미 폐배터리 재활용 공장 화재…\"완진까지 장시간 소요\"",
     "[속보] 구미 공단동 한 공장서 화재...다량 연기 '주의'",
@@ -1001,6 +995,12 @@
     "샤니 대구공장 끼임사고 발생…노조 “구조적 원인 규명해야”",
     "샤니 대구공장 끼임 사고 발생…노조 \"구조적 문제 살펴야\"",
     "포스코이앤씨, 신안산선 하청 노동자 사망사고 사과",
-    "직장 내 괴롭힘에 성희롱까지… 대구 구군체육회장 의혹 확산"
+    "직장 내 괴롭힘에 성희롱까지… 대구 구군체육회장 의혹 확산",
+    "SPC샤니 대구공장서 40대 노동자 끼임 사고로 중상… 노조 강력 반발",
+    "DGFEZ, 경산지식산업지구 내 아진산업(주) 국내복귀 신공장 준공",
+    "신안산선 공사 현장 근로자 추락사…포스코이앤씨 “끝까지 책임”",
+    "아진산업, 중국 철수 후 경산 신공장 준공으로 국내 복귀 성공",
+    "[만나GO] 이인선 위원장 \"마지막 기회라는 절박함이 대구를 지켰다\"",
+    "구미시, 정부예산 확보 총력전...기재부·지방시대위 찾아 현안사업 건..."
   ]
 }
