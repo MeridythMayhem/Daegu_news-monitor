@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pY2tZaUdWQk9lUURja0VKaGMxUl92UV9CWEZPSHNMc1hsYmtnSkdpZkJRTm1WaC1LQWRZQ2JraV96Rkc2WjZ5XzlJTTRBU0VqeWRWdVNhbl9MQQ?oc=5",
-    "https://n.news.naver.com/mnews/article/003/0013954162?sid=102",
     "https://www.gukjenews.com/news/articleView.html?idxno=3586326",
     "https://www.gokorea.kr/news/articleView.html?idxno=866922",
     "https://www.etoday.co.kr/news/view/2585922",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/022/0004134605?sid=102",
     "https://www.gukjenews.com/news/articleView.html?idxno=3605156",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075220",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028946"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028946",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=58763",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5029385"
   ],
   "titles": [
-    "구미 공장 화재 진화 중 - 경북매일",
-    "구미 폐배터리 재활용 공장 화재…\"완진까지 장시간 소요\"",
     "[속보] 구미 공단동 한 공장서 화재...다량 연기 '주의'",
     "[속보] 구미 공단동 아이에스에코솔루션 화재 발생…인근 도로 우회 안...",
     "[속보] 경북 구미 공단동 사업장서 화재 발생",
@@ -1001,6 +999,8 @@
     "신안산선 공사 현장 근로자 추락사…포스코이앤씨 “끝까지 책임”",
     "아진산업, 중국 철수 후 경산 신공장 준공으로 국내 복귀 성공",
     "[만나GO] 이인선 위원장 \"마지막 기회라는 절박함이 대구를 지켰다\"",
-    "구미시, 정부예산 확보 총력전...기재부·지방시대위 찾아 현안사업 건..."
+    "구미시, 정부예산 확보 총력전...기재부·지방시대위 찾아 현안사업 건...",
+    "임광현 국세청장, 8월 중 '6급이하 1천명 이상 수시 승진인사' 공지…직...",
+    "경북 8개 중소기업, '글로벌강소기업 1000+ 프로젝트' 선정…수출 경쟁..."
   ]
 }
