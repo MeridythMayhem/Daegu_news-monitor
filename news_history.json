@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022362",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022371",
-    "https://n.news.naver.com/mnews/article/657/0000051586?sid=102",
-    "https://n.news.naver.com/mnews/article/052/0002355066?sid=102",
-    "https://www.newspim.com/news/view/20260519000911",
-    "https://www.taxtimes.co.kr/news/article.html?no=275198",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=548555",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4073262",
     "https://n.news.naver.com/mnews/article/003/0013954412?sid=102",
     "https://www.viva100.com/article/20260519500962",
@@ -499,16 +492,16 @@
     "http://www.intn.co.kr/news/articleView.html?idxno=2051204",
     "https://www.newsmin.co.kr/news/133637/",
     "https://www.safetynews.co.kr/news/articleView.html?idxno=248901",
-    "https://www.itbiznews.com/news/articleView.html?idxno=215798"
+    "https://www.itbiznews.com/news/articleView.html?idxno=215798",
+    "https://n.news.naver.com/mnews/article/021/0002796990?sid=102",
+    "https://www.g-enews.com/view.php?ud=202606111058292684056c162803_1",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=550744",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=439746",
+    "https://n.news.naver.com/mnews/article/088/0001014083?sid=102",
+    "https://n.news.naver.com/mnews/article/586/0000131245?sid=102",
+    "http://www.paxetv.com/news/articleView.html?idxno=274390"
   ],
   "titles": [
-    "영덕군, 신규 원전 유치 추진…\"지역소멸 극복 위한 미래 성장동력\"",
-    "울진군, 소상공인 카드수수료 지원사업 시행",
-    "경북 구미 폐배터리 재활용 공장 화재···50여 분 만에 큰불 꺼져",
-    "경북 구미시 공장 화재...인명 피해 없어",
-    "[속보] 구미 공단동 한 공장서 화재 진화 중...현재까지 인명피해 없어",
-    "국세청, 4월 승진잔치 끝나자 6월 명퇴 시즌 돌아와",
-    "구미 공장 폐배터리 화재···소방당국 장시간 진화 작업",
     "구미 공단동 폐배터리 재활용 공장 화재…\"매캐한 냄새에 깜짝\"",
     "구미 폐배터리 재활용 공장화재, 주불진화…사상자 없어(종합)",
     "삼성·현대차·포스코까지⋯ 파업 쓰나미에 ‘한국경제’ 멈추나",
@@ -1001,6 +994,13 @@
     "국세청, 8월 6급 이하 1천여명 수시승진 단행…\"역대급 승진 인사\"",
     "샤니 대구공장서 끼임사고···노조 \"특별교섭 즉각 응하라\"",
     "샤니 대구공장서 기계 끼임 사고 발생",
-    "동일 노선서 3명 사망…포스코이앤씨, 중대재해 관리 구멍 뚫렸나"
+    "동일 노선서 3명 사망…포스코이앤씨, 중대재해 관리 구멍 뚫렸나",
+    "이번엔 샤니 대구공장서 팔 끼임 사고…SPC 계열사 공장 사고 잇따라",
+    "샤니 대구공장서 끼임 사고…노동자 중상",
+    "샤니 대구공장서 팔 끼임 사고…외국인 근로자 중상",
+    "SPC 샤니 대구공장에서 끼임 사고 발생, 40대 여성 노동자 중상",
+    "SPC 또 사고…대구공장서 노동자 끼임 사고 발생",
+    "[경산 24시] 1330억 리쇼어링 결실…경산시, 아진산업 신공장 준공",
+    "한국가스공사, 한라산 멸종위기 침엽수 보전 활동…한국수목원정원관리..."
   ]
 }
