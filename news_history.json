@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4073262",
-    "https://n.news.naver.com/mnews/article/003/0013954412?sid=102",
-    "https://www.viva100.com/article/20260519500962",
-    "https://www.eroun.net/news/articleView.html?idxno=81092",
-    "https://n.news.naver.com/mnews/article/088/0001010666?sid=102",
-    "https://n.news.naver.com/mnews/article/003/0013955009?sid=102",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4073344",
     "https://n.news.naver.com/mnews/article/056/0012184192?sid=102",
     "https://www.ksmnews.co.kr/news/view.php?idx=605917",
     "https://n.news.naver.com/mnews/article/001/0016087339?sid=102",
@@ -499,16 +492,16 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=439746",
     "https://n.news.naver.com/mnews/article/088/0001014083?sid=102",
     "https://n.news.naver.com/mnews/article/586/0000131245?sid=102",
-    "http://www.paxetv.com/news/articleView.html?idxno=274390"
+    "http://www.paxetv.com/news/articleView.html?idxno=274390",
+    "https://www.smarttoday.co.kr/ko-kr/articles/108295",
+    "https://n.news.naver.com/mnews/article/469/0000935870?sid=102",
+    "https://www.sentv.co.kr/article/view/sentv202606110052",
+    "https://n.news.naver.com/mnews/article/001/0016132930?sid=102",
+    "https://www.newspim.com/news/view/20260611000615",
+    "https://www.ajunews.com/view/20260611113407321",
+    "https://n.news.naver.com/mnews/article/032/0003451363?sid=102"
   ],
   "titles": [
-    "구미 공단동 폐배터리 재활용 공장 화재…\"매캐한 냄새에 깜짝\"",
-    "구미 폐배터리 재활용 공장화재, 주불진화…사상자 없어(종합)",
-    "삼성·현대차·포스코까지⋯ 파업 쓰나미에 ‘한국경제’ 멈추나",
-    "'구미 공단 한복판 검은 연기'... 공장 화재, 50평 불에 타",
-    "'내년 택시비 오르나'…대구 택시 기본 요금 조정 용역 막바지",
-    "대구동부소방·한국가스공사, 취약층 화재 사각지대 해소",
-    "국세청, 강남 현금부자·다주택자 정조준…부동산 탈세 127명 세무조사",
     "구미 공단동 폐배터리 재활용 공장 화재",
     "안동서 ‘한일 정상 고향 셔틀외교’…원유·LNG 스와프 추진",
     "대구서 공장 창고 화재…진화 중",
@@ -1001,6 +994,13 @@
     "SPC 샤니 대구공장에서 끼임 사고 발생, 40대 여성 노동자 중상",
     "SPC 또 사고…대구공장서 노동자 끼임 사고 발생",
     "[경산 24시] 1330억 리쇼어링 결실…경산시, 아진산업 신공장 준공",
-    "한국가스공사, 한라산 멸종위기 침엽수 보전 활동…한국수목원정원관리..."
+    "한국가스공사, 한라산 멸종위기 침엽수 보전 활동…한국수목원정원관리...",
+    "SPC 계열사서 또... 샤니 대구공장 끼임사고 발생",
+    "SPC계열 샤니 대구공장 노동자 기계 끼임 사고... 40대 노동자 중상",
+    "대경경자청, 경산지식산업지구 내 아진산업(주) 국내복귀 신공장 준공",
+    "노동부, 사망사고 반복 포스코이앤씨에 \"강제수사 신속 추진\"",
+    "노동부 \"'산재 사망 반복' 포스코이앤씨에 특단의 조치 시행\"",
+    "김영훈 노동장관 \"포스코이앤씨 중대재해 반복...특단 조치 시행\"",
+    "신안산선에서만 4번째 사망사고…노동부, 포스코이앤씨 강제수사·기획..."
   ]
 }
