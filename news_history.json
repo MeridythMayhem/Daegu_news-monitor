@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3586326",
-    "https://www.gokorea.kr/news/articleView.html?idxno=866922",
-    "https://www.etoday.co.kr/news/view/2585922",
-    "https://n.news.naver.com/mnews/article/088/0001010602?sid=103",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022362",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5022371",
     "https://n.news.naver.com/mnews/article/657/0000051586?sid=102",
@@ -499,13 +495,13 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075220",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028946",
     "https://www.sejungilbo.com/news/articleView.html?idxno=58763",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5029385"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5029385",
+    "http://www.intn.co.kr/news/articleView.html?idxno=2051204",
+    "https://www.newsmin.co.kr/news/133637/",
+    "https://www.safetynews.co.kr/news/articleView.html?idxno=248901",
+    "https://www.itbiznews.com/news/articleView.html?idxno=215798"
   ],
   "titles": [
-    "[속보] 구미 공단동 한 공장서 화재...다량 연기 '주의'",
-    "[속보] 구미 공단동 아이에스에코솔루션 화재 발생…인근 도로 우회 안...",
-    "[속보] 경북 구미 공단동 사업장서 화재 발생",
-    "5월 20일 자 시사상식 퀴즈",
     "영덕군, 신규 원전 유치 추진…\"지역소멸 극복 위한 미래 성장동력\"",
     "울진군, 소상공인 카드수수료 지원사업 시행",
     "경북 구미 폐배터리 재활용 공장 화재···50여 분 만에 큰불 꺼져",
@@ -1001,6 +997,10 @@
     "[만나GO] 이인선 위원장 \"마지막 기회라는 절박함이 대구를 지켰다\"",
     "구미시, 정부예산 확보 총력전...기재부·지방시대위 찾아 현안사업 건...",
     "임광현 국세청장, 8월 중 '6급이하 1천명 이상 수시 승진인사' 공지…직...",
-    "경북 8개 중소기업, '글로벌강소기업 1000+ 프로젝트' 선정…수출 경쟁..."
+    "경북 8개 중소기업, '글로벌강소기업 1000+ 프로젝트' 선정…수출 경쟁...",
+    "국세청, 8월 6급 이하 1천여명 수시승진 단행…\"역대급 승진 인사\"",
+    "샤니 대구공장서 끼임사고···노조 \"특별교섭 즉각 응하라\"",
+    "샤니 대구공장서 기계 끼임 사고 발생",
+    "동일 노선서 3명 사망…포스코이앤씨, 중대재해 관리 구멍 뚫렸나"
   ]
 }
