@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0013972984?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025132",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025147",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025174",
-    "https://n.news.naver.com/mnews/article/079/0004151714?sid=102",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=438801",
-    "https://n.news.naver.com/mnews/article/008/0005364173?sid=162",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260444",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260429",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260433",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268362",
     "https://www.gukjenews.com/news/articleView.html?idxno=3616916",
     "https://www.yeongnam.com/web/view.php?key=20260624024312021",
-    "https://www.ksmnews.co.kr/news/view.php?idx=610628"
+    "https://www.ksmnews.co.kr/news/view.php?idx=610628",
+    "https://www.hidomin.com/news/articleView.html?idxno=710751",
+    "https://www.ksmnews.co.kr/news/view.php?idx=610552",
+    "https://www.ksmnews.co.kr/news/view.php?idx=610621",
+    "https://www.ksmnews.co.kr/news/view.php?idx=610474",
+    "https://www.ksmnews.co.kr/news/view.php?idx=610487",
+    "https://www.tbc.co.kr/news/view?pno=20260624191211AE01497&id=207680",
+    "https://www.tbc.co.kr/news/view?pno=20260624152732AE01472&id=207679"
   ],
   "titles": [
-    "송치영 포스코이앤씨 사장 \"신반포19·25차 철의 약속 지킬 것\"",
-    "한일 정상외교 효과 확산…경북도, 안동 중심 '관광·산업 연계 전략' 가...",
-    "포항시, 제6기 지역사회보장계획 수립 착수…\"복지도시 기반 강화\"",
-    "포항상의, 재직자 대상 AI 실무 교육 실시…데이터 수집 자동화 역량 강...",
-    "iM뱅크-대구보건대, AI 실무 역량 강화 MOU",
-    "포스코이앤씨 신반포19·25차 재건축 결전 눈앞, 송치영 금융조건 확신...",
-    "내일부터 투표 시작…영남권 총공세 나선 與, 김부겸·하정우 지원 총력",
     "경기도, 'AI 시그널: 톡톡' 출범…송길영 작가 특강 진행",
     "성남산업진흥원 지원기업, 글로벌 학회서 기술력 입증",
     "GH, 경기광주역 지식산업센터 분양·임대 시작",
@@ -1001,6 +994,13 @@
     "경북도의회 예결특위, 2026년 제1회 추경예산안 심사 착수",
     "선린대-포스코인재창조원-스프레틱스, K-뉴딜 청년 인재 양성 MOU 체결",
     "제10대 대구시의회 개원 D-7…초선 파워 ‘주목’",
-    "반도체는 지역 전리품 아냐…특정 지역 편중 논란 확산"
+    "반도체는 지역 전리품 아냐…특정 지역 편중 논란 확산",
+    "포스코, 하청사 노조와 진짜 교섭하나",
+    "대구시, 임산부 6800명 대상 친환경 농산물 지원...내달 1일부터 접수",
+    "포항시, 위기의 외식업 소상공인 구한다… 7월 3일까지 맞춤형 컨설팅 ...",
+    "경산시, 지방세입 체납관리단 7명 모집… 맞춤형 징수 활동 강화",
+    "상생포럼 제25기 8주차- “우리 사회는 죽음을 바르게 이해하고 있는가...",
+    "\"명백한 지역 홀대\"...추경호.이철우 호남.충청 반도체 추진 반발",
+    "데이터센터 좌초 위기에 반도체 공장 유치도 차질"
   ]
 }
