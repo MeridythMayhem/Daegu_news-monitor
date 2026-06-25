@@ -1,8 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86212",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260346",
-    "https://www.newscj.com/news/articleView.html?idxno=3404676",
     "https://n.news.naver.com/mnews/article/469/0000933241?sid=102",
     "https://www.newspim.com/news/view/20260528001164",
     "https://n.news.naver.com/mnews/article/374/0000512837?sid=101",
@@ -499,12 +496,12 @@
     "http://www.jejunews.com/news/articleView.html?idxno=2226349",
     "http://mcnews.co.kr/86320",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268824",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268806"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268806",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027070",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034399",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034402"
   ],
   "titles": [
-    "DL이앤씨 “압구정5구역, ‘미래 가치’ 끌어올릴 것”",
-    "문경시, 대만 한국여행엑스포 참가로 글로벌 관광 홍보",
-    "[깊이 읽는 경제] 국민이 키운 반도체 나무, 삼성 노사는 누구의 열매를...",
     "\"낙하산 밀실 야합\" vs \"좌파 대구 미래 없어\"... 박형룡·이진숙, 달성...",
     "송치영 포스코이앤씨 사장 \"신반포19·25차, 금융지원금 2억 등 이행할 ...",
     "포스코 파업 일단 유예…카카오는 초읽기",
@@ -1001,6 +998,9 @@
     "한라언론인클럽 5대 회장에 현승윤 한국경제 주필",
     "지오스토리, 자율주행차 운행지원 기술개발 박차… ‘HD Map 공간데이터...",
     "춘천시, AI·VFX 기반 영상산업도시 도약 모색",
-    "안성시, 2026 상반기 채용박람회 성료"
+    "안성시, 2026 상반기 채용박람회 성료",
+    "여야, 호남 반도체 클러스터 공방…\"기업 팔 비틀어\"vs\"지역갈등 조장\"",
+    "포항시, 서울국제가스·수소산업전 참가…청정수소 중심도시 비전 홍보",
+    "울진군, 청년 창업·콘텐츠 교육 지원…청년 유입 확대 나서"
   ]
 }
