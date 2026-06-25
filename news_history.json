@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025326",
-    "https://biz.newdaily.co.kr/site/data/html/2026/05/29/2026052900092.html",
-    "https://www.naeil.com/news/read/590220?ref=naver",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7166450",
-    "https://n.news.naver.com/mnews/article/016/0002649759?sid=101",
-    "https://www.youthdaily.co.kr/news/article.html?no=219938",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1710603",
-    "http://www.newstomato.com/ReadNews.aspx?no=1302477&inflow=N",
     "http://www.finomy.com/news/articleView.html?idxno=255035",
     "https://www.newspim.com/news/view/20260529000967",
     "https://www.gukjenews.com/news/articleView.html?idxno=3595582",
@@ -499,17 +491,17 @@
     "http://mcnews.co.kr/86322",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034405",
     "https://n.news.naver.com/mnews/article/469/0000938616?sid=110",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034147"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034147",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268870",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268902",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268887",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268884",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268880",
+    "http://www.dynews.co.kr/news/articleView.html?idxno=855597",
+    "http://www.dynews.co.kr/news/articleView.html?idxno=855604",
+    "https://www.newscj.com/news/articleView.html?idxno=3412139"
   ],
   "titles": [
-    "구미시, 미래 신산업 포럼 개최…산단 AX 전환 위한 차세대 통신망 논의",
-    "포스코, 파업 위기 넘겼지만 … '직고용 뇌관'에 노사 긴장 지속 [N-경제...",
-    "경북형 경제불확실성 지수 구축…“데이터 주권 확보”",
-    "[중대재해사고예방] 포스코이앤씨, 'AI·로봇·드론'으로 현장 안전망 혁...",
-    "송치영 포스코이앤씨 사장, “약속 끝까지 지켜낼 것”",
-    "'땅'은 미국·'집'은 중국 독주...외국인 부동산 소유 증가세",
-    "포스코이앤씨 송치영, 신반포 수주전 'CEO 마케팅' 승부수...한성희 신화...",
-    "포스코, ‘직고용’ 갈등…노조, ’투쟁’ 전열 정비",
     "iM뱅크 노조, 자립준비청년 사회 정착 지원 나서",
     "'직고용 갈등' 포스코, '발등의 불' 껐지만 파업 우려 여전",
     "전국금융노조 iM뱅크대구은행지부, 자립준비청년 지원에 1천만원 후원금...",
@@ -1001,6 +993,14 @@
     "LH, AI 기반 BIM 토공설계 자동화 소프트웨어 개발",
     "포항TP, 바이오기업 스케일업 세미나 개최…신약개발·투자 협력 강화",
     "[사이언스 톡] \"우리도 살려주세요\"",
-    "우진산전, '친환경 전기 저상 좌석버스' 국책 과제 추진"
+    "우진산전, '친환경 전기 저상 좌석버스' 국책 과제 추진",
+    "대전시, MSI 2026 손님맞이 준비 본격화",
+    "李대통령 \"수도권 일극체제 끝낸다\"…반도체 등 첨단산업 지방 대규모 ...",
+    "국가철도공단, 국토교통기술대전 참가... 혁신 성과공유·기술협력 강화",
+    "관세청, AI 정부 발전 유공 대통령상 수상",
+    "KAIST '뇌로 로봇 움직이고 느끼는' 세계 최초 Brain-to-Robot 기술 개발...",
+    "6월 28일 '철도의 날'...\"오송역, 행정수도 관문 역사 역할 다할 수 있도...",
+    "'반도체 활황 여파' 서울·수도권은 아파트값 오르고, 세종은 떨어지고",
+    "[깊이 읽는 경제] 차가운 경제학, 따뜻한 경제정책"
   ]
 }
