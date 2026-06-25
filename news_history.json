@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260673",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260657",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=247309",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260712",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260710",
     "https://n.news.naver.com/mnews/article/011/0004625917?sid=100",
     "https://n.news.naver.com/mnews/article/437/0000493616?sid=101",
@@ -499,13 +495,13 @@
     "https://www.newscj.com/news/articleView.html?idxno=3412139",
     "http://mcnews.co.kr/86324",
     "https://www.gukjenews.com/news/articleView.html?idxno=3618134",
-    "https://www.ksmnews.co.kr/news/view.php?idx=610786"
+    "https://www.ksmnews.co.kr/news/view.php?idx=610786",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2212961",
+    "https://www.tbc.co.kr/news/view?pno=20260625152142AE01535&id=207731",
+    "https://www.tbc.co.kr/news/view?pno=20260625161018AE01542&id=207724",
+    "https://www.tbc.co.kr/news/view?pno=20260624110745AE01462&id=207725"
   ],
   "titles": [
-    "순창군, 수도권 도시민 대상 귀농귀촌 교육 운영",
-    "구례군 마산면 복지기동대, 취약계층 주거환경 개선 지원",
-    "장인화 포스코 회장, 기술·안전경영으로 '관세·노사 위기' 돌파한다",
-    "김종호 기술보증기금 이사장, ㈜정양에스지 현장 간담회 진행",
     "한국해양진흥공사, 케플러와 해운 정보 글로벌 활용 협력",
     "“보수 심장까지 내줄 순 없어” “또 속으면 대구는 평생 꼴찌”",
     "'직고용 갈등' 포스코, 창사 첫 파업 위기 넘겼지만…",
@@ -1001,6 +997,10 @@
     "[깊이 읽는 경제] 차가운 경제학, 따뜻한 경제정책",
     "[현장] 태백선에도 ‘고전압 임펄스 궤도회로 장치’를…열차 운행 안전...",
     "전국금융노조 iM뱅크대구은행지부, 초록우산에 1천만원 기탁...취약계층...",
-    "대경중기청, 온누리상품권 제도 개편 시행"
+    "대경중기청, 온누리상품권 제도 개편 시행",
+    "[금융] iM뱅크 노조, 취약계층 김치 지원 / iM뱅크, 한·유럽 스테이블코...",
+    "한국은행 대경본부 '2026 대구경북 지역경제세미나' 개최",
+    "\"다이소보다 싸다\"...구미시, 반도체 부지 '평당 1천 원'에",
+    "[단독] 대구 TP 통장에 뭉칫돈 '30억'...경찰 수사 착수"
   ]
 }
