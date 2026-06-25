@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.yeongnam.com/web/view.php?key=20260528029256761",
-    "https://n.news.naver.com/mnews/article/657/0000051888?sid=102",
-    "https://n.news.naver.com/mnews/article/009/0005686508?sid=100",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260527",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260484",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1323942",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260315",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260359",
     "http://mcnews.co.kr/86212",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260346",
     "https://www.newscj.com/news/articleView.html?idxno=3404676",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268790",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268754",
     "https://www.ajunews.com/view/20260625131200627",
-    "https://www.m-i.kr/news/articleView.html?idxno=1385271"
+    "https://www.m-i.kr/news/articleView.html?idxno=1385271",
+    "http://mcnews.co.kr/86321",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268628",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268804",
+    "https://www.readersnews.com/news/articleView.html?idxno=200349",
+    "http://www.jejunews.com/news/articleView.html?idxno=2226349",
+    "http://mcnews.co.kr/86320",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268824",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268806"
   ],
   "titles": [
-    "[뉴스後] ‘영남권 관문’ 대구, 한일정상회담 계기 ‘공항-관광’ 연계...",
-    "[목요논박] \"스타벅스 탱크데이\"···사과 이후에도 커지는 진정성 논란",
-    "\"청년벤처기업 1천개\" \"서대전역까지 CTX\"",
-    "[최재혁의 데스크席] 다가오는 6월 호국보훈의 달을 맞이하며",
-    "경기도, 기후도민총회 1년 성과교류회 개최…도민 제안 18건 정책 반영 ...",
-    "[인천 언론사, 사료로 읽다] 4. 경기매일신문 지령 9000호",
-    "함양군, 보통교부세 개선·국비 확보 위해 행안부 방문",
-    "경북도, 농가소득 5,858만 원…전국 2위 달성",
     "DL이앤씨 “압구정5구역, ‘미래 가치’ 끌어올릴 것”",
     "문경시, 대만 한국여행엑스포 참가로 글로벌 관광 홍보",
     "[깊이 읽는 경제] 국민이 키운 반도체 나무, 삼성 노사는 누구의 열매를...",
@@ -1001,6 +993,14 @@
     "경기도, 공공의료원서 AI진단보조기기 실증 지원",
     "경기도, 공공의료원 활용 AI진단보조기기 실증 지원",
     "&lt;오늘의 부고&gt;",
-    "쿠팡, 찾아가는 건강검진 '온동네 케어' 실시"
+    "쿠팡, 찾아가는 건강검진 '온동네 케어' 실시",
+    "문경~김천 철도건설사업 기본설계, 내년 4월까지 완료 목표",
+    "강원도, 도시경제·인프라 국제연수 개최",
+    "이한국 의원 대표발의 '관광의 날 조례', 경기도의회 우수조례 선정",
+    "[신간] 『지휘자의 소통법』",
+    "한라언론인클럽 5대 회장에 현승윤 한국경제 주필",
+    "지오스토리, 자율주행차 운행지원 기술개발 박차… ‘HD Map 공간데이터...",
+    "춘천시, AI·VFX 기반 영상산업도시 도약 모색",
+    "안성시, 2026 상반기 채용박람회 성료"
   ]
 }
