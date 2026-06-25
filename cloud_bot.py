@@ -19,8 +19,6 @@ NAVER_CLIENT_SECRET = os.environ.get("NAVER_SECRET")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_URL")
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
-# [수정 8] 모닝 브리핑을 환경변수 플래그로도 제어 가능하게
-MORNING_MODE_OVERRIDE = os.environ.get("MORNING_MODE", "").lower() == "true"
 
 # =========================================================
 # 🏢 [VIP 기업 명단]
@@ -303,9 +301,8 @@ def main():
     raw_articles = []
     unique_links = set()
 
-    # [수정 8] 모닝 브리핑 감지: 환경변수 플래그 우선, 없으면 7~9시 범위로 여유있게 판단
     now_kst = datetime.now(KST)
-    is_morning_briefing = MORNING_MODE_OVERRIDE or (7 <= now_kst.hour <= 9)
+    is_morning_briefing = (now_kst.hour == 8)
 
     if TEST_MODE:
         lookback = timedelta(hours=24)
