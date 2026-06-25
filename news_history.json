@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/629/0000503087?sid=101",
-    "https://n.news.naver.com/mnews/article/015/0005292473?sid=101",
-    "https://www.etoday.co.kr/news/view/2588635",
-    "https://n.news.naver.com/mnews/article/421/0008972001?sid=101",
     "https://www.yeongnam.com/web/view.php?key=20260528029256761",
     "https://n.news.naver.com/mnews/article/657/0000051888?sid=102",
     "https://n.news.naver.com/mnews/article/009/0005686508?sid=100",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268696",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268691",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268636",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034201"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034201",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268790",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268754",
+    "https://www.ajunews.com/view/20260625131200627",
+    "https://www.m-i.kr/news/articleView.html?idxno=1385271"
   ],
   "titles": [
-    "파업 위기 넘긴 포스코…중노위, 협력사 직고용 갈등에 '행정지도' 처분",
-    "하청 직고용에 노조 반발…포스코도 '勞勞갈등' 격화",
-    "파업권은 막혔지만 갈등은 남았다…포스코 직고용 진통 장기화 조짐",
-    "\"협력사 직고용 파업 사안 아냐\"…포스코, 파업 위기 넘겨(종합)",
     "[뉴스後] ‘영남권 관문’ 대구, 한일정상회담 계기 ‘공항-관광’ 연계...",
     "[목요논박] \"스타벅스 탱크데이\"···사과 이후에도 커지는 진정성 논란",
     "\"청년벤처기업 1천개\" \"서대전역까지 CTX\"",
@@ -1001,6 +997,10 @@
     "콜롬비아 메데진시, 춘천 바이오·관광 정책 벤치마킹",
     "홍천군 \"세계 최대 드론 기업도 주목한 홍천군\"… 드론 산업 메카로 뜬...",
     "성남하이테크밸리, 피지컬 AI 실증 거점으로 육성",
-    "경북문화관광공사, 보훈가족에 사랑의 쌀 60포 전달"
+    "경북문화관광공사, 보훈가족에 사랑의 쌀 60포 전달",
+    "경기도, 공공의료원서 AI진단보조기기 실증 지원",
+    "경기도, 공공의료원 활용 AI진단보조기기 실증 지원",
+    "&lt;오늘의 부고&gt;",
+    "쿠팡, 찾아가는 건강검진 '온동네 케어' 실시"
   ]
 }
