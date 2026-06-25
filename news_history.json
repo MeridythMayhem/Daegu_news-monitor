@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260438",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260464",
-    "http://mcnews.co.kr/86208",
-    "http://mcnews.co.kr/86210",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1260478",
     "https://n.news.naver.com/mnews/article/629/0000503087?sid=101",
     "https://n.news.naver.com/mnews/article/015/0005292473?sid=101",
@@ -499,13 +495,13 @@
     "http://www.econotelling.com/news/articleView.html?idxno=20731",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034115",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034114",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034138"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034138",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268698",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268696",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268691",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268636"
   ],
   "titles": [
-    "경기도미래세대재단, 경계선지능 청년 일 경험 확대",
-    "NH농협은행·중소기업융합경기연합회, 법인제휴카드 협약 체결",
-    "李 대통령 “서소문 사고·GTX 철근누락, 엄정히 책임 물어야”",
-    "서울시, 공인중개사 위법행위 782건 적발",
     "인천교통공사, 인천시청역 '아트로(ART-RO)인천' 개소",
     "파업 위기 넘긴 포스코…중노위, 협력사 직고용 갈등에 '행정지도' 처분",
     "하청 직고용에 노조 반발…포스코도 '勞勞갈등' 격화",
@@ -1001,6 +997,10 @@
     "[독점연재] 정주영 히스토리 (104) 조카 몽혁에 대한 지극한 사랑",
     "안동 풍산에 국내 최대 증류식 소주 생산시설 준공…전통주 산업 확대",
     "안동시, 청년 행정인턴 7기 운영",
-    "제9대 구미시의회 4년 의정 마무리…입법·현장 중심 의정 성과 결실"
+    "제9대 구미시의회 4년 의정 마무리…입법·현장 중심 의정 성과 결실",
+    "한국농어촌공사 강원지역본부, 제3회 안전강화 혁신회의회",
+    "콜롬비아 메데진시, 춘천 바이오·관광 정책 벤치마킹",
+    "홍천군 \"세계 최대 드론 기업도 주목한 홍천군\"… 드론 산업 메카로 뜬...",
+    "성남하이테크밸리, 피지컬 AI 실증 거점으로 육성"
   ]
 }
