@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/011/0004625917?sid=100",
-    "https://n.news.naver.com/mnews/article/437/0000493616?sid=101",
-    "https://www.econovill.com/news/articleView.html?idxno=741177",
     "https://www.news2day.co.kr/article/20260529500139",
     "https://www.yeongnam.com/web/view.php?key=20260530022206968",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5025489",
@@ -499,12 +496,12 @@
     "https://www.tbc.co.kr/news/view?pno=20260625152142AE01535&id=207731",
     "https://www.tbc.co.kr/news/view?pno=20260625161018AE01542&id=207724",
     "https://www.tbc.co.kr/news/view?pno=20260624110745AE01462&id=207725",
-    "https://n.news.naver.com/mnews/article/661/0000078759?sid=100"
+    "https://n.news.naver.com/mnews/article/661/0000078759?sid=100",
+    "https://n.news.naver.com/mnews/article/657/0000052768?sid=102",
+    "https://www.sjsori.com/news/articleView.html?idxno=87057",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034545"
   ],
   "titles": [
-    "“보수 심장까지 내줄 순 없어” “또 속으면 대구는 평생 꼴찌”",
-    "'직고용 갈등' 포스코, 창사 첫 파업 위기 넘겼지만…",
-    "'직고용 파업' 위기 넘긴 포스코…형평성 갈등 불씨는 여전",
     "[N2 포커스] 포스코, 파업 위기 넘겼다…철강업계, 직고용 '따로 또 같이...",
     "“글로벌 축제로 이륙(26)!”…베일 벗는 ‘2026 대구치맥페스티벌’",
     "[캠코 공매] 차주 경기 화성시 '아파트' 등 압류재산 매각",
@@ -1001,6 +998,9 @@
     "한국은행 대경본부 '2026 대구경북 지역경제세미나' 개최",
     "\"다이소보다 싸다\"...구미시, 반도체 부지 '평당 1천 원'에",
     "[단독] 대구 TP 통장에 뭉칫돈 '30억'...경찰 수사 착수",
-    "정부 유튜브 광고 '톱 랭킹' 보니.. \"K팝·슈카·매일신문 등 상위권\""
+    "정부 유튜브 광고 '톱 랭킹' 보니.. \"K팝·슈카·매일신문 등 상위권\"",
+    "경북에서 공장·창고 화재 잇따라···2명 다쳐",
+    "1만 원 방호장치 없었다…포스코이앤씨, 안전예산 1400억 줄인 뒤 사망사...",
+    "피엔티, 구미에 양극활물질·배터리셀 생산공장 준공…1500억원 투자"
   ]
 }
