@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027017",
-    "http://www.dailypop.kr/news/articleView.html?idxno=99358",
-    "https://www.eroun.net/news/articleView.html?idxno=82378",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027105",
-    "https://n.news.naver.com/mnews/article/088/0001013121?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1262309",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1262328",
     "https://www.tbc.co.kr/news/view?pno=20260604162544AE00678&id=207023",
     "https://www.tbc.co.kr/news/view?pno=20260604165325AE00680&id=207020",
     "https://www.theguru.co.kr/news/article.html?no=102647",
@@ -499,16 +492,16 @@
     "https://www.kbmaeil.com/article/20260628500614",
     "https://www.ksmnews.co.kr/news/view.php?idx=611068",
     "https://www.ksmnews.co.kr/news/view.php?idx=611091",
-    "https://www.m-i.kr/news/articleView.html?idxno=1385887"
+    "https://www.m-i.kr/news/articleView.html?idxno=1385887",
+    "https://www.hidomin.com/news/articleView.html?idxno=711144",
+    "https://www.koscaj.com/news/articleView.html?idxno=324863",
+    "http://www.dynews.co.kr/news/articleView.html?idxno=855726",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076787",
+    "https://www.idaegu.com/news/articleView.html?idxno=663919",
+    "https://www.m-i.kr/news/articleView.html?idxno=1385973",
+    "https://www.tbc.co.kr/news/view?pno=20260625163923AE01546&id=207795"
   ],
   "titles": [
-    "예천군, 경북농식품대전 참가…지역 농특산물 판로 확대 나서",
-    "포스코·현대제철 임단협에 카카오 부분파업까지…산업계 긴장",
-    "에코프로, 2028년까지 전 공정 AI 전환… '스마트 팩토리' 속도 낸다",
-    "영천시, 육묘 실패 농가에 벼 긴급 예비묘 3천 상자 공급",
-    "대구경북 홈플러스 5개 지점 결국 폐점… 희망퇴직도 단행",
-    "영천시, 경북농식품산업대전 참가…우수 농식품 홍보",
-    "경북도·대구시, 서울국제관광전서 공동 관광마케팅",
     "\"기업 유치부터 인프라까지\"...유권자가 바라는 '새 시정'",
     "추경호 \"대구 경제 살리기에 최선\"",
     "'슈퍼 태풍 극복' 포스코, 글로벌 철강사에 위기 관리 역량 '한 수 지도...",
@@ -1001,6 +994,13 @@
     "‘호남 몰빵·대구경북 패싱’, 국가 경제 근간 흔든다…제대로 문제 제...",
     "대구시, 전기차 보급 확대 나선다… 추경 173억 투입",
     "포항 재개발·재건축 사업성 '빨간불'",
-    "경주시, 안강 RE100 e-모빌리티 산단 추진"
+    "경주시, 안강 RE100 e-모빌리티 산단 추진",
+    "포스코노조·퀸즈테이블, 조합원 복지 향상 MOU",
+    "[보라매칼럼] 부동산 세제개편, 취득·보유·양도세 종합해 다뤄야",
+    "고유가 피해지원금 골목상권 매출 올렸다...충청권 모처럼 만에 '활기'",
+    "구미 반도체 팹 유치 총력전…정부 투자 발표 앞두고 지역 결집",
+    "[인터뷰] \"대구·경북, AI·반도체 최적지인데 패싱\"…지역 경제계 위기...",
+    "구미시, 외국인투자·국내복귀기업 협의회 개최",
+    "'재생에너지 100%' RE 100 산단, 경주 안강에 만든다"
   ]
 }
