@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/022/0004132304?sid=102",
-    "https://mdtoday.co.kr/news/view/1065575215056732",
     "https://idsn.co.kr/news/view/1065596130115840",
     "https://idsn.co.kr/news/view/1065596424739863",
     "http://www.newsprime.co.kr/news/article.html?no=735524",
@@ -499,11 +497,11 @@
     "https://www.yeongnam.com/web/view.php?key=20260627020191344",
     "https://www.idaegu.com/news/articleView.html?idxno=663897",
     "https://www.kbsm.net/news/view.php?idx=524610",
-    "https://n.news.naver.com/mnews/article/366/0001174951?sid=101"
+    "https://n.news.naver.com/mnews/article/366/0001174951?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034859",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034818"
   ],
   "titles": [
-    "포항 남구 공장서 화재… 고철 22t 불에 타 [사건수첩]",
-    "포스코 노조, 기본급 7.1% 인상 요구…직접고용 이슈까지 '첩첩산중'",
     "[2일 사건사고]포항 고철가공업체 공장 화재…고철 22t 소실 등",
     "포항 고철가공업체 화재가 남긴 과제…보이지 않는 발화 위험 관리해야",
     "급한 불 끈 포스코, 파업 리스크는 '현재진행형'",
@@ -1001,6 +999,8 @@
     "“노인 늘어나는데 농촌 파출소는?”… 경북 수사망 흔드는 획일적 치안...",
     "[대구일보 기획 : 불여일견 - 청년, 현장에서 길을 찾다] ④세원정공",
     "경주 강동면 부직포 생산공장 화재…인명피해 없이",
-    "자금 조달 필요한 LG화학·에코프로… “딜 잡아라” 증권사 IB 물밑 경..."
+    "자금 조달 필요한 LG화학·에코프로… “딜 잡아라” 증권사 IB 물밑 경...",
+    "경북도, 산불 피해지 84% 자연복원…기능별 맞춤형 조림 병행",
+    "[주간분양] 이주 '펜타힐즈 더블유 1단지' 등 17곳 청약"
   ]
 }
