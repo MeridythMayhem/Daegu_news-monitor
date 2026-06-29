@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.sejungilbo.com/news/articleView.html?idxno=58714",
-    "https://www.m-i.kr/news/articleView.html?idxno=1379250",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3025365",
-    "https://www.inews365.com/news/article.html?no=922509",
-    "https://www.etoday.co.kr/news/view/2591522",
-    "https://www.sentv.co.kr/article/view/sentv202606080098",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028459",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028472",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028644",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028701",
     "https://www.m-i.kr/news/articleView.html?idxno=1379818",
@@ -499,17 +491,17 @@
     "https://n.news.naver.com/mnews/article/029/0003034311?sid=102",
     "https://www.tbc.co.kr/news/view?pno=20260629145937AE01638&id=207822",
     "https://www.tbc.co.kr/news/view?pno=20260629174627AE01655&id=207820",
-    "https://www.tbc.co.kr/news/view?pno=20260629165127AE01649&id=207821"
+    "https://www.tbc.co.kr/news/view?pno=20260629165127AE01649&id=207821",
+    "https://www.tokenpost.kr/news/economy/373724",
+    "https://n.news.naver.com/mnews/article/011/0004636250?sid=101",
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=243814",
+    "http://www.mdilbo.com/detail/0kIA7d/756729",
+    "https://www.yeongnam.com/web/view.php?key=20260629024272787",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035443",
+    "https://www.ajunews.com/view/20260629141008886",
+    "https://www.tbc.co.kr/news/view?pno=20260629141234AE01637&id=207835"
   ],
   "titles": [
-    "한국지방세학회 '하계 학술대회' 알차게 준비…19~20일 광주에서 연다",
-    "성과 내면 바로 보상…중기부, '모두의창업·수출 성과' 직원에 포상",
-    "김종원 기전산업 회장, 세브란스병원에 3억 원 기부",
-    "관광객도 이제 '보은 주민'…디지털 관광주민증 운영 시작",
-    "케일럼, 항공엔진 고온부품·MRO 진출 선언⋯ '매출 11조' 美 하우멧 벤...",
-    "이규택 작가, 84년 인생 궤적 담은 회고록 '돌담 위를 걷다' 출간",
-    "경북도, 1조2819억 원 규모 추경 편성…민생안정·지역경제 회복 집중",
-    "안동시, 도청신도시 주민 대상 여름특강 운영…AI 콘텐츠·부동산 교육...",
     "상주시, 경북농식품대전 참가…지역 농특산물 홍보·수출 성과 알려",
     "봉화군, 경북 농식품 수출정책 우수 시·군 평가 우수상 수상",
     "경주시, AI·XR 접목 역사문화 관광서비스 개발 나서",
@@ -1001,6 +993,14 @@
     "[6월29일 인사종합] 국세청 외",
     "민선9기 청사진 제시..'정부 정책·열악 재정' 변수",
     "뒷전 밀린 TK... \"선정과정 공개해야\"",
-    "3대 메가 프로젝트...'대구경북'은 없어"
+    "3대 메가 프로젝트...'대구경북'은 없어",
+    "국세청, 농협중앙회에 대규모 세무조사 착수…강호동 회장 의혹 정조준",
+    "대동금속, 한국재료연구원과 로봇·모빌리티 신합금 MOU 체결",
+    "[오늘의 주요일정·30일] 이재명 대통령 비상경제점검회의",
+    "AI·반도체·에너지부터 우주산업까지···통합특별시에 투자를",
+    "[사설] 들끓는 TK, 그러나 또 뒷북",
+    "포항시, 철강산단 집중호우 대응 모의훈련 실시",
+    "우즈베키스탄-조지아, 교역 목표 10억 달러로 높인다",
+    "\"11억 원 추가로 발견\"...그동안 대구시 뭘했나"
   ]
 }
