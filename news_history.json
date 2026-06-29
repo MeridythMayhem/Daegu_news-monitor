@@ -1,14 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86250",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028418",
-    "http://fpn119.co.kr/252234",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263302",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263252",
-    "https://www.yeongnam.com/web/view.php?key=20260608021168769",
-    "https://n.news.naver.com/mnews/article/009/0005691045?sid=101",
-    "https://www.ksmnews.co.kr/news/view.php?idx=608229",
-    "https://www.tbc.co.kr/news/view?pno=20260608170717AE00801&id=207124",
     "https://www.tbc.co.kr/news/view?pno=20260608170940AE00802&id=207122",
     "https://www.yeongnam.com/web/view.php?key=20260608025328381",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263049",
@@ -499,18 +490,18 @@
     "https://www.inews365.com/news/article.html?no=925412",
     "https://n.news.naver.com/mnews/article/005/0001857847?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269831",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076966"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076966",
+    "https://n.news.naver.com/mnews/article/123/0002385604?sid=101",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=58993",
+    "https://www.tfmedia.co.kr/news/article.html?no=205421",
+    "http://www.intn.co.kr/news/articleView.html?idxno=2051607",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=58994",
+    "https://n.news.naver.com/mnews/article/123/0002385602?sid=004",
+    "http://www.intn.co.kr/news/articleView.html?idxno=2051606",
+    "https://www.taxtimes.co.kr/news/article.html?no=275739",
+    "https://www.kbmaeil.com/article/20260626500075"
   ],
   "titles": [
-    "웨이버스, 이재명 정부 ‘AI 민생 프로젝트’ 107억 사업 수주",
-    "포항 호미반도 메밀꽃 개화 시작…초여름 관광객 발길 이어져",
-    "대구 달서구 자동차 부품 제조 공장 화재… 인명피해 없어",
-    "대구도시개발공사-IBK기업은행, 120억 규모 '동반성장펀드' 협약 연장",
-    "상주시, 2년 연속 농식품 수출정책 최우수상 수상",
-    "참다랑어, 경북 수산업 새로운 성장동력으로 떠오를까…유통 인프라 확...",
-    "AI 열풍, 금리 움직일까…새 연준의장의 첫 FOMC에 쏠린 눈 [불앤베어 위...",
-    "구미시, 7만5000여 필지 농지 전수조사 착수",
-    "참치 폐기 이제 그만...'신속 유통 체계' 구축",
     "추경호\"민생경제 회복에 최우선..사법리스크 이겨내겠다\"",
     "폐지된 법령·낡은 용어 그대로…대구경북 ‘유령 조례’ 수십 건",
     "충남도, 아름다운 우리말 땅이름 '공식화' 한다",
@@ -1001,6 +992,15 @@
     "'반값우유' 학교 우유급식 존립 위기",
     "생산기지 완공 멀고 비용 부담도… 소부장업체 ‘영남 이전’ 쉽진 않다",
     "추미애, 李 대통령 반도체 속도전 '환영'··· \"경기도가 뒷받침할 것\"",
-    "[단독] 포항 글로벌AI데이터센터 7월 말 첫삽 뜬다…경북도 40억 출자로..."
+    "[단독] 포항 글로벌AI데이터센터 7월 말 첫삽 뜬다…경북도 40억 출자로...",
+    "국세청, 상반기 과장급 전보 인사.. 50세 미만·여성 비중 늘려",
+    "[인사] 국세청, 부이사관·과장급 및 초임세무서장 인사 단행…본청·여...",
+    "국세청 과장급 인사…여성‧젊은 관리자 비중 더 강화한다",
+    "국세청, 올 상반기 과장급 전보 인사 단행…대변인 손영준",
+    "[프로필] 국세청 초임 세무서장 (2026년 6월 30일자)",
+    "[인사] 국세청 과장급 전보",
+    "[인사] 국세청 과장급 전보(6월 30일자)",
+    "[인사]국세청 부이사관·과장급·초임세무서장 전보(157명)",
+    "영덕 신규원전 유치 기획 시리즈, 지역 미래 성장 동력 방향 제시"
   ]
 }
