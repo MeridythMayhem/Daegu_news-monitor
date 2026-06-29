@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=307423",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028270",
-    "https://n.news.naver.com/mnews/article/052/0002363571?sid=102",
     "http://mcnews.co.kr/86250",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028418",
     "http://fpn119.co.kr/252234",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269815",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269723",
     "http://www.samdailbo.com/news/articleView.html?idxno=266773",
-    "https://www.inews365.com/news/article.html?no=925412"
+    "https://www.inews365.com/news/article.html?no=925412",
+    "https://n.news.naver.com/mnews/article/005/0001857847?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269831",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076966"
   ],
   "titles": [
-    "대동로보틱스, GS건설과 AI 필드로봇 공동 연구개발 MOU",
-    "상주시, 경북 농식품 수출정책 평가 2년 연속 최우수상 수상",
-    "서대구산업단지 섬유 공장 화재...20여 분 만에 꺼져",
     "웨이버스, 이재명 정부 ‘AI 민생 프로젝트’ 107억 사업 수주",
     "포항 호미반도 메밀꽃 개화 시작…초여름 관광객 발길 이어져",
     "대구 달서구 자동차 부품 제조 공장 화재… 인명피해 없어",
@@ -1001,6 +998,9 @@
     "양주경찰서, 보이스피싱 추가 범죄 예방 은행 직원 감사장·신고포상금...",
     "인천세관 6월의 인천세관인에 장은주 주무관",
     "2차 고유가 피해지원금 매출 증가율 제주 전국 꼴찌",
-    "'반값우유' 학교 우유급식 존립 위기"
+    "'반값우유' 학교 우유급식 존립 위기",
+    "생산기지 완공 멀고 비용 부담도… 소부장업체 ‘영남 이전’ 쉽진 않다",
+    "추미애, 李 대통령 반도체 속도전 '환영'··· \"경기도가 뒷받침할 것\"",
+    "[단독] 포항 글로벌AI데이터센터 7월 말 첫삽 뜬다…경북도 40억 출자로..."
   ]
 }
