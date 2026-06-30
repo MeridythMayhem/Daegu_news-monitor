@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1379818",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263663",
-    "https://www.yeongnam.com/web/view.php?key=20260609028003806",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263674",
-    "https://www.inews365.com/news/article.html?no=922752",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075075",
-    "https://n.news.naver.com/mnews/article/003/0013996665?sid=104",
     "https://www.ksmnews.co.kr/news/view.php?idx=608452",
     "https://www.ksmnews.co.kr/news/view.php?idx=608471",
     "https://n.news.naver.com/mnews/article/009/0005691601?sid=101",
@@ -499,16 +492,16 @@
     "https://www.ajunews.com/view/20260629141008886",
     "https://www.tbc.co.kr/news/view?pno=20260629141234AE01637&id=207835",
     "http://www.fieldnews.kr/news/articleView.html?idxno=29598",
-    "https://n.news.naver.com/mnews/article/030/0003442542?sid=102"
+    "https://n.news.naver.com/mnews/article/030/0003442542?sid=102",
+    "http://www.fieldnews.kr/news/articleView.html?idxno=29602",
+    "https://n.news.naver.com/mnews/article/654/0000188101?sid=101",
+    "http://www.fieldnews.kr/news/articleView.html?idxno=29601",
+    "https://www.asiatime.co.kr/article/20260629500418",
+    "http://amenews.kr/news/view.php?idx=67247",
+    "https://www.m-i.kr/news/articleView.html?idxno=1386430",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035572"
   ],
   "titles": [
-    "경주시, AI·XR 접목 역사문화 관광서비스 개발 나서",
-    "경북도, 1조 2819억 규모 '2026년 제1회 추경안' 편성",
-    "[사는곳이 계급인 나라 ⑥] 아플수록 서울로 가는 악순환…대구·경북의...",
-    "의성군, 경북 농식품 수출정책 평가서 '우수상' 수상",
-    "충북도 누적 채무 '1조3천억원' 육박",
-    "[단독] 한동대, 차세대 엔비디아 GB200 64장 추가 도입 추진",
-    "굶주림 막고 일자리까지…韓 NGO, 태국 난민캠프 자립 지원",
     "“지붕 추락사고, 장비 지원이 답” 안전보건공단, 경주 현장서 실효성...",
     "대통령 '지방 투자' 드라이브에 TK 긴장감…공기업·반도체 유치전 호남...",
     "“AI 투자도 인플레 자극, 내년 금리인상 가능”…월가 채권 거물의 경...",
@@ -1001,6 +994,13 @@
     "우즈베키스탄-조지아, 교역 목표 10억 달러로 높인다",
     "\"11억 원 추가로 발견\"...그동안 대구시 뭘했나",
     "[인사분석-③] 국세청 세원정보과장의 '수난시대'…세무대 출신 부이사...",
-    "씨아이에스케미칼-엘앤에프 전략적 투자 유치…배터리 공급망 혁신 나선..."
+    "씨아이에스케미칼-엘앤에프 전략적 투자 유치…배터리 공급망 혁신 나선...",
+    "[인사분석-⑤] 예외가 일상이 된 국세청…'6.30 인사'가 남긴 시그널",
+    "국세청 강원도내 4개 세무서장 교체 과장급 인사 단행",
+    "[인사분석-④] 국세청 '명퇴' 관례 흔들…작년 이어 올해도 용퇴 거부 속...",
+    "BSI 64까지 추락한 포항경제… 철강도, 중소기업도 “버티기 한계”",
+    "씨아이에스케미칼, 엘앤에프 전략적 투자 유치 성공",
+    "칠곡군, 첨단 농기계 클러스터 조성 본격화",
+    "경북도, 에너지산업융복합단지 종합지원센터 입주기업 모집"
   ]
 }
