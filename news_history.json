@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.eroun.net/news/articleView.html?idxno=82782",
-    "https://n.news.naver.com/mnews/article/421/0008995334?sid=102",
-    "https://n.news.naver.com/mnews/article/005/0001854081?sid=102",
     "https://www.cstimes.com/news/articleView.html?idxno=709169",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028933",
     "http://www.sisafocus.co.kr/news/articleView.html?idxno=361138",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269936",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269983",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269452",
-    "https://n.news.naver.com/mnews/article/021/0002801307?sid=102"
+    "https://n.news.naver.com/mnews/article/021/0002801307?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270010",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035723",
+    "https://n.news.naver.com/mnews/article/088/0001016848?sid=102"
   ],
   "titles": [
-    "경주 열분해유 공장서 대형 화재... 50대 직원 전신 화상·건물 3동 소실",
-    "경주 열분해유 제조공장 화재 7시간 만에 진화…1명 중상(종합)",
-    "경주 건천산단 열분해유 공장 화재…작업자 1명 중상",
     "포스코이앤씨 신안산선 현장서 또 사망사고…노동부 작업중지",
     "구미시, 원도심·선산 도시재생 박차...문화·관광·정주 기능 강화",
     "[포토] 경주 건천읍 공단 대형화재…유조차 불길 옆 공장으로 확산",
@@ -1001,6 +998,9 @@
     "김대중 전남교육감, 호남 메가 투자 계획 환영",
     "용인특례시, 에코타운 준공···7월부터 본격 가동",
     "[PICK! 이 안건] 서왕진 등 10인 \"석면 안전관리 체계의 실효성 제고해야...",
-    "서남권 메모리반도체 공장입지 오늘 윤곽"
+    "서남권 메모리반도체 공장입지 오늘 윤곽",
+    "무주군, 2050 미래비전 항공우주 중심도시 구상",
+    "구미 제조업 경기전망 악화…3분기 BSI 76으로 2년 연속 기준치 밑돌아",
+    "법원, JTBC 제외 중앙그룹 4개사 회생개시 결정"
   ]
 }
