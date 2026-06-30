@@ -1,13 +1,5 @@
 {
   "urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1303544&inflow=N",
-    "https://www.viva100.com/article/20260610500757",
-    "https://www.etoday.co.kr/news/view/2592246",
-    "https://realty.chosun.com/site/data/html_dir/2026/06/10/2026061002079.html",
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=307712",
-    "https://www.idaegu.com/news/articleView.html?idxno=663518",
-    "https://www.safetynews.co.kr/news/articleView.html?idxno=248881",
-    "https://n.news.naver.com/mnews/article/015/0005297162?sid=101",
     "https://www.businessplus.kr/news/articleView.html?idxno=112753",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1263973",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264068",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270130",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270169",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270159",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270186"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270186",
+    "https://n.news.naver.com/mnews/article/032/0003455184?sid=102",
+    "https://n.news.naver.com/mnews/article/003/0014037431?sid=102",
+    "https://www.hidomin.com/news/articleView.html?idxno=711395",
+    "https://n.news.naver.com/mnews/article/079/0004163301?sid=102",
+    "https://n.news.naver.com/mnews/article/088/0001016911?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269994",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270049",
+    "https://www.viva100.com/article/20260630500894"
   ],
   "titles": [
-    "(단독)또 SPC 사고…샤니 대구공장서 노동자 '끼임 사고' 중상",
-    "포스코이앤씨, 신안산선 하청 노동자 사망 사과… “안전 확보 때까지 ...",
-    "포스코이앤씨, 신안산선 현장 또 사망사고⋯“끝까지 책임 다하겠다”...",
-    "신안산선 세번째 사망사고, 포스코이앤씨 \"깊은 애도, 안전 확보될 때까...",
-    "포스코이앤씨, 또 신안산선 사망사고…반복 사고에 안전관리 도마",
-    "[영상] 경주 건천산단 열분해유 공장서 대형 화재…50대 작업자 중상",
-    "'또' 포스코이앤씨서 노동자 사망사고 발생",
-    "아진산업, 2500억원 투자해 국내복귀 신공장 준공",
     "[이슈+]포스코이앤씨, 신안산선 사망 사고에 전면 작업 중지…잇따른 사...",
     "파주시, 중장년 대상 '세컨드 직업 찾기' 참가자 모집",
     "과천시, K-패스·기후동행카드 월 3만 원 교통비 환급",
@@ -1001,6 +993,14 @@
     "광명시 사회연대경제, 대만 연구단 벤치마킹 방문",
     "전북지사직 인수위, 민선 9기 도정 청사진 제시",
     "충남도의회, 제13대 전반기 원구성 착수",
-    "건양대 스마트보안학과, 한국융합보안학회 학술대회서 '우수논문상' 대..."
+    "건양대 스마트보안학과, 한국융합보안학회 학술대회서 '우수논문상' 대...",
+    "오늘의 인사-해수부, 국세청, 한국관광공사, KBS 외",
+    "3년간 13명 사망…노동청, 대구·경북 사업장 단속(종합)",
+    "대구고용노동청, 제조업 '끼임 사고' 뿌리 뽑기 위해 칼 빼 들어",
+    "대구노동청, '끼임사고' 전력 제조업체 103곳 긴급 점검",
+    "AI 스마트안경 확산…수능도 비상",
+    "춘천시, 2027년 정부예산 확보 전략 보고회",
+    "평택시, 공인중개사 1천300명 대상 연수교육",
+    "[인사] 해양수산부 외"
   ]
 }
