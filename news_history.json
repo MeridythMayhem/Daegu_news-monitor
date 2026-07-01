@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/022/0004134605?sid=102",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3605156",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075220",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028946",
     "https://www.sejungilbo.com/news/articleView.html?idxno=58763",
@@ -499,11 +497,11 @@
     "http://www.breaknews.com/1218202",
     "https://n.news.naver.com/mnews/article/028/0002812180?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270676",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270672"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270672",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270687",
+    "http://mcnews.co.kr/86348"
   ],
   "titles": [
-    "신안산선 공사 현장 근로자 추락사…포스코이앤씨 “끝까지 책임”",
-    "아진산업, 중국 철수 후 경산 신공장 준공으로 국내 복귀 성공",
     "[만나GO] 이인선 위원장 \"마지막 기회라는 절박함이 대구를 지켰다\"",
     "구미시, 정부예산 확보 총력전...기재부·지방시대위 찾아 현안사업 건...",
     "임광현 국세청장, 8월 중 '6급이하 1천명 이상 수시 승진인사' 공지…직...",
@@ -1001,6 +999,8 @@
     "포스코노조, 웨딩·연회업체와 맞손…조합원 복지 혜택 확대",
     "플랜트건설노조 “포스코 등 교섭 나서야” 고소장 제출",
     "충남대, 기술경영촉진 지원사업 최종 선정",
-    "부산도시공사, 대저·연구개발특구 보상절차 착수"
+    "부산도시공사, 대저·연구개발특구 보상절차 착수",
+    "조달청, 비축 원자재 이용 우대 9개사 신규 지정",
+    "임재만 국토연구원장 취임 “현장 중심 연구 수행”"
   ]
 }
