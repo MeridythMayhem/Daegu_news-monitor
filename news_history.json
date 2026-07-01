@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/586/0000131245?sid=102",
     "http://www.paxetv.com/news/articleView.html?idxno=274390",
     "https://www.smarttoday.co.kr/ko-kr/articles/108295",
     "https://n.news.naver.com/mnews/article/469/0000935870?sid=102",
@@ -499,10 +498,10 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=611617",
     "https://www.ksmnews.co.kr/news/view.php?idx=611549",
     "https://www.ksmnews.co.kr/news/view.php?idx=611632",
-    "https://www.tbc.co.kr/news/view?pno=20260701161456AE01755&id=207910"
+    "https://www.tbc.co.kr/news/view?pno=20260701161456AE01755&id=207910",
+    "https://www.tbc.co.kr/news/view?pno=20260701171336AE01765&id=207911"
   ],
   "titles": [
-    "[경산 24시] 1330억 리쇼어링 결실…경산시, 아진산업 신공장 준공",
     "한국가스공사, 한라산 멸종위기 침엽수 보전 활동…한국수목원정원관리...",
     "SPC 계열사서 또... 샤니 대구공장 끼임사고 발생",
     "SPC계열 샤니 대구공장 노동자 기계 끼임 사고... 40대 노동자 중상",
@@ -1001,6 +1000,7 @@
     "대구시, 휴머노이드 핵심기술 개발에 최대 2.5억 지원",
     "상생포럼 제25기 9주차 - “AI, 업무 도구 아닌 생활형 비서로 자리”",
     "경산 펜타힐즈 더블유, 고분양가 논란 속 선전...분양가보단 입지",
-    "秋 취임 \"반도체 포기 않을 것\""
+    "秋 취임 \"반도체 포기 않을 것\"",
+    "3선 이 지사, \"경북 대전환...신공항.행정통합 속도\""
   ]
 }
