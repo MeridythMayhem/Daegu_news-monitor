@@ -1,8 +1,5 @@
 {
   "urls": [
-    "http://www.paxetv.com/news/articleView.html?idxno=274390",
-    "https://www.smarttoday.co.kr/ko-kr/articles/108295",
-    "https://n.news.naver.com/mnews/article/469/0000935870?sid=102",
     "https://www.sentv.co.kr/article/view/sentv202606110052",
     "https://n.news.naver.com/mnews/article/001/0016132930?sid=102",
     "https://www.newspim.com/news/view/20260611000615",
@@ -499,12 +496,12 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=611549",
     "https://www.ksmnews.co.kr/news/view.php?idx=611632",
     "https://www.tbc.co.kr/news/view?pno=20260701161456AE01755&id=207910",
-    "https://www.tbc.co.kr/news/view?pno=20260701171336AE01765&id=207911"
+    "https://www.tbc.co.kr/news/view?pno=20260701171336AE01765&id=207911",
+    "https://n.news.naver.com/mnews/article/001/0016171599?sid=102",
+    "https://www.m-i.kr/news/articleView.html?idxno=1386863",
+    "https://n.news.naver.com/mnews/article/001/0016171597?sid=110"
   ],
   "titles": [
-    "한국가스공사, 한라산 멸종위기 침엽수 보전 활동…한국수목원정원관리...",
-    "SPC 계열사서 또... 샤니 대구공장 끼임사고 발생",
-    "SPC계열 샤니 대구공장 노동자 기계 끼임 사고... 40대 노동자 중상",
     "대경경자청, 경산지식산업지구 내 아진산업(주) 국내복귀 신공장 준공",
     "노동부, 사망사고 반복 포스코이앤씨에 \"강제수사 신속 추진\"",
     "노동부 \"'산재 사망 반복' 포스코이앤씨에 특단의 조치 시행\"",
@@ -1001,6 +998,9 @@
     "상생포럼 제25기 9주차 - “AI, 업무 도구 아닌 생활형 비서로 자리”",
     "경산 펜타힐즈 더블유, 고분양가 논란 속 선전...분양가보단 입지",
     "秋 취임 \"반도체 포기 않을 것\"",
-    "3선 이 지사, \"경북 대전환...신공항.행정통합 속도\""
+    "3선 이 지사, \"경북 대전환...신공항.행정통합 속도\"",
+    "[전국 주요 신문 톱뉴스](2일 조간)",
+    "대구·경북 경제계 \"3대 메가 프로젝트서 지역 배제\"",
+    "[전국 주요 신문 사설](2일 조간)"
   ]
 }
