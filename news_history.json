@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264019",
-    "https://m.sports.naver.com/worldcup2026/article/009/0005692045",
-    "https://www.news2day.co.kr/article/20260610500256",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264129",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264174",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264131",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264042",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264003",
-    "https://www.yeongnam.com/web/view.php?key=20260610027279020",
     "https://www.m-i.kr/news/articleView.html?idxno=1380447",
     "http://www.4th.kr/news/articleView.html?idxno=2113004",
     "https://www.ksmnews.co.kr/news/view.php?idx=608546",
@@ -499,18 +490,18 @@
     "https://www.tbc.co.kr/news/view?pno=20260630143904AE01697&id=207866",
     "https://m.skyedaily.com/news_view.html?ID=306951",
     "http://www.intn.co.kr/news/articleView.html?idxno=2051630",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035865"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035865",
+    "http://www.intn.co.kr/news/articleView.html?idxno=2051643",
+    "https://n.news.naver.com/mnews/article/088/0001017027?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270420",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270444",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270428",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270417",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270384",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270423",
+    "https://www.m-i.kr/news/articleView.html?idxno=1386866"
   ],
   "titles": [
-    "영천시, 예비·신혼부부 대상 '함께하는 첫걸음' 교육 운영",
-    "장신 수비벽 구축한 체코 … 승리공식은 '좌우 측면 공략'",
-    "[오늘의 인사 : 6월 10일] KBS·과학기술정책연구원·FETV·남도일보·광...",
-    "경북도, 인공지능 기반 청년도전지원사업 추진",
-    "원주국토청, 남면-정선1 도로공사 재개",
-    "경과원, 글로벌 유니콘 캠퍼스 참여기업 25개사 모집",
-    "경북도, '530 한국장데이' 개최…전통장류 산업 활성화",
-    "문경시, '찾아가는 지적민원 현장 처리제' 운영",
-    "대구스타디움 미디어아트 테마파크 개장 지연…‘수성못 미디어아트’...",
     "포항시, '퐝퐝 취업(Cheer Up) 박람회' 개최… 35개 기업과 구직자 뜨거...",
     "샤니 대구공장 '끼임 사고'…이주노동자 부상",
     "경산시, 지적재조사사업 경계 결정 완료",
@@ -1001,6 +992,15 @@
     "1,600조 푸는데... 대구.경북은 '빈손'",
     "플랜트노조, 에스오일·고려아연 등 고발추진·파업예고… 포스코는 ‘...",
     "국세청 핵심 보직 세원정보과장 출신 잇단 '교육원 발령'에 세정가 '촉각...",
-    "포항상의·iM뱅크, 제27회 포항 CEO포럼 개최…글로벌 경제전망 제시"
+    "포항상의·iM뱅크, 제27회 포항 CEO포럼 개최…글로벌 경제전망 제시",
+    "[인사] 국세청 과장급 전보(7월 1일자)",
+    "대구고용노동청, 제조업 끼임사고 예방 긴급점검",
+    "전남도, 식품융합 클러스터 조성 시범사업 본격화",
+    "[특징주] 위메이드, 中 알리바바 관계사에 매각 소식 '상한가'",
+    "용인특례시, 민선9기 용인르네상스 시즌2 선언",
+    "용인특례시, 민선9기 첫 일정 환경정비로 시작",
+    "화성특례시, 6급 핵심인재 25명 배출",
+    "인천시 '고정밀 전자지도 구축 챌린지 사업' 4년 연속 선정 쾌거(上)",
+    "칠곡 북삼오평산단, 17년 만에 승인 고시"
   ]
 }
