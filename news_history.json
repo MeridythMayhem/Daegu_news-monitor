@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=550741",
-    "https://n.news.naver.com/mnews/article/657/0000052310?sid=102",
-    "https://n.news.naver.com/mnews/article/016/0002654953?sid=102",
     "https://n.news.naver.com/mnews/article/022/0004134605?sid=102",
     "https://www.gukjenews.com/news/articleView.html?idxno=3605156",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075220",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270536",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270545",
     "http://www.intn.co.kr/news/articleView.html?idxno=2051642",
-    "http://www.breaknews.com/1218202"
+    "http://www.breaknews.com/1218202",
+    "https://n.news.naver.com/mnews/article/028/0002812180?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270676",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270672"
   ],
   "titles": [
-    "직장 내 괴롭힘에 성희롱까지… 대구 구군체육회장 의혹 확산",
-    "SPC샤니 대구공장서 40대 노동자 끼임 사고로 중상… 노조 강력 반발",
-    "DGFEZ, 경산지식산업지구 내 아진산업(주) 국내복귀 신공장 준공",
     "신안산선 공사 현장 근로자 추락사…포스코이앤씨 “끝까지 책임”",
     "아진산업, 중국 철수 후 경산 신공장 준공으로 국내 복귀 성공",
     "[만나GO] 이인선 위원장 \"마지막 기회라는 절박함이 대구를 지켰다\"",
@@ -1001,6 +998,9 @@
     "양평군, 유니크베뉴 심화컨설팅 워크숍 개최",
     "한성숙 국무총리 \"AI·첨단산업 과감히 투자…국민 삶 체감하는 정책 속...",
     "국세청 과장급 전보인사 122명 중 37명이 부임 5개월만 교체 돼",
-    "포스코노조, 웨딩·연회업체와 맞손…조합원 복지 혜택 확대"
+    "포스코노조, 웨딩·연회업체와 맞손…조합원 복지 혜택 확대",
+    "플랜트건설노조 “포스코 등 교섭 나서야” 고소장 제출",
+    "충남대, 기술경영촉진 지원사업 최종 선정",
+    "부산도시공사, 대저·연구개발특구 보상절차 착수"
   ]
 }
