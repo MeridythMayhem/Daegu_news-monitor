@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4075220",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5028946",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=58763",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5029385",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2051204",
-    "https://www.newsmin.co.kr/news/133637/",
     "https://www.safetynews.co.kr/news/articleView.html?idxno=248901",
     "https://www.itbiznews.com/news/articleView.html?idxno=215798",
     "https://n.news.naver.com/mnews/article/021/0002796990?sid=102",
@@ -499,15 +493,15 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270676",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270672",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270687",
-    "http://mcnews.co.kr/86348"
+    "http://mcnews.co.kr/86348",
+    "https://www.news2day.co.kr/article/20260701500231",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=441325",
+    "https://www.yeongnam.com/web/view.php?key=20260701023323093",
+    "https://n.news.naver.com/mnews/article/009/0005701418?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270745",
+    "http://www.domin.co.kr/news/articleView.html?idxno=1560446"
   ],
   "titles": [
-    "[만나GO] 이인선 위원장 \"마지막 기회라는 절박함이 대구를 지켰다\"",
-    "구미시, 정부예산 확보 총력전...기재부·지방시대위 찾아 현안사업 건...",
-    "임광현 국세청장, 8월 중 '6급이하 1천명 이상 수시 승진인사' 공지…직...",
-    "경북 8개 중소기업, '글로벌강소기업 1000+ 프로젝트' 선정…수출 경쟁...",
-    "국세청, 8월 6급 이하 1천여명 수시승진 단행…\"역대급 승진 인사\"",
-    "샤니 대구공장서 끼임사고···노조 \"특별교섭 즉각 응하라\"",
     "샤니 대구공장서 기계 끼임 사고 발생",
     "동일 노선서 3명 사망…포스코이앤씨, 중대재해 관리 구멍 뚫렸나",
     "이번엔 샤니 대구공장서 팔 끼임 사고…SPC 계열사 공장 사고 잇따라",
@@ -1001,6 +995,12 @@
     "충남대, 기술경영촉진 지원사업 최종 선정",
     "부산도시공사, 대저·연구개발특구 보상절차 착수",
     "조달청, 비축 원자재 이용 우대 9개사 신규 지정",
-    "임재만 국토연구원장 취임 “현장 중심 연구 수행”"
+    "임재만 국토연구원장 취임 “현장 중심 연구 수행”",
+    "[오늘의 인사 : 7월 2일] 신한카드·NH투자증권·하나증권·국세청·분당...",
+    "[인사] 더트래커, 하나증권, 국세청 외",
+    "호남 팹보다 더 두려운 건 ‘소재·부품 기업 이동’…구미 반도체 생태...",
+    "“서울 집값 72주 내내 올랐다”…매매·전세·월세 ‘트리플 강세’ [부...",
+    "대한민국 AI 수도로 비상하는 '통하는 충남'",
+    "(메가 프로젝트 긴급진단) 송양호 전북대 교수가 말하는 전북의 미래 전..."
   ]
 }
