@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.sentv.co.kr/article/view/sentv202606110052",
     "https://n.news.naver.com/mnews/article/001/0016132930?sid=102",
     "https://www.newspim.com/news/view/20260611000615",
     "https://www.ajunews.com/view/20260611113407321",
@@ -499,10 +498,10 @@
     "https://www.tbc.co.kr/news/view?pno=20260701171336AE01765&id=207911",
     "https://n.news.naver.com/mnews/article/001/0016171599?sid=102",
     "https://www.m-i.kr/news/articleView.html?idxno=1386863",
-    "https://n.news.naver.com/mnews/article/001/0016171597?sid=110"
+    "https://n.news.naver.com/mnews/article/001/0016171597?sid=110",
+    "https://www.kbsm.net/news/view.php?idx=525246"
   ],
   "titles": [
-    "대경경자청, 경산지식산업지구 내 아진산업(주) 국내복귀 신공장 준공",
     "노동부, 사망사고 반복 포스코이앤씨에 \"강제수사 신속 추진\"",
     "노동부 \"'산재 사망 반복' 포스코이앤씨에 특단의 조치 시행\"",
     "김영훈 노동장관 \"포스코이앤씨 중대재해 반복...특단 조치 시행\"",
@@ -1001,6 +1000,7 @@
     "3선 이 지사, \"경북 대전환...신공항.행정통합 속도\"",
     "[전국 주요 신문 톱뉴스](2일 조간)",
     "대구·경북 경제계 \"3대 메가 프로젝트서 지역 배제\"",
-    "[전국 주요 신문 사설](2일 조간)"
+    "[전국 주요 신문 사설](2일 조간)",
+    "대구경실련 \"대구TP 인건비 과다계상 의혹 철저히 규명해야\""
   ]
 }
