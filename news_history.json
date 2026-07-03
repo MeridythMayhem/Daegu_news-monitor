@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.dynews.co.kr/news/articleView.html?idxno=853860",
-    "http://www.dynews.co.kr/news/articleView.html?idxno=853873",
     "https://n.news.naver.com/mnews/article/018/0006303540?sid=101",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=243430",
     "https://www.yeongnam.com/web/view.php?key=20260611029579578",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271377",
     "https://www.news2day.co.kr/article/20260703500246",
     "https://www.lawtimes.co.kr/news/articleView.html?idxno=223004",
-    "https://www.greened.kr/news/articleView.html?idxno=344186"
+    "https://www.greened.kr/news/articleView.html?idxno=344186",
+    "https://www.tbc.co.kr/news/view?pno=20260703165459AE01894&id=208012",
+    "https://www.tbc.co.kr/news/view?pno=20260703174325AE01901&id=208013"
   ],
   "titles": [
-    "충북상업경진대회, 학생 400명 참가 전국대회 대표 선발",
-    "기술 인재들 한자리…28회 충남상업경진대회 개최",
     "신안산선 작업자 추락사고에 칼 뺀 국토부…포스코이앤씨 특별점검",
     "중대재해 속출 포스코이앤씨 본사 압색·강제수사 직면",
     "[단독] “부산 건설사가 왜”…영남고 이전부지 낙찰자는 설립 4개월 된...",
@@ -1001,6 +999,8 @@
     "아산시의회, 제266회 임시회 앞두고 주요 현안 점검",
     "[오늘의 부고: 7월 3일] 양철호(국세청 정보화관리관) 씨 부친상 外",
     "디엘지, 경북 창업 기업 성장 지원 MOU",
-    "반대 청원까지 등장한 CBDC 2단계…논란 속에도 경남은행·iM뱅크 합류 이..."
+    "반대 청원까지 등장한 CBDC 2단계…논란 속에도 경남은행·iM뱅크 합류 이...",
+    "회생 폐지에 '망연자실'...대량 실직 위기",
+    "\"메가 투자는 없었다\" 냉랭한 TK"
   ]
 }
