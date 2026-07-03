@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/018/0006303540?sid=101",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=243430",
-    "https://www.yeongnam.com/web/view.php?key=20260611029579578",
-    "https://www.tbc.co.kr/news/view?pno=20260611141225AE00947&id=207254",
-    "https://www.tbc.co.kr/news/view?pno=20260611163335AE00962&id=207256",
     "https://www.electimes.com/news/articleView.html?idxno=369013",
     "https://www.labortoday.co.kr/news/articleView.html?idxno=235056",
     "https://www.hyunbulnews.com/news/articleView.html?idxno=503788",
@@ -499,14 +494,14 @@
     "https://www.lawtimes.co.kr/news/articleView.html?idxno=223004",
     "https://www.greened.kr/news/articleView.html?idxno=344186",
     "https://www.tbc.co.kr/news/view?pno=20260703165459AE01894&id=208012",
-    "https://www.tbc.co.kr/news/view?pno=20260703174325AE01901&id=208013"
+    "https://www.tbc.co.kr/news/view?pno=20260703174325AE01901&id=208013",
+    "https://n.news.naver.com/mnews/article/119/0003107891?sid=100",
+    "https://www.apnews.kr/news/articleView.html?idxno=3049454",
+    "https://n.news.naver.com/mnews/article/469/0000940190?sid=102",
+    "https://n.news.naver.com/mnews/article/052/0002374256?sid=101",
+    "https://www.m-i.kr/news/articleView.html?idxno=1387843"
   ],
   "titles": [
-    "신안산선 작업자 추락사고에 칼 뺀 국토부…포스코이앤씨 특별점검",
-    "중대재해 속출 포스코이앤씨 본사 압색·강제수사 직면",
-    "[단독] “부산 건설사가 왜”…영남고 이전부지 낙찰자는 설립 4개월 된...",
-    "호남 반도체 투자설..추경호 반도체 유치 공약 '빨간불'",
-    "\"행정 마비 막아라\"...시의회 '임기 일치 조례' 4년 만에 손질",
     "신안산선 공사현장 또 사망사고…국토부, 포스코이앤씨 특별점검 착수",
     "[또, SPC] 이번엔 대구 샤니공장 끼임사고",
     "서중호 대불총 신도회장, 아진산업 하양 신공장 준공",
@@ -1001,6 +996,11 @@
     "디엘지, 경북 창업 기업 성장 지원 MOU",
     "반대 청원까지 등장한 CBDC 2단계…논란 속에도 경남은행·iM뱅크 합류 이...",
     "회생 폐지에 '망연자실'...대량 실직 위기",
-    "\"메가 투자는 없었다\" 냉랭한 TK"
+    "\"메가 투자는 없었다\" 냉랭한 TK",
+    "호남서 시작해 영남서 매듭…李대통령 '메가투자 릴레이'에 담긴 셈법",
+    "[AP 미디어동향 7월 1주] 언론계 인사 및 부고",
+    "\"틀렸어, 야르~\" 털어내는 실험실… 아이들 마음에 '과학' 심는다",
+    "\"李임기내 가능하려면..\" 서남권 반도체 '용수' 확보, 어떻게 하나",
+    "구미 경제계, \"반도체팹 최적지는 구미\""
   ]
 }
