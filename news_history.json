@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=439801",
-    "https://n.news.naver.com/mnews/article/629/0000506917?sid=101",
-    "https://www.insightkorea.co.kr/news/articleView.html?idxno=248003",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264429",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264408",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264446",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1264576",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/277/0005785178?sid=102",
     "https://www.hidomin.com/news/articleView.html?idxno=711854",
     "https://www.yeongnam.com/web/view.php?key=20260703029033829",
-    "https://www.youthdaily.co.kr/news/article.html?no=222236"
+    "https://www.youthdaily.co.kr/news/article.html?no=222236",
+    "https://n.news.naver.com/mnews/article/448/0000624095?sid=101",
+    "https://n.news.naver.com/mnews/article/277/0005785249?sid=102",
+    "https://www.mtnews.net/news/articleView.html?idxno=25225",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037189"
   ],
   "titles": [
-    "[인사] 국세청, 대한주택건설협회",
-    "샤니 대구공장서 끼임 사고 발생…40대 부상",
-    "포스코이앤씨, '안전 전문가' 송치영 체제서도 중대재해...실적 '흐림'",
-    "경북도 8개 수출 유망기업, '글로벌강소기업 1000+ 프로젝트' 선정",
     "문경시, 7월 22일까지 '2025년 기준 경제총조사' 진행",
     "정선군, 사북역 주변 공영주차장 및 별빛광장 조성사업 추진",
     "구리시, 무단 방치 차량 등 불법 자동차 일제 단속 실시",
@@ -1001,6 +997,10 @@
     "국세청, 고위직 인사…차장 박해영·서울청장 안덕수·중부청장 김지훈",
     "구미 공단동 폐배터리 공장서 화재…130평 공장 절반 불타",
     "[단독] 감사원 ‘55만명’ 뒤집히나…울릉공항 재조사 ‘90만명 이상’",
-    "경북서 11년 만에 구제역 발생...'축산 메카' 예천 초비상"
+    "경북서 11년 만에 구제역 발생...'축산 메카' 예천 초비상",
+    "국세청 신임 차장 박해영…서울청장 안덕수 승진",
+    "구미 자화전자, 5000억 들여 스마트폰 카메라 부품공장 신설…투자각서...",
+    "자화전자, 구미산단에 5천억 규모 첨단 카메라 액추에이터 공장 신설",
+    "포항TP, 경북형 스마트공장 구축지원사업 추가 모집…지역 제조혁신 가..."
   ]
 }
