@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268362",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3616916",
-    "https://www.yeongnam.com/web/view.php?key=20260624024312021",
-    "https://www.ksmnews.co.kr/news/view.php?idx=610628",
     "https://www.hidomin.com/news/articleView.html?idxno=710751",
     "https://www.ksmnews.co.kr/news/view.php?idx=610552",
     "https://www.ksmnews.co.kr/news/view.php?idx=610621",
@@ -499,13 +495,13 @@
     "https://www.gokorea.kr/news/articleView.html?idxno=871283",
     "https://n.news.naver.com/mnews/article/657/0000053085?sid=101",
     "https://www.taxtimes.co.kr/news/article.html?no=275870",
-    "https://www.sentv.co.kr/article/view/sentv202607060074"
+    "https://www.sentv.co.kr/article/view/sentv202607060074",
+    "https://www.livebiz.today/news/articleView.html?idxno=203112",
+    "https://www.socialvalue.kr/news/view/1065587439694005",
+    "https://www.m-i.kr/news/articleView.html?idxno=1388430",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037876"
   ],
   "titles": [
-    "경북도의회 예결특위, 2026년 제1회 추경예산안 심사 착수",
-    "선린대-포스코인재창조원-스프레틱스, K-뉴딜 청년 인재 양성 MOU 체결",
-    "제10대 대구시의회 개원 D-7…초선 파워 ‘주목’",
-    "반도체는 지역 전리품 아냐…특정 지역 편중 논란 확산",
     "포스코, 하청사 노조와 진짜 교섭하나",
     "대구시, 임산부 6800명 대상 친환경 농산물 지원...내달 1일부터 접수",
     "포항시, 위기의 외식업 소상공인 구한다… 7월 3일까지 맞춤형 컨설팅 ...",
@@ -1001,6 +997,10 @@
     "대동로보틱스, 50억 투자 유치…인공지능 로봇 사업 확대 가속화",
     "대동로보틱스, GS건설·포스코 CVC 등에서 50억 시리즈A 투자 유치",
     "지방국세청장 인사, 영남 약진·호남 퇴조…7명 전원 행시 출신",
-    "농업 넘어 건설·제조로…대동로보틱스, 50억 투자 유치"
+    "농업 넘어 건설·제조로…대동로보틱스, 50억 투자 유치",
+    "대동로보틱스, 50억원 투자 유치 성공...농업 로봇에 이어 제조·건설로...",
+    "대동로보틱스, GS건설·포스코 CVC서 50억 투자 유치…산업용 로봇 확대",
+    "경북도, 적극 행정 공무원 5명 선발…포상금·인사 인센티브 부여",
+    "경주시, 물가대책위원회 운영 조례 개정 추진"
   ]
 }
