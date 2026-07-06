@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.hidomin.com/news/articleView.html?idxno=710751",
-    "https://www.ksmnews.co.kr/news/view.php?idx=610552",
-    "https://www.ksmnews.co.kr/news/view.php?idx=610621",
-    "https://www.ksmnews.co.kr/news/view.php?idx=610474",
-    "https://www.ksmnews.co.kr/news/view.php?idx=610487",
-    "https://www.tbc.co.kr/news/view?pno=20260624191211AE01497&id=207680",
     "https://www.tbc.co.kr/news/view?pno=20260624152732AE01472&id=207679",
     "http://www.weeklytoday.com/news/articleView.html?idxno=781502",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268356",
@@ -499,15 +493,15 @@
     "https://www.livebiz.today/news/articleView.html?idxno=203112",
     "https://www.socialvalue.kr/news/view/1065587439694005",
     "https://www.m-i.kr/news/articleView.html?idxno=1388430",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037876"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037876",
+    "https://www.pn.or.kr/news/articleView.html?idxno=33845",
+    "https://www.tokenpost.kr/news/ai/375312",
+    "https://n.news.naver.com/mnews/article/092/0002429425?sid=105",
+    "https://www.m-i.kr/news/articleView.html?idxno=1388630",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037933",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037951"
   ],
   "titles": [
-    "포스코, 하청사 노조와 진짜 교섭하나",
-    "대구시, 임산부 6800명 대상 친환경 농산물 지원...내달 1일부터 접수",
-    "포항시, 위기의 외식업 소상공인 구한다… 7월 3일까지 맞춤형 컨설팅 ...",
-    "경산시, 지방세입 체납관리단 7명 모집… 맞춤형 징수 활동 강화",
-    "상생포럼 제25기 8주차- “우리 사회는 죽음을 바르게 이해하고 있는가...",
-    "\"명백한 지역 홀대\"...추경호.이철우 호남.충청 반도체 추진 반발",
     "데이터센터 좌초 위기에 반도체 공장 유치도 차질",
     "[위클리오늘] \"의장보다 시정 안정\" 선택한 하중환… 대구시의회와 추경...",
     "청송군, 경북도 지방세정 종합평가 장려상 수상",
@@ -1001,6 +995,12 @@
     "대동로보틱스, 50억원 투자 유치 성공...농업 로봇에 이어 제조·건설로...",
     "대동로보틱스, GS건설·포스코 CVC서 50억 투자 유치…산업용 로봇 확대",
     "경북도, 적극 행정 공무원 5명 선발…포상금·인사 인센티브 부여",
-    "경주시, 물가대책위원회 운영 조례 개정 추진"
+    "경주시, 물가대책위원회 운영 조례 개정 추진",
+    "홈플러스, 결국 기업회생 폐지...대구 4곳 노동자 500여명 '실직 위기'",
+    "대동로보틱스, 50억 투자 유치로 로봇 서비스 확장 가속화",
+    "대동로보틱스, 50억원 규모 시리즈A 투자 유치…GS건설·포스코홀딩스 ...",
+    "경북 대전환위, 33일 활동 마무리…AI 중심 미래 청사진 제시",
+    "한국한복진흥원, 경북 한복기업 맞춤형 컨설팅 참여기업 모집",
+    "포항TP·노드큐어, 동물용의약품 제품화 지원 협력"
   ]
 }
