@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.lkp.news/news/articleView.html?idxno=81169",
-    "https://www.namdonews.com/news/articleView.html?idxno=914659",
     "https://n.news.naver.com/mnews/article/088/0001016120?sid=102",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=268473",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268362",
@@ -499,11 +497,11 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1388410",
     "https://n.news.naver.com/mnews/article/001/0016177581?sid=105",
     "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607061038472680102736",
-    "https://www.m-i.kr/news/articleView.html?idxno=1388442"
+    "https://www.m-i.kr/news/articleView.html?idxno=1388442",
+    "https://www.gokorea.kr/news/articleView.html?idxno=871283",
+    "https://n.news.naver.com/mnews/article/657/0000053085?sid=101"
   ],
   "titles": [
-    "리튬 가격 반등·ESS 수요 폭발… 포스코홀딩스, 아르헨티나 발 '어닝 모...",
-    "[통합특별시, 길을 묻다]⑤ 문화·관광분야=조상열 대동문화재단 대표 ...",
     "경북 새마을운동 56주년 기념식 개최…\"AI·청년 중심 제3세대 새마을운...",
     "차입금 늘고 영업외손실 낸 포스코퓨처엠, '팩토리얼' 투자로 차세대 동...",
     "경북도의회 예결특위, 2026년 제1회 추경예산안 심사 착수",
@@ -1001,6 +999,8 @@
     "구미시, 소규모 사업장 IoT 설치비 60% 지원",
     "대동로보틱스, 50억원 투자 유치 성공…AI로봇 사업 고도화 추진",
     "[더벨][i-point] 대동로보틱스, GS건설·포스코 CVC·나우IB투자 유치",
-    "경주시, 물가대책위원회 운영체계 개편…물가 대응력 높인다"
+    "경주시, 물가대책위원회 운영체계 개편…물가 대응력 높인다",
+    "대동로보틱스, 50억 투자 유치…인공지능 로봇 사업 확대 가속화",
+    "대동로보틱스, GS건설·포스코 CVC 등에서 50억 시리즈A 투자 유치"
   ]
 }
