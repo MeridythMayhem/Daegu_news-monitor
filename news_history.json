@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/656/0000179031?sid=102",
-    "https://n.news.naver.com/mnews/article/003/0014005583?sid=102",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3608088",
-    "https://idsn.co.kr/news/view/1065615696243051",
-    "https://www.tbc.co.kr/news/view?pno=20260611151411AE00953&id=207332",
-    "https://www.ksmnews.co.kr/news/view.php?idx=610334",
-    "https://n.news.naver.com/mnews/article/020/0003728862?sid=100",
     "https://www.yeongnam.com/web/view.php?key=20260623020411709",
     "https://www.tbc.co.kr/news/view?pno=20260622133217AE01363&id=207637",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5033935",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/417/0001150412?sid=101",
     "http://www.paxetv.com/news/articleView.html?idxno=276456",
     "https://n.news.naver.com/mnews/article/030/0003444629?sid=102",
-    "https://n.news.naver.com/mnews/article/009/0005703087?sid=101"
+    "https://n.news.naver.com/mnews/article/009/0005703087?sid=101",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=59081",
+    "https://n.news.naver.com/mnews/article/011/0004638498?sid=101",
+    "https://www.etoday.co.kr/news/view/2600566",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037759",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037757",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037754",
+    "https://www.m-i.kr/news/articleView.html?idxno=1388410"
   ],
   "titles": [
-    "대전 유성구 대동 야산서 산불… 인명피해 없어",
-    "대전 유성구 대동 일원서 산불…2시간 만에 진화",
-    "[1보] 대전 유성구 대동 산불 진화...인명피해 없어",
-    "대전 유성구 대동 야산서 산불…진화 인력 76명 투입",
-    "미수금 2,000억 원 추정...협력업체·농가 직격탄",
-    "신공장 준공 기쁨 지역사회와 나눔으로… 아진산업, 백미 150포 전달",
-    "금태섭 “李정부 지탱한 ‘내란 프레임’ 이제 깨졌다”[황형준의 법정...",
     "호남 대규모 반도체 팹 투자설에 구미 술렁…“입지 기준부터 따져야”",
     "[단독]재보증 비율 축소...보증 '보릿고개' 오나?",
     "상주 수제와인, 서울국제주류박람회서 경쟁력 입증",
@@ -1001,6 +994,13 @@
     "\"GS·포스코도 베팅\"…대동로보틱스, AI 필드로봇에 50억 투자 유치",
     "대동로보틱스, GS건설·포스코 CVC 투자 유치…\"AI 필드로봇 사업화 가속...",
     "대동로보틱스, GS건설·포스코 CVCo나우IB투자 유치…로봇 사업화 가속",
-    "포스코홀딩스, 2분기 실적 주춤 전망…2차전지 적자 여파"
+    "포스코홀딩스, 2분기 실적 주춤 전망…2차전지 적자 여파",
+    "[프로필] 안덕수 신임 서울국세청장…'자상한 세무조사' 기조 전환의 주...",
+    "대동로보틱스, 50억 규모 투자 유치…AI 필드로봇 사업화 속도",
+    "대동로보틱스, 50억원 투자 유치…로봇 사업화 가속",
+    "구미시, 첫 디자인산업 진흥계획 수립…AI 융합 제조혁신 추진",
+    "상주시, 노사화합 한마당 개최…근로자·기업인 700여 명 참여",
+    "문경시, 민선9기 첫 확대간부회의 개최…핵심 현안·공약사업 점검",
+    "구미시, 소규모 사업장 IoT 설치비 60% 지원"
   ]
 }
