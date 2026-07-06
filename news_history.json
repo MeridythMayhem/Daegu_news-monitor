@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3608053",
-    "https://www.goodmorningcc.com/news/articleView.html?idxno=447505",
-    "https://www.yeongnam.com/web/view.php?key=20260614026209886",
-    "https://n.news.naver.com/mnews/article/009/0005693668?sid=101",
-    "http://www.paxetv.com/news/articleView.html?idxno=274584",
-    "https://n.news.naver.com/mnews/article/214/0001505390?sid=102",
     "https://n.news.naver.com/mnews/article/656/0000179031?sid=102",
     "https://n.news.naver.com/mnews/article/003/0014005583?sid=102",
     "https://www.gukjenews.com/news/articleView.html?idxno=3608088",
@@ -499,15 +493,15 @@
     "http://www.fieldnews.kr/news/articleView.html?idxno=29752",
     "http://www.thebigdata.co.kr/view.php?ud=202607031521529596bbceadc3c9_23",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037657",
-    "https://www.m-i.kr/news/articleView.html?idxno=1388261"
+    "https://www.m-i.kr/news/articleView.html?idxno=1388261",
+    "https://n.news.naver.com/mnews/article/277/0005785850?sid=101",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1382993",
+    "https://n.news.naver.com/mnews/article/417/0001150412?sid=101",
+    "http://www.paxetv.com/news/articleView.html?idxno=276456",
+    "https://n.news.naver.com/mnews/article/030/0003444629?sid=102",
+    "https://n.news.naver.com/mnews/article/009/0005703087?sid=101"
   ],
   "titles": [
-    "[속보] 대전 유성구 대동 산불 발생 \"입산 금지\"",
-    "대전 유성구 대동 야산서 산불…대응 1단계 발령",
-    "대구 취수원 ‘해법’ 찾을까?…이달 말부터 복류수 실증실험 본격 돌입",
-    "“소문에 사서 뉴스에 팔라” 학술적으로 증명?…이번주 FOMC 대응법 [너...",
-    "유성구 대동 산불 44분 만에 진화···신속 대응 성과",
-    "대전 유성구 대동 매방산서 산불‥다친 사람 없어",
     "대전 유성구 대동 야산서 산불… 인명피해 없어",
     "대전 유성구 대동 일원서 산불…2시간 만에 진화",
     "[1보] 대전 유성구 대동 산불 진화...인명피해 없어",
@@ -1001,6 +995,12 @@
     "[인사 분석-⑨] 국세청 조사국장 공석 미스터리…핵심 카드는?",
     "[에코프로그룹 줌인] 에코프로비엠 1.2조 유증...잉여금 4년 연속 적자·...",
     "자화전자, 구미에 5천억원 투자…첨단 카메라부품 생산기지 구축",
-    "칠곡군, 경북 일자리편의점 칠곡지점 개소"
+    "칠곡군, 경북 일자리편의점 칠곡지점 개소",
+    "대동로보틱스, 50억원 규모 시리즈A 투자 유치",
+    "대동로보틱스, 50억원 시리즈A 투자 유치…\"건설·제조 현장에 로봇 확...",
+    "\"GS·포스코도 베팅\"…대동로보틱스, AI 필드로봇에 50억 투자 유치",
+    "대동로보틱스, GS건설·포스코 CVC 투자 유치…\"AI 필드로봇 사업화 가속...",
+    "대동로보틱스, GS건설·포스코 CVCo나우IB투자 유치…로봇 사업화 가속",
+    "포스코홀딩스, 2분기 실적 주춤 전망…2차전지 적자 여파"
   ]
 }
