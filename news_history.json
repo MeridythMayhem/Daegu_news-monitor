@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034114",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034138",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268698",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268696",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268691",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268636",
@@ -499,12 +496,12 @@
     "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026070600026&story_seq=0&soCode=114&socttSn=NS2026070600026&socttSeq=0",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271954",
     "https://n.news.naver.com/mnews/article/014/0005544394?sid=105",
-    "https://www.g-enews.com/view.php?ud=2026070615492719983084322ec9_1"
+    "https://www.g-enews.com/view.php?ud=2026070615492719983084322ec9_1",
+    "https://n.news.naver.com/mnews/article/009/0005703599?sid=101",
+    "https://www.tbc.co.kr/news/view?pno=20260706161650AE01976&id=208093",
+    "https://www.tbc.co.kr/news/view?pno=20260703104620AE01869&id=208090"
   ],
   "titles": [
-    "안동시, 청년 행정인턴 7기 운영",
-    "제9대 구미시의회 4년 의정 마무리…입법·현장 중심 의정 성과 결실",
-    "한국농어촌공사 강원지역본부, 제3회 안전강화 혁신회의회",
     "콜롬비아 메데진시, 춘천 바이오·관광 정책 벤치마킹",
     "홍천군 \"세계 최대 드론 기업도 주목한 홍천군\"… 드론 산업 메카로 뜬...",
     "성남하이테크밸리, 피지컬 AI 실증 거점으로 육성",
@@ -1001,6 +998,9 @@
     "[매일신문 조규덕 기자의 위클리TK] 삼성, 구미에 대규모 투자 예고 등",
     "경북도, 농특산물 유통망 확대 나서",
     "드론 띄워 산불 잡고 AI로 문화외교… 일상에 ‘포스코쉴드’ 가동",
-    "포스코, AI 시대 겨냥 '미래수요개발실' 신설…데이터센터·전력망 공략"
+    "포스코, AI 시대 겨냥 '미래수요개발실' 신설…데이터센터·전력망 공략",
+    "수출 1000억달러에도 환율은 역대급…달러는 어디로 가나 [이슈 플러스...",
+    "'메가 투자' 없어도 AI.로봇 총력",
+    "[단독]'비밀 장부' 펼쳐보니...코인 투자금만 수백 억"
   ]
 }
