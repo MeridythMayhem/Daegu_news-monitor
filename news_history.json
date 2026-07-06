@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.econotelling.com/news/articleView.html?idxno=20731",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034115",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034114",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034138",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268698",
@@ -499,11 +497,11 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=269189",
     "https://www.yeongnam.com/web/view.php?key=20260706028024174",
     "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026070600026&story_seq=0&soCode=114&socttSn=NS2026070600026&socttSeq=0",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271954"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271954",
+    "https://n.news.naver.com/mnews/article/014/0005544394?sid=105",
+    "https://www.g-enews.com/view.php?ud=2026070615492719983084322ec9_1"
   ],
   "titles": [
-    "[독점연재] 정주영 히스토리 (104) 조카 몽혁에 대한 지극한 사랑",
-    "안동 풍산에 국내 최대 증류식 소주 생산시설 준공…전통주 산업 확대",
     "안동시, 청년 행정인턴 7기 운영",
     "제9대 구미시의회 4년 의정 마무리…입법·현장 중심 의정 성과 결실",
     "한국농어촌공사 강원지역본부, 제3회 안전강화 혁신회의회",
@@ -1001,6 +999,8 @@
     "\"1분기 적자에도 믿는 구석 있다\"…대동금속, 현대차 로봇 '아틀라스' 부...",
     "[영남일보·한국귀농귀촌치유산업진흥원 공동기획: 동양의 스위스 대구...",
     "[매일신문 조규덕 기자의 위클리TK] 삼성, 구미에 대규모 투자 예고 등",
-    "경북도, 농특산물 유통망 확대 나서"
+    "경북도, 농특산물 유통망 확대 나서",
+    "드론 띄워 산불 잡고 AI로 문화외교… 일상에 ‘포스코쉴드’ 가동",
+    "포스코, AI 시대 겨냥 '미래수요개발실' 신설…데이터센터·전력망 공략"
   ]
 }
