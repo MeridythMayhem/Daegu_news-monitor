@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.news2day.co.kr/article/20260626500162",
     "http://www.fieldnews.kr/news/articleView.html?idxno=29555",
     "https://idsn.co.kr/news/view/1065600756498243",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=602652",
@@ -499,10 +498,10 @@
     "https://www.yeongnam.com/web/view.php?key=20260707021334588",
     "https://www.yeongnam.com/web/view.php?key=20260707029554654",
     "https://www.tbc.co.kr/news/view?pno=20260707110937AE02019&id=208144",
-    "https://www.tbc.co.kr/news/view?pno=20260706162542AE01979&id=208142"
+    "https://www.tbc.co.kr/news/view?pno=20260706162542AE01979&id=208142",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=553220"
   ],
   "titles": [
-    "[오늘의 인사 : 6월 26일] 현대해상·외교부·법무부·국세청·부산소방...",
     "[인사분석-①] 국세청 '인사 역사' 새로 썼다…정동주 감찰과장, 본청 전...",
     "경주시 강동면 부직포 공장 화재 발생… 인명 피해 없이 잔불 정리 중",
     "노동부, '4명 사망' 신안산선 시공사 포스코이앤씨 압수수색…강제수사...",
@@ -1001,6 +1000,7 @@
     "대구 치맥 외국인 유료 관광객 1년새 3배 늘었다",
     "“두바이식 개발 않는다” 대구 군공항 후적지 개발 원점 재검토",
     "'대구는 답보. 광주는 날개'... 군공항 이전 희비",
-    "[위기의 울릉]\"오징어 전멸\"...60년 만에 어획량 최악"
+    "[위기의 울릉]\"오징어 전멸\"...60년 만에 어획량 최악",
+    "\"글로벌 ESG 규제 대응\"…엘앤에프, ABB 스마트팩토리 기반 구축"
   ]
 }
