@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268713",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268781",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268860",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268761",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268746",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268883",
     "https://www.jbnews.com/news/articleView.html?idxno=1506536",
     "https://n.news.naver.com/mnews/article/018/0006315024?sid=100",
     "https://n.news.naver.com/mnews/article/016/0002661684?sid=100",
@@ -499,15 +493,15 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3628379",
     "https://n.news.naver.com/mnews/article/277/0005786492?sid=102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038164",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038163"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038163",
+    "https://n.news.naver.com/mnews/article/421/0009044677?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272169",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272185",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272210",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272138",
+    "https://www.goodkyung.com/news/articleView.html?idxno=288956"
   ],
   "titles": [
-    "함안군, 의령·창녕과 국제교류 관광모델 구축 추진",
-    "의성군, 경북 지방세정 종합평가 '우수상' 수상",
-    "경기신보, 고객자문위원회 개최…현장 중심 정책 논의",
-    "경북도, 외국인 우수인재 12명 K-GKS 장학생 선발",
-    "안동시, 소주스토리 양조장 준공…K-전통주 세계화 가속",
-    "전북지사직 인수위, 반도체 투자 분산 배치 촉구",
     "중부매일 2026년 6월 독자권익위원회",
     "KBS·EBS, 유튜브 정부광고 상위권…슈카월드·매일신문도 집행액 많아",
     "“유튜브 채널 정부 협찬광고 1위는 ‘KBS Kpop’, 개인 1위는 ‘슈카월...",
@@ -1001,6 +995,12 @@
     "전국금융노조 iM뱅크대구은행지부, 경북 아동 위해 4천만원 후원",
     "\"돈이 없어 꿈을 포기하는 학생에 전해달라\"…iM뱅크 노조, 경북교육청...",
     "경산시, '스타트업 월드컵 코리아' 개최…전국 유망기업 글로벌 진출 경...",
-    "영천시, 신중년 고용지원사업 본격 추진…30개 기업 선정"
+    "영천시, 신중년 고용지원사업 본격 추진…30개 기업 선정",
+    "엘앤에프, AI·빅데이터·블록체인 기반 스마트팩토리 구축",
+    "국립순천대 GTEP사업단, 파리 현지서 실전 무역 역량 입증",
+    "함께 지킨 저어새... '세계를 잇는 인천'(上)",
+    "양구군, 통합공공임대주택 공급 2배 확대",
+    "태안군, 천리포수목원 기록물 국가유산 등록",
+    "'짱구 엄마' 故강희선 아들 \"어머니 아들이어서 행복했습니다\""
   ]
 }
