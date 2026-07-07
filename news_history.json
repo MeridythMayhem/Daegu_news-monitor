@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.jbnews.com/news/articleView.html?idxno=1506536",
-    "https://n.news.naver.com/mnews/article/018/0006315024?sid=100",
     "https://n.news.naver.com/mnews/article/016/0002661684?sid=100",
     "https://www.kgnews.co.kr/news/article.html?no=901560",
     "http://mcnews.co.kr/86322",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272185",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272210",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272138",
-    "https://www.goodkyung.com/news/articleView.html?idxno=288956"
+    "https://www.goodkyung.com/news/articleView.html?idxno=288956",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272274",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272256"
   ],
   "titles": [
-    "중부매일 2026년 6월 독자권익위원회",
-    "KBS·EBS, 유튜브 정부광고 상위권…슈카월드·매일신문도 집행액 많아",
     "“유튜브 채널 정부 협찬광고 1위는 ‘KBS Kpop’, 개인 1위는 ‘슈카월...",
     "정부광고 가장 많이 받은 곳은 ‘KBS Kpop’ , 개인유튜버 1위는 ‘슈카...",
     "LH, AI 기반 BIM 토공설계 자동화 소프트웨어 개발",
@@ -1001,6 +999,8 @@
     "함께 지킨 저어새... '세계를 잇는 인천'(上)",
     "양구군, 통합공공임대주택 공급 2배 확대",
     "태안군, 천리포수목원 기록물 국가유산 등록",
-    "'짱구 엄마' 故강희선 아들 \"어머니 아들이어서 행복했습니다\""
+    "'짱구 엄마' 故강희선 아들 \"어머니 아들이어서 행복했습니다\"",
+    "용인특례시, 어플라이드 머티어리얼즈와 투자 협약",
+    "화성특례시, 온디바이스 AI 실증사업 선정"
   ]
 }
