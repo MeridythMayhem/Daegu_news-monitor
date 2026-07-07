@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/016/0002661684?sid=100",
-    "https://www.kgnews.co.kr/news/article.html?no=901560",
-    "http://mcnews.co.kr/86322",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034405",
     "https://n.news.naver.com/mnews/article/469/0000938616?sid=110",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034147",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268870",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272138",
     "https://www.goodkyung.com/news/articleView.html?idxno=288956",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272274",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272256"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272256",
+    "https://www.dailycar.co.kr/content/news.html?type=view&autoId=61985",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=306484",
+    "https://www.dailysecu.com/news/articleView.html?idxno=207481",
+    "https://www.pennmike.com/news/articleView.html?idxno=123287"
   ],
   "titles": [
-    "“유튜브 채널 정부 협찬광고 1위는 ‘KBS Kpop’, 개인 1위는 ‘슈카월...",
-    "정부광고 가장 많이 받은 곳은 ‘KBS Kpop’ , 개인유튜버 1위는 ‘슈카...",
-    "LH, AI 기반 BIM 토공설계 자동화 소프트웨어 개발",
-    "포항TP, 바이오기업 스케일업 세미나 개최…신약개발·투자 협력 강화",
     "[사이언스 톡] \"우리도 살려주세요\"",
     "우진산전, '친환경 전기 저상 좌석버스' 국책 과제 추진",
     "대전시, MSI 2026 손님맞이 준비 본격화",
@@ -1001,6 +997,10 @@
     "태안군, 천리포수목원 기록물 국가유산 등록",
     "'짱구 엄마' 故강희선 아들 \"어머니 아들이어서 행복했습니다\"",
     "용인특례시, 어플라이드 머티어리얼즈와 투자 협약",
-    "화성특례시, 온디바이스 AI 실증사업 선정"
+    "화성특례시, 온디바이스 AI 실증사업 선정",
+    "“블록체인 기반 ‘ABB 스마트팩토리’ 구축”..엘앤에프, ESG 규제 선제...",
+    "엘앤에프, 'ABB 스마트팩토리' 기반 구축…탄소 데이터 자동 산출",
+    "엘앤에프, 탄소·품질 데이터 관리 위한 스마트팩토리 구축",
+    "[재계핫이슈] 주목되는 중앙그룹의 앞날과 '삼성변수'"
   ]
 }
