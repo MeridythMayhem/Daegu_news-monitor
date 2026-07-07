@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.yeongnam.com/web/view.php?key=20260625029442092",
-    "https://monthly.chosun.com/news/articleView.html?idxno=70527",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268678",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268709",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268661",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268861",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268894",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268844",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268713",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268781",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268860",
@@ -499,17 +491,17 @@
     "https://n.news.naver.com/mnews/article/277/0005786412?sid=101",
     "https://www.epnc.co.kr/news/articleView.html?idxno=403943",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848644",
-    "https://www.youthdaily.co.kr/news/article.html?no=222412"
+    "https://www.youthdaily.co.kr/news/article.html?no=222412",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=300019",
+    "https://n.news.naver.com/mnews/article/001/0016179544?sid=105",
+    "https://n.news.naver.com/mnews/article/138/0002233367?sid=105",
+    "https://n.news.naver.com/mnews/article/016/0002666698?sid=101",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3628379",
+    "https://n.news.naver.com/mnews/article/277/0005786492?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038164",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038163"
   ],
   "titles": [
-    "포스코 포항제철소 1분기 600억 적자…전쟁·고환율 이중고",
-    "\"이순신 장군이 우리 회사 만들었다\"… 윤동한 한국콜마 회장, 네 번째 ...",
-    "신동대체산업단지 공동창고 증축 '입주기업 물류환경 개선'",
-    "평택상공회의소, 제100회 비즈니스포럼 개최",
-    "인제군, 옥스팜 트레일워커 추진 성과 보고회",
-    "경기도, 하계 다보스포럼 참가…딥테크 기업 글로벌 진출 지원",
-    "양구군, 민선9기 군정 구호 '함께 여는 미래, 살맛 나는 양구' 확정",
-    "경기준비위 경제분과, 경기창업혁신공간 현장 점검",
     "함안군, 의령·창녕과 국제교류 관광모델 구축 추진",
     "의성군, 경북 지방세정 종합평가 '우수상' 수상",
     "경기신보, 고객자문위원회 개최…현장 중심 정책 논의",
@@ -1001,6 +993,14 @@
     "엘앤에프, LCA·블록체인 기반 스마트팩토리 구축…ESG 대응 강화",
     "엘앤에프, LCA·데이터 스페이스 연계 기반 스마트팩토리 구축",
     "엘앤에프, 대구 구지1공장 스마트팩토리로 EU 등 글로벌 규제 선제 대응",
-    "'부동산 세제' 균형 맞춘다…구윤철 \"7월말 개편안 윤곽\""
+    "'부동산 세제' 균형 맞춘다…구윤철 \"7월말 개편안 윤곽\"",
+    "엘앤에프, LCA·블록체인 연계…ESG 스마트팩토리 구축",
+    "엘앤에프, 스마트팩토리 구축…\"글로벌 ESG 규제 대응\"",
+    "엘앤에프, LCA·블록체인 기반 스마트팩토리 구축…EU 배터리 규제 대응",
+    "엘앤에프, EU 배터리 여권 대응 스마트팩토리 구축",
+    "전국금융노조 iM뱅크대구은행지부, 경북 아동 위해 4천만원 후원",
+    "\"돈이 없어 꿈을 포기하는 학생에 전해달라\"…iM뱅크 노조, 경북교육청...",
+    "경산시, '스타트업 월드컵 코리아' 개최…전국 유망기업 글로벌 진출 경...",
+    "영천시, 신중년 고용지원사업 본격 추진…30개 기업 선정"
   ]
 }
