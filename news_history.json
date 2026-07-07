@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/469/0000938616?sid=110",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034147",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268870",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268902",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268887",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268884",
@@ -499,12 +496,12 @@
     "https://www.dailycar.co.kr/content/news.html?type=view&autoId=61985",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=306484",
     "https://www.dailysecu.com/news/articleView.html?idxno=207481",
-    "https://www.pennmike.com/news/articleView.html?idxno=123287"
+    "https://www.pennmike.com/news/articleView.html?idxno=123287",
+    "https://n.news.naver.com/mnews/article/662/0000099095?sid=101",
+    "https://www.goodkyung.com/news/articleView.html?idxno=288972",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=59135"
   ],
   "titles": [
-    "[사이언스 톡] \"우리도 살려주세요\"",
-    "우진산전, '친환경 전기 저상 좌석버스' 국책 과제 추진",
-    "대전시, MSI 2026 손님맞이 준비 본격화",
     "李대통령 \"수도권 일극체제 끝낸다\"…반도체 등 첨단산업 지방 대규모 ...",
     "국가철도공단, 국토교통기술대전 참가... 혁신 성과공유·기술협력 강화",
     "관세청, AI 정부 발전 유공 대통령상 수상",
@@ -1001,6 +998,9 @@
     "“블록체인 기반 ‘ABB 스마트팩토리’ 구축”..엘앤에프, ESG 규제 선제...",
     "엘앤에프, 'ABB 스마트팩토리' 기반 구축…탄소 데이터 자동 산출",
     "엘앤에프, 탄소·품질 데이터 관리 위한 스마트팩토리 구축",
-    "[재계핫이슈] 주목되는 중앙그룹의 앞날과 '삼성변수'"
+    "[재계핫이슈] 주목되는 중앙그룹의 앞날과 '삼성변수'",
+    "‘대동 AI 로봇 사업’ 탄력받나…대동로보틱스, 50억원 투자 유치 성공",
+    "\"EU 배터리 규제 대응\"…엘앤에프, LCA·블록체인 기반 스마트팩토리 구...",
+    "방산기업 풍산이 왜?…류진 풍산 회장 \"안동에 세계적 골프장 짓겠다\""
   ]
 }
