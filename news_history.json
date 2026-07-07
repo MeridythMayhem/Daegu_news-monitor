@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.taxtimes.co.kr/news/article.html?no=275708",
-    "https://www.eroun.net/news/articleView.html?idxno=84098",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=584940",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034734",
     "https://www.news2day.co.kr/article/20260626500162",
     "http://www.fieldnews.kr/news/articleView.html?idxno=29555",
     "https://idsn.co.kr/news/view/1065600756498243",
@@ -499,13 +495,13 @@
     "https://m.entertain.naver.com/article/311/0002030986",
     "https://www.ppss.kr/news/articleView.html?idxno=301279",
     "https://n.news.naver.com/mnews/article/018/0006324841?sid=103",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272476"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272476",
+    "https://www.yeongnam.com/web/view.php?key=20260707021334588",
+    "https://www.yeongnam.com/web/view.php?key=20260707029554654",
+    "https://www.tbc.co.kr/news/view?pno=20260707110937AE02019&id=208144",
+    "https://www.tbc.co.kr/news/view?pno=20260706162542AE01979&id=208142"
   ],
   "titles": [
-    "[프로필]국세청 부이사관 승진자(8명)",
-    "'3시간 동안 이어진 불길'... 경주 부직포 공장 화재",
-    "노동부, '신안산선 사고' 포스코이앤씨 압수수색…PC자료 확보",
-    "KTL 의료AI개발지원센터, 입주기업 간담회 개최…디지털헬스 산업 지원...",
     "[오늘의 인사 : 6월 26일] 현대해상·외교부·법무부·국세청·부산소방...",
     "[인사분석-①] 국세청 '인사 역사' 새로 썼다…정동주 감찰과장, 본청 전...",
     "경주시 강동면 부직포 공장 화재 발생… 인명 피해 없이 잔불 정리 중",
@@ -1001,6 +997,10 @@
     "JTBC 회생신청 후 '냉부해'·'아형' 출연료 미지급…\"피해 금액 수십억\"",
     "엘앤에프, ABB 스마트팩토리 구축…ESG 규제 선제적 대응",
     "iM뱅크 노조, 경북 취약계층 아동 위해 4000만원 후원",
-    "기업은행 신규 광고 'AIBK'…\"AI 리딩 뱅크 비전 담아\""
+    "기업은행 신규 광고 'AIBK'…\"AI 리딩 뱅크 비전 담아\"",
+    "대구 치맥 외국인 유료 관광객 1년새 3배 늘었다",
+    "“두바이식 개발 않는다” 대구 군공항 후적지 개발 원점 재검토",
+    "'대구는 답보. 광주는 날개'... 군공항 이전 희비",
+    "[위기의 울릉]\"오징어 전멸\"...60년 만에 어획량 최악"
   ]
 }
