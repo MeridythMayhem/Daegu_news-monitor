@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268902",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268887",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268884",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268880",
     "http://www.dynews.co.kr/news/articleView.html?idxno=855597",
     "http://www.dynews.co.kr/news/articleView.html?idxno=855604",
@@ -499,12 +496,12 @@
     "https://www.pennmike.com/news/articleView.html?idxno=123287",
     "https://n.news.naver.com/mnews/article/662/0000099095?sid=101",
     "https://www.goodkyung.com/news/articleView.html?idxno=288972",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=59135"
+    "https://www.sejungilbo.com/news/articleView.html?idxno=59135",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038471",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038456",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038406"
   ],
   "titles": [
-    "李대통령 \"수도권 일극체제 끝낸다\"…반도체 등 첨단산업 지방 대규모 ...",
-    "국가철도공단, 국토교통기술대전 참가... 혁신 성과공유·기술협력 강화",
-    "관세청, AI 정부 발전 유공 대통령상 수상",
     "KAIST '뇌로 로봇 움직이고 느끼는' 세계 최초 Brain-to-Robot 기술 개발...",
     "6월 28일 '철도의 날'...\"오송역, 행정수도 관문 역사 역할 다할 수 있도...",
     "'반도체 활황 여파' 서울·수도권은 아파트값 오르고, 세종은 떨어지고",
@@ -1001,6 +998,9 @@
     "[재계핫이슈] 주목되는 중앙그룹의 앞날과 '삼성변수'",
     "‘대동 AI 로봇 사업’ 탄력받나…대동로보틱스, 50억원 투자 유치 성공",
     "\"EU 배터리 규제 대응\"…엘앤에프, LCA·블록체인 기반 스마트팩토리 구...",
-    "방산기업 풍산이 왜?…류진 풍산 회장 \"안동에 세계적 골프장 짓겠다\""
+    "방산기업 풍산이 왜?…류진 풍산 회장 \"안동에 세계적 골프장 짓겠다\"",
+    "경북도, 일자리편의점 6곳으로 확대…경력보유여성 재취업 지원 강화",
+    "경북도, 온디바이스 AI 실증사업 선정…106억 확보",
+    "포항시, 농식품 수출정책 평가 2년 연속 대상"
   ]
 }
