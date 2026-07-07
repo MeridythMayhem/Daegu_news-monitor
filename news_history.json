@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268824",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268806",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027070",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034399",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034402",
-    "https://www.kbmaeil.com/article/20260625500631",
-    "https://www.newsmin.co.kr/news/134125/",
     "https://www.yeongnam.com/web/view.php?key=20260625029442092",
     "https://monthly.chosun.com/news/articleView.html?idxno=70527",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268678",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/421/0009044117?sid=102",
     "https://n.news.naver.com/mnews/article/657/0000053117?sid=102",
     "http://www.metroseoul.co.kr/article/20260707500023",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1383373"
+    "https://daily.hankooki.com/news/articleView.html?idxno=1383373",
+    "https://www.cstimes.com/news/articleView.html?idxno=712460",
+    "http://amenews.kr/news/view.php?idx=67339",
+    "https://n.news.naver.com/mnews/article/018/0006324383?sid=101",
+    "https://n.news.naver.com/mnews/article/277/0005786412?sid=101",
+    "https://www.epnc.co.kr/news/articleView.html?idxno=403943",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=848644",
+    "https://www.youthdaily.co.kr/news/article.html?no=222412"
   ],
   "titles": [
-    "춘천시, AI·VFX 기반 영상산업도시 도약 모색",
-    "안성시, 2026 상반기 채용박람회 성료",
-    "여야, 호남 반도체 클러스터 공방…\"기업 팔 비틀어\"vs\"지역갈등 조장\"",
-    "포항시, 서울국제가스·수소산업전 참가…청정수소 중심도시 비전 홍보",
-    "울진군, 청년 창업·콘텐츠 교육 지원…청년 유입 확대 나서",
-    "이승만건국대통령 대구기념사업회 임원총회 개최…동상 건립 추진 본격...",
-    "포항 의료폐기물 소각장 유착 의혹···전직 공무원 업체행 논란",
     "포스코 포항제철소 1분기 600억 적자…전쟁·고환율 이중고",
     "\"이순신 장군이 우리 회사 만들었다\"… 윤동한 한국콜마 회장, 네 번째 ...",
     "신동대체산업단지 공동창고 증축 '입주기업 물류환경 개선'",
@@ -1001,6 +994,13 @@
     "경북 영천서 목재·참기름 가공 공장 화재 잇따라…인명피해 없어",
     "경북 영천 목재 공장 기계 과열 추정 화재···포항 아파트에서도 불",
     "대동로보틱스, 50억 규모 시리즈A 투자 유치…전략적 협력나서",
-    "화인베스틸, 포스코와 특수강 사업 MOU 체결…신사업 본격화"
+    "화인베스틸, 포스코와 특수강 사업 MOU 체결…신사업 본격화",
+    "화인베스틸, 포스코와 특수강 사업 협력 MOU 체결",
+    "엘앤에프, 글로벌 ESG 선제 대응 스마트팩토리 구축",
+    "엘앤에프, ABB '스마트팩토리' 구축…EU 배터리 여권 선제 대응",
+    "엘앤에프, LCA·블록체인 기반 스마트팩토리 구축…ESG 대응 강화",
+    "엘앤에프, LCA·데이터 스페이스 연계 기반 스마트팩토리 구축",
+    "엘앤에프, 대구 구지1공장 스마트팩토리로 EU 등 글로벌 규제 선제 대응",
+    "'부동산 세제' 균형 맞춘다…구윤철 \"7월말 개편안 윤곽\""
   ]
 }
