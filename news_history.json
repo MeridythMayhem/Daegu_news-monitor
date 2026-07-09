@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027378",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027391",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269703",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269711",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269706",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269721",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269647",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/025/0003536356?sid=101",
     "https://www.tbc.co.kr/news/view?pno=20260702151836AE01816&id=208191",
     "https://n.news.naver.com/mnews/article/657/0000053176?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039032"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039032",
+    "https://n.news.naver.com/mnews/article/123/0002386208?sid=101",
+    "https://n.news.naver.com/mnews/article/417/0001150933?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039061",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039091"
   ],
   "titles": [
-    "이 대통령 \"반도체·AI·데이터센터 삼각축으로 초격차 산업강국 도약\"...",
-    "삼성, 대한민국 미래 성장 위해 2,600조 원대 대규모 투자 계획 발표",
-    "대구시, 2026 대구치맥페스티벌 7월 1일 개막",
-    "충남도, 7월부터 원스톱 민원창구 시범 운영",
     "서산시, 7월 1일 민선9기 출범식 개최",
     "황대호 위원장, 8년 의정활동 마무리",
     "함안군, 신중년 일자리 창출 사업 참여기업 모집",
@@ -1001,6 +997,10 @@
     "[단독] 학생보다 교직원이 많은 학교…넘치는 교부금 이젠 바꾸자",
     "[단독]알고보니 ‘1천억 대' 사기극 주범..그의 행방은?",
     "경북 영양에서 주택 화재···울릉에서는 공장 화재",
-    "경북, 신규 규제자유특구 3곳 지정…전국 최다 8개 특구 보유"
+    "경북, 신규 규제자유특구 3곳 지정…전국 최다 8개 특구 보유",
+    "하반기에 '큰 거' 온다... 6급 이하 승진, 2200명 넘길까 [지금 국세청은...",
+    "수주만 1.9조…대동기어, 내년 전기차 부품 매출 '폭발' 예고",
+    "구미 반도체 기업협의회 정기총회…소재·부품산업 상생 협력 강화",
+    "구미시, 청년농 정착 돕는 'GPS 컨설팅' 추진"
   ]
 }
