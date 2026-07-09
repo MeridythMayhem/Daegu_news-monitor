@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269723",
-    "http://www.samdailbo.com/news/articleView.html?idxno=266773",
-    "https://www.inews365.com/news/article.html?no=925412",
-    "https://n.news.naver.com/mnews/article/005/0001857847?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269831",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076966",
     "https://n.news.naver.com/mnews/article/123/0002385604?sid=101",
     "https://www.sejungilbo.com/news/articleView.html?idxno=58993",
     "https://www.tfmedia.co.kr/news/article.html?no=205421",
@@ -499,15 +493,15 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039160",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039145",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039219",
-    "https://n.news.naver.com/mnews/article/055/0001371098?sid=102"
+    "https://n.news.naver.com/mnews/article/055/0001371098?sid=102",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=59179",
+    "https://n.news.naver.com/mnews/article/417/0001150993?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273140",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273150",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273125",
+    "https://www.m-i.kr/news/articleView.html?idxno=1389897"
   ],
   "titles": [
-    "인천세관 6월의 인천세관인에 장은주 주무관",
-    "2차 고유가 피해지원금 매출 증가율 제주 전국 꼴찌",
-    "'반값우유' 학교 우유급식 존립 위기",
-    "생산기지 완공 멀고 비용 부담도… 소부장업체 ‘영남 이전’ 쉽진 않다",
-    "추미애, 李 대통령 반도체 속도전 '환영'··· \"경기도가 뒷받침할 것\"",
-    "[단독] 포항 글로벌AI데이터센터 7월 말 첫삽 뜬다…경북도 40억 출자로...",
     "국세청, 상반기 과장급 전보 인사.. 50세 미만·여성 비중 늘려",
     "[인사] 국세청, 부이사관·과장급 및 초임세무서장 인사 단행…본청·여...",
     "국세청 과장급 인사…여성‧젊은 관리자 비중 더 강화한다",
@@ -1001,6 +995,12 @@
     "문경시, 고교생 해외명문대학 견학 앞두고 사전설명회 개최",
     "상주시, 구제역 차단 총력…우제류 14만6천여 마리 긴급 백신 접종",
     "영양군, 청년농업인 기업형 농업경영 교육 추진",
-    "'피카소 전시' 기념?…알고 보니 '1천 억대' 사기극 주범"
+    "'피카소 전시' 기념?…알고 보니 '1천 억대' 사기극 주범",
+    "[세미콜론] 명퇴서 내지 않고 '대기발령' 받은 국세청 A국장의 '외침'",
+    "포스코 파업 위기 고조…노조, 찬성률 92.2%로 쟁의행위 가결",
+    "안양시, 상반기 적극행정 우수공무원·팀 선정",
+    "여주시 2차 종합병원 원외처방전···약값 폭증 부담 누구의 몫인가?",
+    "안산시, 시 승격 40주년 맞아 공인중개사 연수교육",
+    "국내 첫 '저속전기차산업' 칠곡군이 연다"
   ]
 }
