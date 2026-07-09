@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86340",
-    "https://www.m-i.kr/news/articleView.html?idxno=1386341",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027378",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027391",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269703",
@@ -499,11 +497,11 @@
     "https://www.kbmaeil.com/article/20260706500621",
     "https://n.news.naver.com/mnews/article/021/0002803136?sid=102",
     "https://n.news.naver.com/mnews/article/025/0003536356?sid=101",
-    "https://www.tbc.co.kr/news/view?pno=20260702151836AE01816&id=208191"
+    "https://www.tbc.co.kr/news/view?pno=20260702151836AE01816&id=208191",
+    "https://n.news.naver.com/mnews/article/657/0000053176?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039032"
   ],
   "titles": [
-    "‘독산2동 380’ 일대 신통기획 확정… 2600세대 대규모 단지 조성",
-    "의료용 대마·전기선박까지…규제 풀린 신산업 특구 7곳 지정",
     "이 대통령 \"반도체·AI·데이터센터 삼각축으로 초격차 산업강국 도약\"...",
     "삼성, 대한민국 미래 성장 위해 2,600조 원대 대규모 투자 계획 발표",
     "대구시, 2026 대구치맥페스티벌 7월 1일 개막",
@@ -1001,6 +999,8 @@
     "가암촌서 ‘만석꾼의 부’ 일군 1~7대 최부자들",
     "친부모 대하듯… 어르신 치매예방·재활치료·삶의질 향상에 진심[고맙...",
     "[단독] 학생보다 교직원이 많은 학교…넘치는 교부금 이젠 바꾸자",
-    "[단독]알고보니 ‘1천억 대' 사기극 주범..그의 행방은?"
+    "[단독]알고보니 ‘1천억 대' 사기극 주범..그의 행방은?",
+    "경북 영양에서 주택 화재···울릉에서는 공장 화재",
+    "경북, 신규 규제자유특구 3곳 지정…전국 최다 8개 특구 보유"
   ]
 }
