@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0014036699?sid=102",
-    "https://n.news.naver.com/mnews/article/001/0016167067?sid=102",
-    "https://www.newsmin.co.kr/news/134217/",
-    "https://www.yeongnam.com/web/view.php?key=20260630029582348",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269928",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269954",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269937",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269981",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269974",
@@ -499,15 +493,15 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273302",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077912",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039366",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039369"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039369",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=306742",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273239",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273213",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273196",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273351",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273277"
   ],
   "titles": [
-    "대구·경북 제조업체 끼임 사고 잇따라…노동청, 단속",
-    "대구서부노동지청, 사업장 28곳 점검…\"끼임 사고 예방\"",
-    "대구 100대 기업 실적 개선에도···적자기업 늘고 성장층 줄었다",
-    "[TK 지방의회 전수조사] 세금으로 다녀온 해외출장, 보고서 제출만 하면...",
-    "서초구, '서초 전성시대 2 쾌속시동 100일 프로젝트' 추진",
-    "순천시 '미래 농업 여는 영농형 태양광 실증' 본격화",
     "[축제 572] '제24회 부여서동연꽃축제' 궁남지서 공연·체험 프로그램 운...",
     "여수시 인수위, 18일간 활동 마무리",
     "李대통령 \"호남 투자, 역사적 격차 보완…정부가 전폭 지원\"",
@@ -1001,6 +995,12 @@
     "인천 영종구, 대규모 농지 성토 행위 발생... \"79만8,000㎡ 537필지에 대...",
     "대구 북구 공공청사 부지 마트 운명 법정으로…영업 지속 갈림길",
     "포항시, 민선9기 첫 업무보고…핵심 공약 추진 점검",
-    "영천시, 민·관 협력 간담회 개최…사회적 고립가구 지원 강화"
+    "영천시, 민·관 협력 간담회 개최…사회적 고립가구 지원 강화",
+    "포스코노조, 쟁의행위 가결… '역대급 찬성' 속 50년 무파업 중대 기로",
+    "화천군 대학생 등록금 전액 지원 ... 전국 최고 화천형 교육지원 지속",
+    "충남도, K-방산 스타트업 육성사업 5개사 선정",
+    "전남광주통합특별시의회, 미래산업위원회 출범",
+    "최유각 파주시의회 의장 \"시민 목소리 최우선… 협치와 견제로 파주 미...",
+    "수자원공사, 물 기반 재생에너지로 중부권 RE100 클러스터 조성 본격화"
   ]
 }
