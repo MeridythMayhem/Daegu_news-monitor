@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269981",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269974",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270006",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269943",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269964",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269967",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269936",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273196",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273351",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273277",
-    "https://www.newscj.com/news/articleView.html?idxno=3415820"
+    "https://www.newscj.com/news/articleView.html?idxno=3415820",
+    "https://www.newsmin.co.kr/news/134680/",
+    "https://www.ksmnews.co.kr/news/view.php?idx=612886",
+    "https://www.ksmnews.co.kr/news/view.php?idx=612779",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273298"
   ],
   "titles": [
-    "여수시 인수위, 18일간 활동 마무리",
-    "李대통령 \"호남 투자, 역사적 격차 보완…정부가 전폭 지원\"",
-    "미추홀구종합자원봉사센터, 희망 나눔 축제로 이웃사랑 실천",
-    "인천시, 검단산업단지~안동포사거리 도로확장 일부 구간 7월 1일 개통",
     "전남도, 통합특별시형 지역이민 패키지 법무부 건의키로",
     "'전남쌀', '여성이 뽑은 최고 명품대상' 20년 연속 수상",
     "김대중 전남교육감, 호남 메가 투자 계획 환영",
@@ -1001,6 +997,10 @@
     "전남광주통합특별시의회, 미래산업위원회 출범",
     "최유각 파주시의회 의장 \"시민 목소리 최우선… 협치와 견제로 파주 미...",
     "수자원공사, 물 기반 재생에너지로 중부권 RE100 클러스터 조성 본격화",
-    "[깊이 읽는 경제] 민물과 짠물 사이, 한국은 어디에 서 있는가"
+    "[깊이 읽는 경제] 민물과 짠물 사이, 한국은 어디에 서 있는가",
+    "홍준표 시절 축소된 성평등 정책, 추경호 시정에서 복원될까",
+    "철강도시 포항, \"녹색 도시로 체질 개선\"…2026 세계녹색성장포럼 개막",
+    "경북, 규제자유특구 전국 최다…미래산업 전진기지 굳힌다",
+    "한남대, 경부고속철 지하화 건설공사 법정 공방 간다"
   ]
 }
