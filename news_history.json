@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/021/0002801307?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270010",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035723",
-    "https://n.news.naver.com/mnews/article/088/0001016848?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270062",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270078",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270084",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270167",
@@ -499,14 +494,14 @@
     "https://www.ekn.kr/web/view.php?key=20260709024090949",
     "https://www.ksmnews.co.kr/news/view.php?idx=612858",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039142",
-    "https://www.seoulfn.com/news/articleView.html?idxno=633081"
+    "https://www.seoulfn.com/news/articleView.html?idxno=633081",
+    "https://www.tfmedia.co.kr/news/article.html?no=205671",
+    "https://n.news.naver.com/mnews/article/123/0002386284?sid=004",
+    "http://www.intn.co.kr/news/articleView.html?idxno=2051865",
+    "https://www.taxtimes.co.kr/news/article.html?no=275947",
+    "https://news.dealsitetv.com/articles/172963"
   ],
   "titles": [
-    "서남권 메모리반도체 공장입지 오늘 윤곽",
-    "무주군, 2050 미래비전 항공우주 중심도시 구상",
-    "구미 제조업 경기전망 악화…3분기 BSI 76으로 2년 연속 기준치 밑돌아",
-    "법원, JTBC 제외 중앙그룹 4개사 회생개시 결정",
-    "구례군, 농어민 공익수당 70만 원 '구례사랑상품권'으로 지급",
     "순창군, 농어촌 기본소득 간담회 개최...제도 개선방안 논의",
     "순창군, 하야시다 리코 순창오픈 정구대회 2관왕",
     "전북지사직 인수위, 메가 프로젝트 전북 배제 규탄",
@@ -1001,6 +996,11 @@
     "[패트롤]경주시-칠곡군-대구북구-대구가톨릭대병원-iM뱅크-대구시교육청",
     "구조적 불황 겪는 철강업, 포스코 노조 쟁의 가결로 '이중고",
     "구미 장천 일반산업단지 개발 탄력…중앙투자심사 통과",
-    "포스코노조, '찬성 92.2%'로 임단협 쟁의행위 찬반투표 가결"
+    "포스코노조, '찬성 92.2%'로 임단협 쟁의행위 찬반투표 가결",
+    "[인사] 국세청 고위공무원 승진‧전보 및 부이사관‧과장급 전보",
+    "[인사] 국세청 고위직 등 승진·전보 (21명)",
+    "[인사] 국세청 고위공무원 승진전보등(7월 13일자)",
+    "[인사]국세청 고위공무원·부이사관·과장급 승진·전보(21명)",
+    "[에코프로 갉아먹는 비엠] 다가오는 CB 조기상환 공포…주가 급락 후폭..."
   ]
 }
