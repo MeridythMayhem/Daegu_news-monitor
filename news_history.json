@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270169",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270159",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270186",
-    "https://n.news.naver.com/mnews/article/032/0003455184?sid=102",
     "https://n.news.naver.com/mnews/article/003/0014037431?sid=102",
     "https://www.hidomin.com/news/articleView.html?idxno=711395",
     "https://n.news.naver.com/mnews/article/079/0004163301?sid=102",
@@ -499,13 +495,13 @@
     "https://www.tfmedia.co.kr/news/article.html?no=205686",
     "https://www.tfmedia.co.kr/news/article.html?no=205675",
     "https://n.news.naver.com/mnews/article/082/0001389183?sid=101",
-    "https://n.news.naver.com/mnews/article/003/0014058720?sid=101"
+    "https://n.news.naver.com/mnews/article/003/0014058720?sid=101",
+    "https://www.taxtimes.co.kr/news/article.html?no=275949",
+    "https://www.tfmedia.co.kr/news/article.html?no=205694",
+    "http://www.intn.co.kr/news/articleView.html?idxno=2051868",
+    "http://www.wikileaks-kr.org/news/articleView.html?idxno=189540"
   ],
   "titles": [
-    "전북지사직 인수위, 민선 9기 도정 청사진 제시",
-    "충남도의회, 제13대 전반기 원구성 착수",
-    "건양대 스마트보안학과, 한국융합보안학회 학술대회서 '우수논문상' 대...",
-    "오늘의 인사-해수부, 국세청, 한국관광공사, KBS 외",
     "3년간 13명 사망…노동청, 대구·경북 사업장 단속(종합)",
     "대구고용노동청, 제조업 '끼임 사고' 뿌리 뽑기 위해 칼 빼 들어",
     "대구노동청, '끼임사고' 전력 제조업체 103곳 긴급 점검",
@@ -1001,6 +997,10 @@
     "[프로필] 고영일 국세청 개인납세국장",
     "[프로필] 박병환 서울지방국세청 조사2국장",
     "국세청 간부급 후속인사…비 행정고시 출신 3명 발탁 승진",
-    "포스코인터, 몽골 국부펀드와 희토류 탐사 MOU…\"공급망 다변화 시동\""
+    "포스코인터, 몽골 국부펀드와 희토류 탐사 MOU…\"공급망 다변화 시동\"",
+    "국세청 고공단 승진자, 고시 5명·비고시 3명",
+    "[프로필] 이철경 부산지방국세청 납세자보호담당관",
+    "[인사] 국세청 고위공무원 승진자 프로필(7월 13일자)",
+    "스마트팩토리 시대 새 경쟁력은 보안…에코프로, 국가핵심기술 보호 나..."
   ]
 }
