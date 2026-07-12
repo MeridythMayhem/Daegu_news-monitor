@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://m.skyedaily.com/news_view.html?ID=306951",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2051630",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035865",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2051643",
-    "https://n.news.naver.com/mnews/article/088/0001017027?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270420",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270444",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270428",
@@ -499,14 +494,14 @@
     "https://www.public25.com/news/articleView.html?idxno=50478",
     "https://www.yeongnam.com/web/view.php?key=20260712027055634",
     "https://www.ksmnews.co.kr/news/view.php?idx=613069",
-    "https://www.yeongnam.com/web/view.php?key=20260712025215531"
+    "https://www.yeongnam.com/web/view.php?key=20260712025215531",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=736777",
+    "https://n.news.naver.com/mnews/article/087/0001204596?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039970",
+    "https://www.m-i.kr/news/articleView.html?idxno=1390546",
+    "https://www.dynews.co.kr/news/articleView.html?idxno=857527"
   ],
   "titles": [
-    "플랜트노조, 에스오일·고려아연 등 고발추진·파업예고… 포스코는 ‘...",
-    "국세청 핵심 보직 세원정보과장 출신 잇단 '교육원 발령'에 세정가 '촉각...",
-    "포항상의·iM뱅크, 제27회 포항 CEO포럼 개최…글로벌 경제전망 제시",
-    "[인사] 국세청 과장급 전보(7월 1일자)",
-    "대구고용노동청, 제조업 끼임사고 예방 긴급점검",
     "전남도, 식품융합 클러스터 조성 시범사업 본격화",
     "[특징주] 위메이드, 中 알리바바 관계사에 매각 소식 '상한가'",
     "용인특례시, 민선9기 용인르네상스 시즌2 선언",
@@ -1001,6 +996,11 @@
     "[인사] 부산지방국세청",
     "“투자 안 하면 일을 해도 가난해진다” 신(新)근로빈곤 시대",
     "대구시, 미세먼지 관리 잘했다…전국 1등",
-    "대구경북 행정통합 다시 출발선…이번엔 ‘지역 합의’ 관건"
+    "대구경북 행정통합 다시 출발선…이번엔 ‘지역 합의’ 관건",
+    "[기자수첩] 포스코 노조, 갓 이륙한 '대통합號' 날개 꺾나… 포항시·포...",
+    "[광부백년]100년 전 태백 거무내미에서 발견된 검은 보석…한강의 기적...",
+    "포항 북구 해수욕장 4곳 전면 개장…44일간 운영",
+    "구미역서 미리 만나는 '경북 국제 AI·메타버스 영상제'",
+    "청주시, 제조 AI 전환 거점 됐다…국비 140억원 확보"
   ]
 }
