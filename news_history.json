@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270278",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270082",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270146",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270139",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270250",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270276",
@@ -499,12 +496,12 @@
     "https://www.sejungilbo.com/news/articleView.html?idxno=59200",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59195",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039804",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039878"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039878",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273717",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273720",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039898"
   ],
   "titles": [
-    "서남권에 896조원 첨단산업 투자…'제2 반도체 거점' 구축 본격화",
-    "경북도, MWC 2026 상하이서 ICT 기업 글로벌 진출 지원",
-    "구미시, 장애아동 24시 돌봄 시범사업 본격 시행",
     "포항시, '2026 세계녹색성장포럼(WGGF 2026)' 진행",
     "광주시 민선 9기 인수위, 공약 70건 확정",
     "노사, 내년 최저임금 1차 수정안 제시…1만1,970원 vs 1만340원",
@@ -1001,6 +998,9 @@
     "[세미콜론] 국세청 고공단 승진 티켓 잡은 '비고시 3인방' 그들은?",
     "[프로필] 이성글 국세청 조사국장…연이은 '최고 요직'에 기용",
     "경북, 전국 AX 실증산단 3곳 중 2곳 선정…구미·포항 제조혁신 본격화",
-    "안동시, 댐 심층수 활용 AI 데이터센터 유치 추진"
+    "안동시, 댐 심층수 활용 AI 데이터센터 유치 추진",
+    "구미시, '2026 경북 국제 AI·메타버스 영상제' 팝업공간 운영",
+    "경북도, 구미·포항 AI 전환 실증산단 선정…481억원 투입",
+    "구미시, 산업부 AX 실증산단 최종 선정…2029년까지 245억원 투입"
   ]
 }
