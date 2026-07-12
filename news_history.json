@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005700840?sid=110",
-    "https://www.yeongnam.com/web/view.php?key=20260630025372879",
     "https://www.yeongnam.com/web/view.php?key=20260630025432686",
     "https://www.yeongnam.com/web/view.php?key=20260630021343147",
     "https://www.ksmnews.co.kr/news/view.php?idx=611393",
@@ -499,11 +497,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039976",
     "https://n.news.naver.com/mnews/article/088/0001018625?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040010",
-    "http://www.fieldnews.kr/news/articleView.html?idxno=29912"
+    "http://www.fieldnews.kr/news/articleView.html?idxno=29912",
+    "https://www.yeongnam.com/web/view.php?key=20260712029535645",
+    "https://n.news.naver.com/mnews/article/088/0001018680?sid=102"
   ],
   "titles": [
-    "여름의 활력 담은 매경춘추",
-    "서남권 반도체 집중투자에 유철균 경북연구원장 “강원과 AI 데이터센터...",
     "[군위, 대구 편입 3년] 대도시 교통망·교육혜택 톡톡…농촌 현실과 먼...",
     "‘그래도 대구 로봇은 뛴다’…“전국 최대 인프라 활용 로봇 소부장 글...",
     "‘경북 아파트 공급 사이클 왜곡’ 경고음",
@@ -1001,6 +999,8 @@
     "DGFEZ, 일본 IT기업과 교류 행사…투자협력 확대",
     "\"철강 산업의 '답답함' 뚫는 디지털 해결사\"… '철수씨' 김기환 대홍코...",
     "포항시, 드론 활용 스마트 행정 강화",
-    "[인사 분석-⑫] 국세청 고위직 승진인사…균형인사 호평 속 편중 논란"
+    "[인사 분석-⑫] 국세청 고위직 승진인사…균형인사 호평 속 편중 논란",
+    "[입법돋보기] 가게 접었는데 빚이 8천만 원…소상공인 ‘패자부활’ 돕...",
+    "지역 정책·음식·문화 한자리에…6천여명 찾은 '2026 명품대구경북박람..."
   ]
 }
