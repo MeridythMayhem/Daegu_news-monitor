@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270250",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270276",
     "https://www.news2day.co.kr/article/20260630500254",
     "https://n.news.naver.com/mnews/article/009/0005700840?sid=110",
     "https://www.yeongnam.com/web/view.php?key=20260630025372879",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273717",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273720",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039898",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039976"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039976",
+    "https://n.news.naver.com/mnews/article/088/0001018625?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040010"
   ],
   "titles": [
-    "광주시 민선 9기 인수위, 공약 70건 확정",
-    "노사, 내년 최저임금 1차 수정안 제시…1만1,970원 vs 1만340원",
     "[오늘의 인사 : 6월 30일] 해양수산부·조달청·병무청 ·산림청·지식재...",
     "여름의 활력 담은 매경춘추",
     "서남권 반도체 집중투자에 유철균 경북연구원장 “강원과 AI 데이터센터...",
@@ -1001,6 +999,8 @@
     "구미시, '2026 경북 국제 AI·메타버스 영상제' 팝업공간 운영",
     "경북도, 구미·포항 AI 전환 실증산단 선정…481억원 투입",
     "구미시, 산업부 AX 실증산단 최종 선정…2029년까지 245억원 투입",
-    "DGFEZ, 일본 IT기업과 교류 행사…투자협력 확대"
+    "DGFEZ, 일본 IT기업과 교류 행사…투자협력 확대",
+    "\"철강 산업의 '답답함' 뚫는 디지털 해결사\"… '철수씨' 김기환 대홍코...",
+    "포항시, 드론 활용 스마트 행정 강화"
   ]
 }
