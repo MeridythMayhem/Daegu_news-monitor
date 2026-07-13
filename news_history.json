@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=611549",
-    "https://www.ksmnews.co.kr/news/view.php?idx=611632",
-    "https://www.tbc.co.kr/news/view?pno=20260701161456AE01755&id=207910",
-    "https://www.tbc.co.kr/news/view?pno=20260701171336AE01765&id=207911",
-    "https://n.news.naver.com/mnews/article/001/0016171599?sid=102",
-    "https://www.m-i.kr/news/articleView.html?idxno=1386863",
     "https://n.news.naver.com/mnews/article/001/0016171597?sid=110",
     "https://www.kbsm.net/news/view.php?idx=525246",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077205",
@@ -499,15 +493,15 @@
     "https://www.yeongnam.com/web/view.php?key=20260713022065241",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59235",
     "https://www.yeongnam.com/web/view.php?key=20260713029355783",
-    "https://n.news.naver.com/mnews/article/018/0006329438?sid=103"
+    "https://n.news.naver.com/mnews/article/018/0006329438?sid=103",
+    "https://n.news.naver.com/mnews/article/016/0002669711?sid=101",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=235677",
+    "https://n.news.naver.com/mnews/article/020/0003733643?sid=102",
+    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026071300016&story_seq=0&soCode=114&socttSn=NS2026071300016&socttSeq=0",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274151",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040321"
   ],
   "titles": [
-    "상생포럼 제25기 9주차 - “AI, 업무 도구 아닌 생활형 비서로 자리”",
-    "경산 펜타힐즈 더블유, 고분양가 논란 속 선전...분양가보단 입지",
-    "秋 취임 \"반도체 포기 않을 것\"",
-    "3선 이 지사, \"경북 대전환...신공항.행정통합 속도\"",
-    "[전국 주요 신문 톱뉴스](2일 조간)",
-    "대구·경북 경제계 \"3대 메가 프로젝트서 지역 배제\"",
     "[전국 주요 신문 사설](2일 조간)",
     "대구경실련 \"대구TP 인건비 과다계상 의혹 철저히 규명해야\"",
     "구미국가산단 공장 공사장서 추락사고…50대 일용직 근로자 숨져",
@@ -1001,6 +995,12 @@
     "서대구역 복합환승센터, 이달 21일 지정 해제…대구시 “사업 무산 아니...",
     "국세청, 8월초 6급이하 1150명 승진한다…특승없이 정기심사로",
     "홈플러스 사실상 파산…대구에서만 ‘축구장 54개’ 유통시설 사라졌다",
-    "고령군, 대한민국 캠핑대전 '최우수 기획상' 수상"
+    "고령군, 대한민국 캠핑대전 '최우수 기획상' 수상",
+    "임광현 국세청장, 취임 1주년 인사 승부수…“낡은 관행 타파”[세종백...",
+    "안전조치 위반 적발 뒤 또 사고, 샤니 대구공장도 '끼임 지옥'",
+    "2029년까지 구미산단에 ‘오뚜기 라면 공장’ 신설",
+    "[매일신문 조규덕 기자의 위클리TK] 구미 AX실증산단 최종 선정 등",
+    "구미시, 오뚜기라면 2,000억 투자 MOU 체결",
+    "'라면 수출 드라이브' 오뚜기, 구미에 전용공장 짓는다"
   ]
 }
