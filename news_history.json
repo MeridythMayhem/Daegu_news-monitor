@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270384",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270423",
-    "https://www.m-i.kr/news/articleView.html?idxno=1386866",
-    "https://www.newspim.com/news/view/20260701000890",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270537",
-    "https://n.news.naver.com/mnews/article/025/0003534562?sid=100",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270536",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270545",
     "http://www.intn.co.kr/news/articleView.html?idxno=2051642",
@@ -499,15 +493,15 @@
     "https://www.tbc.co.kr/news/view?pno=20260710105041AE02218&id=208356",
     "https://www.newstree.kr/newsView/ntr202607130003",
     "https://thetracker.co.kr/View.aspx?No=4146303",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040114"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040114",
+    "https://n.news.naver.com/mnews/article/032/0003457704?sid=102",
+    "http://www.newsdream.kr/news/articleView.html?idxno=114336",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=266190",
+    "https://n.news.naver.com/mnews/article/001/0016190549?sid=101",
+    "https://www.wikitree.co.kr/articles/1146119",
+    "https://www.tbc.co.kr/news/view?pno=20260713093806AE02293&id=208379"
   ],
   "titles": [
-    "화성특례시, 6급 핵심인재 25명 배출",
-    "인천시 '고정밀 전자지도 구축 챌린지 사업' 4년 연속 선정 쾌거(上)",
-    "칠곡 북삼오평산단, 17년 만에 승인 고시",
-    "플랜트건설노조, '교섭 회피' 포스코·S-OIL·고려아연 고소",
-    "양구군농협, 승진·신규 직원 임용장 수여",
-    "정점식 “의원 징계, 신중해야…예고 뿐, 절차 결정된 바 없어”",
     "양평군, 유니크베뉴 심화컨설팅 워크숍 개최",
     "한성숙 국무총리 \"AI·첨단산업 과감히 투자…국민 삶 체감하는 정책 속...",
     "국세청 과장급 전보인사 122명 중 37명이 부임 5개월만 교체 돼",
@@ -1001,6 +995,12 @@
     "버려지던 참외의 변신... 비건 가죽으로 재탄생",
     "오뚜기라면, 구미에 2000억 투자…수출용 라면 생산공장 신설",
     "오뚜기라면, 구미에 수출용 라면공장 신설...'2000억 투자'",
-    "칠곡군, 참외 부산물 활용 비건 가죽 개발"
+    "칠곡군, 참외 부산물 활용 비건 가죽 개발",
+    "대구시와 투자협약 맺은 ‘유망기업’, 임금체불에 노동자 ‘분통’··...",
+    "오뚜기라면, 구미에 2000억 투입 '수출 전용 공장' 신설… K-라면 열풍 잇...",
+    "오뚜기라면, 구미에 2천억 투자…수출공장 신설",
+    "오뚜기라면, 구미에 수출용 생산공장 신설…\"일자리 120명 창출\"",
+    "오뚜기라면, 경북 구미에 2천억 투자 수출용 라면공장 신설",
+    "오뚜기 \"구미에 대규모 라면 공장 건립\""
   ]
 }
