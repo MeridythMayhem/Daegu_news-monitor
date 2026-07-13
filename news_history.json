@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270745",
-    "http://www.domin.co.kr/news/articleView.html?idxno=1560446",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270762",
     "http://mcnews.co.kr/86352",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=203324&mode=view",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/366/0001178841?sid=101",
     "https://www.dkilbo.com/news/articleView.html?idxno=548518",
     "https://n.news.naver.com/mnews/article/002/0002448237?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040473"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040473",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1385506",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274154"
   ],
   "titles": [
-    "대한민국 AI 수도로 비상하는 '통하는 충남'",
-    "(메가 프로젝트 긴급진단) 송양호 전북대 교수가 말하는 전북의 미래 전...",
     "원주시시설관리공단, 이사장 공개모집",
     "어명소 LX공사 사장 “비상경영체제 터널 끝 보여”",
     "플랜트노조, 포스코 등 원청사 고소..\"다음 달 총파업\"",
@@ -1001,6 +999,8 @@
     "‘무파업’ 전통 포스코, 원청·하청 노조 동시다발적 파업 예고에 ‘긴...",
     "iM뱅크노조, 취약계층 여성아동 위한 '핑크박스' 후원금 2000만원 전달",
     "고령군, '제6회 2026 대한민국 캠핑대전' ​최우수 기획상 수상",
-    "포항시, 전세사기 피해자 생활안정 지원…연말까지 신청 접수"
+    "포항시, 전세사기 피해자 생활안정 지원…연말까지 신청 접수",
+    "포항시, 산림사업장 중대재해 예방 총력…안전결의·특별교육",
+    "경북도, 식품로봇 실증 거점 구축사업 국비 확보"
   ]
 }
