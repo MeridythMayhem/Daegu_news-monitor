@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270687",
-    "http://mcnews.co.kr/86348",
-    "https://www.news2day.co.kr/article/20260701500231",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=441325",
-    "https://www.yeongnam.com/web/view.php?key=20260701023323093",
-    "https://n.news.naver.com/mnews/article/009/0005701418?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270745",
     "http://www.domin.co.kr/news/articleView.html?idxno=1560446",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270762",
@@ -499,15 +493,15 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040317",
     "https://n.news.naver.com/mnews/article/666/0000115040?sid=102",
     "https://www.etoday.co.kr/news/view/2603169",
-    "https://www.kbsm.net/news/view.php?idx=526582"
+    "https://www.kbsm.net/news/view.php?idx=526582",
+    "https://n.news.naver.com/mnews/article/021/0002804358?sid=102",
+    "http://www.efnews.co.kr/news/articleView.html?idxno=130941",
+    "https://n.news.naver.com/mnews/article/366/0001178841?sid=101",
+    "https://www.dkilbo.com/news/articleView.html?idxno=548518",
+    "https://n.news.naver.com/mnews/article/002/0002448237?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040473"
   ],
   "titles": [
-    "조달청, 비축 원자재 이용 우대 9개사 신규 지정",
-    "임재만 국토연구원장 취임 “현장 중심 연구 수행”",
-    "[오늘의 인사 : 7월 2일] 신한카드·NH투자증권·하나증권·국세청·분당...",
-    "[인사] 더트래커, 하나증권, 국세청 외",
-    "호남 팹보다 더 두려운 건 ‘소재·부품 기업 이동’…구미 반도체 생태...",
-    "“서울 집값 72주 내내 올랐다”…매매·전세·월세 ‘트리플 강세’ [부...",
     "대한민국 AI 수도로 비상하는 '통하는 충남'",
     "(메가 프로젝트 긴급진단) 송양호 전북대 교수가 말하는 전북의 미래 전...",
     "원주시시설관리공단, 이사장 공개모집",
@@ -1001,6 +995,12 @@
     "경북도, 도시가스 공급비용 평균 4.78% 인상",
     "[프로필] 최종환 중부지방국세청 성실납세지원국장 外",
     "오뚜기, ‘2000억원 투자’ 경북 구미에 수출용 라면공장 신설",
-    "포항시, 산림사업장 중대재해 예방 특별교육 실시"
+    "포항시, 산림사업장 중대재해 예방 특별교육 실시",
+    "구미에 수출용 라면 생산공장 신설…오뚜기라면·경북도·구미시 MOU",
+    "오뚜기라면, 경상북도·구미시와 2천억원 규모 투자 MOU 체결…공장 신...",
+    "‘무파업’ 전통 포스코, 원청·하청 노조 동시다발적 파업 예고에 ‘긴...",
+    "iM뱅크노조, 취약계층 여성아동 위한 '핑크박스' 후원금 2000만원 전달",
+    "고령군, '제6회 2026 대한민국 캠핑대전' ​최우수 기획상 수상",
+    "포항시, 전세사기 피해자 생활안정 지원…연말까지 신청 접수"
   ]
 }
