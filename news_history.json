@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/018/0006321011?sid=102",
-    "https://www.kbmaeil.com/article/20260702500193",
-    "https://www.kpinews.kr/newsView/1065570805795811",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036855",
-    "https://www.etoday.co.kr/news/view/2599785",
-    "http://www.fieldnews.kr/news/articleView.html?idxno=29701",
-    "https://n.news.naver.com/mnews/article/079/0004164464?sid=102",
-    "https://www.m-i.kr/news/articleView.html?idxno=1387866",
     "https://www.m-i.kr/news/articleView.html?idxno=1387840",
     "https://www.youthdaily.co.kr/news/article.html?no=222203",
     "http://www.kdfnews.com/news/articleView.html?idxno=184837",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274710",
     "http://www.tongilnews.com/news/articleView.html?idxno=216980",
     "https://www.m-i.kr/news/articleView.html?idxno=1391536",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=553886"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=553886",
+    "https://n.news.naver.com/mnews/article/003/0014067061?sid=101",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3635184",
+    "https://www.yeongnam.com/web/view.php?key=20260714025505443",
+    "https://www.joongdo.co.kr/web/view.php?key=20260714010004228",
+    "https://n.news.naver.com/mnews/article/023/0003987677?sid=103",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040790",
+    "https://www.m-i.kr/news/articleView.html?idxno=1391077",
+    "https://m.entertain.naver.com/article/213/0001394308"
   ],
   "titles": [
-    "오늘의 인사 종합",
-    "구미는 평당 1000원 승부수…광주는 왜 침묵하나",
-    "[노성열의 AI경제] AI 대도약의 진짜 열쇠, 반도체 너머 '물과 전기'",
-    "울진군, 장례식장 다회용기 전면 도입…친환경 장례문화 확산",
-    "[논현광장-황근의 시선] 과도한 투자가 빚은 JTBC의 몰락",
-    "[국세청 정보 유출 의혹-②] \"40분이면 핵심 증거 인멸 충분하다\"",
-    "구미 배터리 재활용 공장 화재…폐리튬이온배터리 폭발 추정",
-    "소진공, 경산센터 개소…경산·청도 소상공인 밀착 지원 강화",
     "대한건설협회 경북도회, 구미 장학금 1000만원 기탁",
     "소진공, 경산센터 개소…경산·청도 소상공인 지원 강화",
     "국세청, 고위직 인사 단행…차장에 박해영 징세법무국장",
@@ -1001,6 +993,14 @@
     "경남 수산식품 수출 19.8% 증가… 목표 달성 '청신호'",
     "\"전시작전통제권은 주권문제, 美와 협상대상 아니다\"",
     "경북, 탄소규제 시대 철강 생존전략 세운다",
-    "iM뱅크 노조 '핑크박스' 후원금 2천만원 전달"
+    "iM뱅크 노조 '핑크박스' 후원금 2천만원 전달",
+    "SK실트론, 구미 신공장서 300㎜ 웨이퍼 생산 시작…\"삼전·닉스에 공급 ...",
+    "전국금융노조iM뱅크대구은행지부, 취약계층 여성 아동에 2천만원 후원금...",
+    "[벤처캐피탈리스트 3인 긴급진단] 대구는 투자하기 좋은 도시인가?",
+    "[통(通)하는 충남, 시험대 선 박수현 충남지사의 소통 리더십] ③ 혁신도...",
+    "[김한수의 오마이갓] 휴가 때 마음 쉬러 갈 만한 아름다운 옛 절 25곳",
+    "경주시, 2250억 원 규모 첫 추경 편성…민생 회복·생활 기반 확충 집중",
+    "구미에 오뚜기라면 수출공장 들어선다…2000억원 투자",
+    "'영원한 짱구 엄마' 故 강희선 성우, 마지막 길 공개됐다…팬·동료 배웅..."
   ]
 }
