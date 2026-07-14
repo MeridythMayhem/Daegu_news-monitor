@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005701980?sid=004",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271082",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271183",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271079",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271043",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/088/0001018950?sid=101",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231847",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040774",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040804"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040804",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040869",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040802"
   ],
   "titles": [
-    "[매일경제TV] 월드컵 비즈니스 성공 열쇠는",
-    "진주시 정원박람회·수국정원 축제, 45만 관람객 기록",
     "[시민기자가 간다] 오종민씨 '2026 AX 아이디어 경진대회'서 우수상",
     "창원시, 제43회 창원시 문화상 수상자 5명 선정",
     "구미시, AI 기반 스마트 교통혁신 속도",
@@ -1001,6 +999,8 @@
     "대구 기업 삼보모터스 UAM 기체, 국내 최초로 뜬다",
     "[금융] iM뱅크 노조 여성아동 지원 / iM뱅크 하반기 전략 / 카카오페이손...",
     "대구·경북, 초광역 관광교통 선도지구 선정…'K-코어 관광권' 구축",
-    "포항시, 7월 정기분 재산세 31일까지 납부 당부"
+    "포항시, 7월 정기분 재산세 31일까지 납부 당부",
+    "포항시, 민선 9기 첫 승진 인사…141명 승진",
+    "포항테크노파크, 부서별 청렴리더 중심 자율 실천 강화"
   ]
 }
