@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016171597?sid=110",
-    "https://www.kbsm.net/news/view.php?idx=525246",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077205",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036739",
     "http://www.mdilbo.com/detail/0kIA7d/756843",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036791",
     "https://www.dkilbo.com/news/articleView.html?idxno=547582",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/020/0003733643?sid=102",
     "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026071300016&story_seq=0&soCode=114&socttSn=NS2026071300016&socttSeq=0",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274151",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040321"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040321",
+    "https://n.news.naver.com/mnews/article/088/0001018908?sid=110",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040535",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040536",
+    "https://www.m-i.kr/news/articleView.html?idxno=1391080"
   ],
   "titles": [
-    "[전국 주요 신문 사설](2일 조간)",
-    "대구경실련 \"대구TP 인건비 과다계상 의혹 철저히 규명해야\"",
-    "구미국가산단 공장 공사장서 추락사고…50대 일용직 근로자 숨져",
-    "구미 경제계 \"대도약 메가프로젝트 핵심거점에 구미 포함해야\"",
     "지역 갈등·재정 위기·창업 활성화····통합특별시 '난제' 풀려면",
     "영주시, 부산 산업전시회서 첨단베어링 국가산단 투자유치 활동",
     "박정희가 키운 구미산단.. 구미시 위인설관 아닌 위관설인 인사정책 시...",
@@ -1001,6 +997,10 @@
     "2029년까지 구미산단에 ‘오뚜기 라면 공장’ 신설",
     "[매일신문 조규덕 기자의 위클리TK] 구미 AX실증산단 최종 선정 등",
     "구미시, 오뚜기라면 2,000억 투자 MOU 체결",
-    "'라면 수출 드라이브' 오뚜기, 구미에 전용공장 짓는다"
+    "'라면 수출 드라이브' 오뚜기, 구미에 전용공장 짓는다",
+    "[수요일 아침-김노주] 대구, 청년이 모이는 '샐러드 볼' 도시로",
+    "경북도·대구시·경북대, 첨단산업 인재 양성 맞손…AI·반도체 등 공동...",
+    "경북도, 규제혁신 아이디어 9건 선정…사회재난 기부금 제도 개선 '대상...",
+    "구미상의, 경북기업 경영 애로사항 조사"
   ]
 }
