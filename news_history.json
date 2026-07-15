@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/005/0001858757?sid=101",
-    "https://www.moneystorm.kr/news/articleView.html?idxno=4838",
-    "https://www.tfmedia.co.kr/news/article.html?no=205503",
-    "https://www.taxtimes.co.kr/news/article.html?no=275832",
-    "https://www.tfmedia.co.kr/news/article.html?no=205499",
     "https://www.tfmedia.co.kr/news/article.html?no=205495",
     "https://www.newspim.com/news/view/20260703000271",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59079",
@@ -499,14 +494,14 @@
     "http://www.newsprime.co.kr/news/article.html?no=740366",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041068",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041094",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=51461"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=51461",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274984",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4425141",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274926",
+    "https://www.m-i.kr/news/articleView.html?idxno=1391792",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041136"
   ],
   "titles": [
-    "국세청 고위직 인사 단행…차장 박해영·서울청장 안덕수",
-    "국세청, 차장에 박해영, 서울청장 안덕수 등 고위직 인사 단행",
-    "[프로필] 박정열 대구지방국세청장",
-    "[프로필]국세청 고위공무원(13명)",
-    "[프로필] 양철호 광주지방국세청장",
     "[프로필] 한창목 국세청 법인납세국장",
     "구미 공단동 공장 화재 1시간20분만에 진화…인명피해 없어",
     "[인사] 국세청 차장 박해영·서울청장 안덕수·중부청장 김지훈·부산청...",
@@ -1001,6 +996,11 @@
     "케일럼, 항공엔진 부품 슈퍼사이클 '수혜'…\"글로벌 고객사와 장기계약...",
     "영천시, 한국마사회 본사 유치 행보 본격화",
     "금오공대, '구미 AI로봇 산학연협력협의회' 출범",
-    "영화 '호프' 60만 예매로 시동…메가박스의 간절한 '희망'"
+    "영화 '호프' 60만 예매로 시동…메가박스의 간절한 '희망'",
+    "평택시, 간부회의 실시간 공개로 열린 행정 강화",
+    "美데이터센터 20대 전기공 연봉 4억원…'블루칼라 존경의 시대'",
+    "춘천시, 중국 우시 대표단과 태권도 교류 확대",
+    "李대통령 \"부정부패 신고, 업으로 하는 것도 나쁘지 않다\"",
+    "포항TP, 신규 유망강소기업 10곳 성장 지원 본격화"
   ]
 }
