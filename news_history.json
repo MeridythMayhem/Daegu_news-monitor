@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.lawtimes.co.kr/news/articleView.html?idxno=223004",
-    "https://www.greened.kr/news/articleView.html?idxno=344186",
-    "https://www.tbc.co.kr/news/view?pno=20260703165459AE01894&id=208012",
-    "https://www.tbc.co.kr/news/view?pno=20260703174325AE01901&id=208013",
     "https://n.news.naver.com/mnews/article/119/0003107891?sid=100",
     "https://www.apnews.kr/news/articleView.html?idxno=3049454",
     "https://n.news.naver.com/mnews/article/469/0000940190?sid=102",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041077",
     "https://www.m-i.kr/news/articleView.html?idxno=1392064",
     "https://it.chosun.com/news/articleView.html?idxno=2023092165894",
-    "https://www.idaegu.com/news/articleView.html?idxno=664376"
+    "https://www.idaegu.com/news/articleView.html?idxno=664376",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=785554",
+    "https://n.news.naver.com/mnews/article/469/0000942535?sid=110",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041205",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040968"
   ],
   "titles": [
-    "디엘지, 경북 창업 기업 성장 지원 MOU",
-    "반대 청원까지 등장한 CBDC 2단계…논란 속에도 경남은행·iM뱅크 합류 이...",
-    "회생 폐지에 '망연자실'...대량 실직 위기",
-    "\"메가 투자는 없었다\" 냉랭한 TK",
     "호남서 시작해 영남서 매듭…李대통령 '메가투자 릴레이'에 담긴 셈법",
     "[AP 미디어동향 7월 1주] 언론계 인사 및 부고",
     "\"틀렸어, 야르~\" 털어내는 실험실… 아이들 마음에 '과학' 심는다",
@@ -1001,6 +997,10 @@
     "'2026 제주포럼' 대한상의, AI 시대 한국 경제 성장 전략 찾는다",
     "방사청, 신규 4개 클러스터 업무협약…2030년까지 약 500억원 투입",
     "'58년 무파업' 포스코, 원하청 노조 동시 파업 전운",
-    "[대구일보 독자위원회] \"대구일보, 지역 공론장 넘어 플랫폼 역할해야\""
+    "[대구일보 독자위원회] \"대구일보, 지역 공론장 넘어 플랫폼 역할해야\"",
+    "[위클리오늘] 포항시 오늘(7. 15)",
+    "'불평등보다 불확실성이 위험하다'는 경제학의 아버지 [퍼즐: 시사 레벨...",
+    "경주시, 포스트 APEC 성장 전략 공개…관광·원전·미래차 집중 육성",
+    "경북도·에코프로, 이차전지 산업 협력 강화…공동 프로젝트 추진 논의"
   ]
 }
