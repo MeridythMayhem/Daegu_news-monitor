@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/030/0003444349?sid=100",
-    "https://www.thepublic.kr/news/articleView.html?idxno=310050",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1382758",
-    "https://n.news.naver.com/mnews/article/009/0005702496?sid=103",
-    "http://mcnews.co.kr/86365",
-    "https://n.news.naver.com/mnews/article/088/0001017458?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271374",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271370",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037248",
     "https://www.jnilbo.com/news/articleView.html?idxno=90000047521",
@@ -499,16 +492,16 @@
     "http://www.metroseoul.co.kr/article/20260715500307",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274868",
     "https://www.newdaily.co.kr/site/data/html/2026/07/15/2026071500230.html",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041311"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041311",
+    "https://www.joongangenews.com/news/articleView.html?idxno=533191",
+    "https://www.gosiweek.com/article/1065597432457009",
+    "http://www.beyondpost.co.kr/view.php?ud=2026071516085187309aeda69934_30",
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=52460",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275123",
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029067",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041341"
   ],
   "titles": [
-    "국세청, 고위직 인사 단행…박해영 차장·안덕수 서울청장 발탁",
-    "국세청, 고위직 승진·전보 실시…서울청장에 안덕수",
-    "자화전자, 구미에 5000억원 투자...카메라 부품 공장 신설",
-    "신간 다이제스트",
-    "현대건설, ‘HILLSTATE Academy’ 1기 모집",
-    "예천군의회 전반기 의장 김홍년·부의장 장삼규…'6대3' 표결로 의회 구...",
-    "李 대통령 \"남해안 우주항공 산업벨트 구축\"",
     "SK, 영남권 AI 인프라 허브 조성 시동··· 140조 규모 투자 추진",
     "제10대 포항시의회 개원…김철수 의장 \"시민 행복 위한 현장 중심 의정...",
     "제11회 대한민국 국제 관광박람회 3일 일산킨텍스서 개막",
@@ -1001,6 +994,13 @@
     "iM뱅크, 기보와 '우수 중소기업 금융지원' MOU",
     "광명시, 신천~하안~신림선 조기 추진 촉구",
     "‘전작권 전환’을 가장 원한 사람은? 북한 김일성이었다 [■국민상식■...",
-    "문경트롯가요제 1차 예선 돌입…전국 746팀 실력 겨룬다"
+    "문경트롯가요제 1차 예선 돌입…전국 746팀 실력 겨룬다",
+    "iM뱅크, 기보와 'AtoF 미래전략산업 육성' MOU 체결",
+    "본죽&amp;비빔밥·본도시락, ‘2026 매경 100대 프랜차이즈’ 동시 선정",
+    "본아이에프, ‘본죽&amp;비빔밥·본도시락’으로 매경 100대 프랜차이즈 연...",
+    "아소비교육, 3년 연속 '매경 100대 프랜차이즈' 선정",
+    "인천시의회 환경교통위, 교통·환경 핵심사업 현장 점검",
+    "송영길, 정청래 향해 \"이 대통령 깔보는 느낌\" 연일 공세",
+    "방사청, 4개 지역에 방산혁신클러스터 구축…국방 미래 기술 거점 키운..."
   ]
 }
