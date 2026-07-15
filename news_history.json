@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.tfmedia.co.kr/news/article.html?no=205495",
-    "https://www.newspim.com/news/view/20260703000271",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=59079",
-    "https://www.tfmedia.co.kr/news/article.html?no=205496",
-    "https://www.topstarnews.net/news/articleView.html?idxno=16122244",
-    "https://n.news.naver.com/mnews/article/021/0002802168?sid=102",
-    "https://n.news.naver.com/mnews/article/016/0002665388?sid=101",
-    "https://www.namdonews.com/news/articleView.html?idxno=915736",
     "https://www.kfenews.co.kr/news/articleView.html?idxno=659717",
     "https://n.news.naver.com/mnews/article/277/0005785178?sid=102",
     "https://www.hidomin.com/news/articleView.html?idxno=711854",
@@ -499,17 +491,17 @@
     "https://news.einfomax.co.kr/news/articleView.html?idxno=4425141",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274926",
     "https://www.m-i.kr/news/articleView.html?idxno=1391792",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041136"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041136",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274847",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274912",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274861",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275052",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274975",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275024",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275023",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041208"
   ],
   "titles": [
-    "[프로필] 한창목 국세청 법인납세국장",
-    "구미 공단동 공장 화재 1시간20분만에 진화…인명피해 없어",
-    "[인사] 국세청 차장 박해영·서울청장 안덕수·중부청장 김지훈·부산청...",
-    "[프로필] 안덕수 서울지방국세청장",
-    "서연, 현대모비스 범퍼사업 인수설 해명→향후 검토 진행 예고",
-    "[인사]국세청",
-    "서울국세청장 안덕수…국세청, 고위급 인사 단행",
-    "[인사] 국세청",
     "[인사] 국세청",
     "국세청, 고위직 인사…차장 박해영·서울청장 안덕수·중부청장 김지훈",
     "구미 공단동 폐배터리 공장서 화재…130평 공장 절반 불타",
@@ -1001,6 +993,14 @@
     "美데이터센터 20대 전기공 연봉 4억원…'블루칼라 존경의 시대'",
     "춘천시, 중국 우시 대표단과 태권도 교류 확대",
     "李대통령 \"부정부패 신고, 업으로 하는 것도 나쁘지 않다\"",
-    "포항TP, 신규 유망강소기업 10곳 성장 지원 본격화"
+    "포항TP, 신규 유망강소기업 10곳 성장 지원 본격화",
+    "청양군 '사회적 경제연대행사' 성료… 사회적 경제 가치 확산",
+    "완도군, 미래전략·수산업 강화...'기능 중심 조직 개편'",
+    "충남도, 충효예 숨쉬는 '대한민국 AI 수도' 만든다",
+    "[파워인터뷰 378] 강희순 하동군의회 의장 \"협치와 소통으로 '군민행복...",
+    "여수시, 섬박람회 D-50 고향사랑기부 특별 이벤트",
+    "국립한밭대 대학일자리본부, 대전권 대학 연합 AI 부트캠프 성료",
+    "KAIST '나만의 AI' 더 안전하게 만든다...AI 개인화 시대 핵심기술 개발",
+    "구미시, AI 전문인력 양성체계 구축"
   ]
 }
