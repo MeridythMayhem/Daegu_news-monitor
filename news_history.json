@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0014047434?sid=100",
-    "https://n.news.naver.com/mnews/article/082/0001388368?sid=102",
     "http://www.fieldnews.kr/news/articleView.html?idxno=29752",
     "http://www.thebigdata.co.kr/view.php?ud=202607031521529596bbceadc3c9_23",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037657",
@@ -499,11 +497,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041882",
     "https://n.news.naver.com/mnews/article/138/0002234584?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275532",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042035"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042035",
+    "https://n.news.naver.com/mnews/article/088/0001019629?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042049"
   ],
   "titles": [
-    "당정, 반도체 추가 세수로 '미래대응기금' 추진[간추린 주말 뉴스]",
-    "지하철 출퇴근 함께한 목소리, 성우 강희선 씨 별세",
     "[인사 분석-⑨] 국세청 조사국장 공석 미스터리…핵심 카드는?",
     "[에코프로그룹 줌인] 에코프로비엠 1.2조 유증...잉여금 4년 연속 적자·...",
     "자화전자, 구미에 5천억원 투자…첨단 카메라부품 생산기지 구축",
@@ -1001,6 +999,8 @@
     "영천시, '지적확정측량 사전검토제' 운영…개발사업 지연·경계 분쟁 예...",
     "'58년 무파업' 흔들리는 포스코, 커지는 원하청 노조 리스크 [헤비급브...",
     "경산시, 1조5천724억원 규모 제2회 추경안 편성…민생·교통·안전 집중",
-    "대구시, 8월 추경안 편성…민생안정·AI 등 미래산업 투자 확대"
+    "대구시, 8월 추경안 편성…민생안정·AI 등 미래산업 투자 확대",
+    "추경호 \"대구를 기업이 투자할 수밖에 없는 도시로 만들겠다\"",
+    "구미시, 반도체 인재 육성 확대…지역 고교생 2천여명 현장형 교육"
   ]
 }
