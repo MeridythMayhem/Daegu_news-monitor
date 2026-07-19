@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/277/0005785850?sid=101",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1382993",
-    "https://n.news.naver.com/mnews/article/417/0001150412?sid=101",
-    "http://www.paxetv.com/news/articleView.html?idxno=276456",
-    "https://n.news.naver.com/mnews/article/030/0003444629?sid=102",
     "https://n.news.naver.com/mnews/article/009/0005703087?sid=101",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59081",
     "https://n.news.naver.com/mnews/article/011/0004638498?sid=101",
@@ -499,14 +494,14 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078608",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078639",
     "https://www.ksmnews.co.kr/news/view.php?idx=614076",
-    "https://www.yeongnam.com/web/view.php?key=20260719027556799"
+    "https://www.yeongnam.com/web/view.php?key=20260719027556799",
+    "https://www.kpinews.kr/newsView/1065566304908235",
+    "https://www.ceoscoredaily.com/page/view/2026071615093597202",
+    "https://n.news.naver.com/mnews/article/003/0014074773?sid=102",
+    "https://n.news.naver.com/mnews/article/020/0003734918?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042050"
   ],
   "titles": [
-    "대동로보틱스, 50억원 규모 시리즈A 투자 유치",
-    "대동로보틱스, 50억원 시리즈A 투자 유치…\"건설·제조 현장에 로봇 확...",
-    "\"GS·포스코도 베팅\"…대동로보틱스, AI 필드로봇에 50억 투자 유치",
-    "대동로보틱스, GS건설·포스코 CVC 투자 유치…\"AI 필드로봇 사업화 가속...",
-    "대동로보틱스, GS건설·포스코 CVCo나우IB투자 유치…로봇 사업화 가속",
     "포스코홀딩스, 2분기 실적 주춤 전망…2차전지 적자 여파",
     "[프로필] 안덕수 신임 서울국세청장…'자상한 세무조사' 기조 전환의 주...",
     "대동로보틱스, 50억 규모 투자 유치…AI 필드로봇 사업화 속도",
@@ -1001,6 +996,11 @@
     "포스코노조, 광양에 상생기금 6500만원 전달…지역 협력 모델 만든다",
     "iM뱅크노조, 지역아동센터에 1천만원 후원…아동 안전·인권 지원",
     "최태원 \"반도체는 인프라가 답\"…기업이 투자 결정, 정부는 기반 조성해...",
-    "쿠폰 할인 당근책도 안통하는 ‘대구공항’…부족한 국제선 확충이 ‘답..."
+    "쿠폰 할인 당근책도 안통하는 ‘대구공항’…부족한 국제선 확충이 ‘답...",
+    "포스코아산TST 소송 사태, 관세 문제로 파장 확산 분위기",
+    "‘프로젝트 한강’ 2단계 시동… 경남銀·iM뱅크 가세로 CBDC 실증 확대",
+    "[대구·경북 조간 헤드라인]",
+    "[초대석]“영남 케이블카-1000억 청년펀드 추진”",
+    "상주시, 1조4천806억원 규모 2차 추경 편성…국가식품클러스터 기반 마..."
   ]
 }
