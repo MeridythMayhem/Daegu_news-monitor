@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/014/0005544394?sid=105",
-    "https://www.g-enews.com/view.php?ud=2026070615492719983084322ec9_1",
     "https://n.news.naver.com/mnews/article/009/0005703599?sid=101",
     "https://www.tbc.co.kr/news/view?pno=20260706161650AE01976&id=208093",
     "https://www.tbc.co.kr/news/view?pno=20260703104620AE01869&id=208090",
@@ -499,11 +497,11 @@
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2237997",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275872",
     "https://n.news.naver.com/mnews/article/015/0005311833?sid=102",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=737476"
+    "https://www.polinews.co.kr/news/articleView.html?idxno=737476",
+    "https://www.tfmedia.co.kr/news/article.html?no=205883",
+    "https://n.news.naver.com/mnews/article/009/0005709804?sid=101"
   ],
   "titles": [
-    "드론 띄워 산불 잡고 AI로 문화외교… 일상에 ‘포스코쉴드’ 가동",
-    "포스코, AI 시대 겨냥 '미래수요개발실' 신설…데이터센터·전력망 공략",
     "수출 1000억달러에도 환율은 역대급…달러는 어디로 가나 [이슈 플러스...",
     "'메가 투자' 없어도 AI.로봇 총력",
     "[단독]'비밀 장부' 펼쳐보니...코인 투자금만 수백 억",
@@ -1001,6 +999,8 @@
     "[금융] iM뱅크 노조 아동센터 지원 / iM뱅크 소비자 간담회 / 신한카드 ...",
     "포항시, 2조 원 규모 글로벌 AI 데이터센터 착공",
     "[인사] 법무부 ; 지식재산처 ; 국세청 등",
-    "박성현 광양시정 출범에 힘 보탠 포스코노조…6500만원 상생기금 전달"
+    "박성현 광양시정 출범에 힘 보탠 포스코노조…6500만원 상생기금 전달",
+    "[이슈체크] ‘성과 있어야 승진한다’ 재차 확인된 국세청장의 메시지",
+    "집 살 때, 전세 구할 때…“하반기 대출 문턱 더 높아진다” [머니 이기..."
   ]
 }
