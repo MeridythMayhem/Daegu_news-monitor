@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026070600026&story_seq=0&soCode=114&socttSn=NS2026070600026&socttSeq=0",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271954",
     "https://n.news.naver.com/mnews/article/014/0005544394?sid=105",
     "https://www.g-enews.com/view.php?ud=2026070615492719983084322ec9_1",
     "https://n.news.naver.com/mnews/article/009/0005703599?sid=101",
@@ -499,11 +497,11 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078752",
     "https://www.ngonews.kr/news/articleView.html?idxno=233332",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2237997",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275872"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275872",
+    "https://n.news.naver.com/mnews/article/015/0005311833?sid=102",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=737476"
   ],
   "titles": [
-    "[매일신문 조규덕 기자의 위클리TK] 삼성, 구미에 대규모 투자 예고 등",
-    "경북도, 농특산물 유통망 확대 나서",
     "드론 띄워 산불 잡고 AI로 문화외교… 일상에 ‘포스코쉴드’ 가동",
     "포스코, AI 시대 겨냥 '미래수요개발실' 신설…데이터센터·전력망 공략",
     "수출 1000억달러에도 환율은 역대급…달러는 어디로 가나 [이슈 플러스...",
@@ -1001,6 +999,8 @@
     "K-푸드 시대, 미래식품산업 발전 전략 모색…2026 경북포럼 개최",
     "광양시, 'K-노사문화' 실천… 포스코노조, 단체교섭으로 모은 6500만원 광...",
     "[금융] iM뱅크 노조 아동센터 지원 / iM뱅크 소비자 간담회 / 신한카드 ...",
-    "포항시, 2조 원 규모 글로벌 AI 데이터센터 착공"
+    "포항시, 2조 원 규모 글로벌 AI 데이터센터 착공",
+    "[인사] 법무부 ; 지식재산처 ; 국세청 등",
+    "박성현 광양시정 출범에 힘 보탠 포스코노조…6500만원 상생기금 전달"
   ]
 }
