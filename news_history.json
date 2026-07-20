@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037959",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=269189",
-    "https://www.yeongnam.com/web/view.php?key=20260706028024174",
     "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026070600026&story_seq=0&soCode=114&socttSn=NS2026070600026&socttSeq=0",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271954",
     "https://n.news.naver.com/mnews/article/014/0005544394?sid=105",
@@ -499,12 +496,12 @@
     "http://www.fieldnews.kr/news/articleView.html?idxno=30064",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4095955",
     "https://n.news.naver.com/mnews/article/009/0005709650?sid=102",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078752"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078752",
+    "https://www.ngonews.kr/news/articleView.html?idxno=233332",
+    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2237997",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275872"
   ],
   "titles": [
-    "포항시, 경북형 휴머노이드 산업생태계 구축 본격화…실증 거점 육성",
-    "\"1분기 적자에도 믿는 구석 있다\"…대동금속, 현대차 로봇 '아틀라스' 부...",
-    "[영남일보·한국귀농귀촌치유산업진흥원 공동기획: 동양의 스위스 대구...",
     "[매일신문 조규덕 기자의 위클리TK] 삼성, 구미에 대규모 투자 예고 등",
     "경북도, 농특산물 유통망 확대 나서",
     "드론 띄워 산불 잡고 AI로 문화외교… 일상에 ‘포스코쉴드’ 가동",
@@ -1001,6 +998,9 @@
     "국세청, 서울지방국세청 감사관에 첫 여성 발탁…전애진 부이사관 내정",
     "포스코퓨처엠 광양 양극재 공장 노조 출범…이차전지 현장 조직화 신호...",
     "[인사] SGI서울보증 / 법무부 / 국세청",
-    "K-푸드 시대, 미래식품산업 발전 전략 모색…2026 경북포럼 개최"
+    "K-푸드 시대, 미래식품산업 발전 전략 모색…2026 경북포럼 개최",
+    "광양시, 'K-노사문화' 실천… 포스코노조, 단체교섭으로 모은 6500만원 광...",
+    "[금융] iM뱅크 노조 아동센터 지원 / iM뱅크 소비자 간담회 / 신한카드 ...",
+    "포항시, 2조 원 규모 글로벌 AI 데이터센터 착공"
   ]
 }
