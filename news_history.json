@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/020/0003731995?sid=102",
-    "https://n.news.naver.com/mnews/article/421/0009044117?sid=102",
     "https://n.news.naver.com/mnews/article/657/0000053117?sid=102",
     "http://www.metroseoul.co.kr/article/20260707500023",
     "https://daily.hankooki.com/news/articleView.html?idxno=1383373",
@@ -499,11 +497,11 @@
     "https://www.etoday.co.kr/news/view/2605444",
     "https://www.idaegu.com/news/articleView.html?idxno=664449",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042789",
-    "http://fpn119.co.kr/254105"
+    "http://fpn119.co.kr/254105",
+    "https://n.news.naver.com/mnews/article/088/0001019991?sid=103",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042843"
   ],
   "titles": [
-    "[부고]강만원 별세 外",
-    "경북 영천서 목재·참기름 가공 공장 화재 잇따라…인명피해 없어",
     "경북 영천 목재 공장 기계 과열 추정 화재···포항 아파트에서도 불",
     "대동로보틱스, 50억 규모 시리즈A 투자 유치…전략적 협력나서",
     "화인베스틸, 포스코와 특수강 사업 MOU 체결…신사업 본격화",
@@ -1001,6 +999,8 @@
     "포스코노조 광양제철지부...광양지역 작은 상생기금",
     "[창업人터뷰] K-뷰티 유망주 그레이스뷰티…\"버려지는 사과에 새 가치를...",
     "영양군, 농촌 기본소득 부정수급 점검…지역경제 활성화 효과도 확인",
-    "경북 경산시 자동차부품 제조 공장 화재… 인명피해 없어"
+    "경북 경산시 자동차부품 제조 공장 화재… 인명피해 없어",
+    "7월 22일 자 시사상식 퀴즈",
+    "포항 식재료, 스타 셰프 손끝서 명품 요리로 재탄생"
   ]
 }
