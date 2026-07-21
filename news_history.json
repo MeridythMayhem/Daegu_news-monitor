@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://amenews.kr/news/view.php?idx=67339",
-    "https://n.news.naver.com/mnews/article/018/0006324383?sid=101",
     "https://n.news.naver.com/mnews/article/277/0005786412?sid=101",
     "https://www.epnc.co.kr/news/articleView.html?idxno=403943",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=848644",
@@ -499,11 +497,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042928",
     "https://www.huffingtonpost.kr/article/258888",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043002",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042957"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042957",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276366",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276273"
   ],
   "titles": [
-    "엘앤에프, 글로벌 ESG 선제 대응 스마트팩토리 구축",
-    "엘앤에프, ABB '스마트팩토리' 구축…EU 배터리 여권 선제 대응",
     "엘앤에프, LCA·블록체인 기반 스마트팩토리 구축…ESG 대응 강화",
     "엘앤에프, LCA·데이터 스페이스 연계 기반 스마트팩토리 구축",
     "엘앤에프, 대구 구지1공장 스마트팩토리로 EU 등 글로벌 규제 선제 대응",
@@ -1001,6 +999,8 @@
     "농어촌공사 영천지사, 농촌협약 사업 본격화…2028년까지 6개 지구 추진",
     "포스코이앤씨 송치영 신종자본증권 4천억으로 재무구조 추가 훼손 막았...",
     "포항시, 공공데이터 628건 개방…데이터 활용 기반 확대",
-    "포항상의, 청년 대상 '1Day 취업잡 캠프' 참가자 모집"
+    "포항상의, 청년 대상 '1Day 취업잡 캠프' 참가자 모집",
+    "경북대구낙농농협, 어르신 우유 지원사업 추진",
+    "청송군, 청년빌리지 공공임대주택 입주자 모집"
   ]
 }
