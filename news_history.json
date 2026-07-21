@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016179544?sid=105",
-    "https://n.news.naver.com/mnews/article/138/0002233367?sid=105",
-    "https://n.news.naver.com/mnews/article/016/0002666698?sid=101",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3628379",
-    "https://n.news.naver.com/mnews/article/277/0005786492?sid=102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038164",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038163",
     "https://n.news.naver.com/mnews/article/421/0009044677?sid=101",
@@ -499,14 +494,14 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078939",
     "https://www.yeongnam.com/web/view.php?key=20260721023157429",
     "https://www.tbc.co.kr/news/view?pno=20260721114551AE02648&id=208689",
-    "https://www.tbc.co.kr/news/view?pno=20260721153915AE02661&id=208688"
+    "https://www.tbc.co.kr/news/view?pno=20260721153915AE02661&id=208688",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276235",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042613",
+    "https://slownews.kr/163500",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042611",
+    "https://m.entertain.naver.com/article/445/0000440690"
   ],
   "titles": [
-    "엘앤에프, 스마트팩토리 구축…\"글로벌 ESG 규제 대응\"",
-    "엘앤에프, LCA·블록체인 기반 스마트팩토리 구축…EU 배터리 규제 대응",
-    "엘앤에프, EU 배터리 여권 대응 스마트팩토리 구축",
-    "전국금융노조 iM뱅크대구은행지부, 경북 아동 위해 4천만원 후원",
-    "\"돈이 없어 꿈을 포기하는 학생에 전해달라\"…iM뱅크 노조, 경북교육청...",
     "경산시, '스타트업 월드컵 코리아' 개최…전국 유망기업 글로벌 진출 경...",
     "영천시, 신중년 고용지원사업 본격 추진…30개 기업 선정",
     "엘앤에프, AI·빅데이터·블록체인 기반 스마트팩토리 구축",
@@ -1001,6 +996,11 @@
     "경북일보 포항포럼·독자권익위 출범…\"지역 목소리 담는 언론 만들 것...",
     "“민간 자율성 극대화”…대구시, 서대구역 복합환승센터 일대 ‘특별계...",
     "유통 3사 '대구 대전' 임박...소비 지형 바뀐다",
-    "'80년 대구백화점' 경영권 매각 성사될까?"
+    "'80년 대구백화점' 경영권 매각 성사될까?",
+    "은평구 수색동 비행안전구역 축소 전망…개발사업 청신호",
+    "군위군의회 임시회 개회…군정 업무보고·행정사무감사 계획 심사",
+    "레버리지의 함정, 황소도 돈을 벌고 곰도 돈을 버는데 돼지는 도살된다...",
+    "청도군, 미혼남녀 만남행사 참가자 모집…8월 '청설모 프로젝트' 개최",
+    "'부채도사' 장두석, 신장 질환으로 별세…향년 66세 →오늘(22일) 어느덧..."
   ]
 }
