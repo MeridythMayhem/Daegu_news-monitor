@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=306484",
-    "https://www.dailysecu.com/news/articleView.html?idxno=207481",
-    "https://www.pennmike.com/news/articleView.html?idxno=123287",
     "https://n.news.naver.com/mnews/article/662/0000099095?sid=101",
     "https://www.goodkyung.com/news/articleView.html?idxno=288972",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59135",
@@ -499,12 +496,12 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043272",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043394",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276806",
-    "https://n.news.naver.com/mnews/article/020/0003735757?sid=102"
+    "https://n.news.naver.com/mnews/article/020/0003735757?sid=102",
+    "https://n.news.naver.com/mnews/article/009/0005710962?sid=101",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079024",
+    "https://n.news.naver.com/mnews/article/009/0005710955?sid=101"
   ],
   "titles": [
-    "엘앤에프, 'ABB 스마트팩토리' 기반 구축…탄소 데이터 자동 산출",
-    "엘앤에프, 탄소·품질 데이터 관리 위한 스마트팩토리 구축",
-    "[재계핫이슈] 주목되는 중앙그룹의 앞날과 '삼성변수'",
     "‘대동 AI 로봇 사업’ 탄력받나…대동로보틱스, 50억원 투자 유치 성공",
     "\"EU 배터리 규제 대응\"…엘앤에프, LCA·블록체인 기반 스마트팩토리 구...",
     "방산기업 풍산이 왜?…류진 풍산 회장 \"안동에 세계적 골프장 짓겠다\"",
@@ -1001,6 +998,9 @@
     "포항TP, 철강 제조현장에 AI 솔루션 실증…산업 전환 본격화",
     "경북도·포항시, 피지컬 AI 기반 자율제조 혁신 전략 모색",
     "포항시, 전국 첫 민관협력형 첨단제조 창업 거점 개소",
-    "대구시·동아일보 공동 개최 ‘제1회 청소년 로봇 아카데미’"
+    "대구시·동아일보 공동 개최 ‘제1회 청소년 로봇 아카데미’",
+    "“4755조 메가프로젝트로도 역부족”…잠재성장률 3% ‘마지막 퍼즐’은...",
+    "제2회 대한민국 중소기업 박람회 개막…혁신기업 성장의 장 열린다",
+    "“낡은 빌라 1채로 10배 먹었다”…‘일확천금’ 재개발 투자의 모든 것..."
   ]
 }
