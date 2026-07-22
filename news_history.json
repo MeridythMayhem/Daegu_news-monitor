@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/662/0000099095?sid=101",
-    "https://www.goodkyung.com/news/articleView.html?idxno=288972",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=59135",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038471",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038456",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038406",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/020/0003735757?sid=102",
     "https://n.news.naver.com/mnews/article/009/0005710962?sid=101",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079024",
-    "https://n.news.naver.com/mnews/article/009/0005710955?sid=101"
+    "https://n.news.naver.com/mnews/article/009/0005710955?sid=101",
+    "https://www.yeongnam.com/web/view.php?key=20260722023437668",
+    "https://www.ksmnews.co.kr/news/view.php?idx=614602",
+    "https://www.ksmnews.co.kr/news/view.php?idx=614479"
   ],
   "titles": [
-    "‘대동 AI 로봇 사업’ 탄력받나…대동로보틱스, 50억원 투자 유치 성공",
-    "\"EU 배터리 규제 대응\"…엘앤에프, LCA·블록체인 기반 스마트팩토리 구...",
-    "방산기업 풍산이 왜?…류진 풍산 회장 \"안동에 세계적 골프장 짓겠다\"",
     "경북도, 일자리편의점 6곳으로 확대…경력보유여성 재취업 지원 강화",
     "경북도, 온디바이스 AI 실증사업 선정…106억 확보",
     "포항시, 농식품 수출정책 평가 2년 연속 대상",
@@ -1001,6 +998,9 @@
     "대구시·동아일보 공동 개최 ‘제1회 청소년 로봇 아카데미’",
     "“4755조 메가프로젝트로도 역부족”…잠재성장률 3% ‘마지막 퍼즐’은...",
     "제2회 대한민국 중소기업 박람회 개막…혁신기업 성장의 장 열린다",
-    "“낡은 빌라 1채로 10배 먹었다”…‘일확천금’ 재개발 투자의 모든 것..."
+    "“낡은 빌라 1채로 10배 먹었다”…‘일확천금’ 재개발 투자의 모든 것...",
+    "대구 수성구 미디어아트 테마파크 ‘국비’ 지연… 구청 “완공 후 정산...",
+    "한동대-POEX, 마이스(MICE) 산업 육성 맞손…전문 인력 양성·행사 유치...",
+    "대구시, 총사업비 245억원 투입… 제조AI로 미래모빌리티 전환 앞당긴다"
   ]
 }
