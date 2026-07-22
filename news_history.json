@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272210",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272138",
-    "https://www.goodkyung.com/news/articleView.html?idxno=288956",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272274",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272256",
     "https://www.dailycar.co.kr/content/news.html?type=view&autoId=61985",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=306484",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043132",
     "http://www.beyondpost.co.kr/view.php?ud=2026072116444661219aeda69934_30",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043279",
-    "https://n.news.naver.com/mnews/article/123/0002386994?sid=101"
+    "https://n.news.naver.com/mnews/article/123/0002386994?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043412",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043453",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043272",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043394"
   ],
   "titles": [
-    "양구군, 통합공공임대주택 공급 2배 확대",
-    "태안군, 천리포수목원 기록물 국가유산 등록",
-    "'짱구 엄마' 故강희선 아들 \"어머니 아들이어서 행복했습니다\"",
-    "용인특례시, 어플라이드 머티어리얼즈와 투자 협약",
     "화성특례시, 온디바이스 AI 실증사업 선정",
     "“블록체인 기반 ‘ABB 스마트팩토리’ 구축”..엘앤에프, ESG 규제 선제...",
     "엘앤에프, 'ABB 스마트팩토리' 기반 구축…탄소 데이터 자동 산출",
@@ -1001,6 +997,10 @@
     "대구시, 서대구역세권 특별계획구역 지정…민간투자 활성화 추진",
     "금별맥주, '2026 매경 100대 프랜차이즈' 선정… 가맹점 집기류 지원",
     "구미시, 국가산단 문화산단 조성 본격화…산업유산·첨단산업 융합 추진",
-    "명맥 끊긴 비고시 청장…요직 점령한 '고대' [국세청 고공단 인사분석]"
+    "명맥 끊긴 비고시 청장…요직 점령한 '고대' [국세청 고공단 인사분석]",
+    "포항시, RIST 첨단제조 인큐베이팅센터 개소…제조 스타트업 육성 본격...",
+    "포스코그룹, 첨단제조 스타트업 키운다…포항에 제조혁신 거점 구축",
+    "포항TP, 철강 제조현장에 AI 솔루션 실증…산업 전환 본격화",
+    "경북도·포항시, 피지컬 AI 기반 자율제조 혁신 전략 모색"
   ]
 }
