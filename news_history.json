@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.kpinews.kr/newsView/1065566889894696",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038178",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4093170",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038324",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038590",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038608",
-    "https://www.inews365.com/news/article.html?no=926705",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272677",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272643",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272676",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272680",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272706",
@@ -499,18 +490,18 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277240",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277113",
     "https://n.news.naver.com/mnews/article/021/0002806541?sid=102",
-    "https://www.m-i.kr/news/articleView.html?idxno=1394537"
+    "https://www.m-i.kr/news/articleView.html?idxno=1394537",
+    "https://www.ekn.kr/web/view.php?key=20260723024575326",
+    "https://n.news.naver.com/mnews/article/417/0001152723?sid=101",
+    "https://n.news.naver.com/mnews/article/119/0003114187?sid=101",
+    "https://n.news.naver.com/mnews/article/016/0002674069?sid=101",
+    "https://n.news.naver.com/mnews/article/028/0002815412?sid=004",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277304",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277285",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277277",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043854"
   ],
   "titles": [
-    "[단독] 포스코아산TST 튀르키예 파트너, 포스코 측에 소송 제기",
-    "구미시, 정부세종청사 찾아 내년도 국비 확보 총력",
-    "[아침저널] 김재원 \"윤리위 징계 통해 오히려 혼란 야기될 수도, 신중하...",
-    "상주 샤인프레시, 美 식품박람회서 성과…뉴욕 유통망 진출 본격화",
-    "경북도, 동물세포 기반 백신 공공 CDMO 육성사업 선정…5년간 129억 투입",
-    "안동시, 저소득 한부모·청소년부모 복지지원 확대",
-    "보은군 농어촌 기본소득 신청 D-7…꼭 알아야 할 7가지",
-    "나주시, 고유가 피해지원금 사용기한 내 소비 당부",
-    "영암군, 지역 기업 협력...멜론 계약출하 판로 확대",
     "양평군, 공인중개사협회와 안심 중개환경 논의",
     "인하대, 로보컵 첫 출전서 세계 무대 가능성 입증",
     "이천시, 임금님표 이천쌀 미국·호주 수출 확대",
@@ -1001,6 +992,15 @@
     "오산시, (주)와이솔 취약계층 아동 지원으로 명예의 전당 '나무' 등급 등...",
     "충남도, 시군과 '충남 발전·도민 행복' 힘 모은다",
     "[단독] 중수청, 석달 임대료만 ‘62억’…을지로 노른자땅에 터잡나",
-    "경주시, 경북 첫 '31호 아너 소사이어티' 배출"
+    "경주시, 경북 첫 '31호 아너 소사이어티' 배출",
+    "월덱스, 구미에 2600억 투자…반도체 부품 공장 신설",
+    "포스코 노조, 중노위 조정 돌입…58년 창사 이래 첫 파업 위기",
+    "포스코 노사 단체교섭 결렬…58년 무파업 전통 기로",
+    "포스코 임금교섭 결국 결렬…노조, 중노위 조정 절차 예고",
+    "서울 한가운데 도사·진인·현인이 모인 집은",
+    "경북도, 지역수요맞춤 지원사업 전국 최다 3건 선정",
+    "李대통령 \"'똘똘한 한 채'가 부동산 왜곡…세 부담 논의 필요\"",
+    "인하대, 한진정보통신과 채용연계형 AI 인재양성 나선다",
+    "경주서 31번째 아너 소사이어티 회원 탄생"
   ]
 }
