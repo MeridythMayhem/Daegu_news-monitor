@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272923",
-    "https://www.yeongnam.com/web/view.php?key=20260708020394992",
-    "http://www.youngnong.co.kr/news/articleView.html?idxno=60795",
-    "https://www.ksmnews.co.kr/news/view.php?idx=612672",
     "https://www.tbc.co.kr/news/view?pno=20260707170913AE02046&id=208193",
     "https://tk.newdaily.co.kr/site/data/html/2026/07/08/2026070800233.html",
     "https://n.news.naver.com/mnews/article/020/0003732582?sid=102",
@@ -499,13 +495,13 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079158",
     "https://n.news.naver.com/mnews/article/009/0005711505?sid=104",
     "http://www.kjdaily.com/article.php?aid=1784799253683000006",
-    "https://m.entertain.naver.com/article/477/0000619849"
+    "https://m.entertain.naver.com/article/477/0000619849",
+    "http://www.srtimes.kr/news/articleView.html?idxno=208190",
+    "https://n.news.naver.com/mnews/article/029/0003038635?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005711543?sid=101",
+    "https://n.news.naver.com/mnews/article/028/0002815501?sid=102"
   ],
   "titles": [
-    "은행권, 홈플러스 협력업체 살리기…\"최대 5억원 운전자금\"",
-    "[홈플러스 파산위기] 대구 점포 4곳 협력·입점업체 피해규모 수백억대...",
-    "대동로보틱스, 50억 원 규모 시리즈A 투자 유치…AI 필드로봇 사업 확장...",
-    "친환경이 곧 산업 경쟁력…포항서 ‘2026 세계녹색성장포럼’ 막 올랐다",
     "19조 투자 품은 구미, 첨단산업 도약 '시동'",
     "대구시 소방, 전국 최초 ‘산단 화재예방단’ 가동… 첨단 드론 하천 정...",
     "햇빛 막고 전기 절약 ‘똑똑한 창문’ 개발",
@@ -1001,6 +997,10 @@
     "포스코 노사 임단협 결렬…노조 \"중노위 조정·대응 검토\"",
     "“비둘기가 너무 좋은데 저만 이상한가요”…평화의 상징이 만든 역사[...",
     "본보 웹툰 연재 비에스, 서울 첫 진출 ‘호응’",
-    "최화정 \"삼전닉스 최고점에 팔았다…뷔페 100번 사겠다\"('찐천재')"
+    "최화정 \"삼전닉스 최고점에 팔았다…뷔페 100번 사겠다\"('찐천재')",
+    "포스코, 노사 단체교섭 결렬…창업 후 첫 파업 가능성 위기",
+    "포스코 노사, 중앙노동위원회 조정 돌입…창사 첫 파업가능성 커졌다",
+    "“생활비 부담에 이사갔는데”…이제 미국에 낙원은 없다[홍키자의 美쿡...",
+    "7월24일 인사"
   ]
 }
