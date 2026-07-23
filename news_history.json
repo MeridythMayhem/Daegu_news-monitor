@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272341",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272337",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272340",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272317",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272381",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272433",
     "https://n.news.naver.com/mnews/article/088/0001017966?sid=102",
@@ -499,13 +495,13 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1394172",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043125",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=168558",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043634"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043634",
+    "https://n.news.naver.com/mnews/article/011/0004644317?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043709",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043729",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043671"
   ],
   "titles": [
-    "진주시, 맞춤형 투자정책으로 기업 유치 속도",
-    "의왕시, 2035년 도시기본계획 일부변경 완료",
-    "포천시의회, 포천도시공사 임원진과 간담회",
-    "울산시, 수소 이동수단 충전 기반 확충",
     "울주군, 동남권순환 광역철도 예타 통과 서명운동 추진",
     "고창군, 재해취약지역 현장점검 강화",
     "반도체 계약학과도 'TK 패싱' 우려… 경북대·DGIST \"공식 제안 없었다\"",
@@ -1001,6 +997,10 @@
     "포스코그룹, 포항에 국내 1호 '첨단제조 인큐베이팅 센터' 개소",
     "경산시·경북도, 경제원팀 전략회의 개최…미래산업 핵심사업 협력 강화",
     "중국 경제, K자형 양극화 심화...추가 경기부양책은?",
-    "대구·경북, '5극3특' 발전전략 공동 수립…수도권 대응 광역성장축 육..."
+    "대구·경북, '5극3특' 발전전략 공동 수립…수도권 대응 광역성장축 육...",
+    "“연공·기수보다 성과·전문성 중시”…국세청장의 파격인사",
+    "대구·경북 반도체 경쟁력 강화 논의…\"구미 소부장 거점 고도화\"",
+    "구미시, 외식업 디지털 전환 지원…키오스크·테이블오더 도입비 90% 지...",
+    "구미, 삼성 19조원 투자 연계해 '피지컬AI 제조거점' 도약 나선다"
   ]
 }
