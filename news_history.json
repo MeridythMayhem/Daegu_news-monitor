@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.tbc.co.kr/news/view?pno=20260702151836AE01816&id=208191",
-    "https://n.news.naver.com/mnews/article/657/0000053176?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039032",
     "https://n.news.naver.com/mnews/article/123/0002386208?sid=101",
     "https://n.news.naver.com/mnews/article/417/0001150933?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039061",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/243/0000100807?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277256",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043776",
-    "https://n.news.naver.com/mnews/article/030/0003450535?sid=102"
+    "https://n.news.naver.com/mnews/article/030/0003450535?sid=102",
+    "https://n.news.naver.com/mnews/article/047/0002523491?sid=100",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044083",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044087"
   ],
   "titles": [
-    "[단독]알고보니 ‘1천억 대' 사기극 주범..그의 행방은?",
-    "경북 영양에서 주택 화재···울릉에서는 공장 화재",
-    "경북, 신규 규제자유특구 3곳 지정…전국 최다 8개 특구 보유",
     "하반기에 '큰 거' 온다... 6급 이하 승진, 2200명 넘길까 [지금 국세청은...",
     "수주만 1.9조…대동기어, 내년 전기차 부품 매출 '폭발' 예고",
     "구미 반도체 기업협의회 정기총회…소재·부품산업 상생 협력 강화",
@@ -1001,6 +998,9 @@
     "'누구 잘못인가' 포스코 노사간 임단협 간극 역대급...창사 첫 파업 우려",
     "경산시, 경상북도와 경제 원팀 전략회의 개최",
     "포항TP, 배터리 예비취업자 대상 기업 견학·취업 멘토링",
-    "리셀-포스코인터내셔널, 차세대 태양전지 필름 글로벌 사업화 협력 MOU"
+    "리셀-포스코인터내셔널, 차세대 태양전지 필름 글로벌 사업화 협력 MOU",
+    "대동센터 옛 북시흥농협으로 이전... \"원도심 활력\" 기대 속 비용 논란",
+    "금오공대, 대경권 초광역 인재양성 사업 설명회 개최",
+    "대구시, 노후산단 입주규제 대폭 완화…제조업 '네거티브 방식' 도입"
   ]
 }
