@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/025/0003536356?sid=101",
     "https://www.tbc.co.kr/news/view?pno=20260702151836AE01816&id=208191",
     "https://n.news.naver.com/mnews/article/657/0000053176?sid=102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039032",
@@ -499,10 +498,10 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=614708",
     "https://n.news.naver.com/mnews/article/243/0000100807?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277256",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043776"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043776",
+    "https://n.news.naver.com/mnews/article/030/0003450535?sid=102"
   ],
   "titles": [
-    "[단독] 학생보다 교직원이 많은 학교…넘치는 교부금 이젠 바꾸자",
     "[단독]알고보니 ‘1천억 대' 사기극 주범..그의 행방은?",
     "경북 영양에서 주택 화재···울릉에서는 공장 화재",
     "경북, 신규 규제자유특구 3곳 지정…전국 최다 8개 특구 보유",
@@ -1001,6 +1000,7 @@
     "대구, 대한민국 ABB 중심도시로 도약",
     "'누구 잘못인가' 포스코 노사간 임단협 간극 역대급...창사 첫 파업 우려",
     "경산시, 경상북도와 경제 원팀 전략회의 개최",
-    "포항TP, 배터리 예비취업자 대상 기업 견학·취업 멘토링"
+    "포항TP, 배터리 예비취업자 대상 기업 견학·취업 멘토링",
+    "리셀-포스코인터내셔널, 차세대 태양전지 필름 글로벌 사업화 협력 MOU"
   ]
 }
