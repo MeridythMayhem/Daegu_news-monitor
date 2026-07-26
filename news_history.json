@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1389811",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039302",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091354085140579",
     "http://www.globalepic.co.kr/view.php?ud=20260709141907476548439a4874_29",
     "https://n.news.naver.com/mnews/article/123/0002386243?sid=101",
@@ -499,11 +497,11 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3646652",
     "https://n.news.naver.com/mnews/article/055/0001375509?sid=102",
     "https://n.news.naver.com/mnews/article/422/0000889109?sid=102",
-    "https://www.yeongnam.com/web/view.php?key=20260726026138065"
+    "https://www.yeongnam.com/web/view.php?key=20260726026138065",
+    "https://www.kbmaeil.com/article/20260726500340",
+    "https://www.tbc.co.kr/news/view?pno=20260714162830AE02395&id=208881"
   ],
   "titles": [
-    "[기획] 경쟁자 줄었지만 대형마트 규제는 여전…언제까지 발목잡나",
-    "경북도의회, 제13대 의정 비전 제시…\"민생 회복 최우선\"",
     "유진그룹, 미디어 사업에 2조원 투자…글로벌 미디어 기업 도약",
     "[심층분석] 한화에어로스페이스, 항공엔진 국산화 가능할까",
     "최종환 국장 청와대서 복귀…인사 막판 변수될까? [지금 국세청은]",
@@ -1001,6 +999,8 @@
     "[1보] 경북 칠곡 왜관읍 공장 화재...인명피해 없어",
     "경북 칠곡 공장 에어컨 실외기에서 화재…인명피해 없이 4시간여만에 진...",
     "경북 칠곡 공장 화재 4시간여 만에 진화…\"실외기 발화 추정\"",
-    "[경북 3대문화권] 이용객 많아도 적자…46곳 중 6곳이 손실 64%"
+    "[경북 3대문화권] 이용객 많아도 적자…46곳 중 6곳이 손실 64%",
+    "‘58년 무파업’ 포스코 노사 협상 시험대...임단협 교섭 결렬이 포항경...",
+    "'실속형 재생'으로 포항 원도심 살린다"
   ]
 }
