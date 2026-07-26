@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.newspim.com/news/view/20260709000908",
-    "https://n.news.naver.com/mnews/article/015/0005308129?sid=101",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260709001347431",
-    "https://www.m-i.kr/news/articleView.html?idxno=1389966",
     "https://www.m-i.kr/news/articleView.html?idxno=1389811",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039302",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091354085140579",
@@ -499,13 +495,13 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079306",
     "https://www.kbmaeil.com/article/20260726500036",
     "https://n.news.naver.com/mnews/article/081/0003664732?sid=102",
-    "https://www.yeongnam.com/web/view.php?key=20260726024418322"
+    "https://www.yeongnam.com/web/view.php?key=20260726024418322",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3646652",
+    "https://n.news.naver.com/mnews/article/055/0001375509?sid=102",
+    "https://n.news.naver.com/mnews/article/422/0000889109?sid=102",
+    "https://www.yeongnam.com/web/view.php?key=20260726026138065"
   ],
   "titles": [
-    "대한산업안전협회, 피지컬 AI 산업안전 세미나 개최",
-    "대한산업안전협회, '피지컬 AI 시대 산업안전' 세미나 개최…대응 전략...",
-    "대한산업안전협회, 산업안전보건의달 기념 특별 세미나 성료",
-    "삼성웰스토리, 팔도 협업 여름 프로모션…구내식당 메뉴 차별화",
     "[기획] 경쟁자 줄었지만 대형마트 규제는 여전…언제까지 발목잡나",
     "경북도의회, 제13대 의정 비전 제시…\"민생 회복 최우선\"",
     "유진그룹, 미디어 사업에 2조원 투자…글로벌 미디어 기업 도약",
@@ -1001,6 +997,10 @@
     "대한민국 중소기업 박람회 성료…판로·투자 잇는 비즈니스 플랫폼 입증",
     "영호남 반도체 相生은 ‘TK 긴급현안’이다",
     "경북 칠곡 공장에서 불…에어컨 실외기 화재 추정",
-    "대백, 사실상 유통업 손뗀다…본점은 부동산개발·프라자는 복합문화공..."
+    "대백, 사실상 유통업 손뗀다…본점은 부동산개발·프라자는 복합문화공...",
+    "[1보] 경북 칠곡 왜관읍 공장 화재...인명피해 없어",
+    "경북 칠곡 공장 에어컨 실외기에서 화재…인명피해 없이 4시간여만에 진...",
+    "경북 칠곡 공장 화재 4시간여 만에 진화…\"실외기 발화 추정\"",
+    "[경북 3대문화권] 이용객 많아도 적자…46곳 중 6곳이 손실 64%"
   ]
 }
