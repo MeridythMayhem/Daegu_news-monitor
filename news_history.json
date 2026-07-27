@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077918",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=698779",
-    "https://n.news.naver.com/mnews/article/082/0001389103?sid=101",
     "https://n.news.naver.com/mnews/article/422/0000883399?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273141",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273173",
@@ -499,12 +496,12 @@
     "https://www.ngetnews.com/news/articleView.html?idxno=551869",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044907",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044901",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044910"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044910",
+    "https://www.taxtimes.co.kr/news/article.html?no=276153",
+    "https://n.news.naver.com/mnews/article/088/0001020859?sid=102",
+    "https://n.news.naver.com/mnews/article/088/0001020855?sid=102"
   ],
   "titles": [
-    "포항 농협 임원선거 금품 의혹…당선자 포함 15명 무더기 송치",
-    "'철강업 첩첩산중인데' 포스코 노조, 찬성률 92.2%로 쟁의행위 가결",
-    "포스코노조, 쟁의행위 투표 92.2% 찬성으로 가결",
     "‘2026 진주 K-기업가정신 청년 포럼’ 개최…\"창업문화 확산\"",
     "청송군, 농어촌 기본소득 시범사업 본격 추진",
     "문경시, 고교생 해외명문대학 견학 사전교육 진행",
@@ -1001,6 +998,9 @@
     "금감원, 거래소 압수수색…엘앤에프 공시 논란 수사 본격화",
     "문경시, 도시가스 보급률 목표 80%로 상향…전담 TF 본격 가동",
     "구미시, 파크골프장 '영수증 입장제' 호응…지역소비도 증가",
-    "경북도-일본 나라현, 문화·관광 넘어 AI·경제 협력 확대"
+    "경북도-일본 나라현, 문화·관광 넘어 AI·경제 협력 확대",
+    "국세청, 사무관 등 251명 전보…서울청 조사팀장 28명 교체",
+    "정홍인 대구대 교수 \"청년은 돈보다 '기회'를 찾아 서울로 간다\"",
+    "\"일자리 없는데 어떡해요 그럼\" 그럼에도 서울로 떠나는 TK 청년들"
   ]
 }
