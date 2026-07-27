@@ -1,11 +1,5 @@
 {
   "urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=207175",
-    "http://www.4th.kr/news/articleView.html?idxno=2114520",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=849311",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273248",
-    "http://mcnews.co.kr/86384",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273225",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077918",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=698779",
     "https://n.news.naver.com/mnews/article/082/0001389103?sid=101",
@@ -499,15 +493,15 @@
     "http://www.intn.co.kr/news/articleView.html?idxno=2052190",
     "https://n.news.naver.com/mnews/article/009/0005712643?sid=101",
     "https://www.thepublic.kr/news/articleView.html?idxno=312687",
-    "https://www.mhns.co.kr/news/articleView.html?idxno=754545"
+    "https://www.mhns.co.kr/news/articleView.html?idxno=754545",
+    "https://www.nspna.com/news/?mode=view&newsid=822053",
+    "https://www.newsway.co.kr/news/view?ud=2026072714162973275",
+    "https://www.ngetnews.com/news/articleView.html?idxno=551869",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044907",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044901",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044910"
   ],
   "titles": [
-    "포스코노동조합, 쟁의행위 찬성률 92.2%…파업 위기 달해",
-    "포스코노조, 쟁의행위 찬반투표 가결…찬성률 92.2%",
-    "[신간] 육아일기 그림책『꾸또 형제 지구 나들이』출간",
-    "마포구의회, 제10대 전반기 원구성 완료…4개 상임위 체제 출범",
-    "철도연, 자원순환형 복합재 침목 개발 … 부산 2호선 현장 부설",
-    "하남시, 교산신도시 정상화 정부 지원 촉구",
     "포항 농협 임원선거 금품 의혹…당선자 포함 15명 무더기 송치",
     "'철강업 첩첩산중인데' 포스코 노조, 찬성률 92.2%로 쟁의행위 가결",
     "포스코노조, 쟁의행위 투표 92.2% 찬성으로 가결",
@@ -1001,6 +995,12 @@
     "[인사] 국세청 팀장급 수시전보(7월 31일자)",
     "[단독]금감원 특사경, 한국거래소 압수수색…엘앤에프 불성실공시 의혹...",
     "삼성·SK 턱밑까지 온 CXMT의 '파워'…中 과창판 '잭팟'에 글로벌 메모리...",
-    "[인사] 부산국세청, 31일 자 정기인사 발표"
+    "[인사] 부산국세청, 31일 자 정기인사 발표",
+    "금감원 특사경, 한국거래소 공시부 압수수색…엘앤에프 공시 불공정거래...",
+    "금감원 특사경, 한국거래소 압수수색…엘앤에프 정정공시 수사",
+    "금감원, 거래소 압수수색…엘앤에프 공시 논란 수사 본격화",
+    "문경시, 도시가스 보급률 목표 80%로 상향…전담 TF 본격 가동",
+    "구미시, 파크골프장 '영수증 입장제' 호응…지역소비도 증가",
+    "경북도-일본 나라현, 문화·관광 넘어 AI·경제 협력 확대"
   ]
 }
