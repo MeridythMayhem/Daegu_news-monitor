@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.newsmin.co.kr/news/134680/",
-    "https://www.ksmnews.co.kr/news/view.php?idx=612886",
     "https://www.ksmnews.co.kr/news/view.php?idx=612779",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273298",
     "https://www.tbc.co.kr/news/view?pno=20260709133302AE02151&id=208252",
@@ -499,11 +497,11 @@
     "https://www.hidomin.com/news/articleView.html?idxno=714917",
     "https://www.kyeongin.com/article/1767986",
     "https://www.eroun.net/news/articleView.html?idxno=86357",
-    "https://www.etoday.co.kr/news/view/2607990"
+    "https://www.etoday.co.kr/news/view/2607990",
+    "https://n.news.naver.com/mnews/article/056/0012225915?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005713006?sid=101"
   ],
   "titles": [
-    "홍준표 시절 축소된 성평등 정책, 추경호 시정에서 복원될까",
-    "철강도시 포항, \"녹색 도시로 체질 개선\"…2026 세계녹색성장포럼 개막",
     "경북, 규제자유특구 전국 최다…미래산업 전진기지 굳힌다",
     "한남대, 경부고속철 지하화 건설공사 법정 공방 간다",
     "[단독]울릉, '전국 1호 특별자치군' 추진",
@@ -1001,6 +999,8 @@
     "[단독]반쪽 효과' 대통령배 전국고교야구대회 포항 유치 책임론 확산",
     "[인사] 인천지방국세청",
     "포스코노조, 중앙노동위에 쟁의조정 신청…\"성과 쏠림·투자 후순위 구...",
-    "포스코 노조, 중노위 조정 신청…이르면 내달 6일 조정 종료"
+    "포스코 노조, 중노위 조정 신청…이르면 내달 6일 조정 종료",
+    "[이슈브리핑] 주인 바뀌는 대백 외",
+    "“30억 넘는 집 세금 더 낼까”…세제개편 최대 수혜자·피해자는 [제네..."
   ]
 }
