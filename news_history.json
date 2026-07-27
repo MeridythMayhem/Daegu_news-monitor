@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/422/0000883399?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273141",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273173",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273162",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273326",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273324",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273352",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273153",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273178",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273353",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273302",
@@ -499,17 +491,17 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044910",
     "https://www.taxtimes.co.kr/news/article.html?no=276153",
     "https://n.news.naver.com/mnews/article/088/0001020859?sid=102",
-    "https://n.news.naver.com/mnews/article/088/0001020855?sid=102"
+    "https://n.news.naver.com/mnews/article/088/0001020855?sid=102",
+    "http://www.srtimes.kr/news/articleView.html?idxno=208424",
+    "https://n.news.naver.com/mnews/article/014/0005553529?sid=101",
+    "http://www.4th.kr/news/articleView.html?idxno=2115335",
+    "http://www.smarttimes.co.kr/news/articleView.html?idxno=47655",
+    "https://n.news.naver.com/mnews/article/422/0000889368?sid=101",
+    "https://n.news.naver.com/mnews/article/056/0012225795?sid=101",
+    "https://n.news.naver.com/mnews/article/088/0001020886?sid=102",
+    "https://www.idaegu.com/news/articleView.html?idxno=664608"
   ],
   "titles": [
-    "‘2026 진주 K-기업가정신 청년 포럼’ 개최…\"창업문화 확산\"",
-    "청송군, 농어촌 기본소득 시범사업 본격 추진",
-    "문경시, 고교생 해외명문대학 견학 사전교육 진행",
-    "영천시 성정표 신경주빵 대표, 고향사랑기부금 500만원 전달",
-    "포항시, 민선9기 주요업무계획 보고회 개최",
-    "산청군, 공직자 소통 행보 본격화",
-    "경북도, 규제자유특구의 메카··· 대한민국 산업대전환 선도",
-    "진주시, 민선 9기 첫 국비 확보 나서",
     "울산시, 제조산업 인공지능 전환(AX) 확산 본격 추진",
     "호남 반도체 클러스터 예정지 '토지거래허가구역' 지정",
     "인천 영종구, 대규모 농지 성토 행위 발생... \"79만8,000㎡ 537필지에 대...",
@@ -1001,6 +993,14 @@
     "경북도-일본 나라현, 문화·관광 넘어 AI·경제 협력 확대",
     "국세청, 사무관 등 251명 전보…서울청 조사팀장 28명 교체",
     "정홍인 대구대 교수 \"청년은 돈보다 '기회'를 찾아 서울로 간다\"",
-    "\"일자리 없는데 어떡해요 그럼\" 그럼에도 서울로 떠나는 TK 청년들"
+    "\"일자리 없는데 어떡해요 그럼\" 그럼에도 서울로 떠나는 TK 청년들",
+    "엘앤에프 '테슬라 계약 감액' 의혹…금감원 특사경, 거래소 압수수색",
+    "금감원 특사경, 엘앤에프 정정공시 관련 수사...거래소 압수수색",
+    "금감원 특사경, 거래소 압수수색..엘앤에프 '테슬라 계약' 수사",
+    "금감원 특사경, 한국거래소 압수수색…엘앤에프 '테슬라 계약 정정' 수...",
+    "금감원 특사경, 엘앤에프 정정공시 관련 거래소 압수수색",
+    "금감원 특사경, 엘앤에프 ‘2호 인지수사’…4조 테슬라 계약 번복 의혹",
+    "'인서울' 해도 부모보다 잘살기 어려워… 그래도 TK 2030 서울행은 여전...",
+    "\"인턴 기회, 금보다 귀한 '금턴'인데\"… 대구 청년 행정실무 기회 '바닥..."
   ]
 }
