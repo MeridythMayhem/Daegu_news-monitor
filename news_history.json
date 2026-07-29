@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016190549?sid=101",
-    "https://www.wikitree.co.kr/articles/1146119",
-    "https://www.tbc.co.kr/news/view?pno=20260713093806AE02293&id=208379",
-    "https://n.news.naver.com/mnews/article/277/0005789170?sid=102",
     "https://n.news.naver.com/mnews/article/629/0000515570?sid=101",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=604685",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040317",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279300",
     "https://www.m-i.kr/news/articleView.html?idxno=1396851",
     "https://www.the-today.com/news/articleView.html?idxno=87972",
-    "https://news.mtn.co.kr/news-detail/2026072916264466864"
+    "https://news.mtn.co.kr/news-detail/2026072916264466864",
+    "http://www.breaknews.com/1225177",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4079719",
+    "https://n.news.naver.com/mnews/article/654/0000192697?sid=102",
+    "https://www.youthdaily.co.kr/news/article.html?no=224056"
   ],
   "titles": [
-    "오뚜기라면, 구미에 수출용 생산공장 신설…\"일자리 120명 창출\"",
-    "오뚜기라면, 경북 구미에 2천억 투자 수출용 라면공장 신설",
-    "오뚜기 \"구미에 대규모 라면 공장 건립\"",
-    "오뚜기라면, 구미2국가산단에 2000억 투자 수출공장 건립…일자리 120명...",
     "오뚜기라면, 경북·구미와 2000억 투자 MOU…수출 공장 신설구미",
     "오뚜기라면, 구미에 2,000억 규모 수출 공장 신설",
     "경북도, 도시가스 공급비용 평균 4.78% 인상",
@@ -1001,6 +997,10 @@
     "부산시, AI 기반 건강돌봄 플랫폼 구축… 노인 건강관리 강화",
     "코오롱인더, PU 인조가죽 양산 돌입…車 내장재 경쟁력 확대",
     "李 대통령 수행 장인화…남미선 포스코 '빚·소송' 터졌다",
-    "엘앤에프 '테슬라 계약 무산' 후폭풍…금감원 특사경 압수수색"
+    "엘앤에프 '테슬라 계약 무산' 후폭풍…금감원 특사경 압수수색",
+    "포항시, 환동해 국제심포지엄 개최…전쟁·에너지 위기·AI 시대 대응 전...",
+    "\"K-농업 중심 경북, 식품산업 미래 블루오션 주도해야\"",
+    "[전력전쟁시대, AI 패권 중심지된 강원] 4. 전력 최대 생산지 경북, 이면...",
+    "코람코자산운용, 호텔·레지덴셜 '차세대 성장축' 낙점...5년 내 AUM 5조 ..."
   ]
 }
