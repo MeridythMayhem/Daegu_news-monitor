@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1390546",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=857527",
-    "https://www.tbc.co.kr/news/view?pno=20260710105041AE02218&id=208356",
-    "https://www.newstree.kr/newsView/ntr202607130003",
-    "https://thetracker.co.kr/View.aspx?No=4146303",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040114",
-    "https://n.news.naver.com/mnews/article/032/0003457704?sid=102",
     "http://www.newsdream.kr/news/articleView.html?idxno=114336",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=266190",
     "https://n.news.naver.com/mnews/article/001/0016190549?sid=101",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279174",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279275",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045921",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045920"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045920",
+    "https://n.news.naver.com/mnews/article/031/0001045802?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279265",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279302",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279149",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279077",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279300",
+    "https://www.m-i.kr/news/articleView.html?idxno=1396851"
   ],
   "titles": [
-    "구미역서 미리 만나는 '경북 국제 AI·메타버스 영상제'",
-    "청주시, 제조 AI 전환 거점 됐다…국비 140억원 확보",
-    "버려지던 참외의 변신... 비건 가죽으로 재탄생",
-    "오뚜기라면, 구미에 2000억 투자…수출용 라면 생산공장 신설",
-    "오뚜기라면, 구미에 수출용 라면공장 신설...'2000억 투자'",
-    "칠곡군, 참외 부산물 활용 비건 가죽 개발",
-    "대구시와 투자협약 맺은 ‘유망기업’, 임금체불에 노동자 ‘분통’··...",
     "오뚜기라면, 구미에 2000억 투입 '수출 전용 공장' 신설… K-라면 열풍 잇...",
     "오뚜기라면, 구미에 2천억 투자…수출공장 신설",
     "오뚜기라면, 구미에 수출용 생산공장 신설…\"일자리 120명 창출\"",
@@ -1001,6 +994,13 @@
     "인제군, 소양호 호수산책로 공정률 50% 돌파",
     "양주시, LH와 택지개발 현안 협력 논의",
     "포항시, 동북권 ICT콤플렉스 개소…AI·SW 인재 양성 거점 출범",
-    "포항시, 민간임대주택 100세대 사회공헌형 공급 추진"
+    "포항시, 민간임대주택 100세대 사회공헌형 공급 추진",
+    "포항 광명산단 공장 철거현장서 50대 작업자 추락사…경찰, 사고 경위 조...",
+    "의령군, 민선 9기 첫 추경 6천219억 원 확정",
+    "경남도, 21조 투입 '피지컬 AI' 육성… 2035년 제조혁신 선도",
+    "경북도, 포항에 ICT 콤플렉스 개소",
+    "함안군, 민선 9기 현장 중심 행정으로 군민 체감 변화 확대",
+    "부산시, AI 기반 건강돌봄 플랫폼 구축… 노인 건강관리 강화",
+    "코오롱인더, PU 인조가죽 양산 돌입…車 내장재 경쟁력 확대"
   ]
 }
