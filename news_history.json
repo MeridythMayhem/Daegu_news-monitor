@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.newsprime.co.kr/news/article.html?no=740366",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041068",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041094",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=51461",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274984",
@@ -499,11 +497,11 @@
     "https://www.yeongnam.com/web/view.php?key=20260801023099098",
     "https://n.news.naver.com/mnews/article/422/0000891233?sid=102",
     "https://www.yeongnam.com/web/view.php?key=20260801024139394",
-    "https://www.mfgkr.com/news/articleView.html?idxno=28306"
+    "https://www.mfgkr.com/news/articleView.html?idxno=28306",
+    "https://www.yeongnam.com/web/view.php?key=20260802025119518",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046835"
   ],
   "titles": [
-    "케일럼, 항공엔진 부품 슈퍼사이클 '수혜'…\"글로벌 고객사와 장기계약...",
-    "영천시, 한국마사회 본사 유치 행보 본격화",
     "금오공대, '구미 AI로봇 산학연협력협의회' 출범",
     "영화 '호프' 60만 예매로 시동…메가박스의 간절한 '희망'",
     "평택시, 간부회의 실시간 공개로 열린 행정 강화",
@@ -1001,6 +999,8 @@
     "대백 본점 개발 놓고 엇갈린 시선…“상권 활성화 기대” “차익실현 후...",
     "경북 영천 공장서 '펑' 기름탱크 화재…3명 경상",
     "봉화군의 ‘맥도날드 짝사랑’…“봉화사과 줄게 협업하자”",
-    "포스코모빌리티솔루션, 미쓰도요(공급사 두루무역㈜)와 MOU 체결 - 구동모..."
+    "포스코모빌리티솔루션, 미쓰도요(공급사 두루무역㈜)와 MOU 체결 - 구동모...",
+    "[뉴스後] SK실트론, 두산 품으로…구미 반도체 앵커기업 새 주인",
+    "경북도, 자동차 부품 AI 자율제조 로봇 거점 구축…19억 투입"
   ]
 }
