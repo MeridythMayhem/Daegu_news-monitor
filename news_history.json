@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.dynews.co.kr/news/articleView.html?idxno=858122",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041249",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041286",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041244",
     "https://www.dynews.co.kr/news/articleView.html?idxno=858153",
     "http://www.metroseoul.co.kr/article/20260715500307",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/469/0000945795?sid=110",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047016",
     "https://n.news.naver.com/mnews/article/087/0001208850?sid=100",
-    "https://n.news.naver.com/mnews/article/005/0001864574?sid=102"
+    "https://n.news.naver.com/mnews/article/005/0001864574?sid=102",
+    "https://n.news.naver.com/mnews/article/022/0004147924?sid=102",
+    "https://news.skbroadband.com/news/articleView.html?idxno=233777",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047098"
   ],
   "titles": [
-    "괴산군 '동서트레일' 명품 숲길 조성 속도 낸다",
-    "울릉 오징어부터 봉화 은어까지…경북 여름축제 잇따라 개막",
-    "포항시, AI 기반 해양기술 개발 협력",
     "큐니온, 울릉 노인요양시설에 감염병 예방 위생이불 60채 기탁",
     "㈜세계주철 최익구 회장, 서천에 500만원 쾌척…고향사랑기부로 지역 상...",
     "iM뱅크, 기보와 '우수 중소기업 금융지원' MOU",
@@ -1001,6 +998,9 @@
     "[지평선] '배재고 사태' 명칭 유감",
     "상주시-경북도, 경제원팀 전략회의 개최…식품클러스터 등 현안 협력",
     "강원연구개발특구 본부 발표 임박…춘천 원주 강릉 혈전",
-    "대구 폐기물 업체 화재…큰 불은 잡아"
+    "대구 폐기물 업체 화재…큰 불은 잡아",
+    "대구 서구 상리동 재활용 업체서 화재…3시간 만에 큰불 잡혀",
+    "대구 서구 재활용 업체서 화재…3시간 만에 주불 잡아",
+    "경북도, 첨단산업 인재양성 국비 확보 총력…공유대학·앵커사업 대응"
   ]
 }
