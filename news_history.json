@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275038",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274899",
-    "http://www.segyebiz.com/newsView/20260715519638?OutUrl=naver",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274971",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274979",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274961",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041077",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/088/0001021927?sid=102",
     "https://www.hidomin.com/news/articleView.html?idxno=715766",
     "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026080300076&story_seq=0&soCode=114&socttSn=NS2026080300076&socttSeq=0",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047418"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047418",
+    "https://n.news.naver.com/mnews/article/056/0012230301?sid=102",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=788710",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1280367",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1280418"
   ],
   "titles": [
-    "경북도, 연구장비 공동활용으로 기업 기술혁신 지원",
-    "남해군 '국민쉼터 반반남해' 3차 사업 시행",
-    "본죽&amp;비빔밥·본도시락, 매경 100대 프랜차이즈 연속 수상",
-    "진주시, 상평산단 휴폐업공장 청년 창업공간 착공",
     "함양군, 납세자 맞춤형 지방세 안내 서비스 시행",
     "영천시, 지적확정측량 사전검토제 운영",
     "'2026 제주포럼' 대한상의, AI 시대 한국 경제 성장 전략 찾는다",
@@ -1001,6 +997,10 @@
     "[1보] 경북 영천서 폐기물 처리 공장 화재…진화중",
     "한국법무보호복지공단 경북서부지부, 솔레일과 취업지원 업무협약(MOU) ...",
     "[매일신문 조규덕 기자의 위클리TK] 21년 만에 구미 산단 복귀하는 두산...",
-    "포항시, 지역 외식산업 활성화 방안 모색"
+    "포항시, 지역 외식산업 활성화 방안 모색",
+    "경북 영천시 폐기물 공장서 화재 발생…산으로 번져",
+    "[위클리오늘] 경북 영천 폐기물처리 공장 화재…150평 창고 전소·주민 ...",
+    "청송군, 배드민턴 청소년대표 전지훈련 유치…73명 참가",
+    "경북도, 대경권 성장엔진 인재 육성 국비 확보 총력"
   ]
 }
