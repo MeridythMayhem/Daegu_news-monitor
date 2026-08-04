@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001019363?sid=102",
-    "https://n.news.naver.com/mnews/article/031/0001042739?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041545",
-    "https://n.news.naver.com/mnews/article/081/0003661806?sid=102",
     "https://n.news.naver.com/mnews/article/088/0001019382?sid=102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041610",
     "https://n.news.naver.com/mnews/article/366/0001179778?sid=101",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047795",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047836",
     "https://www.insightkorea.co.kr/news/articleView.html?idxno=251643",
-    "https://www.tbc.co.kr/news/view?pno=20260804171645AE03436&id=209305"
+    "https://www.tbc.co.kr/news/view?pno=20260804171645AE03436&id=209305",
+    "https://www.sentv.co.kr/article/view/sentv202608040093",
+    "https://n.news.naver.com/mnews/article/009/0005716614?sid=101",
+    "http://www.dandinews.com/news/articleView.html?idxno=17280",
+    "https://www.jjan.kr/article/20260804500250"
   ],
   "titles": [
-    "홈플러스를 무너뜨린 범인 [가스인라이팅]",
-    "대법 \"포스코 사내하청 불법파견\"⋯노조 \"차별없는 정규직 전환\"",
-    "경주상의, 2026 상공대상 시상…지역경제 기여 기업인 4명 선정",
-    "포스코 ‘불법 파견’ 추가 소송…대법, 2차 하청 포함 378명 근로자 지...",
     "대구경북을 사랑하는 기부 천사 최병일 전 재대구경북도민회 회장",
     "대구, 2034 세계약리학총회 유치 성공",
     "홍병희 그래핀스퀘어 대표, 정진기언론문화상 벤처기업창업상 수상",
@@ -1001,6 +997,10 @@
     "경북도, '쉬었음' 청년 맞춤형 성장프로젝트 운영",
     "경북도, 울릉공항 개항 대비 여객선 준공영제 검토",
     "흑자 기조 이어가는 송치영 포스코이앤씨 대표, 도시정비도 '청신호'",
-    "에코프로머티, 매출 129% 늘었지만 영업익 적자 전환"
+    "에코프로머티, 매출 129% 늘었지만 영업익 적자 전환",
+    "현대제철 ‘조기 합의’·포스코 ‘파업 위기’…임단협 명암",
+    "강북 비거주 1주택도 내년 보유세 두 배로…與마저 우려",
+    "남인수기념사업회, 역사적 과오 인정 첫 공식화",
+    "[사설] 햇빛소득마을 성패, 전력망 해결에 달렸다"
   ]
 }
