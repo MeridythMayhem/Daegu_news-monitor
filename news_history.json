@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041610",
-    "https://n.news.naver.com/mnews/article/366/0001179778?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041702",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041216",
     "https://n.news.naver.com/mnews/article/088/0001019477?sid=101",
     "https://www.tbc.co.kr/news/view?pno=20260716150550AE02499&id=208548",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/009/0005716614?sid=101",
     "http://www.dandinews.com/news/articleView.html?idxno=17280",
     "https://www.jjan.kr/article/20260804500250",
-    "https://www.ksmnews.co.kr/news/view.php?idx=616426"
+    "https://www.ksmnews.co.kr/news/view.php?idx=616426",
+    "https://www.yeongnam.com/web/view.php?key=20260804020190189",
+    "https://www.yeongnam.com/web/view.php?key=20260804029390170",
+    "https://www.tbc.co.kr/news/view?pno=20260804160512AE03427&id=209315"
   ],
   "titles": [
-    "대구, 2034 세계약리학총회 유치 성공",
-    "홍병희 그래핀스퀘어 대표, 정진기언론문화상 벤처기업창업상 수상",
-    "포항시, '글로벌 수소혁신 사업단' 출범…수소산업 경쟁력 강화 나선다",
     "롯데웰푸드 식사이론, 대구 백년가게 '일월정'과 협업한 흑마늘 삼계탕...",
     "경영권 이전 수순 밟는 대구백화점, 유통사업·부동산 활용 방향은 ?",
     "도시 떠난 청년들... 고령군 귀농 급증",
@@ -1001,6 +998,9 @@
     "강북 비거주 1주택도 내년 보유세 두 배로…與마저 우려",
     "남인수기념사업회, 역사적 과오 인정 첫 공식화",
     "[사설] 햇빛소득마을 성패, 전력망 해결에 달렸다",
-    "반도체·AI·로봇 잡는다…구미시 미래산업 대전환"
+    "반도체·AI·로봇 잡는다…구미시 미래산업 대전환",
+    "‘세컨드홈’ 특례 광역시 전체로 확대해야 ‘인구유입’ 가능하다",
+    "[부동산 세제개편안 뜯어보니] 수도권 초고가 주택 과세에만 초점…침체...",
+    "드론으로 폭염 대응...'디지털트윈' 첫 구축"
   ]
 }
