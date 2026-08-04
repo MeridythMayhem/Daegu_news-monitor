@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0014070301?sid=101",
-    "https://n.news.naver.com/mnews/article/021/0002805114?sid=102",
     "https://n.news.naver.com/mnews/article/088/0001019363?sid=102",
     "https://n.news.naver.com/mnews/article/031/0001042739?sid=101",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041545",
@@ -499,11 +497,11 @@
     "https://weekly.hankooki.com/news/articleView.html?idxno=7176811",
     "https://n.news.naver.com/mnews/article/421/0009095931?sid=102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047795",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047836"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047836",
+    "https://www.insightkorea.co.kr/news/articleView.html?idxno=251643",
+    "https://www.tbc.co.kr/news/view?pno=20260804171645AE03436&id=209305"
   ],
   "titles": [
-    "케이쓰리아이-삼보모터스, 피지컬 AI 제조 인프라 구축 MOU",
-    "‘AI 공장으로 전환’ 봇물인데… 지원은 찔끔",
     "홈플러스를 무너뜨린 범인 [가스인라이팅]",
     "대법 \"포스코 사내하청 불법파견\"⋯노조 \"차별없는 정규직 전환\"",
     "경주상의, 2026 상공대상 시상…지역경제 기여 기업인 4명 선정",
@@ -1001,6 +999,8 @@
     "\"철강산업 위기인데\"… 포스코, 노조 몽니에 58년 무분규 역사 '흔들'",
     "창간 80년 매일신문 대구서 '위대한 한국인' 사진전",
     "경북도, '쉬었음' 청년 맞춤형 성장프로젝트 운영",
-    "경북도, 울릉공항 개항 대비 여객선 준공영제 검토"
+    "경북도, 울릉공항 개항 대비 여객선 준공영제 검토",
+    "흑자 기조 이어가는 송치영 포스코이앤씨 대표, 도시정비도 '청신호'",
+    "에코프로머티, 매출 129% 늘었지만 영업익 적자 전환"
   ]
 }
