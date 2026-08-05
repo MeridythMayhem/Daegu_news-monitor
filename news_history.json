@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.ngonews.kr/news/articleView.html?idxno=233332",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2237997",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275872",
     "https://n.news.naver.com/mnews/article/015/0005311833?sid=102",
     "https://www.polinews.co.kr/news/articleView.html?idxno=737476",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281336",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281389",
     "https://www.jjan.kr/article/20260805500488",
-    "https://www.inews365.com/news/article.html?no=930717"
+    "https://www.inews365.com/news/article.html?no=930717",
+    "https://www.yeongnam.com/web/view.php?key=20260805026348123",
+    "https://n.news.naver.com/mnews/article/025/0003542535?sid=101"
   ],
   "titles": [
-    "광양시, 'K-노사문화' 실천… 포스코노조, 단체교섭으로 모은 6500만원 광...",
-    "[금융] iM뱅크 노조 아동센터 지원 / iM뱅크 소비자 간담회 / 신한카드 ...",
     "포항시, 2조 원 규모 글로벌 AI 데이터센터 착공",
     "[인사] 법무부 ; 지식재산처 ; 국세청 등",
     "박성현 광양시정 출범에 힘 보탠 포스코노조…6500만원 상생기금 전달",
@@ -1001,6 +999,8 @@
     "김해시, 구산1주공 영구임대주택 예비입주자 모집",
     "경북도, 인공지능 스마트베드 활용 돌봄서비스 실증 본격화",
     "다시 속도 붙는 행정통합 논의…전북 ‘원팀 전략’ 세워야",
-    "\"임대료 내려도 공실은 그대로\""
+    "\"임대료 내려도 공실은 그대로\"",
+    "[대구·경북 기후재난 보고서③] “어쩔 수가 없다”, 끓는 동해…‘절...",
+    "“대기업 출신은 부담스럽대요”…‘젊똑노’의 재취업 비극"
   ]
 }
