@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.taxtimes.co.kr/news/article.html?no=276052",
-    "https://www.tfmedia.co.kr/news/article.html?no=205865",
-    "https://www.tfmedia.co.kr/news/article.html?no=205862",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2052027",
-    "https://www.tfmedia.co.kr/news/article.html?no=205861",
     "https://medicalworldnews.co.kr/news/view.php?idx=1510976019",
     "https://n.news.naver.com/mnews/article/003/0014075525?sid=102",
     "http://www.dailypop.kr/news/articleView.html?idxno=100652",
@@ -499,14 +494,14 @@
     "https://www.sisaon.co.kr/news/articleView.html?idxno=203268",
     "https://www.idaegu.com/news/articleView.html?idxno=664843",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048164",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048288"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048288",
+    "https://n.news.naver.com/mnews/article/030/0003454497?sid=102",
+    "https://n.news.naver.com/mnews/article/031/0001047478?sid=101",
+    "https://www.m-i.kr/news/articleView.html?idxno=1398927",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048174",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048333"
   ],
   "titles": [
-    "[프로필]국세청 고위공무원 승진·부이사관 전보(5명)",
-    "[프로필] 김동현 대구지방국세청 조사1국장",
-    "[프로필] 강동훈 중부지방국세청 징세송무국장",
-    "[프로필] 국세청 고위공무원 승진 등(7월 20일자)",
-    "[프로필] 장우정 서울지방국세청 성실납세지원국장",
     "[인사]서울지방국세청 성실납세지원국장 장우정 외 승진",
     "[인사]대구지방국세청",
     "한국은행 디지털화폐(CBDC) 예금토큰 2단계, BNK경남·iM뱅크 합류",
@@ -1001,6 +996,11 @@
     "금호건설, '영종하늘도시 A4·A6블록' 수주 [건설·분양오늘]",
     "[심층기획-대구 무료급식소 'SOS'] &lt;하&gt;대구형 상생 안전망 구축하자",
     "LH, 이재민 임시 주택 100가구 비축…재난 시 신속 제공",
-    "상주서 조합원 100명 대상 '백일의 건강' 프로젝트 추진"
+    "상주서 조합원 100명 대상 '백일의 건강' 프로젝트 추진",
+    "경북경제진흥원-산단공 경북지역본부, 경북 중소기업 중대재해 예방 지...",
+    "포스코, 창사 첫 파업 고비 넘겼다…18일 노사 협상 '최대 분수령'",
+    "중기부, 광역연계형 규제자유특구 첫 추진…규제개선부터 기업 성장까지",
+    "\"지자체 경계 허문다\"…광역연계형 특구 도입, 부산·광주부터",
+    "포항TP, 지역 식품기업 리뉴얼 제품 소비자 평가 진행"
   ]
 }
