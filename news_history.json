@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=614076",
-    "https://www.yeongnam.com/web/view.php?key=20260719027556799",
-    "https://www.kpinews.kr/newsView/1065566304908235",
-    "https://www.ceoscoredaily.com/page/view/2026071615093597202",
-    "https://n.news.naver.com/mnews/article/003/0014074773?sid=102",
-    "https://n.news.naver.com/mnews/article/020/0003734918?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042050",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1275780",
     "https://www.etoday.co.kr/news/view/2605148",
     "https://n.news.naver.com/mnews/article/277/0005791777?sid=102",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281219",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281200",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281164",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048226"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048226",
+    "https://n.news.naver.com/mnews/article/018/0006345069?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281279",
+    "http://mcnews.co.kr/86479",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281167",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281165",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281187",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281240"
   ],
   "titles": [
-    "최태원 \"반도체는 인프라가 답\"…기업이 투자 결정, 정부는 기반 조성해...",
-    "쿠폰 할인 당근책도 안통하는 ‘대구공항’…부족한 국제선 확충이 ‘답...",
-    "포스코아산TST 소송 사태, 관세 문제로 파장 확산 분위기",
-    "‘프로젝트 한강’ 2단계 시동… 경남銀·iM뱅크 가세로 CBDC 실증 확대",
-    "[대구·경북 조간 헤드라인]",
-    "[초대석]“영남 케이블카-1000억 청년펀드 추진”",
-    "상주시, 1조4천806억원 규모 2차 추경 편성…국가식품클러스터 기반 마...",
     "[인사] 국세청",
     "[인사] 국세청",
     "[인사]국세청",
@@ -1001,6 +994,13 @@
     "목포시, 전세보증금반환보증 보증료 지원 상시 접수",
     "[문제열의 窓] 세계를 휩쓴 K-푸드 성공의 이면, 식품사막이 된 농촌을...",
     "광주시, 2026년 최신 항공사진 서비스 개시",
-    "영양군, 농촌체험휴양마을 활성화 간담회 개최"
+    "영양군, 농촌체험휴양마을 활성화 간담회 개최",
+    "포스코, 창사 첫 파업 불씨 여전…중노위, 조정 연장 결정",
+    "양양군, 민선9기 공약 50개 과제 실행전략 점검",
+    "철도공단, 역대 최대 1500억 원 규모 녹색채권 발행",
+    "동두천시, 민선 9기 130개 공약 본격 추진",
+    "동해시, 지방세입 체납관리단 첫 운영",
+    "정선군, 농어촌 기본소득 시범사업 지역서 소비·창업",
+    "김포시 '시민과 함께 김포 大도약' 새 비전 선포"
   ]
 }
