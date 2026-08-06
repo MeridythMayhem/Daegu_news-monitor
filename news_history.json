@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=614479",
-    "https://www.yeongnam.com/web/view.php?key=20260722023327558",
-    "https://www.tbc.co.kr/news/view?pno=20260721163437AE02672&id=208737",
-    "https://www.tbc.co.kr/news/view?pno=20260722162635AE02751&id=208739",
-    "https://www.tbc.co.kr/news/view?pno=20260716153704AE02511&id=208736",
-    "https://n.news.naver.com/mnews/article/009/0005710963?sid=101",
-    "http://www.finomy.com/news/articleView.html?idxno=257741",
-    "http://mcnews.co.kr/86422",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1276634",
     "https://n.news.naver.com/mnews/article/020/0003735885?sid=102",
     "https://www.idaegu.com/news/articleView.html?idxno=664497",
     "https://www.m-i.kr/news/articleView.html?idxno=1393786",
@@ -499,18 +490,18 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048849",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048843",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048834",
-    "https://www.m-i.kr/news/articleView.html?idxno=1399378"
+    "https://www.m-i.kr/news/articleView.html?idxno=1399378",
+    "https://www.kbmaeil.com/article/20260806500597",
+    "https://www.cstimes.com/news/articleView.html?idxno=716012",
+    "https://n.news.naver.com/mnews/article/029/0003041101?sid=101",
+    "https://n.news.naver.com/mnews/article/088/0001022516?sid=102",
+    "http://mcnews.co.kr/86489",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281819",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281691",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281814",
+    "https://www.m-i.kr/news/articleView.html?idxno=1399746"
   ],
   "titles": [
-    "대구시, 총사업비 245억원 투입… 제조AI로 미래모빌리티 전환 앞당긴다",
-    "소비도시 대구의 ‘굴욕’…쪼그라드는 유통산업",
-    "[단독]상습 침수지에 솟은 '이상한 전망대'",
-    "[집중]누더기 된 통폐합...전문성도 예술 지원도 '흔들'",
-    "신공항 표류 6년 \"남은 건 절망 뿐\"",
-    "“모아타운, 재개발이랑 뭐가 다르죠?”…오세훈의 ‘닥공’전략 [부동...",
-    "매일유업, 美 올리브영 입점···K-웰니스 앞세워 북미 공략",
-    "[단독] ‘지적확정측량’ 안 하는 골프장… ‘원형보전지 불법점용’ 논...",
-    "광양시, 지역 산업 인공지능 전환 생태계 구축 맞손",
     "로봇개 코딩하고 경주… “로봇공학자 꿈, 확신이 생겼어요”",
     "[대구일보 연중기획-아름다운 함께살기] \"아이에게 이름을 찾아주고 싶...",
     "포항에 첨단제조 창업거점 구축…민관 협력 인큐베이팅센터 개소",
@@ -1001,6 +992,15 @@
     "울진군, 지방세 체납관리단 운영…맞춤형 징수·복지 연계 추진",
     "농식품부, 상주 축산농가 찾아 폭염 대응 점검…가축 피해 최소화 당부",
     "포항시의회 경제산업위, 기동저수지 가뭄 대응 현장 점검",
-    "\"한·베 800년 역사 관광자원으로\"…봉화 'K-베트남 밸리특구' 지정"
+    "\"한·베 800년 역사 관광자원으로\"…봉화 'K-베트남 밸리특구' 지정",
+    "iM뱅크장학문화재단, 경북 다둥이 장학생 100명에 8000만원 전달",
+    "iM뱅크장학문화재단, 다자녀 학생 장학금 8000만원 후원",
+    "iM뱅크장학문화재단, 경북 다자녀 가정에 8000만원 전달…8년째 상생 행...",
+    "포항 영일만 세계적 해양레저관광도시 대전환 추진",
+    "[기고] 그늘 없는 폭염 현장, 쉬면 손해 보는 노동자들",
+    "전남광주 동구, 홍콩에 충장 주얼리 홍보관 운영",
+    "건양대, 블록체인 특성화대학 지원사업 최종 선정",
+    "부산시, 개항기 외교문서 번역 '국역조선사무서6' 발간",
+    "코오롱인더, 침구부터 車 내장재까지…프리미엄 소재 확대"
   ]
 }
