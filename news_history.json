@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/138/0002235122?sid=101",
     "https://www.thepublic.kr/news/articleView.html?idxno=312367",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277222",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277221",
@@ -499,10 +498,10 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3658273",
     "https://www.aflnews.co.kr/news/articleView.html?idxno=325987",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59570",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049093"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049093",
+    "https://n.news.naver.com/mnews/article/088/0001022626?sid=101"
   ],
   "titles": [
-    "포스코 노조, 단체교섭 결렬…파업 수순 밟나",
     "출력제어 급증에 전력계통 '빨간불'…송전망 확충 과제",
     "홍성군 '축산 환경 개선의 날' 시범 운영 완료",
     "남원시-중국 염성시, 자매결연 30주년 우의 다져",
@@ -1001,6 +1000,7 @@
     "포스코, 지역 맞춤 지원 확대…산업위기 대응에 587억 효과",
     "농협경북본부, 중대재해 예방 위한 사업장 현장 안전점검 실시",
     "임광현 국세청장 \"묵묵히 고생하는 직원에게 최고의 보상은 결국 승진\"",
-    "포항시, 1조3500억원 투입 복합 해양레저관광도시 조성 추진"
+    "포항시, 1조3500억원 투입 복합 해양레저관광도시 조성 추진",
+    "통합 고속철 할인 '반짝 3년'…이후 요금 도로 오른다?"
   ]
 }
