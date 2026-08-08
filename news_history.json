@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/021/0002806541?sid=102",
     "https://www.m-i.kr/news/articleView.html?idxno=1394537",
     "https://www.ekn.kr/web/view.php?key=20260723024575326",
     "https://n.news.naver.com/mnews/article/417/0001152723?sid=101",
@@ -499,10 +498,10 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049133",
     "https://m.entertain.naver.com/article/213/0001397260",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475528",
-    "https://www.tbc.co.kr/news/view?pno=20260730145135AE03190&id=209508"
+    "https://www.tbc.co.kr/news/view?pno=20260730145135AE03190&id=209508",
+    "https://n.news.naver.com/mnews/article/138/0002237098?sid=101"
   ],
   "titles": [
-    "[단독] 중수청, 석달 임대료만 ‘62억’…을지로 노른자땅에 터잡나",
     "경주시, 경북 첫 '31호 아너 소사이어티' 배출",
     "월덱스, 구미에 2600억 투자…반도체 부품 공장 신설",
     "포스코 노조, 중노위 조정 돌입…58년 창사 이래 첫 파업 위기",
@@ -1001,6 +1000,7 @@
     "[캠코 공매] 차주 경북 경주 천포리 '답' 등 압류재산 매각",
     "잇따른 탈세 의혹 속…국세청도 인정한 '모범 납세'로 찬사받은 ★들 [...",
     "적자 터널 지나온 엘앤에프…LFP 공급 본격화에 반전 기대",
-    "경산 화장품특화단지 첫 공장 가동...분양 탄력 받을까"
+    "경산 화장품특화단지 첫 공장 가동...분양 탄력 받을까",
+    "현대제철은 '봉합' 포스코는 '파업 기로'…철강업계 임단협, 엇갈린 온..."
   ]
 }
