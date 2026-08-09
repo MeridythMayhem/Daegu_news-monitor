@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043854",
-    "https://www.dkilbo.com/news/articleView.html?idxno=549434",
-    "https://biz.newdaily.co.kr/site/data/html/2026/07/23/2026072300239.html",
     "https://n.news.naver.com/mnews/article/032/0003459916?sid=101",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=244410",
     "https://www.yeongnam.com/web/view.php?key=20260723022087798",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/088/0001022760?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282262",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282237",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=861108"
+    "https://www.dynews.co.kr/news/articleView.html?idxno=861108",
+    "https://www.joongdo.co.kr/web/view.php?key=20260809010002586",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049316",
+    "https://n.news.naver.com/mnews/article/005/0001865787?sid=102"
   ],
   "titles": [
-    "경주서 31번째 아너 소사이어티 회원 탄생",
-    "국내 철강 위기 속… 포스코노조, 6차 교섭 만에 '결렬 선언' 강행",
-    "포스코 노사 단체교섭 결렬 … 창사 첫 파업 가능성 커져",
     "포스코 노사 단체교섭 결렬…1968년 창사 이후 첫 파업 가능성",
     "포스코 노사 교섭 '결렬' … 창사 첫 파업 가능성",
     "[단독] 7년째 창고에 잠든 우편수취함…6천500만원 주민편의사업, 아무...",
@@ -1001,6 +998,9 @@
     "\"취업 대신 창업\" 대학가 학생 창업 다시 기지개… 창업자·기업·매출 ...",
     "대구 안심뉴타운에 '프리미엄 아울렛'…2028년 개장 추진",
     "경산에 408억 벤처투자조합 결성…지역기업 투자 확대",
-    "알림/ 영동군 2027년 외국인근로자 고용환경 개선사업 수요조사 외 14건"
+    "알림/ 영동군 2027년 외국인근로자 고용환경 개선사업 수요조사 외 14건",
+    "\"만드는 사람도 행복해야\"…세종 최초 ‘주 4일제’ 강소기업 한국소스",
+    "경북도, 철강산업 AI 융합실증허브 구축…포항에 AX 기반 마련",
+    "[단독] 국내 최초 데이터센터 물 수요 예측... ‘물 부족’ 온다"
   ]
 }
