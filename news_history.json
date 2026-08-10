@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/032/0003459916?sid=101",
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=244410",
-    "https://www.yeongnam.com/web/view.php?key=20260723022087798",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277310",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277353",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277319",
@@ -499,12 +496,12 @@
     "https://www.dynews.co.kr/news/articleView.html?idxno=861108",
     "https://www.joongdo.co.kr/web/view.php?key=20260809010002586",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049316",
-    "https://n.news.naver.com/mnews/article/005/0001865787?sid=102"
+    "https://n.news.naver.com/mnews/article/005/0001865787?sid=102",
+    "https://www.g-enews.com/view.php?ud=202608100819485353bb91c46fcd_1",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049573",
+    "https://www.tbc.co.kr/news/view?pno=20260730170606AE03208&id=209524"
   ],
   "titles": [
-    "포스코 노사 단체교섭 결렬…1968년 창사 이후 첫 파업 가능성",
-    "포스코 노사 교섭 '결렬' … 창사 첫 파업 가능성",
-    "[단독] 7년째 창고에 잠든 우편수취함…6천500만원 주민편의사업, 아무...",
     "의령군, 한국의 최고경영대상 지역발전 부문 대상",
     "한일전기㈜-홍천군 서면 굴업리, 지역 상생 파트너십 체결",
     "K-뷰티·헬스케어 최신 트렌드 한자리에… '2026 뷰티&amp;헬스케어쇼' 개막",
@@ -1001,6 +998,9 @@
     "알림/ 영동군 2027년 외국인근로자 고용환경 개선사업 수요조사 외 14건",
     "\"만드는 사람도 행복해야\"…세종 최초 ‘주 4일제’ 강소기업 한국소스",
     "경북도, 철강산업 AI 융합실증허브 구축…포항에 AX 기반 마련",
-    "[단독] 국내 최초 데이터센터 물 수요 예측... ‘물 부족’ 온다"
+    "[단독] 국내 최초 데이터센터 물 수요 예측... ‘물 부족’ 온다",
+    "기보·iM뱅크, 기업승계·기술혁신 M&amp;A 지원… 143억 협약보증",
+    "경북도, K-푸드 전담 '식품한류산업국' 신설…푸드테크·세계화 총괄",
+    "\"기업은 판로, 농가는 농사만\"...상생으로 경쟁력 '쑥쑥'"
   ]
 }
