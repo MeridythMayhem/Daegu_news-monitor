@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/008/0005390429?sid=105",
-    "https://news.mtn.co.kr/news-detail/2026072412545890080",
-    "https://www.yeongnam.com/web/view.php?key=20260724023398048",
     "http://www.fieldnews.kr/news/articleView.html?idxno=30201",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=606094",
     "https://n.news.naver.com/mnews/article/088/0001020587?sid=102",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282873",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282870",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282866",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050163"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050163",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282892",
+    "http://kor.theasian.asia/archives/412845",
+    "https://www.m-i.kr/news/articleView.html?idxno=1401027"
   ],
   "titles": [
-    "GIST 창업기업 리셀, 포스코인터내셔널과 MOU…글로벌 사업화 본격화",
-    "포스코 창사 후 첫 파업 가능성…철강 '빅2' 동시 쟁의 국면",
-    "경북 동해안 어촌소멸·기후위기 넘을 해법 찾는다…영덕서 정책·산업...",
     "임광현 국세청장, '1150명 규모' 하반기 대규모 승진으로 조직 활력 도모",
     "\"근속 10년이면 금 5돈\" 포스코 노조 요구…사측, 재무 부담에 거부",
     "[속보]경북경찰, 안동시청 이어 임시주택 공급업체도 압수수색",
@@ -1001,6 +998,9 @@
     "당진시, AX 선도도시 구현 위해 정책특별보좌관 2명 위촉",
     "대전정보문화산업진흥원 '2026년 인디 게임잼' 성료",
     "KAIST, 제18대 배충식 총장 취임… AI 시대 60주년 발전 전략 제시",
-    "강원과학기술원 춘천 설립 밑그림 구체화"
+    "강원과학기술원 춘천 설립 밑그림 구체화",
+    "인천시, 지도 앱 지명정보 92%까지 정비… 이번엔 '지명 자체' 손본다",
+    "'기자'에서 '민간외교가'로…권기식의 한중도시우호협회 10년",
+    "임금·성과급·지방 이전… 삼중고 맞물린 금융권, 대규모 투쟁 먹구름"
   ]
 }
