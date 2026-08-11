@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.tbc.co.kr/news/view?pno=20260714162830AE02395&id=208881",
-    "https://www.youthdaily.co.kr/news/article.html?no=223775",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044681",
-    "https://www.m-i.kr/news/articleView.html?idxno=1395273",
-    "https://www.tfmedia.co.kr/news/article.html?no=206025",
-    "http://www.intn.co.kr/news/articleView.html?idxno=2052190",
     "https://n.news.naver.com/mnews/article/009/0005712643?sid=101",
     "https://www.thepublic.kr/news/articleView.html?idxno=312687",
     "https://www.mhns.co.kr/news/articleView.html?idxno=754545",
@@ -499,15 +493,15 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283011",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283022",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282981",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283002"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283002",
+    "https://www.livebiz.today/news/articleView.html?idxno=204051",
+    "https://wemakenews.co.kr/news/view.php?no=26022",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283139",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283140",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283105",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283138"
   ],
   "titles": [
-    "'실속형 재생'으로 포항 원도심 살린다",
-    "대구백화점 인수 추진…세경인베스트 재무구조 개선·온라인 혁신 청사...",
-    "경북 포도, 전국 수출 90% 육박…상반기 수출액 44% 증가",
-    "경주시, 산지 휴경농지 활용 '알팔파' 재배 확대",
-    "[인사] 국세청 팀장급 전보",
-    "[인사] 국세청 팀장급 수시전보(7월 31일자)",
     "[단독]금감원 특사경, 한국거래소 압수수색…엘앤에프 불성실공시 의혹...",
     "삼성·SK 턱밑까지 온 CXMT의 '파워'…中 과창판 '잭팟'에 글로벌 메모리...",
     "[인사] 부산국세청, 31일 자 정기인사 발표",
@@ -1001,6 +995,12 @@
     "춘천시, 강원과학기술원 설립 구상 구체화",
     "춘천시, 시민 체감 높인 적극행정 우수사례 6건 선정",
     "진주시, 고향사랑기부금 2억원 돌파…전년比 25% 증가",
-    "상주시, 지적재조사 경계협의 현장사무실 운영"
+    "상주시, 지적재조사 경계협의 현장사무실 운영",
+    "플랜트노조·포스코 교섭 상견례…\"하청노동자와 발주사 첫 만남\"",
+    "[단독] ‘CBRC·민항구’ 사라진 iM뱅크 美 인증서…지적 뒤 슬그머니 바...",
+    "충남개발공사·한전KDN, 신재생에너지 공동사업 추진",
+    "의령군민 1인당 50만원 지급 시작… 첫날 4천114명 신청",
+    "부산시, 2028년 제4차 유엔해양총회 개최도시 확정",
+    "12년째 문 닫힌 속초 사조콘도··· '도심 흉물' 전락"
   ]
 }
