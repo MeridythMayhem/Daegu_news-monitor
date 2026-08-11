@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.nspna.com/news/?mode=view&newsid=822053",
-    "https://www.newsway.co.kr/news/view?ud=2026072714162973275",
-    "https://www.ngetnews.com/news/articleView.html?idxno=551869",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044907",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044901",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044910",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283138",
     "https://n.news.naver.com/mnews/article/079/0004177730?sid=102",
     "https://n.news.naver.com/mnews/article/079/0004177749?sid=102",
-    "https://www.tbc.co.kr/news/view?pno=20260811165401AE03771&id=209602"
+    "https://www.tbc.co.kr/news/view?pno=20260811165401AE03771&id=209602",
+    "https://n.news.naver.com/mnews/article/057/0001963237?sid=102",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608101130406200103348",
+    "https://www.idaegu.com/news/articleView.html?idxno=664952"
   ],
   "titles": [
-    "금감원 특사경, 한국거래소 공시부 압수수색…엘앤에프 공시 불공정거래...",
-    "금감원 특사경, 한국거래소 압수수색…엘앤에프 정정공시 수사",
-    "금감원, 거래소 압수수색…엘앤에프 공시 논란 수사 본격화",
     "문경시, 도시가스 보급률 목표 80%로 상향…전담 TF 본격 가동",
     "구미시, 파크골프장 '영수증 입장제' 호응…지역소비도 증가",
     "경북도-일본 나라현, 문화·관광 넘어 AI·경제 협력 확대",
@@ -1001,6 +998,9 @@
     "12년째 문 닫힌 속초 사조콘도··· '도심 흉물' 전락",
     "플랜트건설노조·포스코, 노란봉투법 시행 후 첫 원하청 교섭",
     "기후부 \"가뭄·녹조 영향 적은 복류수, 대구서 입증되면 부산경남도 적...",
-    "상주 도심에 '고속철 성벽'? \"교량 만들라\""
+    "상주 도심에 '고속철 성벽'? \"교량 만들라\"",
+    "경주 공장 폐기물 더미서 화재…3시간 40분 만에 진화",
+    "[더벨][자본재조정 나선 포스코그룹] 상장사 지분매각 단행, 포스코퓨처...",
+    "[대구일보 인터뷰] 최재석 그린팜 대표 \"경북 K-푸드 해법은 '콩'\""
   ]
 }
