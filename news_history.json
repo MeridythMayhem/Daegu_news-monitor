@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/243/0000100807?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277256",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5043776",
-    "https://n.news.naver.com/mnews/article/030/0003450535?sid=102",
-    "https://n.news.naver.com/mnews/article/047/0002523491?sid=100",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044083",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044087",
     "https://n.news.naver.com/mnews/article/008/0005390429?sid=105",
     "https://news.mtn.co.kr/news-detail/2026072412545890080",
@@ -499,15 +493,15 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=52071",
     "https://www.m-i.kr/news/articleView.html?idxno=1401002",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050084",
-    "https://www.m-i.kr/news/articleView.html?idxno=1400980"
+    "https://www.m-i.kr/news/articleView.html?idxno=1400980",
+    "https://www.tbc.co.kr/news/view?pno=20260811112741AE03746&id=209596",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282897",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282905",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282873",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282870",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282866"
   ],
   "titles": [
-    "'누구 잘못인가' 포스코 노사간 임단협 간극 역대급...창사 첫 파업 우려",
-    "경산시, 경상북도와 경제 원팀 전략회의 개최",
-    "포항TP, 배터리 예비취업자 대상 기업 견학·취업 멘토링",
-    "리셀-포스코인터내셔널, 차세대 태양전지 필름 글로벌 사업화 협력 MOU",
-    "대동센터 옛 북시흥농협으로 이전... \"원도심 활력\" 기대 속 비용 논란",
-    "금오공대, 대경권 초광역 인재양성 사업 설명회 개최",
     "대구시, 노후산단 입주규제 대폭 완화…제조업 '네거티브 방식' 도입",
     "GIST 창업기업 리셀, 포스코인터내셔널과 MOU…글로벌 사업화 본격화",
     "포스코 창사 후 첫 파업 가능성…철강 '빅2' 동시 쟁의 국면",
@@ -1001,6 +995,12 @@
     "\"메가박스 살아야 지역 극장과 한국 영화도 살아\"",
     "경주시, 갑산지구 배수시설 개선사업 재추진",
     "구미시, 창업·투자 생태계 키운다…전문가 초청 육성방안 모색",
-    "인천 가족친화인증기업 근로자, 부산 5개 제휴사 할인 혜택"
+    "인천 가족친화인증기업 근로자, 부산 5개 제휴사 할인 혜택",
+    "아들 건너뛰고 손자에게...경산 아진산업 승계 시동?",
+    "충남도, 청년 창업 지원으로 지역 브랜드 전국 경쟁력 키운다",
+    "충남도, AI 국방 산업 앞장선다",
+    "당진시, AX 선도도시 구현 위해 정책특별보좌관 2명 위촉",
+    "대전정보문화산업진흥원 '2026년 인디 게임잼' 성료",
+    "KAIST, 제18대 배충식 총장 취임… AI 시대 60주년 발전 전략 제시"
   ]
 }
