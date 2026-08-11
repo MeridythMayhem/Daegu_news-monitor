@@ -1,13 +1,5 @@
 {
   "urls": [
-    "http://www.fieldnews.kr/news/articleView.html?idxno=30201",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=606094",
-    "https://n.news.naver.com/mnews/article/088/0001020587?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044270",
-    "https://n.news.naver.com/mnews/article/009/0005711931?sid=101",
-    "https://www.newsway.co.kr/news/view?ud=2026072411042737165",
-    "https://www.sisajournal-e.com/news/articleView.html?idxno=422648",
-    "https://www.yeongnam.com/web/view.php?key=20260725025457507",
     "https://www.tbc.co.kr/news/view?pno=20260714164554AE02398&id=208870",
     "https://n.news.naver.com/mnews/article/009/0005712165?sid=103",
     "http://www.fieldnews.kr/news/articleView.html?idxno=30208",
@@ -499,17 +491,17 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050163",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282892",
     "http://kor.theasian.asia/archives/412845",
-    "https://www.m-i.kr/news/articleView.html?idxno=1401027"
+    "https://www.m-i.kr/news/articleView.html?idxno=1401027",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282930",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283060",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283077",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282983",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283062",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283035",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050286",
+    "https://www.m-i.kr/news/articleView.html?idxno=1401078"
   ],
   "titles": [
-    "임광현 국세청장, '1150명 규모' 하반기 대규모 승진으로 조직 활력 도모",
-    "\"근속 10년이면 금 5돈\" 포스코 노조 요구…사측, 재무 부담에 거부",
-    "[속보]경북경찰, 안동시청 이어 임시주택 공급업체도 압수수색",
-    "상주시·공영홈쇼핑, 지역 농특산품 판로 확대 협력",
-    "반도체값이 만든 ‘소득 13.2% 급증’…일자리 줄었는데 금리 올린 한은...",
-    "58년간 멈추지 않은 포스코…창사 첫 파업 현실화하나",
-    "현대차는 파업, 포스코는 흔들···제조업 노사협상 시험대",
-    "매몰비용 늪에 빠진 대구시...영남일보 댓글 분석으로 본 ‘소통 부재’...",
     "'AI 어벤저스'로 불황 이긴다",
     "“원자재 투자, 아무나 하면 큰일나요”...가격 보다 중요한 한 가지 [B...",
     "[데스크칼럼] '일한 만큼 보상받는다'…국세청의 인사 혁신",
@@ -1001,6 +993,14 @@
     "강원과학기술원 춘천 설립 밑그림 구체화",
     "인천시, 지도 앱 지명정보 92%까지 정비… 이번엔 '지명 자체' 손본다",
     "'기자'에서 '민간외교가'로…권기식의 한중도시우호협회 10년",
-    "임금·성과급·지방 이전… 삼중고 맞물린 금융권, 대규모 투쟁 먹구름"
+    "임금·성과급·지방 이전… 삼중고 맞물린 금융권, 대규모 투쟁 먹구름",
+    "나주시, 신재생에너지 융복합지원사업 전국 상위 10% 'A등급'",
+    "부산시, 민·관·공 청년직원 교류협력체 '스프링보드' 출범",
+    "원주시, 의료·웰니스 AX 국가사업 본격 시동",
+    "하남시, 6년 숙원 '대사골 진입로' 11월 개통",
+    "광주 군공항 이전 전 반도체 팹 착공…호남 클러스터 '속도전'",
+    "오세훈 \"재개발·재건축이 서울 주택공급 핵심\"…李대통령 인식 정면 반...",
+    "경북문화관광공사, 하반기 '버스타고 경북관광' 추진",
+    "[기획] 폭염 경보는 풀렸지만… 산업계, 상시 대응체계 전환"
   ]
 }
