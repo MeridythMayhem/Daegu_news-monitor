@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005712643?sid=101",
     "https://www.thepublic.kr/news/articleView.html?idxno=312687",
     "https://www.mhns.co.kr/news/articleView.html?idxno=754545",
     "https://www.nspna.com/news/?mode=view&newsid=822053",
@@ -499,10 +498,10 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283139",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283140",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283105",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283138"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283138",
+    "https://n.news.naver.com/mnews/article/079/0004177730?sid=102"
   ],
   "titles": [
-    "[단독]금감원 특사경, 한국거래소 압수수색…엘앤에프 불성실공시 의혹...",
     "삼성·SK 턱밑까지 온 CXMT의 '파워'…中 과창판 '잭팟'에 글로벌 메모리...",
     "[인사] 부산국세청, 31일 자 정기인사 발표",
     "금감원 특사경, 한국거래소 공시부 압수수색…엘앤에프 공시 불공정거래...",
@@ -1001,6 +1000,7 @@
     "충남개발공사·한전KDN, 신재생에너지 공동사업 추진",
     "의령군민 1인당 50만원 지급 시작… 첫날 4천114명 신청",
     "부산시, 2028년 제4차 유엔해양총회 개최도시 확정",
-    "12년째 문 닫힌 속초 사조콘도··· '도심 흉물' 전락"
+    "12년째 문 닫힌 속초 사조콘도··· '도심 흉물' 전락",
+    "플랜트건설노조·포스코, 노란봉투법 시행 후 첫 원하청 교섭"
   ]
 }
