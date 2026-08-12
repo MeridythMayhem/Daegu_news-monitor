@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.nspna.com/news/?mode=view&newsid=822279",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3129284",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=555137",
     "https://www.tbc.co.kr/news/view?pno=20260728161110AE03048&id=208989",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2453458",
@@ -499,11 +497,11 @@
     "https://www.namdonews.com/news/articleView.html?idxno=919916",
     "http://www.hellodd.com/news/articleView.html?idxno=112788",
     "http://www.hellodd.com/news/articleView.html?idxno=112795",
-    "https://www.ksmnews.co.kr/news/view.php?idx=617524"
+    "https://www.ksmnews.co.kr/news/view.php?idx=617524",
+    "https://n.news.naver.com/mnews/article/008/0005399272?sid=102",
+    "https://www.ksmnews.co.kr/news/view.php?idx=617527"
   ],
   "titles": [
-    "포항시, AI·에너지·북극항로 연계 미래 성장전략 모색",
-    "엘앤에프, 공시 적법성 강조…압수수색 관련 의혹에 해명",
     "금융노조 iM뱅크대구은행지부, 후원금 1천만원",
     "\"장사 합니다. 제발 와주세요\"",
     "포스코 장인화 '7천명 직고용' 노노갈등 역풍에 파업 가능성 고조",
@@ -1001,6 +999,8 @@
     "[뉴스분석]헌정사 유례 없는 '자치구→市' 전환 갑론을박",
     "AI·휴머노이드 경쟁, 목적은 '제조업'···\"제조 역량 강화 협력을\"",
     "바이오 연구에 로봇을 더하면?···20일 '첨단바이오 협의체' 세미나",
-    "수도권 집값 불안에 지방은 더 깊은 침체…엇박자 부동산 정책"
+    "수도권 집값 불안에 지방은 더 깊은 침체…엇박자 부동산 정책",
+    "외벽 따라 치솟은 불길에 연기 자욱…강남 포스코사거리 건물 화재",
+    "월세 세액공제 한도 1200만원 상향…자율주행 차량 부가세 감면"
   ]
 }
