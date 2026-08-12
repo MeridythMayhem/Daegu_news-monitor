@@ -1,13 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86441",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278835",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278608",
-    "https://www.m-i.kr/news/articleView.html?idxno=1396041",
-    "http://www.ttlnews.com/news/articleView.html?idxno=3129421",
-    "https://n.news.naver.com/mnews/article/382/0001285496?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278684",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278766",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278867",
     "https://www.nspna.com/news/?mode=view&newsid=822279",
     "http://www.ttlnews.com/news/articleView.html?idxno=3129284",
@@ -499,17 +491,17 @@
     "https://n.news.naver.com/mnews/article/056/0012236390?sid=100",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283441",
     "https://www.stardailynews.co.kr/news/articleView.html?idxno=545812",
-    "https://m.entertain.naver.com/article/241/0003525080"
+    "https://m.entertain.naver.com/article/241/0003525080",
+    "https://www.hg-times.com/news/articleView.html?idxno=304381",
+    "https://www.yeongnam.com/web/view.php?key=20260812026401824",
+    "https://n.news.naver.com/mnews/article/009/0005720289?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005720286?sid=105",
+    "https://n.news.naver.com/mnews/article/437/0000505873?sid=100",
+    "https://www.namdonews.com/news/articleView.html?idxno=919916",
+    "http://www.hellodd.com/news/articleView.html?idxno=112788",
+    "http://www.hellodd.com/news/articleView.html?idxno=112795"
   ],
   "titles": [
-    "전기산업계 ‘유휴 시험설비’ 공유… 시험 적시성 개선",
-    "목원대, 산학협력 우수사례 경진대회 우수상",
-    "수원특례시, 퇴원환자 일상 복귀 지원 '새빛돌봄스테이션' 운영",
-    "경주시, 원자력연·SK하이닉스와 반도체 방사선 기술 고도화 협력",
-    "포항시, '제14회 환동해 국제심포지엄' 개최… 복합위기 속 미래 발전전...",
-    "전쟁·에너지 위기·AI 시대…포항 미래성장 해법 모색",
-    "영양군, 선바위관광지 가족형 여름 물놀이 명소로 운영",
-    "사천시, 지역 쌀 안정적 판로 확대 업무협약",
     "영종구의회 한창한 부의장, 영종·용유 의료용지 현실적 활용방안 제안",
     "포항시, AI·에너지·북극항로 연계 미래 성장전략 모색",
     "엘앤에프, 공시 적법성 강조…압수수색 관련 의혹에 해명",
@@ -1001,6 +993,14 @@
     "여야, ‘주택 공급 부족’ 여론전…“오세훈 때문” “무책임한 정부”",
     "문경시, 찾아가는 지적민원 현장상담 운영",
     "故 이경표 3주기, 대추나무 맏며느리의 안타까운 별세…그리운 혜숙이 ...",
-    "‘대추나무 사랑걸렸네’ 故이경표, 오늘(12일) 3주기…61세에 떠났다"
+    "‘대추나무 사랑걸렸네’ 故이경표, 오늘(12일) 3주기…61세에 떠났다",
+    "강남구 포스코사거리 인근 건물서 화재...인명피해 없어",
+    "“안전예산 삼킨 무임승차”…대구교통공사, 도시철도 무임수송 국비 보...",
+    "국부펀드 남일 아닙니다…포트폴리오 보기만해도 투자공부 [MK Biz Review]",
+    "AI 싫어하는 미국인들…“장밋빛 미래는 기업들 얘기고” [특파원 인사...",
+    "이 대통령, '정책 민심' 정면 돌파? \"부처 간 엇박자 아냐\"",
+    "[뉴스분석]헌정사 유례 없는 '자치구→市' 전환 갑론을박",
+    "AI·휴머노이드 경쟁, 목적은 '제조업'···\"제조 역량 강화 협력을\"",
+    "바이오 연구에 로봇을 더하면?···20일 '첨단바이오 협의체' 세미나"
   ]
 }
