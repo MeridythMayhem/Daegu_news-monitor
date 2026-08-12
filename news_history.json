@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026072700019&story_seq=0&soCode=114&socttSn=NS2026072700019&socttSeq=0",
-    "https://www.kbmaeil.com/article/20260727500470",
-    "https://www.hidomin.com/news/articleView.html?idxno=714917",
-    "https://www.kyeongin.com/article/1767986",
-    "https://www.eroun.net/news/articleView.html?idxno=86357",
-    "https://www.etoday.co.kr/news/view/2607990",
-    "https://n.news.naver.com/mnews/article/056/0012225915?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005713006?sid=101",
     "https://www.ksmnews.co.kr/news/view.php?idx=614858",
     "https://www.ksmnews.co.kr/news/view.php?idx=615094",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283468",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283484",
     "https://n.news.naver.com/mnews/article/422/0000894990?sid=100",
-    "http://www.celuvmedia.com/article.php?aid=1786509912525620005"
+    "http://www.celuvmedia.com/article.php?aid=1786509912525620005",
+    "https://www.smartbizn.com/news/articleView.html?idxno=151062",
+    "https://www.newsmin.co.kr/news/135911/",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283220",
+    "http://www.ddanzi.com/891504622",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050787",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050761",
+    "https://m.entertain.naver.com/article/477/0000623090"
   ],
   "titles": [
-    "[매일신문 조규덕 기자의 위클리TK] 삼성 구미 19조 투자, 조직 개편",
-    "“2100억 부채부터 푼다”…대백 새 주인, 경영 정상화 청사진 제시",
-    "[단독]반쪽 효과' 대통령배 전국고교야구대회 포항 유치 책임론 확산",
-    "[인사] 인천지방국세청",
-    "포스코노조, 중앙노동위에 쟁의조정 신청…\"성과 쏠림·투자 후순위 구...",
-    "포스코 노조, 중노위 조정 신청…이르면 내달 6일 조정 종료",
-    "[이슈브리핑] 주인 바뀌는 대백 외",
     "“30억 넘는 집 세금 더 낼까”…세제개편 최대 수혜자·피해자는 [제네...",
     "&lt;창간 21주년 축사&gt; 임인환 대구시의회 의장",
     "&lt;창간 21주년 축사&gt; 김희수 경북도의회 의장",
@@ -1001,6 +994,13 @@
     "부산시, 빈 점포 임대료 지원 본격화…부산은행 5억 후원",
     "무주군, '1종 대형 운전면허 취득 과정' 교육생 모집",
     "與전대 '마지막 토론회' 예정…여야, 법안 신경전도",
-    "'대추나무 사랑걸렸네' 맏며느리 故 이경표, 오늘(12일) 3주기"
+    "'대추나무 사랑걸렸네' 맏며느리 故 이경표, 오늘(12일) 3주기",
+    "[단독] 포스코이앤씨, PJ 계약직 연봉 조정 논란···\"10년 미만 경력자...",
+    "포스코 사내하청 노동자 61명 근로자지위확인소송 제기",
+    "용인특례시, 반도체 기업 네트워크·투자설명회 개최",
+    "조선 최고 투자가였던 남자 下 : 400억 부자에서 거지가 된 사연(feat. 일...",
+    "포항시의회 민생경제특위, 21일 활동계획 확정…본격 가동",
+    "홍가네식품, 울릉군에 1억원 상당 건강식품·성금 2000만원 기탁",
+    "'대추나무' 맏며느리 故이경표 3주기…미스춘향 출신 아름다운 미소"
   ]
 }
