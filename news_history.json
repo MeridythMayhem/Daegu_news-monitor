@@ -1,8 +1,5 @@
 {
   "urls": [
-    "http://www.srtimes.kr/news/articleView.html?idxno=208424",
-    "https://n.news.naver.com/mnews/article/014/0005553529?sid=101",
-    "http://www.4th.kr/news/articleView.html?idxno=2115335",
     "http://www.smarttimes.co.kr/news/articleView.html?idxno=47655",
     "https://n.news.naver.com/mnews/article/422/0000889368?sid=101",
     "https://n.news.naver.com/mnews/article/056/0012225795?sid=101",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/079/0004177829?sid=102",
     "https://n.news.naver.com/mnews/article/417/0001155100?sid=102",
     "https://www.m-i.kr/news/articleView.html?idxno=1401278",
-    "https://www.hidomin.com/news/articleView.html?idxno=716944"
+    "https://www.hidomin.com/news/articleView.html?idxno=716944",
+    "https://www.taxtimes.co.kr/news/article.html?no=276379",
+    "https://n.news.naver.com/mnews/article/421/0009109688?sid=102",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=608169"
   ],
   "titles": [
-    "엘앤에프 '테슬라 계약 감액' 의혹…금감원 특사경, 거래소 압수수색",
-    "금감원 특사경, 엘앤에프 정정공시 관련 수사...거래소 압수수색",
-    "금감원 특사경, 거래소 압수수색..엘앤에프 '테슬라 계약' 수사",
     "금감원 특사경, 한국거래소 압수수색…엘앤에프 '테슬라 계약 정정' 수...",
     "금감원 특사경, 엘앤에프 정정공시 관련 거래소 압수수색",
     "금감원 특사경, 엘앤에프 ‘2호 인지수사’…4조 테슬라 계약 번복 의혹",
@@ -1001,6 +998,9 @@
     "경주 천북 공장 폐기물 더미서 화재…20t 태우고 4시간 만에 진화",
     "경북청소년수련원 행사 운영업체 선정 불공정 논란",
     "LG경북협의회, 여성 청소년 100명에 여성용품 지원",
-    "경주 공장 폐기물 더미서 화재… 인명피해 없어"
+    "경주 공장 폐기물 더미서 화재… 인명피해 없어",
+    "임광현 국세청장 \"반사회적 탈세·체납, 어디에도 설 곳 없다\"",
+    "인사하는 국세청장",
+    "포스코 노조 \"휴가까지 통제\"…임단협 갈등 고조"
   ]
 }
