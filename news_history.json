@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/047/0002524131?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279662",
     "https://n.news.naver.com/mnews/article/088/0001021427?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279665",
@@ -499,10 +498,10 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284006",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283877",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283871",
-    "http://www.ikld.kr/news/articleView.html?idxno=338976"
+    "http://www.ikld.kr/news/articleView.html?idxno=338976",
+    "https://www.ksmnews.co.kr/news/view.php?idx=617567"
   ],
   "titles": [
-    "기사 제목에 '김건희 여사' 쓴 언론들, 어딘지 살펴봤더니",
     "조달청, 조달자율화 시범사업 상반기 점검회의",
     "DGIST AI대학, '피지컬AI·메디컬AI·AI-X' 3개 학과로 출범 확정",
     "대전시, 강도 높은 재정 혁신 추진…미래 투자로 전환",
@@ -1001,6 +1000,7 @@
     "고양 창릉 '뉴홈' 전용모기지 배제 논란… 사전청약자 반발 확산",
     "영덕군, 무인민원발급기 외국어 지원 시범 운영",
     "함양군, 군유지 845필지 합병 완료…재산관리 효율 높여",
-    "한국지역난방공사·굿네이버스 글로벌 임팩트·한국에너지재단, '맞손'..."
+    "한국지역난방공사·굿네이버스 글로벌 임팩트·한국에너지재단, '맞손'...",
+    "대구, AI·바이오 결합 ‘신약개발 거점’ 구축"
   ]
 }
