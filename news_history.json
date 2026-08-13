@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279251",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279174",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279275",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045921",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045920",
     "https://n.news.naver.com/mnews/article/031/0001045802?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279265",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/079/0004178225?sid=102",
     "https://n.news.naver.com/mnews/article/214/0001517606?sid=102",
     "https://n.news.naver.com/mnews/article/657/0000054315?sid=102",
-    "https://www.kbmaeil.com/article/20260813500021"
+    "https://www.kbmaeil.com/article/20260813500021",
+    "https://n.news.naver.com/mnews/article/056/0012236930?sid=102",
+    "https://n.news.naver.com/mnews/article/052/0002392694?sid=102",
+    "https://n.news.naver.com/mnews/article/003/0014124622?sid=102",
+    "http://www.metroseoul.co.kr/article/20260812500531"
   ],
   "titles": [
-    "조달청, 기술·품질 뛰어난 중소기업 39개 제품...우수조달물품 지정",
-    "인제군, 소양호 호수산책로 공정률 50% 돌파",
-    "양주시, LH와 택지개발 현안 협력 논의",
-    "포항시, 동북권 ICT콤플렉스 개소…AI·SW 인재 양성 거점 출범",
     "포항시, 민간임대주택 100세대 사회공헌형 공급 추진",
     "포항 광명산단 공장 철거현장서 50대 작업자 추락사…경찰, 사고 경위 조...",
     "의령군, 민선 9기 첫 추경 6천219억 원 확정",
@@ -1001,6 +997,10 @@
     "대구 서구 섬유가공업체 공장 화재 3시간여 만에 진화",
     "대구 공장 건물서 화재‥2시간 만에 큰 불길 잡아",
     "대구 서구 섬유 가공 업체 화재···1시간 40여 분 만에 큰 불길 잡혀",
-    "대구 서구 섬유공장 화재…소방 1시간 44분 만에 큰불 잡아"
+    "대구 서구 섬유공장 화재…소방 1시간 44분 만에 큰불 잡아",
+    "대구 서구 이현동 화재…공장 한 동 전소",
+    "대구 이현동 섬유공장 화재...3시간여 만에 꺼져",
+    "대구공장 불, 사상없어…경북 육교추락 30대女 의식없어",
+    "금속노조 포항지부, 포스코 하청노동자 직접고용 촉구…2차 하청 61명 집..."
   ]
 }
