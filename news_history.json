@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045825",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045841",
-    "https://www.jjan.kr/article/20260729500009",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279237",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279251",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279174",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279275",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/021/0002811074?sid=102",
     "https://n.news.naver.com/mnews/article/001/0016248274?sid=102",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081022",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050765"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050765",
+    "https://n.news.naver.com/mnews/article/079/0004178225?sid=102",
+    "https://n.news.naver.com/mnews/article/214/0001517606?sid=102",
+    "https://n.news.naver.com/mnews/article/657/0000054315?sid=102",
+    "https://www.kbmaeil.com/article/20260813500021"
   ],
   "titles": [
-    "경북도, 북부권에 'AI 역노화 산업 거점' 조성 추진",
-    "상주시, 2027년 국가예산 확보 위해 중앙부처 잇단 방문",
-    "업무활동비 횡령 ‘경징계’, 한국수력원자력 자회사 ‘시큐텍’ 제 식...",
-    "KT&amp;G-성동구청, 사회혁신 청년 창업가 발굴∙육성 상호 협력",
     "조달청, 기술·품질 뛰어난 중소기업 39개 제품...우수조달물품 지정",
     "인제군, 소양호 호수산책로 공정률 50% 돌파",
     "양주시, LH와 택지개발 현안 협력 논의",
@@ -1001,6 +997,10 @@
     "[속보]공장 1개동 전소…새벽 대구 서구 섬유가공업체서 화재",
     "대구 서구 섬유가공업체서 화재…공장 1개 동 전소",
     "포항 항사댐, 2028년 초 착공 목표…설계·행정절차 속도 낸다",
-    "경주 보문관광단지 복합시설지구 자문 앞두고 '특혜·졸속 심의' 논란행"
+    "경주 보문관광단지 복합시설지구 자문 앞두고 '특혜·졸속 심의' 논란행",
+    "대구 서구 섬유가공업체 공장 화재 3시간여 만에 진화",
+    "대구 공장 건물서 화재‥2시간 만에 큰 불길 잡아",
+    "대구 서구 섬유 가공 업체 화재···1시간 40여 분 만에 큰 불길 잡혀",
+    "대구 서구 섬유공장 화재…소방 1시간 44분 만에 큰불 잡아"
   ]
 }
