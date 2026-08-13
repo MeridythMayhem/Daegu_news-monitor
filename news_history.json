@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279662",
-    "https://n.news.naver.com/mnews/article/088/0001021427?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279665",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046355",
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030328",
     "https://www.m-i.kr/news/articleView.html?idxno=1397302",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283877",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283871",
     "http://www.ikld.kr/news/articleView.html?idxno=338976",
-    "https://www.ksmnews.co.kr/news/view.php?idx=617567"
+    "https://www.ksmnews.co.kr/news/view.php?idx=617567",
+    "https://n.news.naver.com/mnews/article/024/0000107526?sid=110",
+    "https://www.yeongnam.com/web/view.php?key=20260813022021953",
+    "https://www.yeongnam.com/web/view.php?key=20260813027522095"
   ],
   "titles": [
-    "조달청, 조달자율화 시범사업 상반기 점검회의",
-    "DGIST AI대학, '피지컬AI·메디컬AI·AI-X' 3개 학과로 출범 확정",
-    "대전시, 강도 높은 재정 혁신 추진…미래 투자로 전환",
     "[인사] 한국은행",
     "농협중앙회 지방 이전, 법적 문제점 있다",
     "경산시, 공공 배달앱 '먹깨비'이용 '경삼쿠폰' 운영",
@@ -1001,6 +998,9 @@
     "영덕군, 무인민원발급기 외국어 지원 시범 운영",
     "함양군, 군유지 845필지 합병 완료…재산관리 효율 높여",
     "한국지역난방공사·굿네이버스 글로벌 임팩트·한국에너지재단, '맞손'...",
-    "대구, AI·바이오 결합 ‘신약개발 거점’ 구축"
+    "대구, AI·바이오 결합 ‘신약개발 거점’ 구축",
+    "파업 앞둔 포스코, K제조업 ‘풍전등화’ [취재수첩]",
+    "대구 자치구 첫 독자 ‘지역화폐’… 수성구, 발행 절차 전격 착수",
+    "[뉴스後] ‘차도 위 버스정류장’ 입법 지연 …대구시, 안전 강화 직접..."
   ]
 }
