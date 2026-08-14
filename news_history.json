@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005714580?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279544",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279632",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279535",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279532",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279549",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279540",
     "http://mcnews.co.kr/86461",
@@ -499,14 +494,14 @@
     "https://www.kyosu.net/news/articleView.html?idxno=208891",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051345",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051436",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=59672"
+    "https://www.sejungilbo.com/news/articleView.html?idxno=59672",
+    "https://www.theguru.co.kr/news/article.html?no=105843",
+    "https://n.news.naver.com/mnews/article/025/0003544449?sid=102",
+    "https://www.m-i.kr/news/articleView.html?idxno=1402498",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051506",
+    "https://www.youthdaily.co.kr/news/article.html?no=225168"
   ],
   "titles": [
-    "[착한리더가 세상을 바꾼다] \"민들레 씨앗처럼 나눔이 확산되기를\"",
-    "진주시, 중진공과 중소기업 재직자 우대저축공제 협약",
-    "경산시, 화장품특화단지 첫 입주기업 바이노텍 공장 준공",
-    "청송군, 청송사랑화폐 할인율 8월 3일부터 15%로 조정",
-    "하동군, 횡천강 다슬기 소득형 자원화 시범사업 추진",
     "영천시, 기업인 현장소통 간담회 열고 애로사항 청취",
     "청도군 본가 총각김치, 대한민국 김치품평회 대상",
     "‘1·29 주택공급 방안’ 지역서 투기의심거래… 346건 적발",
@@ -1001,6 +996,11 @@
     "대구한의대, 과테말라서 85.5만달러 수출 협력…6개 기업 MOU 체결",
     "금오공대·영남대, 반도체 인재양성 성과 점검…산업계 의견 청취",
     "대구 서구 신입 관제원, 새벽 공장 화재 조기 발견",
-    "대구국세청, 하반기 세무서장 회의…\"불성실 신고·탈루 엄정 대응\""
+    "대구국세청, 하반기 세무서장 회의…\"불성실 신고·탈루 엄정 대응\"",
+    "남미 리튬 리스크 '해소' 포스코, 아르헨 광산 노조와 극적 임금 타결로...",
+    "[기고] 산업수도 창원의 미래, 고속철도에서 시작해야 한다",
+    "예천군, 경북도청신도시 활성화 박차…행정협의체 가동 등 적극 행정",
+    "경산시, 중앙부처 방문해 미래산업·교통 인프라 국비 지원 요청",
+    "농지 임대 갈등에 흉기 난동…청도 노인회관 2명 중경상"
   ]
 }
