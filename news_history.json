@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3657622",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281709",
-    "https://www.tfmedia.co.kr/news/article.html?no=206288",
-    "https://www.taxwatch.co.kr/article/tax/2026/08/06/0003/naver",
     "http://www.intn.co.kr/news/articleView.html?idxno=2052397",
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071357",
     "https://n.news.naver.com/mnews/article/021/0002809703?sid=102",
@@ -499,13 +495,13 @@
     "http://www.metroseoul.co.kr/article/20260818500585",
     "https://www.hidomin.com/news/articleView.html?idxno=717655",
     "https://www.tfmedia.co.kr/news/article.html?no=206550",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=862094"
+    "https://www.dynews.co.kr/news/articleView.html?idxno=862094",
+    "https://n.news.naver.com/mnews/article/056/0012239707?sid=101",
+    "http://www.kjdaily.com/article.php?aid=1787052881684773036",
+    "https://www.ksmnews.co.kr/news/view.php?idx=618139",
+    "https://www.ksmnews.co.kr/news/view.php?idx=617983"
   ],
   "titles": [
-    "iM뱅크장학문화재단, 경북 다자녀 학생 100명에 8천만원 장학금 전달",
-    "부산도시공사, LH와 스마트건설 협력체계 구축",
-    "국세청, 26년 하반기 6급 이하 수시 인사...'승진 1150명' 단행",
-    "\"10년 넘게 7급은 문제\"...인사로 답한 임광현 국세청장",
     "[인사] 국세청, 2026하 수시 6급 승진자(8월 11일자)",
     "대구공공시설관리공단-대한산업안전協 '중대재해 예방' 총력",
     "iM뱅크장학문화재단, 경북지역 다자녀가정 자녀 100명에 장학금 전달",
@@ -1001,6 +997,10 @@
     "포스코 노사 임단협 조정 중지…노조 쟁의권 확보",
     "포스코 첫 파업하나 중노위 조정도 결렬",
     "포스코, 2026년 임단협 최종 결렬...노조, 쟁의권 확보",
-    "10월 출범 중수청 2874명 규모… 7대 범죄 수사·보완수사 전담"
+    "10월 출범 중수청 2874명 규모… 7대 범죄 수사·보완수사 전담",
+    "포스코 노사, 최종 조정 결렬…파업 기로",
+    "기후위기 시대, 지속 가능·상생 모델 ‘햇빛소득’ 주목",
+    "포항시, 경북대 함께 AI·빅데이터 실무 인재 배출",
+    "경북, AI·메타버스 영상제 글로벌 도약 전략 발표…97개국 3403편 출품"
   ]
 }
