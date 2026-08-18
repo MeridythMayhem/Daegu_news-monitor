@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281612",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281613",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281608",
-    "https://www.taxtimes.co.kr/news/article.html?no=276310",
-    "https://www.taxtimes.co.kr/news/article.html?no=276309",
-    "https://www.taxtimes.co.kr/news/article.html?no=276308",
-    "https://www.taxtimes.co.kr/news/article.html?no=276307",
-    "https://www.taxtimes.co.kr/news/article.html?no=276306",
     "https://www.taxtimes.co.kr/news/article.html?no=276305",
     "https://www.taxtimes.co.kr/news/article.html?no=276304",
     "http://www.intn.co.kr/news/articleView.html?idxno=2052388",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284746",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284725",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284741",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284860"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284860",
+    "https://n.news.naver.com/mnews/article/050/0000109776?sid=101",
+    "https://n.news.naver.com/mnews/article/088/0001024104?sid=102",
+    "https://n.news.naver.com/mnews/article/009/0005722565?sid=101",
+    "https://www.yeongnam.com/web/view.php?key=20260818021522706",
+    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026081800053&story_seq=0&soCode=114&socttSn=NS2026081800053&socttSeq=0",
+    "https://n.news.naver.com/mnews/article/009/0005722573?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284961",
+    "https://n.news.naver.com/mnews/article/006/0000137282?sid=102"
   ],
   "titles": [
-    "여수세계섬박람회 조직위, 42개 언어 AI 통역 서비스 도입",
-    "예산군, 후계농업경영인 9농가에 29억 원 배정",
-    "예산군, 내포역세권 토지거래허가구역 2년 재지정",
-    "국세청 6급 이하 직원 승진인사 명단[인천지방국세청]",
-    "국세청 6급 이하 직원 승진인사 명단[대전지방국세청]",
-    "국세청 6급 이하 직원 승진인사 명단[광주지방국세청]",
-    "국세청 6급 이하 직원 승진인사 명단[대구지방국세청]",
-    "국세청 6급 이하 직원 승진인사 명단[부산지방국세청]",
     "국세청 6급 이하 직원 승진인사 명단[국세공무원교육원]",
     "국세청 6급 이하 직원 승진인사 명단[국세상담센터]",
     "국세청, 6급 이하 1150명 수시 승진 인사 단행",
@@ -1001,6 +993,14 @@
     "안동시, 제2회 추경 1조9천500억원 편성",
     "진주시, 홍콩 국제식품박람회서 50만달러 규모 MOU 체결",
     "울산시, 시내버스 정류소 명칭 129곳 유상판매",
-    "울주군, 2026년산 울주배 미국 수출 시작"
+    "울주군, 2026년산 울주배 미국 수출 시작",
+    "창사 58년 만에 첫 파업 위기…포스코 노사 중노위 조정 중지",
+    "포스코 노조 파업권 확보…창사 58년 만에 첫 파업 위기 직",
+    "포스코 창사 이래 첫 파업 초읽기…노조 “파업, 실행 가능한 카드”",
+    "[산소카페 청송의 맛⑩] 청송고추",
+    "[매일신문 조규덕 기자의 위클리TK] 구미·칠곡, 서울과 상생 협력 등",
+    "일본 연말 시총 1위를 AI에게 물었더니…일본 경제 시나리오 3가지로 갈...",
+    "與 사무총장에 한정애…정책위의장에 권칠승 임명",
+    "김민석 지도부에 \"영·호남, 수도권·비수도권 가르지 않아야\" 주문한 곳..."
   ]
 }
