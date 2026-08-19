@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/002/0002451315?sid=102",
-    "https://n.news.naver.com/mnews/article/003/0014113522?sid=102",
-    "https://www.idaegu.com/news/articleView.html?idxno=664880",
-    "https://www.youthdaily.co.kr/news/article.html?no=224684",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048739",
-    "https://n.news.naver.com/mnews/article/020/0003739193?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048759",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048488",
     "https://www.gukjenews.com/news/articleView.html?idxno=3658273",
     "https://www.aflnews.co.kr/news/articleView.html?idxno=325987",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59570",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285039",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285048",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285050",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052598"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052598",
+    "https://n.news.naver.com/mnews/article/374/0000528164?sid=101",
+    "https://news.mtn.co.kr/news-detail/2026081911044135100",
+    "https://n.news.naver.com/mnews/article/016/0002685586?sid=101",
+    "https://n.news.naver.com/mnews/article/014/0005563401?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285120",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285112",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285088",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285107"
   ],
   "titles": [
-    "iM뱅크장학문화재단, ‘2026년 경상북도 다둥이장학금 전달식’",
-    "[대구·경북 조간 헤드라인]",
-    "국내 농기계 1위 대동, 세 번째 정부 선정 '유턴 기업'…중국, 사업 철수",
-    "넥슨, 대구 게임산업 육성…'넥슨 리플레이' 지역 개발사 지원 확대",
-    "거창 가북면 신임 면장에 김미정 취임…현장 소통 중심 행정 본격화",
-    "‘K-배터리 청소년 아카데미’ 오늘까지 열려",
-    "포항 AI 전용 데이터센터, 경북 지역활성화 투자펀드 3호 선정",
-    "구미상의, 삼성 갤럭시 신제품 출시 기념 '갤럭시 런칭 페스타' 개최",
     "포스코, 지역 맞춤 지원 확대…산업위기 대응에 587억 효과",
     "농협경북본부, 중대재해 예방 위한 사업장 현장 안전점검 실시",
     "임광현 국세청장 \"묵묵히 고생하는 직원에게 최고의 보상은 결국 승진\"",
@@ -1001,6 +993,14 @@
     "'계절마다 새로운 테마'...시흥 웨이브파크, 사계절 콘텐츠 플랫폼 전환",
     "여수·순천·광양 3개 시의회, 동부권 균형성장 강력 촉구",
     "인천 검단구·서해구, 한국환경공단 이전 반대 공동 대응",
-    "구미 본사 100대 기업, 지난해 매출 16조9569억원"
+    "구미 본사 100대 기업, 지난해 매출 16조9569억원",
+    "현대차 노조, 10년 만에 '전면 파업'…포스코 58년 무파업도 흔들",
+    "포스코 노조, 9월 부분파업 준비 돌입…'58년 무분규' 위기",
+    "재계 ‘파업 암운’…현대차 전면 돌입, 포스코 창사 첫 위기",
+    "로보티즈, 中 휴머노이드 훈풍에 우즈벡 신공장 기대…이수페타시스, 수...",
+    "[기획특집] 오태완號 \"조건보다 결과…의령을 '경남의 큰 중심'으로\"",
+    "속초시, 1분기 생활인구 도내 '2위'",
+    "서대문구의회 김덕현 위원장, 암환자 가발 구입비 최대 70만원 지원 근거...",
+    "예산군, 향후 5년 인구감소 대응 청사진 마련"
   ]
 }
