@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1401002",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050084",
-    "https://www.m-i.kr/news/articleView.html?idxno=1400980",
-    "https://www.tbc.co.kr/news/view?pno=20260811112741AE03746&id=209596",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282897",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282905",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282873",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282870",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282866",
@@ -499,15 +493,15 @@
     "https://www.yeongnam.com/web/view.php?key=20260819028462998",
     "https://n.news.naver.com/mnews/article/052/0002395485?sid=101",
     "https://n.news.naver.com/mnews/article/422/0000897394?sid=161",
-    "https://ysmbc.co.kr/NewsArticle/1532979"
+    "https://ysmbc.co.kr/NewsArticle/1532979",
+    "https://n.news.naver.com/mnews/article/003/0014136809?sid=102",
+    "https://www.yeongnam.com/web/view.php?key=20260819029221499",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285191",
+    "https://slownews.kr/165166",
+    "https://www.m-i.kr/news/articleView.html?idxno=1403608",
+    "https://monthly.chosun.com/news/articleView.html?idxno=71099"
   ],
   "titles": [
-    "경주시, 갑산지구 배수시설 개선사업 재추진",
-    "구미시, 창업·투자 생태계 키운다…전문가 초청 육성방안 모색",
-    "인천 가족친화인증기업 근로자, 부산 5개 제휴사 할인 혜택",
-    "아들 건너뛰고 손자에게...경산 아진산업 승계 시동?",
-    "충남도, 청년 창업 지원으로 지역 브랜드 전국 경쟁력 키운다",
-    "충남도, AI 국방 산업 앞장선다",
     "당진시, AX 선도도시 구현 위해 정책특별보좌관 2명 위촉",
     "대전정보문화산업진흥원 '2026년 인디 게임잼' 성료",
     "KAIST, 제18대 배충식 총장 취임… AI 시대 60주년 발전 전략 제시",
@@ -1001,6 +995,12 @@
     "[현대차 파업] 대구경북 부품업계 직격탄…2차 협력사 공장가동 중단 불...",
     "현대차, 10년 만에 전면파업...포스코, 창사 이래 첫 파업하나",
     "현대차 10년 만의 전면파업 예고…포스코도 하투",
-    "포스코 노조, 쟁의권 확보...\"사측과 추가 협상 이어갈 것\""
+    "포스코 노조, 쟁의권 확보...\"사측과 추가 협상 이어갈 것\"",
+    "[대구·경북 조간 헤드라인]",
+    "[흔들리는 공연도시 대구] 국내 최초 오페라 ‘제작극장’ 명성 휘청…...",
+    "포항시, 첫 직업계고 취업박람회 28일 개최",
+    "세계적 민폐, 40조 달러 돌파한 미국 정부 부채: 슬로우레터 8월20일.",
+    "대구도시개발공사, 창사 38주년 기념식…\"주요 사업 차질 없이 추진\"",
+    "[김태완의 인간탐험] 권오을 국가보훈부 장관"
   ]
 }
