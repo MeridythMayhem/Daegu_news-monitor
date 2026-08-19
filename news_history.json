@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.hellodd.com/news/articleView.html?idxno=112778",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=52071",
     "https://www.m-i.kr/news/articleView.html?idxno=1401002",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050084",
     "https://www.m-i.kr/news/articleView.html?idxno=1400980",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/050/0000109895?sid=101",
     "https://www.yeongnam.com/web/view.php?key=20260819022343071",
     "https://www.yeongnam.com/web/view.php?key=20260819028462998",
-    "https://n.news.naver.com/mnews/article/052/0002395485?sid=101"
+    "https://n.news.naver.com/mnews/article/052/0002395485?sid=101",
+    "https://n.news.naver.com/mnews/article/422/0000897394?sid=161",
+    "https://ysmbc.co.kr/NewsArticle/1532979"
   ],
   "titles": [
-    "[조간브리핑] \"AI 개발 중단하라\" 샌더스의 경고부터 저커버그의 개방형...",
-    "\"메가박스 살아야 지역 극장과 한국 영화도 살아\"",
     "경주시, 갑산지구 배수시설 개선사업 재추진",
     "구미시, 창업·투자 생태계 키운다…전문가 초청 육성방안 모색",
     "인천 가족친화인증기업 근로자, 부산 5개 제휴사 할인 혜택",
@@ -1001,6 +999,8 @@
     "“포스코가 어쩌다”...58년 ‘무파업 신화’ 흔들",
     "경영권 매각 연기·부채 3천억… 대구백화점 매각 쉽지 않네",
     "[현대차 파업] 대구경북 부품업계 직격탄…2차 협력사 공장가동 중단 불...",
-    "현대차, 10년 만에 전면파업...포스코, 창사 이래 첫 파업하나"
+    "현대차, 10년 만에 전면파업...포스코, 창사 이래 첫 파업하나",
+    "현대차 10년 만의 전면파업 예고…포스코도 하투",
+    "포스코 노조, 쟁의권 확보...\"사측과 추가 협상 이어갈 것\""
   ]
 }
