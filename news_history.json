@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/029/0003041101?sid=101",
-    "https://n.news.naver.com/mnews/article/088/0001022516?sid=102",
-    "http://mcnews.co.kr/86489",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281819",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281691",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281814",
-    "https://www.m-i.kr/news/articleView.html?idxno=1399746",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=849634",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080492",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1281708",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/025/0003545242?sid=101",
     "https://www.tbc.co.kr/news/view?pno=20260818093654AE04082&id=209917",
     "https://www.tbc.co.kr/news/view?pno=20260818142417AE04112&id=209918",
-    "https://www.pennmike.com/news/articleView.html?idxno=125909"
+    "https://www.pennmike.com/news/articleView.html?idxno=125909",
+    "https://n.news.naver.com/mnews/article/586/0000136221?sid=101",
+    "http://www.srtimes.kr/news/articleView.html?idxno=210329",
+    "https://www.seoultimes.news/news/article.html?no=2000098916",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284989",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284982",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285002",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285011"
   ],
   "titles": [
-    "iM뱅크장학문화재단, 경북 다자녀 가정에 8000만원 전달…8년째 상생 행...",
-    "포항 영일만 세계적 해양레저관광도시 대전환 추진",
-    "[기고] 그늘 없는 폭염 현장, 쉬면 손해 보는 노동자들",
-    "전남광주 동구, 홍콩에 충장 주얼리 홍보관 운영",
-    "건양대, 블록체인 특성화대학 지원사업 최종 선정",
-    "부산시, 개항기 외교문서 번역 '국역조선사무서6' 발간",
-    "코오롱인더, 침구부터 車 내장재까지…프리미엄 소재 확대",
     "[경북도 소식] 대경권 말산업 활성화 MOU·IBK-에코프로 벤처펀드 출범·...",
     "함께 키우는 미래…iM뱅크장학문화재단, 다둥이 가정에 장학금 전달",
     "안동시, 지방세입 체납관리단 운영…복지 연계 강화",
@@ -1001,6 +994,13 @@
     "물 사러 버스타고 걸어서 50분…‘쇼핑 사막’ 한국서 벌어진 일",
     "[단독]\"피해자 돈 누가 챙겼나\"...통장 확인했더니",
     "'김민석 호' 출범...TK 현안에 최대 변수",
-    "박민영 \"자생력없는 기성언론 대신 매·펜·뉴의 시대를 열어야 한다\" [..."
+    "박민영 \"자생력없는 기성언론 대신 매·펜·뉴의 시대를 열어야 한다\" [...",
+    "포스코, 창사 58년 만에 첫 '파업' 가나…노조 쟁의권 확보",
+    "포스코, 중노위 조정 중지…58년 만에 '첫 파업' 갈림길",
+    "[이슈] 현대차는 전면파업·포스코는 쟁의권…SK하이닉스는 잠정합의",
+    "동작구 '정책 아이디어리그' 참여자 모집",
+    "노원구, 재건축 제도개선 결실 맺다",
+    "강남구, 세정동행단 사전방문예약제 도입",
+    "트럼프, 올가을 김정은과 정상회담 추진…11월 APEC 계기 만남 거론"
   ]
 }
