@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/057/0001963422?sid=102",
-    "https://n.news.naver.com/mnews/article/056/0012236812?sid=102",
     "https://n.news.naver.com/mnews/article/052/0002392645?sid=102",
     "https://n.news.naver.com/mnews/article/021/0002811074?sid=102",
     "https://n.news.naver.com/mnews/article/001/0016248274?sid=102",
@@ -499,11 +497,11 @@
     "https://www.kyeongin.com/article/1769345",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053132",
     "https://n.news.naver.com/mnews/article/023/0003994121?sid=162",
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=87408"
+    "https://www.mediafine.co.kr/news/articleView.html?idxno=87408",
+    "https://www.socialvalue.kr/news/view/1065574729633169",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285847"
   ],
   "titles": [
-    "대구 서구 섬유가공업체서 원인미상 화재…공장 1개 동 모두 불타",
-    "대구 이현동 섬유공장 화재…1시간 40분 만에 초진",
     "대구 이현동 섬유공장 화재...1시간 40분 만에 초진",
     "[속보]공장 1개동 전소…새벽 대구 서구 섬유가공업체서 화재",
     "대구 서구 섬유가공업체서 화재…공장 1개 동 전소",
@@ -1001,6 +999,8 @@
     "[영상+] 제4회 전국 8도 로컬푸드박람회… 수원서 즐기는 밥상 위 ‘팔도...",
     "영천 자동차부품기업 혜성, 100억원 재투자…하이브리드 부품 생산 확대",
     "“저속자동차 개발, 새 먹거리 키우겠다”",
-    "86세 사미자  \"소년 이재용 얼굴 빨개져 이부진 손 잡고\""
+    "86세 사미자  \"소년 이재용 얼굴 빨개져 이부진 손 잡고\"",
+    "한국가스공사, 을지연습 국가중요시설 방호 및 화재대응 위해 드론·테...",
+    "성동구, 전국 일자리대상 '최우수상'…서울 유일 12년 연속 수상"
   ]
 }
