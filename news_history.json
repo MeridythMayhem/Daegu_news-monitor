@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/022/0004150675?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050967",
-    "https://www.slist.kr/news/articleView.html?idxno=758497",
-    "https://www.yeongnam.com/web/view.php?key=20260813028192011",
-    "http://www.metroseoul.co.kr/article/20260813500363",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051184",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051163",
-    "http://www.queen.co.kr/news/articleView.html?idxno=461698",
     "https://www.koscaj.com/news/articleView.html?idxno=325824",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283775",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1283880",
@@ -499,17 +491,17 @@
     "http://www.finomy.com/news/articleView.html?idxno=259695",
     "http://www.sisacast.kr/news/articleView.html?idxno=99030",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285876",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285852"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285852",
+    "https://n.news.naver.com/mnews/article/081/0003672403?sid=102",
+    "https://n.news.naver.com/mnews/article/003/0014140923?sid=102",
+    "https://n.news.naver.com/mnews/article/119/0003123940?sid=101",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3670976",
+    "https://www.gokorea.kr/news/articleView.html?idxno=875883",
+    "https://n.news.naver.com/mnews/article/002/0002452997?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285953",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285971"
   ],
   "titles": [
-    "대구 서구 섬유공장서 화재… 3시간 반 만에 완진",
-    "영천시, 문내외지구 165곳에 'QR코드 토지경계 안내판' 설치",
-    "슬로우베드 대구점→씰리침대, 여주 신공장 개설",
-    "[속보] 정부 “신규택지 지정 및 수도권 주택 공급 방침”",
-    "iM뱅크, 한국부동산원과 민간 기업 에너지 감축 지원 MOU",
-    "문경~상주~김천 철도 노선 주민설명회 '파행'…창동 주민들 노선 변경 ...",
-    "경북 건의 '이차전지 재자원화 산단 입주 규제개선' 정부 대책 반영",
-    "iM뱅크·한국부동산원, ESG 금융·에너지 감축 협력 MOU 체결",
     "[보라매칼럼] 난수표가 된 부동산 세제",
     "해양심층수산업 고성진흥원, 시제품제작실 본격 운영",
     "삼척시, 에너지 신산업 기업유치 협력관 2명 위촉",
@@ -1001,6 +993,14 @@
     "iM뱅크장학문화재단, DGIST서 장학금 전달식",
     "iM뱅크장학문화재단, 미래인재 육성 위한 대학(원)생 장학금 전달",
     "서초구, 부동산 세제개편안에 2천 461명 구민 의견 재경부에 전달",
-    "[기획특집] 양순임 성북구의장, 기본·원칙·경청·소통·책임으로 성북..."
+    "[기획특집] 양순임 성북구의장, 기본·원칙·경청·소통·책임으로 성북...",
+    "대동, 중국 공장 접고 대구로… 800억 투입해 AI 팩토리 구축",
+    "포항시의회 '포스코 노사 합의' 촉구…58년 만 파업 우려",
+    "“7.1% vs 1.5%”…포스코 첫 파업 기로, 임금 넘어 근로시간까지 갈등 ...",
+    "iM뱅크 iM뱅크장학문화재단, 대구경북과학기술원서 대학(원)생 장학금 전...",
+    "iM뱅크장학문화재단, 대구경북과학기술원에 1천만 원 장학금 지원…지역...",
+    "DGIST- iM뱅크 장학문화재단, 큰꿈 도전하는 '장학금' 전달",
+    "광명시, 청년친화헌정대상 8년 연속 수상",
+    "李대통령, 통상교섭본부장에 박정성 임명"
   ]
 }
