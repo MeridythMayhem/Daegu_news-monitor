@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/421/0009116679?sid=101",
-    "https://www.yeongnam.com/web/view.php?key=20260816028042255",
-    "https://n.news.naver.com/mnews/article/022/0004151251?sid=100",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051751",
-    "https://www.yeongnam.com/web/view.php?key=20260817020349821",
     "https://n.news.naver.com/mnews/article/293/0000089143?sid=101",
     "https://kpenews.com/View.aspx?No=4188577",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051892",
@@ -499,14 +494,14 @@
     "https://www.idaegu.com/news/articleView.html?idxno=665155",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053841",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053828",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053831"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053831",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1286099",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1286150",
+    "https://www.idaegu.com/news/articleView.html?idxno=665171",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053847",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053886"
   ],
   "titles": [
-    "포스코 창사 첫 전면파업 기로…18일 중노위 분수령",
-    "경북도 차기 금고 어디로? 금리 배점 높이고 시중은행 참여",
-    "[단독] 우재준 의원, 대구 iM뱅크파크에 초대형 ‘로봇 태권브이’ 조형...",
-    "문경시, 신규 산업단지 조성 점검…산양제3농공단지 보상 절차 진행",
-    "수성구 12개인데 남구는 ‘0’…에어컨 나오는 버스정류장도 구·군별 차...",
     "iM뱅크, 12.5억 배임사고…4년6개월간 이어져",
     "포스코, 불황의 비용 놓고 노사 충돌..18일 ‘58년 무파업’ 시험대",
     "경주 동국대~현곡 상구 도시계획도로, 추석 전 임시 개통 추진",
@@ -1001,6 +996,11 @@
     "[대구일보 기획 : 불여일견 - 청년, 현장에서 길을 찾다] 5 '프리뷰 인 서...",
     "칠곡군, 전국 지방자치단체 일자리대상 우수상",
     "영천시, 제2탄약창 이전 자문위원회 출범…사업 추진 본격화",
-    "안동시, '2026 코리아 그랜드 페스티벌' 개막 도시 선정"
+    "안동시, '2026 코리아 그랜드 페스티벌' 개막 도시 선정",
+    "예산군, 나눔실천 유공 최우수 시군 선정",
+    "세종시 '소담아놀자 시즌3 장난감 축제' 성료",
+    "[대구일보 연중기획-아름다운 함께 살기] \"땀방울이 나눔으로\"… 이재훈...",
+    "포항상의, 수출 초보기업 대상 '찾아가는 관세 상담'",
+    "포항시, 칭다오 국제요트대회 참가 '팀 포항' 격려"
   ]
 }
