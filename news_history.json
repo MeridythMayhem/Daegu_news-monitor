@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284791",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284803",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284797",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284823",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284800",
@@ -499,11 +497,11 @@
     "http://www.kjdaily.com/article.php?aid=1787567757685131002",
     "https://www.gukjenews.com/news/articleView.html?idxno=3673214",
     "https://n.news.naver.com/mnews/article/024/0000107770?sid=101",
-    "https://www.ksmnews.co.kr/news/view.php?idx=618921"
+    "https://www.ksmnews.co.kr/news/view.php?idx=618921",
+    "https://n.news.naver.com/mnews/article/421/0009130068?sid=102",
+    "https://www.tbc.co.kr/news/view?pno=20260824152141AE04412&id=210148"
   ],
   "titles": [
-    "오산시, 지곶동~금암동 연결도로 200m 구간 우선 개통",
-    "[국민청원] \"배송·물류 종사자 일요일·공휴일 의무 휴업제 법제화 진...",
     "[기획특집] \"군민과의 약속은 끝까지\"…전진선號 '더 큰 양평' 도약 본격...",
     "대전시교육청, 제2회 추경예산안 378억 원 증액 편성",
     "포천시, 공인중개사 225명 대상 연수교육 실시",
@@ -1001,6 +999,8 @@
     "호남 반도체산단 전력·용수 구축 예타 면제 ‘주목’",
     "경산시-대구한의대, '글로컬대학 기업지원관' 건립 업무협약 체결",
     "가뜩이나 실적 부진한데…포스코, 창사 이래 첫 파업 위기 [재계톡톡]",
-    "삼성 구미 투자, 경북 피지컬 AI 산업의 새 심장으로"
+    "삼성 구미 투자, 경북 피지컬 AI 산업의 새 심장으로",
+    "경주 자동차 부품공장서 폭발·화재…인명피해 없이 30분 만에 진화",
+    "대백 매각 또 안갯속...25일 중도금 들어올까?"
   ]
 }
