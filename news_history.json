@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284797",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284823",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284800",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284793",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052290",
     "https://news.mtn.co.kr/news-detail/2026081814302913257",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/024/0000107770?sid=101",
     "https://www.ksmnews.co.kr/news/view.php?idx=618921",
     "https://n.news.naver.com/mnews/article/421/0009130068?sid=102",
-    "https://www.tbc.co.kr/news/view?pno=20260824152141AE04412&id=210148"
+    "https://www.tbc.co.kr/news/view?pno=20260824152141AE04412&id=210148",
+    "https://n.news.naver.com/mnews/article/001/0016268284?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1286659",
+    "https://m.entertain.naver.com/article/408/0000318970"
   ],
   "titles": [
-    "[기획특집] \"군민과의 약속은 끝까지\"…전진선號 '더 큰 양평' 도약 본격...",
-    "대전시교육청, 제2회 추경예산안 378억 원 증액 편성",
-    "포천시, 공인중개사 225명 대상 연수교육 실시",
     "[국민청원] \"세제개편안 폐기 및 민생 조세제도 재설계해야\"",
     "울진군, 전 군민에 1인당 30만원 민생안정지원금 추진",
     "[단독]포스코, 가스중독 사망사고 과징금 82억…납부 후 취소소송",
@@ -1001,6 +998,9 @@
     "가뜩이나 실적 부진한데…포스코, 창사 이래 첫 파업 위기 [재계톡톡]",
     "삼성 구미 투자, 경북 피지컬 AI 산업의 새 심장으로",
     "경주 자동차 부품공장서 폭발·화재…인명피해 없이 30분 만에 진화",
-    "대백 매각 또 안갯속...25일 중도금 들어올까?"
+    "대백 매각 또 안갯속...25일 중도금 들어올까?",
+    "[전국 주요 신문 톱뉴스](25일 조간)",
+    "아산시, 아산페이 월 구매한도 절반 조정… 10% 할인율 유지",
+    "홍혜걸, 아내 여에스더 ‘화교설’에 뿔났다…3대 가족사·독립 사료 공..."
   ]
 }
