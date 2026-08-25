@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/002/0002452582?sid=102",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=726410",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=271987",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285070",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285058",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285046",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/079/0004182280?sid=102",
     "https://n.news.naver.com/mnews/article/009/0005725775?sid=101",
     "https://www.kbmaeil.com/article/20260825500570",
-    "https://n.news.naver.com/mnews/article/009/0005725780?sid=101"
+    "https://n.news.naver.com/mnews/article/009/0005725780?sid=101",
+    "https://www.ksmnews.co.kr/news/view.php?idx=619044",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=204220&mode=view",
+    "https://www.ksmnews.co.kr/news/view.php?idx=619125"
   ],
   "titles": [
-    "포스코, 창사 이래 첫 파업 ‘갈림길’",
-    "포스코, 창사 58년 만에 첫 파업 기로… 노사 임협 난항",
-    "\"2분기 영업이익 83% 폭발!…이수페타시스, 2026년 영업이익 3500억 고지...",
     "경기도, 5,465억 원 세출 구조조정… 42조2,420억 원 추경 편성",
     "IFEZ, 스마트시티 시민참여 리빙랩 본격 운영... \"시민이 만드는 스마트...",
     "인천 서해구, 50~64세 취약계층 구강건강 지원",
@@ -1001,6 +998,9 @@
     "김승수 \"이재명 정부 사법부 장악만 남아…조희대 탄핵시 분노 폭발\"",
     "“볼트 세계기록 깨고, 편의점서 장사도 하고”…中 로봇 모아놓으니 벌...",
     "‘영일만에 1조3500억 투자' 보도, 포항시 시정 방향 다각도로 짚어",
-    "“세제개편 후폭풍 세긴 세네”…강남 집값 ‘폭락’ 이번엔 진짜일까..."
+    "“세제개편 후폭풍 세긴 세네”…강남 집값 ‘폭락’ 이번엔 진짜일까...",
+    "철강 불황 속 포스코 파업 위기… 포항 지역 경제 '직격탄' 우려",
+    "\"포스코, 하청 파업에 자사 직원 부당 투입\"",
+    "美 압박에 호남·용인까지…K반도체 완벽 거점 ‘구미’ 대비해야"
   ]
 }
