@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016257504?sid=102",
-    "https://n.news.naver.com/mnews/article/025/0003545242?sid=101",
-    "https://www.tbc.co.kr/news/view?pno=20260818093654AE04082&id=209917",
-    "https://www.tbc.co.kr/news/view?pno=20260818142417AE04112&id=209918",
-    "https://www.pennmike.com/news/articleView.html?idxno=125909",
-    "https://n.news.naver.com/mnews/article/586/0000136221?sid=101",
     "http://www.srtimes.kr/news/articleView.html?idxno=210329",
     "https://www.seoultimes.news/news/article.html?no=2000098916",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284989",
@@ -499,15 +493,15 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1286876",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054740",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054737",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054728"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054728",
+    "https://www.newsmin.co.kr/news/136319/",
+    "https://www.huffingtonpost.kr/article/259845",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287043",
+    "https://www.m-i.kr/news/articleView.html?idxno=1405860",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054780",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054795"
   ],
   "titles": [
-    "[전국 주요 신문 사설](19일 조간)",
-    "물 사러 버스타고 걸어서 50분…‘쇼핑 사막’ 한국서 벌어진 일",
-    "[단독]\"피해자 돈 누가 챙겼나\"...통장 확인했더니",
-    "'김민석 호' 출범...TK 현안에 최대 변수",
-    "박민영 \"자생력없는 기성언론 대신 매·펜·뉴의 시대를 열어야 한다\" [...",
-    "포스코, 창사 58년 만에 첫 '파업' 가나…노조 쟁의권 확보",
     "포스코, 중노위 조정 중지…58년 만에 '첫 파업' 갈림길",
     "[이슈] 현대차는 전면파업·포스코는 쟁의권…SK하이닉스는 잠정합의",
     "동작구 '정책 아이디어리그' 참여자 모집",
@@ -1001,6 +995,12 @@
     "철원군 신품종 '철기50' 첫 벼베기… 추석 햅쌀 출하 본격화",
     "대구 서구, 민선 9기 첫 추경 6999억원 편성…생활·안전 분야 집중",
     "경주시의회 제300회 임시회 개회…조례안 등 14건 심사",
-    "경주·경산, 'K-뷰티 수출 거점' 선정…관광·생산 연계 본격화"
+    "경주·경산, 'K-뷰티 수출 거점' 선정…관광·생산 연계 본격화",
+    "하청노동자 파업하자 포스코 직원 투입···금속노조 “노조법 위반”...",
+    "이희근 포스코 창사 이래 '가장 복잡한 노사관계' 직면 : 원·하청노조 ...",
+    "GTX-C 착공·부전~마산선 개통 속도 낸다…6.8조 민자사업 '본궤도'",
+    "홈플 피해 지원 900억에도 집행 8건…협력사 \"기존 잣대론 못 빌려\"",
+    "경찰청장기 전국태권도대회 영천서 성료…3000여명 기량 겨뤄",
+    "포항시, 취약계층 아동 주거환경 개선 '두꺼비하우스' 4호점 준공"
   ]
 }
