@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1403821",
-    "https://www.dkilbo.com/news/articleView.html?idxno=551760",
-    "https://www.g-enews.com/view.php?ud=20260819154210469924debea800_1",
-    "https://n.news.naver.com/mnews/article/138/0002238305?sid=101",
-    "https://n.news.naver.com/mnews/article/366/0001187165?sid=101",
-    "https://n.news.naver.com/mnews/article/009/0005723140?sid=101",
-    "https://n.news.naver.com/mnews/article/009/0005723113?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285363",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285359",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285164",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285162",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285234",
@@ -499,18 +490,18 @@
     "http://www.lawissue.co.kr/view.php?ud=2026082616294069349aeda69934_12",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287410",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287425",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055305"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055305",
+    "https://n.news.naver.com/mnews/article/657/0000054727?sid=102",
+    "https://n.news.naver.com/mnews/article/421/0009134328?sid=102",
+    "https://n.news.naver.com/mnews/article/421/0009134329?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287501",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287283",
+    "https://www.kbmaeil.com/article/20260826500180",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287504",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287448",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287345"
   ],
   "titles": [
-    "포천 가산면, 다문화·외국인 주민과 '다(多)가치' 축제…전통혼례 10쌍...",
-    "대구 서구 CCTV 관제원, 섬유공장 화재 조기 발견…대형 피해 막아",
-    "포스코, 창사 첫 파업 기로…현대제철과 엇갈린 임단협",
-    "[취재수첩] 포스코, 창사 첫 '파업' 기로…쇳물은 계속 흘러야 한다",
-    "‘58년 무분규’ 포스코, 창사 첫 파업 기로… 노조가 올해 더 강경한 이...",
-    "\"제주를 기후테크·모빌리티 메카로\" … 48개 경영학회 머리 맞댔다",
-    "[알립니다] 경남 수해 이웃돕기 모금",
-    "부산시, 파산·회생 최대 100만원 지원…'민생재기' 가동",
-    "울산·경남, '동남권 순환 광역철도' 예타 통과 공동 촉구",
     "영양군, 취약계층 어르신 건강지원 성금 1천만원 전달받아",
     "산청군, 지리산산청곶감 홍보판매장 개관",
     "김해문화관광재단, '토더기' 서울 코엑스 마곡서 홍보 나선다",
@@ -1001,6 +992,15 @@
     "바이다, 가상 타깃 기반 ACC 감속유도 시스템 '장영실상' 선정",
     "인천경제청, 송도와 청라 \"글로벌 금융 거점 키운다\"(Ⅰ)",
     "한국관세무역개발원, 인천대학교에 발전기금 1천만 원 기탁",
-    "포항 원도심 빈 점포에 민간투자 유도…중앙상가 활성화 모델 모색"
+    "포항 원도심 빈 점포에 민간투자 유도…중앙상가 활성화 모델 모색",
+    "경북 칠곡 지천 스펀지 공장 화재···초진 완료",
+    "경북 칠곡군 스펀지 제조공장 화재",
+    "경북 칠곡군 스펀지 제조공장 화재",
+    "경남도, 부전~마산 복선전철 내년 4월 부분개통",
+    "문경시, 김재철 전 MBC 사장 초청 명사특강 개최",
+    "157억 흑자 태왕은 왜 법정관리 갔나…미분양에 공사비 회수 ‘발목’",
+    "경북 들녘특구 공동영농 소득 최대 2.1배↑…가공·유통까지 확장",
+    "울주군, 베트남 'InnoEx 2026'서 2천660만 달러 수출상담",
+    "구미시, 서울광장서 '2026 로컬푸드 페스타' 개최"
   ]
 }
