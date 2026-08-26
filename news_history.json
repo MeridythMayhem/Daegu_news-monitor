@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://news.mtn.co.kr/news-detail/2026081911044135100",
-    "https://n.news.naver.com/mnews/article/016/0002685586?sid=101",
-    "https://n.news.naver.com/mnews/article/014/0005563401?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285120",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285112",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285088",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285107",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/047/0002526691?sid=102",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59776",
     "https://www.m-i.kr/news/articleView.html?idxno=1405747",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054404"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054404",
+    "http://kor.theasian.asia/archives/413965",
+    "https://www.m-i.kr/news/articleView.html?idxno=1405984",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054835",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054908"
   ],
   "titles": [
-    "포스코 노조, 9월 부분파업 준비 돌입…'58년 무분규' 위기",
-    "재계 ‘파업 암운’…현대차 전면 돌입, 포스코 창사 첫 위기",
-    "로보티즈, 中 휴머노이드 훈풍에 우즈벡 신공장 기대…이수페타시스, 수...",
-    "[기획특집] 오태완號 \"조건보다 결과…의령을 '경남의 큰 중심'으로\"",
     "속초시, 1분기 생활인구 도내 '2위'",
     "서대문구의회 김덕현 위원장, 암환자 가발 구입비 최대 70만원 지원 근거...",
     "예산군, 향후 5년 인구감소 대응 청사진 마련",
@@ -1001,6 +997,10 @@
     "법조기자가 한동훈에게 보내는 한 토막 법률소양강의",
     "[노무톡톡] 무단결근 직원, 도대체 어떻게 해야 하나요?-(2)",
     "대출 상환 피하려 부동산 '명의신탁'…경주경찰, 2명 송치",
-    "경북도, 전국 첫 식품산업 전담국 출범…푸드테크 육성 본격화"
+    "경북도, 전국 첫 식품산업 전담국 출범…푸드테크 육성 본격화",
+    "[오늘의 신문] 절도 1건을 51건으로 쪼갠 경찰·AI 데이터센터 전력 비상...",
+    "인천시, 'ICT콤플렉스' 개소…AI·SW 인재 양성 거점 구축",
+    "문경사랑상품권 구매·보유한도 낮춘다",
+    "경북 들녘특구, 공동영농 넘어 가공·유통까지…지역 농산업 모델로 확..."
   ]
 }
