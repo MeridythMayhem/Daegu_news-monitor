@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://slownews.kr/165166",
-    "https://www.m-i.kr/news/articleView.html?idxno=1403608",
-    "https://monthly.chosun.com/news/articleView.html?idxno=71099",
-    "https://www.m-i.kr/news/articleView.html?idxno=1403981",
     "http://www.snmnews.com/news/articleView.html?idxno=573544",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285437",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285396",
@@ -499,13 +495,13 @@
     "http://mcnews.co.kr/86525",
     "https://www.m-i.kr/news/articleView.html?idxno=1406539",
     "https://www.m-i.kr/news/articleView.html?idxno=1406545",
-    "https://m.entertain.naver.com/article/311/0002050126"
+    "https://m.entertain.naver.com/article/311/0002050126",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287556",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055463",
+    "https://www.m-i.kr/news/articleView.html?idxno=1406635",
+    "https://www.m-i.kr/news/articleView.html?idxno=1406647"
   ],
   "titles": [
-    "세계적 민폐, 40조 달러 돌파한 미국 정부 부채: 슬로우레터 8월20일.",
-    "대구도시개발공사, 창사 38주년 기념식…\"주요 사업 차질 없이 추진\"",
-    "[김태완의 인간탐험] 권오을 국가보훈부 장관",
-    "서울시, 노인 교통복지 위원회 발족",
     "포스코 첫 파업 기로…이상휘 의원 \"파국 대신 대화로 해법 찾아야\"",
     "李대통령, 中 왕이 외교부장 접견…한중관계·한반도 정세 논의",
     "성북구, 고용노동부 일자리 평가서 '우수상' 수상",
@@ -1001,6 +997,10 @@
     "극동건설, 송파하남선 광역철도 4공구 수주 유력",
     "팁스 졸업기업 '다음 투자' 잇는다…VC협회, 전국 5개 권역 순회",
     "발달장애인 36명, 식품 제조·포장 현장실습…전원 교육 수료",
-    "'77세' 김형자 \"임플란트에 수억 깨져…비싼 자동차 한 대 값\" (퍼펙트라..."
+    "'77세' 김형자 \"임플란트에 수억 깨져…비싼 자동차 한 대 값\" (퍼펙트라...",
+    "성동구, 단시간 민원인 전용 주차구역 신설…서울 자치구 최초",
+    "대구시, 복합규제 해결 '규제조정단' 가동…기업애로 상시 조정",
+    "경북도·영천시, 김민석 대표 만나 마사회 본사 영천 이전 요청",
+    "구미시, 9월 '경북 국제 AI·메타버스 영상제' 개최…AI 영상·산업·체험..."
   ]
 }
