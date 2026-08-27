@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285495",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285503",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285521",
-    "https://www.jbnews.com/news/articleView.html?idxno=1509757",
-    "https://m.skyedaily.com/news_view.html?ID=310148",
-    "https://www.kpinews.kr/newsView/1065579177835527",
     "https://www.m-i.kr/news/articleView.html?idxno=1403938",
     "https://www.mhns.co.kr/news/articleView.html?idxno=757023",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285532",
@@ -499,15 +493,15 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055651",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055669",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055642",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055654"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055654",
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1067072",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287856",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287826",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055783",
+    "https://www.inews365.com/news/article.html?no=933417",
+    "https://www.m-i.kr/news/articleView.html?idxno=1406845"
   ],
   "titles": [
-    "강원특별자치도, 제14회 푸드박람회 참가",
-    "서울 밤이 길어진다…심야 '반딧불이버스' 달리고 문화·체육시설 연장...",
-    "은행권 금융사고 10년간 5495억원…우리은행 2843억원 '최다'",
-    "괴산 특산품 3곳, 로컬푸드박람회서 지역 먹거리 알렸다",
-    "[한눈에 보는 그래픽스] 자연 속 맨발걷기부터 콘서트까지… 문경새재 ...",
-    "[노성열의 AI경제] 중국에서 부는 반(反)증류의 바람",
     "K-뷰티 수출거점에 경주·제주 낙점…외국인 관광객 잡는다",
     "현대차 파업에 포스코 쟁의권 확보까지… '기간산업 하투'에 실물경제 ...",
     "동두천시, 체납 차량 번호판 일제 영치 추진",
@@ -1001,6 +995,12 @@
     "계명문화대-대구보건고, 지역 인재 양성·정착 위해 맞손",
     "경북 국도·국지도 5개 사업 일괄예타 통과…5749억 규모",
     "문경시, 라쿠텐 트래블과 외국인 관광객 유치 협력…'머무는 관광' 확대",
-    "청도군, 인구감소 대응 기본계획 마련…37개 사업 추진"
+    "청도군, 인구감소 대응 기본계획 마련…37개 사업 추진",
+    "공공병원·도심융합특구·시내버스 파업 등 지역 현안 심층보도 제언",
+    "금산군, 기업인 간담회 열어 현장 애로사항 청취",
+    "계명문화대, 대구보건고와 지역인재 양성 협력",
+    "상주시, 경북 규제합리화 경진대회 대상…하수처리수 공업용수 공급 규...",
+    "서원대-상주올래, 청년 창업인재 양성 맞손",
+    "현대차·기아, 협력사 'AI 과외' 나선다…경주에 훈련센터 개소"
   ]
 }
