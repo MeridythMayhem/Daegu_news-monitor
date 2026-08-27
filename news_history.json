@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3669986",
-    "https://www.cnbnews.com/news/articleView.html?idxno=1012160",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285743",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285599",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285607",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285593",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285714",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287927",
     "https://www.jjan.kr/article/20260825500467",
     "https://www.newscj.com/news/articleView.html?idxno=3428299",
-    "http://www.hellodd.com/news/articleView.html?idxno=112970"
+    "http://www.hellodd.com/news/articleView.html?idxno=112970",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082428",
+    "https://n.news.naver.com/mnews/article/018/0006359270?sid=101",
+    "http://www.segyebiz.com/newsView/20260827519112?OutUrl=naver",
+    "https://n.news.naver.com/mnews/article/009/0005726918?sid=101"
   ],
   "titles": [
-    "[속보] 대구 달성 화원읍 성산리 공장 화재...\"차량 우회\"",
-    "대구시-대동, 800억 규모 국내 복귀 투자협약",
-    "영종구 영종동 주민, 자연녹지지역 내 자동차 보관시설 확장 \"전면 재검...",
-    "문경시, 대한체육회장기 전국시군구대항검도대회 개최",
     "경북도, 엘살바도르와 산업·문화·교육 교류 논의",
     "영양군, 농촌 식품사막 해소 위한 이동장터 운영",
     "의령군의회, 국외연수 예산 7천만원 반납…민생 중심 의정 강화",
@@ -1001,6 +997,10 @@
     "[기획특집] AI가 그린 미래, 구미서 현실로…'GAMFF 2026' 세계가 주목",
     "[기고] 서울대 10개 만들기 전북대가 되어야 하는 이유",
     "[시사칼럼] 금융을 흩어놓고 금융강국을 꿈꾸는가",
-    "\"뉴스페이스 성공, 민간 전환만으론 부족···기업·출연연 협력이 관건..."
+    "\"뉴스페이스 성공, 민간 전환만으론 부족···기업·출연연 협력이 관건...",
+    "포스코 노조, 58년 무분규 깨지나…48시간 부분파업 예고",
+    "철강·조선 ‘파업 도미노’ 오나…포스코 첫 파업·HD현대重 쟁의권 확...",
+    "포스코 노조, 9월 9일 교섭 최종 시한 설정…“미타결 시 48시간 부분파...",
+    "“뜯고 배우고 다시 설계”…로봇청소기 통째로 내준 로보락, 현장 가보..."
   ]
 }
