@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005723758?sid=101",
-    "https://n.news.naver.com/mnews/article/009/0005723680?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285766",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285597",
     "https://n.news.naver.com/mnews/article/023/0003994091?sid=103",
     "https://www.m-i.kr/news/articleView.html?idxno=1404300",
@@ -499,12 +496,12 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082415",
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257940",
     "https://www.m-i.kr/news/articleView.html?idxno=1406717",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055502"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055502",
+    "https://n.news.naver.com/mnews/article/079/0004183367?sid=102",
+    "http://www.ferrotimes.com/news/articleView.html?idxno=50033",
+    "https://www.m-i.kr/news/articleView.html?idxno=1407057"
   ],
   "titles": [
-    "친구 1만명인데 오늘도 혼밥…외로움 택한 ‘사교의 나라’ [홍키자의 ...",
-    "인간을 만든 기억, 대한민국을 만드는 메모리 [사와닉값]",
-    "부산시-팬스타, 북극항로 활성화 맞손… 거점도시 선점 나선다",
     "광명시, 일자리대상 장관상 3년 연속…고용지표 역대 최고",
     "“5남매 엄마 겁났지만… 힘든 건 곱하기 2, 행복은 곱하기 10”",
     "대동, 대구공장에 '피지컬 AI' 도입… 트랙터 생산능력 67% 확대",
@@ -1001,6 +998,9 @@
     "[지역혁신 전문가에게 듣는다] AI 골든타임, 대구의 두뇌와 경북의 근육...",
     "[AI시승기] '붕우' 못 뽑고 AI 탓하나···'문체 획일화'란 인간 음모론",
     "경주시, 포항 간담회서 국내복귀·신증설 기업에 투자환경 설명",
-    "영천시, 1조5672억원 규모 2차 추경 편성…민생·공약사업에 집중"
+    "영천시, 1조5672억원 규모 2차 추경 편성…민생·공약사업에 집중",
+    "경주 자동차부품공장 화재…공작기계 20대 불에 타",
+    "한국이콜랩-포스코, 수자원 효율 향상 MOU…'스마트 냉각수' 양 제철소 ...",
+    "구미시, 로봇AI교육혁신센터로 명칭 바꾸고 인재양성 확대"
   ]
 }
