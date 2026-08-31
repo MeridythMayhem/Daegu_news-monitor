@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.tbc.co.kr/news/view?pno=20260824152141AE04412&id=210148",
-    "https://n.news.naver.com/mnews/article/001/0016268284?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1286659",
     "https://m.entertain.naver.com/article/408/0000318970",
     "http://www.srtimes.kr/news/articleView.html?idxno=210745",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1286684",
@@ -499,12 +496,12 @@
     "http://www.breaknews.com/1233018",
     "https://n.news.naver.com/mnews/article/586/0000137174?sid=100",
     "https://n.news.naver.com/mnews/article/009/0005728313?sid=101",
-    "https://www.dkilbo.com/news/articleView.html?idxno=552911"
+    "https://www.dkilbo.com/news/articleView.html?idxno=552911",
+    "https://www.ksmnews.co.kr/news/view.php?idx=619853",
+    "https://www.ksmnews.co.kr/news/view.php?idx=619720",
+    "https://n.news.naver.com/mnews/article/056/0012248003?sid=101"
   ],
   "titles": [
-    "대백 매각 또 안갯속...25일 중도금 들어올까?",
-    "[전국 주요 신문 톱뉴스](25일 조간)",
-    "아산시, 아산페이 월 구매한도 절반 조정… 10% 할인율 유지",
     "홍혜걸, 아내 여에스더 ‘화교설’에 뿔났다…3대 가족사·독립 사료 공...",
     "포스코 노조, 9월 '부분 파업' 초읽기…노동쟁의행위 신고서 제출",
     "내년 예산 800조원 넘는다…반도체 호황에 국세수입 600조 전망",
@@ -1001,6 +998,9 @@
     "대구경실련 “중앙로 대중교통전용지구 해제 중단·재지정 촉구”",
     "\"'무임승차' 용혜인, '공소취소' 김승원\"…李 개각, 승부수 아닌 자충수...",
     "“집 가진 순간 시작되는 세금의 굴레”…내 손 안에 펼치는 세무 노트...",
-    "건설경기 침체에 금융비용 부담까지…지방 건설사 '휘청"
+    "건설경기 침체에 금융비용 부담까지…지방 건설사 '휘청",
+    "\"이자에 짓눌려 돌려막기도 한계\"… 벼랑 끝 내몰린 소상공인과 취약계...",
+    "대구 도심, 디지털 지도로 다시 그린다…공간정보 정밀도 높인다",
+    "[이슈브리핑] ‘태왕 법정관리’ 영향은? 외"
   ]
 }
