@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=619044",
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=204220&mode=view",
-    "https://www.ksmnews.co.kr/news/view.php?idx=619125",
     "https://n.news.naver.com/mnews/article/009/0005725781?sid=105",
     "https://www.m-i.kr/news/articleView.html?idxno=1405974",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054646",
@@ -499,12 +496,12 @@
     "https://www.m-i.kr/news/articleView.html?idxno=1408808",
     "https://www.ksmnews.co.kr/news/view.php?idx=619969",
     "https://www.tbc.co.kr/news/view?pno=20260901144917AE04890&id=210559",
-    "https://www.yeongnam.com/web/view.php?key=20260901029145876"
+    "https://www.yeongnam.com/web/view.php?key=20260901029145876",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056966",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289058",
+    "https://www.m-i.kr/news/articleView.html?idxno=1408454"
   ],
   "titles": [
-    "철강 불황 속 포스코 파업 위기… 포항 지역 경제 '직격탄' 우려",
-    "\"포스코, 하청 파업에 자사 직원 부당 투입\"",
-    "美 압박에 호남·용인까지…K반도체 완벽 거점 ‘구미’ 대비해야",
     "조선 자동화·고압산소·청정수소 혁신연구조직에 장영실상 기술혁신상",
     "영천시, '반값에 반하다, 영천'으로 여행경비 50% 환급",
     "가스공사, 전국 5개 LNG 생산기지 '공간안전인증' 획득",
@@ -1001,6 +998,9 @@
     "정부, 충청 셀·영남 소재·호남 원료 잇는다…'배터리 삼각벨트' 가동",
     "멈춰 선 TK신공항, ‘플랜 B’는 해법인가",
     "대구시, 4천억 규모 '첫 추경'...1천억은 빚내 충당",
-    "TK 집어삼킨 ‘3개 권역’ 논리…TK 패싱 고착화되나"
+    "TK 집어삼킨 ‘3개 권역’ 논리…TK 패싱 고착화되나",
+    "경북도·하나은행, 10대 주력산업 연계 금융지원 맞손",
+    "경북도, 하나은행과 지역기업 성장 금융지원 협력",
+    "경주시, 중소기업 경영안정에 1150억원 융자 지원"
   ]
 }
