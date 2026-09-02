@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005725781?sid=105",
-    "https://www.m-i.kr/news/articleView.html?idxno=1405974",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054646",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082015",
-    "https://www.m-i.kr/news/articleView.html?idxno=1405483",
     "https://n.news.naver.com/mnews/article/023/0003994856?sid=103",
     "https://n.news.naver.com/mnews/article/047/0002526691?sid=102",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59776",
@@ -499,14 +494,14 @@
     "https://www.yeongnam.com/web/view.php?key=20260901029145876",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056966",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289058",
-    "https://www.m-i.kr/news/articleView.html?idxno=1408454"
+    "https://www.m-i.kr/news/articleView.html?idxno=1408454",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=558358",
+    "http://www.snmnews.com/news/articleView.html?idxno=574118",
+    "https://n.news.naver.com/mnews/article/001/0016284100?sid=102",
+    "https://edu.chosun.com/site/data/html_dir/2026/08/31/2026083180174.html",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057422"
   ],
   "titles": [
-    "조선 자동화·고압산소·청정수소 혁신연구조직에 장영실상 기술혁신상",
-    "영천시, '반값에 반하다, 영천'으로 여행경비 50% 환급",
-    "가스공사, 전국 5개 LNG 생산기지 '공간안전인증' 획득",
-    "태왕이앤씨 법정관리 후폭풍 차단…대구시 긴급대응 돌입",
-    "㈜옴니코트, 포항 컬러강판 공장 착공 앞두고 장학금 200만원 기탁",
     "[채승우의 카메라 타임머신] 몸으로 탑 쌓던 ‘매스게임’의 흥망성쇠",
     "법조기자가 한동훈에게 보내는 한 토막 법률소양강의",
     "[노무톡톡] 무단결근 직원, 도대체 어떻게 해야 하나요?-(2)",
@@ -1001,6 +996,11 @@
     "TK 집어삼킨 ‘3개 권역’ 논리…TK 패싱 고착화되나",
     "경북도·하나은행, 10대 주력산업 연계 금융지원 맞손",
     "경북도, 하나은행과 지역기업 성장 금융지원 협력",
-    "경주시, 중소기업 경영안정에 1150억원 융자 지원"
+    "경주시, 중소기업 경영안정에 1150억원 융자 지원",
+    "정부, 한밤중 치안정감·치안감 전보…신임 대구경찰청장에 박준성 치안...",
+    "포스코 노사, 3일 포항서 25차 본교섭…파업 앞두고 협상 재개",
+    "[전국 주요 신문 톱뉴스](2일 조간)",
+    "[초·중등 문해력 공부법] 신문칼럼 수업이 꼭 필요한 5가지 이유",
+    "상주 중화농협 공선출하회, GAP 우수사례 경진대회 금상"
   ]
 }
