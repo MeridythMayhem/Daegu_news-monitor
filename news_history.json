@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.etoday.co.kr/news/view/2619179",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3677552",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287953",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055868",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055908",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055903",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287942",
     "http://www.newstomato.com/ReadNews.aspx?no=1311765&inflow=N",
     "https://www.asiatime.co.kr/article/20260828500172",
     "https://www.sejungilbo.com/news/articleView.html?idxno=59855",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290365",
     "https://n.news.naver.com/mnews/article/009/0005730711?sid=101",
     "https://n.news.naver.com/mnews/article/057/0001967427?sid=102",
-    "https://www.newspim.com/news/view/20260904001024"
+    "https://www.newspim.com/news/view/20260904001024",
+    "https://n.news.naver.com/mnews/article/055/0001386035?sid=102",
+    "https://n.news.naver.com/mnews/article/119/0003129313?sid=101",
+    "https://www.yeongnam.com/web/view.php?key=20260905027555466",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290330",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290261",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290256",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290282"
   ],
   "titles": [
-    "HD현대重 투표 가결·포스코 부분파업 예고…노사 긴장 고조 [종합]",
-    "전국금융노조 iM뱅크대구은행지부, 대구시교육청에 2천만원 취약계층 아...",
-    "서초구, 삼삼엠투와 손잡고 주거위기가구·청년 주거안정 지원",
-    "광명시, 민간 주도 사회연대경제 해법 모색…대구 협력사례 공유",
-    "구미 로봇직업혁신센터, '로봇AI교육혁신센터'로 새 출발",
-    "구미서 '2026 경북 국제 AI·메타버스 영상제'…97개국 3403편 출품",
-    "강동구, 명일동 상업지역 용적률·높이 완화…도시경쟁력↑",
     "포스코 58년 무쟁의 ‘빨간불’…HD현중도 파업 수순",
     "포스코 58년 무분규 깨지나…HD현대重도 쟁의권 확보, 철강·조선 ‘파업...",
     "국세청, 9월 '역대 최대 234명' 사무관 승진 인사 예고",
@@ -1001,6 +994,13 @@
     "[파워인터뷰 393]김재남 남동구의회 의장 \"큰 구호보다, 주민의 지갑과...",
     "“고독하구만” 친구·애인·놀곳 없는 美이대남…한국도 똑같다 [홍키...",
     "경북 고령군 LED공장서 화재…2시간 반 만에 큰 불길 잡아",
-    "경북 고령 한 LED조명 제조공장서 화재 진화 중...인명피해 없어"
+    "경북 고령 한 LED조명 제조공장서 화재 진화 중...인명피해 없어",
+    "경북 고령군 LED공장서 화재…인명피해 없이 큰 불길 잡혀",
+    "[단독] \"포스코 경영진 임금 최대 20% 반납\"…이희근 사장, 노조에 파업...",
+    "“다시 사회로 나갈 자신감 생겼다”…대구역 노숙인 일자리, ‘자립 디...",
+    "광명시, 소상공인 스마트기술 도입 비용 최대 90% 지원",
+    "분당차여성병원 이정훈 교수, 로봇수술 참관 교육 의료진 선정",
+    "한은, 7월 경상수지 420억8천만달러 흑자… 동월 역대 최대",
+    "천안시 '2026 K-컬처 박람회' 독립기념관서 '성황'"
   ]
 }
