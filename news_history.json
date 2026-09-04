@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=609956",
     "https://www.ksmnews.co.kr/news/view.php?idx=619480",
     "http://www.kjdaily.com/article.php?aid=1787830681685441274",
     "https://www.dynews.co.kr/news/articleView.html?idxno=863272",
@@ -499,10 +498,10 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289812",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290012",
     "https://www.m-i.kr/news/articleView.html?idxno=1409593",
-    "https://n.news.naver.com/mnews/article/002/0002454841?sid=100"
+    "https://n.news.naver.com/mnews/article/002/0002454841?sid=100",
+    "https://n.news.naver.com/mnews/article/022/0004156326?sid=102"
   ],
   "titles": [
-    "포스코 노조 \"9월 9일까지 협상 불발 땐 48시간 파업\"",
     "박근혜 “내부 분열만큼 무서운 적 없다…지도부 중심 똘똘 뭉쳐야”",
     "‘물·사람’ 갖춰야 공장 선다…반도체 기반 구축 총력전",
     "수도권 예술인 65%인데 전세자금은 87%…\"정책금융도 지방 외면\"",
@@ -1001,6 +1000,7 @@
     "靑, 美 '반도체 표적관세'에 \"확정된 것 없어…불리한 영향 없게 협의\"",
     "여수상의 한문선 회장, 섬박람회 성공 위해 2억 원 지원",
     "[기획] '복지 확대' 외치던 지자체, 10곳 중 6곳 의무고용 미달",
-    "각계 인사 100인 \"김용, 사법 올가미 벗어나야…대법 신속하게 선고하라..."
+    "각계 인사 100인 \"김용, 사법 올가미 벗어나야…대법 신속하게 선고하라...",
+    "포항 공장서 기계 끼임 사고…30대 남성 사망"
   ]
 }
