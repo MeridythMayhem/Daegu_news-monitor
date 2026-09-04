@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082419",
-    "https://n.news.naver.com/mnews/article/003/0014153708?sid=102",
-    "https://n.news.naver.com/mnews/article/144/0001134495?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287913",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287743",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287588",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287557",
@@ -499,13 +495,13 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058447",
     "https://www.m-i.kr/news/articleView.html?idxno=1409984",
     "https://www.news2day.co.kr/article/20260904500121",
-    "https://www.yeongnam.com/web/view.php?key=20260904026056611"
+    "https://www.yeongnam.com/web/view.php?key=20260904026056611",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290228",
+    "http://mcnews.co.kr/86564",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290242",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058526"
   ],
   "titles": [
-    "대구의 두뇌, 경북의 근육… 'AI 신경망'으로 연결해야 산다",
-    "[대구·경북 조간 헤드라인]",
-    "바이다, 세계 최초 ACC 충돌방지 시스템으로 IR52 장영실상 수상",
-    "부산 살면서 수도권·해외 기업… '정주형 원격근무' 가능성 확인",
     "울산시, 문수로 우회도로 예타 대상 선정",
     "인천 부평구, 외국인 토지거래허가구역 재지정",
     "박기범 성남시의회 도시건설위원장, 재개발 사업성 개선 나선다",
@@ -1001,6 +997,10 @@
     "소진공, 외국인·유학생·인플루언서 통해 '지역 매력' 해외에 알린다",
     "[수원시의회 의정소식] 양성평등·추경·장애인복지 등 분야별 의정활동...",
     "수의계약 논란에 칼 빼든 경북 의성군…‘특정 업체 쏠림’ 차단",
-    "TK신공항, 2027년에도 표류하나?"
+    "TK신공항, 2027년에도 표류하나?",
+    "관악구, 서울대벤처타운역 '서림다복길' 골목형상점가 신규 지정",
+    "[정종채 변호사의 하도급법판례이야기 81] 상생협력법상 K-Discovery 제도",
+    "서부선 경전철 '재정사업 전환' 촉구… 서울 서북·서남 6개 구의회 공동...",
+    "iM금융, '피움랩 8기 IR데이' 개최…핀테크 스타트업 투자 유치 지원"
   ]
 }
