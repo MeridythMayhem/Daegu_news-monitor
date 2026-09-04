@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082415",
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257940",
     "https://www.m-i.kr/news/articleView.html?idxno=1406717",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055502",
     "https://n.news.naver.com/mnews/article/079/0004183367?sid=102",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290329",
     "https://www.m-i.kr/news/articleView.html?idxno=1410154",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058621",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058610"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058610",
+    "http://fpn119.co.kr/256150",
+    "http://fpn119.co.kr/256152"
   ],
   "titles": [
-    "[지역혁신 전문가에게 듣는다] AI 골든타임, 대구의 두뇌와 경북의 근육...",
-    "[AI시승기] '붕우' 못 뽑고 AI 탓하나···'문체 획일화'란 인간 음모론",
     "경주시, 포항 간담회서 국내복귀·신증설 기업에 투자환경 설명",
     "영천시, 1조5672억원 규모 2차 추경 편성…민생·공약사업에 집중",
     "경주 자동차부품공장 화재…공작기계 20대 불에 타",
@@ -1001,6 +999,8 @@
     "고양시의회, 킨텍스 S2부지 매각안 재차 보류",
     "롯데웰푸드, 이번엔 '군위 사과'…15종 제품으로 지역상생 확대",
     "청도군의회, 제320회 정례회 개회…추경·행정사무감사 등 심사",
-    "포항시, 3조3290억 규모 2차 추경안 제출…지방채 550억 발행"
+    "포항시, 3조3290억 규모 2차 추경안 제출…지방채 550억 발행",
+    "경북 칠곡군 스펀지 제조 공장 화재… 인명피해 없어",
+    "경북 경주시 자동차 부품 공장 화재… 재산피해 9800만원"
   ]
 }
