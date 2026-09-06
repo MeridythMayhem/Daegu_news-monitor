@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0014155092?sid=101",
-    "https://www.taxtimes.co.kr/news/article.html?no=276591",
     "https://n.news.naver.com/mnews/article/001/0016277169?sid=100",
     "https://www.tfmedia.co.kr/news/article.html?no=206815",
     "https://biz.newdaily.co.kr/site/data/html/2026/08/28/2026082800247.html",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290403",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290401",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=170989",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290404"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290404",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290413",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290409"
   ],
   "titles": [
-    "[인사]국세청",
-    "[인사]국세청 과장급 전보(1명)",
     "인사말 하는 임광현 국세청장",
     "[프로필] 홍성미 서울지방국세청 국제거래조사국 국제조사1과장",
     "파업 도미노 오나 … 포스코 이어 HD현대중공업 내달 파업 돌입",
@@ -1001,6 +999,8 @@
     "검단구, 지역경제 활성화 '지역 상생의 날' 운영",
     "김승원 '신약 임상 청탁' 파장…'공익민원' 이면에 불법 이권 거래",
     "중국 자율주행 업계 '춘추전국시대'…2028년 5~6곳만 생존",
-    "서울 집값 오르면 종부세 '강남 밖' 확산…2030년 22개구 과세 전망"
+    "서울 집값 오르면 종부세 '강남 밖' 확산…2030년 22개구 과세 전망",
+    "목포역, 역사·지리적 상징 넘어 서남권 대표 교통거점 재탄생",
+    "광양시, 미혼남녀 만남... '설렘 N 광양' 참가자 모집"
   ]
 }
