@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056862",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056853",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3033166",
-    "https://n.news.naver.com/mnews/article/003/0014159480?sid=104",
     "http://www.metroseoul.co.kr/article/20260831500576",
     "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=122&in_cate2=0&gopage=1&bi_pidx=39529",
     "https://n.news.naver.com/mnews/article/009/0005728283?sid=101",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290907",
     "https://www.public25.com/news/articleView.html?idxno=54246",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083450",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291092"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291092",
+    "https://www.ksmnews.co.kr/news/view.php?idx=620925",
+    "https://www.yeongnam.com/web/view.php?key=20260907023277076",
+    "https://www.ksmnews.co.kr/news/view.php?idx=620827",
+    "https://www.ksmnews.co.kr/news/view.php?idx=620829"
   ],
   "titles": [
-    "울릉 죽암마을 '뿔소라 축제' 성료…어촌문화·해산물 매력 알렸다",
-    "포항시의회, 지방채 발행 '신중론'…\"미래 세대가 갚을 빚\"",
-    "구제역 수출제한 '도→시·군' 완화…경기·경북 한우 홍콩 수출 재개",
-    "최태원 회장 \"SK하이닉스, 日 반도체 합작공장 검토\"",
     "포스코 노조, 초과근로 의혹 제기…사측 \"주 52시간 준수 관리\"",
     "포스코 불법파견 직고용…법원 “정규직 아닌 ‘신설 특별직군’ 근로...",
     "월세집을 전세로 바꿔준다…9월에 뜨는 이 제도는 [머니 이기자]",
@@ -1001,6 +997,10 @@
     "울산시, 광주와 자동차 제조 AI 전환 공동사업 추진",
     "\"미래대응기금 설치 따른 지방재원 축소 없다\"",
     "포스코노조 \"8일까지 임협 대안 내놔라\"…9일 부분파업 예고",
-    "[기획특집] 'AI·글로벌·지역혁신' 이끄는 계명문화대학교, 수시 1685명..."
+    "[기획특집] 'AI·글로벌·지역혁신' 이끄는 계명문화대학교, 수시 1685명...",
+    "포스코 58년 만의 첫 파업 위기",
+    "‘창업도시’ 대구의 역설…신생기업 줄고 생존 경쟁력도 흔들린다",
+    "대구시, 청년과 기술이 모이는 창업생태계 조성한다!",
+    "포항 미분양 다시 증가…계약취소 65건 반영"
   ]
 }
