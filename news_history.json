@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/032/0003467510?sid=102",
-    "https://n.news.naver.com/mnews/article/119/0003127381?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1288529",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1288738",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1288563",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1288535",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290955",
     "https://www.abcn.kr/news/articleView.html?idxno=91450",
     "http://mcnews.co.kr/86569",
-    "https://www.m-i.kr/news/articleView.html?idxno=1410830"
+    "https://www.m-i.kr/news/articleView.html?idxno=1410830",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083330",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059453",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059422"
   ],
   "titles": [
-    "“포스코 직원 3명 중 1명 ‘주 52시간 초과’ 정황”…노조, 특별근로...",
-    "포스코 노조 “6000명 연장근로 한도 초과 정황”…고용부에 특별근로감...",
-    "연수구 '데이터 플랫폼' 구축...데이터 기반 행정 강화",
     "국립한밭대, AX 인재 온보딩 공통교육 과정 성료",
     "영월군, 추석 앞두고 공사대금 체불 집중점검",
     "강릉시, 경포생태저류지서 '달빛아트쇼' 운영",
@@ -1001,6 +998,9 @@
     "충남도, 생태관광지 10곳 잇는 '스탬프 투어' 운영",
     "로얄럭스, 제36회 '올해 베스트 브랜드 대상' 받아 브랜드 가치 입증",
     "LH “‘입찰비리 자진신고 시 처벌 감경… 신고자 포상금도 확대”",
-    "K방산 기업 89%가 中企인데 매출은 18%…수출 뒤 가려진 '공급망 격차'"
+    "K방산 기업 89%가 中企인데 매출은 18%…수출 뒤 가려진 '공급망 격차'",
+    "[인터뷰] 김종술 대구보훈청장 \"기다리는 보훈서 찾아가는 보훈으로\"",
+    "문경시, 14일부터 전 시민 고유가 위기대응 지원금 지급",
+    "영천시, 농촌 찾아 토지·농지·부동산 민원 현장 상담"
   ]
 }
