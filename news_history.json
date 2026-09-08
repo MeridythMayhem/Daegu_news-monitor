@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001026429?sid=102",
-    "http://mcnews.co.kr/86555",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289685",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289459",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1289504",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/005/0001871707?sid=101",
     "https://n.news.naver.com/mnews/article/119/0003130458?sid=101",
     "https://n.news.naver.com/mnews/article/629/0000531968?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291524"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291524",
+    "https://www.ksmnews.co.kr/news/view.php?idx=621125",
+    "https://www.ksmnews.co.kr/news/view.php?idx=621104"
   ],
   "titles": [
-    "경북대 '서울대 10개' 탈락 후폭풍…교수회 \"평가 결과 공개하라\"",
-    "항공업계, 작년 안전에 13조 3천억 투자… 올해 17조 전망",
     "추미애 \"경기도 재정위기, 민선8기 확장재정이 원인\"…김동연 책임론 제...",
     "인천시, 구월2 공공주택지구 토지거래허가구역 1년 연장...투기 차단·실...",
     "진주시, 시민 참여형 주차장 조성으로 도심 주차난 해소 나서",
@@ -1001,6 +999,8 @@
     "‘1조4000억’ 요구에 58년 무분규 끝… 첫 파업 길 가는 포스코 노조",
     "엘앤에프, CB 발행 검토…“46파이·LFP 확대 대응 차원”",
     "자금 조달 필요한 엘앤에프, 전환사채 발행 검토 인정",
-    "[전매TV] 박수현 충남지사 태안 첫 방문…고속도로·발전공기업 본사 유..."
+    "[전매TV] 박수현 충남지사 태안 첫 방문…고속도로·발전공기업 본사 유...",
+    "AI 데이터센터 신청 160곳 중 96곳 수도권…대경 3곳뿐 '수도권 블랙홀'",
+    "교육부, ‘초광역 성장엔진 인재육성’ 6개 대학 연합체 선정… 4년간 최..."
   ]
 }
