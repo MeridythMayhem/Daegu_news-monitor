@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001027099?sid=103",
-    "https://www.dkilbo.com/news/articleView.html?idxno=553511",
-    "https://www.wikitree.co.kr/articles/1157827",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290955",
-    "https://www.abcn.kr/news/articleView.html?idxno=91450",
-    "http://mcnews.co.kr/86569",
-    "https://www.m-i.kr/news/articleView.html?idxno=1410830",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083330",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059453",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059422",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291041",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291048",
@@ -499,18 +490,18 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292055",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292000",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292013",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060246"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060246",
+    "https://n.news.naver.com/mnews/article/001/0016302163?sid=102",
+    "https://www.tbc.co.kr/news/view?pno=20260910093300AE05385&id=210921",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292079",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292067",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292051",
+    "https://www.youthdaily.co.kr/news/article.html?no=226846",
+    "https://www.kpinews.kr/newsView/1065578658198578",
+    "https://it.donga.com/109503/",
+    "https://www.m-i.kr/news/articleView.html?idxno=1412146"
   ],
   "titles": [
-    "에스엘이충곤재단, 위기가정 위해 1억5천600만원 기부",
-    "[기획] 천년의 역사 위에 다시 서는 상주",
-    "[김승원 의혹] 카페서 알게 됐다더니... 알고 보니 '로테이션 바' 변호했...",
-    "충남도, 생태관광지 10곳 잇는 '스탬프 투어' 운영",
-    "로얄럭스, 제36회 '올해 베스트 브랜드 대상' 받아 브랜드 가치 입증",
-    "LH “‘입찰비리 자진신고 시 처벌 감경… 신고자 포상금도 확대”",
-    "K방산 기업 89%가 中企인데 매출은 18%…수출 뒤 가려진 '공급망 격차'",
-    "[인터뷰] 김종술 대구보훈청장 \"기다리는 보훈서 찾아가는 보훈으로\"",
-    "문경시, 14일부터 전 시민 고유가 위기대응 지원금 지급",
     "영천시, 농촌 찾아 토지·농지·부동산 민원 현장 상담",
     "대전 서구의회, 제299회 제1차 정례회 개회…추경예산안 등 안건 심사",
     "대전관광공사, 관광MICE산업발전 대상 수상",
@@ -1001,6 +992,15 @@
     "전남광주통합특별시, AI 활용 백신 제조·품질관리 기술개발 추진",
     "강남구 '20년 동안 안 낸 세금' 끝까지 추적",
     "서울시의회 정진철 의원 \"20년째 매각 못한 DMC 랜드마크 용지…현실성...",
-    "[궁금해 부동산] '오픈런' 부른 CR리츠 전세…어떻게 다를까"
+    "[궁금해 부동산] '오픈런' 부른 CR리츠 전세…어떻게 다를까",
+    "포스코 첫 파업에도 노사 교섭 '제자리'…쟁점은 임금·복지",
+    "포스코 노조 이틀째 부분 파업…\"생산 차질 없어\"",
+    "당진시, 호수공원 시민참여단 30명 본격 활동",
+    "예산군, 시스템에어컨 전문인력 양성교육 시작",
+    "양구군, 청년 기술창업 역량 강화·창업 기반 조성 지원",
+    "스마일게이트 희망스튜디오, 지역 청년과 함께 아동·청소년 AI 창작 역...",
+    "[노성열의 AI경제] 중국 'SMR 굴기' 맞설 한국의 승부수…원전 제조의 T...",
+    "[인터뷰] 19년 된 도장기업 ‘경일산업’, 제조현장에 AI를 도입한 이유",
+    "'두유 쉐이크부터 산나물 빵까지'…중기부, 혁신 소상공인 TOP 11 선발"
   ]
 }
