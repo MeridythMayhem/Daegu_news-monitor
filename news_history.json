@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291041",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291048",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290759",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290990",
-    "http://mcnews.co.kr/86573",
     "https://www.m-i.kr/news/articleView.html?idxno=1410943",
     "https://n.news.naver.com/mnews/article/088/0001027190?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1290751",
@@ -499,14 +494,14 @@
     "https://www.kpinews.kr/newsView/1065578658198578",
     "https://it.donga.com/109503/",
     "https://www.m-i.kr/news/articleView.html?idxno=1412146",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060806"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060806",
+    "https://www.newsinside.kr/news/articleView.html?idxno=4992547",
+    "https://n.news.naver.com/mnews/article/421/0009162864?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292128",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292150",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292133"
   ],
   "titles": [
-    "대전 서구의회, 제299회 제1차 정례회 개회…추경예산안 등 안건 심사",
-    "대전관광공사, 관광MICE산업발전 대상 수상",
-    "인하대, 연태대와 '2026 GBLA 중국 현지 교육' 진행",
-    "경남교육청, 김해 직업교육 혁신지구 '내-일 꿈드림 축제' 개최",
-    "동서발전, 맞춤형 내부통제사 양성 교육 시행",
     "'2026 사천에어쇼' 내달 22일 개막…KF-21 시범비행",
     "한국가스공사 노조 \"부실과 부채 떠넘기는 졸속 통합 반대\"",
     "강원도, 고성서 '로드&amp;평화 비무장지대 페스타'",
@@ -1001,6 +996,11 @@
     "[노성열의 AI경제] 중국 'SMR 굴기' 맞설 한국의 승부수…원전 제조의 T...",
     "[인터뷰] 19년 된 도장기업 ‘경일산업’, 제조현장에 AI를 도입한 이유",
     "'두유 쉐이크부터 산나물 빵까지'…중기부, 혁신 소상공인 TOP 11 선발",
-    "경주서 글로벌 CEO 한자리에…AI·로봇 미래산업 해법 모색"
+    "경주서 글로벌 CEO 한자리에…AI·로봇 미래산업 해법 모색",
+    "[기획] 포스코·네이버 '첫 파업'…산업계 '갈등' 공식 달라졌다",
+    "포스코 노조 \"사측 전향적 제시안 없으면 더 큰 파업\"",
+    "완도군, 추석맞이 전복 소비촉진 캠페인 전개",
+    "성남시의회 경제환경위원회, 드론배송·환경시설 등 7곳 현장점검",
+    "[기획특집] 최은하 마포구의회 의장 \"정쟁보다 정책…'의회다운 의회' ..."
   ]
 }
