@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/422/0000903995?sid=102",
-    "https://n.news.naver.com/mnews/article/056/0012253092?sid=102",
-    "http://www.breaknews.com/1234910",
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=266552",
-    "https://www.newsway.co.kr/news/view?ud=2026090814390046506",
     "https://www.obsnews.co.kr/news/articleView.html?idxno=1536735",
     "https://it.chosun.com/news/articleView.html?idxno=2023092169697",
     "https://www.kpinews.kr/newsView/1065590361173077",
@@ -499,14 +494,14 @@
     "https://n.news.naver.com/mnews/article/005/0001872314?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292372",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292398",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292408"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292408",
+    "https://n.news.naver.com/mnews/article/003/0014184096?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292435",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292442",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292454",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061188"
   ],
   "titles": [
-    "경주 공장서 프레스기계 해체 중 불…1명 사망·2명 중상",
-    "경주 폐기물 처리공장서 폭발·화재…작업자 1명 사망, 2명 중상",
-    "포항TP, 베트남 박람회서 지역기업 해외 판로 지원…38건 상담·15건 MOU",
-    "포스코, 광양에 4800억 투자 자동차강판 공장 신설…생산 능력 확대",
-    "포스코 노조, 9일 첫 부분파업 돌입…10월 전면파업도 검토",
     "포스코노조, 내일 부분파업…첫 파업 현실화하나",
     "포항 대신 강남서 파업 전야제…노조, 장인화 회장 직접 압박 나섰다",
     "포스코 의존도 높은 포항 경제…노조 48시간 부분파업 예고에 불안 고조",
@@ -1001,6 +996,11 @@
     "포스코 노조 1차 부분 파업 48시간 만에 종료…교섭 안갯속",
     "강서구의회, 안전·복지·문화 현장 잇따라 점검…주민체감형 의정활동...",
     "광진구, 청년친화헌정대상 4년 연속 수상",
-    "성북구, 사회복지 유공자 70명 표창"
+    "성북구, 사회복지 유공자 70명 표창",
+    "군포시, 도시정비국 신설…9년간 시범 운영 대동제 폐지",
+    "여주시의회 초선 조장연 의원...'열정과 의욕'적인 의정활동 눈길",
+    "경찰, 김승원 법무부 장관 후보자 '신약 승인 청탁 의혹' 수사 착수",
+    "[특징주] 아모텍, 하반기 실적 기대감 속 '上' 기록",
+    "지역 기업 AI 전환, M.AX로 앞당긴다"
   ]
 }
