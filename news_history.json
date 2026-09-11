@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291265",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291475",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291513",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291342",
@@ -499,10 +498,10 @@
     "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034424",
     "https://www.taxtimes.co.kr/news/article.html?no=276828",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=204526&mode=view",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1723995"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1723995",
+    "https://www.tbc.co.kr/news/view?pno=20260911152609AE05468&id=210989"
   ],
   "titles": [
-    "정선군, 10일 '3·3주민운동의 날' 제31주년 기념식 개최",
     "강원특별자치도, 민선9기 핵심사업 중심 조직개편 추진",
     "경남 석탄화력 폐쇄에 협력사 1천520명 고용 위기…지원대책 마련한다",
     "경북도, 국제 AI·메타버스 영상제 산업 연계 성과",
@@ -1001,6 +1000,7 @@
     "인천지방국세청 행정사무관 인사",
     "광주지방국세청, 14명 사무관 승진…9급공채 7명, 여성 4명",
     "포스코 노조 48시간 부분파업 마무리..재파업 예고",
-    "[EBN 오늘(11일) 이슈 종합] 국제유가 100달러 돌파·포스코 120시간 파업..."
+    "[EBN 오늘(11일) 이슈 종합] 국제유가 100달러 돌파·포스코 120시간 파업...",
+    "\"여행비 절반 돌려준다\"..영천.안동 '반값 여행' 주목"
   ]
 }
