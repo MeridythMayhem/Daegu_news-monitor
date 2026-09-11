@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001027303?sid=103",
-    "https://n.news.naver.com/mnews/article/421/0009158047?sid=102",
-    "https://n.news.naver.com/mnews/article/079/0004187128?sid=102",
-    "https://n.news.naver.com/mnews/article/629/0000531862?sid=102",
-    "https://n.news.naver.com/mnews/article/088/0001027378?sid=102",
-    "http://www.metroseoul.co.kr/article/20260908500322",
     "http://www.metroseoul.co.kr/article/20260908500296",
     "https://www.news2day.co.kr/article/20260908500164",
     "https://www.yeongnam.com/web/view.php?key=20260908028387356",
@@ -499,15 +493,15 @@
     "https://n.news.naver.com/mnews/article/123/0002390022?sid=004",
     "https://www.ziksir.com/news/articleView.html?idxno=146068",
     "https://n.news.naver.com/mnews/article/003/0014184255?sid=102",
-    "https://www.m-i.kr/news/articleView.html?idxno=1412678"
+    "https://www.m-i.kr/news/articleView.html?idxno=1412678",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3692088",
+    "https://n.news.naver.com/mnews/article/024/0000108128?sid=101",
+    "https://www.discoverynews.kr/news/articleView.html?idxno=1101255",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061229",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061276",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061234"
   ],
   "titles": [
-    "9월 9일 자 시사상식 퀴즈",
-    "'3명 사상' 경주 폐기물업체 화재…고용부, 중대재해법 위반 조사",
-    "경주 폐기물 처리공장서 기계 해체 작업 중 폭발…3명 사상",
-    "경주 공장 프레스기 해체 중 폭발·화재, 작업자 1명 사망·2명 중상",
-    "포스코 창사 58년만의 첫 파업, 이제 하루 남았다…노조, 8일 장인화 회...",
-    "포스코, 4800억 들여 9년 만에 자동차 도금강판 공장 신설",
     "포스코 노조, 48시간 부분파업 D-1…“오늘까지 협상”",
     "[9월 8일 고용24 채용정보] 한국가스공사·한국알콜산업·대산문화재단...",
     "[굿바이 WMAC, 포스트 WMAC] 영국 육상대표팀 전지훈련캠프, 대구에 차린...",
@@ -1001,6 +995,12 @@
     "[인사] 국세청 고위공무원 승진·과장급 전보 (2명)",
     "발전소 복제한 '디지털트윈'… 남동발전, 지식대상 대통령상",
     "울산 남구, AI 보이스봇 도입 '대한민국 지식대상' 수상",
-    "투자 '0회' 창업자에 300번 기회 연다…중기부, 142개 TIPS 운영사 연결"
+    "투자 '0회' 창업자에 300번 기회 연다…중기부, 142개 TIPS 운영사 연결",
+    "국세청, 간부급 인사 단행…윤순상 부산청 조사2국장 고위직 승진",
+    "포스코 이어 HD현대중공업도…전 조합원 첫 파업",
+    "올 2월 당진 가스누출 사고, 위반자는 '한국가스공사'",
+    "포항시의회, 의원 국외연수 예산 1억원 반납…\"민생 어려움 동참\"",
+    "구미 수점동 지방도 905호선 전 구간 개통…좁고 굽은 도로 개선",
+    "로봇축구부터 AR 양궁까지…포항서 AI·SW 체험 한마당"
   ]
 }
