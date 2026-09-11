@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/119/0003130403?sid=102",
-    "http://www.snmnews.com/news/articleView.html?idxno=574447",
     "https://www.the-today.com/news/articleView.html?idxno=89745",
     "https://n.news.naver.com/mnews/article/003/0014177551?sid=102",
     "https://www.yeongnam.com/web/view.php?key=20260908028237366",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/421/0009165837?sid=102",
     "https://www.sentv.co.kr/article/view/sentv202609110143",
     "https://www.m-i.kr/news/articleView.html?idxno=1413051",
-    "https://n.news.naver.com/mnews/article/009/0005734095?sid=101"
+    "https://n.news.naver.com/mnews/article/009/0005734095?sid=101",
+    "https://n.news.naver.com/mnews/article/056/0012255819?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005734104?sid=101"
   ],
   "titles": [
-    "경주 폐기물 공장서 폭발과 함께 화재 발생…1명 사망·2명 중상",
-    "포스코노조, 9일 오전 7시부터 48시간 부분파업 돌입",
     "포스코, 자동차용 용융아연도금강판 공장 신설…고급 자동차 강판 생산...",
     "이상휘 \"포스코 노사 파업 확산은 막아야 한다\"",
     "대구디지털혁신진흥원장 이동하 전 DGIST 산학협력단장 선임…‘실전형...",
@@ -1001,6 +999,8 @@
     "2500만원 횡령 혐의 대구 동구체육회장 불구속 송치",
     "포스코 이어 HD현대重도 파업…‘추석 전 타결’ 매일 교섭",
     "48시간 부분파업 마친 포스코 노조, 16일 '120시간 2차 파업' 예고",
-    "“햄버거 제국 만든 형제는 그 간판 못 썼다”…맥도날드에 얽힌 엇갈린..."
+    "“햄버거 제국 만든 형제는 그 간판 못 썼다”…맥도날드에 얽힌 엇갈린...",
+    "포스코 노조, 닷새 뒤 재파업 예고",
+    "“매년 880만원 아끼는데 안해요?”…파이어족 다들 한다는데 [이번주 ..."
   ]
 }
