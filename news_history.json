@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/005/0001871707?sid=101",
     "https://n.news.naver.com/mnews/article/119/0003130458?sid=101",
     "https://n.news.naver.com/mnews/article/629/0000531968?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291524",
@@ -499,10 +498,10 @@
     "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258646",
     "https://www.startuptoday.co.kr/news/articleView.html?idxno=812846",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292604",
-    "https://www.bzeronews.com/news/articleView.html?idxno=822590"
+    "https://www.bzeronews.com/news/articleView.html?idxno=822590",
+    "http://www.breaknews.com/1236144"
   ],
   "titles": [
-    "‘1조4000억’ 요구에 58년 무분규 끝… 첫 파업 길 가는 포스코 노조",
     "엘앤에프, CB 발행 검토…“46파이·LFP 확대 대응 차원”",
     "자금 조달 필요한 엘앤에프, 전환사채 발행 검토 인정",
     "[전매TV] 박수현 충남지사 태안 첫 방문…고속도로·발전공기업 본사 유...",
@@ -1001,6 +1000,7 @@
     "[초격차 기업가] ④ 이건희 &lt;상&gt; 국수공장의 하얀 고무신 소년, 반도체에...",
     "[이슈] 포스코 첫 파업 48시간 만에 종료… 노조, 2차 파업은 '깜깜이'",
     "CIA, 9·11 25주년 맞아 기밀자료 71건 공개",
-    "국세청 세무직 236명·전산직 4명…일반승진 160명·특별승진 80명"
+    "국세청 세무직 236명·전산직 4명…일반승진 160명·특별승진 80명",
+    "매일경제신문 주최, 세계지식포럼 3현자(賢者)의 AI 외침"
   ]
 }
