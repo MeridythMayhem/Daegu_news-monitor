@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.dynews.co.kr/news/articleView.html?idxno=864795",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5059987",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1404067",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4434007",
-    "https://news.mtn.co.kr/news-detail/2026090908291743002",
-    "https://www.the-today.com/news/articleView.html?idxno=89779",
-    "https://n.news.naver.com/mnews/article/082/0001397490?sid=101",
-    "https://hbnpress.com/news/view/1065570697155687",
-    "https://n.news.naver.com/mnews/article/422/0000904256?sid=102",
     "http://www.issuenbiz.com/news/articleView.html?idxno=79579",
     "https://www.joongangenews.com/news/articleView.html?idxno=546614",
     "https://www.tbc.co.kr/news/view?pno=20260908182734AE05273&id=210841",
@@ -499,18 +490,18 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292732",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292707",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061656",
-    "https://n.news.naver.com/mnews/article/648/0000050721?sid=101"
+    "https://n.news.naver.com/mnews/article/648/0000050721?sid=101",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083952",
+    "https://n.news.naver.com/mnews/article/009/0005734400?sid=101",
+    "https://n.news.naver.com/mnews/article/088/0001028146?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292773",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292771",
+    "https://n.news.naver.com/mnews/article/088/0001028139?sid=102",
+    "https://n.news.naver.com/mnews/article/025/0003550982?sid=103",
+    "https://www.inews365.com/news/article.html?no=935533",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061685"
   ],
   "titles": [
-    "'MBI 코인 사기' 총책 지목 60대 첫 재판…피해자들 \"엄벌해야\"",
-    "포항시의회 제333회 임시회 개회…2차 추경안 등 심사",
-    "이기연 광양시의장, 포스코 광양 8CGL 신설사업 착공식 참석",
-    "포스코 노조, 48시간 부분파업 돌입…핵심 생산공정은 유지",
-    "'임금협상 불발' 포스코 노사…48시간 부분파업 돌입",
-    "포스코노조, 48시간 부분파업 돌입…창사 58년 만에 처음",
-    "포스코 노조 부분파업 돌입… 창사 58년만에 처음",
-    "포스코노조 창사이래 첫 부분파업...참여인원 소수·사 측 대비 생산 차...",
-    "포스코 노조 창사 첫 부분파업…생산차질 최소화",
     "58년 무파업 깨진 포스코…노조, 48시간 부분파업 돌입",
     "포스코 노조, 첫 파업 돌입...120여명 48시간 부분파업",
     "포스코노조, '첫 파업' 돌입...48시간 부분파업",
@@ -1001,6 +992,15 @@
     "서산시 '충청권 유일' 제15회 대한민국 지식대상 수상",
     "남원시바이오산업연구원, 천연물 건강기능식품 개발 전략 모색",
     "구미 '춘하秋동 취업한마당' 16일 개최…70개 기업서 503명 채용",
-    "성과 쌓아가는 '발전용' 가스터빈…방산으로 저변 넓힐까"
+    "성과 쌓아가는 '발전용' 가스터빈…방산으로 저변 넓힐까",
+    "[특별기고] 포항시민과 포스코 노사의 위기 극복",
+    "보호무역 상시화, 중기 공급망 다변화 기회로",
+    "가을 영일만에 모인 9천명…'2026 포항 2차전지 마라톤' 성료",
+    "추석 앞 소상공인·중소기업에 103조원 푼다…대출 만기도 자동 연장",
+    "대전시, 드론기업과 민군 겸용 드론산업 육성 논의",
+    "영천영대병원, 응급실 정상화 '난색' 표시…폐쇄 수순 돌입 의구심 커져",
+    "30년간 일곱 편 영화로 세계적 거장 된 이창동…美타임 \"말로 하기 어려...",
+    "첨복재단 통합 추진 '가시화'…청주 오송에 '주사무소' 설치 목소리",
+    "대구·전북·경남, AX·피지컬AI 초광역 협력…제조혁신 생태계 구축"
   ]
 }
