@@ -1,12 +1,5 @@
 {
   "urls": [
-    "http://www.issuenbiz.com/news/articleView.html?idxno=79579",
-    "https://www.joongangenews.com/news/articleView.html?idxno=546614",
-    "https://www.tbc.co.kr/news/view?pno=20260908182734AE05273&id=210841",
-    "https://www.epnc.co.kr/news/articleView.html?idxno=406705",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065567230025513",
-    "https://news.dealsitetv.com/articles/175577",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291551",
     "https://www.m-i.kr/news/articleView.html?idxno=1411556",
     "https://www.m-i.kr/news/articleView.html?idxno=1411594",
     "https://www.m-i.kr/news/articleView.html?idxno=1411143",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/088/0001028139?sid=102",
     "https://n.news.naver.com/mnews/article/025/0003550982?sid=103",
     "https://www.inews365.com/news/article.html?no=935533",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061685"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061685",
+    "https://www.dkilbo.com/news/articleView.html?idxno=554181",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292721",
+    "https://n.news.naver.com/mnews/article/009/0005734417?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005734418?sid=101",
+    "https://www.iusm.co.kr/news/articleView.html?idxno=1067818",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292801",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292798"
   ],
   "titles": [
-    "58년 무파업 깨진 포스코…노조, 48시간 부분파업 돌입",
-    "포스코 노조, 첫 파업 돌입...120여명 48시간 부분파업",
-    "포스코노조, '첫 파업' 돌입...48시간 부분파업",
-    "엘앤에프 \"46파이·LFP 성장 모멘텀 기반 선제적 자금 조달 방안 다각 검...",
-    "엘앤에프, 성장자금 선제 확보…전환사채 발행 검토·LFP 양극재 투자 본...",
-    "[핀포인트] [대동모빌리티] IPO 미뤄 FI 몸값 두 배…3년안 적자 끊어야",
-    "횡성군, 관광500만 시대 도약 위한 790억 원 추경 편성",
     "칠곡군·도로공사 대구경북본부, 칠곡휴게소서 고향사랑기부 홍보 협력",
     "김영신 기정원장, '씨엠티엑스' 찾아 글로벌 진출방안 모색",
     "구미시, 반도체 기업·인재 잇는 '매칭 포럼' 개최",
@@ -1001,6 +994,13 @@
     "영천영대병원, 응급실 정상화 '난색' 표시…폐쇄 수순 돌입 의구심 커져",
     "30년간 일곱 편 영화로 세계적 거장 된 이창동…美타임 \"말로 하기 어려...",
     "첨복재단 통합 추진 '가시화'…청주 오송에 '주사무소' 설치 목소리",
-    "대구·전북·경남, AX·피지컬AI 초광역 협력…제조혁신 생태계 구축"
+    "대구·전북·경남, AX·피지컬AI 초광역 협력…제조혁신 생태계 구축",
+    "66억 입찰 의혹… 경주시 통보 7시간 전 업체는 어떻게 법원에 갔나",
+    "속초시, 민생회복지원금 153억 원 지급",
+    "[부동산 손자병법] 여의도·노량진 잇는 '삼각편대'… 신길 재개발·재건...",
+    "[부동산 손품노트] \"부동산 입지 판도를 바꾼다\" 교통망 100가지 사실 대...",
+    "학생 300명 로봇 대결부터 강변 영화까지…주말 울산 '북적'",
+    "안양시의회 도시교통위, 석수광역공공하수처리장 방문",
+    "군포시의회 \"대형 개발사업, 재정 부담부터 따져야\""
   ]
 }
