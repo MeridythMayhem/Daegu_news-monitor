@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://news.dealsitetv.com/articles/175806",
-    "https://n.news.naver.com/mnews/article/031/0001056953?sid=102",
-    "https://n.news.naver.com/mnews/article/469/0000953114?sid=102",
-    "https://www.ceoscoredaily.com/page/view/2026090916484908248",
     "https://www.sisajournal-e.com/news/articleView.html?idxno=423600",
     "https://n.news.naver.com/mnews/article/009/0005732802?sid=105",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291705",
@@ -499,13 +495,13 @@
     "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026091400055&story_seq=0&soCode=114&socttSn=NS2026091400055&socttSeq=0",
     "http://www.kwangju.co.kr/article.php?aid=1789380900803347004",
     "http://www.inews365.com/news/article.html?no=935706",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034718"
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034718",
+    "http://www.segyebiz.com/newsView/20260914519188?OutUrl=naver",
+    "https://www.tbc.co.kr/news/view?pno=20260914164723AE05556&id=211047",
+    "https://www.tbc.co.kr/news/view?pno=20260910154325AE05405&id=211049",
+    "https://www.tbc.co.kr/news/view?pno=20260914175455AE05572&id=211048"
   ],
   "titles": [
-    "포스코, 창사 58년만에 첫 파업…\"공장 정상 가동\"",
-    "포스코 창사 첫 파업 현실화…광양제철소도 멈췄다, 지역사회 ‘우려’",
-    "포스코 58년 무파업 깨졌다… 노조 \"협상 안 풀리면 120시간 파업\"",
-    "포스코, 창사 50년 만에 첫 파업…포항·광양 2개 라인 멈췄다",
     "엘앤에프, 1년 만에 또 자금 조달 채비···LFP 성장 본궤도 오를까",
     "조강원 모레 대표 “엔비디아 아니어도 된다···AMD 등 경쟁자에도 기...",
     "영양군, 국가지질공원 인증 위한 학술조사 착수",
@@ -1001,6 +997,10 @@
     "[매일신문 조규덕 기자의 위클리TK] SK실트론 매각 갈등, 문장초 씨름 전...",
     "호남 55.9%…이재명 대통령 국정수행 든든한 버팀목",
     "통합 첨단의료재단 주사무소는 오송에",
-    "대학 기부금 '서울 쏠림'… 도내 27곳 7% 받을 때 SKY 32%"
+    "대학 기부금 '서울 쏠림'… 도내 27곳 7% 받을 때 SKY 32%",
+    "포스코 노사, 12일 만에 교섭 재개…2차 부분파업 분수령",
+    "\"설엔 주고 추석엔 삭감, 왜\"...민생지원금 삭감 '부글부글'",
+    "'투자 러시' 구미, 철도.도로망도 '쑥쑥'",
+    "대구서 '산단 수출 박람회'...글로벌 바이어 북적"
   ]
 }
