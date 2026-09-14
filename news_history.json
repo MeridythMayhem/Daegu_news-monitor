@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/002/0002455693?sid=102",
-    "https://n.news.naver.com/mnews/article/277/0005813926?sid=101",
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=144184",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=503339",
-    "https://n.news.naver.com/mnews/article/448/0000638284?sid=101",
     "https://www.newspim.com/news/view/20260909000413",
     "https://www.todayenergy.kr/news/articleView.html?idxno=302731",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291593",
@@ -499,14 +494,14 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292828",
     "http://www.incheonin.com/news/articleView.html?idxno=120708",
     "https://n.news.naver.com/mnews/article/020/0003747835?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061455"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061455",
+    "https://n.news.naver.com/mnews/article/421/0009167744?sid=102",
+    "https://n.news.naver.com/mnews/article/009/0005734609?sid=100",
+    "https://www.m-i.kr/news/articleView.html?idxno=1413253",
+    "https://www.m-i.kr/news/articleView.html?idxno=1413288",
+    "https://www.m-i.kr/news/articleView.html?idxno=1413272"
   ],
   "titles": [
-    "포스코 첫 파업에 포항시 지역경제 영향 점검",
-    "포스코 오늘부터 부분 파업…창사 이후 최초",
-    "포스코 부분파업 돌입...사측 \"생산 차질 크지 않을 것\"",
-    "창사 58년 만에 첫 파업 맞은 포스코…노사 임금 이견에 고조된 전운",
-    "포스코, 창사 58년 만 첫 파업…\"제품 공급 지장 없어\"",
     "포스코, 첫 파업에도 산세·전기강판 라인 정상 가동…\"생산 차질 크지...",
     "엘앤에프, 하이니켈·LFP 투자 확대…CB 발행 검토",
     "미래여성의원, 광양사랑상품권 2천6백만 원 구매 동참",
@@ -1001,6 +996,11 @@
     "경북도, APEC 성과 관광자산화…국제문화원 설립 건의",
     "한국 지역언론, 생존을 넘어 전문언론으로",
     "[부고]김동윤 별세 外",
-    "울릉군, 국토외곽 먼섬 발전계획 21개 사업 확정…4804억 규모"
+    "울릉군, 국토외곽 먼섬 발전계획 21개 사업 확정…4804억 규모",
+    "포항 사과 선별장·경주 알루미늄 공장 화재…인명피해 없어",
+    "화성특례시, ‘대한민국 지식대상’ 매경 회장상 수상",
+    "금오공대, 초광역 성장엔진 인재육성사업 대경권 주관대학 선정",
+    "현대백화점, 더현대 서울서 '네오 로컬' 팝업…K지역 문화 알린다",
+    "기보, 호우피해 특별재난지역 중소기업에 사고특례조치 시행"
   ]
 }
