@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005732802?sid=105",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291705",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291743",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291815",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291884",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291731",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291902",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291901",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291621",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291708",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291699",
@@ -499,17 +491,17 @@
     "https://www.tbc.co.kr/news/view?pno=20260914164723AE05556&id=211047",
     "https://www.tbc.co.kr/news/view?pno=20260910154325AE05405&id=211049",
     "https://www.tbc.co.kr/news/view?pno=20260914175455AE05572&id=211048",
-    "https://www.ppss.kr/news/articleView.html?idxno=310668"
+    "https://www.ppss.kr/news/articleView.html?idxno=310668",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=60096",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1724221",
+    "https://www.ekn.kr/web/view.php?key=20260915022194676",
+    "https://www.banronbodo.com/news/articleView.html?idxno=33022",
+    "https://n.news.naver.com/mnews/article/374/0000532883?sid=101",
+    "https://www.kbmaeil.com/article/20260913500729",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293214",
+    "https://www.asiatime.co.kr/article/20260914500100"
   ],
   "titles": [
-    "조강원 모레 대표 “엔비디아 아니어도 된다···AMD 등 경쟁자에도 기...",
-    "영양군, 국가지질공원 인증 위한 학술조사 착수",
-    "구미시, 추석 맞아 취약계층 복지대책 추진",
-    "대구경북경제자유구역청, 피지컬 AI·미래모빌리티 산업 육성 전략 모색",
-    "울주군, 제35회 군민상 수상자 3명 선정",
-    "함양군, 경남도에 산삼엑스포 등 현안사업 지원 요청",
-    "이순열 여주세종문화관광재단이사장...공직선거법 위반 '무혐의'",
-    "충남도의회, 유치원 입학준비금 지원 근거 마련 추진",
     "충남도-한국노총 '발전공기업 통합본사' 유치 맞손",
     "경북도, 렛츠런파크 영천 17년 만에 개장",
     "함안군, 불법 농지 성토 근절 위한 합동 단속 추진",
@@ -1001,6 +993,14 @@
     "\"설엔 주고 추석엔 삭감, 왜\"...민생지원금 삭감 '부글부글'",
     "'투자 러시' 구미, 철도.도로망도 '쑥쑥'",
     "대구서 '산단 수출 박람회'...글로벌 바이어 북적",
-    "포스코 노사 12일 만에 다시 협상...120시간 파업 막을까"
+    "포스코 노사 12일 만에 다시 협상...120시간 파업 막을까",
+    "[세미콜론] 국세청 사무관 승진 '지방청과 세무서 현장, 9급 출신' 우대...",
+    "[조재범의 대댓글] '집단 이기주의' 택한 포스코 노조, '제철보국' 잊었...",
+    "포스코 노사, 120시간 파업 하루 앞두고 교섭 재개",
+    "포스코, 임금인상안 상향 제시에도... 노조 120시간 추가 파업 예고",
+    "12일 만에 마주 앉는 포스코 노사…결렬 땐 '120시간 부분 파업'",
+    "아무런 대가도 없이 삼성 이병철에 대구대학 운영권 넘겨",
+    "GTX-C 15일 착공…덕정~삼성 30분 시대 연다",
+    "[14일 화성시] 매향리서 ‘평화생태 프리마켓’ 개최 등"
   ]
 }
