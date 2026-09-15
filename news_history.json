@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=621326",
-    "https://www.tbc.co.kr/news/view?pno=20260909154819AE05337&id=210884",
-    "https://www.tbc.co.kr/news/view?pno=20260909082409AE05281&id=210886",
-    "https://www.tbc.co.kr/news/view?pno=20260909142719AE05323&id=210883",
-    "https://www.newspim.com/news/view/20260909001326",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=715277",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=559166",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708497",
     "https://ysmbc.co.kr/NewsArticle/1536254",
     "http://andongmbc.co.kr/adboard/NewsView84672",
     "https://www.econovill.com/news/articleView.html?idxno=750360",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293520",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293511",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293494",
-    "https://www.m-i.kr/news/articleView.html?idxno=1414174"
+    "https://www.m-i.kr/news/articleView.html?idxno=1414174",
+    "https://www.kbmaeil.com/article/20260915500409",
+    "https://n.news.naver.com/mnews/article/082/0001398376?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005735475?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005735476?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293619",
+    "https://www.news2day.co.kr/article/20260915500166",
+    "https://www.youthdaily.co.kr/news/article.html?no=227119",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062442"
   ],
   "titles": [
-    "국공립대 교수단체 \"교육부 '선택 지원' 재검토 촉구… 전체 국립대 육...",
-    "태왕, 회생 첫 관문 넘을까?...9월 중 개시 여부 결정",
-    "[정치로]신약 로비 의혹 '일파만파', 호르무즈 해법은?",
-    "지방 곳간 털어 미래 대응? 교부세 급감 우려",
-    "창사 이래 첫 포스코 부분 파업…포항시, 협력업체·소상공인 지원책 검...",
-    "포스코 부분파업에 포항 경제 긴장…협력업체·골목상권 파장 선제 대응",
-    "\"포스코 파업, 민생 피해 최소화해야\"",
-    "포스코노조 창사 첫 파업...지역경제 악영향 우려 목소리 높아",
     "R] 포스코 창사 이래 첫 파업..48시간 부분 파업 돌입",
     "포스코 노조 창사 58년 만에 첫 부분 파업",
     "포스코 58년 무분규 깨졌다…노조, 48시간 부분파업",
@@ -1001,6 +993,14 @@
     "나주시, 에너지 창업기업 육성...생태계 조성 본격화",
     "철원군, 민선9기 공약사업 최종 점검…8천604억원 규모 실행계획 마련",
     "정선군, 9월 재산세 60억7천100만 원 부과",
-    "경주시, 민선9기 공약·2027 주요업무 점검… 114개 중점사업 집중 관리"
+    "경주시, 민선9기 공약·2027 주요업무 점검… 114개 중점사업 집중 관리",
+    "‘포스코 120시간 파업’ 코앞…포항시, 신산업 인프라 깔며 비상 대응",
+    "포스코 노사, 12일 만에 재교섭…2차 파업 갈림길",
+    "올트먼·아모데이, 머스크까지 “AI 속도 늦추자” 한목소리…반도체 시...",
+    "부동산 입지 서열 바꾸는 철도…집값 올릴 ‘황금노선’ 찾는 법 [부동...",
+    "부산시, 교육특구 운영평가 2년 연속 최고등급 달성",
+    "[오늘의 인사] : 9월 14일} 아주경제 外",
+    "AI 확산에 수도권 일자리 쏠림 심화 우려…한은 \"지역경제 재설계 필요...",
+    "문경시, 고유가 위기대응 지원금 신청 시작…현장 점검 강화"
   ]
 }
