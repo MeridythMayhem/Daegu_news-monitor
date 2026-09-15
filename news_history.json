@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291699",
-    "https://www.m-i.kr/news/articleView.html?idxno=1411990",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=865169",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060551",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060546",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060541",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060581",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060545",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060553",
     "https://n.news.naver.com/mnews/article/022/0004157721?sid=102",
     "https://www.dkilbo.com/news/articleView.html?idxno=553844",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293214",
     "https://www.asiatime.co.kr/article/20260914500100",
     "https://www.g-enews.com/view.php?ud=202609150556155430fbbec65dfb_1",
-    "https://www.m-i.kr/news/articleView.html?idxno=1413894"
+    "https://www.m-i.kr/news/articleView.html?idxno=1413894",
+    "https://n.news.naver.com/mnews/article/421/0009170238?sid=102",
+    "https://n.news.naver.com/mnews/article/421/0009170244?sid=102",
+    "https://n.news.naver.com/mnews/article/138/0002241417?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293404",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293377",
+    "https://www.m-i.kr/news/articleView.html?idxno=1413867",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293366",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062177"
   ],
   "titles": [
-    "함안군, 불법 농지 성토 근절 위한 합동 단속 추진",
-    "전남광주, 교육부 인재양성체계 점검서 광주 S등급",
-    "[작지만 강한 우리 단체] ⑤오송첨단의료산업진흥재단·신약개발지원센...",
-    "대한민국 국제물주간 대구서 개막…60개국 1만2000여명 참가",
-    "대구시의회 교육위, 직업교육박람회 방문…산학협력·취업 확대 점검",
-    "포항 일자리박람회에 85개 기업 참여…241명 채용 추진",
-    "문경시의회, 올해 첫 추경 수정 가결…고유가 위기대응 지원금 반영",
-    "안동시-공영홈쇼핑 협약…지역 농특산물 6개 업체 방송판매 지원",
     "구미시, 추석 전 복지급여 201억원 조기 지급…6만5800명 대상",
     "포스코 창사 후 첫 파업에 포항지역 우려감 확산… \"장기화하면 지역경...",
     "포스코 파업 장기화 가능성…포항 지역사회 대응책 분주",
@@ -1001,6 +993,14 @@
     "GTX-C 15일 착공…덕정~삼성 30분 시대 연다",
     "[14일 화성시] 매향리서 ‘평화생태 프리마켓’ 개최 등",
     "에코프로비엠, 헝가리 공장 SNS 의혹 정면 반박…유럽 공급망 수성 총력",
-    "중진공, 자연재난 피해기업에 자금 지원"
+    "중진공, 자연재난 피해기업에 자금 지원",
+    "대구 동구 목공예공장 화재",
+    "대구 동구 목공예공장 화재",
+    "2차 파업 D-1…포스코 노사, 다시 협상 테이블로",
+    "오늘 장관 후보자 3명 청문회…김승원 의혹 놓고 여야 격돌",
+    "첫째 낳으면 첫 달 790만 원…강남구가 작정하고 만든 '아이 천국'",
+    "화성특례시, 지하수 인허가 업무 개선으로 '대한민국 지식대상' 수상",
+    "SH, GH·iH와 공공주택 '공급자' 넘어 공동체 지원 방안 모색",
+    "경북 해외자문위원 21개국서 일본 집결…K-푸드 해외 판로 넓힌다"
   ]
 }
