@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292119",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292122",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292188",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292221",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292102",
@@ -499,11 +497,11 @@
     "https://www.g-enews.com/view.php?ud=202609152058411023112616b072_1",
     "https://n.news.naver.com/mnews/article/421/0009172356?sid=102",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=204565&mode=view",
-    "https://news.mtn.co.kr/news-detail/2026091520001297379"
+    "https://news.mtn.co.kr/news-detail/2026091520001297379",
+    "https://www.namdonews.com/news/articleView.html?idxno=923562",
+    "https://n.news.naver.com/mnews/article/138/0002241557?sid=101"
   ],
   "titles": [
-    "보성군, 기본소득 12일 만에 63억 소비…상권 활기",
-    "순창군, 구인·구직 취업박람회 개최... 지역 내 취업기회 확대",
     "대규모 개인정보 유출 땐 매출 10% 과징금…11일부터 시행",
     "[국민청원] \"제주도 외국인 범죄 및 체류·투자 제도에 대한 국민 불안...",
     "보령시, 스마트농업 육성 계획 수립…. AI 기반 미래농업 전략 속도",
@@ -1001,6 +999,8 @@
     "포스코노조, 16일 2차 부분파업 예고…\"전향적 제시안 없었다\"",
     "포스코 노조, 협상 또 결렬…16일부터 5일간 부분파업 예",
     "포스코 노사 교섭 중단..2차 부분 파업",
-    "포스코 노사 임금 협상 중단…노조 16일 2차 부분 파업 돌입"
+    "포스코 노사 임금 협상 중단…노조 16일 2차 부분 파업 돌입",
+    "포스코 사측 '집중 교섭' 제안에 노조는 \"시간 끌기\"",
+    "포스코 노사 재교섭 끝내 중단…노조, 16일 120시간 파업 강행"
   ]
 }
