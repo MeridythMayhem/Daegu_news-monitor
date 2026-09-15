@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=274958",
-    "https://n.news.naver.com/mnews/article/366/0001191573?sid=104",
-    "http://mcnews.co.kr/86585",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292202",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292089",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292119",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292122",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292188",
@@ -499,14 +494,14 @@
     "https://www.dkilbo.com/news/articleView.html?idxno=554515",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260915010005894",
     "https://n.news.naver.com/mnews/article/009/0005735774?sid=101",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084383"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084383",
+    "http://www.newstomato.com/ReadNews.aspx?no=1313828&inflow=N",
+    "https://www.g-enews.com/view.php?ud=202609152058411023112616b072_1",
+    "https://n.news.naver.com/mnews/article/421/0009172356?sid=102",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=204565&mode=view",
+    "https://news.mtn.co.kr/news-detail/2026091520001297379"
   ],
   "titles": [
-    "포스코, 58년만의 첫 파업에서 노사 교섭 '제자리'",
-    "[Why] 中 금 장신구 매장 1000곳 문 닫는데, 지갑은 더 열렸다",
-    "윤학수 전문건설협회장 “더 나은 미래 만들어 갈 것”",
-    "서울시, '글로벌 톱3' 도전…2030년까지 89조 투입",
-    "무주군, 명절 앞두고 농어촌 기본소득 첫 지급",
     "보성군, 기본소득 12일 만에 63억 소비…상권 활기",
     "순창군, 구인·구직 취업박람회 개최... 지역 내 취업기회 확대",
     "대규모 개인정보 유출 땐 매출 10% 과징금…11일부터 시행",
@@ -1001,6 +996,11 @@
     "포스코 노사 교섭 중지… '120시간 부분파업'",
     "포스코 노사 협상 '잠정 중단'…120시간 재파업 수순 밟나",
     "“GTX 생긴다고 덥석 샀다간”…A·B·C 역세권 진짜 수혜지역 어디 [교...",
-    "문화유산 보존부터 복지·경제 해법까지…상주 미래 그리다"
+    "문화유산 보존부터 복지·경제 해법까지…상주 미래 그리다",
+    "포스코 노사 임금협상 중단…노조 16일 2차 부분파업",
+    "포스코노조, 16일 2차 부분파업 예고…\"전향적 제시안 없었다\"",
+    "포스코 노조, 협상 또 결렬…16일부터 5일간 부분파업 예",
+    "포스코 노사 교섭 중단..2차 부분 파업",
+    "포스코 노사 임금 협상 중단…노조 16일 2차 부분 파업 돌입"
   ]
 }
