@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=1412678",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3692088",
-    "https://n.news.naver.com/mnews/article/024/0000108128?sid=101",
-    "https://www.discoverynews.kr/news/articleView.html?idxno=1101255",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061229",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061276",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061234",
     "http://www.intn.co.kr/news/articleView.html?idxno=2053280",
     "https://www.tfmedia.co.kr/news/article.html?no=207163",
     "https://www.tfmedia.co.kr/news/article.html?no=207162",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293890",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293901",
     "https://n.news.naver.com/mnews/article/469/0000954347?sid=102",
-    "https://www.idaegu.com/news/articleView.html?idxno=665717"
+    "https://www.idaegu.com/news/articleView.html?idxno=665717",
+    "https://n.news.naver.com/mnews/article/001/0016314543?sid=102",
+    "https://n.news.naver.com/mnews/article/052/0002407706?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293969",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293965",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293982",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293939",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293955"
   ],
   "titles": [
-    "투자 '0회' 창업자에 300번 기회 연다…중기부, 142개 TIPS 운영사 연결",
-    "국세청, 간부급 인사 단행…윤순상 부산청 조사2국장 고위직 승진",
-    "포스코 이어 HD현대중공업도…전 조합원 첫 파업",
-    "올 2월 당진 가스누출 사고, 위반자는 '한국가스공사'",
-    "포항시의회, 의원 국외연수 예산 1억원 반납…\"민생 어려움 동참\"",
-    "구미 수점동 지방도 905호선 전 구간 개통…좁고 굽은 도로 개선",
-    "로봇축구부터 AR 양궁까지…포항서 AI·SW 체험 한마당",
     "국세청, 2026년 사무관 240명 승진 인사 단행",
     "[인사] 서울지방국세청 사무관 승진",
     "[인사] 중부지방국세청 사무관 승진",
@@ -1001,6 +994,13 @@
     "미추홀구, 사회적기업협의회와 소통... 사회적경제지원센터 운영 재개 ...",
     "서산시, 멸종위기 가시연 서식지 조성 추진… 생물다양성 보전 나서",
     "지역 소멸 막고 경제 살릴 묘책은… 전국 지자체, 강릉서 해법 찾는다 ...",
-    "[기획 시리즈-내 집 마련 꿈, 지역주택조합의 민낯]&lt;5·끝&gt;'이대로 괜찮..."
+    "[기획 시리즈-내 집 마련 꿈, 지역주택조합의 민낯]&lt;5·끝&gt;'이대로 괜찮...",
+    "포스코 2차 부분파업, 생산엔 차질 없어…제철소 주변 긴장감",
+    "포스코 노조 2차 부분 파업...\"생산 차질 없어\"",
+    "홍천군, 하천·계곡 불법행위 정비에 민관 협력 강화",
+    "양구군, 19일 '2026년 양구군 청년의 날' 행사 개최",
+    "강원도, 추석 연휴 종합대책 추진… 민생·안전·관광·교통 대응 강화",
+    "강릉시, 대한교통학회서 ITS 세계총회 준비 역량 알린다",
+    "삼척시, 발전분야 전문인력 양성… 지역상생 협력체계 구축"
   ]
 }
