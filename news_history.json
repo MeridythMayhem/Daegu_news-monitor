@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292543",
-    "https://www.100ssd.co.kr/news/articleView.html?idxno=212719",
-    "http://mcnews.co.kr/86593",
-    "https://www.m-i.kr/news/articleView.html?idxno=1412860",
-    "https://n.news.naver.com/mnews/article/003/0014185072?sid=102",
-    "https://www.taxwatch.co.kr/article/tax/2026/09/11/0005/naver",
     "https://www.taxtimes.co.kr/news/article.html?no=276822",
     "https://n.news.naver.com/mnews/article/123/0002390037?sid=101",
     "https://n.news.naver.com/mnews/article/079/0004188478?sid=102",
@@ -499,15 +493,15 @@
     "https://n.news.naver.com/mnews/article/422/0000906688?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293953",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293991",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293999"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293999",
+    "http://fpn119.co.kr/256695",
+    "https://n.news.naver.com/mnews/article/003/0014194524?sid=102",
+    "https://n.news.naver.com/mnews/article/029/0003048364?sid=101",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=612688",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062979",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062985"
   ],
   "titles": [
-    "평창인재육성장학재단, 2026년 2차 장학생 모집",
-    "올해 이효석문학상에 박솔뫼 작가 \"사과\"",
-    "지적·드론측량 경진대회 열려… 현장 역량 강화",
-    "경주시, 2027년 한-중앙아 지방정부 협력포럼 유치 추진",
-    "[인사]광주지방국세청",
-    "국세청, 역대 최대규모 사무관 승진 인사",
     "국세청, 개청 60년 이래 최대 사무관 승진인사 240명 단행",
     "고위공무원 승진, 윤순상 전 국세청 세원정보과장은 누구?",
     "포스코 노조, 창사 후 첫 파업 마무리…16일 확대 파업 예고",
@@ -1001,6 +995,12 @@
     "또 멈춘 포스코…120시간 두번째 부분 파업 돌입",
     "무주군, 미래비전 2050 수립...지속가능 성장 기반 구축",
     "홍성군, 기업 현장 소통 강화… 투자 확대·일자리 창출 지원",
-    "담양군, 마을활동가 양성교육...공동체 역량 강화"
+    "담양군, 마을활동가 양성교육...공동체 역량 강화",
+    "경북 경주시 공장 화재… 관계자가 옥내소화전으로 진화",
+    "대구·경북 제조업 사망자 121명…35.5%는 '끼임 사고'",
+    "내홍 휩싸인 포스코노조…간부 21일 줄사퇴 예고",
+    "포스코 노조, 120시간 2차 부분파업…임금협상 또 결렬",
+    "구미 천연가스발전소 준공…501.4MW 전력기반 확보",
+    "경북도, '스마트 제조 포럼' 개최…피지컬 AI·로보틱스 미래 논의"
   ]
 }
