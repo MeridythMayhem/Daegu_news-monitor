@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293450",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293607",
-    "http://mcnews.co.kr/86629",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293706",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293544",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062557",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062561",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062461",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062537",
     "https://www.kbmaeil.com/article/20260915500746",
@@ -499,16 +492,16 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=866579",
     "https://www.ngonews.kr/news/articleView.html?idxno=238730",
     "https://n.news.naver.com/mnews/article/011/0004663483?sid=102",
-    "https://www.etoday.co.kr/news/view/2627434"
+    "https://www.etoday.co.kr/news/view/2627434",
+    "https://www.newspim.com/news/view/20260918001140",
+    "https://www.tbc.co.kr/news/view?pno=20260918092606AE05789&id=211250",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609182112001340725",
+    "https://ysmbc.co.kr/NewsArticle/1537718",
+    "https://n.news.naver.com/mnews/article/009/0005737523?sid=101",
+    "https://www.idaegu.com/news/articleView.html?idxno=665778",
+    "https://www.tbc.co.kr/news/view?pno=20260918095841AE05794&id=211245"
   ],
   "titles": [
-    "안산시, 스마트허브·5070 통합 일자리박람회 성료…319명 현장 채용",
-    "대전시, 사회서비스원 경영평가 3년 연속 S등급",
-    "중부발전, ‘2026 국가공헌대상’ 과기정통부 장관상 수상",
-    "양주시, 공인중개사 400여 명 대상 실무 연수교육 진행",
-    "시흥시의회, 전세사기 예방 위한 안전전세 관리단 조례 제정 논의",
-    "포항시, 딥테크 창업도시·AI 데이터센터 육성…철강산업 대응 강화",
-    "울진군, 후포~청송IC 고속도로 등 13개 현안 국비 지원 건의",
     "경북도, 포항 철강산단 경쟁력 강화 논의…전력비·판로·고용안정 해법...",
     "영양군, 9월 재산세 8억300만원 부과…전년보다 3.9% 증가",
     "삼성물산, 구미 AI 데이터센터 건립에 지역 건설업체 참여 확대 약속",
@@ -1001,6 +994,13 @@
     "경북도, 지방자치경영대전 국무총리상 수상",
     "광양시, \"포스코 파업 충격 최소화 총력\" 노사민정 한자리 모여 '상생 결...",
     "포스코 하청노조 교섭에 법원 제동…사측 집행정지 첫 인용",
-    "법원, 포스코 하청노조 분리교섭 결정 효력 정지"
+    "법원, 포스코 하청노조 분리교섭 결정 효력 정지",
+    "포스코노조 부분 파업 확대...포항시, 지역 경제 위기 대응 '총력'",
+    "포스코 노조, 부분 파업 대상 5곳으로 확대",
+    "‘포스코 분리교섭’ 중노위 결정 효력 정지…플랜트건설노조 “즉시항...",
+    "포스코 노조, 부분 파업 사업장 '확대'",
+    "“연금 30년 받으면 수백만원 차이”…국민연금, 모르면 손해 보는 ‘이...",
+    "[대구일보 기획 : 불여일견 - 청년, 현장에서 길을 찾다] 6 빅웨이브AI",
+    "'5극3특 국비' 선착순? 대경권 '예산 패싱' 우려"
   ]
 }
