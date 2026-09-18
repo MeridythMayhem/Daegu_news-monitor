@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005735475?sid=101",
-    "https://n.news.naver.com/mnews/article/009/0005735476?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293619",
-    "https://www.news2day.co.kr/article/20260915500166",
-    "https://www.youthdaily.co.kr/news/article.html?no=227119",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062442",
     "https://n.news.naver.com/mnews/article/088/0001028617?sid=102",
     "https://n.news.naver.com/mnews/article/008/0005414038?sid=101",
@@ -499,14 +494,14 @@
     "https://www.yeongnam.com/web/view.php?key=20260918022529472",
     "https://www.m-i.kr/news/articleView.html?idxno=1415991",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294778",
-    "https://www.kbmaeil.com/article/20260918500160"
+    "https://www.kbmaeil.com/article/20260918500160",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20260918010007151",
+    "https://www.news2day.co.kr/article/20260918500165",
+    "https://www.kdpress.co.kr/news/articleView.html?idxno=208735",
+    "https://n.news.naver.com/mnews/article/018/0006372057?sid=100",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063936"
   ],
   "titles": [
-    "올트먼·아모데이, 머스크까지 “AI 속도 늦추자” 한목소리…반도체 시...",
-    "부동산 입지 서열 바꾸는 철도…집값 올릴 ‘황금노선’ 찾는 법 [부동...",
-    "부산시, 교육특구 운영평가 2년 연속 최고등급 달성",
-    "[오늘의 인사] : 9월 14일} 아주경제 外",
-    "AI 확산에 수도권 일자리 쏠림 심화 우려…한은 \"지역경제 재설계 필요...",
     "문경시, 고유가 위기대응 지원금 신청 시작…현장 점검 강화",
     "안전보건공단 경북지역본부, 구미·김천 중대재해 근절 총력 대응",
     "포스코·HD현대重 부분파업 확대하나..추석 전 타결 촉각",
@@ -1001,6 +996,11 @@
     "李대통령 “수도권 일극체제 극복” 말했지만…TK 홀대론 등 구체적 지...",
     "상주시, 국무총리배 생활체육 전국 게이트볼대회 개최",
     "성남시의회, 추석 맞아 소방서·복지시설 위문 방문",
-    "경북도 ‘대한민국 지방자치경영대전’ 국무총리 표창 수상"
+    "경북도 ‘대한민국 지방자치경영대전’ 국무총리 표창 수상",
+    "파업 수위 높이는 포스코 노조…교섭 재개는 언제",
+    "[현장] 농산물 유통개혁, ‘단계’보다 ‘가격결정권’에 초점 맞춰야",
+    "피자앤컴퍼니 '반올림피자', '2026 국민공감대상' 고객신뢰브랜드 부문...",
+    "지역 농산물·문화가 사업으로…‘경북 로컬 체인지업’ 총리 표창",
+    "포항시, 공영주차장 30곳에 10MW 태양광…200억원 민간자본 투입"
   ]
 }
