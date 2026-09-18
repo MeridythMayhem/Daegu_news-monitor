@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293488",
-    "http://mcnews.co.kr/86621",
-    "http://mcnews.co.kr/86614",
-    "http://mcnews.co.kr/86620",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=447227",
-    "https://www.news2day.co.kr/article/20260915500147",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293566",
     "http://mcnews.co.kr/86622",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293470",
@@ -499,15 +493,15 @@
     "https://www.businesskorea.co.kr/news/articleView.html?idxno=277253",
     "https://www.m-i.kr/news/articleView.html?idxno=1415693",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063704",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063780"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063780",
+    "https://www.hidomin.com/news/articleView.html?idxno=721791",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084747",
+    "http://fpn119.co.kr/256799",
+    "https://n.news.naver.com/mnews/article/448/0000640060?sid=102",
+    "https://www.newscj.com/news/articleView.html?idxno=3433752",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609180852200240614"
   ],
   "titles": [
-    "김승원 \"수사·기소 분리 취지 공소청에 반영…수사정보 정치적 이용 바...",
-    "‘중대 불법하도급’ 국토부 직접처분… ‘새만금 사업’서 지역사업자...",
-    "가스공사, 태국 방콕 ‘가스텍 2026’서 동반성장관 운영",
-    "경기 양주~안산 상록수역 86.6km ‘GTX-C 노선’ 15일 착공",
-    "[부음] 강광우 장인, 성석우 외조모, 김정석 장모",
-    "포스코 노사, 2차 파업 D-1…추석 앞두고 임단협 타결 ‘분수령’",
     "완도군, 가을 섬 여행 개최…해양·문화 콘텐츠로 관광객 맞이",
     "한전KDN, 추석 앞두고 지역 아동복지시설에 기부",
     "파주시, 경제자유구역 지정 추진 본격화…자족도시 기반 마련",
@@ -1001,6 +995,12 @@
     "부산시, 지방자치 경영대전 국무총리상 수상",
     "경북·이탈리아 마르케주 합창단, 음악으로 하나된 무대 만들었다",
     "농촌 살리라는 '농식품 펀드'…67%가 수도권 기업으로 쏠렸다",
-    "구미시, 미등록경로당 13곳에 기업·단체 1대1 후원…돌봄 사각지대 지..."
+    "구미시, 미등록경로당 13곳에 기업·단체 1대1 후원…돌봄 사각지대 지...",
+    "대구 자동차부품 공장서 화재… 5시간여 만에 진화",
+    "대구 성서산단 한밤중 화재…섬유공장 태우고 5시간 만에 꺼져",
+    "대구 달서구 섬유 공장 화재… 건물ㆍ물품 소실",
+    "대구 섬유제작공장에서 화재…5시간만에 진화",
+    "[금융소식] 하나은행 나라사랑카드·하나더넥스트 대전라운지·공적연금...",
+    "경북도, 지방자치경영대전 국무총리상…로컬기업 육성 성과 인정"
   ]
 }
