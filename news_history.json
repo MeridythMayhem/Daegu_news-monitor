@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293479",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293615",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293462",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062235",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062544",
     "https://www.m-i.kr/news/articleView.html?idxno=1414316",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062556",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/009/0005737989?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005737984?sid=105",
     "https://www.eroun.net/news/articleView.html?idxno=90545",
-    "http://www.kwangju.co.kr/article.php?aid=1789901700803551028"
+    "http://www.kwangju.co.kr/article.php?aid=1789901700803551028",
+    "https://www.hidomin.com/news/articleView.html?idxno=722039",
+    "https://www.ksmnews.co.kr/news/view.php?idx=622730",
+    "https://www.hidomin.com/news/articleView.html?idxno=722035",
+    "https://www.ksmnews.co.kr/news/view.php?idx=622784"
   ],
   "titles": [
-    "태안군, 중소기업 근로자 80명에 명절 복지 지원",
-    "대구시, AI 기반 에너지 전문인력 양성사업 본격 추진",
-    "충남도, 중국 AI·첨단산업 현장 찾아 협력 방안 모색",
-    "구미시, 중국 선전 중소기업단체 초청…투자·산업교류 확대",
     "상주 서문동에 청년·근로자 공공임대주택 70호…2028년 입주",
     "내년 ICT R&amp;D 예산안 2조원 '역대 최대'…'3대 메가' 집중 투자",
     "구미 삼성SDS AI 데이터센터 11월 착공…지역 건설업체 참여 확대",
@@ -1001,6 +997,10 @@
     "스페이스X 다음은…우주 쿠팡맨 몸값, 8조원으로 뛴 이유 [오찬종의 매...",
     "“AI, 경제 성장시키고 사람 몫 줄일 것”…앤트로픽의 섬뜩한 경고 [나...",
     "경북도, 문화관광 경쟁력 인정받아 '2026 국민공감대상' 영예",
-    "“어민·해녀 삶 파고든 기획 돋보여…생소한 용어 친절한 설명을”"
+    "“어민·해녀 삶 파고든 기획 돋보여…생소한 용어 친절한 설명을”",
+    "법원, 포스코 하청노조 개별교섭 '제동' 걸었다",
+    "포항시, 포스코 파업 대응책 실행 나서...소상공인 특례보증 1500억 확대",
+    "두 쪽 난 포스코 노조 앞길은…",
+    "“투기꾼 잡겠다\" 농지전수조사”…평생 농사지은 농민 '한숨만'"
   ]
 }
