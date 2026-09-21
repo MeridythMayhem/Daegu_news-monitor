@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/079/0004190089?sid=102",
-    "http://www.breaknews.com/1237074",
     "https://www.seoultimes.news/news/article.html?no=2000099959",
     "https://n.news.naver.com/mnews/article/421/0009174231?sid=102",
     "http://www.metroseoul.co.kr/article/20260916500329",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295513",
     "http://mcnews.co.kr/86677",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295688",
-    "http://mcnews.co.kr/86681"
+    "http://mcnews.co.kr/86681",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=311719",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064884"
   ],
   "titles": [
-    "대구·경북, 지난 5년간 제조업장서 '매년 24명' 숨져…끼임사고가 최다",
-    "포스코노조 갈등 격화…김성호 위원장 “2026년 임금교섭 끝까지 책임지...",
     "[이슈] 포스코 노조 2차 부분파업 돌입…포항·광양서 120시간",
     "사측과 '골프 회동' 의혹 포스코 노조위원장 \"물러서지 않겠다\"",
     "산업현장 파업 수위 ‘고조’…포스코·HD현대重 강도 높이고 LS전선도...",
@@ -1001,6 +999,8 @@
     "경북 22개 시·군, 미래대응기금·지방교부세 개편 공동 대응",
     "고양·의왕 일원 공공주택지구 지정… 2.3만 가구 공급",
     "\"강남 30평대 아파트 3억 원대 가능\"…전현희, '토지임대부 지원법' 발의",
-    "LH, ‘AI 스마트 계측시스템’ 고도화 나선다"
+    "LH, ‘AI 스마트 계측시스템’ 고도화 나선다",
+    "의성마늘햄 20주년 서울서 '스물스물 햄복 팝업스토어' 개최",
+    "미래대응기금 놓고 지방 설득전…\"재정 자율성·분권 훼손 우려\""
   ]
 }
