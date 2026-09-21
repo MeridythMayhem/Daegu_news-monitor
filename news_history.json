@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/021/0002819220?sid=102",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4435173",
-    "https://n.news.naver.com/mnews/article/138/0002241623?sid=101",
-    "https://www.idaegu.com/news/articleView.html?idxno=665719",
-    "https://n.news.naver.com/mnews/article/421/0009173500?sid=102",
-    "https://www.tbc.co.kr/news/view?pno=20260916110205AE05675&id=211135",
-    "http://www.breaknews.com/1236958",
-    "https://n.news.naver.com/mnews/article/031/0001058857?sid=101",
-    "https://n.news.naver.com/mnews/article/003/0014193850?sid=101",
     "https://n.news.naver.com/mnews/article/079/0004189939?sid=102",
     "https://n.news.naver.com/mnews/article/088/0001028792?sid=100",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1293883",
@@ -499,18 +490,18 @@
     "https://sateconomy.co.kr/news/view/1065585973165515",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295503",
     "https://www.asiatoday.co.kr/kn/view.php?key=20260921010007799",
-    "https://n.news.naver.com/mnews/article/088/0001029694?sid=102"
+    "https://n.news.naver.com/mnews/article/088/0001029694?sid=102",
+    "https://n.news.naver.com/mnews/article/079/0004191619?sid=102",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=615046",
+    "https://www.news2day.co.kr/article/20260921500123",
+    "https://n.news.naver.com/mnews/article/088/0001029732?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295563",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295528",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295469",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295538",
+    "https://www.m-i.kr/news/articleView.html?idxno=1416560"
   ],
   "titles": [
-    "포스코 노조원, 일당 30만원 받으며 ‘웰빙 재택 파업’",
-    "포스코 노조, 오늘부터 120시간 부분 파업",
-    "포스코 노조, 2차 부분파업 돌입…노조 내부 갈등에 집행부 13명 사퇴",
-    "포스코노조 2차 부분파업…10월 총파업 예고",
-    "포스코·HD현대중 파업 수위 격상…추석 앞둔 이번 주 분수령(종합)",
-    "포스코 노조 2차 파업 속 간부 줄사퇴 예고 '내홍'",
-    "포스코노조 집행부 13명, 21일 집단 사퇴 예고…“위원장 골프·파업정보...",
-    "포스코 노조, 2차 부분파업 돌입⋯회사 \"대체인력 투입해 조업 차질 없...",
-    "\"사장까지 나섰지만\"…포스코 노조 2차 파업에 수요산업 '공급 차질' 촉...",
     "포스코 노사 협상 제자리…노조 2차 부분파업 돌입",
     "김태규 \"李, 바보 아니면 임명 안 해\"…\"연임 안 한다는 말 믿나?\" [뉴스...",
     "태안군, 백화 골목형상점가 지정… 소상공인 상권 활력",
@@ -1001,6 +992,15 @@
     "포스코, 120시간 파업 끝…임금협상 10월로 넘어가",
     "평택시, 베트남 다낭시와 계절근로자 협력…산업·문화 교류 확대",
     "의성군-롯데웰푸드, '의성마늘햄 20주년' 서울 팝업스토어 성료",
-    "'스물스물, 햄복이 퍼진다' 의성군과 롯데웰푸드, 서울에서 의성마늘햄..."
+    "'스물스물, 햄복이 퍼진다' 의성군과 롯데웰푸드, 서울에서 의성마늘햄...",
+    "김천에 '반도체 유리기판' 공장 들어선다…경북도-제이앤티씨 MOU",
+    "포스코노조, 120시간 부분파업 종료…2주간 '휴전'",
+    "[재계 인사이드] 이재용·최태원·정의선·구광모 체제, 옅어진 지역연...",
+    "[수사·기소 분리 시대] 〈상〉 검찰청 사라지는 10월 2일…수장도 직제...",
+    "경기도, 사회연대경제기업 사회적가치 159억 원 창출",
+    "군포시, 추석 연휴 종합대책 가동…100명 비상근무",
+    "완도군, 추석 앞두고 공직사회 청렴문화 확산 캠페인 전개",
+    "고양 대곡·의왕 오전왕곡에 2만3400가구…공공주택지구 지정",
+    "[기획] 처참한 지방 건설경기 침체, 건설 일자리 삼켰다"
   ]
 }
