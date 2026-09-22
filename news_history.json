@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.g-enews.com/view.php?ud=202609161534081359ea14faf6f5_1",
-    "https://n.news.naver.com/mnews/article/003/0014195386?sid=101",
-    "https://n.news.naver.com/mnews/article/009/0005736352?sid=101",
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=204587&mode=view",
     "https://www.ksmnews.co.kr/news/view.php?idx=622189",
     "https://www.tbc.co.kr/news/view?pno=20260916165555AE05696&id=211145",
     "https://www.yeongnam.com/web/view.php?key=20260916023239043",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295795",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295842",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065132",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065136"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065136",
+    "https://n.news.naver.com/mnews/article/088/0001029971?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295947",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295901",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065150"
   ],
   "titles": [
-    "호황에도 불황에도 노사갈등 격화…HD현대중·포스코 파업 수위 확대",
-    "포스코 사장 등판에도 '파업 강행'…조합원들 '재택·日30만원 수당'",
-    "62층 한강맨션·49층 신동아…용산 재건축 투톱 다시 뛴다[부동산 심머...",
-    "포스코노조 간부 13명, 21일 집행부 사퇴 선언",
     "포항 AIDC 유치 ‘전력·용수’가 관건…2.14GW·하루 10만톤 확보 과제",
     "포스코 노조 '파업 도중 내홍'...배경은?",
     "4년 밑그림 끝…대구 군부대 이전 ‘본궤도’",
@@ -1001,6 +997,10 @@
     "창동에 펼쳐지는 청년 음악의 우주",
     "청암대 '2026 취업박람회' 팡파르",
     "포항스틸러스 상주 홈경기 2차례 개최…7400여명 관람",
-    "영천하이테크파크 산업용지 50만㎡ 공급…내달 7~8일 접수"
+    "영천하이테크파크 산업용지 50만㎡ 공급…내달 7~8일 접수",
+    "안병철 한국물기술인증원장 \"물산업 성장 가능성 커…기업의 든든한 동...",
+    "속초시, 역세권 진입도로 확장사업 국비 184억원 확보",
+    "홍성군, 해안길 정비로 명품 트레킹로드 조성",
+    "영양교육지원청, 공유재산 6건 심의…도로 편입 토지 매각 추진"
   ]
 }
