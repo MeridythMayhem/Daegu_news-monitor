@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/079/0004190147?sid=102",
-    "https://n.news.naver.com/mnews/article/417/0001158532?sid=101",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20260916010006310",
-    "https://n.news.naver.com/mnews/article/022/0004159543?sid=102",
     "https://n.news.naver.com/mnews/article/052/0002407887?sid=102",
     "https://www.joongangenews.com/news/articleView.html?idxno=548605",
     "https://n.news.naver.com/mnews/article/009/0005736334?sid=105",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/016/0002700566?sid=102",
     "https://www.dynews.co.kr/news/articleView.html?idxno=866915",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064418",
-    "https://www.tbc.co.kr/news/view?pno=20260921143421AE05886&id=211329"
+    "https://www.tbc.co.kr/news/view?pno=20260921143421AE05886&id=211329",
+    "https://www.ajunews.com/view/20260922082937789",
+    "https://news.dealsitetv.com/articles/176073",
+    "https://www.m-i.kr/news/articleView.html?idxno=1417083",
+    "https://www.m-i.kr/news/articleView.html?idxno=1417066"
   ],
   "titles": [
-    "포스코노조 간부 13명, 21일 사퇴 예고 \"현 집행부와 함께 갈 수 없다\"",
-    "포스코 2차 파업 강행, 노조 지도부 내홍까지 겹쳐",
-    "포스코 2차 파업 현실화…사장 나온 협상, 노조위원장은 불참",
-    "사측과 골프회동한 포스코 노조위원장 논란 속 파업 참여 노조원, 일당...",
     "포스코 노조, 120시간 2차 부분 파업...\"입장 차 크다\"",
     "포스코 노조, 열연공장 중심 120시간 파업...사측 \"가용인력 투입해 정상...",
     "리사 수 \"韓에 AI연구센터 연내 설립\"…키워드는 개방·협력",
@@ -1001,6 +997,10 @@
     "의성군·롯데웰푸드, 의성마늘햄 출시 20주년 기념 캠페인 전개",
     "괴산 연풍 주민들 초고압 송전선로, 탑 설치 반대 집회한전 연수원서 반...",
     "제이앤티씨, 김천에 반도체 유리기판 생산라인 구축…3470억원 투자",
-    "\"농지 전수조사, 농촌 현실 감안 보완책 필요\""
+    "\"농지 전수조사, 농촌 현실 감안 보완책 필요\"",
+    "경북 고령군 차량용 부품공장서 화재…\"인명피해 없어\"",
+    "[핀포인트] [엘앤에프] 1조 차입금 만기 도래…자금 조달 구멍 '깜깜'",
+    "울릉군, 울릉도·독도 국가지질공원 교육·관광 협력체계 강화",
+    "구미시, 기업 기탁 잇따라 추석 앞두고 취약계층·복지시설 지원"
   ]
 }
