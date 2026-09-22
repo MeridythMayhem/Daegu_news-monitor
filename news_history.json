@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.smarttoday.co.kr/ko-kr/articles/111733",
-    "https://n.news.naver.com/mnews/article/001/0016317010?sid=102",
-    "https://n.news.naver.com/mnews/article/001/0016317009?sid=102",
     "https://idsn.co.kr/news/view/1065575992224366",
     "https://www.kbmaeil.com/article/20260917500238",
     "https://www.kbsm.net/news/view.php?idx=534633",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/001/0016330669?sid=102",
     "https://www.dkilbo.com/news/articleView.html?idxno=555389",
     "https://www.ngonews.kr/news/articleView.html?idxno=239036",
-    "https://n.news.naver.com/mnews/article/079/0004192276?sid=102"
+    "https://n.news.naver.com/mnews/article/079/0004192276?sid=102",
+    "https://www.pn.or.kr/news/articleView.html?idxno=34140",
+    "http://mcnews.co.kr/86691",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1332784"
   ],
   "titles": [
-    "구미 옛 LG전자 구미퓨처파크2 공장서 화재 발생",
-    "경북 구미 방산업체 화재",
-    "경북 구미 방산업체 화재",
     "구미 방산업체서 화재 발생…소방당국 진화 중",
     "포스코 2차 파업에 포항시 비상…300억 특례보증 풀고 상품권 푼다",
     "포항시, 포스코 부분파업 장기화 대비 민생대책 마련",
@@ -1001,6 +998,9 @@
     "[인사] 매일경제신문",
     "포스코노조 차기 위원장 놓고 김성호·김대억 '2파전'",
     "한국가스공사, 산불 대응 공로로 '국무총리 표창' 수상",
-    "\"짜장면 두 그릇에 오페라 본다\" 브라보 대구, 비바 오페라!"
+    "\"짜장면 두 그릇에 오페라 본다\" 브라보 대구, 비바 오페라!",
+    "대구의 80년 역사로 시간여행...옛날 신문으로 읽는 '길 위의 인문학'",
+    "세이프티랩, 상하이 투자 행사 ‘비접촉식 AI 생체리듬체크 키오스크’...",
+    "박찬대 \"주요 20개국 회의 공동 개최 검토 중\""
   ]
 }
