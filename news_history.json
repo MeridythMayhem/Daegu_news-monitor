@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.ksmnews.co.kr/news/view.php?idx=622189",
-    "https://www.tbc.co.kr/news/view?pno=20260916165555AE05696&id=211145",
     "https://www.yeongnam.com/web/view.php?key=20260916023239043",
     "https://www.tbc.co.kr/news/view?pno=20260916171634AE05698&id=211144",
     "https://www.m-i.kr/news/articleView.html?idxno=1415041",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/088/0001029971?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295947",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295901",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065150"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065150",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296026",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065183"
   ],
   "titles": [
-    "포항 AIDC 유치 ‘전력·용수’가 관건…2.14GW·하루 10만톤 확보 과제",
-    "포스코 노조 '파업 도중 내홍'...배경은?",
     "4년 밑그림 끝…대구 군부대 이전 ‘본궤도’",
     "'태왕 회생 절차' 개시...채권자 동의가 숙제",
     "칠곡군의회 조동석 의원, '귀농귀촌지원센터' 설립 촉구",
@@ -1001,6 +999,8 @@
     "안병철 한국물기술인증원장 \"물산업 성장 가능성 커…기업의 든든한 동...",
     "속초시, 역세권 진입도로 확장사업 국비 184억원 확보",
     "홍성군, 해안길 정비로 명품 트레킹로드 조성",
-    "영양교육지원청, 공유재산 6건 심의…도로 편입 토지 매각 추진"
+    "영양교육지원청, 공유재산 6건 심의…도로 편입 토지 매각 추진",
+    "양평군, 경마공원 유치 TF 전략회의 열고 추진 방향 점검",
+    "경북도, '지방정부전략국' 출범…지방주권시대 4대 전략 추진"
   ]
 }
