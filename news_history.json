@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://idsn.co.kr/news/view/1065575992224366",
     "https://www.kbmaeil.com/article/20260917500238",
     "https://www.kbsm.net/news/view.php?idx=534633",
     "http://www.newsprime.co.kr/news/article.html?no=748161",
@@ -499,10 +498,10 @@
     "https://n.news.naver.com/mnews/article/079/0004192276?sid=102",
     "https://www.pn.or.kr/news/articleView.html?idxno=34140",
     "http://mcnews.co.kr/86691",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1332784"
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1332784",
+    "https://www.tokenpost.kr/news/ai/412259"
   ],
   "titles": [
-    "구미 방산업체서 화재 발생…소방당국 진화 중",
     "포스코 2차 파업에 포항시 비상…300억 특례보증 풀고 상품권 푼다",
     "포항시, 포스코 부분파업 장기화 대비 민생대책 마련",
     "파업 수위 높이는 포스코 노조…생산 차질은 '아직'",
@@ -1001,6 +1000,7 @@
     "\"짜장면 두 그릇에 오페라 본다\" 브라보 대구, 비바 오페라!",
     "대구의 80년 역사로 시간여행...옛날 신문으로 읽는 '길 위의 인문학'",
     "세이프티랩, 상하이 투자 행사 ‘비접촉식 AI 생체리듬체크 키오스크’...",
-    "박찬대 \"주요 20개국 회의 공동 개최 검토 중\""
+    "박찬대 \"주요 20개국 회의 공동 개최 검토 중\"",
+    "2500만달러 투자받은 TBC, 뉴런 기반 AI 플랫폼 출시"
   ]
 }
