@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/648/0000050847?sid=101",
-    "http://mcnews.co.kr/86653",
-    "http://mcnews.co.kr/86656",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063298",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063276",
     "https://www.gukjenews.com/news/articleView.html?idxno=3698232",
@@ -499,12 +496,12 @@
     "http://mcnews.co.kr/86690",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295884",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295875",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065122"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065122",
+    "https://n.news.naver.com/mnews/article/009/0005739227?sid=101",
+    "https://n.news.naver.com/mnews/article/029/0003049577?sid=110",
+    "https://n.news.naver.com/mnews/article/001/0016330669?sid=102"
   ],
   "titles": [
-    "'이정재·정우성 이사' 아티스트스튜디오, 유증으로 시총·콘텐츠 '일거...",
-    "철도연, ‘전자연동장치 원격 표시제어 단말기’ 개발",
-    "한화포레나, 주요 브랜드 조사서 잇단 상위권… 올 정비사업 1조 돌파",
     "봉화군, 국가유산 활용사업 2건 선정…천문·고택 체험 운영",
     "경산시, 로봇부품 전환·국도 확장 등 내년 국비 확보 나서",
     "구미 공단동 방산업체서 화재...냉각탑 철거 중 불길",
@@ -1001,6 +998,9 @@
     "공간정보품질관리원, ‘GeoQ’ 영문판 첫 발간",
     "산청군, 주민과 대화로 지역 현안 해법 모색",
     "진주시, 진주드림 농특산물 호주 수출 판로 확대",
-    "자이S&amp;D, 1757억원 규모 '천호동 주상복합' 수주"
+    "자이S&amp;D, 1757억원 규모 '천호동 주상복합' 수주",
+    "“NCT·에스파로 쇼핑몰 도배”…K팝 품고 디즈니 넘어선 中 콘텐츠 공룡...",
+    "[논설실의 서가] ‘글로벌 AI 3강’ 가기 위한 8가지 조건",
+    "[인사] 매일경제신문"
   ]
 }
