@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/657/0000055445?sid=102",
-    "https://www.newspim.com/news/view/20260917000561",
-    "https://n.news.naver.com/mnews/article/001/0016317349?sid=102",
     "https://www.kbmaeil.com/article/20260917500177",
     "https://www.idaegu.com/news/articleView.html?idxno=665747",
     "https://n.news.naver.com/mnews/article/052/0002408193?sid=102",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296181",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065433",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065439",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065472"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065472",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3704614",
+    "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=911593",
+    "https://www.thereport.co.kr/news/articleView.html?idxno=91703"
   ],
   "titles": [
-    "경북 구미 한 공장 옥상서 화재···\"냉각탑 철거하다 불\"",
-    "구미 공단동 공장서 화재 진화 중…현재까지 인명 피해 없어",
-    "포스코 파업 장기화 대비…포항시, 기업·상권 지원책 가동",
     "포스코노조, 18일부터 부분파업 확대...회사 “정상 생산 유지”",
     "\"참여 인원 2배 늘 것\"…포스코노조, 18일부터 부분파업",
     "'2차 부분 파업' 포스코 노조, 파업 범위 확대",
@@ -1001,6 +998,9 @@
     "강서구의회, 제323회 제1차 정례회 폐회…안건 22건 처리",
     "대구 서구, 민선9기 9개 분야 57개 공약 확정",
     "경산시 취업지원센터 개소…맞춤형 고용서비스 제공",
-    "구미시의회 5분 발언…청년 유출·심뇌혈관 대응·초다자녀 지원 촉구"
+    "구미시의회 5분 발언…청년 유출·심뇌혈관 대응·초다자녀 지원 촉구",
+    "iM뱅크, 전북은행·BNK경남은행과 피지컬 AI 제조혁신·지역균형 MOU 체결",
+    "온누리상품권 결제 지역별 '쏠림'...충청권도 8개월 만에 3706억 원",
+    "전남 국립의대 순천대 추천···동서 갈등 법정으로"
   ]
 }
