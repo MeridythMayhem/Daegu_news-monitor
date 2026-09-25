@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/366/0001193070?sid=101",
-    "https://n.news.naver.com/mnews/article/277/0005817967?sid=102",
     "https://n.news.naver.com/mnews/article/088/0001029139?sid=102",
     "https://www.widedaily.com/news/articleView.html?idxno=301229",
     "https://www.dkilbo.com/news/articleView.html?idxno=554728",
@@ -499,11 +497,11 @@
     "https://www.sentv.co.kr/article/view/sentv202609250003",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490276",
     "https://n.news.naver.com/mnews/article/088/0001030550?sid=100",
-    "https://www.yeongnam.com/web/view.php?key=20260925029288461"
+    "https://www.yeongnam.com/web/view.php?key=20260925029288461",
+    "https://n.news.naver.com/mnews/article/009/0005739995?sid=101",
+    "https://news.cpbc.co.kr/article/1175844?division=NAVER"
   ],
   "titles": [
-    "포스코, ‘노조위원장과 골프’ 논란에 교섭팀 재편",
-    "포항시, 시의회와 정책 협력 강화… 포스코 파업 대비 '지역경제 위기대...",
     "포스코 파업, 장기화 조짐…18일 오전 7시 기해 파업 대상 공장 확대",
     "포스코 파업 동력 흔들…위원장 골프 논란에 집행부 줄사퇴 예고",
     "포스코 파업 확대 \"지역경제 다 죽는다\"",
@@ -1001,6 +999,8 @@
     "포스코, 첫 부분파업 이어 추석에도 비상체제…내달 노사 교섭 분수령",
     "AI 데이터센터가 부른다…이수페타시스 '초고다층 PCB' 반등 신호",
     "장동혁 \"국민이 받고픈 추석선물은 이재명 탄핵\" [뉴스캐비닛]",
-    "[청년이 남는 도시의 조건 ②] ‘직무 절벽’에 선 대구, 브르노가 그려..."
+    "[청년이 남는 도시의 조건 ②] ‘직무 절벽’에 선 대구, 브르노가 그려...",
+    "전문가 4인 \"내집마련 적기는 연휴 직후 … 한강벨트 노려볼만\"",
+    "내 삶의 빈방"
   ]
 }
