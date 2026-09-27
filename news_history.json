@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/629/0000534893?sid=102",
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=854131",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084644",
-    "http://www.finomy.com/news/articleView.html?idxno=261826",
-    "http://www.breaknews.com/1237506",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294682",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294445",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294681",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294677",
     "https://n.news.naver.com/mnews/article/469/0000954696?sid=102",
@@ -499,16 +492,16 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296486",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296478",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296505",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296506"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296506",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296524",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=761794",
+    "https://www.ngonews.kr/news/articleView.html?idxno=239286",
+    "https://www.dkilbo.com/news/articleView.html?idxno=555436",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066042",
+    "https://www.m-i.kr/news/articleView.html?idxno=1417835",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066033"
   ],
   "titles": [
-    "&lt;더팩트&gt; '유네스코 갯벌' 보도, 한국기자협회 '이달의 기자상' 수상",
-    "[포항 소식] 시-시의회, 정책 현안 공유·포스코 2차 부분 위기대응 대책...",
-    "포스코 2차 부분파업…포항시, 민생경제 지원 강화",
-    "포스코 노조, 부분파업 확대···사측 \"생산에는 차질 없어\"",
-    "대구메이커페스타 19일 개막…109개 부스서 AI·로봇 등 창작기술 체험",
-    "부산시, 추석 연휴 7대 분야 종합대책 추진",
-    "제물포역 일대, '제물포 Station-J' 도시재생사업 본격화",
     "경남도의회, MICE산업 경쟁력 강화 방안 모색",
     "경남도, 고수온 대응 양식품종 75%로 확대한다",
     "광안리 드론라이트쇼 대통령 표창... 스티로폼 부표 재활용·100원 버스...",
@@ -1001,6 +994,13 @@
     "전남광주특별시, 여수 석유화학·광양 철강 위기대응 성과 가시화",
     "순천시 \"365일 안심 공공의료도시' 만든다\"",
     "삼척시, 한국전문임업인 전국대회 10월 7일 개막",
-    "고성군 토성면, 네팔 수해 피해 유학생 돕기 성금 전달"
+    "고성군 토성면, 네팔 수해 피해 유학생 돕기 성금 전달",
+    "전남광주교육청, 지역 전략산업 맞춤형 실무인재 양성 본격화",
+    "2026 경주국제마라톤 2만명 참가, 내달 17일 개최",
+    "경주 도심 2만명 '러닝 물결'…2026 경주국제마라톤 10월 17일 개최",
+    "경주서 2만명 달린다… '2026 경주국제마라톤' 내달 17일 개최",
+    "대구 동구, 지방재정대상 지방세 최우수·세외수입 우수상",
+    "학생 100만명 줄어드는 내수 절벽… 교육업계, 한국어·AI 들고 해외로",
+    "AI로 재난안전 업무 손질한다…2030년까지 약 9400억원 투입"
   ]
 }
