@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294676",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294672",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294618",
-    "https://n.news.naver.com/mnews/article/469/0000954649?sid=102",
     "https://n.news.naver.com/mnews/article/082/0001398847?sid=100",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063641",
     "https://n.news.naver.com/mnews/article/629/0000534893?sid=102",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/009/0005740191?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005740190?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005740185?sid=103",
-    "https://www.wikitree.co.kr/articles/1162223"
+    "https://www.wikitree.co.kr/articles/1162223",
+    "https://n.news.naver.com/mnews/article/009/0005740223?sid=101",
+    "https://n.news.naver.com/mnews/article/009/0005740222?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296486",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296478"
   ],
   "titles": [
-    "부산교육청 통합 로그인 '펜즈', 개통 열흘 만에 20만 접속 돌파",
-    "의령 신반정보고, 'AI·디지털 데이터' 특화학교로 키운다",
-    "김해시, 시민 설문 반영한 2027년 예산편성 방향 마련",
-    "\"지역 성장 없이 국가 발전 없다... 다양한 정책 확산 계기 만들어야\" [...",
     "외국 관광객 16% ‘부산행’, 소비는 8%… “지역 소비 규모 늘려야”",
     "푸드테크 육성 연구지원센터 1호 문 열다",
     "&lt;더팩트&gt; '유네스코 갯벌' 보도, 한국기자협회 '이달의 기자상' 수상",
@@ -1001,6 +997,10 @@
     "틈새 파고든 네오클라우드…초고속 성장의 이면",
     "엮고, 칠하고, 깎고…손끝으로 잇는 세월의 유산",
     "직원 5만명 구조조정 한 자동차 공룡, 안 팔리는 차는 전부 단종시킨다",
-    "'경주국제마라톤’ 10월17일 개최...2만여명 참가"
+    "'경주국제마라톤’ 10월17일 개최...2만여명 참가",
+    "A급 신용도로 8% 수익, 사기 아닙니다…IMA의 A to Z [IMA 1편]",
+    "불량품만 잡아내도 뜬다…몸값 오른 반도체 검사장비기업[반도체 플러스...",
+    "전남광주특별시, 여수 석유화학·광양 철강 위기대응 성과 가시화",
+    "순천시 \"365일 안심 공공의료도시' 만든다\""
   ]
 }
