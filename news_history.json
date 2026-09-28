@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/011/0004663483?sid=102",
-    "https://www.etoday.co.kr/news/view/2627434",
-    "https://www.newspim.com/news/view/20260918001140",
-    "https://www.tbc.co.kr/news/view?pno=20260918092606AE05789&id=211250",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609182112001340725",
     "https://ysmbc.co.kr/NewsArticle/1537718",
     "https://n.news.naver.com/mnews/article/009/0005737523?sid=101",
     "https://www.idaegu.com/news/articleView.html?idxno=665778",
@@ -499,14 +494,14 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066429",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066484",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085609",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296989"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296989",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3707419",
+    "https://n.news.naver.com/mnews/article/009/0005741031?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296631",
+    "https://n.news.naver.com/mnews/article/009/0005741015?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296999"
   ],
   "titles": [
-    "포스코 하청노조 교섭에 법원 제동…사측 집행정지 첫 인용",
-    "법원, 포스코 하청노조 분리교섭 결정 효력 정지",
-    "포스코노조 부분 파업 확대...포항시, 지역 경제 위기 대응 '총력'",
-    "포스코 노조, 부분 파업 대상 5곳으로 확대",
-    "‘포스코 분리교섭’ 중노위 결정 효력 정지…플랜트건설노조 “즉시항...",
     "포스코 노조, 부분 파업 사업장 '확대'",
     "“연금 30년 받으면 수백만원 차이”…국민연금, 모르면 손해 보는 ‘이...",
     "[대구일보 기획 : 불여일견 - 청년, 현장에서 길을 찾다] 6 빅웨이브AI",
@@ -1001,6 +996,11 @@
     "경북사회복지공동모금회, 상주 취약계층에 7790만 원·복지시설 차량 3대...",
     "울진군, 황일순 서울대 명예교수 초청 '에너지·울진 미래' 특강",
     "iM뱅크노조, 대구·경북 소규모 초등학교에 2000만원 후원",
-    "경남도, 고액체납자 추적… 70명 체납액 12억1천300만 원"
+    "경남도, 고액체납자 추적… 70명 체납액 12억1천300만 원",
+    "전국금융노조 iM뱅크대구은행지부, 이주배경가족 창작 스튜디오에 2천만...",
+    "“리테일만 고집할 필요 없다”…상가를 호텔·임대주택으로 바꾸는 이...",
+    "천안시, K-컬처박람회 40만 관람객 성과·개선과제 점검",
+    "[알립니다] 토목·건축 기술대상 주인공을 찾습니다",
+    "[전매TV] \"곡성 제2변전소・송전탑 전면 백지화해야\""
   ]
 }
