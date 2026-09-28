@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.businesspost.co.kr/BP?command=article_view&num=447562",
-    "https://n.news.naver.com/mnews/article/016/0002699362?sid=102",
-    "https://www.catchnews.kr/news/articleView.html?idxno=128612",
     "https://www.gukjenews.com/news/articleView.html?idxno=3699825",
     "https://www.mdtoday.co.kr/news/articleView.html?idxno=614151",
     "https://www.yeongnam.com/web/view.php?key=20260918022529472",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296736",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066269",
     "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=243358",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296763"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296763",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296826",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296749",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296698"
   ],
   "titles": [
-    "[인사] 매경미디어, 해양경찰청, 고용노동부 외",
-    "인사",
-    "[인사] 매일경제신문/매경비즈",
     "대구시 달서구 갈산동 섬유공장 화재, 차량 49대·인원 118명 투입 진화",
     "포스코 노조 부분파업 확대…회사 \"조업 영향 없다\"",
     "李대통령 “수도권 일극체제 극복” 말했지만…TK 홀대론 등 구체적 지...",
@@ -1001,6 +998,9 @@
     "서초구, 유망 AI·ICT 기업 투자유치 돕는다... '서초AICT 데모데이'",
     "구미상의, 구미 제조업 체감경기 반등…4분기 BSI 96, 전국 평균 웃돌아",
     "2026년 조지아 농식품 산업 정보",
-    "예산군, 고덕1지구 지적재조사 현장상담실 운영"
+    "예산군, 고덕1지구 지적재조사 현장상담실 운영",
+    "춘천시, 땡겨요 전용 상품권 15% 할인 시범 발행",
+    "담양군문화재단, 발효자원 재해석 '스윗담순' 팝업 성료",
+    "도봉구, 창동상아1차 시공사 호반건설 선정"
   ]
 }
