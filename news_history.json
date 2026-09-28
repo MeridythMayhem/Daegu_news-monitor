@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/022/0004160083?sid=101",
     "https://www.businesspost.co.kr/BP?command=article_view&num=447562",
     "https://n.news.naver.com/mnews/article/016/0002699362?sid=102",
     "https://www.catchnews.kr/news/articleView.html?idxno=128612",
@@ -499,10 +498,10 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296738",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296736",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066269",
-    "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=243358"
+    "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=243358",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296763"
   ],
   "titles": [
-    "기본급 7.1% vs 2.0%… 포스코 노사, 2차 부분파업 확대 ‘치킨게임’",
     "[인사] 매경미디어, 해양경찰청, 고용노동부 외",
     "인사",
     "[인사] 매일경제신문/매경비즈",
@@ -1001,6 +1000,7 @@
     "순천제일대 \"취업 지형 넓어졌다\"",
     "서초구, 유망 AI·ICT 기업 투자유치 돕는다... '서초AICT 데모데이'",
     "구미상의, 구미 제조업 체감경기 반등…4분기 BSI 96, 전국 평균 웃돌아",
-    "2026년 조지아 농식품 산업 정보"
+    "2026년 조지아 농식품 산업 정보",
+    "예산군, 고덕1지구 지적재조사 현장상담실 운영"
   ]
 }
