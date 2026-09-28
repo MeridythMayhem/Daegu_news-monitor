@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/011/0004663093?sid=102",
-    "https://n.news.naver.com/mnews/article/009/0005736883?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294386",
     "https://www.newspim.com/news/view/20260918000035",
     "https://n.news.naver.com/mnews/article/021/0002819689?sid=102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063280",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296569",
     "https://www.farminsight.net/news/articleView.html?idxno=16943",
     "https://www.sejungilbo.com/news/articleView.html?idxno=60290",
-    "http://www.ikld.kr/news/articleView.html?idxno=341368"
+    "http://www.ikld.kr/news/articleView.html?idxno=341368",
+    "https://n.news.naver.com/mnews/article/088/0001030846?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066189",
+    "https://www.m-i.kr/news/articleView.html?idxno=1418264"
   ],
   "titles": [
-    "[인사] 매경미디어",
-    "AI가 바꾼 제조업 … \"배터리 양극재 검사 12시간서 실시간으로\"",
-    "충남도, 공주시 내륙 성장 거점 육성 청사진 제시",
     "부산시, 착한가격업소 활성화 국무총리상…고물가 대응·소상공인 지원",
     "1년 새 300여 곳 늘어난 부산시 ‘착한가격업소’ 국무총리상…수영구는...",
     "권선호 칠곡군의원 \"기업유치 지원제도 전면 개편해야\"",
@@ -1001,6 +998,9 @@
     "중산층도 사는 '보편형 공공임대' 나온다…2030년까지 19만가구",
     "추석 밥상 위에 오른 메뉴는 '농지 전수조사'였다",
     "[세리포트] '인사·정보유출·체납'까지…올해 국세청 국감에서 물어야...",
-    "정부, 재난안전 분야 AI 전환 본격 시동… 오는 2030년까지 9천400억 투입..."
+    "정부, 재난안전 분야 AI 전환 본격 시동… 오는 2030년까지 9천400억 투입...",
+    "대구 상가 공실률 17.84%…세종 이어 전국 두 번째",
+    "구미시, 민생경제·첨단산업 중심 조직개편…'골목상권지원단' 신설",
+    "배민, 안동 골목상권 살린다…지역축제와 '픽업' 연계"
   ]
 }
