@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://thetracker.co.kr/View.aspx?No=4232696",
-    "https://www.etoday.co.kr/news/view/2627026",
     "https://n.news.naver.com/mnews/article/011/0004663093?sid=102",
     "https://n.news.naver.com/mnews/article/009/0005736883?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294386",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296566",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296509",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296569",
-    "https://www.farminsight.net/news/articleView.html?idxno=16943"
+    "https://www.farminsight.net/news/articleView.html?idxno=16943",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=60290",
+    "http://www.ikld.kr/news/articleView.html?idxno=341368"
   ],
   "titles": [
-    "[단독]현대제철·포스코 美제철소, 13억 달러 채권 승인...자금 조달 '청...",
-    "포스코 노조, 포항·광양 2차 부분파업 확대…사측 “대체인력으로 정상...",
     "[인사] 매경미디어",
     "AI가 바꾼 제조업 … \"배터리 양극재 검사 12시간서 실시간으로\"",
     "충남도, 공주시 내륙 성장 거점 육성 청사진 제시",
@@ -1001,6 +999,8 @@
     "고양시, 신청사 건립 타당성 재조사 본격 착수",
     "[문제열의 窓] 커피 한 잔에 담긴 길고 긴 커피의 역사",
     "중산층도 사는 '보편형 공공임대' 나온다…2030년까지 19만가구",
-    "추석 밥상 위에 오른 메뉴는 '농지 전수조사'였다"
+    "추석 밥상 위에 오른 메뉴는 '농지 전수조사'였다",
+    "[세리포트] '인사·정보유출·체납'까지…올해 국세청 국감에서 물어야...",
+    "정부, 재난안전 분야 AI 전환 본격 시동… 오는 2030년까지 9천400억 투입..."
   ]
 }
