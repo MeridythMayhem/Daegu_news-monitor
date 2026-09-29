@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/657/0000055530?sid=102",
-    "https://www.newspim.com/news/view/20260920000058",
     "https://www.hidomin.com/news/articleView.html?idxno=721878",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295014",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295012",
@@ -499,11 +497,11 @@
     "https://www.dynews.co.kr/news/articleView.html?idxno=867527",
     "https://www.kpinews.kr/newsView/1065600688854322",
     "https://n.news.naver.com/mnews/article/021/0002821473?sid=102",
-    "https://www.m-i.kr/news/articleView.html?idxno=1418533"
+    "https://www.m-i.kr/news/articleView.html?idxno=1418533",
+    "https://n.news.naver.com/mnews/article/657/0000055772?sid=102",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066613"
   ],
   "titles": [
-    "경주 내남면 공장서 화재, 인명피해 없어",
-    "영덕 주택·경주 자동차부품공장서 화재 잇따라...인명피해 없어",
     "경주·영덕서 잇단 화재…공장 일부·주택 1동 소실",
     "검단구, 사회적기업과 지역경제 활성화 논의",
     "전남광주특별시, 출범 후 첫 조직개편 확정… 10월 7일 가동",
@@ -1001,6 +999,8 @@
     "오늘의 주장/충북도청 이전 단순논리·즉흥적 이뤄져선 안 돼",
     "[노성열의 AI 경제] 범용 인공지능의 등장…시험대 오른 인간의 지혜",
     "“대구 경제 63%가 전통 제조업 의존… AI 접목한 대개조 매진할 것”[민...",
-    "[기획]팹 투입 삼성·관절 다지는 LG…K-산업, 휴머노이드 실증 총력전"
+    "[기획]팹 투입 삼성·관절 다지는 LG…K-산업, 휴머노이드 실증 총력전",
+    "[3보] 경북 영천 폐기물 처리공장서 화재···6시간여 만에 진화",
+    "경북도-시·군, 재정 부담 공동 대응…현금성 지원 줄이고 성장 분야 집..."
   ]
 }
