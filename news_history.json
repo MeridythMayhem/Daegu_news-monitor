@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/023/0003999575?sid=101",
-    "https://n.news.naver.com/mnews/article/005/0001874163?sid=101",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064374",
     "https://www.inews365.com/news/article.html?no=936569",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064378",
     "https://n.news.naver.com/mnews/article/421/0009182276?sid=102",
@@ -499,12 +496,12 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066791",
     "https://www.koreadaily.com/article/20260929143813923",
     "https://n.news.naver.com/mnews/article/079/0004193976?sid=101",
-    "https://www.tbc.co.kr/news/view?pno=20260929111417AE06161&id=211572"
+    "https://www.tbc.co.kr/news/view?pno=20260929111417AE06161&id=211572",
+    "http://fpn119.co.kr/257331",
+    "https://www.m-i.kr/news/articleView.html?idxno=2001010",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=394127"
   ],
   "titles": [
-    "“중산층 주거 벨트, 강남 판교 동탄 지나 청주까지 연결되고 있어”",
-    "대구서 부산으로 옮겨간 ‘미분양 무덤’… 광주·제주도 고위험",
-    "GS동해전력, 추석 맞아 지역 농가 포도 600박스 취약계층에 전달",
     "충북 AI 영재학교 건립 사업 '본궤도'…2029년 3월 개교 목표",
     "포항상공회의소, 위덕대 간호학과 대상 취업상담회 개최",
     "포스코 노조 21일 부분파업 종료",
@@ -1001,6 +998,9 @@
     "포항농협 오거리지점, 직원 기지로 7000만원 보이스피싱 피해 막아",
     "[이기희의 같은 하늘 다른 세상] 타오르는 불꽃처럼",
     "CBS '단일종목 레버리지 ETF 졸속심사', 이달의 기자상 수상",
-    "반환점 돈 '안동탈춤축제'...지역 경제 활성화 한몫"
+    "반환점 돈 '안동탈춤축제'...지역 경제 활성화 한몫",
+    "경북 영천시 폐기물 처리 공장 화재… 4동 소실",
+    "쿠팡로지스틱스서비스, 대구서 물류 자율주행 실증 나선다",
+    "디지털융합교육원 원장, GPT-6 Astra 활용 '2026 우주항공 분야 해외진출..."
   ]
 }
