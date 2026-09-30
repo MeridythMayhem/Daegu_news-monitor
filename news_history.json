@@ -1,11 +1,5 @@
 {
   "urls": [
-    "http://www.datanews.co.kr/news/article.html?no=146587",
-    "http://www.paxetv.com/news/articleView.html?idxno=282398",
-    "https://n.news.naver.com/mnews/article/421/0009182462?sid=102",
-    "https://n.news.naver.com/mnews/article/052/0002409602?sid=102",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=716420",
-    "http://www.hellodd.com/news/articleView.html?idxno=113239",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295294",
     "https://www.m-i.kr/news/articleView.html?idxno=1416494",
     "https://n.news.naver.com/mnews/article/138/0002242177?sid=101",
@@ -499,15 +493,15 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297629",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297671",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067316",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067314"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067314",
+    "https://www.m-i.kr/news/articleView.html?idxno=2001204",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297759",
+    "http://mcnews.co.kr/86730",
+    "http://mcnews.co.kr/86729",
+    "https://www.m-i.kr/news/articleView.html?idxno=2001234",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067406"
   ],
   "titles": [
-    "한화큐셀·포스코, 영농형태양광 사업 맞손…MOU 체결",
-    "한화큐셀·포스코, 영농형태양광 보급 MOU…통합 솔루션 구축",
-    "포스코 노조 2차 부분파업 종료…노조원 90% '파업 찬성' 변수(종합)",
-    "포스코 노동조합 2차 파업 종료...교섭은 중단 상태",
-    "김해 대동면, 마라톤 현장서 위기가구 발굴·생명존중 캠페인",
-    "[조간브리핑] 피지컬 AI 뜨자 한국 경쟁력 부각···美·中 이어 세계 ...",
     "4분기 전기요금 동결…연료비 조정단가 18분기째 '＋5원'",
     "쿠팡이 살린 지역 과일 판로…인구감소지역 매입 7000톤 넘었다",
     "포스코 노조, 120시간 부분파업 종료…내달 2일까지 교섭 중단",
@@ -1001,6 +995,12 @@
     "당진시, 노사민정 상생협력 방안 논의",
     "광진구, 중곡1동 2천200세대 재개발 추진",
     "대구 수성못서 '청춘수성' 개최… 힙합 경연·청년정책 한자리에",
-    "청도군, 2027년 군정 밑그림 마련… 신규사업 138건 추진"
+    "청도군, 2027년 군정 밑그림 마련… 신규사업 138건 추진",
+    "국토위 국감, 건설사 CEO 대신 본부장급 출석…BYD·테슬라도 증인석",
+    "용인시의회, 춘천 문화정책 사례 찾아 발전 방향 모색",
+    "현대로템, 에어로텍 참가… 항공우주 기술 전시",
+    "LH, 파주운정3 업무복합용지 공급… 3.3㎡당 1990만원",
+    "[기획]특허·인재도 지역 따라 양극화…수도권·충청권에 몰린 '혁신 체...",
+    "경북도, 'K-과학자' 11명 안팎 공개 모집…현직 과학자까지 확대"
   ]
 }
