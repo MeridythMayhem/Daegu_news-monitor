@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.inews365.com/news/article.html?no=936569",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064378",
-    "https://n.news.naver.com/mnews/article/421/0009182276?sid=102",
     "https://n.news.naver.com/mnews/article/421/0009182272?sid=102",
     "https://n.news.naver.com/mnews/article/421/0009182274?sid=102",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064422",
@@ -499,12 +496,12 @@
     "https://www.tbc.co.kr/news/view?pno=20260929111417AE06161&id=211572",
     "http://fpn119.co.kr/257331",
     "https://www.m-i.kr/news/articleView.html?idxno=2001010",
-    "https://www.fntoday.co.kr/news/articleView.html?idxno=394127"
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=394127",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297485",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297494",
+    "https://www.m-i.kr/news/articleView.html?idxno=2001041"
   ],
   "titles": [
-    "충북 AI 영재학교 건립 사업 '본궤도'…2029년 3월 개교 목표",
-    "포항상공회의소, 위덕대 간호학과 대상 취업상담회 개최",
-    "포스코 노조 21일 부분파업 종료",
     "포스코 노조 부분 파업 종료",
     "포스코 노조 부분 파업 종료",
     "경북도, 영덕 강구해상대교 22일 개통…대게거리 상습 교통정체 분산 기...",
@@ -1001,6 +998,9 @@
     "반환점 돈 '안동탈춤축제'...지역 경제 활성화 한몫",
     "경북 영천시 폐기물 처리 공장 화재… 4동 소실",
     "쿠팡로지스틱스서비스, 대구서 물류 자율주행 실증 나선다",
-    "디지털융합교육원 원장, GPT-6 Astra 활용 '2026 우주항공 분야 해외진출..."
+    "디지털융합교육원 원장, GPT-6 Astra 활용 '2026 우주항공 분야 해외진출...",
+    "서대문구 청년들, 지역을 위해 뛴다…청년봉사단 본격 활동",
+    "용산구, 한남지구 '안정적 지역난방' 구축…민·관·공 맞손",
+    "브릴스, 송도 휴머노이드 센터 추진…2027년 상반기 개소 목표"
   ]
 }
