@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/629/0000535658?sid=101",
-    "https://n.news.naver.com/mnews/article/020/0003749849?sid=101",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609201027202860771",
-    "https://n.news.naver.com/mnews/article/009/0005738609?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005738606?sid=103",
     "http://mcnews.co.kr/86680",
     "http://mcnews.co.kr/86675",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298029",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298024",
     "https://n.news.naver.com/mnews/article/088/0001031718?sid=100",
-    "https://www.m-i.kr/news/articleView.html?idxno=2001854"
+    "https://www.m-i.kr/news/articleView.html?idxno=2001854",
+    "http://www.intn.co.kr/news/articleView.html?idxno=2053777",
+    "https://n.news.naver.com/mnews/article/417/0001159832?sid=101",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067988",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067982"
   ],
   "titles": [
-    "포스코 노조, 부분파업 끝…10월 초까지 노사협상 표류",
-    "“위성 쏘아올릴 독자 발사체, ‘우주 주권’ 확립의 첫걸음”",
-    "[부산 브리핑 모음(9월21일)] 부산 영도 깡깡이 아지매 작업복과 작업도...",
-    "50대 서민이 투자전략 물어도 AI는 ‘20대 고소득자’로 본다? [너드의 ...",
     "‘메가’보다 비싸고 ‘스벅’보다 싼 ‘이디야’…다음 성장 전략은? ...",
     "코레일유통, 청년정책 유공 대통령 표창 수상",
     "대우건설, 국내 최대 22MW급 부유식 해상풍력 부유체 개발",
@@ -1001,6 +997,10 @@
     "[기획특집] 김영인 태안군의회 의장 \"석탄화력 이후 태안, 새 성장동력...",
     "서초구, 방배천길 상권 골목형상점가 지정…상인주도 경쟁력↑",
     "탈북 유튜버 한송이 \"암살자(들), 북한 체제 선전물과 서사 구조 매우 닮...",
-    "중진공·산기평, AI 기반 정부 정책사업의 투명성 높인다"
+    "중진공·산기평, AI 기반 정부 정책사업의 투명성 높인다",
+    "2026 국세청 사무관 승진 235명…조사분야 80명·34%",
+    "잘나가는 조선보다 더 달라는 포스코 노조",
+    "영양사랑상품권, 공공배달앱 '먹깨비' 결제 가능",
+    "문경시, '주거대책 TF' 출범…신규 주택 공급 확대 추진"
   ]
 }
