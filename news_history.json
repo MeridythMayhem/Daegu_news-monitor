@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/079/0004191619?sid=102",
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=615046",
-    "https://www.news2day.co.kr/article/20260921500123",
-    "https://n.news.naver.com/mnews/article/088/0001029732?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295563",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295528",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1295469",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/001/0016348865?sid=102",
     "https://n.news.naver.com/mnews/article/021/0002822161?sid=103",
     "http://www.nongaek.com/news/articleView.html?idxno=96947",
-    "https://m.sports.naver.com/kbaseball/article/529/0000078724"
+    "https://m.sports.naver.com/kbaseball/article/529/0000078724",
+    "http://woman.chosun.com/news/articleView.html?idxno=126621",
+    "https://n.news.naver.com/mnews/article/001/0016348980?sid=101",
+    "https://www.m-i.kr/news/articleView.html?idxno=2001507",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067615"
   ],
   "titles": [
-    "김천에 '반도체 유리기판' 공장 들어선다…경북도-제이앤티씨 MOU",
-    "포스코노조, 120시간 부분파업 종료…2주간 '휴전'",
-    "[재계 인사이드] 이재용·최태원·정의선·구광모 체제, 옅어진 지역연...",
-    "[수사·기소 분리 시대] 〈상〉 검찰청 사라지는 10월 2일…수장도 직제...",
     "경기도, 사회연대경제기업 사회적가치 159억 원 창출",
     "군포시, 추석 연휴 종합대책 가동…100명 비상근무",
     "완도군, 추석 앞두고 공직사회 청렴문화 확산 캠페인 전개",
@@ -1001,6 +997,10 @@
     "[전국 주요 신문 사설](1일 조간)",
     "52년만에 귀국 파독 간호사 “고국 그리움 전시”",
     "[오늘의 사설] \"줄줄 새는 실업급여...제도정비 절실\"",
-    "'우승 눈앞' KT 위즈에 돔구장까지? 수원시, '1조원 규모' 수원돔 건립 ..."
+    "'우승 눈앞' KT 위즈에 돔구장까지? 수원시, '1조원 규모' 수원돔 건립 ...",
+    "여자로 바꿔 읽는〈오디세이〉 ②",
+    "울산신용보증재단 신임 이사장에 한양현 씨 임명",
+    "기보, 이종혁 전무이사, 장진엽·김현 상임이사 선임",
+    "경북도, 대학 중심 첨단산업 인재 키운다…올해 3000억원 투입"
   ]
 }
