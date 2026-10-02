@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1332784",
-    "https://www.tokenpost.kr/news/ai/412259",
-    "https://www.yeongnam.com/web/view.php?key=20260922028500202",
-    "https://n.news.naver.com/mnews/article/023/0003999996?sid=102",
-    "https://www.inews365.com/news/article.html?no=936972",
-    "https://n.news.naver.com/mnews/article/006/0000137874?sid=102",
-    "https://www.dkilbo.com/news/articleView.html?idxno=555246",
     "https://monthly.chosun.com/news/articleView.html?idxno=71504",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085232",
     "https://www.sejungilbo.com/news/articleView.html?idxno=60235",
@@ -499,16 +492,16 @@
     "https://n.news.naver.com/mnews/article/421/0009207340?sid=102",
     "https://n.news.naver.com/mnews/article/018/0006379822?sid=101",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=869733",
-    "http://mcnews.co.kr/86751"
+    "http://mcnews.co.kr/86751",
+    "https://n.news.naver.com/mnews/article/003/0014230997?sid=102",
+    "https://n.news.naver.com/mnews/article/138/0002243563?sid=101",
+    "https://www.ajunews.com/view/20261002180736804",
+    "https://n.news.naver.com/mnews/article/016/0002705036?sid=101",
+    "https://www.etoday.co.kr/news/view/2632210",
+    "https://www.kbmaeil.com/article/20261002500238",
+    "http://www.ikld.kr/news/articleView.html?idxno=341720"
   ],
   "titles": [
-    "박찬대 \"주요 20개국 회의 공동 개최 검토 중\"",
-    "2500만달러 투자받은 TBC, 뉴런 기반 AI 플랫폼 출시",
-    "추경호 “논공행상식 인사 없다…당분간 경제 컨트롤타워는 내가”",
-    "[부음] 박노갑 별세 외",
-    "\"중수청·공소청 출범 코앞\"…경찰, 수사인력·업무 재편에 '뒤숭숭'",
-    "청와대 요청 거부한 조희대에 조선 \"배수진\" 중앙 \"작심 반격\"",
-    "[기고] 추석 고향길의 그늘, 방치된 빈집에 생기를 채워라",
     "해방둥이 기자의 짧은 회고록 〈14〉",
     "[노트북을 열며] \"유치됐으니 기다리면 된다\"는 그날의 약속은?",
     "[노무톡톡] 산업현장의 시한폭탄, 지게차-(2)",
@@ -1001,6 +994,13 @@
     "3선 김성호 포스코 노조위원장 \"흔들림 없이 교섭 완수\"",
     "김성호 포스코 노조 위원장 '3선 성공'…\"임단협 다시 속도 내나\"",
     "에너지 산업수도 울진, 미래 전략 모색",
-    "[기고] 산재 시 영업이익 5% 과징금, 로펌만 웃는다"
+    "[기고] 산재 시 영업이익 5% 과징금, 로펌만 웃는다",
+    "포스코노조 김성호 위원장 3연임 성공",
+    "김성호 포스코 노조위원장 3선 성공…임단협 교섭 재개되나",
+    "김성호 포스코노조 위원장 3선 성공…임단협 교섭 탄력받나",
+    "김성호 포스코노조 위원장 ‘3선 성공’…노사 “임협 재개”",
+    "김성호 포스코 노조위원장 ‘3선’ 성공…멈췄던 임금협상 다시 테이블...",
+    "김성호 포스코노조 위원장 3연임…임금교섭 계속 이끈다",
+    "부산농아인협회, 수어문화 향연 '제12회 수어문화예술제' 성료"
   ]
 }
