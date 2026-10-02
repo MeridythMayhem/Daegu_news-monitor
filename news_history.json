@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005739227?sid=101",
-    "https://n.news.naver.com/mnews/article/029/0003049577?sid=110",
-    "https://n.news.naver.com/mnews/article/001/0016330669?sid=102",
-    "https://www.dkilbo.com/news/articleView.html?idxno=555389",
-    "https://www.ngonews.kr/news/articleView.html?idxno=239036",
-    "https://n.news.naver.com/mnews/article/079/0004192276?sid=102",
-    "https://www.pn.or.kr/news/articleView.html?idxno=34140",
-    "http://mcnews.co.kr/86691",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1332784",
     "https://www.tokenpost.kr/news/ai/412259",
     "https://www.yeongnam.com/web/view.php?key=20260922028500202",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298529",
     "http://mcnews.co.kr/86748",
     "http://mcnews.co.kr/86750",
-    "https://www.inews365.com/news/article.html?no=937968"
+    "https://www.inews365.com/news/article.html?no=937968",
+    "http://www.snmnews.com/news/articleView.html?idxno=575465",
+    "https://www.newspim.com/news/view/20261002001248",
+    "https://www.joongangenews.com/news/articleView.html?idxno=552499",
+    "https://www.newscj.com/news/articleView.html?idxno=3437522",
+    "https://n.news.naver.com/mnews/article/421/0009207340?sid=102",
+    "https://n.news.naver.com/mnews/article/018/0006379822?sid=101",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=869733",
+    "http://mcnews.co.kr/86751"
   ],
   "titles": [
-    "“NCT·에스파로 쇼핑몰 도배”…K팝 품고 디즈니 넘어선 中 콘텐츠 공룡...",
-    "[논설실의 서가] ‘글로벌 AI 3강’ 가기 위한 8가지 조건",
-    "[인사] 매일경제신문",
-    "포스코노조 차기 위원장 놓고 김성호·김대억 '2파전'",
-    "한국가스공사, 산불 대응 공로로 '국무총리 표창' 수상",
-    "\"짜장면 두 그릇에 오페라 본다\" 브라보 대구, 비바 오페라!",
-    "대구의 80년 역사로 시간여행...옛날 신문으로 읽는 '길 위의 인문학'",
-    "세이프티랩, 상하이 투자 행사 ‘비접촉식 AI 생체리듬체크 키오스크’...",
     "박찬대 \"주요 20개국 회의 공동 개최 검토 중\"",
     "2500만달러 투자받은 TBC, 뉴런 기반 AI 플랫폼 출시",
     "추경호 “논공행상식 인사 없다…당분간 경제 컨트롤타워는 내가”",
@@ -1001,6 +993,14 @@
     "부산 동래온천, 전국 네 번째 온천도시 지정… 도심형 치유관광 거점 육...",
     "서부발전, 전남개발공사와 광주·전남 육상풍력 활성화 협력",
     "LH, 2029년 고양대곡지식융합·의왕오전왕곡 지구 주택 착공",
-    "'12년 만의 정상 탈환' 충북 출신 송종호, 아시안게임 사격 金"
+    "'12년 만의 정상 탈환' 충북 출신 송종호, 아시안게임 사격 金",
+    "포항철강산단 내 강관 제조공장서 화재",
+    "포항 괴정동 공장서 화재 45분만에 진화...인명피해 없어",
+    "각종 의혹에도 73.5% 득표...김성호 포스코노조 위원장 3선",
+    "김성호 포스코 노조위원장 '3선 성공'… 중단된 임금교섭 재개 전망",
+    "3선 김성호 포스코 노조위원장 \"흔들림 없이 교섭 완수\"",
+    "김성호 포스코 노조 위원장 '3선 성공'…\"임단협 다시 속도 내나\"",
+    "에너지 산업수도 울진, 미래 전략 모색",
+    "[기고] 산재 시 영업이익 5% 과징금, 로펌만 웃는다"
   ]
 }
