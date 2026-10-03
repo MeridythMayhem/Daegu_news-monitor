@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.thereport.co.kr/news/articleView.html?idxno=91703",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=229058",
     "http://mcnews.co.kr/86702",
     "https://n.news.naver.com/mnews/article/009/0005739456?sid=101",
     "http://mcnews.co.kr/86705",
@@ -499,11 +497,11 @@
     "https://www.industrynews.co.kr/news/articleView.html?idxno=86976",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=312481",
     "https://www.yeongnam.com/web/view.php?key=20261003027320001",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298571"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298571",
+    "https://news.mtn.co.kr/news-detail/2026100313492124071",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298577"
   ],
   "titles": [
-    "전남 국립의대 순천대 추천···동서 갈등 법정으로",
-    "이수페타시스 5.05% 상승…AI 서버용 고다층 PCB 기대 재부각",
     "제이오션중공업(군산조선소), 탱커 6척 건조의향서 체결",
     "오피스냐 호텔이냐…‘최적 용도’가 빌딩 가치 가른다",
     "한전KPS, 인니 수력발전 지분 인수… 첫 해외재생에너지 투자",
@@ -1001,6 +999,8 @@
     "포스코노조 김성호 위원장 3선 성공… '금품·골프 의혹' 정면돌파, 임단...",
     "김성호 포스코 노조위원장, 73.5% 3선 성공… 멈췄던 포스코 임단협 쟁의...",
     "[청년이 남는 도시의 조건 ④] ‘맞춤형 거버넌스’와 ‘클러스터’",
-    "건협 서울강남·인천지부 '세계한상대회'서 글로벌 건강증진 캠페인 펼..."
+    "건협 서울강남·인천지부 '세계한상대회'서 글로벌 건강증진 캠페인 펼...",
+    "포스코노조 김성호 위원장, 3연임 성공…다음주 임금교섭 재개",
+    "홍길식 서울메트로환경 신임 사장 취임…\"현장에서 안전 답 찾겠다\""
   ]
 }
