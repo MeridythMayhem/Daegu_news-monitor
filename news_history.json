@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005739674?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005739664?sid=101",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296364",
     "https://www.m-i.kr/news/articleView.html?idxno=1417838",
@@ -499,10 +498,10 @@
     "https://n.news.naver.com/mnews/article/008/0005421930?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005743668?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005743662?sid=102",
-    "https://n.news.naver.com/mnews/article/009/0005743669?sid=102"
+    "https://n.news.naver.com/mnews/article/009/0005743669?sid=102",
+    "https://n.news.naver.com/mnews/article/088/0001032141?sid=102"
   ],
   "titles": [
-    "‘당신이 잠든 사이’ 19조원짜리 대박 나왔다…메타의 ‘뮤즈’가 코스...",
     "“집 팔아야 하는데 갱신권 쓰면?”…임대사업자·세입자 모두 난감해진...",
     "[기고] 추석 고기, 선물의 역사를 바꾸다",
     "우리금융, 계열사 역량 모아 포항 AI데이터센터에 생산적금융 공급",
@@ -1001,6 +1000,7 @@
     "\"AI가 먹기 좋게 준다\"…'데이터 밀키트'로 100억 노리는 이 회사",
     "“누구나 쓸 수 있는 AI, 지역경제에 새 기회”",
     "처음에 K팝 따라 부르다 ‘이것’까지…한국어 배우기에 푹 빠진 세계",
-    "책장 너머 거울 미로…‘나’를 만든 연결을 찾아서"
+    "책장 너머 거울 미로…‘나’를 만든 연결을 찾아서",
+    "[2026안동마라톤대회] 1만5천명 안동 달려… 2026 안동마라톤 역대 최대..."
   ]
 }
