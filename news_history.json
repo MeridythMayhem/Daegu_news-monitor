@@ -1,12 +1,5 @@
 {
   "urls": [
-    "http://www.sisacast.kr/news/articleView.html?idxno=100446",
-    "https://www.m-i.kr/news/articleView.html?idxno=1418323",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296639",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296647",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296687",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296679",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296666",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066210",
     "https://www.m-i.kr/news/articleView.html?idxno=1418219",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066242",
@@ -499,16 +492,16 @@
     "https://www.dynews.co.kr/news/articleView.html?idxno=868393",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299186",
     "https://n.news.naver.com/mnews/article/047/0002531366?sid=100",
-    "https://www.sentv.co.kr/article/view/sentv202610060106"
+    "https://www.sentv.co.kr/article/view/sentv202610060106",
+    "https://n.news.naver.com/mnews/article/448/0000643372?sid=101",
+    "https://www.yeongnam.com/web/view.php?key=20261006026332822",
+    "https://n.news.naver.com/mnews/article/009/0005744807?sid=102",
+    "https://n.news.naver.com/mnews/article/087/0001222270?sid=100",
+    "https://www.idomin.com/news/articleView.html?idxno=2016386",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086418",
+    "http://www.hellodd.com/news/articleView.html?idxno=113399"
   ],
   "titles": [
-    "KAI, 멕시코 FEMIA·포스코와 항공우주산업 협력 MOU...중미 진출 본격화",
-    "李, 29일 '메가프로젝트' 민관합동회의 주재…지역 정주요건 논의",
-    "영등포구, '천하제일 취업박람회' 개최…250여 명 채용",
-    "강서구, 체납징수·복지 연계 '두 마리 토끼'…징수 목표 5억",
-    "논산시, 사전컨설팅 사례 적극 발굴… 적극행정 기반 강화",
-    "노원구 '제1회 S-DBC 노원 포럼' 개최… 동북권 미래 발전 구상",
-    "양천구의회 임옥연 의장, 양천가족거리축제준비위원회 공동위원장 참여",
     "[2026 국감] 2분기 전국 상가 공실률 13.36%…2021년 이후 '최고'",
     "상가 공실률 2021년 이후 최고치…'8곳 중 1곳' 비어있다",
     "구미시, 미국서 양자산업 거점화 시동…IonQ·SDT와 파운드리 구축 협약",
@@ -1001,6 +994,13 @@
     "100년 철도 증평역, 광역교통망 핵심 거점 도약",
     "남해군, 일반재산 토지 95필지 활용성 전면 진단",
     "\"안 봤다\"라면서 \"북한 영화와 일치\"한다는 장동혁",
-    "포항시, ‘전국드론낚시페스타’ 17일 개최"
+    "포항시, ‘전국드론낚시페스타’ 17일 개최",
+    "MSDI, 구미시와 7천억 규모 미사일 방산단지 조성 MOU",
+    "전문가들, TK 행정통합 위해 ‘선행 합의’ 지적…“지역민 이익도 알려...",
+    "남들은 ‘눈물의 폐업’ 하는데…1년새 기업가치 71배 키운 美 스타트업...",
+    "바이오 기업의 기술과 투자·인재를 잇다…'바이오헬스 테크비즈 인 강...",
+    "혼자 있는 밤 충동 시달리는데 일상 향한 재활의 문은 낮에만",
+    "'2026 경북포럼' 19일 봉화서 개최…'산림대전환' 통한 지방소멸 대응 논...",
+    "자율랩, 연구현장 어디까지 왔나···14일 띵동! 첨단바이오 세미나"
   ]
 }
