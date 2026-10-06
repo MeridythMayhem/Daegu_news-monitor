@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066033",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296519",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296553",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066058",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066086",
-    "https://n.news.naver.com/mnews/article/003/0014215712?sid=102",
-    "https://www.inews365.com/news/article.html?no=937254",
     "https://www.idaegu.com/news/articleView.html?idxno=665908",
     "https://n.news.naver.com/mnews/article/666/0000125025?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296623",
@@ -499,17 +491,17 @@
     "https://www.tbc.co.kr/news/view?pno=20260929164138AE06175&id=211745",
     "https://www.yeongnam.com/web/view.php?key=20261005023162448",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068754",
-    "https://www.m-i.kr/news/articleView.html?idxno=2002637"
+    "https://www.m-i.kr/news/articleView.html?idxno=2002637",
+    "https://n.news.naver.com/mnews/article/421/0009210821?sid=102",
+    "https://n.news.naver.com/mnews/article/001/0016358615?sid=102",
+    "https://www.the-today.com/news/articleView.html?idxno=91235",
+    "http://www.iminju.net/news/articleView.html?idxno=170376",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298889",
+    "http://mcnews.co.kr/86754",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068884",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068875"
   ],
   "titles": [
-    "AI로 재난안전 업무 손질한다…2030년까지 약 9400억원 투입",
-    "가평군, 군민대상 수상자 8명 선정",
-    "대전 중구, 안영2지구 지적재조사사업 완료…주민 간 경계분쟁 해소",
-    "울릉군, 신청·소득 확인 없는 '그냥드림' 운영…생필품 지원",
-    "문경 시민추진위, 문경~김천 철도 점촌 구간 노선 재검토 촉구",
-    "예천군, 출향인과 군정 현안 공유…지역발전 의견 청취",
-    "경주서 내달 17일 국제마라톤 대회…\"시내권 교통 통제\"",
-    "전국 60곳 지자체 도시가스 보급률 50% 밑돌아",
     "[르포] 추석 연휴 최대 인파 경주…관광객들이 남긴 이야기들",
     "조의영 인천적십자 회장 “재난에 강한 인천 위해…인도주의 기반 다질...",
     "[Green365 전봉우 칼럼] 자원순환 - 일회용품 사용 줄이기",
@@ -1001,6 +993,14 @@
     "산적한 TK 현안...\"국감서 돌파구 모색\"",
     "[사설] ‘피지컬AI 챌린지 2026’ 대구 개최가 던지는 의미",
     "문경시, 민선9기 70개 공약 확정…총사업비 1조3657억원",
-    "구미시 윤선목 팀장, 기업 증설 민원 해결로 대통령 표창"
+    "구미시 윤선목 팀장, 기업 증설 민원 해결로 대통령 표창",
+    "출근길 인사하는 홍종희 대구지방중수청장",
+    "직원 인사받는 홍종희 대구지방중수청장",
+    "[iM금융 승계검증⑤] 외형 키운 iM뱅크, 침해사고 인지는 178일…황병우...",
+    "[이원두 칼럼] 한글날 1백 돌, 인류는 문자 등장을 경계했다",
+    "美부통령 \"알래스카 LNG, 한국과 세부사항 협의 필요\"…트럼프와 온도 ...",
+    "이강석 대우건설 대표 공식 취임… “두려움 없이 도전”",
+    "청도반시축제·세계코미디아트페스티벌 16일 동시 개막",
+    "구미시, 삼성SDS AI 데이터센터 건설에 지역업체 참여 기회 넓힌다"
   ]
 }
