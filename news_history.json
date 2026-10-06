@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066210",
-    "https://www.m-i.kr/news/articleView.html?idxno=1418219",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066242",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066191",
     "https://www.cnbizm.com/news/articleView.html?idxno=316331",
     "https://www.sentv.co.kr/article/view/sentv202609280042",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296722",
@@ -499,13 +495,13 @@
     "https://n.news.naver.com/mnews/article/087/0001222270?sid=100",
     "https://www.idomin.com/news/articleView.html?idxno=2016386",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086418",
-    "http://www.hellodd.com/news/articleView.html?idxno=113399"
+    "http://www.hellodd.com/news/articleView.html?idxno=113399",
+    "https://www.ksmnews.co.kr/news/view.php?idx=624561",
+    "https://www.ksmnews.co.kr/news/view.php?idx=624556",
+    "https://n.news.naver.com/mnews/article/009/0005744854?sid=101",
+    "https://www.tbc.co.kr/news/view?pno=20261006152747AE06452&id=211782"
   ],
   "titles": [
-    "[2026 국감] 2분기 전국 상가 공실률 13.36%…2021년 이후 '최고'",
-    "상가 공실률 2021년 이후 최고치…'8곳 중 1곳' 비어있다",
-    "구미시, 미국서 양자산업 거점화 시동…IonQ·SDT와 파운드리 구축 협약",
-    "경북 학위과정 외국인 유학생 49.1% 증가…전국 최고 증가율",
     "KAI·멕시코 FEMIA·포스코인터내셔널, 항공우주산업 협력 MOU 체결",
     "KAI·멕시코 FEMIA·포스코인터, 항공우주산업 협력 MOU 체결",
     "화천군, 암 병력자와 기저질환자 대상… '국내유일' 파크골프 대회 개최",
@@ -1001,6 +997,10 @@
     "바이오 기업의 기술과 투자·인재를 잇다…'바이오헬스 테크비즈 인 강...",
     "혼자 있는 밤 충동 시달리는데 일상 향한 재활의 문은 낮에만",
     "'2026 경북포럼' 19일 봉화서 개최…'산림대전환' 통한 지방소멸 대응 논...",
-    "자율랩, 연구현장 어디까지 왔나···14일 띵동! 첨단바이오 세미나"
+    "자율랩, 연구현장 어디까지 왔나···14일 띵동! 첨단바이오 세미나",
+    "김성호 노조위원장 3연임…포스코 노사, 철강위기 돌파구 주목",
+    "경북동해안 제조업 기업심리 100선 회복",
+    "금리 올렸는데도 집값 올랐다…참여정부 7차례 인상기에 깨진 상식 그 ...",
+    "국감 달군 '호남 반도체'...\"기업 결정 맞나?\""
   ]
 }
