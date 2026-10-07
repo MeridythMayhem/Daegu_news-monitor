@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296915",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296853",
-    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026092800032&story_seq=0&soCode=114&socttSn=NS2026092800032&socttSeq=0",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1296910",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066429",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066484",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085609",
@@ -499,13 +495,13 @@
     "https://www.m-i.kr/news/articleView.html?idxno=2002967",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069016",
     "https://n.news.naver.com/mnews/article/025/0003556228?sid=102",
-    "https://n.news.naver.com/mnews/article/087/0001222295?sid=102"
+    "https://n.news.naver.com/mnews/article/087/0001222295?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299273",
+    "https://www.m-i.kr/news/articleView.html?idxno=2003245",
+    "https://dealsite.co.kr/articles/170161",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069279"
   ],
   "titles": [
-    "경기농협, 화성 포도농가 찾아 수확기 일손돕기",
-    "화성특례시, 삼성전자와 1조7천억 원 미래성장 동맹 구축",
-    "[매일신문 조규덕 기자의 위클리TK] 구미·김천, 미래 산업 육성 나섰다",
-    "조인철 의원, 층간소음 조정 성립률 8.8%…\"원스톱 지원체계 필요\"",
     "경북사회복지공동모금회, 상주 취약계층에 7790만 원·복지시설 차량 3대...",
     "울진군, 황일순 서울대 명예교수 초청 '에너지·울진 미래' 특강",
     "iM뱅크노조, 대구·경북 소규모 초등학교에 2000만원 후원",
@@ -1001,6 +997,10 @@
     "MSDI, 구미에 대규모 투자…'아시아 최초 종합 미사일 콤플렉스' 추진",
     "구미시, 7000억원대 미사일 방산 집적화 추진…MSDI와 업무협약",
     "[단독] 27억에 사서 143억에 팔았다…기막힌 ‘강남 골목 쪼개기’",
-    "“연구개발특구 동력은 바이오⋯특구 본부 춘천 성과와 연계해야”"
+    "“연구개발특구 동력은 바이오⋯특구 본부 춘천 성과와 연계해야”",
+    "횡성군, 수도권 연계 상생형 파크골프장 공동 조성 제안",
+    "롯데하이마트, 2028년 물류센터에 휴머노이드 투입…물류 AI 고도화",
+    "韓서 확산 막힌 ‘달리는 충전’…혼다는 경제성 넘을까",
+    "경북도, 투자상담서 산업현장까지 잇는다…'경북형 투자 플랫폼' 2라운..."
   ]
 }
