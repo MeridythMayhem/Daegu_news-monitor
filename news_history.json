@@ -1,9 +1,5 @@
 {
   "urls": [
-    "http://news.lghellovision.net/news/articleView.html?idxno=556480",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297116",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297105",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297091",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066678",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297264",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297261",
@@ -499,13 +495,13 @@
     "http://mcnews.co.kr/86770",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069562",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069567",
-    "https://www.m-i.kr/news/articleView.html?idxno=2003530"
+    "https://www.m-i.kr/news/articleView.html?idxno=2003530",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299625",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069662",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069656",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069686"
   ],
   "titles": [
-    "2026 경주국제마라톤 다음 달 17일 개최",
-    "논산시, 체납자 실태조사로 복지 사각지대 발굴",
-    "청암대, 네팔 홍수 피해 유학생에 특별장학금 훈훈",
-    "국립목포대, AI·디지털 실무인재 양성 협력",
     "7월 전국 공장·창고 거래액 8637억원…올해 '최저'",
     "속초시, 강원 여성어업인 한자리 모여 화합 다져",
     "고양시, 택시·경찰과 생활교통 개선…출퇴근 정체 해소 나선다",
@@ -1001,6 +997,10 @@
     "LH, 건설 현장 불법하도급 신고 포상금 상한 폐지",
     "문경관광공사, 10월 첫 연휴 관광객 5만4000여 명 유치",
     "경북 수산자원연구원·농공단지협의회, 스마트 양식 신산업 발굴 맞손",
-    "경주 한우, '2026 경북한우경진대회'에서 그랜드 챔피언으로 뽑혀"
+    "경주 한우, '2026 경북한우경진대회'에서 그랜드 챔피언으로 뽑혀",
+    "성남시, 베트남서 KAT 2026 개최…국산 의료기기 경쟁력 홍보",
+    "영천시의회, 마을기업 자립모델 연구 착수…지원 조례 제정 추진",
+    "영천 기업·단체 잇단 장학금 기탁…하루 새 700만원",
+    "포항시·아모지, 영일만 무탄소 분산발전 확대 협력 논의"
   ]
 }
