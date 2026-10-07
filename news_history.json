@@ -1,7 +1,5 @@
 {
   "urls": [
-    "http://www.opinionnews.co.kr/news/articleView.html?idxno=145004",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066887",
     "https://www.m-i.kr/news/articleView.html?idxno=2000200",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066892",
     "https://n.news.naver.com/mnews/article/629/0000537697?sid=102",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/009/0005745340?sid=103",
     "https://www.ksmnews.co.kr/news/view.php?idx=624711",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299429",
-    "https://n.news.naver.com/mnews/article/018/0006383069?sid=105"
+    "https://n.news.naver.com/mnews/article/018/0006383069?sid=105",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299657",
+    "https://www.m-i.kr/news/articleView.html?idxno=2003692"
   ],
   "titles": [
-    "동해연구회, 제32회 동해지명관련 국제세미나 개최",
-    "경북도, 국감서 미래대응기금·행정통합·신공항 등 4대 현안 건의",
     "원주시·대구 북구, '원주만두축제'·'대구 떡볶이 페스티벌' 연계 홍보",
     "경북도, 2027년 제25차 세계한상대회 경주 유치 확정",
     "&lt;더팩트&gt; '유네스코 갯벌' 보도, 제432회 '이달의 기자상' 수상",
@@ -1001,6 +999,8 @@
     "“젠몬, 기부까지 잘하네”…국립암센터에 1억 기부",
     "구미시, 고교 학력제고 ‘성과’…지역인재 취업·정착까지 지원",
     "전남광주특별시, 여수서 '세계 김밥&amp;소금 페스티벌' 팡파르",
-    "KBS·YTN 등 방송사 11곳에 시정명령…\"편성위·편성규약 법적 의무\""
+    "KBS·YTN 등 방송사 11곳에 시정명령…\"편성위·편성규약 법적 의무\"",
+    "[기고] 국가를 위한 40년, 경마공원의 새 터를 양평으로",
+    "부품 운반부터 생산공정 연계까지…전남광주·대구 'PBM' 만든다"
   ]
 }
