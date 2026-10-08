@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005741559?sid=102",
-    "https://n.news.naver.com/mnews/article/586/0000139098?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297361",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297232",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297225",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297154",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297353",
@@ -499,13 +495,13 @@
     "https://www.dynews.co.kr/news/articleView.html?idxno=868681",
     "https://www.youthdaily.co.kr/news/article.html?no=228036",
     "https://www.wikitree.co.kr/articles/1164649",
-    "http://www.newstomato.com/ReadNews.aspx?no=1316006&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1316006&inflow=N",
+    "https://n.news.naver.com/mnews/article/081/0003687089?sid=100",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299313",
+    "https://www.m-i.kr/news/articleView.html?idxno=2003799",
+    "https://theviewers.co.kr/View.aspx?No=4256005"
   ],
   "titles": [
-    "공소청 첫 인사…박철우 서울중앙공소청장·주민철 대구광역공소청장",
-    "철근 누락에 사망사고까지…현대·포스코·SK 국감 소환되나",
-    "경산시, 시의회와 지역 현안 해결 위한 협력 강화",
-    "영주시, 대한홍삼 130억원 투자 유치",
     "산청군, 2027년 국도비 확보 위한 현장 행보 강화",
     "사천시, 농협 임직원 고향사랑기부로 하동군과 상생",
     "경남도, 수도권 기업 대상 미래산업 투자유치 나선다",
@@ -1001,6 +997,10 @@
     "충청권 15곳 인구감소지역 재지정",
     "[기자수첩] 수도권엔 '닥공', 지방엔 빈집…균형성장 거스른 정부의 '엇...",
     "[신간] 윤혜주 수필집 '깊고 느리게 머무르는 시선으로'",
-    "편성위 미구성·규약 미개정 방송사에 시정명령…KBS·YTN 등 11곳"
+    "편성위 미구성·규약 미개정 방송사에 시정명령…KBS·YTN 등 11곳",
+    "‘전통문화 예인을 기다립니다’…대동문화재단, ‘제8회 대동전통문화...",
+    "[PICK! 이 안건] 안도걸 등 11인 \"환매요청한 미분양주택 분양가 수준에...",
+    "기보, 지방 스타트업 5곳 글로벌 투자 연결…누적 투자기업 781곳",
+    "[유통갤러리] 풀무원푸드앤컬처, 칼국수 전문 브랜드 ‘자연은 맛있다 ..."
   ]
 }
