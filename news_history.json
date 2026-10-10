@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2001435",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067507",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1297628",
     "https://www.ksmnews.co.kr/news/view.php?idx=623952",
     "https://n.news.naver.com/mnews/article/009/0005742307?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005742306?sid=101",
@@ -499,12 +496,12 @@
     "https://www.incheontoday.com/news/articleView.html?idxno=324429",
     "https://www.ekn.kr/web/view.php?key=20261008025333927",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299752",
-    "https://www.ajunews.com/view/20261009095838590"
+    "https://www.ajunews.com/view/20261009095838590",
+    "http://www.breaknews.com/1242021",
+    "https://n.news.naver.com/mnews/article/003/0014244181?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299944"
   ],
   "titles": [
-    "경북 포항·구미와 대구, 로봇 국가첨단전략산업 특화단지 통합 지정",
-    "경북승마협회장배 전국승마대회 상주서 개최…500여명 참가",
-    "청도군, 2027년 군정 청사진 마련 나서",
     "1084억 사업 “절차 건너뛰고” 설계 먼저…안동시 ‘거꾸로 행정’",
     "예전 같지 않은 미국…예전과 다른 非미국 ETF[이번주 찜할 ETF]",
     "더블 역세권·1695가구…모아타운 덩치도 입지도 상전벽해[부동산 심머...",
@@ -1001,6 +998,9 @@
     "[신간] 이정희 교수, 한반도화교 140년 역사 '경계를 살아온 사람들' 출...",
     "[신간도서 출간] ‘달리기를 말할 때 내가 하고 싶은 이야기’·‘세상...",
     "[PICK! 이 안건] 서삼석 등 10인 \"마른김 유통구조의 투명성 높이고 공정...",
-    "[ABC 기획시리즈 - 케이블TV의 갈림길②] 위기의 지역SO.. '하이퍼 로컬..."
+    "[ABC 기획시리즈 - 케이블TV의 갈림길②] 위기의 지역SO.. '하이퍼 로컬...",
+    "【속보】경북 경산시 정방동 소재 자동차 정비공장서 화재",
+    "경북 차량정비공장 화재, 초진…완진까지 장시간 걸릴듯",
+    "서울시의회 임만균 의장, 호주 NSW주 결연 30주년 맞아 협력 확대 논의"
   ]
 }
