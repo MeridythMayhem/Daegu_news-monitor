@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016348980?sid=101",
-    "https://www.m-i.kr/news/articleView.html?idxno=2001507",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067615",
     "https://www.joongangenews.com/news/articleView.html?idxno=551648",
     "http://news.lghellovision.net/news/articleView.html?idxno=556881",
@@ -499,11 +497,11 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070182",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172091",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299963",
-    "http://www.breaknews.com/1242067"
+    "http://www.breaknews.com/1242067",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086677",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299993"
   ],
   "titles": [
-    "울산신용보증재단 신임 이사장에 한양현 씨 임명",
-    "기보, 이종혁 전무이사, 장진엽·김현 상임이사 선임",
     "경북도, 대학 중심 첨단산업 인재 키운다…올해 3000억원 투입",
     "의혹 휩싸인 포스코노조 위원장...사측 노무관리·내부통제도 도마",
     "영암 '옛 대동공장' 문화재생 주민 소통마당 개최",
@@ -1001,6 +999,8 @@
     "[주간분양] 이주 '향남역 그로브 스위첸' 등 9개 단지 청약",
     "중국 CXMT, 연말 4F² D램 공개...삼성전자·SK하이닉스는?",
     "금융권 해킹 파장, 공기업·대학·교회까지…개인정보 유출 100만명분 넘...",
-    "대구 건물 천장 무너지며 36명 부상…고속도로 6중 추돌·정비공장 화재..."
+    "대구 건물 천장 무너지며 36명 부상…고속도로 6중 추돌·정비공장 화재...",
+    "대구시, 공장·창고 8457곳 화재안전 실태조사 착수",
+    "정선군, 법무부 교정시설 유치 추진"
   ]
 }
