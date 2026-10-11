@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/421/0009203082?sid=100",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298006",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475902",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298036",
     "https://www.m-i.kr/news/articleView.html?idxno=2001701",
     "https://n.news.naver.com/mnews/article/057/0001971546?sid=102",
@@ -499,12 +496,12 @@
     "https://www.kbmaeil.com/article/20261011500341",
     "https://www.dkilbo.com/news/articleView.html?idxno=556696",
     "https://www.yeongnam.com/web/view.php?key=20261011026343626",
-    "https://www.yeongnam.com/web/view.php?key=20261011025292152"
+    "https://www.yeongnam.com/web/view.php?key=20261011025292152",
+    "https://n.news.naver.com/mnews/article/009/0005746868?sid=101",
+    "https://www.dynews.co.kr/news/articleView.html?idxno=868926",
+    "https://www.dynews.co.kr/news/articleView.html?idxno=868795"
   ],
   "titles": [
-    "인사말하는 임광현 국세청장",
-    "iH, 제물포역 북측 공공주택 복합사업 이주율 90.8%… 연내 착공 '청신호...",
-    "기후위기 넘은 안동 스마트사과, 세계 농수산업기술상 '대상' 쾌거",
     "강원특별자치도, 소양강댐 수상태양광 비전 선포",
     "경주시, '2027 세계한상대회' 유치…글로벌 경제인 4000명 집결",
     "동대구역 박정희 동상 철거 위기 넘겼다…철도공단 청구 기각",
@@ -1001,6 +998,9 @@
     "대구시, 공장·창고 8457동 화재안전 전수조사…고위험 시설부터 점검",
     "대구시, 공장·창고 8400여 동 화재안전 전수조사 나선다",
     "공공배달앱 ‘대구로’ 새 판 짠다…대구시, 운영사 공개모집",
-    "우복 정경세의 ‘우산팔경’ 품은 상주 이촌리…주민 손으로 산림정원..."
+    "우복 정경세의 ‘우산팔경’ 품은 상주 이촌리…주민 손으로 산림정원...",
+    "전세계 ‘감튀’ 3분의 1을 만드는 이곳…‘깜짝 실적’ 달성한 비결 [매...",
+    "창사특집 인터뷰/ 이은주 청주시 상당구 주민복지과장",
+    "충주 달군 생활체육 배구 열기…17회 동양일보배 전국대회 성료"
   ]
 }
