@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/008/0005421174?sid=101",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298271",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298072",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298043",
-    "https://news.unn.net/news/articleView.html?idxno=598177",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068001",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067995",
     "https://www.iusm.co.kr/news/articleView.html?idxno=1068671",
@@ -499,14 +494,14 @@
     "https://www.sejungilbo.com/news/articleView.html?idxno=60536",
     "https://n.news.naver.com/mnews/article/020/0003754029?sid=100",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070309",
-    "https://n.news.naver.com/mnews/article/001/0016369690?sid=110"
+    "https://n.news.naver.com/mnews/article/001/0016369690?sid=110",
+    "https://www.christiantoday.co.kr/news/377839",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300187",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300174",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300171",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070485"
   ],
   "titles": [
-    "엘앤에프, 예상 3분의 1로 줄인 1천억 CB 발행 승부수",
-    "장상길 경상북도환경연수원장 취임",
-    "정선농협~농협정선군지부, 고향사랑기부제·농심천심 홍보",
-    "여수 관광기업, 세계섬박람회 성공 기원 '불꽃행사' 기부",
-    "\"기업 면접관 앞으로\"… 앵커(ANCHOR) 학생들, '앵커루트+' 무대에[현장...",
     "포항, '로봇 국가첨단전략산업 특화단지' 지정…미래 신산업 기반 확대",
     "봉화군, '농촌 기본소득' 시범사업 준비 본격화…7일 주민설명회",
     "한양현 울산신용보증재단 이사장 취임…8년 만에 복귀",
@@ -1001,6 +996,11 @@
     "조세심판원, 국장급 2명 인사…7상임심판관 이화진·8상임심판관 서정훈",
     "길주 핵실험장에서 강원 홍천까지… 선도농업인 꿈꾸는 33세 탈북 여성 ...",
     "달성군의회, 제330회 임시회 개회…조례안 등 14건 심의",
-    "[전국 주요 신문 사설](12일 조간)"
+    "[전국 주요 신문 사설](12일 조간)",
+    "에스더기도운동 2026년 10월 2주차 북한 및 국가 기도제목",
+    "서초구, '찾아가는 서초복지박람회' 권역별 릴레이 개최",
+    "동대문구, '10분 도시'로 생활·돌봄·성장 잇는다",
+    "강서구, 마곡 통합신청사 시대 개막…49년 만에 청사 이전",
+    "경북도, 안동에 1750억원 투입…헴프 기반 의약품 산업거점 조성"
   ]
 }
