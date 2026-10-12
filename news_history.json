@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005742940?sid=101",
-    "https://www.hidomin.com/news/articleView.html?idxno=723414",
-    "https://n.news.naver.com/mnews/article/079/0004194985?sid=102",
-    "https://n.news.naver.com/mnews/article/009/0005742952?sid=105",
-    "https://n.news.naver.com/mnews/article/022/0004163433?sid=101",
-    "https://www.tbc.co.kr/news/view?pno=20261001160623AE06282&id=211648",
-    "https://www.tbc.co.kr/news/view?pno=20261001133741AE06268&id=211644",
-    "http://mcnews.co.kr/86745",
     "http://www.ujeil.com/news/articleView.html?idxno=392990",
     "https://n.news.naver.com/mnews/article/005/0001876315?sid=102",
     "https://n.news.naver.com/mnews/article/088/0001031853?sid=100",
@@ -499,17 +491,17 @@
     "https://www.m-i.kr/news/articleView.html?idxno=2004518",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070574",
     "https://www.m-i.kr/news/articleView.html?idxno=2004659",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=449059"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=449059",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=60524",
+    "https://n.news.naver.com/mnews/article/055/0001394753?sid=103",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300411",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300413",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300363",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300344",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300309",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300404"
   ],
   "titles": [
-    "IMA 어디로 가요?…안정 원하면 한투·NH, 고수익은 ‘여기’ [이슈 플러...",
-    "포스코 차기 노조위원장 누가 될까",
-    "\"대구 반도체 호조 영향 無 …제조·섬유산업 부가가치, 전국 절반 미만...",
-    "K팝·K드라마 다음은 K크리에이터…유튜브 CEO가 말하는 한국 문화의 힘...",
-    "“종자 가치, 농업 시작 넘어 식량안보의 미래 결정”",
-    "19조 투자에 특화단지까지...'휴머노이드 구미' 탄력",
-    "대구 주택 공급 규제, 3년 만에 푼다",
-    "이강석 대우건설 대표 “투르크메니스탄과 파트너십 강화”",
     "한양현 울산신용보증재단 신임 이사장 임명",
     "철거 위기 벗은 동대구역 ‘박정희 동상’… 철도공단 1심 패소",
     "다행히 음주운전 전과자 추가는 없었지만…靑 1일 쇄신 인선 살펴보니 ...",
@@ -1001,6 +993,14 @@
     "장동혁 \"李 대통령 관심사 골프와 SNS밖에 없어\"",
     "장동혁 \"李대통령 관심사 '골프·SNS'밖에 없는 것 같다\"",
     "신세계프라퍼티, 성수동에 '스탈릿 푸드라운지' 개장…300석 규모 푸드홀...",
-    "[부음] 김성연 시모, 김중석 장모, 윤승옥 모친 외"
+    "[부음] 김성연 시모, 김중석 장모, 윤승옥 모친 외",
+    "탈세제보 연평균 2만건…국세청, 한 해 8766억원 추징",
+    "'82년생 김지영' 작가의 신작 장편 '재이'",
+    "화천 파크골프장 이용료 현실화… 화천경제에 지역화폐 공급 확대",
+    "강화군, 강화도 새우젓 축제·성황리 마무리",
+    "성남시, 폴란드 한국의 날·문화외교 확대",
+    "킨텍스, K-뷰티엑스포·역대 최대 규모 개최",
+    "강원특별자치도, 18개 시군 개별 면담 마무리",
+    "홍천군, 도비 지원으로 빈집 18동 철거 지원"
   ]
 }
