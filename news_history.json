@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.newscj.com/news/articleView.html?idxno=3437522",
-    "https://n.news.naver.com/mnews/article/421/0009207340?sid=102",
     "https://n.news.naver.com/mnews/article/018/0006379822?sid=101",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=869733",
     "http://mcnews.co.kr/86751",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300495",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300565",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300613",
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037324"
+    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037324",
+    "https://www.ksmnews.co.kr/news/view.php?idx=625145",
+    "https://www.tbc.co.kr/news/view?pno=20260928131215AE06121&id=212012"
   ],
   "titles": [
-    "김성호 포스코 노조위원장 '3선 성공'… 중단된 임금교섭 재개 전망",
-    "3선 김성호 포스코 노조위원장 \"흔들림 없이 교섭 완수\"",
     "김성호 포스코 노조 위원장 '3선 성공'…\"임단협 다시 속도 내나\"",
     "에너지 산업수도 울진, 미래 전략 모색",
     "[기고] 산재 시 영업이익 5% 과징금, 로펌만 웃는다",
@@ -1001,6 +999,8 @@
     "김해시, 민선9기 첫 조직개편...청년·AI·돌봄 기능 강화",
     "함양군, 산삼축제 연계 채용박람회 성료...280여 명 참여",
     "박완수 경남지사, 지역 현안 추진 '동분서주'",
-    "디지털 인재 양성도 서울 쏠림…KDT 지원금, 서울 82.8%·경기 10.2%"
+    "디지털 인재 양성도 서울 쏠림…KDT 지원금, 서울 82.8%·경기 10.2%",
+    "세계 신경재활 석학 1200명 대구에 집결",
+    "[단독]농촌 곳곳 불법 폐기물, 알고 보니 같은 업체가?"
   ]
 }
