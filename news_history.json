@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298889",
-    "http://mcnews.co.kr/86754",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068884",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068875",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298983",
@@ -499,11 +497,11 @@
     "http://www.4th.kr/news/articleView.html?idxno=2119683",
     "https://www.incheonilbo.com/news/articleView.html?idxno=1334044",
     "https://www.yeongnam.com/web/view.php?key=20261013021094402",
-    "https://n.news.naver.com/mnews/article/018/0006387407?sid=100"
+    "https://n.news.naver.com/mnews/article/018/0006387407?sid=100",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=562213",
+    "https://www.dynews.co.kr/news/articleView.html?idxno=869252"
   ],
   "titles": [
-    "美부통령 \"알래스카 LNG, 한국과 세부사항 협의 필요\"…트럼프와 온도 ...",
-    "이강석 대우건설 대표 공식 취임… “두려움 없이 도전”",
     "청도반시축제·세계코미디아트페스티벌 16일 동시 개막",
     "구미시, 삼성SDS AI 데이터센터 건설에 지역업체 참여 기회 넓힌다",
     "태안군, 소나무재선충병 피해목 산업자원화 나선다",
@@ -1001,6 +999,8 @@
     "[국감] 포스코이앤씨 신안산선 반복 사망, 노동장관 \"지위 고하 막론 엄...",
     "줄어든 혜택·막힌 기회…경기도, 수도권 이유로 또 배제",
     "경찰청, 총경 ‘412명’ 인사 단행…대구 경찰도 ‘향피제’ 적용",
-    "전국 사회인야구 72개팀 청도로…신화랑배 25일까지 열전"
+    "전국 사회인야구 72개팀 청도로…신화랑배 25일까지 열전",
+    "경찰 총경 인사에 '향피제'…대구 5곳·경북 11곳 서장 교체",
+    "충청권 아파트 분양전망 '암울'…지역별 양극화 '심화'"
   ]
 }
