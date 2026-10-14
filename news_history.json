@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016361027?sid=104",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298960",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298969",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299216",
     "https://www.ksmnews.co.kr/news/view.php?idx=624461",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298919",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298964",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301438",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301423",
     "http://mcnews.co.kr/86789",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301306"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301306",
+    "https://www.econovill.com/news/articleView.html?idxno=753589",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4439222",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=280412",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=232254"
   ],
   "titles": [
-    "中화웨이, 美퀄컴과 5G·AI 등 '특허 상호사용' 계약",
-    "용산구공단, 이태원1동 노상공영주차장 '스마트 공유주차' 전환",
-    "성동구, 내년도 생활임금 1만 2천757원…1천 280명 적용",
-    "인천1호선 송도 8공구, 예타통과관련... 국정감사 촉구",
     "경북신보·여성정책원, 경영평가 ‘S등급’",
     "강남구, AI·로봇 기업 판로 지원",
     "충남도, 15개 시군 청년 목소리로 정책 구체화",
@@ -1001,6 +997,10 @@
     "李대통령, 신임 비서실장에 임광현 국세청장 임명",
     "농협 남양주시지부·진건농협, 우리 쌀 소비 촉진 캠페인",
     "서현, 창사 19주년 직원 단합 ‘체육대회’ 개최",
-    "정선군의회, 의원 연구단체 연구용역 착수보고회 개최"
+    "정선군의회, 의원 연구단체 연구용역 착수보고회 개최",
+    "[인사] 국세청",
+    "[인사] 국세청",
+    "[인사] 국세청",
+    "이수페타시스 10.62% 급등…AI PCB 분기 최대 실적 부각"
   ]
 }
