@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016361242?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068816",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299251",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299242",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299148",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299133",
     "http://mcnews.co.kr/86759",
     "http://mcnews.co.kr/86758",
@@ -499,14 +494,14 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087163",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071844",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071826",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071836"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071836",
+    "http://www.jndn.com/article.php?aid=1791964319441138011",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301473",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301358",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301522",
+    "https://www.joongdo.co.kr/web/view.php?key=20261014010003620"
   ],
   "titles": [
-    "[전국 주요 신문 톱뉴스](7일 조간)",
-    "경북 대학 3곳 지역혁신 성과 인정…영남대 교육부 장관상",
-    "아산시, 13개 산업단지 조성 속도… 첨단기업 투자 기반 확충",
-    "경남도, 노후 농공단지 환경개선 국비 확보",
-    "경북도, 대학 3곳 지역혁신 사례 경진대회 수상",
     "사천시, 민선9기 출범 100일 6개 분야 92개 공약 확정",
     "오세훈 “李 대통령, ‘부동산 정책 실패’ 솔직히 인정해야”",
     "‘전세사기 피해자’ 임차보증금 최소보장… 1/3 지원 내달 시행",
@@ -1001,6 +996,11 @@
     "전통주와 지역 먹거리의 만남…'우리술 푸드페어링' 24일 문경서 개최",
     "포항시 전산직 공무원, AI 행정서비스 자체 개발 위한 연구모임 출범",
     "영천시, 2027년 국비 확보 점검…2028년 신규사업 발굴 본격화",
-    "영천시, 망실 지적기준점 94개 재설치…토지측량 정확도 강화"
+    "영천시, 망실 지적기준점 94개 재설치…토지측량 정확도 강화",
+    "[인사]광주지방국세청",
+    "안동시, 도심 자가정보통신망 구축 본격 추진",
+    "청송군, 농어촌 기본소득 사용처 확대",
+    "충남도의회 기획경제위, 자카르타와 AI·농업 협력 확대 논의",
+    "귀뚜라미문화재단, 성주 청소년 50명에 장학금 5천만원 지원"
   ]
 }
