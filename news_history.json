@@ -1,10 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86771",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086554",
-    "https://n.news.naver.com/mnews/article/009/0005745630?sid=101",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086592",
-    "https://www.tbc.co.kr/news/view?pno=20261007100023AE06509&id=211832",
     "https://www.idomin.com/news/articleView.html?idxno=2016517",
     "https://www.yeongnam.com/web/view.php?key=20261007027322938",
     "https://n.news.naver.com/mnews/article/003/0014240470?sid=102",
@@ -499,14 +494,14 @@
     "https://www.inews365.com/news/article.html?no=939420",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072369",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072243",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072399"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072399",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301936",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301859",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301976",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301831",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301842"
   ],
   "titles": [
-    "[현장] 대한민국 철도 교통 관문 서울역 도심지 心血로 ‘사명감’ 공사",
-    "경일대 미디어커뮤니케이션학과, 첫 진로·취업 워크숍",
-    "“아무리 확신 있어도 몰빵은 금물”…IMF 때도 웃은 최권욱의 투자법 ...",
-    "포스텍 출신 박종찬 단장, 누리호 4·5차 발사 성공 이끌어",
-    "'세계경주포럼'...문화의 '다보스포럼'으로",
     "박완수 지사 \"산업 대전환·복지 강화로 청년이 떠나지 않는 경남 만들...",
     "[울진포럼] 울진 ‘2026 에너지산업 수도 울진 미래에너지 포럼’ 개최",
     "[대구·경북 조간 헤드라인]",
@@ -1001,6 +996,11 @@
     "충북대 신입생 4명 중 1명 수도권 출신",
     "포항시, 2027 이클레이 세계총회 준비 본격화…핵심의제 발굴 착수",
     "'철강·조선' 임단협 진통, 포스코 불발·HD현중 내홍…'방산' KAI 청와대...",
-    "[2026 국감-정무위] 전현희 \"국유지 헐값 매각 뒤 LH 고가 매입…국민 재..."
+    "[2026 국감-정무위] 전현희 \"국유지 헐값 매각 뒤 LH 고가 매입…국민 재...",
+    "영주시, 통합바이오가스 시설 구축…국비 142억원 확보",
+    "함양군, 대전~남해선 국가철도망 반영 공동건의",
+    "충남도, 부여 백제문화 가치 높이고 의료·교통망 확충",
+    "문경시, 본인서명사실확인서 이용 활성화 홍보",
+    "진주시, 시민과 함께하는 건축문화제 21일까지 운영"
   ]
 }
