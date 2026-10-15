@@ -1,12 +1,5 @@
 {
   "urls": [
-    "http://www.newstomato.com/ReadNews.aspx?no=1316006&inflow=N",
-    "https://n.news.naver.com/mnews/article/081/0003687089?sid=100",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299313",
-    "https://www.m-i.kr/news/articleView.html?idxno=2003799",
-    "https://theviewers.co.kr/View.aspx?No=4256005",
-    "https://www.seoultimes.news/news/article.html?no=2000100658",
-    "https://www.ziksir.com/news/articleView.html?idxno=148718",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069833",
     "https://www.kpinews.kr/newsView/1065573667423003",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299796",
@@ -499,16 +492,16 @@
     "https://www.gnnews.co.kr/news/articleView.html?idxno=647508",
     "https://www.m-i.kr/news/articleView.html?idxno=2006573",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=562493",
-    "https://www.tbc.co.kr/news/view?pno=20261015153811AE06923&id=212190"
+    "https://www.tbc.co.kr/news/view?pno=20261015153811AE06923&id=212190",
+    "https://n.news.naver.com/mnews/article/003/0014257277?sid=101",
+    "https://www.ksmnews.co.kr/news/view.php?idx=625686",
+    "https://www.ksmnews.co.kr/news/view.php?idx=625690",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301887",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=60649",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072083",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072343"
   ],
   "titles": [
-    "편성위 미구성·규약 미개정 방송사에 시정명령…KBS·YTN 등 11곳",
-    "‘전통문화 예인을 기다립니다’…대동문화재단, ‘제8회 대동전통문화...",
-    "[PICK! 이 안건] 안도걸 등 11인 \"환매요청한 미분양주택 분양가 수준에...",
-    "기보, 지방 스타트업 5곳 글로벌 투자 연결…누적 투자기업 781곳",
-    "[유통갤러리] 풀무원푸드앤컬처, 칼국수 전문 브랜드 ‘자연은 맛있다 ...",
-    "오뚜기, 국가고객만족도 라면 부문 4년 연속 1위…업종 평균 웃돌아",
-    "오뚜기 \"NCSI '라면 제조 부문' 4년 연속 1위 달성\"",
     "대구 서구, 2027년 주요업무계획 점검…민선 9기 핵심사업 추진",
     "[노성열의 AI경제] AI를 이기려는 중국의 인간 주도권 회복 실험",
     "삼성전자, 3분기 영업이익 107조 돌파··· 국내 기업 최초 100조 시대 ...",
@@ -1001,6 +994,13 @@
     "[열린칼럼]115년의 배움터, 공동체의 거점으로 피어나길",
     "\"투자할 돈 없다·인재는 서울로\"…대전 스타트업, 성장 장벽 호소",
     "귀뚜라미문화재단, 성주서 장학금 수여식",
-    "'소년, 소년병이 되다'.,.칠곡낙동강평화축제 개막"
+    "'소년, 소년병이 되다'.,.칠곡낙동강평화축제 개막",
+    "임광현 떠난 국세청, 후임 인선 촉각…내부 승진이냐 외부 발탁이냐",
+    "‘대구 돔구장’ 유치전 본격화…1만9710명 범시민 역량결집",
+    "“일터만 옮기지 말고 삶을 옮겨라”…대구의 파격 제안",
+    "오세훈 \"용산공원 주택 개발 반대…공급 확대 위한 규제 완화 시급\"",
+    "검찰청 폐지에 '마약·밀수' 관세범죄 수사 수사 '비상'",
+    "구미상의, 반도체·방산 수출통제 대응 교육 개최",
+    "포항시, iM뱅크·NH농협은행과 시금고 운영 약정 체결"
   ]
 }
