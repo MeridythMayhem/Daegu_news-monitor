@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/469/0000958301?sid=110",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=868681",
     "https://www.youthdaily.co.kr/news/article.html?no=228036",
     "https://www.wikitree.co.kr/articles/1164649",
     "http://www.newstomato.com/ReadNews.aspx?no=1316006&inflow=N",
@@ -499,11 +497,11 @@
     "https://n.news.naver.com/mnews/article/009/0005749320?sid=102",
     "http://www.hellodd.com/news/articleView.html?idxno=113497",
     "https://n.news.naver.com/mnews/article/658/0000158585?sid=103",
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1334250"
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1334250",
+    "https://www.gnnews.co.kr/news/articleView.html?idxno=647508",
+    "https://www.m-i.kr/news/articleView.html?idxno=2006573"
   ],
   "titles": [
-    "원전 공론화, 놓쳐서는 안 될 역사적 사실들 [아침을 열며]",
-    "충청권 15곳 인구감소지역 재지정",
     "[기자수첩] 수도권엔 '닥공', 지방엔 빈집…균형성장 거스른 정부의 '엇...",
     "[신간] 윤혜주 수필집 '깊고 느리게 머무르는 시선으로'",
     "편성위 미구성·규약 미개정 방송사에 시정명령…KBS·YTN 등 11곳",
@@ -1001,6 +999,8 @@
     "[알립니다] \"코딩 몰라도 도전\"…청소년 AI 경진대회",
     "연구실서 로봇이 '척척'···中 현장서 찾은 韓 자율랩의 길",
     "[박현주의 신간돋보기] 일상 언어에서 찾은 삶의 방향 外",
-    "형사재판·강제경매 '전국 최다'쏟아지는 사건에 인천지법 몸살"
+    "형사재판·강제경매 '전국 최다'쏟아지는 사건에 인천지법 몸살",
+    "[열린칼럼]115년의 배움터, 공동체의 거점으로 피어나길",
+    "\"투자할 돈 없다·인재는 서울로\"…대전 스타트업, 성장 장벽 호소"
   ]
 }
