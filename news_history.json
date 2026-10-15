@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001032806?sid=102",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=231079",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299590",
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4110822",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299550",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299583",
-    "https://n.news.naver.com/mnews/article/088/0001032815?sid=101",
-    "http://mcnews.co.kr/86770",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069562",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069567",
     "https://www.m-i.kr/news/articleView.html?idxno=2003530",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299625",
@@ -499,18 +490,18 @@
     "https://n.news.naver.com/mnews/article/421/0009229019?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301642",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301617",
-    "https://www.idaegu.com/news/articleView.html?idxno=666286"
+    "https://www.idaegu.com/news/articleView.html?idxno=666286",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301685",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301665",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301662",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301657",
+    "https://www.banronbodo.com/news/articleView.html?idxno=33163",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301667",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301682",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301615",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301690"
   ],
   "titles": [
-    "3연임에 성공한 포스코노조 위원장, 임금협상이 가장 큰 과제",
-    "이수페타시스 6.44% 하락…AI PCB 기대 뒤 차익 매물",
-    "속초시, 인구감소관심지역 벗어나 '인구활력+지역'으로 전환",
-    "BBS울산 '문화소식' - 울산시립미술관 '황소' 이중섭 회고전·통도사 '어...",
-    "목송산업개발, 제대군인 고용 우수기업 4회 연속 인증",
-    "장성해 의원, 통합특별시 의회 견제권 강화 주문…\"협의와 권한은 달라...",
-    "우리금융 편입된 동양생명, 자산 효율화 추진… 대구사옥 매각",
-    "LH, 건설 현장 불법하도급 신고 포상금 상한 폐지",
-    "문경관광공사, 10월 첫 연휴 관광객 5만4000여 명 유치",
     "경북 수산자원연구원·농공단지협의회, 스마트 양식 신산업 발굴 맞손",
     "경주 한우, '2026 경북한우경진대회'에서 그랜드 챔피언으로 뽑혀",
     "성남시, 베트남서 KAT 2026 개최…국산 의료기기 경쟁력 홍보",
@@ -1001,6 +992,15 @@
     "포스코 노조 2026년 임금 교섭 불발…사측 제시안 어땠길래",
     "[시민기자가 간다] 대한노인회 양양군지회, 어르신 디지털 격차 해소 앞...",
     "중랑구, 망우다정길 제15호 골목형상점가로 지정",
-    "[대구일보 인터뷰] 정연태 죽장연 대표 \"전통 장, 포항 산골서 뉴욕 식..."
+    "[대구일보 인터뷰] 정연태 죽장연 대표 \"전통 장, 포항 산골서 뉴욕 식...",
+    "도봉구, 서울아레나 연 600만 명 방문 대비",
+    "전남광주특별시, 광양서 기업·인재 잇는 채용박람회 문열어",
+    "순천시, 방위산업 육성 본격화...'첨단산업 전략 워크숍' 성료",
+    "광양시, 이장협의회·건축사·기업...'지역경제 살리기' 릴레이 힘 보태",
+    "[뉴스로 읽는 경제·마케팅] AI·로봇 혁신 속 유통 기업의 고민과 도전",
+    "[기획특집] '변화의 파도' 탄 용산… 민선9기 100일, 현장에서 성과로 답...",
+    "서초구, AI기업과 협업 외식업계 활로 넓힌다",
+    "고광민 서울시의회 도시계획균형위원장 \"디자인, 도시 문제 해결하는 창...",
+    "강남구, 신탁체납 징수 빈틈 막았다"
   ]
 }
