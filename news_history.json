@@ -1,9 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86767",
-    "http://mcnews.co.kr/86768",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069499",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299521",
     "https://n.news.naver.com/mnews/article/088/0001032806?sid=102",
     "https://www.job-post.co.kr/news/articleView.html?idxno=231079",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299590",
@@ -499,13 +495,13 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495419",
     "http://www.srtimes.kr/news/articleView.html?idxno=214806",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301608",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301596"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301596",
+    "https://n.news.naver.com/mnews/article/421/0009229019?sid=102",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301642",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301617",
+    "https://www.idaegu.com/news/articleView.html?idxno=666286"
   ],
   "titles": [
-    "리나솔루션, 자체 진동·고주파 신호 센서 활용…철도 구조물 진단 모색",
-    "김수상 전 국토부 실장, 전문건설공제조합 전무로 임명",
-    "부산 금정·동두천·통영도 '인구감소지역'…전국 92곳으로 늘어",
-    "화천군, 열흘간 열린 화천토마토축제··· 지역경제도 축제특수로 '활...",
     "3연임에 성공한 포스코노조 위원장, 임금협상이 가장 큰 과제",
     "이수페타시스 6.44% 하락…AI PCB 기대 뒤 차익 매물",
     "속초시, 인구감소관심지역 벗어나 '인구활력+지역'으로 전환",
@@ -1001,6 +997,10 @@
     "포스코, 노조에 기본급 2.2%·일시금 450만원 제시…노사 합의는 불발",
     "포스코 노사, 9차 교섭 결렬…끝내 '3차 파업' 강행하나",
     "광진구, 경로당 위생환경 개선 '손잡았다'…방역·소독",
-    "[기획특집] '2026 관악강감찬축제' 10주년… 역사·예술·기술을 엮은 새..."
+    "[기획특집] '2026 관악강감찬축제' 10주년… 역사·예술·기술을 엮은 새...",
+    "포스코 노조 2026년 임금 교섭 불발…사측 제시안 어땠길래",
+    "[시민기자가 간다] 대한노인회 양양군지회, 어르신 디지털 격차 해소 앞...",
+    "중랑구, 망우다정길 제15호 골목형상점가로 지정",
+    "[대구일보 인터뷰] 정연태 죽장연 대표 \"전통 장, 포항 산골서 뉴욕 식..."
   ]
 }
