@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.idomin.com/news/articleView.html?idxno=2016517",
-    "https://www.yeongnam.com/web/view.php?key=20261007027322938",
-    "https://n.news.naver.com/mnews/article/003/0014240470?sid=102",
     "https://n.news.naver.com/mnews/article/015/0005340303?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299413",
     "https://n.news.naver.com/mnews/article/469/0000958301?sid=110",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301859",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301976",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301831",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301842"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301842",
+    "https://n.news.naver.com/mnews/article/009/0005749341?sid=105",
+    "https://n.news.naver.com/mnews/article/009/0005749320?sid=102",
+    "http://www.hellodd.com/news/articleView.html?idxno=113497"
   ],
   "titles": [
-    "박완수 지사 \"산업 대전환·복지 강화로 청년이 떠나지 않는 경남 만들...",
-    "[울진포럼] 울진 ‘2026 에너지산업 수도 울진 미래에너지 포럼’ 개최",
-    "[대구·경북 조간 헤드라인]",
     "\"SKY 면접에서 중요한 건…\" 입시 컨설턴트의 '조언'",
     "주한국타이페이대표부 부산사무처, 대만 쌍십절 경축 리셉션 개최",
     "원전 공론화, 놓쳐서는 안 될 역사적 사실들 [아침을 열며]",
@@ -1001,6 +998,9 @@
     "함양군, 대전~남해선 국가철도망 반영 공동건의",
     "충남도, 부여 백제문화 가치 높이고 의료·교통망 확충",
     "문경시, 본인서명사실확인서 이용 활성화 홍보",
-    "진주시, 시민과 함께하는 건축문화제 21일까지 운영"
+    "진주시, 시민과 함께하는 건축문화제 21일까지 운영",
+    "AI 비서가 쇼핑까지 해준다고?…‘알잘딱깔센’ 뮤즈의 등장 [AI 어디까...",
+    "[알립니다] \"코딩 몰라도 도전\"…청소년 AI 경진대회",
+    "연구실서 로봇이 '척척'···中 현장서 찾은 韓 자율랩의 길"
   ]
 }
