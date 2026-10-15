@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/015/0005340303?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299413",
     "https://n.news.naver.com/mnews/article/469/0000958301?sid=110",
     "https://www.dynews.co.kr/news/articleView.html?idxno=868681",
     "https://www.youthdaily.co.kr/news/article.html?no=228036",
@@ -499,11 +497,11 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301842",
     "https://n.news.naver.com/mnews/article/009/0005749341?sid=105",
     "https://n.news.naver.com/mnews/article/009/0005749320?sid=102",
-    "http://www.hellodd.com/news/articleView.html?idxno=113497"
+    "http://www.hellodd.com/news/articleView.html?idxno=113497",
+    "https://n.news.naver.com/mnews/article/658/0000158585?sid=103",
+    "https://www.incheonilbo.com/news/articleView.html?idxno=1334250"
   ],
   "titles": [
-    "\"SKY 면접에서 중요한 건…\" 입시 컨설턴트의 '조언'",
-    "주한국타이페이대표부 부산사무처, 대만 쌍십절 경축 리셉션 개최",
     "원전 공론화, 놓쳐서는 안 될 역사적 사실들 [아침을 열며]",
     "충청권 15곳 인구감소지역 재지정",
     "[기자수첩] 수도권엔 '닥공', 지방엔 빈집…균형성장 거스른 정부의 '엇...",
@@ -1001,6 +999,8 @@
     "진주시, 시민과 함께하는 건축문화제 21일까지 운영",
     "AI 비서가 쇼핑까지 해준다고?…‘알잘딱깔센’ 뮤즈의 등장 [AI 어디까...",
     "[알립니다] \"코딩 몰라도 도전\"…청소년 AI 경진대회",
-    "연구실서 로봇이 '척척'···中 현장서 찾은 韓 자율랩의 길"
+    "연구실서 로봇이 '척척'···中 현장서 찾은 韓 자율랩의 길",
+    "[박현주의 신간돋보기] 일상 언어에서 찾은 삶의 방향 外",
+    "형사재판·강제경매 '전국 최다'쏟아지는 사건에 인천지법 몸살"
   ]
 }
