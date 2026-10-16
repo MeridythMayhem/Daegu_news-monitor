@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/449/0000363398?sid=100",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069823",
-    "https://www.m-i.kr/news/articleView.html?idxno=2003753",
-    "https://n.news.naver.com/mnews/article/023/0004002917?sid=102",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069901",
     "https://www.m-i.kr/news/articleView.html?idxno=2003913",
     "https://n.news.naver.com/mnews/article/025/0003556767?sid=102",
     "https://n.news.naver.com/mnews/article/025/0003556568?sid=102",
@@ -499,14 +494,14 @@
     "https://n.news.naver.com/mnews/article/009/0005749820?sid=105",
     "https://n.news.naver.com/mnews/article/009/0005749818?sid=103",
     "https://n.news.naver.com/mnews/article/005/0001879165?sid=103",
-    "https://www.tbc.co.kr/news/view?pno=20261016172201AE07009&id=212235"
+    "https://www.tbc.co.kr/news/view?pno=20261016172201AE07009&id=212235",
+    "https://n.news.naver.com/mnews/article/088/0001034791?sid=101",
+    "https://n.news.naver.com/mnews/article/016/0002710567?sid=101",
+    "https://www.thefairnews.co.kr/news/articleView.html?idxno=90929",
+    "https://www.youthdaily.co.kr/news/article.html?no=228426",
+    "https://www.m-i.kr/news/articleView.html?idxno=2006603"
   ],
   "titles": [
-    "인터뷰 전문: 차호 “정청래, 웃음은 생리적 현상? 사안 심각성 인지 못...",
-    "구미시, 반도체·방산·로봇 기업 기술협력 본격화…산업혁신 생태계 구...",
-    "구미, 대·중견기업-중소·창업기업 기술 연결했다…'커넥트 서밋' 개최",
-    "서비스에이스, 아빠 직원 62% 육아휴직… 삼성바이오에피스, 400억 들여...",
-    "대동모빌리티, 대구서 '태양광 스쿠터' 실증",
     "대동모빌리티, 대구 성서산단서 태양광 충전 전기 스쿠터 실증",
     "서울시 ‘골목 쪼개기’ 투기 막는다…모든 도로 토허구역 지정",
     "서울 골목길 ‘지분 쪼개기’ 제동…서울 전역 도로 토지거래허가구역...",
@@ -1001,6 +996,11 @@
     "3분기 168억달러 벌어도 AI 불안 해소에 역부족 … 앤트로픽 실적에서 읽...",
     "딸이 다른 남자에게 ‘아빠’랍니다 … “내 아버지는 두 명” [씨네프...",
     "부산교회총연합회, 유엔참전용사 추모 헌화",
-    "'성서에서 서대구까지'...자율 주행 화물차 첫 실증"
+    "'성서에서 서대구까지'...자율 주행 화물차 첫 실증",
+    "에스엘이충곤재단, 5억원 투입해 대구·경북 위기아동 성장 지원",
+    "“베이징·도쿄보다 서울 먼저”…럭셔리車, 한국서 잇달아 아시아 데뷔...",
+    "고흥군, 21일 관광·축제 미래전략포럼 개최…지역경제 활성화 모색",
+    "여야, 국감 반환점서 조희대·이재명 재판 공방…11개 상임위 감사",
+    "구미상의, 전략물자·방산 수출통제 대응과 대미수출 실무교육 개최"
   ]
 }
