@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005746202?sid=101",
-    "https://www.newscj.com/news/articleView.html?idxno=3438921",
-    "https://www.yeongnam.com/web/view.php?key=20261008028343342",
     "https://n.news.naver.com/mnews/article/009/0005746206?sid=101",
     "https://www.ilemonde.com/news/articleView.html?idxno=30753",
     "https://n.news.naver.com/mnews/article/032/0003475208?sid=110",
@@ -499,12 +496,12 @@
     "https://www.yeongnam.com/web/view.php?key=20261016021402115",
     "https://n.news.naver.com/mnews/article/020/0003755481?sid=103",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302146",
-    "https://n.news.naver.com/mnews/article/666/0000127718?sid=102"
+    "https://n.news.naver.com/mnews/article/666/0000127718?sid=102",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581143405111",
+    "http://mcnews.co.kr/86801",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072518"
   ],
   "titles": [
-    "자체 반도체 만들려는 기업 늘어나는데…‘판세 뒤집기’ 노리는 이 회...",
-    "[시사칼럼] 거시지표는 웃는데, 골목경제는 왜 우는가",
-    "대구경북 車부품사, ‘현대차 부진 직격탄’…“3분기 암울하다”",
     "소득 비슷한 중산층인데 순자산은 4배 차이…격차 큰 까닭은 [데이터로...",
     "[책 소개] 한국은 어떻게 전통을 이용해 근대화했는가.《 한국의 후발산...",
     "[에디터의 창]거위의 배를 가르는 자(들)",
@@ -1001,6 +998,9 @@
     "[TK 행정통합 ‘다중심’에서 길을 찾다⑩·끝] 에필로그",
     "현금 사라진 시대, 뼈만 남았던 조폐공사는 어떻게 부활했나 [동아닷컴...",
     "美 전문가들 \"젤렌스키의 북한군 포로 송환 공개, 이재명 정부 전략 차...",
-    "장항습지 품은 고양시, ‘세계 습지도시’ 향해 첫 관문 넘었다"
+    "장항습지 품은 고양시, ‘세계 습지도시’ 향해 첫 관문 넘었다",
+    "화재보험협회, 한국산업단지공단·대구소방안전본부와 화재예방 협력체...",
+    "“문재인 정부가 ‘민간인 불법사찰’… 김현미 전 장관 증인 채택해야...",
+    "전국 파크골프장 832곳으로 급증…장애인 혜택·운영관리 부실 지적"
   ]
 }
