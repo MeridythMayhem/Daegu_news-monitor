@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/353/0000056840?sid=110",
-    "https://www.public25.com/news/articleView.html?idxno=56191",
-    "https://n.news.naver.com/mnews/article/001/0016367703?sid=102",
-    "https://www.greened.kr/news/articleView.html?idxno=351746",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069897",
-    "https://www.incheontoday.com/news/articleView.html?idxno=324429",
-    "https://www.ekn.kr/web/view.php?key=20261008025333927",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299752",
     "https://www.ajunews.com/view/20261009095838590",
     "http://www.breaknews.com/1242021",
@@ -499,16 +492,16 @@
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172319",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302311",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302315",
-    "https://www.m-i.kr/news/articleView.html?idxno=2007083"
+    "https://www.m-i.kr/news/articleView.html?idxno=2007083",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302327",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302329",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302334",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302330",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302331",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302377",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302342"
   ],
   "titles": [
-    "[ON 선데이] 우리는 쉽게 망하지 않는다",
-    "[부고] 최원석(매일경제신문 기자)씨 조모상",
-    "[부고] 최원석(매일경제신문 기자)씨 조모상",
-    "전력수요도 안 잡혔는데 1300억원 변전소부터… 솔라시도 '선지원' 의혹",
-    "초고가 힘 빠진 서울 경매…낙찰가율 1년 7개월 만에 '최저'",
-    "[신간] 이정희 교수, 한반도화교 140년 역사 '경계를 살아온 사람들' 출...",
-    "[신간도서 출간] ‘달리기를 말할 때 내가 하고 싶은 이야기’·‘세상...",
     "[PICK! 이 안건] 서삼석 등 10인 \"마른김 유통구조의 투명성 높이고 공정...",
     "[ABC 기획시리즈 - 케이블TV의 갈림길②] 위기의 지역SO.. '하이퍼 로컬...",
     "【속보】경북 경산시 정방동 소재 자동차 정비공장서 화재",
@@ -1001,6 +994,13 @@
     "중국 AI 정책 변화...산업 적용 &amp; 생산성 제고에 '역점'",
     "[기고] 농산물 가격이 무너지면 식량안보도 무너진다",
     "부평구 십정5구역 재개발, 사업 재정비 속도... 시공사 재선정·관리처...",
-    "중기부, 납품대금 미지급·부당 감액 점검…1만5000개사 조사"
+    "중기부, 납품대금 미지급·부당 감액 점검…1만5000개사 조사",
+    "국립순천대 김현덕 교수, 우즈베키스탄 마문대 한국인 첫 명예교수 임명",
+    "국제농업박람회, 참가기업 수출 후속상담·판로 확대 지원",
+    "태안군 '한우 꽃지왔소 축제' 역대 최대 흥행 성과",
+    "충남소방본부, 겨울철 축사 화재 위험 증가에 예방 당부",
+    "순천시, 재경순천애향회 560여 명 고향 방문 '화기애애'",
+    "세종시 주민생계조합, 창립 20주년 새 도약",
+    "천안시, '2026 빵빵데이 천안' 성료"
   ]
 }
