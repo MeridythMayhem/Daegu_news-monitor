@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.e-science.co.kr/news/articleView.html?idxno=137136",
-    "http://worknworld.kctu.org/news/articleView.html?idxno=510108",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300157",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070822",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070783",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070839",
@@ -499,12 +496,12 @@
     "https://www.yeongnam.com/web/view.php?key=20261019026545448",
     "https://www.yeongnam.com/web/view.php?key=20261019027565470",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087770",
-    "https://www.dynews.co.kr/news/articleView.html?idxno=869991"
+    "https://www.dynews.co.kr/news/articleView.html?idxno=869991",
+    "https://m.sports.naver.com/basketball/article/351/0000088853",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302971",
+    "https://www.ksmnews.co.kr/news/view.php?idx=626101"
   ],
   "titles": [
-    "한컴그룹 김상철 회장, 한글 발전 공로 표창…상금 전액·1000만원 기부",
-    "[오피니언] 해방 전후사의 노동운동 ①",
-    "천안시, AI 기반 어르신 심리돌봄 실증사업 추진",
     "영양 수비능이버섯축제 성료…관광객 5000여명 방문",
     "포항시의회, 제10대 첫 정례회 개회…노후산단 특별법 제정 촉구",
     "청도군, 24~25일 미혼남녀 만남행사 개최…18일까지 참가자 모집",
@@ -1001,6 +998,9 @@
     "[단독] 콘텐츠 예산 상위권 대구…‘지역 대표 콘텐츠’는 안 보인다",
     "[단독] 경북 폐교 255곳 전국 최다…70곳은 활용 못 해",
     "봉화 산림자원, 주민 소득으로…판로·인재 양성이 과제",
-    "오늘의 주장/정파·이념 초월해 총력 대응해야"
+    "오늘의 주장/정파·이념 초월해 총력 대응해야",
+    "[BK 리뷰] '104점 폭발' DB, 한국가스공사 4연승 저지... 승률 5할 복귀",
+    "[축제 561] 오곡의 풍요에 조선의 낭만을 더하다…여주서 펼쳐지는 가을...",
+    "대구시, 국제선 운항 지원 확대…대구국제공항 노선 다변화 추진"
   ]
 }
