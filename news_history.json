@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037324",
-    "https://www.ksmnews.co.kr/news/view.php?idx=625145",
-    "https://www.tbc.co.kr/news/view?pno=20260928131215AE06121&id=212012",
-    "https://www.yeongnam.com/web/view.php?key=20261012026094114",
     "https://n.news.naver.com/mnews/article/056/0012272025?sid=102",
     "https://n.news.naver.com/mnews/article/421/0009223240?sid=102",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086961",
@@ -499,13 +495,13 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000110.html",
     "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482047",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073703",
-    "https://n.news.naver.com/mnews/article/002/0002461773?sid=102"
+    "https://n.news.naver.com/mnews/article/002/0002461773?sid=102",
+    "http://www.newsprime.co.kr/news/article.html?no=751675",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303206",
+    "https://www.m-i.kr/news/articleView.html?idxno=2008116",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073134"
   ],
   "titles": [
-    "디지털 인재 양성도 서울 쏠림…KDT 지원금, 서울 82.8%·경기 10.2%",
-    "세계 신경재활 석학 1200명 대구에 집결",
-    "[단독]농촌 곳곳 불법 폐기물, 알고 보니 같은 업체가?",
-    "한수원 수출부서 도심 이전 국감서 다시 수면 위…후속 절차는 답보",
     "[이슈브리핑] 대구, 고독사 전국 2위 외",
     "[동정]김신곤 경북도민일보 사장 취임",
     "김신곤 경북도민일보 사장 취임…\"지역과 함께 호흡하는 신문 만들 것\"",
@@ -1001,6 +997,10 @@
     "이건희 52년 전 '한국반도체 인수' 승부수 … K-반도체 글로벌 1위 만들...",
     "\"푸른 숲이 미래 먹거리\"… 봉화군, '2026 경북포럼'서 산림 기반 지방소...",
     "구미시, 삼성물산에 지역 건설업체 30% 이상 참여 요청…상생협력 확대",
-    "봉화 산림자원, 소득·일자리로 연결할 방안 찾는다"
+    "봉화 산림자원, 소득·일자리로 연결할 방안 찾는다",
+    "대구시, AI팩토리 선도 프로젝트 3년 연속 선정···제조혁신에 187억원...",
+    "과천시, 지식정보타운 도서관 중앙투자 재심사 통과",
+    "[르포] \"익산에서 용산까지 왔어요\"…백화점 문턱 넘은 소상공인들",
+    "삼성웰스토리, 경북 중소기업 제품 급식 메뉴로 개발…2만식 제공"
   ]
 }
