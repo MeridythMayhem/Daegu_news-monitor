@@ -1,13 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/123/0002391708?sid=101",
-    "https://www.seongjuro.co.kr/news/view.php?idx=61141",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300788",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=883350",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300767",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300740",
-    "https://n.news.naver.com/mnews/article/030/0003474339?sid=100",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300691",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300719",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300727",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300741",
@@ -499,17 +491,17 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302542",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303278",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303440",
-    "https://www.m-i.kr/news/articleView.html?idxno=2008235"
+    "https://www.m-i.kr/news/articleView.html?idxno=2008235",
+    "https://n.news.naver.com/mnews/article/001/0016389590?sid=102",
+    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026101900075&story_seq=0&soCode=114&socttSn=NS2026101900075&socttSeq=0",
+    "https://www.yeongnam.com/web/view.php?key=20261020020045742",
+    "https://n.news.naver.com/mnews/article/009/0005751486?sid=105",
+    "https://n.news.naver.com/mnews/article/009/0005751484?sid=105",
+    "https://n.news.naver.com/mnews/article/009/0005751485?sid=103",
+    "https://www.dkilbo.com/news/articleView.html?idxno=557889",
+    "https://n.news.naver.com/mnews/article/088/0001035571?sid=103"
   ],
   "titles": [
-    "국세청 부동산 탈세 제보 1568건… 추징 실적은 '깜깜이'",
-    "경북 성주군 초전면 부직포 공장 화재 발생",
-    "양양군, 10월 체육대회 잇달아 개최… 6천200여 명 방문 전망",
-    "한국광고주협회, '2026 한국광고주대회' 개최 …김승일 전 코오롱 부사...",
-    "성동구, 민선9기 공약 241개 중 21개 사업 조기 완료",
-    "도봉구, 내년 주요업무계획 점검",
-    "한국광고주협회, '2026 한국광고주대회' 개최",
-    "트럼프 \"내달 아시아 방문 때 김정은 만날 수도\"…북미대화 재개 주목",
     "강남구, 개포6·7단지 관리처분 인가...가람아파트도 조합 승인",
     "서산시, 166억 투입 파크골프장 확충 추진",
     "목련마을 재건축 주민대표회의, 단지 대표위원 일방적 해임 '물의'",
@@ -1001,6 +993,14 @@
     "[PICK! 이 안건] 김승수 등 20인 \"섬 지역 맞춤형 관광지원 체계 마련하...",
     "하동군, 남도2대교 지방재정 중앙투자심사 조건부 승인",
     "李대통령 \"주택 공급 전격전\"…인천 계양 찾아 속도전 주문",
-    "대구신용보증재단, 연간 보증공급 목표 2조2000억원 조기 달성"
+    "대구신용보증재단, 연간 보증공급 목표 2조2000억원 조기 달성",
+    "동대구역 박정희 동상 철거소송 일단락…철도공단 항소 않기로",
+    "구미시 \"AI 데이터센터 건립 공사비 30% 이상 지역업체에\"",
+    "경주 외동3산단 시유지 매각안 통과…4년 만에 공사 재개 길 열려",
+    "코어위브가 남긴 교훈…AI서열 가르는 새 기준 생겼다 [글로벌 인사이트...",
+    "‘SNS로 돈벌기’ 아직 블루오션…일상을 콘텐츠로 만드세요 [더 인플루...",
+    "미용실 하나도 힘든데 매장 500개…압도적 1위 ‘리안헤어’ 전략은 [남...",
+    "봉화서 경북포럼 개최…산림자원 활용해 지방소멸 대응 모색",
+    "스마트폰 없이 72시간, 아이들의 뇌는 어떻게 달라졌나…TBC 다큐 '0.5초..."
   ]
 }
