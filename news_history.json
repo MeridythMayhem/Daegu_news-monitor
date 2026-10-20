@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/056/0012272025?sid=102",
-    "https://n.news.naver.com/mnews/article/421/0009223240?sid=102",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086961",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610111151140770041",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300616",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300641",
     "https://www.ksmnews.co.kr/news/view.php?idx=625212",
     "https://www.ksmnews.co.kr/news/view.php?idx=625160",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300626",
@@ -499,15 +493,15 @@
     "http://www.newsprime.co.kr/news/article.html?no=751675",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303206",
     "https://www.m-i.kr/news/articleView.html?idxno=2008116",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073134"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073134",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073870",
+    "https://www.m-i.kr/news/articleView.html?idxno=2008196",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073885",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073878",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073861",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=449795"
   ],
   "titles": [
-    "[이슈브리핑] 대구, 고독사 전국 2위 외",
-    "[동정]김신곤 경북도민일보 사장 취임",
-    "김신곤 경북도민일보 사장 취임…\"지역과 함께 호흡하는 신문 만들 것\"",
-    "[경남 브리핑 모음(10월12일)] 진주서 ‘2026 코리아 드라마 페스티벌’...",
-    "[10년 전 그날] 밥 딜런, 미국 가수 최초 노벨문학상 수상 영예",
-    "원주시, 소상공인 경영혁신... 경제포럼 15일 개최",
     "AI·반도체·수소환원제철…첨단산업, 원전 전력 직접 확보 주목",
     "대구시, 9개 구·군 순회 ‘지방시대 토크’ 시작",
     "경기도의회, 민생예산 216억 원 복원 추경 수정안 의결",
@@ -1001,6 +995,12 @@
     "대구시, AI팩토리 선도 프로젝트 3년 연속 선정···제조혁신에 187억원...",
     "과천시, 지식정보타운 도서관 중앙투자 재심사 통과",
     "[르포] \"익산에서 용산까지 왔어요\"…백화점 문턱 넘은 소상공인들",
-    "삼성웰스토리, 경북 중소기업 제품 급식 메뉴로 개발…2만식 제공"
+    "삼성웰스토리, 경북 중소기업 제품 급식 메뉴로 개발…2만식 제공",
+    "영천시, 21일 내·외국인 채용박람회 개최…14개 기업 60명 채용 추진",
+    "경북도 국감서 석포제련소 이전·통합신공항 지연 등 현안 집중 질의",
+    "영양군, 경북 첫 기본사회 조례 이어 정책 구체화…2027년부터 본격 추...",
+    "봉화군, 자생식물 산업화 클러스터 조성 추진…기본구상 용역 중간보고...",
+    "영천시, 태국·말레이시아에 무역사절단 파견…중소기업 13개사 참여",
+    "[오늘Who] CJ그룹 중앙일보 공동 인수 눈앞, 이재현 선대회장 꿈 넘어 '..."
   ]
 }
