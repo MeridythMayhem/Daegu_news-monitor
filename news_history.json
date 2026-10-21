@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/001/0016375344?sid=104",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301240",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301215",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301188",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301183",
@@ -499,11 +497,11 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=626560",
     "https://www.ksmnews.co.kr/news/view.php?idx=626528",
     "https://www.m-i.kr/news/articleView.html?idxno=2008792",
-    "https://www.m-i.kr/news/articleView.html?idxno=2008785"
+    "https://www.m-i.kr/news/articleView.html?idxno=2008785",
+    "http://www.kjdaily.com/article.php?aid=1792580191689882036",
+    "https://n.news.naver.com/mnews/article/009/0005752114?sid=103"
   ],
   "titles": [
-    "화웨이 \"내년 출시 칩 테스트결과 예상 부합…진전 지속\"",
-    "트럼프 \"대만, 알래스카 LNG에 44억 달러 투자\"…한국 투자 확정 주장 반...",
     "군포시, 웨어러블 로봇 혁신포럼 첫 개최",
     "광명시, 지구를 위한 생각과 실천이 모이는 시간 '2026 기후주간' 22일 개...",
     "고양특례시, AI 옥외영업 인허가 기술 특허 등록",
@@ -1001,6 +999,8 @@
     "이광재·정성국 의원 “경북대 등 거점 국립대학 지원 확대해야”",
     "기업 영업이익률 4년 만에 최대라는데… 10곳 중 4곳은 \"이자도 못 낸다...",
     "과기정통부, 양자통신 상용화 시동…KT·SK브로드밴드 컨소시엄 선정",
-    "이혜민 핀다 대표의 '승부수'…핀테크 최초로 저축은행 품었다"
+    "이혜민 핀다 대표의 '승부수'…핀테크 최초로 저축은행 품었다",
+    "[고흥 관광·축제 활성화 미래전략포럼]“방문객 모으기 넘어 숙박·지출...",
+    "자율주행 1등 바이두·로봇 유니콘 갤봇 … 중국 AI굴기 시작됐다"
   ]
 }
