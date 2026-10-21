@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300945",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071112",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071116",
-    "https://www.hidomin.com/news/articleView.html?idxno=724651",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300696",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300997",
     "https://n.news.naver.com/mnews/article/011/0004670728?sid=101",
     "http://mcnews.co.kr/86785",
     "https://www.m-i.kr/news/articleView.html?idxno=2005336",
@@ -499,15 +493,15 @@
     "https://www.theguru.co.kr/news/article.html?no=108482",
     "https://www.etoday.co.kr/news/view/2638144",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303477",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303494"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303494",
+    "https://n.news.naver.com/mnews/article/031/0001067798?sid=101",
+    "https://n.news.naver.com/mnews/article/277/0005831304?sid=101",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=90698",
+    "https://www.newscj.com/news/articleView.html?idxno=3441912",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303509",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074101"
   ],
   "titles": [
-    "JETRO, 부산영화제서 일본주·지역 식문화 알렸다",
-    "구미시, 경제국→창업경제국 개편…창업·벤처 육성 본격화",
-    "경주시, 안강읍 화물차 공영차고지 조성 속도…내년 상반기 준공",
-    "영덕군·포스코 신규 원전 MOU 잠정 보류",
-    "아산시, AI·스마트농업 중심 미래농업 전환 가속",
-    "울산바위 코앞 16층 아파트 강행 논란…설악권 민심 분열 우려",
     "본지 ‘아틀라스’, 광고주 선정 올해의 기획보도상",
     "‘브레인시티 푸르지오’ 분양… 최대 평형 ‘전용 119㎡’ 갖춰",
     "[기획] 주택공급 확대에도 지방은 잠잠…착공 연기 속출",
@@ -1001,6 +995,12 @@
     "포스코인터 우크라 전후 재건사업 구체화…오데사시, 폐기물 분석 용역...",
     "대구시, '2026 AI팩토리 프로젝트' 에스엘ㆍ대동(주) 선정",
     "노원구의회, 공릉동 국수거리 살릴 청년창업·상생 전략 모색",
-    "광진구, 일자리박람회 27일 연다…현장 면접"
+    "광진구, 일자리박람회 27일 연다…현장 면접",
+    "중대재해 3건 이상 기업 11곳…포스코이앤씨·현대건설 6건 '최다'",
+    "법 시행 5년 지났지만 중대재해 반복…포스코이앤씨·현대건설 신고 최...",
+    "중대재해 3건 이상 기업 11곳 중 건설사가 8곳 … 포스코이앤씨·현대건...",
+    "법 시행 5년 지났지만 여전히 중대재해 반복… 포스코이앤씨·현대건설...",
+    "도봉구, 창동 아레나 개관 대비 현안별 대응 강화",
+    "안동시, 모바일 안동사랑상품권 5% 특별 적립…최대 13% 혜택"
   ]
 }
