@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/088/0001034041?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300710",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301013",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1300845",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301026",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071131",
     "https://www.idaegu.com/news/articleView.html?idxno=666246",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087034",
@@ -499,14 +494,14 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074187",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074094",
     "https://n.news.naver.com/mnews/article/127/0000039941?sid=102",
-    "https://n.news.naver.com/mnews/article/127/0000039934?sid=102"
+    "https://n.news.naver.com/mnews/article/127/0000039934?sid=102",
+    "https://n.news.naver.com/mnews/article/421/0009241195?sid=102",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=619945",
+    "https://www.esgeconomy.com/news/articleView.html?idxno=17074",
+    "https://n.news.naver.com/mnews/article/586/0000140509?sid=101",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303607"
   ],
   "titles": [
-    "대구중수청, 희망부서 다시 받았지만…청장 공백에 인사조정 '원위치'",
-    "[PICK! 이 안건] 이언주 등 10인 \"산업활동 위한 시설들은 원칙적으로 지...",
-    "강남구의회, 개포3동 복합문화센터 개청식 참석",
-    "수원특례시, 20일 '기업인의 날' 행사 개최",
-    "아산시의회, 제268회 임시회... 20일 개회",
     "구미 아픈아이돌봄센터 개관 3주년…이용자 64% 증가·만족도 95% 이상",
     "경찰청 총경 전보 인사, 대구경찰청 소속 된 총경 76% 타 지역 출신",
     "산단공 경북 국비 과제 '나눠먹기' 의혹…부실 관리 도마",
@@ -1001,6 +996,11 @@
     "영천시, 기계장비 기술개발 국비 75억 확보…지역 기업 경쟁력 강화",
     "경북도, 저출생 대응 120대 과제 추진율 77.3%…정책 실행 속도",
     "SBS '거제왕 성비위·인사비위 의혹' 보도, 향찰 갑질 피해실태 꼼꼼히...",
-    "[이달의 기자상] '가짜 피카소'에 숨은 코인 사기극"
+    "[이달의 기자상] '가짜 피카소'에 숨은 코인 사기극",
+    "23명 숨진 아리셀 대표 징역 4년…27명 앗아간 경북 산불은 '집유'",
+    "포스코이앤씨·현대건설, 중대재해 보고 '최다'",
+    "포스코이앤씨·현대건설, 작년 이후 중대재해 사고 6건 '최다' 오명",
+    "중대재해 보고 '건설사 쏠림'…현대건설·포스코이앤씨 6건씩",
+    "성남산업진흥원, 국산의료기기 이비인후과 초음파 세미나 개최"
   ]
 }
