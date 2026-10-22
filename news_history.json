@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.gukjenews.com/news/articleView.html?idxno=3721416",
-    "https://www.hidomin.com/news/articleView.html?idxno=724837",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087160",
     "https://n.news.naver.com/mnews/article/020/0003754917?sid=101",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087163",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071844",
@@ -499,12 +496,12 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303972",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303955",
     "http://www.choicenews.co.kr/news/articleView.html?idxno=172450",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303974"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303974",
+    "https://www.m-i.kr/news/articleView.html?idxno=2008992",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074635",
+    "https://www.m-i.kr/news/articleView.html?idxno=2008936"
   ],
   "titles": [
-    "울주 화학물질 공장 화재…부산·대구 등 지원차량 투입 진압",
-    "잇단 공장 화재에 '빨간불'… 포항남부소방서 예방 당부",
-    "[인터뷰] 유철균 경북연구원장 \"AI 기술을 경북의 일자리와 기회로\"",
     "일동케미칼, 소재 국산화·정규직 채용으로 지역 제조업 일자리 지켜",
     "전통주와 지역 먹거리의 만남…'우리술 푸드페어링' 24일 문경서 개최",
     "포항시 전산직 공무원, AI 행정서비스 자체 개발 위한 연구모임 출범",
@@ -1001,6 +998,9 @@
     "마포구, 배달노동자 산재보험·안전장비·건강검진비 최대 20만원 지원",
     "원주 어린이집 4곳, 나눔 후원금 전달",
     "中 자율주행 시간표 '윤곽'…2027년 L3 양산·28년 L4 상용화",
-    "성북구, 일자리 한마당 26일 개최…20여 개 기업 참여"
+    "성북구, 일자리 한마당 26일 개최…20여 개 기업 참여",
+    "대구 동구, '2026 팔공취업한마당' 28일 개최",
+    "기존 인프라 곁에…연내 지방 정비사업장서 8832가구 일반분양",
+    "경북교육청, 학생 맞춤형 교육과정 강화…중학교 100곳에 과목 사용 승..."
   ]
 }
