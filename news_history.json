@@ -1,13 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86789",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301306",
-    "https://www.econovill.com/news/articleView.html?idxno=753589",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4439222",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=280412",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=232254",
-    "https://www.taxtimes.co.kr/news/article.html?no=277294",
-    "https://www.sejungilbo.com/news/articleView.html?idxno=60579",
     "https://www.gukjenews.com/news/articleView.html?idxno=3721416",
     "https://www.hidomin.com/news/articleView.html?idxno=724837",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087160",
@@ -499,17 +491,17 @@
     "https://www.m-i.kr/news/articleView.html?idxno=2008460",
     "https://www.m-i.kr/news/articleView.html?idxno=2008723",
     "https://www.m-i.kr/news/articleView.html?idxno=2008598",
-    "https://www.m-i.kr/news/articleView.html?idxno=2008816"
+    "https://www.m-i.kr/news/articleView.html?idxno=2008816",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497517",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304009",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303943",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303979",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303972",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303955",
+    "http://www.choicenews.co.kr/news/articleView.html?idxno=172450",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303974"
   ],
   "titles": [
-    "서현, 창사 19주년 직원 단합 ‘체육대회’ 개최",
-    "정선군의회, 의원 연구단체 연구용역 착수보고회 개최",
-    "[인사] 국세청",
-    "[인사] 국세청",
-    "[인사] 국세청",
-    "이수페타시스 10.62% 급등…AI PCB 분기 최대 실적 부각",
-    "[프로필]국세청 부이사관 승진(6명)",
-    "[프로필] 국세청 부이사관 승진자 (2026. 10. 19.字)",
     "울주 화학물질 공장 화재…부산·대구 등 지원차량 투입 진압",
     "잇단 공장 화재에 '빨간불'… 포항남부소방서 예방 당부",
     "[인터뷰] 유철균 경북연구원장 \"AI 기술을 경북의 일자리와 기회로\"",
@@ -1001,6 +993,14 @@
     "대구 달서구, 민선 9기 공약이행 구민평가단 출범…49개 공약 점검",
     "대구·경북, 1294억원 규모 통합 지역성장펀드 조성",
     "대구시, 2027년 소방 예산 확대…청사 개선·화재 대응 강화",
-    "구미 주민·상공계, 삼성전자 로봇 투자 환영…시민감사패 전달"
+    "구미 주민·상공계, 삼성전자 로봇 투자 환영…시민감사패 전달",
+    "AI 시대 핵심 부품 PCB… 대덕전자·심텍·이수페타시스 노려라",
+    "한은, 기준금리 연 3.00% 동결…11월 추가 인상 주목",
+    "중구, 일자리박람회서 15개 기업 156명 채용",
+    "양천구, 전동보장구 급속충전기 13대 추가…연내 38대로 확대",
+    "마포구, 배달노동자 산재보험·안전장비·건강검진비 최대 20만원 지원",
+    "원주 어린이집 4곳, 나눔 후원금 전달",
+    "中 자율주행 시간표 '윤곽'…2027년 L3 양산·28년 L4 상용화",
+    "성북구, 일자리 한마당 26일 개최…20여 개 기업 참여"
   ]
 }
