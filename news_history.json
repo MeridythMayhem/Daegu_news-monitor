@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/003/0014257277?sid=101",
-    "https://www.ksmnews.co.kr/news/view.php?idx=625686",
-    "https://www.ksmnews.co.kr/news/view.php?idx=625690",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301887",
     "https://www.sejungilbo.com/news/articleView.html?idxno=60649",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072083",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072343",
@@ -499,13 +495,13 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304544",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304441",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075248",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075303"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075303",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075328",
+    "http://mcnews.co.kr/86824",
+    "https://n.news.naver.com/mnews/article/469/0000961291?sid=102",
+    "https://n.news.naver.com/mnews/article/421/0009247035?sid=102"
   ],
   "titles": [
-    "임광현 떠난 국세청, 후임 인선 촉각…내부 승진이냐 외부 발탁이냐",
-    "‘대구 돔구장’ 유치전 본격화…1만9710명 범시민 역량결집",
-    "“일터만 옮기지 말고 삶을 옮겨라”…대구의 파격 제안",
-    "오세훈 \"용산공원 주택 개발 반대…공급 확대 위한 규제 완화 시급\"",
     "검찰청 폐지에 '마약·밀수' 관세범죄 수사 수사 '비상'",
     "구미상의, 반도체·방산 수출통제 대응 교육 개최",
     "포항시, iM뱅크·NH농협은행과 시금고 운영 약정 체결",
@@ -1001,6 +997,10 @@
     "광명시, 공정무역 가치 알리는 '포트나잇' 개최",
     "성남시, 2027년 지적재조사 3개 지구 추진",
     "국가AI전략위, 포항TP 방문…경북 제조업 AI 전환 현장 점검",
-    "지역 투자·채용 확대 공로…우진산전, '대한민국 일자리 으뜸기업' 선..."
+    "지역 투자·채용 확대 공로…우진산전, '대한민국 일자리 으뜸기업' 선...",
+    "이공계 박사후연구원 10명 중 3명 월급 300만원 미만…36.7%는 1년 이하 ...",
+    "전기산업진흥회, ‘회관 건립 논의’ 본격 착수",
+    "[인사] 재정경제부 외",
+    "TBC, 스마트폰 알고리즘 그늘 조명…다큐 '0.5초의 전쟁' 제작"
   ]
 }
