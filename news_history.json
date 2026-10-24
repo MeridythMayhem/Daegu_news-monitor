@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302187",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302203",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072550",
-    "https://n.news.naver.com/mnews/article/028/0002827810?sid=102",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2481007",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072661",
     "https://www.m-i.kr/news/articleView.html?idxno=2006919",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302220",
     "https://www.cbci.co.kr/news/articleView.html?idxno=616318",
@@ -499,15 +493,15 @@
     "https://n.news.naver.com/mnews/article/025/0003560168?sid=102",
     "https://n.news.naver.com/mnews/article/050/0000112335?sid=101",
     "https://www.g-enews.com/view.php?ud=202610241029513481923c501012_1",
-    "https://www.ksmnews.co.kr/news/view.php?idx=626777"
+    "https://www.ksmnews.co.kr/news/view.php?idx=626777",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1541559",
+    "http://www.segyebiz.com/newsView/20261024503862?OutUrl=naver",
+    "https://www.m-economynews.com/news/article.html?no=72067",
+    "https://www.yeongnam.com/web/view.php?key=20261024022594665",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304593",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304592"
   ],
   "titles": [
-    "강릉시 행정조직 대대적 개편…미래기획국·기후환경국 신설",
-    "부산시, K-콘텐츠 관광 아카데미 2기 모집",
-    "경주시·울산시, 국도 7호선 확장 공동 건의…상습 교통정체 해소 추진",
-    "38년 만에 폐국 위기 ‘함평대동우체국’…지자체 건물 무상임대로 살아...",
-    "고흥 관광·축제 경쟁력 높인다…21일 첫 미래전략포럼",
-    "문경서 전국 배드민턴·테니스 동호인 대회 개최…1400여 명 참가",
     "충남도의회, '중부권 동서횡단철도' 국가계획 반영 추진",
     "보성 벌교농협 하나로마트, 확장 이전 개점",
     "대한민국 관광의 미래, 고흥에서 답을 찾다... 고흥 관광·축제 미래전략...",
@@ -1001,6 +995,12 @@
     "임금교섭 결렬, 포스코 노조 다음 달 무기한 파업 돌입",
     "[속보]포스코 노조, 파업 예고",
     "포스코 노사 협상 결렬…노조 측 \"내달 쟁의 행위 돌입\"",
-    "포스코 임금협상 재차 결렬…지역경제 파급 효과에 불안감"
+    "포스코 임금협상 재차 결렬…지역경제 파급 효과에 불안감",
+    "포스코노사 임금 교섭 결렬…다음달 2일 파업 예고",
+    "포스코노사 임금 교섭 결렬…무기한 파업 예고",
+    "격차 못 좁힌 포스코 노사...내달 2일부터 무기한 파업 예고",
+    "12시간 운전해도 월 200만원…대구 택시업계 짓누르는 ‘빈차’ 공포",
+    "트럼프, 이란 추가 공습 가능성 경고…\"합의하지 않으면 군사작전\"",
+    "전 세계 웹서버 겨냥 사이버 공격 준비 정황…북한 라자루스 연계 가능..."
   ]
 }
