@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302146",
-    "https://n.news.naver.com/mnews/article/666/0000127718?sid=102",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581143405111",
-    "http://mcnews.co.kr/86801",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072518",
-    "https://www.m-i.kr/news/articleView.html?idxno=2006783",
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=508968",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302187",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302203",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072550",
@@ -499,16 +492,16 @@
     "https://www.pointe.co.kr/news/articleView.html?idxno=86551",
     "https://n.news.naver.com/mnews/article/057/0001974938?sid=102",
     "https://n.news.naver.com/mnews/article/660/0000119835?sid=102",
-    "http://www.newstomato.com/ReadNews.aspx?no=1317871&inflow=N"
+    "http://www.newstomato.com/ReadNews.aspx?no=1317871&inflow=N",
+    "https://n.news.naver.com/mnews/article/243/0000104658?sid=101",
+    "https://n.news.naver.com/mnews/article/088/0001036249?sid=101",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=900634",
+    "https://n.news.naver.com/mnews/article/025/0003560168?sid=102",
+    "https://n.news.naver.com/mnews/article/050/0000112335?sid=101",
+    "https://www.g-enews.com/view.php?ud=202610241029513481923c501012_1",
+    "https://www.ksmnews.co.kr/news/view.php?idx=626777"
   ],
   "titles": [
-    "美 전문가들 \"젤렌스키의 북한군 포로 송환 공개, 이재명 정부 전략 차...",
-    "장항습지 품은 고양시, ‘세계 습지도시’ 향해 첫 관문 넘었다",
-    "화재보험협회, 한국산업단지공단·대구소방안전본부와 화재예방 협력체...",
-    "“문재인 정부가 ‘민간인 불법사찰’… 김현미 전 장관 증인 채택해야...",
-    "전국 파크골프장 832곳으로 급증…장애인 혜택·운영관리 부실 지적",
-    "경북 상주 포도, 신선농산물 첫 수출 1억 달러 도전",
-    "고흥군, '관광 축제 미래전략포럼'... 스페이스고흥서 개최",
     "강릉시 행정조직 대대적 개편…미래기획국·기후환경국 신설",
     "부산시, K-콘텐츠 관광 아카데미 2기 모집",
     "경주시·울산시, 국도 7호선 확장 공동 건의…상습 교통정체 해소 추진",
@@ -1001,6 +994,13 @@
     "국세청 퇴직자 '주정 카르텔'에 빗썸은 '초고가 VIP 탈세 의심'까지…권...",
     "'기본급 7.1% 인상 vs 2.5% 인상' 엇갈린 포스코 노사, 파업 예고",
     "포스코 노사 임금 교섭 최종 결렬…11월 2일부터 무기한 파업 선언",
-    "포스코 임금협상 끝내 결렬…“11월2일부터 무기한 파업”"
+    "포스코 임금협상 끝내 결렬…“11월2일부터 무기한 파업”",
+    "[속보] 포스코 노사, 임금 협상 최종 결렬… 내달 2일 '무기한 파업' 강...",
+    "포스코 노조, 11월 2일 오후 7시 무기한 파업 돌입 예고",
+    "창사 첫 파업 이어…포스코 노조 11월 2일 '무기한 파업' 예고",
+    "임금교섭 결렬, 포스코 노조 다음 달 무기한 파업 돌입",
+    "[속보]포스코 노조, 파업 예고",
+    "포스코 노사 협상 결렬…노조 측 \"내달 쟁의 행위 돌입\"",
+    "포스코 임금협상 재차 결렬…지역경제 파급 효과에 불안감"
   ]
 }
