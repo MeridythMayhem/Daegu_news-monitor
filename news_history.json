@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.m-i.kr/news/articleView.html?idxno=2006919",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302220",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=616318",
     "https://www.yeongnam.com/web/view.php?key=20261016020414873",
     "https://n.news.naver.com/mnews/article/009/0005749821?sid=101",
     "https://n.news.naver.com/mnews/article/009/0005749820?sid=105",
@@ -499,12 +496,12 @@
     "https://www.m-economynews.com/news/article.html?no=72067",
     "https://www.yeongnam.com/web/view.php?key=20261024022594665",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304593",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304592"
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304592",
+    "https://n.news.naver.com/mnews/article/422/0000919046?sid=102",
+    "https://n.news.naver.com/mnews/article/448/0000646695?sid=102",
+    "https://n.news.naver.com/mnews/article/024/0000109143?sid=102"
   ],
   "titles": [
-    "충남도의회, '중부권 동서횡단철도' 국가계획 반영 추진",
-    "보성 벌교농협 하나로마트, 확장 이전 개점",
-    "대한민국 관광의 미래, 고흥에서 답을 찾다... 고흥 관광·축제 미래전략...",
     "[단독] 대구·경북 ‘이자도 못 갚는 기업’ 보증잔액 4천억원 육박…9...",
     "“입주권 산 줄 알았는데 현금청산” … 투자자가 반드시 알아야 할 점...",
     "3분기 168억달러 벌어도 AI 불안 해소에 역부족 … 앤트로픽 실적에서 읽...",
@@ -1001,6 +998,9 @@
     "격차 못 좁힌 포스코 노사...내달 2일부터 무기한 파업 예고",
     "12시간 운전해도 월 200만원…대구 택시업계 짓누르는 ‘빈차’ 공포",
     "트럼프, 이란 추가 공습 가능성 경고…\"합의하지 않으면 군사작전\"",
-    "전 세계 웹서버 겨냥 사이버 공격 준비 정황…북한 라자루스 연계 가능..."
+    "전 세계 웹서버 겨냥 사이버 공격 준비 정황…북한 라자루스 연계 가능...",
+    "포스코노조, 다음달 2일 무기한 파업…임금교섭 결렬",
+    "포스코 노조, 임협 결렬에 무기한 파업 선언…비상조업체계 가동",
+    "[속보] 포스코노조, 11월 2일부터 무기한 파업 예고"
   ]
 }
