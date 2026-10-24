@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/009/0005749820?sid=105",
     "https://n.news.naver.com/mnews/article/009/0005749818?sid=103",
     "https://n.news.naver.com/mnews/article/005/0001879165?sid=103",
     "https://www.tbc.co.kr/news/view?pno=20261016172201AE07009&id=212235",
@@ -499,10 +498,10 @@
     "https://n.news.naver.com/mnews/article/448/0000646695?sid=102",
     "https://n.news.naver.com/mnews/article/024/0000109143?sid=102",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304606",
-    "https://www.newsway.co.kr/news/view?ud=2026102416135771595"
+    "https://www.newsway.co.kr/news/view?ud=2026102416135771595",
+    "https://sateconomy.co.kr/news/view/1065611785548311"
   ],
   "titles": [
-    "3분기 168억달러 벌어도 AI 불안 해소에 역부족 … 앤트로픽 실적에서 읽...",
     "딸이 다른 남자에게 ‘아빠’랍니다 … “내 아버지는 두 명” [씨네프...",
     "부산교회총연합회, 유엔참전용사 추모 헌화",
     "'성서에서 서대구까지'...자율 주행 화물차 첫 실증",
@@ -1001,6 +1000,7 @@
     "포스코 노조, 임협 결렬에 무기한 파업 선언…비상조업체계 가동",
     "[속보] 포스코노조, 11월 2일부터 무기한 파업 예고",
     "경기도 내년 가용예산 예년의 40%대…재정 위기 비상",
-    "포스코 노사 임금협상 '평행선'…노조, 무기한 파업 예고"
+    "포스코 노사 임금협상 '평행선'…노조, 무기한 파업 예고",
+    "포스코 노조, 11월 2일 무기한 파업 예고…사측 \"대화 지속·생산 차질 ..."
   ]
 }
