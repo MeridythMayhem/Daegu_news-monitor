@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/022/0004167601?sid=102",
-    "https://www.the-today.com/news/articleView.html?idxno=91949",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072943",
     "https://n.news.naver.com/mnews/article/003/0014261409?sid=102",
     "https://www.koscaj.com/news/articleView.html?idxno=326975",
@@ -499,11 +497,11 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088435",
     "https://www.namdonews.com/news/articleView.html?idxno=927192",
     "https://www.ksmnews.co.kr/news/view.php?idx=626943",
-    "https://www.tbc.co.kr/news/view?pno=20261020142708AE07149&id=212552"
+    "https://www.tbc.co.kr/news/view?pno=20261020142708AE07149&id=212552",
+    "https://www.ksmnews.co.kr/news/view.php?idx=626965",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075707"
   ],
   "titles": [
-    "영일만 하늘 날아 낚싯줄 퐁당… 짜릿한 손맛 ‘漁메이징’ [2026 전국드...",
-    "장인화는 '해외 일정', 송치영은 출석 불투명…포스코 책임 답변은 어디...",
     "경산시, AI 시대 청년 정착·도시 경쟁력 논의…송길영 작가 초청 토크...",
     "[대구·경북 조간 헤드라인]",
     "[보라매칼럼] '보편형 공공임대' 정책이 챙겨야 할 것들",
@@ -1001,6 +999,8 @@
     "포스코 노조, 내달 2일 무기한 파업…기본급 4.6%p 격차 못 좁혀",
     "KIA vs 삼성 PO '차표 전쟁'… 광주~대구 교통단절 피해 '현실화'",
     "보잉·에어버스부터 드론 서바이벌까지…구미, 항공·방산 미래기술 집...",
-    "규제&amp;기업애로 통합지원센터 '성과'"
+    "규제&amp;기업애로 통합지원센터 '성과'",
+    "광주 군공항 이전, 반도체 속도전…안보·재정·지역 갈등 ‘3중 암초’",
+    "덤브치킨, 1000만원 창업비 지원 연말까지 연장"
   ]
 }
