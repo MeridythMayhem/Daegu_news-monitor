@@ -1,14 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86804",
-    "https://n.news.naver.com/mnews/article/469/0000960244?sid=102",
-    "https://n.news.naver.com/mnews/article/629/0000543211?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302744",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302757",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302695",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302686",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=281133",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=233129",
     "https://www.ajunews.com/view/20261019120617450",
     "https://www.m-i.kr/news/articleView.html?idxno=2007456",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302554",
@@ -499,18 +490,18 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304883",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304864",
     "https://www.the-today.com/news/articleView.html?idxno=92400",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075802"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075802",
+    "https://www.news2day.co.kr/article/20261026500100",
+    "https://n.news.naver.com/mnews/article/654/0000207433?sid=100",
+    "https://n.news.naver.com/mnews/article/088/0001036484?sid=100",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305013",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304939",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304903",
+    "https://n.news.naver.com/mnews/article/015/0005346426?sid=102",
+    "https://www.namdonews.com/news/articleView.html?idxno=927223",
+    "https://www.m-i.kr/news/articleView.html?idxno=2010124"
   ],
   "titles": [
-    "국감 전날 ‘부동산 백서’로 정부 때린 오세훈… “1년 성적표, 괴로울...",
-    "[알립니다] 원전·수소·신재생에너지 융합, 미래에너지 산업 거점 울진...",
-    "청송군, '제20회 청송사과축제' 알리기 총력…방송·유튜브·SNS 홍보 강...",
-    "성남시, 산성대로 미션 투어 11월 30일까지 운영",
-    "안산시, 서부권 주민 타운홀미팅 개최",
-    "화천군, 지방소멸대응기금 투자계획 평가… 최우수 등급 30억 원 확보",
-    "과천시, 교육발전협의회 분과회의 잇따라 개최",
-    "포스코 58년 무분규 신화의 균열…노사 갈등에 국가 공급망 '위기'",
-    "이수페타시스 4.12% 상승…AI용 PCB 증설 효과",
     "서울·영남 경주마 맞대결...판타스틱밸류 우승 도전",
     "달리던 자동차, 이젠 날고 걷는다…車업계 미래 기술 각축전",
     "인제군, 가을꽃축제 34만명 방문·흥행 마무리",
@@ -1001,6 +992,15 @@
     "용산구, 주민참여 생활안심디자인으로 공공디자인 대통령상",
     "성동구, SM엔터와 손잡고 4년 연속 '벽화조성'…동네 곳곳 새단장",
     "구정모 대구백화점, 중도금 미납 시 자동해제 특약에도 지급기한 연장…...",
-    "대구 청년인구 상반기 2332명 순유출…26일 인구이슈 포럼 개최"
+    "대구 청년인구 상반기 2332명 순유출…26일 인구이슈 포럼 개최",
+    "[N2심층] 포스코 임단협 '핵심 쟁점은'…무기한 총파업은 막아야",
+    "주진우 \"김혜경 여사, 역삼 화재 당일 유명 프로골퍼 대동해 골프\"",
+    "전인범 \"우리 군, 무전도 안 돼 현대전 불가능…전작권 전환 한미연합 ...",
+    "인천시 '미래산업 리파워링' 비전 발표(上)",
+    "자산 상·하위 20% 주택가격 격차 290배…역대 최대",
+    "검단구 '고향사랑기부제' 본격 시행",
+    "언론보도부터 유튜브까지, 훼손된 명예 되찾는 법 [황우진의 글로벌 퍼...",
+    "[속보]KIA-삼성 PO 차표 전쟁…민형배 \"전남광주~대구 잇는 달빛철도 조...",
+    "대구시, 감사위원장에 이상규 전 예산담당관 임용"
   ]
 }
