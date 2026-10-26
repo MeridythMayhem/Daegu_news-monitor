@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://n.news.naver.com/mnews/article/002/0002461773?sid=102",
-    "http://www.newsprime.co.kr/news/article.html?no=751675",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303206",
-    "https://www.m-i.kr/news/articleView.html?idxno=2008116",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073134",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073870",
     "https://www.m-i.kr/news/articleView.html?idxno=2008196",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073885",
@@ -499,14 +494,14 @@
     "https://www.inews365.com/news/article.html?no=940812",
     "https://www.gamevu.co.kr/news/articleView.html?idxno=61740",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088590",
-    "https://www.newsway.co.kr/news/view?ud=2026102619304109537"
+    "https://www.newsway.co.kr/news/view?ud=2026102619304109537",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1729225",
+    "https://www.yeongnam.com/web/view.php?key=20261026024426943",
+    "https://www.ksmnews.co.kr/news/view.php?idx=627132",
+    "https://www.ksmnews.co.kr/news/view.php?idx=626825",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088598"
   ],
   "titles": [
-    "봉화 산림자원, 소득·일자리로 연결할 방안 찾는다",
-    "대구시, AI팩토리 선도 프로젝트 3년 연속 선정···제조혁신에 187억원...",
-    "과천시, 지식정보타운 도서관 중앙투자 재심사 통과",
-    "[르포] \"익산에서 용산까지 왔어요\"…백화점 문턱 넘은 소상공인들",
-    "삼성웰스토리, 경북 중소기업 제품 급식 메뉴로 개발…2만식 제공",
     "영천시, 21일 내·외국인 채용박람회 개최…14개 기업 60명 채용 추진",
     "경북도 국감서 석포제련소 이전·통합신공항 지연 등 현안 집중 질의",
     "영양군, 경북 첫 기본사회 조례 이어 정책 구체화…2027년부터 본격 추...",
@@ -1001,6 +996,11 @@
     "정부 공적 PF보증 65% 수도권 쏠림…충북 등 지방 건설사 '보증 가뭄'",
     "[게임뉴스] 위메이드맥스 및 조이시티 소식 외",
     "대구시·구군, 산불·공장 화재 예방에 공동 대응",
-    "포스코 노사 임금교섭 난항…노조 '무기한 파업' 예고"
+    "포스코 노사 임금교섭 난항…노조 '무기한 파업' 예고",
+    "[EBN 오늘(26일) 이슈 종합] 포스코 노조 무기한 파업 예고, KB국민은행 ...",
+    "“호남은 앞당기고 대구는 또 늦추고”…정부 전력망 계획에서도 ‘TK ...",
+    "포항시, 전기차 사용후 배터리 재활용 산업화 속도…연 3만대 자동평가",
+    "[인터뷰] 조경숙 윤오명리아카데미 원장 “팔자는 타고나지만 인생은 바...",
+    "\"포항시민 46% 복지관 3㎞ 밖 거주…오천·장량 신규 거점 우선\""
   ]
 }
