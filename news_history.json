@@ -1,10 +1,5 @@
 {
   "urls": [
-    "http://mcnews.co.kr/86810",
-    "http://mcnews.co.kr/86809",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303407",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303314",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303112",
     "https://n.news.naver.com/mnews/article/005/0001879877?sid=101",
     "https://gw.newdaily.co.kr/site/data/html/2026/10/20/2026102000276.html",
     "https://www.m-i.kr/news/articleView.html?idxno=2008192",
@@ -499,14 +494,14 @@
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305466",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305535",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305579",
-    "https://www.m-i.kr/news/articleView.html?idxno=2010755"
+    "https://www.m-i.kr/news/articleView.html?idxno=2010755",
+    "https://n.news.naver.com/mnews/article/087/0001226554?sid=100",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305687",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305695",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305515",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305674"
   ],
   "titles": [
-    "[기획] ‘공간정보와 AI’의 결합… 내달 4일 ‘K-Geo Festa’서 확인",
-    "李 대통령 “부동산 공급 전격전… 각종 인허가·착공 단축”",
-    "한미전략투자공사 첫 국감…'리스크 관리 부실·인력 공백' 도마 위",
-    "김태년 의원 \"정부가 뽑은 중소기업은 사실상 배제…17조 공급망기금, ...",
-    "[고화순의 나물이야기] 나물, 자연이 빚은 K-푸드의 새로운 얼굴",
     "‘재정 빨대’ 전락한 소방…‘엉터리 법개정’ 있었다",
     "우상호 \"국도 7호선 병목 풀고 속초~고성 고속도로 조속히 연결\"",
     "[오늘의 국감] 여야, 법원 판결·대미투자 송금·재선충 방제 부실 집중...",
@@ -1001,6 +996,11 @@
     "성남시, 대한민국 SNS대상 최우수상 수상",
     "강릉시, ITS 세계총회 역대급 성과 마무리",
     "충남도, 한국국방연구원 유치 총력… '완결형 국방 생태계' 구축",
-    "경주시, 여성친화도시 2회 연속 지정…2031년까지 관련 정책 추진"
+    "경주시, 여성친화도시 2회 연속 지정…2031년까지 관련 정책 추진",
+    "[속보] 국민의힘, 김혜경 여사 ‘프로골퍼 대동 골프 의혹‘ 공세…“청...",
+    "강동구, JYP 발뺀 고덕비즈밸리 조성 사업 차질없이 진행… 차질 우려 일...",
+    "충남도, 미국서 AI 기본사회 글로벌 협력 물꼬",
+    "인천시 '2026 인천일러스트코리아' 개최... K-일러스트 한자리에",
+    "강남구, SNS 대상 관광 분야 최우수상"
   ]
 }
