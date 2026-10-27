@@ -1,14 +1,5 @@
 {
   "urls": [
-    "https://www.tbc.co.kr/news/view?pno=20261020180645AE07170&id=212372",
-    "https://n.news.naver.com/mnews/article/421/0009239389?sid=102",
-    "https://www.pn.or.kr/news/articleView.html?idxno=34255",
-    "https://www.ceoscoredaily.com/page/view/2026101614201101718",
-    "https://n.news.naver.com/mnews/article/032/0003477563?sid=101",
-    "https://n.news.naver.com/mnews/article/011/0004673390?sid=101",
-    "https://www.g-enews.com/view.php?ud=2026102105535423032bd56fbc3c_1",
-    "https://n.news.naver.com/mnews/article/003/0014267518?sid=102",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303395",
     "http://mcnews.co.kr/86810",
     "http://mcnews.co.kr/86809",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303407",
@@ -499,18 +490,18 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076363",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076359",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076357",
-    "https://www.m-i.kr/news/articleView.html?idxno=2010758"
+    "https://www.m-i.kr/news/articleView.html?idxno=2010758",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305547",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305545",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305523",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305574",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305575",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305466",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305535",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305579",
+    "https://www.m-i.kr/news/articleView.html?idxno=2010755"
   ],
   "titles": [
-    "구미 찾은 의원들 \"방산.반도체 적극 지원\"",
-    "\"불기소 처분했는데 또 사망사고\" 동국제강 포항공장 산재 '도마'",
-    "'영풍제련소' 경북도 1억 용역 논란...\"부실 엉터리, 환경오염 기업에 면...",
-    "2025년 이후 중대재해 보고 3건 이상 기업만 11곳…포스코이앤씨·현대건...",
-    "작년 1월 이후 중대재해 발생 기업 99곳…포스코이앤씨·현대건설 최다",
-    "포스코, 올해 사망사고 ‘제로’…안전 혁신 통했다",
-    "에코프로비엠 헝가리 법인 “논란 숙소에 자사 직원 없다” 해명",
-    "송성준 부산문화재단 대표 \"예술인이 신명나는 판 깔 것\"[인터뷰]",
-    "함안군, 수도권 투자유치 설명회서 2개 기업과 협약",
     "[기획] ‘공간정보와 AI’의 결합… 내달 4일 ‘K-Geo Festa’서 확인",
     "李 대통령 “부동산 공급 전격전… 각종 인허가·착공 단축”",
     "한미전략투자공사 첫 국감…'리스크 관리 부실·인력 공백' 도마 위",
@@ -1001,6 +992,15 @@
     "청도군, 위기청소년 4명에 3개월간 생활비 특별지원",
     "칠곡교육지원청·효성티앤씨, 농촌 초등학생 환경교육 활성화 협약",
     "경산시의회 산업건설위, 정수장·자원회수시설 증설사업 현장 점검",
-    "경주 드론기업 리하이, 고중량 소방드론 산불진화 실증 추진"
+    "경주 드론기업 리하이, 고중량 소방드론 산불진화 실증 추진",
+    "예산군, 지역상생발전 우수기업 4곳에 인증 현판 전달",
+    "안광환 성남시의회 위원장, 유소년 드론 축구대회 참석",
+    "[전매포토] 양구군의회, 2027년 농어촌 기본소득 시범사업 양구군 선정...",
+    "홍천군 '2026년 홍천군 찾아가는 베트남 수출 상담회' 참가기업 모집",
+    "서울시, 청년 50만명에 고성능 AI 이용권 지원 추진",
+    "성남시, 대한민국 SNS대상 최우수상 수상",
+    "강릉시, ITS 세계총회 역대급 성과 마무리",
+    "충남도, 한국국방연구원 유치 총력… '완결형 국방 생태계' 구축",
+    "경주시, 여성친화도시 2회 연속 지정…2031년까지 관련 정책 추진"
   ]
 }
