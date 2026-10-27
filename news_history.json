@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303391",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303205",
-    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303240",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303297",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303405",
     "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303126",
@@ -499,12 +496,12 @@
     "https://n.news.naver.com/mnews/article/028/0002829251?sid=102",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088593",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076074",
-    "https://www.tbc.co.kr/news/view?pno=20261026170240AE07443&id=212601"
+    "https://www.tbc.co.kr/news/view?pno=20261026170240AE07443&id=212601",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305356",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1305347",
+    "https://www.m-i.kr/news/articleView.html?idxno=2010542"
   ],
   "titles": [
-    "포천시, 베트남 까오방성과 관광·농업 협력 논의",
-    "동해시, AI 데이터센터 12월 착공 준비 본격화",
-    "경산시, 2027년도 주요업무계획 보고회 진행",
     "경북도, 타이응우옌성과 자매결연 20년 협력 확대",
     "수원특례시의회, 기업인·구직자 격려…지역경제 활성화 응원",
     "이천시, 2026 첨단드론대전 성료·미래산업 비전 제시",
@@ -1001,6 +998,9 @@
     "10월27일 알림",
     "\"지역 복지관, 수요자 중심 대수술해야\"",
     "영천시 해외무역사절단, 태국·말레이시아서 461억원 규모 수출 MOU 체결",
-    "'54시간 검사'가 10분 만에 끝...배터리 자동평가 첫 구축"
+    "'54시간 검사'가 10분 만에 끝...배터리 자동평가 첫 구축",
+    "강남구, 일자리 우수기업 지원 확대...29일부터 접수",
+    "은평구, 전국 자치구 최초 'SNS 대상' 공공부문 종합대상…과기정통부 ...",
+    "포항시, 전기차 배터리 자동평가센터 개관으로 재사용·재활용 지원"
   ]
 }
