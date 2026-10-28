@@ -848,7 +848,9 @@
     "https://www.newspim.com/news/view/20261028000894": "2026-10-28T19:02:29.936134+09:00",
     "https://www.sentv.co.kr/article/view/sentv202610280114": "2026-10-28T19:02:29.936134+09:00",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=246934": "2026-10-28T21:02:03.675150+09:00",
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800392.html": "2026-10-28T21:02:03.675150+09:00"
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800392.html": "2026-10-28T21:02:03.675150+09:00",
+    "https://www.viva100.com/article/20261028501156": "2026-10-29T06:36:58.332937+09:00",
+    "https://www.etoday.co.kr/news/view/2641403": "2026-10-29T06:36:58.332937+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1199,7 +1201,9 @@
     "eccecf9efc3bb816217bab08eb0459d1844ec52f68046ad75fbac5a0a9989f2f": "2026-10-28T19:02:29.936134+09:00",
     "c3336eca548ced8a570554e5725bbc49048bf3b294bc6f819b33b352b179b1fd": "2026-10-28T19:02:29.936134+09:00",
     "162706ce70ba9139dd6d51bcdcc3910b22259bfd3915b587e516f067a3d69c0b": "2026-10-28T21:02:03.675150+09:00",
-    "45b1240566aea0daa85e0049aa6aae2b209d82c1fbfca853b57d727294b3e761": "2026-10-28T21:02:03.675150+09:00"
+    "45b1240566aea0daa85e0049aa6aae2b209d82c1fbfca853b57d727294b3e761": "2026-10-28T21:02:03.675150+09:00",
+    "9f08b74fdd99d2b78613a8b340ec187175fd9c682d3757422e43188fedffd7f7": "2026-10-29T06:36:58.332937+09:00",
+    "f524bc840ca8420fa267aab1f6b61ee3e47092ab092210ada83f2d185d8e8482": "2026-10-29T06:36:58.332937+09:00"
   },
   "pending": {},
   "ai": {
@@ -1325,6 +1329,32 @@
       "needs_ai": true,
       "filter_version": 8,
       "review": "미검토"
+    },
+    "https://www.etoday.co.kr/news/view/2641403": {
+      "title": "김정희 특별시의원, 광양경자청 투자유치·일자리 실적 부진 지적",
+      "summary": "12월 투자 예정인 포스코 인터내셔널의 1조원 규모 사업도 거론했다. 김 의원은 \"핵심 절차인 발전사업 허가 신청이 10월에야 시작돼 연내 투자 실현 가능성이 불투명하다\"고 지적했다. 내년도 목표 설정에 대해서는...",
+      "url": "https://www.etoday.co.kr/news/view/2641403",
+      "date": "Thu, 29 Oct 2026 06:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://www.viva100.com/article/20261028501156": {
+      "title": "장인화도 ‘제로베이스’⋯ 포스코 ‘셀프 선임’ 금지, 회장 선임 레이...",
+      "summary": "포스코 그룹 차기 회장 선임 레이스의 막이 오른다. ‘셀프 연임’ 논란을 불렀던 현 회장 우선심사제가... 28일 철강업계에 따르면 포스코 홀딩스 이사회는 오는 12월 ‘회장후보추천위원회(회추위·옛 CEO후보추천위원회)...",
+      "url": "https://www.viva100.com/article/20261028501156",
+      "date": "Thu, 29 Oct 2026 06:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 8
     }
   },
   "brief_sent": {},
