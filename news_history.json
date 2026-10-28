@@ -1201,22 +1201,7 @@
     "162706ce70ba9139dd6d51bcdcc3910b22259bfd3915b587e516f067a3d69c0b": "2026-10-28T21:02:03.675150+09:00",
     "45b1240566aea0daa85e0049aa6aae2b209d82c1fbfca853b57d727294b3e761": "2026-10-28T21:02:03.675150+09:00"
   },
-  "pending": {
-    "https://www.yeongnam.com/web/view.php?key=20261028026417536": {
-      "title": "수도권 중심 부동산 정책, 온기 돌던 대구 주택시장에 되레 찬물",
-      "summary": "영남 일보 DB 올해 발표된 정부의 각종 부동산 대책이 대구 주택경기 회복 속도를 되레 늦춘 것으로 나타났다. 올 초 대구 는 주택 매매거래가 급증하고 집값 하락세가 둔화하면서 시장에 온기가 돌았다. 하지만 서울...",
-      "url": "https://www.yeongnam.com/web/view.php?key=20261028026417536",
-      "date": "Wed, 28 Oct 2026 20:34:00 +0900",
-      "channels": [
-        "local_media"
-      ],
-      "category": "지역언론 경제·정책",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 15
   },
