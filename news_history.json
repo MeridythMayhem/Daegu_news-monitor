@@ -843,7 +843,8 @@
     "https://www.eroun.net/news/articleView.html?idxno=93667": "2026-10-28T18:02:07.620646+09:00",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261028010010089": "2026-10-28T18:02:07.620646+09:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TZ3VRajlONVNWTWg2c0o2aVFFZUk1aDg5Qk9sLVc1T3E1Z19lUUVXY1VfazJwNW1iaWY2c1hpU1VGZ29xQkVEajA5YTF2cFlpQzJCbnJkdG9HemQ3MGdYSnp0ZVNOZ2ZnNmc?oc=5": "2026-10-28T18:19:32.563524+09:00",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43enU3SEIwTHE1TDZTUnJnQ280VEJhbnNidEpobEV1UWtiWE42Q2lNRW5TUF9zWWpwTXFHeDFRNHMwbG5neGhmYTdlZk1IWTV4SmpXV3pjSFFFZw?oc=5": "2026-10-28T18:19:32.563524+09:00"
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43enU3SEIwTHE1TDZTUnJnQ280VEJhbnNidEpobEV1UWtiWE42Q2lNRW5TUF9zWWpwTXFHeDFRNHMwbG5neGhmYTdlZk1IWTV4SmpXV3pjSFFFZw?oc=5": "2026-10-28T18:19:32.563524+09:00",
+    "https://www.viva100.com/article/20261028501621": "2026-10-28T18:43:40.992068+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1189,11 +1190,28 @@
     "9eecdb67f9643d60196f72e6c527e1f54f4445470077946a5150b67cec587a6f": "2026-10-28T18:02:07.620646+09:00",
     "7abc6dd09f31c97c3432a357084cfe7b8171a15a15915e4378f8bddf5b54035b": "2026-10-28T18:02:07.620646+09:00",
     "8463642de32930d29e9a624d0b99d883283cfa13df33f2121b864a5dea110008": "2026-10-28T18:19:32.563524+09:00",
-    "1311f0c6b8c8ead386ef96f7eba6146efd839f0a470cb119951bd267bfc7ccc1": "2026-10-28T18:19:32.563524+09:00"
+    "1311f0c6b8c8ead386ef96f7eba6146efd839f0a470cb119951bd267bfc7ccc1": "2026-10-28T18:19:32.563524+09:00",
+    "94488973b32f0c45865f2d1da0d0654b6f9ceddc5c64ac8ccfb2db6129464045": "2026-10-28T18:43:40.992068+09:00"
   },
   "pending": {},
   "ai": {
     "2026-10-28": 12
   },
-  "cursor": 1100
+  "cursor": 0,
+  "archive": {
+    "https://www.viva100.com/article/20261028501621": {
+      "title": "일자리·투자 확대하면 정기 세무조사 안 받는다",
+      "summary": "한편 국세청 은 지난해 서울지방 국세청 91건, 중부지방 국세청 45건, 인천지방 국세청 34건, 부산지방 국세청 47건, 대구 지방 국세청 15건 등 총 246건의 정기 세무조사를 유예했다. 세종=",
+      "url": "https://www.viva100.com/article/20261028501621",
+      "date": "Wed, 28 Oct 2026 18:38:00 +0900",
+      "category": "세무 조사·혐의 관련",
+      "priority": 95,
+      "needs_ai": false,
+      "filter_version": 6
+    }
+  },
+  "brief_sent": {},
+  "brief_titles": {},
+  "brief_pending": {},
+  "brief_date": ""
 }
