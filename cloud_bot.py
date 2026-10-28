@@ -1,4 +1,4 @@
-"""대구경북 뉴스 모니터 v4. Python 3.12 / pip install requests"""
+"""대구경북 뉴스 모니터 v7. Python 3.12 / pip install requests"""
 import hashlib
 import html
 import json
@@ -108,7 +108,7 @@ def title_key(title):
 
 def load_state():
     if not STATE.exists():
-        return {'sent': {}, 'titles': {}, 'pending': {}, 'ai': {}, 'cursor': 0}
+        return {'sent': {}, 'titles': {}, 'pending': {}, 'ai': {}, 'cursor': 0, 'archive': {}, 'brief_sent': {}, 'brief_titles': {}, 'brief_pending': {}, 'brief_date': ''}
     # 손상된 이력을 조용히 덮어쓰지 않습니다.
     s = json.loads(STATE.read_text(encoding='utf-8'))
     if not isinstance(s.get('sent'), dict):
@@ -120,7 +120,10 @@ def load_state():
         s['titles'] = {}
     for k, default in [('pending', {}), ('ai', {}), ('cursor', 0)]:
         s.setdefault(k, default)
-    return {k: s[k] for k in ['sent', 'titles', 'pending', 'ai', 'cursor']}
+    for key in ['archive', 'brief_sent', 'brief_titles', 'brief_pending']:
+        s.setdefault(key, {})
+    s.setdefault('brief_date', '')
+    return s
 
 
 def save(s):
@@ -133,15 +136,13 @@ def save(s):
 
 
 def query_plan(s):
-    core = COMPANIES + AGENCIES + list(PEOPLE)
-    core += [f'{r} {w}' for r in REGIONS for w in ['산재', '사망', '세무조사', '횡령', '인사']]
-    broad = [f'{r} {w}' for r in REGIONS for w in
-             TAX_DIRECT + TAX_REFERENCE + ['끼임', '추락', '폭발', '질식', '작업자', '근로자']]
-    broad += [f'{c} {w}' for c in COMPANIES for w in TAX_DIRECT + TAX_REFERENCE]
-    broad = sorted(set(broad) - set(core))
-    start = int(s['cursor']) % len(broad)
-    rotating = [broad[(start + i) % len(broad)] for i in range(min(220, len(broad)))]
-    return sorted(set(core + rotating)), (start + len(rotating)) % len(broad)
+    # 매 실행 같은 검색망 전체를 조회합니다. 시간별 순환 검색을 하지 않습니다.
+    # 세부 세무/사고 표현은 분류 사전에서 계속 사용합니다.
+    terms = ['산재', '근로자', '작업자', '공장 사고', '세무조사', '탈세', '횡령',
+             '배임', '지분', '증여', '승계', '인사', '전보', '추징']
+    queries = COMPANIES + AGENCIES + list(PEOPLE)
+    queries += [f'{region} {term}' for region in REGIONS for term in terms]
+    return sorted(set(queries)), 0
 
 
 def fetch(job):
@@ -162,7 +163,7 @@ def fetch(job):
                     break
         else:
             r = requests.get('https://news.google.com/rss/search',
-                params={'q': query + ' when:1d', 'hl': 'ko', 'gl': 'KR', 'ceid': 'KR:ko'}, timeout=(5, 15))
+                params={'q': query + (' when:1d' if datetime.now(KST) - cutoff > timedelta(hours=2) else ' when:1h'), 'hl': 'ko', 'gl': 'KR', 'ceid': 'KR:ko'}, timeout=(5, 15))
             r.raise_for_status()
             root = ET.fromstring(r.content)
             if root.find('channel') is None:
@@ -176,13 +177,32 @@ def fetch(job):
         return provider, [], f'{type(exc).__name__}: query={query}'
 
 
+def has_local(text):
+    if contains(text, PLACES + AGENCIES):
+        return True
+    # 상주기간·상주인력·경주마 등 일반명사를 지명으로 인식하지 않습니다.
+    return any(re.search(r'(?<![가-힣])' + re.escape(r) +
+        r'(?:시|군)?(?=$|[^가-힣]|에서|지역|공장|산단|경찰|지검|세무서)', text)
+        for r in REGIONS)
+
+
+def emphasis(score):
+    if score >= 95:
+        return '🚨 우선 확인', 0xE74C3C
+    if score >= 90:
+        return '🟠 중요', 0xF39C12
+    return '🔹 확인', 0x3498DB
+
+
 def classify(a):
     title = a['title']
     summary = a.get('summary', '')
     text = title + ' ' + summary
-    local = contains(text, REGIONS + PLACES + AGENCIES)
+    local = has_local(text)
     company = contains(text, COMPANIES)
     person = any(name in text and contains(text, affiliations) for name, affiliations in PEOPLE.items())
+    if not company and not person and contains(title, ['세무조사혁신', '조사혁신', '상주기간', '납세자중심']):
+        return None
     if not (local or company or person):
         return None
     # 제목이 기사 주제의 근거입니다. 요약의 다른 사건·발언을 고득점 근거로 쓰지 않습니다.
@@ -220,23 +240,25 @@ def classify(a):
     return None
 
 
-def prepare_pending(s, now):
+def prepare_pending(s, now, cutoff=None, end=None, pending_key='pending'):
     # v3의 대기 기사도 새 기준으로 재분류합니다. 이미 발송한 이력은 보존합니다.
-    for url, a in list(s['pending'].items()):
+    cutoff = cutoff or now - timedelta(minutes=60)
+    end = end or now
+    for url, a in list(s[pending_key].items()):
         published = date(a.get('date'))
         result = classify(a)
-        if not result or not published or published < now - timedelta(hours=48):
-            s['pending'].pop(url, None)
+        if not result or not published or not (cutoff <= published <= end):
+            s[pending_key].pop(url, None)
             continue
-        if a.get('filter_version') != 4:
+        if a.get('filter_version') != 6:
             a.pop('review', None)
         a['category'], a['priority'], a['needs_ai'] = result
-        a['filter_version'] = 4
+        a['filter_version'] = 6
         if a.get('review') == 'AI 참고 적합':
             a['priority'] = 85
         elif a.get('review') == 'AI 관련성 낮음':
             a['priority'] = 0
-    return sorted(s['pending'].values(), key=lambda a: (a['priority'], date(a['date'])), reverse=True)
+    return sorted(s[pending_key].values(), key=lambda a: (a['priority'], date(a['date'])), reverse=True)
 
 
 class AI:
@@ -289,7 +311,7 @@ class AI:
             return '미검토'
 
 
-def deliver(description, title):
+def deliver(description, title, color=0x3498DB):
     if DRY_RUN:
         log.info('DRY_RUN 알림: %s', description)
         return True
@@ -297,7 +319,7 @@ def deliver(description, title):
         try:
             r = requests.post(DISCORD_URL, params={'wait': 'true'}, json={
                 'username': '대구경북 뉴스 모니터', 'allowed_mentions': {'parse': []},
-                'embeds': [{'title': title, 'description': description, 'color': 0x3498DB}]}, timeout=(5, 20))
+                'embeds': [{'title': title, 'description': description, 'color': color}]}, timeout=(5, 20))
             if r.status_code == 429 and attempt == 0:
                 delay = float(r.json().get('retry_after', 1))
                 if delay > 30:
@@ -314,13 +336,31 @@ def deliver(description, title):
     return False
 
 
+def report_window(now, mode='auto'):
+    morning = mode == 'morning' or (mode == 'auto' and now.hour == 8)
+    if morning:
+        end = now.replace(hour=8, minute=0, second=0, microsecond=0)
+        if now < end:
+            raise RuntimeError('오전 브리핑은 한국 시간 08:00 이후 실행하세요')
+        return end - timedelta(hours=9), end, True
+    return now - timedelta(minutes=60), now, False
+
+
 def main():
-    log.info('대구경북 뉴스 모니터 v4 시작 — 세무 / 주요인사 / 산재')
+    log.info('대구경북 뉴스 모니터 v7 시작 — 세무 / 주요인사 / 산재')
     if not DISCORD_URL and not DRY_RUN:
         raise RuntimeError('GitHub Secrets의 DISCORD_URL 설정이 필요합니다')
     now = datetime.now(KST)
-    cutoff = now - timedelta(hours=24)  # 순환 검색·지연 색인을 보완하고 발송 이력으로 중복 제거
+    cutoff, end, morning = report_window(now, os.getenv('REPORT_MODE', 'auto'))
+    sent_key = 'brief_sent' if morning else 'sent'
+    titles_key = 'brief_titles' if morning else 'titles'
+    pending_key = 'brief_pending' if morning else 'pending'
     s = load_state()
+    if morning and s['brief_date'] != end.date().isoformat():
+        s['brief_date'] = end.date().isoformat()
+        for key in ['brief_sent', 'brief_titles', 'brief_pending']:
+            s[key] = {}
+    s['archive'] = {u: a for u, a in s['archive'].items() if date(a.get('date')) and date(a['date']) >= now - timedelta(days=2)}
     for field in ['sent', 'titles']:
         s[field] = {k: v for k, v in s[field].items() if date(v) and date(v) >= now - timedelta(days=14)}
     s['ai'] = {k: v for k, v in s['ai'].items() if k >= (now - timedelta(days=7)).date().isoformat()}
@@ -330,7 +370,7 @@ def main():
     rss_queries = queries[::max(1, len(queries) // 35)] if jobs else queries
     jobs += [('google', q, cutoff) for q in rss_queries]
     stats = {'naver': [0, 0], 'google': [0, 0]}
-    raw = {}
+    raw = {u: dict(a) for u, a in s['archive'].items() if cutoff <= date(a['date']) <= end} if morning else {}
     with ThreadPoolExecutor(max_workers=4) as pool:
         for provider, articles, error in pool.map(fetch, jobs):
             stats[provider][bool(error)] += 1
@@ -338,11 +378,11 @@ def main():
                 log.warning('%s 검색 실패: %s', provider, error)
             for a in articles:
                 dt = date(a['date'])
-                if a['url'] and dt and cutoff <= dt <= now + timedelta(minutes=10):
+                if a['url'] and dt and cutoff <= dt <= end:
                     old = raw.get(a['url'])
                     if not old or len(a['summary']) > len(old['summary']):
                         raw[a['url']] = a
-    log.info('검색 성공/실패: %s / 최근24시간 고유URL %d', stats, len(raw))
+    log.info('검색 성공/실패: %s / 대상 %s ~ %s / 고유URL %d', stats, cutoff.isoformat(), end.isoformat(), len(raw))
     successes = sum(x[0] for x in stats.values())
     failures = sum(x[1] for x in stats.values())
     if not successes:
@@ -350,45 +390,53 @@ def main():
     # 실패한 검색이 있으면 다음 실행에서 같은 검색 구간을 다시 시도합니다.
     if not failures:
         s['cursor'] = next_cursor
-    prepare_pending(s, now)
-    batch_titles = {title_key(a['title']) for a in s['pending'].values()}
+    prepare_pending(s, now, cutoff, end, pending_key)
+    batch_titles = {title_key(a['title']) for a in s[pending_key].values()}
     for a in raw.values():
         key = title_key(a['title'])
-        if a['url'] in s['sent'] or key in s['titles'] or key in batch_titles:
+        if a['url'] in s[sent_key] or key in s[titles_key] or key in batch_titles:
             continue
         result = classify(a)
         if result:
+            s['archive'][a['url']] = a
             a['category'], a['priority'], a['needs_ai'] = result
-            s['pending'][a['url']] = a
+            s[pending_key][a['url']] = a
             batch_titles.add(key)
     save(s)
-    pending = prepare_pending(s, now)
+    pending = prepare_pending(s, now, cutoff, end, pending_key)
     ai = AI(s) if not DRY_RUN and any(a['needs_ai'] and a.get('review', '미검토') == '미검토' for a in pending) else None
     for a in pending:
         if a['needs_ai'] and a.get('review', '미검토') == '미검토':
             a['review'] = ai.review(a) if ai and not DRY_RUN else '미검토'
-    pending = prepare_pending(s, now)
+    for a in pending:
+        s['archive'][a['url']] = a
+    pending = prepare_pending(s, now, cutoff, end, pending_key)
     eligible = [a for a in pending if a['priority'] >= MIN_SCORE]
     held = sum(a['needs_ai'] and a.get('review', '미검토') == '미검토' for a in pending)
-    queued = max(0, len(eligible) - MAX_ALERTS)
-    pending = eligible[:MAX_ALERTS]
+    limit = len(eligible) if morning else MAX_ALERTS
+    queued = max(0, len(eligible) - limit)
+    pending = eligible[:limit]
     log.info('필터: 발송 %d / AI 미검토 보류 %d / 다음 회차 대기 %d / 최소 %d점', len(pending), held, queued, MIN_SCORE)
     save(s)
-    title = ('🌅 아침 브리핑' if now.hour == 8 else '📊 정기 보고') + now.strftime(' %m/%d %H:%M KST')
-    suffix = f'\n\n수집 상태: 성공 {successes} / 실패 {failures}. 미검토 보류 {held}건 / 다음 회차 대기 {queued}건.'
+    title = ('🌅 아침 브리핑' if morning else '📊 정기 보고') + now.strftime(' %m/%d %H:%M KST')
+    suffix = (f'\n\n🔎 검색 작업: 성공 {successes}회 / 실패 {failures}회'
+              f'\n🕒 대상: {cutoff:%m/%d %H:%M} ~ {end:%m/%d %H:%M} KST'
+              f'\n📰 대상 시간대 고유 URL: {len(raw)}건 / 이번 발송 대상: {len(pending)}건'
+              f'\n⏳ AI 미검토: {held}건 / 다음 회차 대기: {queued}건')
     if not pending:
         # 수집 실패는 기사 없음과 함께 명시합니다.
         ok = deliver('현재 발송 기준을 충족한 새 기사가 없습니다.' + suffix, title)
         return 0 if ok and not failures else 1
     group, lines = [], []
     def flush():
-        if not deliver('\n\n'.join(lines) + suffix, title):
+        badge, color = emphasis(max(item['priority'] for item in group))
+        if not deliver('\n\n'.join(lines) + suffix, title + ' · ' + badge, color):
             return False
         stamp = datetime.now(KST).isoformat()
         for item in group:
-            s['sent'][item['url']] = stamp
-            s['titles'][title_key(item['title'])] = stamp
-            s['pending'].pop(item['url'], None)
+            s[sent_key][item['url']] = stamp
+            s[titles_key][title_key(item['title'])] = stamp
+            s[pending_key].pop(item['url'], None)
         save(s)  # 각 메시지 성공 직후 저장; 뒤 메시지 실패 시 앞 메시지는 재전송하지 않음
         return True
     for a in pending:
@@ -397,7 +445,11 @@ def main():
         if len(url) > 1800:
             url = 'https://news.google.com/search?q=' + requests.utils.quote(a['title'])
         review = ' / ' + a['review'] if a.get('review') else ''
-        line = f"**[{a['priority']}점] [{a['category']}]** [{safe}]({url})"
+        badge, _ = emphasis(a['priority'])
+        link = f'[{safe}]({url})'
+        if a['priority'] >= 90:
+            link = '**' + link + '**'
+        line = f"{badge} **[{a['priority']}점] [{a['category']}]**\n{link}"
         if lines and len('\n\n'.join(lines + [line]) + suffix) > 3800:
             if not flush():
                 return 1
