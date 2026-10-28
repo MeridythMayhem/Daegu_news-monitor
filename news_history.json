@@ -1201,9 +1201,38 @@
     "162706ce70ba9139dd6d51bcdcc3910b22259bfd3915b587e516f067a3d69c0b": "2026-10-28T21:02:03.675150+09:00",
     "45b1240566aea0daa85e0049aa6aae2b209d82c1fbfca853b57d727294b3e761": "2026-10-28T21:02:03.675150+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4115385": {
+      "title": "경주서 '2026 국제원자력수출 및 안전콘펙스' 개막...SMR·차세대 원전 ...",
+      "summary": "경북 도는 경주에서 국내외 원자력 분야 주요 인사 와 기업 관계자 80여 개사가 참여한 가운데 '2026 국제원자력수출 및 안전콘펙스(NES 2026)'를 개최했다고 밝혔습니다. 오는 29일까지 이어지는 이번 행사는 소형모듈원전(SMR)...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115385",
+      "date": "Wed, 28 Oct 2026 22:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=397962": {
+      "title": "에코프로 비엠, 사채권자 청구로 전환사채 140억원 취득",
+      "summary": "에코프로 비엠이 사채권자의 조기상환청구권 행사에 따라 제5회차 전환사채 권면 140억원어치를 만기 전에 취득했다. 금융감독원 전자공시시스템(DART) 공시에 따르면 취득일은 지난 26일이며, 회사는...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=397962",
+      "date": "Wed, 28 Oct 2026 22:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "세무 검토 참고",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    }
+  },
   "ai": {
-    "2026-10-28": 15
+    "2026-10-28": 17
   },
   "cursor": 0,
   "archive": {
@@ -1297,6 +1326,34 @@
       "priority": 80,
       "needs_ai": false,
       "filter_version": 8
+    },
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4115385": {
+      "title": "경주서 '2026 국제원자력수출 및 안전콘펙스' 개막...SMR·차세대 원전 ...",
+      "summary": "경북 도는 경주에서 국내외 원자력 분야 주요 인사 와 기업 관계자 80여 개사가 참여한 가운데 '2026 국제원자력수출 및 안전콘펙스(NES 2026)'를 개최했다고 밝혔습니다. 오는 29일까지 이어지는 이번 행사는 소형모듈원전(SMR)...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115385",
+      "date": "Wed, 28 Oct 2026 22:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=397962": {
+      "title": "에코프로 비엠, 사채권자 청구로 전환사채 140억원 취득",
+      "summary": "에코프로 비엠이 사채권자의 조기상환청구권 행사에 따라 제5회차 전환사채 권면 140억원어치를 만기 전에 취득했다. 금융감독원 전자공시시스템(DART) 공시에 따르면 취득일은 지난 26일이며, 회사는...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=397962",
+      "date": "Wed, 28 Oct 2026 22:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "세무 검토 참고",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
     }
   },
   "brief_sent": {},
