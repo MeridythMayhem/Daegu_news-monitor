@@ -1207,7 +1207,8 @@
   },
   "pending": {},
   "ai": {
-    "2026-10-28": 17
+    "2026-10-28": 17,
+    "2026-10-29": 2
   },
   "cursor": 0,
   "archive": {
@@ -1355,10 +1356,103 @@
       "priority": 90,
       "needs_ai": false,
       "filter_version": 8
+    },
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000077664": {
+      "title": "가을야구 원정팬 잡아라…광주 상권 매출 '들썩'",
+      "summary": "최근 금호고속 승차권 발행 내역을 보면 KIA 타이거즈의 플레이오프 진출이 확정된 뒤 광주에서 대구 로... 경기 당일 오후 4시부터 자정까지 경기장 주변 도로의 불법주정차 단속을 유예하고 경찰청 과 협력해 교통신호...",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077664",
+      "date": "Thu, 29 Oct 2026 00:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.getnews.co.kr/news/articleView.html?idxno=885210": {
+      "title": "부산본부세관, 수출입 안전관리 우수업체(AEO) 공인증서 수여식 가져",
+      "summary": "또한 기업은행과 아이엠뱅크 등 협약 은행에서 무역금융 이용 시 우대 금리를 적용받는다. 산업통상자원부의 자율무역준수거래자(CP) 신청 시 일부 항목 심사 면제 등 타 부처 인증 심사 간소화 혜택도 주어진다. 한편...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885210",
+      "date": "Thu, 29 Oct 2026 07:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.mhns.co.kr/news/articleView.html?idxno=766449": {
+      "title": "전남광주특별시의회 김정희의원 광양경자청, 투자유치 성과 높여야...",
+      "summary": "오는 12월 투자가 예정된 포스코 인터내셔널의 1조원 규모 사업에 대해서도 추진 상황을 점검했다. 김 의장은 핵심 절차인 발전사업 허가 신청이 10월에야 시작됐다며 연내 투자 실현 가능성이 불투명하다고 지적했다....",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=766449",
+      "date": "Thu, 29 Oct 2026 03:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82R0xueDJXd2poNUIxTzMtQ2tBaWJHYUlkdGtwZFpFWFpRTUxKMnhTRVpxOE5uVlk3dUFhOGhwUGYtWTZhWFdYZWpaTW0ybDI3d0Q5d1hlRGNoZw?oc=5": {
+      "title": "장인화도 ‘제로베이스’⋯ 포스코 ‘셀프 선임’ 금지, 회장 선임 레이스 막 오른다 - 브릿지경제",
+      "summary": "장인화도 ‘제로베이스’⋯ 포스코 ‘셀프 선임’ 금지, 회장 선임 레이스 막 오른다 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82R0xueDJXd2poNUIxTzMtQ2tBaWJHYUlkdGtwZFpFWFpRTUxKMnhTRVpxOE5uVlk3dUFhOGhwUGYtWTZhWFdYZWpaTW0ybDI3d0Q5d1hlRGNoZw?oc=5",
+      "date": "Wed, 28 Oct 2026 21:12:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 8
     }
   },
-  "brief_sent": {},
-  "brief_titles": {},
-  "brief_pending": {},
-  "brief_date": ""
+  "brief_sent": {
+    "https://www.viva100.com/article/20261028501156": "2026-10-29T08:02:11.507671+09:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82R0xueDJXd2poNUIxTzMtQ2tBaWJHYUlkdGtwZFpFWFpRTUxKMnhTRVpxOE5uVlk3dUFhOGhwUGYtWTZhWFdYZWpaTW0ybDI3d0Q5d1hlRGNoZw?oc=5": "2026-10-29T08:02:11.507671+09:00",
+    "https://www.etoday.co.kr/news/view/2641403": "2026-10-29T08:02:11.507671+09:00",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=766449": "2026-10-29T08:02:11.507671+09:00"
+  },
+  "brief_titles": {
+    "9f08b74fdd99d2b78613a8b340ec187175fd9c682d3757422e43188fedffd7f7": "2026-10-29T08:02:11.507671+09:00",
+    "5e8338658fc750409177f8fa9bfde1894c313d734c35fecbe6a351f1584816aa": "2026-10-29T08:02:11.507671+09:00",
+    "f524bc840ca8420fa267aab1f6b61ee3e47092ab092210ada83f2d185d8e8482": "2026-10-29T08:02:11.507671+09:00",
+    "8c65a54ffbb6dc78a6acd282c5b8f86fa3ca6fe1288de31d08f273e25fb0aea7": "2026-10-29T08:02:11.507671+09:00"
+  },
+  "brief_pending": {
+    "https://www.jnilbo.com/news/articleView.html?idxno=90000077664": {
+      "title": "가을야구 원정팬 잡아라…광주 상권 매출 '들썩'",
+      "summary": "최근 금호고속 승차권 발행 내역을 보면 KIA 타이거즈의 플레이오프 진출이 확정된 뒤 광주에서 대구 로... 경기 당일 오후 4시부터 자정까지 경기장 주변 도로의 불법주정차 단속을 유예하고 경찰청 과 협력해 교통신호...",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077664",
+      "date": "Thu, 29 Oct 2026 00:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.getnews.co.kr/news/articleView.html?idxno=885210": {
+      "title": "부산본부세관, 수출입 안전관리 우수업체(AEO) 공인증서 수여식 가져",
+      "summary": "또한 기업은행과 아이엠뱅크 등 협약 은행에서 무역금융 이용 시 우대 금리를 적용받는다. 산업통상자원부의 자율무역준수거래자(CP) 신청 시 일부 항목 심사 면제 등 타 부처 인증 심사 간소화 혜택도 주어진다. 한편...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885210",
+      "date": "Thu, 29 Oct 2026 07:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    }
+  },
+  "brief_date": "2026-10-29"
 }
