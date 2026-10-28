@@ -1197,22 +1197,7 @@
     "eccecf9efc3bb816217bab08eb0459d1844ec52f68046ad75fbac5a0a9989f2f": "2026-10-28T19:02:29.936134+09:00",
     "c3336eca548ced8a570554e5725bbc49048bf3b294bc6f819b33b352b179b1fd": "2026-10-28T19:02:29.936134+09:00"
   },
-  "pending": {
-    "https://futurechosun.com/?p=164825": {
-      "title": "[더나은미래 경제브리핑] SK하이닉스, 분기 매출 첫 100조 돌파…이찬진...",
-      "summary": "에코프로 (3.09%)와 에코프로 비엠(3.07%)도 상승했다. ◇“회사서 막아도 몰래 쓴다”...직원 4명 중 3명 AI 사용 28일 파수 AI가 발표한 회사 몰래 개인 계정으로 생성형 인공지능(AI)를 쓰는 이른바 ‘셰도 AI(Shadow AI)...",
-      "url": "https://futurechosun.com/?p=164825",
-      "date": "Wed, 28 Oct 2026 18:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 13
   },
