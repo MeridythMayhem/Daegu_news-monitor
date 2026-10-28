@@ -841,7 +841,9 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=877318": "2026-10-28T18:02:07.620646+09:00",
     "https://www.getnews.co.kr/news/articleView.html?idxno=885187": "2026-10-28T18:02:07.620646+09:00",
     "https://www.eroun.net/news/articleView.html?idxno=93667": "2026-10-28T18:02:07.620646+09:00",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261028010010089": "2026-10-28T18:02:07.620646+09:00"
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261028010010089": "2026-10-28T18:02:07.620646+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TZ3VRajlONVNWTWg2c0o2aVFFZUk1aDg5Qk9sLVc1T3E1Z19lUUVXY1VfazJwNW1iaWY2c1hpU1VGZ29xQkVEajA5YTF2cFlpQzJCbnJkdG9HemQ3MGdYSnp0ZVNOZ2ZnNmc?oc=5": "2026-10-28T18:19:32.563524+09:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43enU3SEIwTHE1TDZTUnJnQ280VEJhbnNidEpobEV1UWtiWE42Q2lNRW5TUF9zWWpwTXFHeDFRNHMwbG5neGhmYTdlZk1IWTV4SmpXV3pjSFFFZw?oc=5": "2026-10-28T18:19:32.563524+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1185,11 +1187,13 @@
     "68ce94e45d49dc88d7297a00dc4639d73d245df2774f587c6c9c108d0a365623": "2026-10-28T18:02:07.620646+09:00",
     "97b08360202240aecfa0856b0165f0bafc604df48b7f3473c10e86e30ee783bf": "2026-10-28T18:02:07.620646+09:00",
     "9eecdb67f9643d60196f72e6c527e1f54f4445470077946a5150b67cec587a6f": "2026-10-28T18:02:07.620646+09:00",
-    "7abc6dd09f31c97c3432a357084cfe7b8171a15a15915e4378f8bddf5b54035b": "2026-10-28T18:02:07.620646+09:00"
+    "7abc6dd09f31c97c3432a357084cfe7b8171a15a15915e4378f8bddf5b54035b": "2026-10-28T18:02:07.620646+09:00",
+    "8463642de32930d29e9a624d0b99d883283cfa13df33f2121b864a5dea110008": "2026-10-28T18:19:32.563524+09:00",
+    "1311f0c6b8c8ead386ef96f7eba6146efd839f0a470cb119951bd267bfc7ccc1": "2026-10-28T18:19:32.563524+09:00"
   },
   "pending": {},
   "ai": {
     "2026-10-28": 12
   },
-  "cursor": 880
+  "cursor": 1100
 }
