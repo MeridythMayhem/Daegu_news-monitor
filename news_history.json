@@ -844,7 +844,9 @@
     "https://www.asiatoday.co.kr/kn/view.php?key=20261028010010089": "2026-10-28T18:02:07.620646+09:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TZ3VRajlONVNWTWg2c0o2aVFFZUk1aDg5Qk9sLVc1T3E1Z19lUUVXY1VfazJwNW1iaWY2c1hpU1VGZ29xQkVEajA5YTF2cFlpQzJCbnJkdG9HemQ3MGdYSnp0ZVNOZ2ZnNmc?oc=5": "2026-10-28T18:19:32.563524+09:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43enU3SEIwTHE1TDZTUnJnQ280VEJhbnNidEpobEV1UWtiWE42Q2lNRW5TUF9zWWpwTXFHeDFRNHMwbG5neGhmYTdlZk1IWTV4SmpXV3pjSFFFZw?oc=5": "2026-10-28T18:19:32.563524+09:00",
-    "https://www.viva100.com/article/20261028501621": "2026-10-28T18:43:40.992068+09:00"
+    "https://www.viva100.com/article/20261028501621": "2026-10-28T18:43:40.992068+09:00",
+    "https://www.newspim.com/news/view/20261028000894": "2026-10-28T19:02:29.936134+09:00",
+    "https://www.sentv.co.kr/article/view/sentv202610280114": "2026-10-28T19:02:29.936134+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1191,11 +1193,28 @@
     "7abc6dd09f31c97c3432a357084cfe7b8171a15a15915e4378f8bddf5b54035b": "2026-10-28T18:02:07.620646+09:00",
     "8463642de32930d29e9a624d0b99d883283cfa13df33f2121b864a5dea110008": "2026-10-28T18:19:32.563524+09:00",
     "1311f0c6b8c8ead386ef96f7eba6146efd839f0a470cb119951bd267bfc7ccc1": "2026-10-28T18:19:32.563524+09:00",
-    "94488973b32f0c45865f2d1da0d0654b6f9ceddc5c64ac8ccfb2db6129464045": "2026-10-28T18:43:40.992068+09:00"
+    "94488973b32f0c45865f2d1da0d0654b6f9ceddc5c64ac8ccfb2db6129464045": "2026-10-28T18:43:40.992068+09:00",
+    "eccecf9efc3bb816217bab08eb0459d1844ec52f68046ad75fbac5a0a9989f2f": "2026-10-28T19:02:29.936134+09:00",
+    "c3336eca548ced8a570554e5725bbc49048bf3b294bc6f819b33b352b179b1fd": "2026-10-28T19:02:29.936134+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://futurechosun.com/?p=164825": {
+      "title": "[더나은미래 경제브리핑] SK하이닉스, 분기 매출 첫 100조 돌파…이찬진...",
+      "summary": "에코프로 (3.09%)와 에코프로 비엠(3.07%)도 상승했다. ◇“회사서 막아도 몰래 쓴다”...직원 4명 중 3명 AI 사용 28일 파수 AI가 발표한 회사 몰래 개인 계정으로 생성형 인공지능(AI)를 쓰는 이른바 ‘셰도 AI(Shadow AI)...",
+      "url": "https://futurechosun.com/?p=164825",
+      "date": "Wed, 28 Oct 2026 18:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    }
+  },
   "ai": {
-    "2026-10-28": 12
+    "2026-10-28": 13
   },
   "cursor": 0,
   "archive": {
@@ -1208,6 +1227,46 @@
       "priority": 95,
       "needs_ai": false,
       "filter_version": 6
+    },
+    "https://www.newspim.com/news/view/20261028000894": {
+      "title": "AI 수주 늘어난 코스닥 기업들…매출 반영은 '시간차'",
+      "summary": "하나증권에 따르면 ISC는 3분기 GPU·CPU·ASIC 및 메모리 관련 대규모 수주 를 확보했지만 소켓 후공정 생산... 삼성SDS 구미 AI 데이터센터와 시흥정왕동 데이터센터 관련 계약도 각각 297억원, 328억원 규모다. 계약 종료...",
+      "url": "https://www.newspim.com/news/view/20261028000894",
+      "date": "Wed, 28 Oct 2026 18:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://futurechosun.com/?p=164825": {
+      "title": "[더나은미래 경제브리핑] SK하이닉스, 분기 매출 첫 100조 돌파…이찬진...",
+      "summary": "에코프로 (3.09%)와 에코프로 비엠(3.07%)도 상승했다. ◇“회사서 막아도 몰래 쓴다”...직원 4명 중 3명 AI 사용 28일 파수 AI가 발표한 회사 몰래 개인 계정으로 생성형 인공지능(AI)를 쓰는 이른바 ‘셰도 AI(Shadow AI)...",
+      "url": "https://futurechosun.com/?p=164825",
+      "date": "Wed, 28 Oct 2026 18:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.sentv.co.kr/article/view/sentv202610280114": {
+      "title": "30조 목동 재건축, 5곳 단독응찰…남은 9곳 수주전 가열",
+      "summary": "지난달 열린 현장설명회에는 현대건설과 포스코 이앤씨, IPARK현대산업개발, 제일건설 등 4개 업체가... 롯데건설과 포스코 이앤씨도 각각 ‘르엘’과 ‘오티에르’ 등 하이엔드 브랜드를 앞세워 후속 사업지 확보에...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202610280114",
+      "date": "Wed, 28 Oct 2026 18:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
     }
   },
   "brief_sent": {},
