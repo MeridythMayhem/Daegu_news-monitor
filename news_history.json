@@ -846,7 +846,9 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43enU3SEIwTHE1TDZTUnJnQ280VEJhbnNidEpobEV1UWtiWE42Q2lNRW5TUF9zWWpwTXFHeDFRNHMwbG5neGhmYTdlZk1IWTV4SmpXV3pjSFFFZw?oc=5": "2026-10-28T18:19:32.563524+09:00",
     "https://www.viva100.com/article/20261028501621": "2026-10-28T18:43:40.992068+09:00",
     "https://www.newspim.com/news/view/20261028000894": "2026-10-28T19:02:29.936134+09:00",
-    "https://www.sentv.co.kr/article/view/sentv202610280114": "2026-10-28T19:02:29.936134+09:00"
+    "https://www.sentv.co.kr/article/view/sentv202610280114": "2026-10-28T19:02:29.936134+09:00",
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=246934": "2026-10-28T21:02:03.675150+09:00",
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800392.html": "2026-10-28T21:02:03.675150+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1195,11 +1197,28 @@
     "1311f0c6b8c8ead386ef96f7eba6146efd839f0a470cb119951bd267bfc7ccc1": "2026-10-28T18:19:32.563524+09:00",
     "94488973b32f0c45865f2d1da0d0654b6f9ceddc5c64ac8ccfb2db6129464045": "2026-10-28T18:43:40.992068+09:00",
     "eccecf9efc3bb816217bab08eb0459d1844ec52f68046ad75fbac5a0a9989f2f": "2026-10-28T19:02:29.936134+09:00",
-    "c3336eca548ced8a570554e5725bbc49048bf3b294bc6f819b33b352b179b1fd": "2026-10-28T19:02:29.936134+09:00"
+    "c3336eca548ced8a570554e5725bbc49048bf3b294bc6f819b33b352b179b1fd": "2026-10-28T19:02:29.936134+09:00",
+    "162706ce70ba9139dd6d51bcdcc3910b22259bfd3915b587e516f067a3d69c0b": "2026-10-28T21:02:03.675150+09:00",
+    "45b1240566aea0daa85e0049aa6aae2b209d82c1fbfca853b57d727294b3e761": "2026-10-28T21:02:03.675150+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://www.yeongnam.com/web/view.php?key=20261028026417536": {
+      "title": "수도권 중심 부동산 정책, 온기 돌던 대구 주택시장에 되레 찬물",
+      "summary": "영남 일보 DB 올해 발표된 정부의 각종 부동산 대책이 대구 주택경기 회복 속도를 되레 늦춘 것으로 나타났다. 올 초 대구 는 주택 매매거래가 급증하고 집값 하락세가 둔화하면서 시장에 온기가 돌았다. 하지만 서울...",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261028026417536",
+      "date": "Wed, 28 Oct 2026 20:34:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "category": "지역언론 경제·정책",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    }
+  },
   "ai": {
-    "2026-10-28": 13
+    "2026-10-28": 15
   },
   "cursor": 0,
   "archive": {
@@ -1245,6 +1264,47 @@
       "summary": "지난달 열린 현장설명회에는 현대건설과 포스코 이앤씨, IPARK현대산업개발, 제일건설 등 4개 업체가... 롯데건설과 포스코 이앤씨도 각각 ‘르엘’과 ‘오티에르’ 등 하이엔드 브랜드를 앞세워 후속 사업지 확보에...",
       "url": "https://www.sentv.co.kr/article/view/sentv202610280114",
       "date": "Wed, 28 Oct 2026 18:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=246934": {
+      "title": "수자원공사, AI로 질식사고 막고 로봇으로 누수 탐사 … 39개 기업과 맞...",
+      "summary": "서울· 대구 창조경제혁신센터와 인천테크노파크, 서울경제진흥원 등이 추진한 공모를 통해 공사의 현업... 퓨잇은 AI 영상분석 기술을 활용해 근로자 의 위험행동을 감지하고 관련 정보를 보고하는 기술을 개발한다....",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246934",
+      "date": "Wed, 28 Oct 2026 20:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "산재·사업장 사고",
+      "priority": 85,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "AI 참고 적합"
+    },
+    "https://www.yeongnam.com/web/view.php?key=20261028026417536": {
+      "title": "수도권 중심 부동산 정책, 온기 돌던 대구 주택시장에 되레 찬물",
+      "summary": "영남 일보 DB 올해 발표된 정부의 각종 부동산 대책이 대구 주택경기 회복 속도를 되레 늦춘 것으로 나타났다. 올 초 대구 는 주택 매매거래가 급증하고 집값 하락세가 둔화하면서 시장에 온기가 돌았다. 하지만 서울...",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261028026417536",
+      "date": "Wed, 28 Oct 2026 20:34:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "category": "지역언론 경제·정책",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800392.html": {
+      "title": "수주 땐 팀코리아, 계약 땐 1조 감액 요구 … 체코 원전 시공협상 '삐걱...",
+      "summary": "한국수력원자력 이 대우건설에 1조원 이상의 공사비 감액을 요구한 것으로 알려진 가운데, 협상이 마무리되지 않은 상태에서 관련 발표까지 예고하면서다. 비용 절감을 둘러싼 이견이 시공사 교체 가능성으로 번지면서...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800392.html",
+      "date": "Wed, 28 Oct 2026 20:22:00 +0900",
       "channels": [
         "domestic"
       ],
