@@ -1,9 +1,6 @@
 name: News Monitor Bot
 
 on:
-  schedule:
-    - cron: '0 0-22 * * *'
-    - cron: '0 23 * * *'  # 한국 시간 매일 오전 8시
   repository_dispatch:
     types: [run_monitor]
   workflow_dispatch:
@@ -11,8 +8,9 @@ on:
       mode:
         description: '실행 모드 (morning은 한국 시간 08:00 이후)'
         type: choice
-        default: regular
+        default: auto
         options:
+          - auto
           - regular
           - morning
 
@@ -45,7 +43,7 @@ jobs:
           GROQ_MAX_CALLS_PER_RUN: '8'
           GROQ_MAX_CALLS_PER_DAY: '80'
           PYTHONUNBUFFERED: '1'
-          REPORT_MODE: ${{ github.event_name == 'schedule' && (github.event.schedule == '0 23 * * *' && 'morning' || 'regular') || inputs.mode || 'auto' }}
+          REPORT_MODE: ${{ github.event.client_payload.mode || inputs.mode || 'auto' }}
         run: python cloud_bot.py
       - name: Save history even if delivery partially failed
         if: ${{ always() }}
