@@ -40,7 +40,12 @@ jobs:
           NAVER_SECRET: ${{ secrets.NAVER_SECRET }}
           DISCORD_URL: ${{ secrets.DISCORD_URL }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GROQ_MAX_CALLS_PER_RUN: '8'
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || secrets.GOOGLE_KEY }}
+          GEMINI_MODEL: 'gemini-3.1-flash-lite'
+          GEMINI_MAX_CALLS_PER_DAY: '80'
+          AI_BATCH_SIZE: '5'
+          AI_MIN_INTERVAL_SECONDS: '20'
+          AI_MAX_CALLS_PER_RUN: '8'
           GROQ_MAX_CALLS_PER_DAY: '80'
           PYTHONUNBUFFERED: '1'
           REPORT_MODE: ${{ github.event.client_payload.mode || inputs.mode || 'auto' }}
