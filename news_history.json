@@ -850,7 +850,8 @@
     "https://www.safetimes.co.kr/news/articleView.html?idxno=246934": "2026-10-28T21:02:03.675150+09:00",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800392.html": "2026-10-28T21:02:03.675150+09:00",
     "https://www.viva100.com/article/20261028501156": "2026-10-29T06:36:58.332937+09:00",
-    "https://www.etoday.co.kr/news/view/2641403": "2026-10-29T06:36:58.332937+09:00"
+    "https://www.etoday.co.kr/news/view/2641403": "2026-10-29T06:36:58.332937+09:00",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=60853": "2026-10-29T09:02:15.239983+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1203,12 +1204,28 @@
     "162706ce70ba9139dd6d51bcdcc3910b22259bfd3915b587e516f067a3d69c0b": "2026-10-28T21:02:03.675150+09:00",
     "45b1240566aea0daa85e0049aa6aae2b209d82c1fbfca853b57d727294b3e761": "2026-10-28T21:02:03.675150+09:00",
     "9f08b74fdd99d2b78613a8b340ec187175fd9c682d3757422e43188fedffd7f7": "2026-10-29T06:36:58.332937+09:00",
-    "f524bc840ca8420fa267aab1f6b61ee3e47092ab092210ada83f2d185d8e8482": "2026-10-29T06:36:58.332937+09:00"
+    "f524bc840ca8420fa267aab1f6b61ee3e47092ab092210ada83f2d185d8e8482": "2026-10-29T06:36:58.332937+09:00",
+    "5ade6b991de74283eaef84d646a20ba9bf9644e116bcddd2f9946cd986a6e14c": "2026-10-29T09:02:15.239983+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://www.munhwa.com/article/11627144?ref=naver": {
+      "title": "윤활기유 年 5만t 수출… 기술이 빚은 ‘산유국’[창간 35주년 특집]",
+      "summary": "GS글로벌은 포스코 ·현대제철 등 국내 업체의 강판과 강관 등을 해외에 판매하고 있는데, 미국 관세와 유럽 수입할당제 등의 영향으로 철강본부 매출이 2024년 1조6500억 원에서 지난해 1조4000억 원으로 줄었다. 이에 국내...",
+      "url": "https://www.munhwa.com/article/11627144?ref=naver",
+      "date": "Thu, 29 Oct 2026 08:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    }
+  },
   "ai": {
     "2026-10-28": 17,
-    "2026-10-29": 2
+    "2026-10-29": 4
   },
   "cursor": 0,
   "archive": {
@@ -1410,6 +1427,34 @@
       "priority": 90,
       "needs_ai": false,
       "filter_version": 8
+    },
+    "https://www.sejungilbo.com/news/articleView.html?idxno=60853": {
+      "title": "국세청 · 대구 특구, 기업지원 설명회 공동 개최",
+      "summary": "29일 대구 지방 국세청 에 따르면 국세청 과 대구 지방 국세청 , 연구개발특구진흥재단 대구 특구본부는 내달 10일 오후 2시부터 4시 30분까지 대구 테크노파크 성서캠퍼스 S6동 은하수관에서 '2026년 국세청 - 대구 특구 공동...",
+      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60853",
+      "date": "Thu, 29 Oct 2026 08:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 85,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "AI 참고 적합"
+    },
+    "https://www.munhwa.com/article/11627144?ref=naver": {
+      "title": "윤활기유 年 5만t 수출… 기술이 빚은 ‘산유국’[창간 35주년 특집]",
+      "summary": "GS글로벌은 포스코 ·현대제철 등 국내 업체의 강판과 강관 등을 해외에 판매하고 있는데, 미국 관세와 유럽 수입할당제 등의 영향으로 철강본부 매출이 2024년 1조6500억 원에서 지난해 1조4000억 원으로 줄었다. 이에 국내...",
+      "url": "https://www.munhwa.com/article/11627144?ref=naver",
+      "date": "Thu, 29 Oct 2026 08:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
     }
   },
   "brief_sent": {
