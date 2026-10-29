@@ -1,4 +1,4 @@
-"""대구경북 뉴스 모니터 v11. Python 3.12 / pip install requests"""
+"""대구경북 뉴스 모니터 v12. Python 3.12 / pip install requests"""
 from collections import Counter
 from difflib import SequenceMatcher
 import hashlib
@@ -205,12 +205,7 @@ def fetch(job):
 
 
 def has_local(text):
-    if contains(text, PLACES + AGENCIES):
-        return True
-    # 상주기간·상주인력·경주마 등 일반명사를 지명으로 인식하지 않습니다.
-    return any(re.search(r'(?<![가-힣])' + re.escape(r) +
-        r'(?:시|군)?(?=$|[^가-힣]|에서|지역|공장|산단|경찰|지검|세무서)', text)
-        for r in REGIONS)
+    return bool(local_names(text))
 
 
 def emphasis(score):
@@ -274,15 +269,51 @@ CATEGORIES = {'세무 조사·혐의 관련': 95, '세무 검토 참고': 80,
  '경제·투자': 80, '지역언론 경제·정책': 80, '지역경제·기업동향': 80,
  '관심기업 동향': 80, '해외기업 동향': 80}
 
+BUSINESS_CATEGORIES = {'경제·투자', '지역언론 경제·정책', '지역경제·기업동향',
+                       '관심기업 동향', '해외기업 동향'}
+ENTITY_CANONICAL = {'한수원':'한국수력원자력', 'posco':'포스코', 'ecopro':'에코프로',
+ 'l&f':'엘앤에프', 'im bank':'iM뱅크', 'isu petasys':'이수페타시스',
+ 'daedong':'대동', 'taegutec':'대구텍', 'ajin industrial':'아진산업', 'cis battery':'씨아이에스'}
+
+
+def headline(a):
+    # RSS 매체 접미사/매체명 머리표를 지역 근거로 사용하지 않습니다.
+    title = re.sub(r'\s+-\s+[^-]+$', '', a['title'])
+    for media in LOCAL_MEDIA:
+        title = re.sub(r'^\s*\[' + re.escape(media) + r'\]\s*', '', title)
+    return title
+
+
 def entities(text):
-    # 대동맥/대동단결 등 회사명 부분문자열 오인 방지. 포스코 계열사는 명시 목록으로 처리.
-    names = COMPANY_ALIASES + GLOBAL_ALIASES
-    return {n.casefold() for n in names if re.search(
-        r'(?<![가-힣a-zA-Z])' + re.escape(n) +
-        r'(?=$|[^가-힣a-zA-Z]|은|는|이|가|의|와|과|에서)', text, re.I)}
+    matches = []
+    for name in COMPANY_ALIASES + GLOBAL_ALIASES:
+        pattern = r'\s*'.join(re.escape(c) for c in re.sub(r'\s+', '', name))
+        suffix = r'(?=$|[^가-힣a-zA-Z]|(?:은|는|이|가|의|와|과|에서)(?=$|[^가-힣a-zA-Z]))'
+        for match in re.finditer(r'(?<![가-힣a-zA-Z])' + pattern + suffix, text, re.I):
+            matches.append((match.start(), match.end(), ENTITY_CANONICAL.get(name.casefold(), name)))
+    # 긴 자회사 이름 안의 모회사 이름을 따로 세지 않음.
+    return {name for start,end,name in matches if not any(
+        left <= start and end <= right and (left < start or end < right)
+        for left,right,_ in matches)}
+
+
+def local_names(text):
+    # 대구경북/대구·경북 결합 표기와 구미에/포항에서 같은 조사 처리.
+    text = re.sub(r'대구\s*[·ㆍ∙/‧-]?\s*경북', '대구 경북', text)
+    tail = (r'(?:시|군)?(?=$|[^가-힣]|'
+            r'(?:에서|에|의|은|는|와|과|로|을|를)(?=$|[^가-힣])|'
+            r'지역|공장|산단|경찰|지검|세무서|기업|경제|산업|교육청|시청|도청|상공회의소)')
+    return {region for region in REGIONS if re.search(r'(?<![가-힣])' + re.escape(region) + tail, text)} | {
+        place for place in PLACES + AGENCIES if place in text}
+
+
+def economic_scope_allowed(a):
+    title = headline(a)
+    return bool(entities(title) or has_local(title))
+
 
 def evidence(a):
-    title, summary = a['title'], a.get('summary', '')
+    title, summary = headline(a), a.get('summary', '')
     et = entities(title)
     if et:
         return '관심기업: ' + ', '.join(sorted(et)), True
@@ -313,7 +344,12 @@ def classify(a):
         category, score, needs = core
         # 지명/기업의 제목 등장도 인과관계를 보장하지 않아 직접성이 모호하면 AI로 확인.
         return category, score if direct else 70, needs or not direct
+    if not economic_scope_allowed(a):
+        a['exclusion_reason'] = '경제 기사 제목에 관내 지명/관심기업 없음 (요약의 부수적 언급은 불허)'
+        return None
     if 'global' in a.get('channels', []):
+        if not entities(headline(a)):
+            return None
         if contains(title, ['football', 'baseball', 'basketball', 'stock price', 'price target']):
             return None
         if contains(title, ['investment','invests','acquisition','merger','plant','factory','contract',
@@ -383,11 +419,12 @@ def prepare_pending(s, now, cutoff=None, end=None, pending_key='pending'):
         if not result or not published or not (cutoff <= published <= end):
             s[pending_key].pop(url, None)
             continue
-        if a.get('filter_version') != 10:
+        if a.get('filter_version') != 12:
             a.pop('review', None)
             a.pop('ai_result', None)
+            a.pop('ai_wait_reason', None)
         a['category'], a['priority'], a['needs_ai'] = result
-        a['filter_version'] = 10
+        a['filter_version'] = 12
         if a.get('review') == 'AI 참고 적합':
             a['category'] = a['ai_result']['category']
             a['priority'] = a['ai_result']['score']
@@ -639,24 +676,68 @@ class AI:
         if category not in CATEGORIES or not isinstance(quote,str) or len(quote.strip()) < 2 or compact(quote) not in compact(source) or scope not in ('local','company'):
             a['ai_wait_reason'] = '분류 근거 검증 실패'
             return '미검토'
-        if scope == 'company' and not entities(quote):
-            a['ai_wait_reason'] = '관심기업 근거 없음'
-            return '미검토'
-        if scope == 'local' and not has_local(quote):
-            a['ai_wait_reason'] = '관내 지명 근거 없음'
-            return '미검토'
+        candidate = classify(a)
+        if not candidate:
+            a['exclusion_reason'] = '규칙상 발송 대상 아님 — AI 결과로 우회 불가'
+            a.pop('ai_wait_reason', None)
+            return 'AI 관련성 낮음'
+        candidate_category = candidate[0]
+        if candidate_category in BUSINESS_CATEGORIES:
+            if category not in BUSINESS_CATEGORIES or not economic_scope_allowed(a):
+                a['ai_wait_reason'] = '경제 기사 분류/지역 근거 불일치'
+                return '미검토'
+            if scope == 'company':
+                common = entities(headline(a)) & entities(quote)
+                if not common:
+                    a['exclusion_reason'] = '제목의 관심기업과 AI 인용 기업 불일치'
+                    a.pop('ai_wait_reason', None)
+                    return 'AI 관련성 낮음'
+                scope_label = '관심기업: ' + ', '.join(sorted(common))
+                if category in {'지역언론 경제·정책', '지역경제·기업동향', '관심기업 동향'}:
+                    category = '관심기업 동향'
+                if 'global' in a.get('channels', []):
+                    category = '해외기업 동향'
+            else:
+                common = local_names(headline(a)) & local_names(quote)
+                if not common:
+                    a['exclusion_reason'] = '제목의 관내 지역과 AI 인용 지역 불일치'
+                    a.pop('ai_wait_reason', None)
+                    return 'AI 관련성 낮음'
+                scope_label = '관내: ' + ', '.join(sorted(common))
+                if category in {'관심기업 동향', '해외기업 동향'}:
+                    category = ('지역언론 경제·정책' if 'local_media' in a.get('channels', []) else '지역경제·기업동향')
+        else:
+            # 핵심 사건은 제목에 지역명이 없는 경우에도 요약의 구체적인 사건 문장으로 검토.
+            if category != candidate_category:
+                a['ai_wait_reason'] = '핵심 사건 분류 불일치'
+                return '미검토'
+            anchor = entities(quote) if scope == 'company' else local_names(quote)
+            if not anchor:
+                a['ai_wait_reason'] = '핵심 사건 지역/기업 근거 없음'
+                return '미검토'
+            title_direct = bool(entities(headline(a)) or has_local(headline(a)))
+            event_terms = (ACCIDENTS if category == '산재·사업장 사고' else
+                           TAX_DIRECT + TAX_REFERENCE if category.startswith('세무') else PERSON_EVENTS)
+            if not title_direct and not contains(quote, event_terms):
+                a['ai_wait_reason'] = '요약의 지역/기업과 사건이 연결된 문장 필요'
+                return '미검토'
+            scope_label = ('관심기업: ' if scope == 'company' else '관내: ') + ', '.join(sorted(anchor))
         a['ai_result'] = {'category':category, 'score':CATEGORIES[category], 'evidence':quote,
-                          'provider':self.last_provider}
+                          'provider':self.last_provider, 'scope_label':scope_label}
         a.pop('ai_wait_reason', None)
         return 'AI 참고 적합'
 
     def review_batch(self, articles):
         prompt = ('각 기사를 독립적으로 대구경북 뉴스 발송 적합성 판정. 다른 기사의 단서를 섞지 말 것. '
             '검색어/언론사 소재지는 관련성 증거가 아니다. 대구경북이 실제 사건·정책 대상이거나 지정 관심기업이 핵심 당사자여야 한다. '
+            '일반 경제 기사는 제목에 관내 지명 또는 지정 관심기업이 있어야 한다. 요약에만 등장하면 제외. '
+            '관심기업 분류는 목록에 있는 기업이 제목의 실제 핵심 당사자인 경우만 허용. 삼성SDS, 두산에너빌리티, SK이노베이션 자체의 전국 실적은 관심기업이 아니다. '
+            '한수원이나 포스코가 비교 대상으로 언급됐다는 이유만으로 다른 회사의 기사를 허용하지 않는다. '
+            '핵심 세무/산재/인사 사건만 제목에 지역명이 없어도 요약의 구체적인 사건 문장을 근거로 검토 가능. '
             '요약의 부수적 지명/기업명, 기자 주소, 다른 기사 언급은 제외. 전국 실적/타지역 투자/단순 주가/행사/정치판세는 제외. '
             '단 지정 관심기업 자체의 실적·투자·노무 및 해외 사업은 허용. 사고 예방기술·훈련은 실제 산재가 아니다. '
             '정상 거래를 탈세로 단정하지 말 것. 직접 관계가 불명확하면 relevant=false. '
-            'evidence에는 해당 기사의 관내 지명 또는 관심기업이 포함된 원문 구절을 그대로 짧게 인용. '
+            'evidence에는 실제 사건/사업 주체와 연결된 관내 지명 또는 관심기업을 포함한 원문 구절을 그대로 인용. 일반 경제는 제목과 같은 지역/기업이어야 한다. '
             '각 index를 정확히 한 번씩 결과에 포함. 점수는 프로그램이 결정한다. '
             'JSON: {"results":[{"index":0,"relevant":true,"category":"경제·투자","evidence":"구미 신공장","scope":"local"}]}. '
             '제외 기사는 category="제외", evidence="", scope="none". '
@@ -758,7 +839,7 @@ def report_window(now, mode='auto'):
 
 
 def main():
-    log.info('대구경북 뉴스 모니터 v11 시작 — 세무 / 주요인사 / 산재')
+    log.info('대구경북 뉴스 모니터 v12 시작 — 세무 / 주요인사 / 산재')
     if not DISCORD_URL and not DRY_RUN:
         raise RuntimeError('GitHub Secrets의 DISCORD_URL 설정이 필요합니다')
     now = datetime.now(KST)
@@ -816,6 +897,8 @@ def main():
         if a['url'] in s[sent_key] or key in s[titles_key] or key in batch_titles:
             continue
         result = classify(a)
+        if not result and a.get('exclusion_reason'):
+            log.info('대상 제외: %s | %s', a['exclusion_reason'], a['title'])
         if result:
             s['archive'][a['url']] = a
             a['category'], a['priority'], a['needs_ai'] = result
@@ -913,7 +996,9 @@ def main():
         link = f'[{safe}]({url})'
         if a['priority'] >= 90:
             link = '**' + link + '**'
-        line = f"{badge} **[{a['priority']}점] [{a['category']}]**\n{link}"
+        basis = a.get('ai_result', {}).get('scope_label', a.get('basis', '규칙 판별'))
+        basis = re.sub(r'([\\*_[\]`])', r'\\\1', basis[:140])
+        line = f"{badge} **[{a['priority']}점] [{a['category']}]**\n{link}\n근거: {basis}"
         if lines and len('\n\n'.join(lines + [line]) + suffix) > 3800:
             if not flush():
                 return 1
