@@ -1163,7 +1163,8 @@
     "https://www.viva100.com/article/20261029501368": "2026-10-29T18:04:02.357084+09:00",
     "https://zdnet.co.kr/view/?no=20261029164021": "2026-10-29T18:04:02.357084+09:00",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54102": "2026-10-29T19:02:34.719220+09:00",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5": "2026-10-29T20:02:39.876584+09:00"
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5": "2026-10-29T20:02:39.876584+09:00",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": "2026-10-29T21:02:35.661481+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1829,7 +1830,8 @@
     "274276e93d434a91dcb23784083b6bfd3eaaa550a2be8f7d603c94da98520a51": "2026-10-29T18:04:02.357084+09:00",
     "7b81239bb47fef879886dbbe0e1919f7261c8a1f709c0f30425fc38cd4ac4779": "2026-10-29T18:04:02.357084+09:00",
     "0cb7f41e032f9b346145db7d2cef004a2ff08713cc68f682f3dcf6e087e06ef6": "2026-10-29T19:02:34.719220+09:00",
-    "6e284bff603adf59b35484b98a311cbeaaec53d949bb74bb6a2c3a39d7bbb79c": "2026-10-29T20:02:39.876584+09:00"
+    "6e284bff603adf59b35484b98a311cbeaaec53d949bb74bb6a2c3a39d7bbb79c": "2026-10-29T20:02:39.876584+09:00",
+    "2e8f09264a2982b1b94c6f877acd37e7d6516770540f47d1a31c60a7e271705e": "2026-10-29T21:02:35.661481+09:00"
   },
   "pending": {},
   "ai": {
@@ -3263,6 +3265,28 @@
         "provider": "gemini"
       },
       "review": "AI 참고 적합"
+    },
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": {
+      "title": "포스코 노사, 무기한 파업 앞두고 실무교섭 진행",
+      "summary": "임금 협상에서 평행선을 달리고 있는 포스코 노사가 실무교섭을 진행하고 있습니다. 포스코 노사는 오늘(29일) 오후 4시 포항 본사에서 실무교섭을 열고, 기본급 인상 등 주요 쟁점을 놓고 협상을 이어가고 있습니다. 앞서...",
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view",
+      "date": "Thu, 29 Oct 2026 20:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사는 오늘(29일) 오후 4시 포항 본사에서 실무교섭을 열고",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코"
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {},
@@ -3404,11 +3428,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5",
       "title": "[체코원전 팀코리아 파열음-한수원 입장] '대우건설 이탈' 벼랑 끝...26조 체코 원전 지켜낼 3대 현실적 수습책은 - 산경e뉴스",
       "date": "Thu, 29 Oct 2026 10:16:55 GMT"
+    },
+    {
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view",
+      "title": "포스코 노사, 무기한 파업 앞두고 실무교섭 진행",
+      "date": "Thu, 29 Oct 2026 20:42:00 +0900"
     }
   ],
   "brief_articles": [],
   "gemini_ai": {
-    "2026-10-29": 21
+    "2026-10-29": 23
   },
   "ai_cooldowns": {}
 }
