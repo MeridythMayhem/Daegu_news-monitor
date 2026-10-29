@@ -1164,7 +1164,8 @@
     "https://zdnet.co.kr/view/?no=20261029164021": "2026-10-29T18:04:02.357084+09:00",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54102": "2026-10-29T19:02:34.719220+09:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5": "2026-10-29T20:02:39.876584+09:00",
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": "2026-10-29T21:02:35.661481+09:00"
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": "2026-10-29T21:02:35.661481+09:00",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5": "2026-10-29T22:02:30.153316+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1831,7 +1832,8 @@
     "7b81239bb47fef879886dbbe0e1919f7261c8a1f709c0f30425fc38cd4ac4779": "2026-10-29T18:04:02.357084+09:00",
     "0cb7f41e032f9b346145db7d2cef004a2ff08713cc68f682f3dcf6e087e06ef6": "2026-10-29T19:02:34.719220+09:00",
     "6e284bff603adf59b35484b98a311cbeaaec53d949bb74bb6a2c3a39d7bbb79c": "2026-10-29T20:02:39.876584+09:00",
-    "2e8f09264a2982b1b94c6f877acd37e7d6516770540f47d1a31c60a7e271705e": "2026-10-29T21:02:35.661481+09:00"
+    "2e8f09264a2982b1b94c6f877acd37e7d6516770540f47d1a31c60a7e271705e": "2026-10-29T21:02:35.661481+09:00",
+    "7037c2d8d3399c50e9a38492c9f10093a729250eb8a74910d8cb59d4a8de22b3": "2026-10-29T22:02:30.153316+09:00"
   },
   "pending": {},
   "ai": {
@@ -3287,6 +3289,50 @@
         "scope_label": "관심기업: 포스코"
       },
       "review": "AI 참고 적합"
+    },
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1729759": {
+      "title": "엄기천 포스코 퓨처엠 사장 \"연말까지 수주 270만톤 전망…2028년 판매 확...",
+      "summary": "엄기천 포스코 퓨처엠 대표이사 사장이 연말까지 양극재 장기공급계약(LTA) 물량이 약 270만톤에 이를 것으로... 이어 \" 포스코 퓨처엠도 지난해 하반기부터 현재까지 발표한 양·음극재 장기공급계약 물량이 약 150만톤...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729759",
+      "date": "Thu, 29 Oct 2026 21:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "엄기천 포스코 퓨처엠 대표이사 사장이 연말까지 양극재 장기공급계약(LTA) 물량이 약 270만톤에 이를 것으로",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5": {
+      "title": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\" - www.ebn.co.kr",
+      "summary": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\" www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5",
+      "date": "Thu, 29 Oct 2026 12:10:03 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\"",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠"
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {},
@@ -3433,11 +3479,16 @@
       "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view",
       "title": "포스코 노사, 무기한 파업 앞두고 실무교섭 진행",
       "date": "Thu, 29 Oct 2026 20:42:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5",
+      "title": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\" - www.ebn.co.kr",
+      "date": "Thu, 29 Oct 2026 12:10:03 GMT"
     }
   ],
   "brief_articles": [],
   "gemini_ai": {
-    "2026-10-29": 23
+    "2026-10-29": 25
   },
   "ai_cooldowns": {}
 }
