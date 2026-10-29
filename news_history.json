@@ -891,7 +891,12 @@
     "http://www.weeklytoday.com/news/articleView.html?idxno=800163": "2026-10-29T13:02:14.678310+09:00",
     "https://www.gukjenews.com/news/articleView.html?idxno=3736301": "2026-10-29T13:02:14.678310+09:00",
     "http://www.newsroad.co.kr/news/articleView.html?idxno=66704": "2026-10-29T13:02:14.678310+09:00",
-    "https://www.bloter.net/news/articleView.html?idxno=677067": "2026-10-29T13:02:14.678310+09:00"
+    "https://www.bloter.net/news/articleView.html?idxno=677067": "2026-10-29T13:02:14.678310+09:00",
+    "https://www.taxtimes.co.kr/news/article.html?no=277531": "2026-10-29T14:02:14.636822+09:00",
+    "https://www.thelec.kr/news/articleView.html?idxno=64515": "2026-10-29T14:02:14.636822+09:00",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3736175": "2026-10-29T14:02:14.636822+09:00",
+    "https://www.edaily.co.kr/News/Read?newsId=04559206645617840&mediaCodeNo=257": "2026-10-29T14:02:14.636822+09:00",
+    "https://www.econovill.com/news/articleView.html?idxno=755304": "2026-10-29T14:02:14.636822+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1285,14 +1290,19 @@
     "edbbe733c95244c5d246dcacf9d315410be8352d2d5312b67bc6a789184af511": "2026-10-29T13:02:14.678310+09:00",
     "94ff1f5bea714158031641d0249cb47353b7777ca7d02b140998e90fa14743c4": "2026-10-29T13:02:14.678310+09:00",
     "1c1a880eb9824e7224cf9427f6a7082d8454bf54560d26055793486aa6f8de95": "2026-10-29T13:02:14.678310+09:00",
-    "27257e3047430cff978a4a1c8206c2a5dfa1595d33778e1a4c5339d7812c2ba5": "2026-10-29T13:02:14.678310+09:00"
+    "27257e3047430cff978a4a1c8206c2a5dfa1595d33778e1a4c5339d7812c2ba5": "2026-10-29T13:02:14.678310+09:00",
+    "e82fc8c2a3b90ce5b8093d03b661dc98b732ece85a3e455a015e710c3305f236": "2026-10-29T14:02:14.636822+09:00",
+    "b730cc070d9ff036c3c8634303111b4e1f7047e8fce9d47bd727352d65015d64": "2026-10-29T14:02:14.636822+09:00",
+    "74f9dd6dfd54aec4f333cf583dc3c6260f5625e057eae86bbcbbf77d100707c2": "2026-10-29T14:02:14.636822+09:00",
+    "0b02a469d8dc1aa866bb22664080fe64ff94b0141917cb789639bab5eec2774c": "2026-10-29T14:02:14.636822+09:00",
+    "ad14b5fdbe7f4d27975f90ded356eebe3e63382f441e02d05d0afe10f15a09b6": "2026-10-29T14:02:14.636822+09:00"
   },
   "pending": {
-    "https://www.gasnews.com/news/articleView.html?idxno=127411": {
-      "title": "가스공사, iM뱅크 와 손잡고 대구 지역 경제 활력 'UP'",
-      "summary": "한국가스공사와 iM뱅크 는 지역경제 활력을 위해 상생펀드 업무협약을 갱신했다.(왼쪽부터 강정훈 iM뱅크 은행장, 홍의락 가스공사 사장) 한국가스공사(사장 홍의락)는 지난 28일 iM뱅크 와 대구 수성구 iM뱅크 본사에서...",
-      "url": "https://www.gasnews.com/news/articleView.html?idxno=127411",
-      "date": "Thu, 29 Oct 2026 12:12:00 +0900",
+    "https://www.seoulfn.com/news/articleView.html?idxno=641328": {
+      "title": "삼성SDS, 3Q 영업이익 2410억원···믈류·클라우드 '쌍끌이'",
+      "summary": "또한 항공 화물 혼재 전문 기업 우정항공 지분 100%를 인수해 인천발·인천 경유 항공 운송 사업을 늘린다는 방침이다. 11월 초에는 초기 전력 용량 60MW 규모의 구미 AI 데이터센터 착공식을 진행한다.",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641328",
+      "date": "Thu, 29 Oct 2026 13:57:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1302,53 +1312,11 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "http://www.wsobi.com/news/articleView.html?idxno=320612": {
-      "title": "삼성전자·삼성SDS, 3분기 영업이익 107.4조 달성·물류 분기 매출 첫 2조...",
-      "summary": "또 지난 8월 정부의 AI 3대 강국 도약을 위한 '국가 AI 컴퓨팅센터' 건립 에 착수했으며, 오는 2028년... 아울러 삼성SDS는 경북 구미 시에 초기 전력 용량 60MW 규모로 조성될 구미 AI 데이터센터 착공식을 내달 초...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=320612",
-      "date": "Thu, 29 Oct 2026 12:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    },
-    "https://www.ekn.kr/web/view.php?key=20261029027482635": {
-      "title": "[르포] 레이더부터 폭발물 탐지까지… 구미 가드렉스서 만난 K-방산·보안...",
-      "summary": "지난 28일 경북 구미 시 구미 코에서 열린 '2026 항공·방위·물류 박람회(GADLEX·가드렉스)'에서는 레이더와... 공제 대상은 공장 화재 외에도 항공기·전차 등의 조립 중 사고 와 함정 건조·시운전, 위성 조립·보관부터 발사...",
-      "url": "https://www.ekn.kr/web/view.php?key=20261029027482635",
-      "date": "Thu, 29 Oct 2026 12:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    },
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=93975": {
-      "title": "삼성SDS, 3분기 매출 3조7725억원…AI·물류 사업 성장세",
-      "summary": "AI 협업 솔루션 '브리티웍스'는 경찰청 등 정부 부처로 도입이 확대되며 공공 부문 누적 사용자 33만명을... 오는 11월 초에는 경북 구미시에 초기 전력 용량 60MW 규모의 AI 데이터센터 착공식을 개최할 예정이다....",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=93975",
-      "date": "Thu, 29 Oct 2026 12:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    },
-    "https://www.mediawatch.kr/news/article.html?no=261530": {
-      "title": "[금주의 산업 톡톡] LG 계열사, 실적 발표 속 미래 성장 사업 확대",
-      "summary": "LG에너지솔루션은 글로벌 재생에너지 기업 에너직스와 유럽·북미 ESS 사업 협력을 위한 업무협약( MOU )... 베트남 하이퐁 공장 증설을 통해 범용 반도체 기판 생산 기반을 확보하고, 구미 사업장은 신기술...",
-      "url": "https://www.mediawatch.kr/news/article.html?no=261530",
-      "date": "Thu, 29 Oct 2026 12:32:00 +0900",
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1729691": {
+      "title": "SK이노베이션, 3분기 영업익 3조7043억원…정유·윤활유 쌍끌이 호실적",
+      "summary": "배터리 자회사 SK온은 판매량 감소 등으로 805억원의 영업손실을 냈으나 미국 네오볼타와의 9GWh 규모 에너지저장장치(ESS)용 리튬인산철(LFP) 파우치셀 공급계약을 비롯해 엘앤에프 , 포스코퓨처엠 등과 양극재...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729691",
+      "date": "Thu, 29 Oct 2026 13:48:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1361,7 +1329,7 @@
   },
   "ai": {
     "2026-10-28": 17,
-    "2026-10-29": 42
+    "2026-10-29": 47
   },
   "cursor": 0,
   "archive": {
@@ -2736,6 +2704,102 @@
       ],
       "category": "산재·사업장 사고",
       "priority": 90,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3736175": {
+      "title": "경주시, '2026 골든기업' 5개사 지정…3년간 최대 2,100만원 지원",
+      "summary": "송호준 경상북도 경제진흥원 본부장, 선정기업 대표 등이 참석한 가운데 '2026년 경주시 골든기업 지정서... 맞춤형 사업비와 행사 운영비는 3년간 지원되며, 지방세 세무조사 3년 유예와 경주시 기업 지원사업 우선 선정...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736175",
+      "date": "Thu, 29 Oct 2026 13:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "세무 조사·혐의 관련",
+      "priority": 85,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "AI 참고 적합"
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277531": {
+      "title": "\"55억짜리 모친 상가주택 산 아들 법인, 돈 어디서 났나\" 국세청 통보",
+      "summary": "◆명의신탁 의심( 경찰청 수사 의뢰 예정) 주택을 4채 보유한 매도인이 2025년7월 경북 ○○군 소재 아파트 3채를 동생에게 직거래로 매도하였다가 7개월 후인 2026년 2월에 이를 재매수했으나, 매매대금이 실제 지급되지...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277531",
+      "date": "Thu, 29 Oct 2026 13:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "세무 조사·혐의 관련",
+      "priority": 85,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "AI 참고 적합"
+    },
+    "https://www.seoulfn.com/news/articleView.html?idxno=641328": {
+      "title": "삼성SDS, 3Q 영업이익 2410억원···믈류·클라우드 '쌍끌이'",
+      "summary": "또한 항공 화물 혼재 전문 기업 우정항공 지분 100%를 인수해 인천발·인천 경유 항공 운송 사업을 늘린다는 방침이다. 11월 초에는 초기 전력 용량 60MW 규모의 구미 AI 데이터센터 착공식을 진행한다.",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641328",
+      "date": "Thu, 29 Oct 2026 13:57:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=04559206645617840&mediaCodeNo=257": {
+      "title": "삼전 실적·배당에도 5%↓…코스피 6100선 찍고 하락 전환",
+      "summary": "레인보우로보틱스(277810)(-6.43%), 에코프로 비엠(247540)(-5.13%), 원익IPS(240810)(-4.32%), 심텍(222800)(-3.84%), 에코프로 (086520)(-3.26%), 주성엔지니어링(036930)(-3.23%), 리노공업(058470)(-2.99%), 알테오젠(196170)(-2.02%), HLB...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04559206645617840&mediaCodeNo=257",
+      "date": "Thu, 29 Oct 2026 13:59:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1729691": {
+      "title": "SK이노베이션, 3분기 영업익 3조7043억원…정유·윤활유 쌍끌이 호실적",
+      "summary": "배터리 자회사 SK온은 판매량 감소 등으로 805억원의 영업손실을 냈으나 미국 네오볼타와의 9GWh 규모 에너지저장장치(ESS)용 리튬인산철(LFP) 파우치셀 공급계약을 비롯해 엘앤에프 , 포스코퓨처엠 등과 양극재...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729691",
+      "date": "Thu, 29 Oct 2026 13:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.thelec.kr/news/articleView.html?idxno=64515": {
+      "title": "SK이노베이션, 2026년 3분기 실적발표 컨퍼런스콜 전문",
+      "summary": "또한 엘앤에프 및 포스코 퓨처엠과 ESS용 LFP 양극재 공급 계약을 체결했다. 이를 통해 북미 시장의 정책 및 공급망 요건에 부합하는 소재 조달 기반을 강화했으며, 앞으로도 주요 소재 파트너와의 협력을 바탕으로...",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64515",
+      "date": "Thu, 29 Oct 2026 13:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 85,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "AI 참고 적합"
+    },
+    "https://www.econovill.com/news/articleView.html?idxno=755304": {
+      "title": "코스피, 삼성전자 호실적에도 2%대 하락…코스닥 3% 가까이 급락",
+      "summary": "한국수력원자력 은 이날 대우건설·두산에너빌리티 컨소시엄과 진행해 온 시공 계약 협상을 종료한다고 밝혔다. 주요 계약조건에 대한 이견으로 최종 합의에 이르지 못했다는 설명이다. 대우건설 컨소시엄은 계약...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=755304",
+      "date": "Thu, 29 Oct 2026 13:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
       "needs_ai": false,
       "filter_version": 8
     }
