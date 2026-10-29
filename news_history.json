@@ -1777,10 +1777,467 @@
     "63bc2f5b3c4b5d8171975eeff7881ce9e18af6c22e8c3299c5bb807906c80527": "2026-10-29T16:02:03.803844+09:00",
     "669053daefdee3bd2feb5dea69abe36eeae187c91e63581bfde516d6db5fb92a": "2026-10-29T16:02:03.803844+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://www.news1.kr/local/daegu-gyeongbuk/6336581": {
+      "title": "iM뱅크 -가스공사, 지역경제 상생펀드 협약…300억씩 부담",
+      "summary": "iM뱅크 는 29일 한국가스공사와 '더 좋은 지역경제를 위한 상생펀드' 협약을 맺었다고 밝혔다. 두 기관은 300억 원씩 부담하는 상생펀드 운영 기금을 1대 1 매칭 방식으로 조성해 중소기업과 소상공인의 대출 재원으로...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6336581",
+      "date": "Thu, 29 Oct 2026 15:23:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: im뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.mediapen.com/news/view/1133542": {
+      "title": "삼성SDS, 클라우드·물류 성장에 3분기 매출 11%↑… AI 사업 확대",
+      "summary": "지난 8월 건립 에 착수했으며 2028년 준공을 목표로 사업을 진행 중이다. 다음 달 초에는 경북 구미 에서 초기 전력 용량 60MW 규모의 AI 데이터센터 착공식도 개최할 예정이다. 기업용 AI 사업에서는 금융권 수주 성과가...",
+      "url": "https://www.mediapen.com/news/view/1133542",
+      "date": "Thu, 29 Oct 2026 15:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.greened.kr/news/articleView.html?idxno=353425": {
+      "title": "현대百그룹, 실적 회복에 리더십 격상…'안정 속 쇄신'으로 성장판 넓힌...",
+      "summary": "현대백화점그룹은 29일 부회장 2명, 사장 3명, 부사장 3명 등 승진 27명과 전보 23명을 포함한 총 50명 규모의... 현대백화점은 오는 2027년에 부산 에코델타시티에 더현대 부산을 열고, 2028년엔 경북 경산 에 프리미엄아울렛...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=353425",
+      "date": "Thu, 29 Oct 2026 15:57:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "http://www.dailypop.kr/news/articleView.html?idxno=103904": {
+      "title": "삼성SDS, 클라우드부터 항공물류까지…3분기 매출 11.2% 늘었다",
+      "summary": "우정항공의 지분 100%를 인수했다. 삼성SDS는 2025년 3분기 실적을 발표하면서 안정적인 성장이 예상되는 항공 물류와 창고 운영 사업을 강화하겠다는 방침을 밝혔다. 한편, 삼성SDS는 경북 구미 시에 초기 전력...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=103904",
+      "date": "Thu, 29 Oct 2026 15:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.newsway.co.kr/news/view?ud=2026102915443449694": {
+      "title": "삼성SDS, AX 매출 두 배로 키웠다…내년 영업익 1조원 목표(종합)",
+      "summary": "직접 설비투자와 지분 투자, DBO 사업을 합친 전체 AI 인프라 규모는 2031년까지 800MW 이상으로 확대한다는... 초기 전력 용량 60MW 규모의 구미 AI 데이터센터도 다음 달 초 착공식을 진행한다. 기업용 AI 플랫폼과 로봇...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026102915443449694",
+      "date": "Thu, 29 Oct 2026 15:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.ziksir.com/news/articleView.html?idxno=151237": {
+      "title": "삼성전기·LG이노텍, 매출 1조4000억원 '잭팟'···반도체 기판 경쟁 뜨...",
+      "summary": "내년 5월 준공 예정인 베트남 공장에서 범용 기판 생산을 확대하고 국내 구미 사업장은 고부가 제품 개발과... 삼성전기는 대규모 생산시설 확대에 맞춰 안정적인 수주 물량을 확보하고 공장 가동률을 유지해야 하며...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=151237",
+      "date": "Thu, 29 Oct 2026 16:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.fntimes.com/html/view.php?ud=2026102915354564737de3572ddd_18": {
+      "title": "SK이노베이션, 3분기 정유·윤활유 호조에 역대 최대 실적…배터리는 적...",
+      "summary": "SK온은 미국 네오볼타와 약 9GWh 규모의 ESS용 리튬인산철(LFP) 파우치셀 공급계약을 체결했으며, 엘앤에프· 포스코 퓨처엠과 ESS용 LFP 양극재 공급계약을 맺어 소재 조달 기반도 확보했다. 석유개발 사업에서는...",
+      "url": "https://www.fntimes.com/html/view.php?ud=2026102915354564737de3572ddd_18",
+      "date": "Thu, 29 Oct 2026 15:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.nocutnews.co.kr/news/6599301": {
+      "title": "최병욱 \" 포스코 노조 파업 철회해야…경영진도 실질 해법 내놔야\"",
+      "summary": "포스코 노동조합이 다음 달 2일부터 무기한 파업을 예고한 가운데, 포항 지역사회에서 파업이 지역경제... 열고 포스코 노조의 파업 철회와 경영진의 실질적인 합의안 마련을 촉구했다. 최 위원장은 노동조합의 합법적인...",
+      "url": "https://www.nocutnews.co.kr/news/6599301",
+      "date": "Thu, 29 Oct 2026 15:55:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486078": {
+      "title": "반토막 실적에 1조4000억 요구하며 파업… 포스코 노조 향한 시민 분통",
+      "summary": "글로벌 철강 경기 둔화와 수요 침체로 포스코 의 곳간이 반토막 난 비상시국에 포스코 노동조합이 끝내 파업의 깃발을 치켜들었다. 회사가 기본급 인상과 일시금 지급 등 수정안을 거듭 제시하며 타결에 안간힘을...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486078",
+      "date": "Thu, 29 Oct 2026 15:47:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6336528": {
+      "title": "'무기한 파업 D-4' 포스코 노조, 29일 오후 사측과 교섭 나선다",
+      "summary": "임금 협상 결렬로 11월 2일부터 무기한 파업을 예고한 포스코 노조가 29일 오후 포항 본사에서 사측과 29차 실무 교섭에 나선다. 사측은 \"실무교섭에서 본교섭까지 이어지도록 협상에 최선을 다 하겠다\"고 밝혔다....",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6336528",
+      "date": "Thu, 29 Oct 2026 15:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=235356": {
+      "title": "한전기술 8만8900원으로 7.59% 하락…원전 수주와 사업 이행 속도 점검",
+      "summary": "9월에는 포스코 이앤씨와 4세대 소형모듈원자로와 수소환원제철 분야의 기술개발 협력을 확대했다. 기술 협력은 중장기 사업 기반이지만 실제 매출은 별도 계약과 수행 일정이 확정돼야 인식된다. 체코 두코바니...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=235356",
+      "date": "Thu, 29 Oct 2026 15:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=193929": {
+      "title": "공사비 상향한 방배7구역, 하이엔드 수주전 펼쳐질까",
+      "summary": "이번 시공사 선정을 앞두고 대우건설과 포스코 이앤씨, 롯데건설 등이 관심을 보이는 것으로 알려졌다. 포스코 이앤씨와 롯데건설은 인근 정비사업에서도 시공 실적을 확보한 건설사다. 포스코 이앤씨는 방배15구역에...",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193929",
+      "date": "Thu, 29 Oct 2026 15:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "http://weekly.chosun.com/news/articleView.html?idxno=56665": {
+      "title": "27조원 체코 원전 수주 '팀코리아'에 갈라섰다…한수원, 시공사 교체 결...",
+      "summary": "한국수력원자력 이 약 27조원 규모의 체코 두코바니 원전 건설사업에서 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상을 최종 종료했다. 2018년부터 원전 수주를 위해 협력해 온 '팀코리아'의 시공 분야 협력이...",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=56665",
+      "date": "Thu, 29 Oct 2026 15:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한수원",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ODdsSlN0aE0wRENpSGwzaEdyb01scHp3aWs3TmpmSTRpdkFkMWJiQXdPckp5RkdQaVp0dmNWUzdLRHdDU2d4LVUxdnVuUjg2R3pnaGM3UnlXUXNUbm5PQmtXX0o3SnhfdEZMQmM1M3U?oc=5": {
+      "title": "POSCO prioritizes AI driven plant automation over humanoid robots, accelerates autonomous steelworks development - 머니투데이",
+      "summary": "POSCO prioritizes AI driven plant automation over humanoid robots, accelerates autonomous steelworks development 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ODdsSlN0aE0wRENpSGwzaEdyb01scHp3aWs3TmpmSTRpdkFkMWJiQXdPckp5RkdQaVp0dmNWUzdLRHdDU2d4LVUxdnVuUjg2R3pnaGM3UnlXUXNUbm5PQmtXX0o3SnhfdEZMQmM1M3U?oc=5",
+      "date": "Thu, 29 Oct 2026 06:13:56 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: posco",
+      "category": "해외기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    }
+  },
   "ai": {
     "2026-10-28": 17,
-    "2026-10-29": 61
+    "2026-10-29": 62
   },
-  "cursor": 440
+  "cursor": 0,
+  "archive": {
+    "https://www.news1.kr/local/daegu-gyeongbuk/6336581": {
+      "title": "iM뱅크 -가스공사, 지역경제 상생펀드 협약…300억씩 부담",
+      "summary": "iM뱅크 는 29일 한국가스공사와 '더 좋은 지역경제를 위한 상생펀드' 협약을 맺었다고 밝혔다. 두 기관은 300억 원씩 부담하는 상생펀드 운영 기금을 1대 1 매칭 방식으로 조성해 중소기업과 소상공인의 대출 재원으로...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6336581",
+      "date": "Thu, 29 Oct 2026 15:23:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: im뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.mediapen.com/news/view/1133542": {
+      "title": "삼성SDS, 클라우드·물류 성장에 3분기 매출 11%↑… AI 사업 확대",
+      "summary": "지난 8월 건립 에 착수했으며 2028년 준공을 목표로 사업을 진행 중이다. 다음 달 초에는 경북 구미 에서 초기 전력 용량 60MW 규모의 AI 데이터센터 착공식도 개최할 예정이다. 기업용 AI 사업에서는 금융권 수주 성과가...",
+      "url": "https://www.mediapen.com/news/view/1133542",
+      "date": "Thu, 29 Oct 2026 15:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.greened.kr/news/articleView.html?idxno=353425": {
+      "title": "현대百그룹, 실적 회복에 리더십 격상…'안정 속 쇄신'으로 성장판 넓힌...",
+      "summary": "현대백화점그룹은 29일 부회장 2명, 사장 3명, 부사장 3명 등 승진 27명과 전보 23명을 포함한 총 50명 규모의... 현대백화점은 오는 2027년에 부산 에코델타시티에 더현대 부산을 열고, 2028년엔 경북 경산 에 프리미엄아울렛...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=353425",
+      "date": "Thu, 29 Oct 2026 15:57:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "http://www.dailypop.kr/news/articleView.html?idxno=103904": {
+      "title": "삼성SDS, 클라우드부터 항공물류까지…3분기 매출 11.2% 늘었다",
+      "summary": "우정항공의 지분 100%를 인수했다. 삼성SDS는 2025년 3분기 실적을 발표하면서 안정적인 성장이 예상되는 항공 물류와 창고 운영 사업을 강화하겠다는 방침을 밝혔다. 한편, 삼성SDS는 경북 구미 시에 초기 전력...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=103904",
+      "date": "Thu, 29 Oct 2026 15:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.newsway.co.kr/news/view?ud=2026102915443449694": {
+      "title": "삼성SDS, AX 매출 두 배로 키웠다…내년 영업익 1조원 목표(종합)",
+      "summary": "직접 설비투자와 지분 투자, DBO 사업을 합친 전체 AI 인프라 규모는 2031년까지 800MW 이상으로 확대한다는... 초기 전력 용량 60MW 규모의 구미 AI 데이터센터도 다음 달 초 착공식을 진행한다. 기업용 AI 플랫폼과 로봇...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026102915443449694",
+      "date": "Thu, 29 Oct 2026 15:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.ziksir.com/news/articleView.html?idxno=151237": {
+      "title": "삼성전기·LG이노텍, 매출 1조4000억원 '잭팟'···반도체 기판 경쟁 뜨...",
+      "summary": "내년 5월 준공 예정인 베트남 공장에서 범용 기판 생산을 확대하고 국내 구미 사업장은 고부가 제품 개발과... 삼성전기는 대규모 생산시설 확대에 맞춰 안정적인 수주 물량을 확보하고 공장 가동률을 유지해야 하며...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=151237",
+      "date": "Thu, 29 Oct 2026 16:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.fntimes.com/html/view.php?ud=2026102915354564737de3572ddd_18": {
+      "title": "SK이노베이션, 3분기 정유·윤활유 호조에 역대 최대 실적…배터리는 적...",
+      "summary": "SK온은 미국 네오볼타와 약 9GWh 규모의 ESS용 리튬인산철(LFP) 파우치셀 공급계약을 체결했으며, 엘앤에프· 포스코 퓨처엠과 ESS용 LFP 양극재 공급계약을 맺어 소재 조달 기반도 확보했다. 석유개발 사업에서는...",
+      "url": "https://www.fntimes.com/html/view.php?ud=2026102915354564737de3572ddd_18",
+      "date": "Thu, 29 Oct 2026 15:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.nocutnews.co.kr/news/6599301": {
+      "title": "최병욱 \" 포스코 노조 파업 철회해야…경영진도 실질 해법 내놔야\"",
+      "summary": "포스코 노동조합이 다음 달 2일부터 무기한 파업을 예고한 가운데, 포항 지역사회에서 파업이 지역경제... 열고 포스코 노조의 파업 철회와 경영진의 실질적인 합의안 마련을 촉구했다. 최 위원장은 노동조합의 합법적인...",
+      "url": "https://www.nocutnews.co.kr/news/6599301",
+      "date": "Thu, 29 Oct 2026 15:55:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486078": {
+      "title": "반토막 실적에 1조4000억 요구하며 파업… 포스코 노조 향한 시민 분통",
+      "summary": "글로벌 철강 경기 둔화와 수요 침체로 포스코 의 곳간이 반토막 난 비상시국에 포스코 노동조합이 끝내 파업의 깃발을 치켜들었다. 회사가 기본급 인상과 일시금 지급 등 수정안을 거듭 제시하며 타결에 안간힘을...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2486078",
+      "date": "Thu, 29 Oct 2026 15:47:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6336528": {
+      "title": "'무기한 파업 D-4' 포스코 노조, 29일 오후 사측과 교섭 나선다",
+      "summary": "임금 협상 결렬로 11월 2일부터 무기한 파업을 예고한 포스코 노조가 29일 오후 포항 본사에서 사측과 29차 실무 교섭에 나선다. 사측은 \"실무교섭에서 본교섭까지 이어지도록 협상에 최선을 다 하겠다\"고 밝혔다....",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6336528",
+      "date": "Thu, 29 Oct 2026 15:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=235356": {
+      "title": "한전기술 8만8900원으로 7.59% 하락…원전 수주와 사업 이행 속도 점검",
+      "summary": "9월에는 포스코 이앤씨와 4세대 소형모듈원자로와 수소환원제철 분야의 기술개발 협력을 확대했다. 기술 협력은 중장기 사업 기반이지만 실제 매출은 별도 계약과 수행 일정이 확정돼야 인식된다. 체코 두코바니...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=235356",
+      "date": "Thu, 29 Oct 2026 15:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=193929": {
+      "title": "공사비 상향한 방배7구역, 하이엔드 수주전 펼쳐질까",
+      "summary": "이번 시공사 선정을 앞두고 대우건설과 포스코 이앤씨, 롯데건설 등이 관심을 보이는 것으로 알려졌다. 포스코 이앤씨와 롯데건설은 인근 정비사업에서도 시공 실적을 확보한 건설사다. 포스코 이앤씨는 방배15구역에...",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193929",
+      "date": "Thu, 29 Oct 2026 15:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "http://weekly.chosun.com/news/articleView.html?idxno=56665": {
+      "title": "27조원 체코 원전 수주 '팀코리아'에 갈라섰다…한수원, 시공사 교체 결...",
+      "summary": "한국수력원자력 이 약 27조원 규모의 체코 두코바니 원전 건설사업에서 대우건설·두산에너빌리티 컨소시엄과의 시공계약 협상을 최종 종료했다. 2018년부터 원전 수주를 위해 협력해 온 '팀코리아'의 시공 분야 협력이...",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=56665",
+      "date": "Thu, 29 Oct 2026 15:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한수원",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ODdsSlN0aE0wRENpSGwzaEdyb01scHp3aWs3TmpmSTRpdkFkMWJiQXdPckp5RkdQaVp0dmNWUzdLRHdDU2d4LVUxdnVuUjg2R3pnaGM3UnlXUXNUbm5PQmtXX0o3SnhfdEZMQmM1M3U?oc=5": {
+      "title": "POSCO prioritizes AI driven plant automation over humanoid robots, accelerates autonomous steelworks development - 머니투데이",
+      "summary": "POSCO prioritizes AI driven plant automation over humanoid robots, accelerates autonomous steelworks development 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40ODdsSlN0aE0wRENpSGwzaEdyb01scHp3aWs3TmpmSTRpdkFkMWJiQXdPckp5RkdQaVp0dmNWUzdLRHdDU2d4LVUxdnVuUjg2R3pnaGM3UnlXUXNUbm5PQmtXX0o3SnhfdEZMQmM1M3U?oc=5",
+      "date": "Thu, 29 Oct 2026 06:13:56 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: posco",
+      "category": "해외기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_wait_reason": "Groq HTTP 429",
+      "review": "미검토"
+    }
+  },
+  "brief_sent": {},
+  "brief_titles": {},
+  "brief_pending": {},
+  "brief_date": "",
+  "sent_articles": [],
+  "brief_articles": []
 }
