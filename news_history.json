@@ -3333,12 +3333,195 @@
         "scope_label": "관심기업: 포스코퓨처엠"
       },
       "review": "AI 참고 적합"
+    },
+    "http://www.e2news.com/news/articleView.html?idxno=335601": {
+      "title": "가스公- iM뱅크 , '대구 지역경제 활력' 상생펀드 600억원 조성",
+      "summary": "한국가스공사는 iM뱅크 와 28일 대구 수성구 iM뱅크 본사에서 '더 좋은 지역 경제를 위한 상생펀드 업무 협약'을 갱신했다. 이날 협약식에는 홍의락 가스공사 사장과 강정훈 iM뱅크 은행장을 비롯해 양 기관 관계자 10여...",
+      "url": "http://www.e2news.com/news/articleView.html?idxno=335601",
+      "date": "Fri, 30 Oct 2026 00:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "가스公- iM뱅크 , '대구 지역경제 활력' 상생펀드 600억원 조성",
+        "provider": "gemini",
+        "scope_label": "관심기업: iM뱅크"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=01252966645618168&mediaCodeNo=257": {
+      "title": "iM뱅크 -가스공사, 상생펀드 600억원으로 확대…대구·경북 기업 지원",
+      "summary": "iM뱅크 와 한국가스공사가 대구·경북 중소기업과 소상공인을 지원하는 상생펀드 규모를 200억원에서 600억원으로 늘린다. 두 기관이 각각 300억원씩 부담해 지역기업에 대출 재원을 공급할 계획이다. iM뱅크 는 지난 28일...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01252966645618168&mediaCodeNo=257",
+      "date": "Fri, 30 Oct 2026 00:49:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "iM뱅크 -가스공사, 상생펀드 600억원으로 확대…대구·경북 기업 지원",
+        "provider": "gemini",
+        "scope_label": "관심기업: iM뱅크"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.ajunews.com/view/20261030014855318": {
+      "title": "경주시, 골든기업 5곳 선정…최대 2100만원 지원",
+      "summary": "[사진=경주시] 경북 경주시는 제이와이오토텍㈜, 태영테크㈜, 성일기업㈜, ㈜신주, ㈜에스제이메탈 등... 해당 사업비는 3년 간 지원하며 지방세 세무조사 도 3년 간 유예한다. 선정 기업에는 5년 간 시 기업지원사업...",
+      "url": "https://www.ajunews.com/view/20261030014855318",
+      "date": "Fri, 30 Oct 2026 05:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "핵심 사건 분류 불일치",
+      "review": "미검토"
+    },
+    "http://www.newstown.co.kr/news/articleView.html?idxno=720175": {
+      "title": "경주시, 성장 유망 중소기업 5곳 '골든기업' 선정…5년간 집중 육성",
+      "summary": "이날 행사에는 주낙영 경주시장과 송호준 경상북도 경제진흥원 본부장, 선정기업 대표 등이 참석해 지정서를... 관련 사업비는 3년간 지원되며, 지방세 세무조사 도 같은 기간 유예된다. 또한 지정기간인 5년 동안 경주시가...",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=720175",
+      "date": "Thu, 29 Oct 2026 23:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "핵심 사건 분류 불일치",
+      "review": "미검토"
+    },
+    "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/": {
+      "title": "[단독] 대동 USA, 전 경영진 ‘사익 편취’ 재판으로…횡령 주장은 제동",
+      "summary": "대동 USA 前 경영진, 외주계약 사익 편취 의혹 전 경영진 외주 업체에 20만달러 건네 대여금인가 투자금인가…재판서 쟁점 농기계 기업 대동 의 미국 법인 대동 USA가 업무 외주화 과정에서 사익을 챙겼다며 전직 경영진 등을...",
+      "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/",
+      "date": "Fri, 30 Oct 2026 06:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "세무 조사·혐의 관련",
+      "priority": 95,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.newspim.com/news/view/20261029000833": {
+      "title": "내년 자사주 소각 수혜株…미래에셋·HD현대· 포스코 '주목'",
+      "summary": "◆ 미래에셋 2조6500억 최대…HD현대· 포스코 도 1조 넘어 29일 금융투자업계에 따르면, 내년부터 기업은... 이어 한화생명 5400억원, 신한지주 4800억원, 고려아연 4400억원, 포스코 인터내셔널 3000억원 순이다. 한샘과...",
+      "url": "https://www.newspim.com/news/view/20261029000833",
+      "date": "Fri, 30 Oct 2026 06:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "세무 검토 참고",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NWHl1LTNiVm9hLTVkS0t5ZVZiZ0k0eHZwYUJuenNkM0hHRUIzMm5QalpvNDNlQkFULTJ0dEE5UUVMTU9ZQ0tIcmttWVYxRDZtSjNUWWhuUy1xck02OUJ4RDZHekZGNlhxNzllYQ?oc=5": {
+      "title": "[포스코 임단협⑭] 무기한 파업 '초읽기'…노조, 장기전 대비 재정 마련 - 페로타임즈",
+      "summary": "[포스코 임단협⑭] 무기한 파업 '초읽기'…노조, 장기전 대비 재정 마련 페로타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NWHl1LTNiVm9hLTVkS0t5ZVZiZ0k0eHZwYUJuenNkM0hHRUIzMm5QalpvNDNlQkFULTJ0dEE5UUVMTU9ZQ0tIcmttWVYxRDZtSjNUWWhuUy1xck02OUJ4RDZHekZGNlhxNzllYQ?oc=5",
+      "date": "Thu, 29 Oct 2026 15:00:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[포스코 임단협⑭] 무기한 파업 '초읽기'",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코"
+      },
+      "review": "AI 참고 적합"
     }
   },
-  "brief_sent": {},
-  "brief_titles": {},
-  "brief_pending": {},
-  "brief_date": "",
+  "brief_sent": {
+    "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/": "2026-10-30T08:02:40.437199+09:00",
+    "http://www.e2news.com/news/articleView.html?idxno=335601": "2026-10-30T08:02:40.437199+09:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NWHl1LTNiVm9hLTVkS0t5ZVZiZ0k0eHZwYUJuenNkM0hHRUIzMm5QalpvNDNlQkFULTJ0dEE5UUVMTU9ZQ0tIcmttWVYxRDZtSjNUWWhuUy1xck02OUJ4RDZHekZGNlhxNzllYQ?oc=5": "2026-10-30T08:02:40.437199+09:00"
+  },
+  "brief_titles": {
+    "e084b2c8e37e47794e019f3ab9bd2c2cff0f188048649328b84519ae2148a59c": "2026-10-30T08:02:40.437199+09:00",
+    "9c6be4913e53ba9f889eb0e4486c6b618e3aa799cfa67c97837faaa47a90e03a": "2026-10-30T08:02:40.437199+09:00",
+    "23187613ff4d1252d07c29e35665aacebf09309c890bd108bc2adccb95a5da1c": "2026-10-30T08:02:40.437199+09:00"
+  },
+  "brief_pending": {
+    "https://www.ajunews.com/view/20261030014855318": {
+      "title": "경주시, 골든기업 5곳 선정…최대 2100만원 지원",
+      "summary": "[사진=경주시] 경북 경주시는 제이와이오토텍㈜, 태영테크㈜, 성일기업㈜, ㈜신주, ㈜에스제이메탈 등... 해당 사업비는 3년 간 지원하며 지방세 세무조사 도 3년 간 유예한다. 선정 기업에는 5년 간 시 기업지원사업...",
+      "url": "https://www.ajunews.com/view/20261030014855318",
+      "date": "Fri, 30 Oct 2026 05:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "핵심 사건 분류 불일치",
+      "review": "미검토"
+    },
+    "http://www.newstown.co.kr/news/articleView.html?idxno=720175": {
+      "title": "경주시, 성장 유망 중소기업 5곳 '골든기업' 선정…5년간 집중 육성",
+      "summary": "이날 행사에는 주낙영 경주시장과 송호준 경상북도 경제진흥원 본부장, 선정기업 대표 등이 참석해 지정서를... 관련 사업비는 3년간 지원되며, 지방세 세무조사 도 같은 기간 유예된다. 또한 지정기간인 5년 동안 경주시가...",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=720175",
+      "date": "Thu, 29 Oct 2026 23:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "핵심 사건 분류 불일치",
+      "review": "미검토"
+    },
+    "https://www.newspim.com/news/view/20261029000833": {
+      "title": "내년 자사주 소각 수혜株…미래에셋·HD현대· 포스코 '주목'",
+      "summary": "◆ 미래에셋 2조6500억 최대…HD현대· 포스코 도 1조 넘어 29일 금융투자업계에 따르면, 내년부터 기업은... 이어 한화생명 5400억원, 신한지주 4800억원, 고려아연 4400억원, 포스코 인터내셔널 3000억원 순이다. 한샘과...",
+      "url": "https://www.newspim.com/news/view/20261029000833",
+      "date": "Fri, 30 Oct 2026 06:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "세무 검토 참고",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    }
+  },
+  "brief_date": "2026-10-30",
   "sent_articles": [
     {
       "url": "http://www.datanews.co.kr/news/article.html?no=147230",
@@ -3486,9 +3669,26 @@
       "date": "Thu, 29 Oct 2026 12:10:03 GMT"
     }
   ],
-  "brief_articles": [],
+  "brief_articles": [
+    {
+      "url": "https://biz.chosun.com/industry/business-venture/2026/10/30/T6W22B2TJFEQTAV45NZDZH7C5U/",
+      "title": "[단독] 대동 USA, 전 경영진 ‘사익 편취’ 재판으로…횡령 주장은 제동",
+      "date": "Fri, 30 Oct 2026 06:38:00 +0900"
+    },
+    {
+      "url": "http://www.e2news.com/news/articleView.html?idxno=335601",
+      "title": "가스公- iM뱅크 , '대구 지역경제 활력' 상생펀드 600억원 조성",
+      "date": "Fri, 30 Oct 2026 00:56:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NWHl1LTNiVm9hLTVkS0t5ZVZiZ0k0eHZwYUJuenNkM0hHRUIzMm5QalpvNDNlQkFULTJ0dEE5UUVMTU9ZQ0tIcmttWVYxRDZtSjNUWWhuUy1xck02OUJ4RDZHekZGNlhxNzllYQ?oc=5",
+      "title": "[포스코 임단협⑭] 무기한 파업 '초읽기'…노조, 장기전 대비 재정 마련 - 페로타임즈",
+      "date": "Thu, 29 Oct 2026 15:00:00 GMT"
+    }
+  ],
   "gemini_ai": {
-    "2026-10-29": 25
+    "2026-10-29": 25,
+    "2026-10-30": 3
   },
   "ai_cooldowns": {}
 }
