@@ -875,7 +875,17 @@
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577796381876": "2026-10-29T11:02:04.400625+09:00",
     "https://biz.chosun.com/industry/company/2026/10/29/45PVO5IHG5HWFC4EUSNMAATPTY/": "2026-10-29T11:02:04.400625+09:00",
     "http://www.iminju.net/news/articleView.html?idxno=171577": "2026-10-29T11:02:04.400625+09:00",
-    "https://www.ajunews.com/view/20261029103710857": "2026-10-29T11:02:04.400625+09:00"
+    "https://www.ajunews.com/view/20261029103710857": "2026-10-29T11:02:04.400625+09:00",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=283296": "2026-10-29T12:01:59.916225+09:00",
+    "http://www.efnews.co.kr/news/articleView.html?idxno=133564": "2026-10-29T12:01:59.916225+09:00",
+    "https://www.kbsm.net/news/view.php?idx=539610": "2026-10-29T12:01:59.916225+09:00",
+    "https://www.delighti.co.kr/news/articleView.html?idxno=124086": "2026-10-29T12:01:59.916225+09:00",
+    "http://www.econonews.co.kr/news/articleView.html?idxno=446410": "2026-10-29T12:01:59.916225+09:00",
+    "https://magazine.hankyung.com/business/article/202610293073b": "2026-10-29T12:01:59.916225+09:00",
+    "https://www.seoultimes.news/news/article.html?no=2000101524": "2026-10-29T12:01:59.916225+09:00",
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=396535": "2026-10-29T12:01:59.916225+09:00",
+    "https://www.kpinews.kr/newsView/1065579093452631": "2026-10-29T12:01:59.916225+09:00",
+    "https://byline.network/?p=9004111222625253": "2026-10-29T12:01:59.916225+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1253,14 +1263,24 @@
     "352cb877152f824c8672c52ac4c7baf3d2b4a76aee3e457373261bdec8554822": "2026-10-29T11:02:04.400625+09:00",
     "6cfd690196525782802e51c1637293ed2c170a89d8bbb1e0aa88c5aa319110f2": "2026-10-29T11:02:04.400625+09:00",
     "4d667ca1d4db792d01255283a10dc4c3495648968bc48e075ae36975fbe0c1b4": "2026-10-29T11:02:04.400625+09:00",
-    "b663389a718616ad0859a7266a3166c59f9b860bcc135d4cb7eff2f5a557812d": "2026-10-29T11:02:04.400625+09:00"
+    "b663389a718616ad0859a7266a3166c59f9b860bcc135d4cb7eff2f5a557812d": "2026-10-29T11:02:04.400625+09:00",
+    "35ca9216b08dd28a48a22f3916f8bd2fdec4ee254df73afac57f10f547eb1bc6": "2026-10-29T12:01:59.916225+09:00",
+    "31b8e0ec03b9d8d8758855ba0fbb71ace6f8ff6a23411ee91478c39ebd1bf9ea": "2026-10-29T12:01:59.916225+09:00",
+    "395025b5caea0581852c8ead4692ec0d26fcb05c5b39c888642959b9ec95c80c": "2026-10-29T12:01:59.916225+09:00",
+    "a2948011edac100f29c84540bcf8b2911d69cc4a478c82bccedcf6da80158e5c": "2026-10-29T12:01:59.916225+09:00",
+    "2c708d48e203bd71914b4984eb3159546ea61a825090f876ac5a0354cbb1d0f3": "2026-10-29T12:01:59.916225+09:00",
+    "629bfcbcda97a824aac779876630640ab7d41ddd2205ce89d3c88f8f14608e3f": "2026-10-29T12:01:59.916225+09:00",
+    "971c659fddde7877f2673e5b101b809f078e3ba9b2582f64a72b17acbd3efdba": "2026-10-29T12:01:59.916225+09:00",
+    "7b7c15e3df461e3a94147e1a679abeea0c1ff58a0c4ba805eac4bf7290a1c3a9": "2026-10-29T12:01:59.916225+09:00",
+    "e66a3a2b7eb07fc31047ee39187fd53a9b798d62c22f554b0cb9a48786438d11": "2026-10-29T12:01:59.916225+09:00",
+    "baedc86da428973313c74701db0c64fcc1325255aee1baa4909b43ba6a4fb0a8": "2026-10-29T12:01:59.916225+09:00"
   },
   "pending": {
-    "https://www.businessplus.kr/news/articleView.html?idxno=118921": {
-      "title": "삼성SDS 3분기 매출 3.7조·영업익 2410억…클라우드·물류 실적 견인",
-      "summary": "지난 8월 착공한 국가 AI 컴퓨팅센터는 2028년 준공을 목표로 건립 이 진행 중이다. 또한 초기 전력 용량 60MW 규모의 경북 구미 AI 데이터센터 착공식을 오는 11월 초 개최할 예정이다. AX 및 AI 서비스 영역에서는 금융권...",
-      "url": "https://www.businessplus.kr/news/articleView.html?idxno=118921",
-      "date": "Thu, 29 Oct 2026 10:28:00 +0900",
+    "https://www.news2day.co.kr/article/20261029500179": {
+      "title": "삼성SDS, 3Q 영업익 2410억원…클라우드·물류 성장에 실적 개선(상보)",
+      "summary": "경북 구미시에 조성하는 초기 전력 용량 60MW 규모의 AI 데이터센터는 오는 11월 초 착공식을 진행할... AI 협업 솔루션 '브리티웍스(Brity Works)'는 경찰청 을 비롯한 정부 부처로 도입이 확산되면서 공공 부문 누적...",
+      "url": "https://www.news2day.co.kr/article/20261029500179",
+      "date": "Thu, 29 Oct 2026 11:06:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1270,11 +1290,11 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "https://www.joongangenews.com/news/articleView.html?idxno=559407": {
-      "title": "삼성SDS, 3분기 매출 3.7조·영업익 2410억…클라우드·물류 동반 성장",
-      "summary": "지난 8월에는 정부의 AI 3대 강국 도약을 위한 국가 AI 컴퓨팅센터 건립 에도 착수했다. 해당 센터는 2028년... 삼성SDS는 다음 달 초 경북 구미 시에 초기 전력 용량 60MW 규모의 AI 데이터센터 착공식도 진행할 예정이다....",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=559407",
-      "date": "Thu, 29 Oct 2026 10:26:00 +0900",
+    "https://news.dealsitetv.com/articles/177715": {
+      "title": "삼성SDS, 3Q 매출 3.7조…클라우드·물류 성장세",
+      "summary": "지난 8월에는 국가 AI 컴퓨팅센터 건립 에 착수했으며 2028년 준공을 목표로 하고 있다. 금융권에서는 AI... 경북 구미 에 조성하는 초기 전력 용량 60MW 규모 AI 데이터센터는 11월 초 착공식을 열 예정이다.",
+      "url": "https://news.dealsitetv.com/articles/177715",
+      "date": "Thu, 29 Oct 2026 11:34:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1284,11 +1304,11 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "https://www.edaily.co.kr/News/Read?newsId=03794966645617840&mediaCodeNo=257": {
-      "title": "삼성SDS, 3분기 영업이익 2410억원…클라우드·물류 동반 성장",
-      "summary": "지난 8월에는 정부의 AI 3대 강국 도약을 위한 ‘국가 AI 컴퓨팅센터’ 건립 에 착수했다. 2028년 준공을... 한편 삼성SDS는 경북 구미 시에 초기 전력 용량 60MW 규모로 조성할 구미 AI 데이터센터 착공식을 11월 초 진행할...",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03794966645617840&mediaCodeNo=257",
-      "date": "Thu, 29 Oct 2026 10:18:00 +0900",
+    "https://www.mydaily.co.kr/page/view/2026102911235856575": {
+      "title": "삼성SDS, 클라우드·물류 동반 성장…3분기 매출 3.8조원",
+      "summary": "지난 8월에는 국가 AI 컴퓨팅센터 건립 에 착수했다. 준공 목표는 2028년이다. 초기 전력 용량 60MW 규모의 경북 구미 AI 데이터센터도 내달 초 착공할 예정이다. 금융권에서는 AI·데이터 플랫폼 구축 사업을 수주한 데...",
+      "url": "https://www.mydaily.co.kr/page/view/2026102911235856575",
+      "date": "Thu, 29 Oct 2026 11:25:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1298,11 +1318,11 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499592": {
-      "title": "레벨 4 자율주행 시대 성큼… \"개발 기대보다 공급 실적 따져야\"",
-      "summary": "에지파운드리, 코리아에프티, 에이테크솔루션, 기아, 한국단자, DH오토웨어, 현대모비스, 삼보모터스 , 모트렉스, KG모빌리티, 현대차, HL만도, 다산디엠씨, 유진로봇, 삼현, LG전자 등도 약세를 보였다. 완성차 업체의...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499592",
-      "date": "Thu, 29 Oct 2026 10:16:00 +0900",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=303715": {
+      "title": "삼성SDS 3분기 영업이익 2410억, 전년比 3.7%↑…클라우드·물류 동반 성...",
+      "summary": "지난 8월에는 정부의 AI 3대 강국 도약을 위한 국가 AI 컴퓨팅센터 건립 에도 착수했다. 해당 센터는 2028년... 삼성SDS는 다음 달 초 경북 구미 시에 초기 전력 용량 60㎿ 규모의 AI 데이터센터 착공식도 진행할 예정이다.",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=303715",
+      "date": "Thu, 29 Oct 2026 11:12:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1312,11 +1332,11 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=172710": {
-      "title": "삼성SDI, 3분기 영업이익 4078억, 전년比 '흑자 전환'...전문가 진단은?",
-      "summary": "포스코퓨처엠(-4.38%), 에코프로 비엠(-5.74%) 등도 동반 급락세를 기록 중이다. 같은 시각 코스피 지수는 전일 대비 0.75% 하락한 5973.71에서 움직이는 중이다. 초이스경제는 그러나 \"이 기사는 단순한 참고용 자료로만...",
-      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=172710",
-      "date": "Thu, 29 Oct 2026 10:22:00 +0900",
+    "https://www.etnews.com/20261029000197": {
+      "title": "삼성SDS, 3분기 매출 3조7725억원…클라우드·AI·물류 성장",
+      "summary": "지난 8월 착수한 국가AI컴퓨팅센터 건립 사업은 2028년 준공을 목표로 추진하고 있다. 또 AI 서비스... 삼성SDS는 11월 초 경북 구미 에서 초기 전력 용량 60MW 규모 AI 데이터센터 착공식도 개최할 예정이다.",
+      "url": "https://www.etnews.com/20261029000197",
+      "date": "Thu, 29 Oct 2026 11:10:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1326,11 +1346,11 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "https://www.thepowernews.co.kr/view.php?ud=202610290858593911caa2b7671d_7": {
-      "title": "김정희 의원, 광양경자청 투자·고용 실적 지적…“구체적 실행 필요”",
-      "summary": "특히 올해 12월 투자가 예정된 포스코 인터내셔널의 1조원 규모 사업을 집중적으로 언급했다. 김 의원은 “올해 12월 투자 예정인 포스코 인터내셔널의 1조 원 규모 사업의 경우, 핵심 절차인 발전사업 허가 신청이 10월에야...",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202610290858593911caa2b7671d_7",
-      "date": "Thu, 29 Oct 2026 10:22:00 +0900",
+    "https://www.newsian.co.kr/news/articleView.html?idxno=100207": {
+      "title": "삼성SDS, '클라우드·물류' 날개 달고 3Q 매출 3.7조…'AI 영토' 확장",
+      "summary": "오는 11월 초에는 경북 구미 시에 초기 60㎽ 전력 용량 규모의 AI 데이터센터 착공식을 열고 자체 인프라... 또한 항공 화물 혼재 전문 기업인 '우정항공' 지분 100%를 인수해 인천공항 중심의 아시아 환적 화물 등...",
+      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=100207",
+      "date": "Thu, 29 Oct 2026 11:56:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1340,80 +1360,11 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "https://www.fnnews.com/news/202610291003332769": {
-      "title": "체코 원전 수주 전부터 이견…시공계약 결국 결렬, 새 시공사 찾는다",
-      "summary": "체코 두코바니 신규 원전 건설사업에서 한국수력원자력 과 대우건설·두산에너빌리티 컨소시엄 간 시공계약 협상이 최종 결렬됐다. 공사비와 계약방식, 위험분담 등을 둘러싼 이견을 좁히지 못하면서 한수원이 신규...",
-      "url": "https://www.fnnews.com/news/202610291003332769",
-      "date": "Thu, 29 Oct 2026 10:11:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "경제·투자",
-      "priority": 80,
-      "needs_ai": false,
-      "filter_version": 8
-    },
-    "https://www.widedaily.com/news/articleView.html?idxno=302469": {
-      "title": "클라우드·물류 쌍끌이 호실적…삼성SDS, 3분기 영업익 2410억원 '활짝'",
-      "summary": "컴퓨팅센터 건립 에도 착수했다. 아울러 다수의 금융사 AI 플랫폼 구축 사업을 따내고, AI 협업 솔루션... 내달 초에는 경북 구미 에 60MW 규모의 AI 데이터센터 착공식을 열고 핵심 인프라 확충에 박차를 가할 예정이다.",
-      "url": "https://www.widedaily.com/news/articleView.html?idxno=302469",
-      "date": "Thu, 29 Oct 2026 10:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    },
-    "https://www.mt.co.kr/tech/2026/10/29/2026102910281041576": {
-      "title": "'클라우드 항공·해상물류 성장'…삼성SDS 3Q 매출 3.7조원, 전년比 11%↑",
-      "summary": "삼성SDS는 지난 8월 정부의 AI 3대 강국 도약을 위한 '국가 AI 컴퓨팅센터' 건립 에 착수했으며 2028년 준공이... 한편 삼성SDS는 경북 구미 시에 초기 전력 용량 60㎿ 규모로 조성될 구미 AI 데이터센터 착공식을 11월 초...",
-      "url": "https://www.mt.co.kr/tech/2026/10/29/2026102910281041576",
-      "date": "Thu, 29 Oct 2026 10:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    },
-    "https://www.sentv.co.kr/article/view/sentv202610290098": {
-      "title": "삼성SDS, 클라우드·물류 동반 성장에 3분기 실적 개선",
-      "summary": "지난 8월 착수한 국가 AI 컴퓨팅센터 건립 사업도 2028년 준공을 목표로 추진하고 있다. 금융권 AX... 한편, 삼성SDS는 경북 구미 시에 초기 전력 용량 60MW 규모의 AI 데이터센터를 조성하고 있으며, 오는 11월 초 착공식을...",
-      "url": "https://www.sentv.co.kr/article/view/sentv202610290098",
-      "date": "Thu, 29 Oct 2026 10:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    },
-    "https://www.moneystorm.kr/news/articleView.html?idxno=7797": {
-      "title": "삼성SDS, 3분기 영업익 2410억원 3.7%↑…클라우드·물류 성장에 매출은...",
-      "summary": "경북 구미 시에 초기 전력 용량 60㎿ 규모로 조성하는 구미 AI 데이터센터도 11월 초 착공식을 열 예정이다.... 삼성SDS는 항공 화물 혼재 전문 기업 우정항공 지분 100%를 인수했다. 이를 통해 인천발 화물과 아시아발...",
-      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7797",
-      "date": "Thu, 29 Oct 2026 10:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 8,
-      "review": "미검토"
-    },
-    "https://www.kbsm.net/news/view.php?idx=539568": {
-      "title": "경주 시, 골든기업 5곳 선정…지역 대표기업 육성 박차",
-      "summary": "맞춤형 사업비와 행사 운영비는 3년간 지원하며, 지방세 세무조사 도 3년간 유예한다.또 5년간 경주 시 기업 지원사업 선정 시 우선 지원과 가점 부여, 중소기업 운전자금 융자 한도 최대 7억원 우대 등의 혜택을 제공한다....",
-      "url": "https://www.kbsm.net/news/view.php?idx=539568",
-      "date": "Thu, 29 Oct 2026 10:42:00 +0900",
+    "https://www.kbmaeil.com/article/20261029500303": {
+      "title": "경주 시, 우수 중소기업 5곳 ‘골든기업’ 선정…최대 2100만원 지원",
+      "summary": "기업당 최대 2100만원의 사업비를 지원하고, 운전자금 융자 한도 우대와 세무조사 유예 등으로 성장을 뒷받침한다. 경주 시는 지난 27일 시청 대외협력실에서 ‘2026년 경주 시 골든기업 지정서 수여식’을 열었다. 올해...",
+      "url": "https://www.kbmaeil.com/article/20261029500303",
+      "date": "Thu, 29 Oct 2026 11:24:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1423,11 +1374,25 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "https://daily.hankooki.com/news/articleView.html?idxno=1419620": {
-      "title": "삼성SDS, 3분기 매출 3.8조원…클라우드·물류 동반 성장",
-      "summary": "물류 분야에서는 항공화물 전문기업 우정항공 지분 100%를 인수해 항공 운송 사업을 확대한다. 삼성SDS는 다음달 초 경북 구미 에서 초기 전력 용량 60MW 규모의 AI 데이터센터 착공식을 개최할 예정이다.",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419620",
-      "date": "Thu, 29 Oct 2026 10:42:00 +0900",
+    "https://news.skbroadband.com/news/articleView.html?idxno=241667": {
+      "title": "어머니 집 사며 법인 돈 빌려…부동산 위법 의심 678건",
+      "summary": "주택 4채를 가진 사람이 경북 의 아파트 3채를 동생에게 팔았다가 7개월 만에 다시 사들인 사례도... 국토부는 1세대 1주택 양도소득세 비과세를 노린 명의신탁으로 의심해 경찰청 에 수사를 의뢰할 예정입니다. 서울...",
+      "url": "https://news.skbroadband.com/news/articleView.html?idxno=241667",
+      "date": "Thu, 29 Oct 2026 11:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=04037686645617840&mediaCodeNo=257": {
+      "title": "양도세 피하려 동생과 허위거래…부동산 위법의심 678건 적발",
+      "summary": "대표적인 사례는 경북 에서 발생했다. 주택 4채를 보유한 A씨는 지난해 7월 경북 의 한 군에 있는 아파트... 유형별로는 편법 증여 와 특수관계인 차입금 과다 등이 275건으로 가장 많았다. 가격·계약일 거짓신고 등은 122건...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04037686645617840&mediaCodeNo=257",
+      "date": "Thu, 29 Oct 2026 11:02:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1437,11 +1402,11 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "https://www.sedaily.com/article/20107621?ref=naver": {
-      "title": "삼성SDS, 3분기 영업이익 2410억… 클라우드 사업 성장",
-      "summary": "경북 구미시에 초기 전력 용량 60㎿ 규모로 조성될 구미 AI 데이터센터 착공식도 11월 초 진행할 예정이다.... AI 플랫폼∙솔루션 영역에서는 AI 협업 솔루션 브리티웍스가 최근 경찰청 을 비롯해 주요 정부 부처로...",
-      "url": "https://www.sedaily.com/article/20107621?ref=naver",
-      "date": "Thu, 29 Oct 2026 10:49:00 +0900",
+    "https://www.ajunews.com/view/20261029084036210": {
+      "title": "부동산 이상거래 678건 적발…직거래 10건 중 4건 강남3구",
+      "summary": "전국 주택 직거래 351건·수도권 아파트 327건 적발 직거래 적발 64% 서울 집중…편법 증여 ·명의신탁 등 의심... 주택 4채를 보유한 매도인은 지난해 7월 경북 소재 아파트 3채를 동생에게 팔았다가 7개월 뒤 다시...",
+      "url": "https://www.ajunews.com/view/20261029084036210",
+      "date": "Thu, 29 Oct 2026 11:02:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1451,23 +1416,162 @@
       "filter_version": 8,
       "review": "미검토"
     },
-    "https://www.ggilbo.com/news/articleView.html?idxno=1189825": {
-      "title": "제천시, 제4산단 투자유치 본격화",
-      "summary": "이를 위해 충북도와 함께 서울 마포와 양재에 상주 하는 투자유치전문관을 통해 기업과 수시로 협의할... 산업용지와 전력, 용수 확보는 물론 지역 내 고용 인력과 근로자 정주 공간 마련을 위해 관련 부서와 긴밀히...",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189825",
-      "date": "Thu, 29 Oct 2026 10:42:00 +0900",
+    "https://www.etoday.co.kr/news/view/2641459": {
+      "title": "모친 건물 사고 동생 회사서 돈 빌리고…부동산 이상거래 678건 적발",
+      "summary": "140건…편법 증여 ·명의신탁 등 의심 모친 소유 건물을 55억원에 사들이면서 가족이 운영하는 회사에서... 주택 4채를 보유한 매도인이 지난해 7월 경북 소재 아파트 3채를 동생에게 매도한 뒤 올해 2월 다시 사들인...",
+      "url": "https://www.etoday.co.kr/news/view/2641459",
+      "date": "Thu, 29 Oct 2026 11:02:00 +0900",
       "channels": [
         "domestic"
       ],
-      "category": "경제·투자",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=877537": {
+      "title": "삼성SDS, 클라우드·물류 쌍끌이 성장…3분기 매출 3.8조 돌파",
+      "summary": "삼성SDS는 항공 화물 전문기업 우정항공 지분 100%를 인수하며 인천발 및 아시아발 환적 화물 중심으로... 한편, 삼성SDS는 오는 11월 초 경북 구미 에 초기 전력 용량 60MW 규모의 AI 데이터센터를 착공할 계획이다.",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877537",
+      "date": "Thu, 29 Oct 2026 11:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "http://www.inews24.com/view/2020317": {
+      "title": "삼성SDS, 3분기 매출 3.77조·영업익 2410억⋯물류 매출 2조 돌파",
+      "summary": "삼성 계열사 현장에서 로봇 실증 사업도 추진하고 있다. 항공 화물 혼재 전문기업 우정항공 지분 100%를 인수했으며, 오는 11월 초 경북 구미 에서 초기 전력 용량 60MW 규모 AI 데이터센터 착공식을 열 예정이다.",
+      "url": "http://www.inews24.com/view/2020317",
+      "date": "Thu, 29 Oct 2026 11:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.yna.co.kr/view/AKR20261029091100008?input=1195m": {
+      "title": "코스피, '세부실적' 삼성전자 급락에 하락전환…2%대 하락세",
+      "summary": "시가총액 상위 종목 중에서는 제주반도체(0.72%)를 제외한 대다수의 종목이 '파란 불'을 켰다. 대표적으로 알테오젠(-2.02%), 에코프로 (-5.48%), 에코프로 비엠(-6.56%), 주성엔지니어링(-4.85%) 등이 내리고 있다.",
+      "url": "https://www.yna.co.kr/view/AKR20261029091100008?input=1195m",
+      "date": "Thu, 29 Oct 2026 11:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
       "priority": 80,
       "needs_ai": false,
       "filter_version": 8
+    },
+    "https://view.asiae.co.kr/article/2026102911264115632": {
+      "title": "SK이노베이션, 석유 수출마진·윤활유 '쌍끌이'…3분기 영업익 3조7043억...",
+      "summary": "미국 네오볼타와 약 9GWh 규모의 에너지저장장치(ESS)용 리튬인산철(LFP) 파우치셀 공급계약을 맺고, 엘앤에프· 포스코 퓨처엠과 LFP 양극재 공급계약을 체결하는 등 북미 ESS 사업 기반도 다지고 있다. 4분기에도 석유...",
+      "url": "https://view.asiae.co.kr/article/2026102911264115632",
+      "date": "Thu, 29 Oct 2026 11:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.joongangenews.com/news/articleView.html?idxno=559452": {
+      "title": "SK이노베이션, 3분기 영업익 3.7조 '역대 최대'...정유·윤활유가 실적 ...",
+      "summary": "최근 미국 에너지저장장치 기업 네오볼타와 약 9기가와트시(GWh) 규모의 ESS용 리튬인산철(LFP) 파우치셀 공급계약을 체결했으며, 엘앤에프 와 포스코퓨처엠 등 국내 소재업체들과 ESS용 LFP 양극재 공급계약도 확보했다....",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=559452",
+      "date": "Thu, 29 Oct 2026 11:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "http://www.popcornnews.net/news/articleView.html?idxno=137877": {
+      "title": "SK이노베이션, 3분기 영업익 3조7043억…정유·윤활유 실적 호조",
+      "summary": "엘앤에프 와 포스코퓨처엠 등 국내 소재업체와도 ESS용 LFP 양극재 공급계약을 맺으며 소재 조달 기반을 강화했다. 배터리 분리막 사업을 담당하는 SK아이이테크놀로지는 매출 414억 원과 영업손실 368억원을 기록했다....",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=137877",
+      "date": "Thu, 29 Oct 2026 11:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "http://www.inews24.com/view/2020330": {
+      "title": "0%→19.87%로 뛴 美 관세…세아·현대, 국제무역법원 제소",
+      "summary": "포스코 는 지난달 29일 냉연강판 상계관세 판정에 불복해 소송을 제기했고, LS일렉트릭은 같은 달 11일 변압기 반덤핑 판정을 법정으로 가져갔다. 세아제강과 현대스틸파이프·현대제철이 소장을 제출하면 상무부가...",
+      "url": "http://www.inews24.com/view/2020330",
+      "date": "Thu, 29 Oct 2026 11:17:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.topdaily.kr/articles/112567": {
+      "title": "실적 반등한 대우건설, 체코 원전 시공 결렬 '찬물'",
+      "summary": "29일 한국수력원자력 (이하 한수원)에 따르면 대우건설-두산에너빌리티 컨소시엄의 체코 두코바니 원전 사업 시공 계약 협상이 끝내 결렬됐다. 한수원은 \"그동안 실무협상, 이견조정위원회 및 경영진 협상 등을 통해...",
+      "url": "https://www.topdaily.kr/articles/112567",
+      "date": "Thu, 29 Oct 2026 11:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4441877": {
+      "title": "코스피, 삼성전자 실적 발표 후 2%대 급락…6천선 다시 하회",
+      "summary": "여기에 한국수력원자력 과 대우건설·두산에너빌리티 컨소시엄의 체코 원전 시공계약 협상 결렬 소식까지 겹치며 투자심리가 급격히 위축됐다. 29일 코스피는 전 거래일보다 145.14포인트(2.41%) 하락한 5,867.30을...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441877",
+      "date": "Thu, 29 Oct 2026 11:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SDBQSnU2QVAxODMwYWJRTXcybDc2eEtJa2tRS1pDZm45S1hFNE0zeERERlpyWFoyRjc5YnEtTm9SRnlCNWVKb0tuUExZUHhobEpLVzNaTnFmMWozVHQ2Mzd0TVc?oc=5": {
+      "title": "iM뱅크, 한국가스공사와 ‘더 좋은 지역경제를 위한 상생펀드’ 업무협약 확대 - 매일일보",
+      "summary": "iM뱅크, 한국가스공사와 ‘더 좋은 지역경제를 위한 상생펀드’ 업무협약 확대 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SDBQSnU2QVAxODMwYWJRTXcybDc2eEtJa2tRS1pDZm45S1hFNE0zeERERlpyWFoyRjc5YnEtTm9SRnlCNWVKb0tuUExZUHhobEpLVzNaTnFmMWozVHQ2Mzd0TVc?oc=5",
+      "date": "Thu, 29 Oct 2026 02:09:52 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
     }
   },
   "ai": {
     "2026-10-28": 17,
-    "2026-10-29": 27
+    "2026-10-29": 35
   },
   "cursor": 0,
   "archive": {
@@ -2270,6 +2374,430 @@
       "priority": 80,
       "needs_ai": false,
       "filter_version": 8
+    },
+    "https://www.news2day.co.kr/article/20261029500179": {
+      "title": "삼성SDS, 3Q 영업익 2410억원…클라우드·물류 성장에 실적 개선(상보)",
+      "summary": "경북 구미시에 조성하는 초기 전력 용량 60MW 규모의 AI 데이터센터는 오는 11월 초 착공식을 진행할... AI 협업 솔루션 '브리티웍스(Brity Works)'는 경찰청 을 비롯한 정부 부처로 도입이 확산되면서 공공 부문 누적...",
+      "url": "https://www.news2day.co.kr/article/20261029500179",
+      "date": "Thu, 29 Oct 2026 11:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.delighti.co.kr/news/articleView.html?idxno=124086": {
+      "title": "삼성SDS, 3분기 영업이익 2410억원…전년比 3.7% 증가",
+      "summary": "2028년 준공을 목표로 국가 AI 컴퓨팅센터 건립 도 추진 중이다. 오는 11월 초에는 60㎿ 규모의 경북 구미 AI 데이터센터 착공식을 개최할 예정이다. 아울러 레인보우로보틱스와 월든 로보틱스 등과 협력해 계열사...",
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=124086",
+      "date": "Thu, 29 Oct 2026 11:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://news.dealsitetv.com/articles/177715": {
+      "title": "삼성SDS, 3Q 매출 3.7조…클라우드·물류 성장세",
+      "summary": "지난 8월에는 국가 AI 컴퓨팅센터 건립 에 착수했으며 2028년 준공을 목표로 하고 있다. 금융권에서는 AI... 경북 구미 에 조성하는 초기 전력 용량 60MW 규모 AI 데이터센터는 11월 초 착공식을 열 예정이다.",
+      "url": "https://news.dealsitetv.com/articles/177715",
+      "date": "Thu, 29 Oct 2026 11:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.mydaily.co.kr/page/view/2026102911235856575": {
+      "title": "삼성SDS, 클라우드·물류 동반 성장…3분기 매출 3.8조원",
+      "summary": "지난 8월에는 국가 AI 컴퓨팅센터 건립 에 착수했다. 준공 목표는 2028년이다. 초기 전력 용량 60MW 규모의 경북 구미 AI 데이터센터도 내달 초 착공할 예정이다. 금융권에서는 AI·데이터 플랫폼 구축 사업을 수주한 데...",
+      "url": "https://www.mydaily.co.kr/page/view/2026102911235856575",
+      "date": "Thu, 29 Oct 2026 11:25:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "http://www.efnews.co.kr/news/articleView.html?idxno=133564": {
+      "title": "삼성SDS, 3분기 영업이익 2천410억원…클라우드·물류 성장 견인",
+      "summary": "지난 8월에는 정부의 인공지능 3대 강국 도약 전략과 연계된 국가 AI 컴퓨팅센터 건립 에 착수했다. 해당... 삼성SDS는 경북 구미 시에 초기 전력 용량 60㎿ 규모로 조성하는 구미 AI 데이터센터의 착공식도 11월 초...",
+      "url": "http://www.efnews.co.kr/news/articleView.html?idxno=133564",
+      "date": "Thu, 29 Oct 2026 11:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 85,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "AI 참고 적합"
+    },
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=303715": {
+      "title": "삼성SDS 3분기 영업이익 2410억, 전년比 3.7%↑…클라우드·물류 동반 성...",
+      "summary": "지난 8월에는 정부의 AI 3대 강국 도약을 위한 국가 AI 컴퓨팅센터 건립 에도 착수했다. 해당 센터는 2028년... 삼성SDS는 다음 달 초 경북 구미 시에 초기 전력 용량 60㎿ 규모의 AI 데이터센터 착공식도 진행할 예정이다.",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=303715",
+      "date": "Thu, 29 Oct 2026 11:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.etnews.com/20261029000197": {
+      "title": "삼성SDS, 3분기 매출 3조7725억원…클라우드·AI·물류 성장",
+      "summary": "지난 8월 착수한 국가AI컴퓨팅센터 건립 사업은 2028년 준공을 목표로 추진하고 있다. 또 AI 서비스... 삼성SDS는 11월 초 경북 구미 에서 초기 전력 용량 60MW 규모 AI 데이터센터 착공식도 개최할 예정이다.",
+      "url": "https://www.etnews.com/20261029000197",
+      "date": "Thu, 29 Oct 2026 11:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.newsian.co.kr/news/articleView.html?idxno=100207": {
+      "title": "삼성SDS, '클라우드·물류' 날개 달고 3Q 매출 3.7조…'AI 영토' 확장",
+      "summary": "오는 11월 초에는 경북 구미 시에 초기 60㎽ 전력 용량 규모의 AI 데이터센터 착공식을 열고 자체 인프라... 또한 항공 화물 혼재 전문 기업인 '우정항공' 지분 100%를 인수해 인천공항 중심의 아시아 환적 화물 등...",
+      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=100207",
+      "date": "Thu, 29 Oct 2026 11:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.kbmaeil.com/article/20261029500303": {
+      "title": "경주 시, 우수 중소기업 5곳 ‘골든기업’ 선정…최대 2100만원 지원",
+      "summary": "기업당 최대 2100만원의 사업비를 지원하고, 운전자금 융자 한도 우대와 세무조사 유예 등으로 성장을 뒷받침한다. 경주 시는 지난 27일 시청 대외협력실에서 ‘2026년 경주 시 골든기업 지정서 수여식’을 열었다. 올해...",
+      "url": "https://www.kbmaeil.com/article/20261029500303",
+      "date": "Thu, 29 Oct 2026 11:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://news.skbroadband.com/news/articleView.html?idxno=241667": {
+      "title": "어머니 집 사며 법인 돈 빌려…부동산 위법 의심 678건",
+      "summary": "주택 4채를 가진 사람이 경북 의 아파트 3채를 동생에게 팔았다가 7개월 만에 다시 사들인 사례도... 국토부는 1세대 1주택 양도소득세 비과세를 노린 명의신탁으로 의심해 경찰청 에 수사를 의뢰할 예정입니다. 서울...",
+      "url": "https://news.skbroadband.com/news/articleView.html?idxno=241667",
+      "date": "Thu, 29 Oct 2026 11:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=04037686645617840&mediaCodeNo=257": {
+      "title": "양도세 피하려 동생과 허위거래…부동산 위법의심 678건 적발",
+      "summary": "대표적인 사례는 경북 에서 발생했다. 주택 4채를 보유한 A씨는 지난해 7월 경북 의 한 군에 있는 아파트... 유형별로는 편법 증여 와 특수관계인 차입금 과다 등이 275건으로 가장 많았다. 가격·계약일 거짓신고 등은 122건...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04037686645617840&mediaCodeNo=257",
+      "date": "Thu, 29 Oct 2026 11:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.ajunews.com/view/20261029084036210": {
+      "title": "부동산 이상거래 678건 적발…직거래 10건 중 4건 강남3구",
+      "summary": "전국 주택 직거래 351건·수도권 아파트 327건 적발 직거래 적발 64% 서울 집중…편법 증여 ·명의신탁 등 의심... 주택 4채를 보유한 매도인은 지난해 7월 경북 소재 아파트 3채를 동생에게 팔았다가 7개월 뒤 다시...",
+      "url": "https://www.ajunews.com/view/20261029084036210",
+      "date": "Thu, 29 Oct 2026 11:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.etoday.co.kr/news/view/2641459": {
+      "title": "모친 건물 사고 동생 회사서 돈 빌리고…부동산 이상거래 678건 적발",
+      "summary": "140건…편법 증여 ·명의신탁 등 의심 모친 소유 건물을 55억원에 사들이면서 가족이 운영하는 회사에서... 주택 4채를 보유한 매도인이 지난해 7월 경북 소재 아파트 3채를 동생에게 매도한 뒤 올해 2월 다시 사들인...",
+      "url": "https://www.etoday.co.kr/news/view/2641459",
+      "date": "Thu, 29 Oct 2026 11:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=283296": {
+      "title": "[3Q실적] 삼성SDS 영업익 2410억원…AI·클라우드·물류 성장 쑥↑",
+      "summary": "삼성SDS는 오는 11월에는 60MW 규모의 경북 구미 AI 데이터센터 착공에 나설 예정이다. 삼성SDS는... 물류 파트에서는 최근 항공 화물 혼재 전문기업인 우정항공 지분 100%를 인수하며 글로벌 항공 운송 역량을 높였다....",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283296",
+      "date": "Thu, 29 Oct 2026 11:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 85,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "AI 참고 적합"
+    },
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=877537": {
+      "title": "삼성SDS, 클라우드·물류 쌍끌이 성장…3분기 매출 3.8조 돌파",
+      "summary": "삼성SDS는 항공 화물 전문기업 우정항공 지분 100%를 인수하며 인천발 및 아시아발 환적 화물 중심으로... 한편, 삼성SDS는 오는 11월 초 경북 구미 에 초기 전력 용량 60MW 규모의 AI 데이터센터를 착공할 계획이다.",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877537",
+      "date": "Thu, 29 Oct 2026 11:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://byline.network/?p=9004111222625253": {
+      "title": "삼성SDS, 3분기 영업이익 2410억원…전년비 3.7% 증가",
+      "summary": "물류 사업에서는 항공 화물 혼재 전문 기업 우정항공 지분 100%를 인수했다. 이를 바탕으로 인천발 화물과 아시아발 인천 경유 화물을 중심으로 항공 운송 사업을 확대할 예정이다. 삼성SDS는 오는 11월 초 경북 구미 시...",
+      "url": "https://byline.network/?p=9004111222625253",
+      "date": "Thu, 29 Oct 2026 11:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "http://www.inews24.com/view/2020317": {
+      "title": "삼성SDS, 3분기 매출 3.77조·영업익 2410억⋯물류 매출 2조 돌파",
+      "summary": "삼성 계열사 현장에서 로봇 실증 사업도 추진하고 있다. 항공 화물 혼재 전문기업 우정항공 지분 100%를 인수했으며, 오는 11월 초 경북 구미 에서 초기 전력 용량 60MW 규모 AI 데이터센터 착공식을 열 예정이다.",
+      "url": "http://www.inews24.com/view/2020317",
+      "date": "Thu, 29 Oct 2026 11:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.kbsm.net/news/view.php?idx=539610": {
+      "title": "대구 C-Lab 18기, AX·미래 신산업 스타트업 15곳 투자유치 도전",
+      "summary": "대구창조경제혁신센터가 지난 28일 센터 1층 C-Quad에서 ‘대구 C-Lab 액셀러레이팅 18기 IR 데모데이’를 열고, AX·미래 신산업 분야 스타트업 15개사의 기술과 사업화 성과를 공개했다.이번 행사에는 에코프로 파트너스...",
+      "url": "https://www.kbsm.net/news/view.php?idx=539610",
+      "date": "Thu, 29 Oct 2026 11:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://www.fntoday.co.kr/news/articleView.html?idxno=396535": {
+      "title": "\"107조 벌어도 눈높이 높았다\"… 삼성전자 실적 발표 후 코스피 하락 전...",
+      "summary": "71을 기록하고 있다. 외국인(-741억 원)과 기관(-387억 원)의 동반 매도 속에 에코프로 비엠(-6.56%), 에코프로 (-5.48%), 주성엔지니어링(-4.85%), 알테오젠(-2.02%) 등 주요 상위 종목들이 대거 약세를 면치 못하고 있다.",
+      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=396535",
+      "date": "Thu, 29 Oct 2026 11:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://www.yna.co.kr/view/AKR20261029091100008?input=1195m": {
+      "title": "코스피, '세부실적' 삼성전자 급락에 하락전환…2%대 하락세",
+      "summary": "시가총액 상위 종목 중에서는 제주반도체(0.72%)를 제외한 대다수의 종목이 '파란 불'을 켰다. 대표적으로 알테오젠(-2.02%), 에코프로 (-5.48%), 에코프로 비엠(-6.56%), 주성엔지니어링(-4.85%) 등이 내리고 있다.",
+      "url": "https://www.yna.co.kr/view/AKR20261029091100008?input=1195m",
+      "date": "Thu, 29 Oct 2026 11:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "http://www.econonews.co.kr/news/articleView.html?idxno=446410": {
+      "title": "SK이노베이션, 3분기 영업이익 3조7043억원 '역대 최대'…정유·윤활유 ...",
+      "summary": "최근 미국 네오볼타와 약 9GWh 규모의 ESS용 리튬인산철(LFP) 파우치셀 공급계약을 체결했으며, 엘앤에프 와 포스코퓨처엠 등과 ESS용 LFP 양극재 공급계약도 맺었다. 전기차 배터리 시장의 수요 변동성에 대응해 ESS...",
+      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446410",
+      "date": "Thu, 29 Oct 2026 11:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://www.seoultimes.news/news/article.html?no=2000101524": {
+      "title": "SK이노베이션, 3분기 영업이익 3.7조원…윤활유 역대 최대",
+      "summary": "엘앤에프· 포스코 퓨처엠과는 ESS용 LFP 양극재 공급 계약을 체결했다. 북미 고객 기반을 넓히고 소재 조달망을 확보해 ESS 사업을 확대할 계획이다. SK아이이테크놀로지는 매출 414억원에 영업손실 368억원을 기록했다....",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000101524",
+      "date": "Thu, 29 Oct 2026 11:27:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://view.asiae.co.kr/article/2026102911264115632": {
+      "title": "SK이노베이션, 석유 수출마진·윤활유 '쌍끌이'…3분기 영업익 3조7043억...",
+      "summary": "미국 네오볼타와 약 9GWh 규모의 에너지저장장치(ESS)용 리튬인산철(LFP) 파우치셀 공급계약을 맺고, 엘앤에프· 포스코 퓨처엠과 LFP 양극재 공급계약을 체결하는 등 북미 ESS 사업 기반도 다지고 있다. 4분기에도 석유...",
+      "url": "https://view.asiae.co.kr/article/2026102911264115632",
+      "date": "Thu, 29 Oct 2026 11:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.joongangenews.com/news/articleView.html?idxno=559452": {
+      "title": "SK이노베이션, 3분기 영업익 3.7조 '역대 최대'...정유·윤활유가 실적 ...",
+      "summary": "최근 미국 에너지저장장치 기업 네오볼타와 약 9기가와트시(GWh) 규모의 ESS용 리튬인산철(LFP) 파우치셀 공급계약을 체결했으며, 엘앤에프 와 포스코퓨처엠 등 국내 소재업체들과 ESS용 LFP 양극재 공급계약도 확보했다....",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=559452",
+      "date": "Thu, 29 Oct 2026 11:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "http://www.popcornnews.net/news/articleView.html?idxno=137877": {
+      "title": "SK이노베이션, 3분기 영업익 3조7043억…정유·윤활유 실적 호조",
+      "summary": "엘앤에프 와 포스코퓨처엠 등 국내 소재업체와도 ESS용 LFP 양극재 공급계약을 맺으며 소재 조달 기반을 강화했다. 배터리 분리막 사업을 담당하는 SK아이이테크놀로지는 매출 414억 원과 영업손실 368억원을 기록했다....",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=137877",
+      "date": "Thu, 29 Oct 2026 11:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "http://www.inews24.com/view/2020330": {
+      "title": "0%→19.87%로 뛴 美 관세…세아·현대, 국제무역법원 제소",
+      "summary": "포스코 는 지난달 29일 냉연강판 상계관세 판정에 불복해 소송을 제기했고, LS일렉트릭은 같은 달 11일 변압기 반덤핑 판정을 법정으로 가져갔다. 세아제강과 현대스틸파이프·현대제철이 소장을 제출하면 상무부가...",
+      "url": "http://www.inews24.com/view/2020330",
+      "date": "Thu, 29 Oct 2026 11:17:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://www.kpinews.kr/newsView/1065579093452631": {
+      "title": "포스코 포항제철소 , QSS혁신공장 '선강부문 이송설비 개선활동' 성료",
+      "summary": "포스코 포항제철소 가 연·원료 공급의 핵심인 이송설비 개선에 역량을 집중해 설비 고장과 환경·안전 리스크를 획기적으로 줄이며 조업 안정성을 한층 끌어올렸다. ▲ 포스코 포항제철소 장이 선탄공장을 방문해...",
+      "url": "https://www.kpinews.kr/newsView/1065579093452631",
+      "date": "Thu, 29 Oct 2026 11:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://magazine.hankyung.com/business/article/202610293073b": {
+      "title": "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌...",
+      "summary": "한국수력원자력 (한수원)과 대우건설·두산에너빌리티 컨소시엄 간 시공계약 협상이 주요 계약조건에 대한 이견으로 종료된 것으로, 원전 사업 자체의 취소와는 구분해야 한다. 다만 한국 원전의 유럽 진출을 상징하는...",
+      "url": "https://magazine.hankyung.com/business/article/202610293073b",
+      "date": "Thu, 29 Oct 2026 11:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 8
+    },
+    "https://www.topdaily.kr/articles/112567": {
+      "title": "실적 반등한 대우건설, 체코 원전 시공 결렬 '찬물'",
+      "summary": "29일 한국수력원자력 (이하 한수원)에 따르면 대우건설-두산에너빌리티 컨소시엄의 체코 두코바니 원전 사업 시공 계약 협상이 끝내 결렬됐다. 한수원은 \"그동안 실무협상, 이견조정위원회 및 경영진 협상 등을 통해...",
+      "url": "https://www.topdaily.kr/articles/112567",
+      "date": "Thu, 29 Oct 2026 11:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4441877": {
+      "title": "코스피, 삼성전자 실적 발표 후 2%대 급락…6천선 다시 하회",
+      "summary": "여기에 한국수력원자력 과 대우건설·두산에너빌리티 컨소시엄의 체코 원전 시공계약 협상 결렬 소식까지 겹치며 투자심리가 급격히 위축됐다. 29일 코스피는 전 거래일보다 145.14포인트(2.41%) 하락한 5,867.30을...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441877",
+      "date": "Thu, 29 Oct 2026 11:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SDBQSnU2QVAxODMwYWJRTXcybDc2eEtJa2tRS1pDZm45S1hFNE0zeERERlpyWFoyRjc5YnEtTm9SRnlCNWVKb0tuUExZUHhobEpLVzNaTnFmMWozVHQ2Mzd0TVc?oc=5": {
+      "title": "iM뱅크, 한국가스공사와 ‘더 좋은 지역경제를 위한 상생펀드’ 업무협약 확대 - 매일일보",
+      "summary": "iM뱅크, 한국가스공사와 ‘더 좋은 지역경제를 위한 상생펀드’ 업무협약 확대 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SDBQSnU2QVAxODMwYWJRTXcybDc2eEtJa2tRS1pDZm45S1hFNE0zeERERlpyWFoyRjc5YnEtTm9SRnlCNWVKb0tuUExZUHhobEpLVzNaTnFmMWozVHQ2Mzd0TVc?oc=5",
+      "date": "Thu, 29 Oct 2026 02:09:52 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 8,
+      "review": "미검토"
     }
   },
   "brief_sent": {
