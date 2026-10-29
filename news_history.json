@@ -1162,7 +1162,8 @@
     "http://www.newstomato.com/ReadNews.aspx?no=1318560&inflow=N": "2026-10-29T18:04:02.357084+09:00",
     "https://www.viva100.com/article/20261029501368": "2026-10-29T18:04:02.357084+09:00",
     "https://zdnet.co.kr/view/?no=20261029164021": "2026-10-29T18:04:02.357084+09:00",
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54102": "2026-10-29T19:02:34.719220+09:00"
+    "https://www.koreareport.co.kr/news/articleView.html?idxno=54102": "2026-10-29T19:02:34.719220+09:00",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5": "2026-10-29T20:02:39.876584+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1827,26 +1828,10 @@
     "8ec95b94b606722e7db5d718bf60cb4a1b631753f93c1eaf3a1db1a044cf8ac4": "2026-10-29T18:04:02.357084+09:00",
     "274276e93d434a91dcb23784083b6bfd3eaaa550a2be8f7d603c94da98520a51": "2026-10-29T18:04:02.357084+09:00",
     "7b81239bb47fef879886dbbe0e1919f7261c8a1f709c0f30425fc38cd4ac4779": "2026-10-29T18:04:02.357084+09:00",
-    "0cb7f41e032f9b346145db7d2cef004a2ff08713cc68f682f3dcf6e087e06ef6": "2026-10-29T19:02:34.719220+09:00"
+    "0cb7f41e032f9b346145db7d2cef004a2ff08713cc68f682f3dcf6e087e06ef6": "2026-10-29T19:02:34.719220+09:00",
+    "6e284bff603adf59b35484b98a311cbeaaec53d949bb74bb6a2c3a39d7bbb79c": "2026-10-29T20:02:39.876584+09:00"
   },
-  "pending": {
-    "http://www.breaknews.com/1246856": {
-      "title": "오송첨단의료산업진흥재단, 구미전자정보기술원과 MOU …바이오·방산 인...",
-      "summary": "KBIOHealth는 경북 ·구미 방산혁신클러스터 연구시험능력확보사업으로 구축된 첨단 장비를 연계해 지역 기업 지원을 활성화하기 위한 업무협약( MOU )을 체결했다고...",
-      "url": "http://www.breaknews.com/1246856",
-      "date": "Thu, 29 Oct 2026 18:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경제·투자",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_wait_reason": "관내 지명 근거 없음",
-      "review": "미검토"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
@@ -3243,6 +3228,41 @@
       "priority": 70,
       "needs_ai": true,
       "filter_version": 10
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VMWJ4YmxZNmRtSTVPb0l5UVVJdGhZX1hzSHJmOThpdUdqZmtxbU9xNGpQUG82XzhkcHRXYzdiVjJtOTBKcll6TlFzWVl3WEVxbzMwb2QwYzF1UEs4b1dv?oc=5": {
+      "title": "포항지역발전협의회, 포스코 노조 방문…노사 갈등 조속 해결 촉구 - 경상매일신문",
+      "summary": "포항지역발전협의회, 포스코 노조 방문…노사 갈등 조속 해결 촉구 경상매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VMWJ4YmxZNmRtSTVPb0l5UVVJdGhZX1hzSHJmOThpdUdqZmtxbU9xNGpQUG82XzhkcHRXYzdiVjJtOTBKcll6TlFzWVl3WEVxbzMwb2QwYzF1UEs4b1dv?oc=5",
+      "date": "Thu, 29 Oct 2026 10:41:22 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 10
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5": {
+      "title": "[체코원전 팀코리아 파열음-한수원 입장] '대우건설 이탈' 벼랑 끝...26조 체코 원전 지켜낼 3대 현실적 수습책은 - 산경e뉴스",
+      "summary": "[체코원전 팀코리아 파열음-한수원 입장] '대우건설 이탈' 벼랑 끝...26조 체코 원전 지켜낼 3대 현실적 수습책은 산경e뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5",
+      "date": "Thu, 29 Oct 2026 10:16:55 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한수원",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 10,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "한수원",
+        "provider": "gemini"
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {},
@@ -3379,11 +3399,16 @@
       "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54102",
       "title": "SK이노베이션, 3분기 영업이익 3조7043억원...\"역대 최대\"",
       "date": "Thu, 29 Oct 2026 18:40:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5",
+      "title": "[체코원전 팀코리아 파열음-한수원 입장] '대우건설 이탈' 벼랑 끝...26조 체코 원전 지켜낼 3대 현실적 수습책은 - 산경e뉴스",
+      "date": "Thu, 29 Oct 2026 10:16:55 GMT"
     }
   ],
   "brief_articles": [],
   "gemini_ai": {
-    "2026-10-29": 19
+    "2026-10-29": 21
   },
   "ai_cooldowns": {}
 }
