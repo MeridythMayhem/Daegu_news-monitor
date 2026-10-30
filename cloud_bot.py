@@ -1,4 +1,4 @@
-"""대구경북 뉴스 모니터 v12. Python 3.12 / pip install requests"""
+"""대구경북 뉴스 모니터 v13. Python 3.12 / pip install requests"""
 from collections import Counter
 from difflib import SequenceMatcher
 import hashlib
@@ -486,11 +486,29 @@ REVIEW_SCHEMA = {
         'type': 'object', 'properties': {
             'index': {'type': 'integer'}, 'relevant': {'type': 'boolean'},
             'category': {'type': 'string', 'enum': list(CATEGORIES) + ['제외']},
-            'evidence': {'type': 'string'},
+            'evidence_id': {'type': 'integer'},
             'scope': {'type': 'string', 'enum': ['local', 'company', 'none']}},
-        'required': ['index', 'relevant', 'category', 'evidence', 'scope'],
+        'required': ['index', 'relevant', 'category', 'evidence_id', 'scope'],
         'additionalProperties': False}}},
     'required': ['results'], 'additionalProperties': False}
+
+
+def evidence_sentences(a):
+    """Local stable IDs; every evidence string comes from this article, never model prose."""
+    result = [a['title'][:300]]
+    summary = a.get('summary', '')[:600]
+    # Preserve punctuation and exact substrings. Decimal points are not sentence boundaries.
+    for match in re.finditer(r'.+?(?:[.!?。](?=\s|$)|\n|$)', summary, re.S):
+        text = match.group().strip()
+        if text and text not in result:
+            result.append(text)
+    return result
+
+
+def review_status(a):
+    if a.get('review') != '미검토':
+        return '완료'
+    return '호출 미완료' if a.get('ai_failure_kind', 'request') == 'request' else '판정 검증 보류'
 
 
 class AI:
@@ -605,6 +623,7 @@ class AI:
 
     def ask(self, prompt, context, schema=None):
         reasons = []
+        invalid_response = False
         for provider in ('gemini', 'groq'):
             cooldown = self.s['ai_cooldowns'].get(provider + ':' + self.models[provider], {})
             if date(cooldown.get('until')) and date(cooldown['until']) > datetime.now(KST):
@@ -635,6 +654,7 @@ class AI:
                             raise ValueError('results array required')
                     except (ValueError, KeyError, TypeError, IndexError) as exc:
                         reason = '응답 형식/완료 검증 실패'
+                        invalid_response = True
                         self.failures[provider] += 1
                         self.issues.append(provider + ': ' + reason)
                         reasons.append(provider + ': ' + reason)
@@ -662,9 +682,38 @@ class AI:
                 reasons.append(provider + ': ' + reason)
                 break
         context['ai_wait_reason'] = '; '.join(dict.fromkeys(reasons)) or 'AI 사용 불가'
+        context['ai_failure_kind'] = 'format' if invalid_response else 'request'
         return None
 
     def validate_article(self, a, value):
+        a.pop('ai_result', None)
+        a.pop('ai_failure_kind', None)
+        if not isinstance(value, dict) or type(value.get('relevant')) is not bool:
+            a['ai_failure_kind'] = 'format'
+            a['ai_wait_reason'] = 'relevant가 boolean이 아님'
+            return '미검토'
+        if not value['relevant']:
+            a.pop('ai_wait_reason', None)
+            return 'AI 관련성 낮음'
+        evidence_id = value.get('evidence_id')
+        sentences = evidence_sentences(a)
+        if type(evidence_id) is not int or not 0 <= evidence_id < len(sentences):
+            a['ai_failure_kind'] = 'format'
+            a['ai_wait_reason'] = '근거 문장 번호 누락/범위 오류'
+            return '미검토'
+        if value.get('category') not in CATEGORIES or value.get('scope') not in ('local', 'company'):
+            a['ai_failure_kind'] = 'format'
+            a['ai_wait_reason'] = '분류명 또는 scope 형식 오류'
+            return '미검토'
+        resolved = dict(value, evidence=sentences[evidence_id])
+        result = self._validate_evidence(a, resolved)
+        if result == '미검토':
+            a['ai_failure_kind'] = 'validation'
+        elif result == 'AI 참고 적합':
+            a['ai_result']['evidence_id'] = evidence_id
+        return result
+
+    def _validate_evidence(self, a, value):
         if not isinstance(value, dict) or type(value.get('relevant')) is not bool:
             a['ai_wait_reason'] = '분류 JSON 형식 오류'
             return '미검토'
@@ -737,19 +786,24 @@ class AI:
             '요약의 부수적 지명/기업명, 기자 주소, 다른 기사 언급은 제외. 전국 실적/타지역 투자/단순 주가/행사/정치판세는 제외. '
             '단 지정 관심기업 자체의 실적·투자·노무 및 해외 사업은 허용. 사고 예방기술·훈련은 실제 산재가 아니다. '
             '정상 거래를 탈세로 단정하지 말 것. 직접 관계가 불명확하면 relevant=false. '
-            'evidence에는 실제 사건/사업 주체와 연결된 관내 지명 또는 관심기업을 포함한 원문 구절을 그대로 인용. 일반 경제는 제목과 같은 지역/기업이어야 한다. '
+            '근거 문장을 새로 쓰지 말고 해당 기사의 evidence_sentences에서 evidence_id 번호 하나를 선택. '
+            '제목은 0번이고, 요약은 이후 번호다. 다른 기사 문장 번호를 섞지 말 것. '
+            '선택 문장에 실제 사건/사업 주체와 연결된 지역 또는 관심기업이 있어야 한다. '
+            '일반 경제는 제목과 같은 지역/기업이어야 하며, 핵심 사건의 요약 근거는 지역/기업과 사건을 함께 포함해야 한다. '
             '각 index를 정확히 한 번씩 결과에 포함. 점수는 프로그램이 결정한다. '
-            'JSON: {"results":[{"index":0,"relevant":true,"category":"경제·투자","evidence":"구미 신공장","scope":"local"}]}. '
-            '제외 기사는 category="제외", evidence="", scope="none". '
+            'JSON: {"results":[{"index":0,"relevant":true,"category":"경제·투자","evidence_id":0,"scope":"local"}]}. '
+            '제외 기사는 category="제외", evidence_id=-1, scope="none". '
             '허용 분류: ' + ', '.join(CATEGORIES) + '\n관심기업: ' + ', '.join(COMPANY_ALIASES + GLOBAL_ALIASES) +
             '\n기사 목록: ' + json.dumps([{'index':i,'title':a['title'][:300],
-                'summary':a.get('summary','')[:600]} for i,a in enumerate(articles)],ensure_ascii=False))
+                'evidence_sentences':[{'id':j,'text':t} for j,t in enumerate(evidence_sentences(a))]} for i,a in enumerate(articles)],ensure_ascii=False))
         context = {}
         value = self.ask(prompt, context, REVIEW_SCHEMA)
         if value is None:
             for a in articles:
                 a['review'] = '미검토'
                 a['ai_wait_reason'] = context.get('ai_wait_reason', 'AI 응답 없음')
+                a['ai_failure_kind'] = context.get('ai_failure_kind', 'request')
+                self.log_review(a)
             return
         rows = value.get('results', [])
         by_index = {}
@@ -761,9 +815,38 @@ class AI:
             if len(matches) != 1:
                 a['review'] = '미검토'
                 a['ai_wait_reason'] = '분류 결과 누락/중복 index'
+                a['ai_failure_kind'] = 'format'
             else:
                 a['review'] = self.validate_article(a, matches[0])
+            self.log_review(a)
         log.info('묶음 검토 %d건 / 완료 %d건', len(articles), sum(a.get('review') != '미검토' for a in articles))
+
+    def log_review(self, a):
+        if a.get('review') == '미검토':
+            log.warning('AI %s | 사유=%s | 기사=%s | URL=%s', review_status(a),
+                redact(a.get('ai_wait_reason', '알 수 없음')), redact(a['title']), redact(a.get('url','')))
+
+    def retry_format_errors(self, articles):
+        # 전체 후보의 1차 검토를 먼저 끝낸 뒤, 형식 실패 기사만 1건씩 재검토.
+        # 지역 관련성/분류의 실질적 불일치는 자동 재심하지 않습니다.
+        for a in articles:
+            if a.get('review') != '미검토' or a.get('ai_failure_kind') != 'format' or a.get('ai_format_retry_v13'):
+                continue
+            if all(self.blocked.get(p) or self.quota_reason(p) for p in ('gemini', 'groq')):
+                a['ai_retry_note'] = '재검토 가능한 제공자/요청 예산 없음'
+                log.info('AI 재검토 보류: %s | 기사=%s', a['ai_retry_note'], redact(a['title']))
+                continue
+            before = self.calls
+            reason = a.get('ai_wait_reason', '형식 오류')
+            log.info('AI 형식 오류 기사 단독 재검토: %s', redact(a['title']))
+            self.review_batch([a])
+            if self.calls > before:
+                a['ai_format_retry_v13'] = True
+            if a.get('review') == '미검토' and a.get('ai_failure_kind') == 'request':
+                a['ai_retry_note'] = a.get('ai_wait_reason', '재검토 호출 실패')
+                a['ai_failure_kind'] = 'format'
+                a['ai_wait_reason'] = reason + ' / 재검토 호출 미완료'
+                self.log_review(a)
 
     def review(self, a):
         self.review_batch([a])
@@ -839,7 +922,7 @@ def report_window(now, mode='auto'):
 
 
 def main():
-    log.info('대구경북 뉴스 모니터 v12 시작 — 세무 / 주요인사 / 산재')
+    log.info('대구경북 뉴스 모니터 v13 시작 — 세무 / 주요인사 / 산재')
     if not DISCORD_URL and not DRY_RUN:
         raise RuntimeError('GitHub Secrets의 DISCORD_URL 설정이 필요합니다')
     now = datetime.now(KST)
@@ -931,6 +1014,9 @@ def main():
             for a in batch:
                 a['review'] = '미검토'
                 a['ai_wait_reason'] = 'DRY_RUN: AI 미호출' if DRY_RUN else 'AI 사용 불가'
+                a['ai_failure_kind'] = 'request'
+    if ai:
+        ai.retry_format_errors(review_targets)
     for a in pending:
         s['archive'][a['url']] = a
     pending = prepare_pending(s, now, cutoff, end, pending_key)
@@ -945,7 +1031,9 @@ def main():
     for a in eligible:
         log.info('발송 후보 %s점 [%s] 근거=%s | %s', a['priority'], a['category'], a.get('ai_result',{}).get('evidence',a.get('basis','')), a['title'])
     held = sum(a['needs_ai'] and a.get('review', '미검토') == '미검토' for a in pending)
-    wait_reasons = Counter(a.get('ai_wait_reason', '검토 대기') for a in pending
+    call_held = sum(a['needs_ai'] and a.get('review', '미검토') == '미검토' and review_status(a) == '호출 미완료' for a in pending)
+    validation_held = held - call_held
+    wait_reasons = Counter(review_status(a) + ': ' + a.get('ai_wait_reason', '검토 대기') for a in pending
                            if a['needs_ai'] and a.get('review', '미검토') == '미검토')
     wait_text = ', '.join(f'{reason} {count}건' for reason, count in wait_reasons.items())
     limit = len(eligible) if morning else MAX_ALERTS
@@ -958,12 +1046,13 @@ def main():
               f'\n🕒 대상: {cutoff:%m/%d %H:%M} ~ {end:%m/%d %H:%M} KST'
               f'\n📰 대상 시간대 고유 URL: {len(raw)}건 / 이번 발송 대상: {len(pending)}건'
               f'\n♻️ 중복 제외: {duplicate_count}건'
-              f'\n⏳ AI 미검토: {held}건 / 발송 상한 대기: {queued}건'
+              f'\n⏳ AI 호출 미완료: {call_held}건 / 판정 검증 보류: {validation_held}건'
+              f'\n📥 발송 상한 대기: {queued}건'
               f'\n🤖 실제 AI 요청: Gemini {ai.attempts["gemini"] if ai else 0}회 / Groq {ai.attempts["groq"] if ai else 0}회')
     if wait_text:
-        suffix += '\nAI 보류 사유: ' + wait_text
+        suffix += '\nAI 보류 사유: ' + wait_text[:650]
     if held:
-        suffix += '\n⚠️ AI 미검토 기사가 있어 이번 보고는 검토가 완료되지 않은 상태입니다.'
+        suffix += '\n⚠️ 미완료/검증 보류 기사가 있어 이번 보고는 검토가 완료되지 않은 상태입니다.'
     if ai and ai.issues:
         suffix += '\nAI 처리 상태: ' + '; '.join(sorted(set(ai.issues)))[:450]
     if failures:
