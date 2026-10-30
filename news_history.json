@@ -1868,46 +1868,31 @@
     "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00"
   },
   "pending": {
-    "https://www.viva100.com/article/20261030500931": {
-      "title": "대우건설 노조, 체코 원전 협상 결렬 반발…“한수원, 공사비 부담 전가...",
-      "summary": "대우건설 노동조합이 체코 두코바니 원전 시공계약 협상을 종료한 한국수력원자력 (한수원)에 공식 사과와 재협상을 요구했다. 노조는 한수원이 공사비 증가에 따른 위험을 민간 시공사에 전가하려 했다며 국회 차원의...",
-      "url": "https://www.viva100.com/article/20261030500931",
-      "date": "Fri, 30 Oct 2026 17:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.newspim.com/news/view/20261030001233": {
-      "title": "건설기업노조, 한수원 체코 원전 계약 결렬 규탄…\"시공사에 불리한 구...",
-      "summary": "전국건설기업노동조합(노조)이 한국수력원자력 (한수원)의 체코 원전 하도급계약 협상 결렬 선언을 '공공기관의 갑질'로 규정하며 강력 대응을 예고했다. 30일 전국건설기업노조는 성명을 내고 한수원이 우월적 지위를...",
-      "url": "https://www.newspim.com/news/view/20261030001233",
-      "date": "Fri, 30 Oct 2026 17:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKLVU1U2M1MFYtSDQyaUF6cDlaeGtDYzZpVGc1QmVYMFp5SzVoUEdTdGtuRkFHZ3dyYjBmOGUyUmsxZ0RPYTh6SDQ5eGJnRy16R2xQaUZwX2xPOFhDZkE?oc=5": {
-      "title": "한수원, 수자원공사·농어촌공사와 새만금 조력발전 공동개발 MOU - 기후에너지데이터뱅크",
-      "summary": "한수원, 수자원공사·농어촌공사와 새만금 조력발전 공동개발 MOU 기후에너지데이터뱅크",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKLVU1U2M1MFYtSDQyaUF6cDlaeGtDYzZpVGc1QmVYMFp5SzVoUEdTdGtuRkFHZ3dyYjBmOGUyUmsxZ0RPYTh6SDQ5eGJnRy16R2xQaUZwX2xPOFhDZkE?oc=5",
-      "date": "Fri, 30 Oct 2026 08:10:03 GMT",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHY3LXhyRjBQTmwwdGswVjR2dDZramFBZ1BIZ01ua2ZneXNfQWRnUFNpeUZCek41M1JWUGxGdTh4MFdfUUg2NlgxMXFRNU9uck53ekJCSUc0bTBaQV9mU3lOaFRlLVZ2M0l3WXVqZlE5SmVTWkdtWTQtRHlkdi1BNFI1LTTSAZgBQVVfeXFMUE0yazF2S0RNVk1aRXVaSnpWWlhaQVZDdjU1QktULWJqcmFWNU96d2pfREZVVlFuTEc0TTJRRFpDbGtRV0JrdUJmY2wxN1pWNjhWMDNjREZQZkJsMGt4VzFobmt3X2pEMDNxSzRiWjNCSG1jam8tQW9xSWV3Z0sydFJLV2U3YUQ2OWV5czlucGJURkxfYTA0V1E?oc=5": {
+      "title": "체코 원전서 드러난 ‘선(先) 선정·후(後) 단가 협상’의 촌극… 한수원 원전 수주 관행 도마 위 - Chosunbiz",
+      "summary": "체코 원전서 드러난 ‘선(先) 선정·후(後) 단가 협상’의 촌극… 한수원 원전 수주 관행 도마 위 Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHY3LXhyRjBQTmwwdGswVjR2dDZramFBZ1BIZ01ua2ZneXNfQWRnUFNpeUZCek41M1JWUGxGdTh4MFdfUUg2NlgxMXFRNU9uck53ekJCSUc0bTBaQV9mU3lOaFRlLVZ2M0l3WXVqZlE5SmVTWkdtWTQtRHlkdi1BNFI1LTTSAZgBQVVfeXFMUE0yazF2S0RNVk1aRXVaSnpWWlhaQVZDdjU1QktULWJqcmFWNU96d2pfREZVVlFuTEc0TTJRRFpDbGtRV0JrdUJmY2wxN1pWNjhWMDNjREZQZkJsMGt4VzFobmt3X2pEMDNxSzRiWjNCSG1jam8tQW9xSWV3Z0sydFJLV2U3YUQ2OWV5czlucGJURkxfYTA0V1E?oc=5",
+      "date": "Fri, 30 Oct 2026 09:23:00 GMT",
       "channels": [
         "domestic"
       ],
       "basis": "관심기업: 한국수력원자력",
       "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KcUNuSnV2YWRnYTBBLVFvY21vUExudHhVSUNDOWpSaDUyY0ZZejR0YVMzYmJ5ZXd0a1lDc1hPOV9nZjFxbGN4SVpNVTgtNEJjd3RB?oc=5": {
+      "title": "[Breaking] POSCO labor and management reach tentative wage deal, avert third strike - 매일경제",
+      "summary": "[Breaking] POSCO labor and management reach tentative wage deal, avert third strike 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KcUNuSnV2YWRnYTBBLVFvY21vUExudHhVSUNDOWpSaDUyY0ZZejR0YVMzYmJ5ZXd0a1lDc1hPOV9nZjFxbGN4SVpNVTgtNEJjd3RB?oc=5",
+      "date": "Fri, 30 Oct 2026 09:35:37 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
@@ -5796,6 +5781,377 @@
       "priority": 70,
       "needs_ai": true,
       "filter_version": 12
+    },
+    "https://news.tf.co.kr/read/economy/2383217.htm": {
+      "title": "포스코 노사, 임단협 잠정합의…'무기한 파업' 위기 넘겼다",
+      "summary": "기본임금 2.6% 인상, 일시금 600만원 등 포함 포스코 노사가 30일 올해 임금·단체협상 잠정합의안을 도출했다. 지난 6월 임단협 교섭을 시작한 지 약 4개월 반 만이다. 30일 포스코 노사에 따르면 노사는 전날 오후...",
+      "url": "https://news.tf.co.kr/read/economy/2383217.htm",
+      "date": "Fri, 30 Oct 2026 19:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사, 임단협 잠정합의…'무기한 파업' 위기 넘겼다",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.busan.com/view/busan/view.php?code=2026103018560963492": {
+      "title": "포스코 노사, 무기한 파업 사흘 앞두고 임금 잠정합의",
+      "summary": "포스코 노사가 무기한 파업을 사흘 앞두고 기본급 2.6% 인상을 뼈대로 한 임금 협약에 잠정 합의했다. 포스코 노사는 30일 오전 경북 포항 본사에서 본교섭을 마치고 잠정 합의안을 마련했다. 지난 6월 교섭을 시작한...",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026103018560963492",
+      "date": "Fri, 30 Oct 2026 18:57:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사는 30일 오전 경북 포항 본사에서 본교섭을 마치고 잠정 합의안을 마련했다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 2
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6338366": {
+      "title": "포스코 노사 임금협상 잠정 합의, 기본급 2.6% 인상…파업 위기 넘겨(종...",
+      "summary": "포스코 노사가 2026년도 임금 협상 본 교섭에서 잠정안에 합의했다. 30일 포스코 노사에 따르면 전날 오후 4시부터 포항 본사에서 열린 실무교섭에 이어 30일 오전 10시부터 이어진 본교섭에서 잠정안을 끌어내는 데...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6338366",
+      "date": "Fri, 30 Oct 2026 18:57:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "30일 포스코 노사에 따르면 전날 오후 4시부터 포항 본사에서 열린 실무교섭에 이어 30일 오전 10시부터 이어진 본교섭에서 잠정안을 끌어내는 데...",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 2
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=901501": {
+      "title": "포스코 노사, 기본급 2.6%·일시금 600만원 잠정합의…무기한 파업 철회",
+      "summary": "쟁의권을 확보한 노조는 9월 1일부터 일부 부서의 연장근로를 거부했고, 9월 9일 포항 ·광양 제철소 각 1개 공장에서 48시간 부분파업을 단행했다. 1968년 창사 이후 58년 만의 첫 파업이었다. 노조는 잠정합의안을...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901501",
+      "date": "Fri, 30 Oct 2026 18:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사, 기본급 2.6%·일시금 600만원 잠정합의…무기한 파업 철회",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.newsis.com/view/NISX20261030_0003848989": {
+      "title": "[속보] 포스코 노사, 임단협 잠정 합의…파업 모면",
+      "summary": "",
+      "url": "https://www.newsis.com/view/NISX20261030_0003848989",
+      "date": "Fri, 30 Oct 2026 18:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[속보] 포스코 노사, 임단협 잠정 합의…파업 모면",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.yna.co.kr/view/AKR20261030171151053?input=1195m": {
+      "title": "포스코 노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
+      "summary": "교섭 시작 4개월여만, 조합원 찬반투표서 추인여부 결정 포스코 노사가 기본급 2.6% 인상을 중심으로 한... 한국노총 금속노련 포스코 노동조합은 잠정 합의안을 바탕으로 조만간 조합원 찬반투표를 통해 잠정안 추인에...",
+      "url": "https://www.yna.co.kr/view/AKR20261030171151053?input=1195m",
+      "date": "Fri, 30 Oct 2026 18:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://biz.heraldcorp.com/article/10921014?ref=naver": {
+      "title": "[속보] 포스코 3차파업 피했다…노사 임금교섭 잠정 합의",
+      "summary": "포스코 3차파업 피했다…노사 임금교섭 잠정 합의",
+      "url": "https://biz.heraldcorp.com/article/10921014?ref=naver",
+      "date": "Fri, 30 Oct 2026 18:41:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[속보] 포스코 3차파업 피했다…노사 임금교섭 잠정 합의",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.mk.co.kr/article/12191847": {
+      "title": "[속보] 포스코 노사 임금교섭 잠정 합의…3차파업 피했다",
+      "summary": "포스코 노사가 임금 교섭 시작 4개월여 만에 ‘기본급 2.6% 인상’을 중심으로 한 2026년 임금 협약에 잠정... 한국노총 금속노련 포스코 노동조합은 잠정 합의안을 바탕으로 조만간 조합원 찬반투표를 통해 잠정안 추인에...",
+      "url": "https://www.mk.co.kr/article/12191847",
+      "date": "Fri, 30 Oct 2026 18:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[속보] 포스코 노사 임금교섭 잠정 합의…3차파업 피했다",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2012679": {
+      "title": "[속보] 포스코 노사, 임단협 잠정 합의…파업 위기 넘겼다",
+      "summary": "매일일보 = 정경화 기자 |",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2012679",
+      "date": "Fri, 30 Oct 2026 18:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.ytn.co.kr/_ln/0115_202610301830007195": {
+      "title": "[속보] 포스코 노사, 임단협 잠정 합의...파업 사흘 앞두고 막판 타결",
+      "summary": "무기한 파업을 선언했던 포스코 노동조합이 사측과 임단협 잠정 합의안을 도출하고 파업을 철회했습니다. 포스코 노조는 오늘(30일) 본교섭에서 기본급 2.6% 인상과 일시금 6백만 원 지급, 특별 승호 3호봉 등의 내용이...",
+      "url": "https://www.ytn.co.kr/_ln/0115_202610301830007195",
+      "date": "Fri, 30 Oct 2026 18:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[속보] 포스코 노사, 임단협 잠정 합의...파업 사흘 앞두고 막판 타결",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.asiatime.co.kr/article/20261030500357": {
+      "title": "포스코 , 58년 만의 첫 파업 끝에 잠정합의…600만원·특별승호 3호봉",
+      "summary": "기자] 포스코 노사가 창사 58년 만의 첫 파업이라는 진통 끝에 2026년 임금·단체협상 잠정합의안을... 포스코 노사가 올해 임금·단체협약 교섭에서 또다시 합의점을 찾지 못했다. (사진= 포스코 노동조합) 30일 포스코 ...",
+      "url": "https://www.asiatime.co.kr/article/20261030500357",
+      "date": "Fri, 30 Oct 2026 18:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 , 58년 만의 첫 파업 끝에 잠정합의…600만원·특별승호 3호봉",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6338335": {
+      "title": "포스코 2026년도 임금 협상 잠정안 합의…다음달 2일 무기한 파업 모면",
+      "summary": "포스코 노사가 2026년도 임금 협상 본 교섭에서 잠정안에 합의했다. 30일 포스코 노사에 따르면 전날 오후 4시부터 포항 본사에서 열린 실무교섭에 이어 이틀째 열린 교섭에서 잠정안을 끌어내는 데 성공했다. 사측은...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6338335",
+      "date": "Fri, 30 Oct 2026 18:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "30일 포스코 노사에 따르면 전날 오후 4시부터 포항 본사에서 열린 실무교섭에 이어 이틀째 열린 교섭에서 잠정안을 끌어내는 데 성공했다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 2
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VUptMnlROUNidnJWeWRETUgteXlqZDZ6blZ1TEtRclNKeTF5Y19aR2pqZndPZDBxYW14N3R5UGVuOHRqbHhtakJvMFRKWnk5QTJJT3NVcE94a1dVTUNyYVdKc0xUNkF4aVRsU9IBcEFVX3lxTE1qU2FUdl9DYUFreXNNaVVpMDdPRHdreXk1ekxMZW03bVhDN0RrVkhfRkxOak1wdThKNy1mLVNwYTlDM1N6QnNuZmh4NWtZbVhRQy1uMDhEWmNaVVpTZ2V2cFk3VWdtd09pMnplWGJqS18?oc=5": {
+      "title": "에코프로 그룹, 부사장 3명 등 임원 14명 승진 - 전기신문",
+      "summary": "에코프로 그룹, 부사장 3명 등 임원 14명 승진 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VUptMnlROUNidnJWeWRETUgteXlqZDZ6blZ1TEtRclNKeTF5Y19aR2pqZndPZDBxYW14N3R5UGVuOHRqbHhtakJvMFRKWnk5QTJJT3NVcE94a1dVTUNyYVdKc0xUNkF4aVRsU9IBcEFVX3lxTE1qU2FUdl9DYUFreXNNaVVpMDdPRHdreXk1ekxMZW03bVhDN0RrVkhfRkxOak1wdThKNy1mLVNwYTlDM1N6QnNuZmh4NWtZbVhRQy1uMDhEWmNaVVpTZ2V2cFk3VWdtd09pMnplWGJqS18?oc=5",
+      "date": "Fri, 30 Oct 2026 09:47:47 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXRkYnY1LW5NNzdreHlGWG5MM2ZicU5uQlFqYjMzQUljOVBvUnhvT3BNY0ZZdDhCWGg2Z2NLLVBTdEZqWnRUNGc2SHFnUFhVbXVTcWJMQldCRE5YdWdwRDBfcFVJMXRRbXdMbDhzcWxXdWkxdnhXZFFKZ21Mc3FiMjRFclVHckVjRWIwcUhrVFFpSEF0NzVwZ293?oc=5": {
+      "title": "[속보] 포스코 노사, 3차 파업 앞두고 잠정 합의... 기본급 2.6% 인상키로 - 국제신문",
+      "summary": "[속보] 포스코 노사, 3차 파업 앞두고 잠정 합의... 기본급 2.6% 인상키로 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXRkYnY1LW5NNzdreHlGWG5MM2ZicU5uQlFqYjMzQUljOVBvUnhvT3BNY0ZZdDhCWGg2Z2NLLVBTdEZqWnRUNGc2SHFnUFhVbXVTcWJMQldCRE5YdWdwRDBfcFVJMXRRbXdMbDhzcWxXdWkxdnhXZFFKZ21Mc3FiMjRFclVHckVjRWIwcUhrVFFpSEF0NzVwZ293?oc=5",
+      "date": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[속보] 포스코 노사, 3차 파업 앞두고 잠정 합의... 기본급 2.6% 인상키로 - 국제신문",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SVY0Mi1tX3E2aGNDeGt4T3hSV3ZIdmI0RnNEN09OV3NkdEt5WktHR3RMQThXb3piMlZGd21Wc2ZaWUx0YnB0LTRfQUpQYXpkeVMxSE5Ud3BZOG9kTS11WE1iYjAyMlR0VXc?oc=5": {
+      "title": "[종합] 포스코 노사, 무기한 파업 문턱서 극적 잠정합의…내달 7일 찬반투표 - 철강금속신문",
+      "summary": "[종합] 포스코 노사, 무기한 파업 문턱서 극적 잠정합의…내달 7일 찬반투표 철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SVY0Mi1tX3E2aGNDeGt4T3hSV3ZIdmI0RnNEN09OV3NkdEt5WktHR3RMQThXb3piMlZGd21Wc2ZaWUx0YnB0LTRfQUpQYXpkeVMxSE5Ud3BZOG9kTS11WE1iYjAyMlR0VXc?oc=5",
+      "date": "Fri, 30 Oct 2026 09:56:36 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[종합] 포스코 노사, 무기한 파업 문턱서 극적 잠정합의…내달 7일 찬반투표 - 철강금속신문",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtUTZuT1ZxeTM0UzRERE1wdm02V2ZnUFlUUm01TDFBQUdOdzZHaE5NRTZQTGsxRjRLdnczMS11aWNPbFY1MVZ2NlFnU09HWVpXbE0xQnU0Rk5ldnJ5eEE?oc=5": {
+      "title": "포스코 노조, 58년 만의 첫 파업 끝에 잠정합의…600만원·특별승호 3호봉 - 아시아타임즈",
+      "summary": "포스코 노조, 58년 만의 첫 파업 끝에 잠정합의…600만원·특별승호 3호봉 아시아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtUTZuT1ZxeTM0UzRERE1wdm02V2ZnUFlUUm01TDFBQUdOdzZHaE5NRTZQTGsxRjRLdnczMS11aWNPbFY1MVZ2NlFnU09HWVpXbE0xQnU0Rk5ldnJ5eEE?oc=5",
+      "date": "Fri, 30 Oct 2026 09:25:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHY3LXhyRjBQTmwwdGswVjR2dDZramFBZ1BIZ01ua2ZneXNfQWRnUFNpeUZCek41M1JWUGxGdTh4MFdfUUg2NlgxMXFRNU9uck53ekJCSUc0bTBaQV9mU3lOaFRlLVZ2M0l3WXVqZlE5SmVTWkdtWTQtRHlkdi1BNFI1LTTSAZgBQVVfeXFMUE0yazF2S0RNVk1aRXVaSnpWWlhaQVZDdjU1QktULWJqcmFWNU96d2pfREZVVlFuTEc0TTJRRFpDbGtRV0JrdUJmY2wxN1pWNjhWMDNjREZQZkJsMGt4VzFobmt3X2pEMDNxSzRiWjNCSG1jam8tQW9xSWV3Z0sydFJLV2U3YUQ2OWV5czlucGJURkxfYTA0V1E?oc=5": {
+      "title": "체코 원전서 드러난 ‘선(先) 선정·후(後) 단가 협상’의 촌극… 한수원 원전 수주 관행 도마 위 - Chosunbiz",
+      "summary": "체코 원전서 드러난 ‘선(先) 선정·후(後) 단가 협상’의 촌극… 한수원 원전 수주 관행 도마 위 Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHY3LXhyRjBQTmwwdGswVjR2dDZramFBZ1BIZ01ua2ZneXNfQWRnUFNpeUZCek41M1JWUGxGdTh4MFdfUUg2NlgxMXFRNU9uck53ekJCSUc0bTBaQV9mU3lOaFRlLVZ2M0l3WXVqZlE5SmVTWkdtWTQtRHlkdi1BNFI1LTTSAZgBQVVfeXFMUE0yazF2S0RNVk1aRXVaSnpWWlhaQVZDdjU1QktULWJqcmFWNU96d2pfREZVVlFuTEc0TTJRRFpDbGtRV0JrdUJmY2wxN1pWNjhWMDNjREZQZkJsMGt4VzFobmt3X2pEMDNxSzRiWjNCSG1jam8tQW9xSWV3Z0sydFJLV2U3YUQ2OWV5czlucGJURkxfYTA0V1E?oc=5",
+      "date": "Fri, 30 Oct 2026 09:23:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KcUNuSnV2YWRnYTBBLVFvY21vUExudHhVSUNDOWpSaDUyY0ZZejR0YVMzYmJ5ZXd0a1lDc1hPOV9nZjFxbGN4SVpNVTgtNEJjd3RB?oc=5": {
+      "title": "[Breaking] POSCO labor and management reach tentative wage deal, avert third strike - 매일경제",
+      "summary": "[Breaking] POSCO labor and management reach tentative wage deal, avert third strike 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KcUNuSnV2YWRnYTBBLVFvY21vUExudHhVSUNDOWpSaDUyY0ZZejR0YVMzYmJ5ZXd0a1lDc1hPOV9nZjFxbGN4SVpNVTgtNEJjd3RB?oc=5",
+      "date": "Fri, 30 Oct 2026 09:35:37 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
     }
   },
   "brief_sent": {
@@ -6104,7 +6460,7 @@
   ],
   "gemini_ai": {
     "2026-10-29": 25,
-    "2026-10-30": 35
+    "2026-10-30": 39
   },
   "ai_cooldowns": {}
 }
