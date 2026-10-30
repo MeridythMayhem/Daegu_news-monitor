@@ -1867,40 +1867,7 @@
     "fb9495b3768d9cdf9ad5de311272774567dbdb63f239f46e6646d1ac8c73f90d": "2026-10-30T18:03:04.208310+09:00",
     "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00"
   },
-  "pending": {
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205227&mode=view": {
-      "title": "경주 시 골든 기업 5개 업체 선정 지원",
-      "summary": "경주 시가 성장 잠재력과 경쟁력을 갖춘 우수 중소기업 5개사를 ‘ 경주 시 골든기업’으로 선정해... 또 선정된 중소기업에 대해 중소기업 운전자금 융자 한도 우대 혜택과 함께 지방세 세무조사 도 3년간 유예됩니다.",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205227&mode=view",
-      "date": "Fri, 30 Oct 2026 20:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_wait_reason": "핵심 사건 분류 불일치",
-      "ai_failure_kind": "validation",
-      "review": "미검토"
-    },
-    "http://www.ttlnews.com/news/articleView.html?idxno=3157178": {
-      "title": "SK이노베이션, 2027년 사장단 인사 단행",
-      "summary": "산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임했으며 에너지믹스와 천연가스 수급, 그리드(Grid) 등 전력인프라 및 전력시장 구조에 대한 이해를 갖췄다고 SK이노베이션은 설명했다. 강동수...",
-      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3157178",
-      "date": "Fri, 30 Oct 2026 20:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
@@ -6832,6 +6799,43 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300176&t=NN": {
+      "title": "에코프로 , 부사장·상무 등 14명 승진…\"미래 경쟁력 강화\"",
+      "summary": "에코프로 그룹이 미래 경쟁력 강화를 위해 부사장 3명, 상무 11명 등 총 14명을 승진시키는 임원 인사를 실시했다고 30일 밝혔다. 신임 부사장으로는 오상영 에코프로 비엠 상무, 이종철 에코프로 머티리얼즈 상무, 최선미...",
+      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300176&t=NN",
+      "date": "Fri, 30 Oct 2026 21:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.ikbc.co.kr/article/view/kbc202610300091": {
+      "title": "포스코 노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상",
+      "summary": "포스코 노사가 기본급 2.6% 인상을 중심으로 한 2026년 임금 협약에 잠정 합의했습니다. 지난 6월 16일 임금 교섭을 시작한 지 4개월여 만입니다. 포스코 노사는 30일 오전 10시 30분부터 경북 포항의 본사에서 만나 임금...",
+      "url": "https://www.ikbc.co.kr/article/view/kbc202610300091",
+      "date": "Fri, 30 Oct 2026 21:11:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -7140,7 +7144,7 @@
   ],
   "gemini_ai": {
     "2026-10-29": 25,
-    "2026-10-30": 48
+    "2026-10-30": 50
   },
   "ai_cooldowns": {}
 }
