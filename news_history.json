@@ -6836,6 +6836,89 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7191604": {
+      "title": "포스코 노사, 무기한 파업 문턱서 극적 합의…\"사측, 통 큰 결단\"",
+      "summary": "잠정 합의안에는 기본급 2.6% 인상과 일시금 600만원 지급, 특별승호 3호봉, 명절 상여금 200만원과 기본급 20%, 교대 휴일수당 추가, 상주 ·정비수당 2만원, 근로자 에 국한된 의료 복지를 그의 배우자, 자녀로 확대하는...",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191604",
+      "date": "Fri, 30 Oct 2026 22:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사, 무기한 파업 문턱서 극적 합의…\"사측, 통 큰 결단\"",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "http://www.snmnews.com/news/articleView.html?idxno=576725": {
+      "title": "[종합] 포스코 노사, 무기한 파업 문턱서 극적 잠정합의…내달 7일 찬반...",
+      "summary": "포스코 노사가 창사 58년 만의 첫 파업을 거쳐 기본임금 인상과 특별호봉 부여, 일시금 지급 등을 포함한... 30일 포스코 노동조합이 공개한 잠정합의 설명자료에 따르면 노사는 올해 기본임금을 정률 2.6% 인상하기로...",
+      "url": "http://www.snmnews.com/news/articleView.html?idxno=576725",
+      "date": "Fri, 30 Oct 2026 22:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[종합] 포스코 노사, 무기한 파업 문턱서 극적 잠정합의…내달 7일 찬반...",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbmFzbnBoVTNlSExDSFRSY0Q2eVRFWmV3WU12RmhrOF9EbFpwZzVtSGtIUDU3VElCWGxja3VRTXU5LWVGYk5EendBQVFybWhEMThHekZNa0swcTdqeDZKN045OGd0aThUNnJGemZ3T2_SAXRBVV95cUxQMGgxQTdlOWQtdnhwS3d5Ympkc2Q2cElTdUVnNVNfTW5LU096TzRVRjBRQ29RSnhUeWpqYWhIalVrTzJpbnkxclhUeFRFT0RGTzAxUGhtUWRvbGVtdldtQTdWMWdINmtPYnZ5MGhOc185UGNLMQ?oc=5": {
+      "title": "포스코 노사, 무기한 파업 문턱서 극적 합의…“사측 통 큰 결단” - 주간한국",
+      "summary": "포스코 노사, 무기한 파업 문턱서 극적 합의…“사측 통 큰 결단” 주간한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbmFzbnBoVTNlSExDSFRSY0Q2eVRFWmV3WU12RmhrOF9EbFpwZzVtSGtIUDU3VElCWGxja3VRTXU5LWVGYk5EendBQVFybWhEMThHekZNa0swcTdqeDZKN045OGd0aThUNnJGemZ3T2_SAXRBVV95cUxQMGgxQTdlOWQtdnhwS3d5Ympkc2Q2cElTdUVnNVNfTW5LU096TzRVRjBRQ29RSnhUeWpqYWhIalVrTzJpbnkxclhUeFRFT0RGTzAxUGhtUWRvbGVtdldtQTdWMWdINmtPYnZ5MGhOc185UGNLMQ?oc=5",
+      "date": "Fri, 30 Oct 2026 13:42:52 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94d1dQLVBUYk5yWi1yNDZfTFBUcGJsNkxLTGtCM2RWZ1M0LUs1em1LOXFJVlZoM3RYdzgtZTg2UktnSk02NGVKVzhpWm1FaVBodE50dEMtdWRyUQ?oc=5": {
+      "title": "포스코, 140일 만에 ‘기본급 2.6%·600만원’ 잠정합의⋯ “압도적 반대표로 총파업” 댓글 역풍 - 브릿지경제",
+      "summary": "포스코, 140일 만에 ‘기본급 2.6%·600만원’ 잠정합의⋯ “압도적 반대표로 총파업” 댓글 역풍 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94d1dQLVBUYk5yWi1yNDZfTFBUcGJsNkxLTGtCM2RWZ1M0LUs1em1LOXFJVlZoM3RYdzgtZTg2UktnSk02NGVKVzhpWm1FaVBodE50dEMtdWRyUQ?oc=5",
+      "date": "Fri, 30 Oct 2026 13:27:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코, 140일 만에 ‘기본급 2.6%·600만원’ 잠정합의⋯ “압도적 반대표로 총파업” 댓글 역풍 - 브릿지경제",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -7144,7 +7227,7 @@
   ],
   "gemini_ai": {
     "2026-10-29": 25,
-    "2026-10-30": 50
+    "2026-10-30": 52
   },
   "ai_cooldowns": {}
 }
