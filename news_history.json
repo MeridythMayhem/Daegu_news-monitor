@@ -1169,7 +1169,8 @@
     "http://www.breaknews.com/1246970": "2026-10-30T09:02:46.508680+09:00",
     "http://www.breaknews.com/1246983": "2026-10-30T09:02:46.508680+09:00",
     "http://www.wsobi.com/news/articleView.html?idxno=320686": "2026-10-30T09:02:46.508680+09:00",
-    "http://www.newsdream.kr/news/articleView.html?idxno=121173": "2026-10-30T10:03:46.701562+09:00"
+    "http://www.newsdream.kr/news/articleView.html?idxno=121173": "2026-10-30T10:03:46.701562+09:00",
+    "https://www.hidomin.com/news/articleView.html?idxno=727169": "2026-10-30T11:04:06.786798+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1841,74 +1842,63 @@
     "3610e3d9aeb69be4528e21c5177d68d83129b67724eaabc341ae1de3800ff6f5": "2026-10-30T09:02:46.508680+09:00",
     "005e15f5de3d5a10b8efbafed1ff33a147fe1207f6b694b93f206d2fa8bf96eb": "2026-10-30T09:02:46.508680+09:00",
     "298906e9551bc787edfda14c71654fc451f2a5bb5473dfdbc1e96dfbbe271251": "2026-10-30T09:02:46.508680+09:00",
-    "0ad2cb21f5199e8c5e6bfafde5e298ffafbc9d43819c91f48f2f8814bba038fb": "2026-10-30T10:03:46.701562+09:00"
+    "0ad2cb21f5199e8c5e6bfafde5e298ffafbc9d43819c91f48f2f8814bba038fb": "2026-10-30T10:03:46.701562+09:00",
+    "add1d3c2ffc7399091944e92589e435b9d0a1c677ef84a9d422c6e63a43bcdb2": "2026-10-30T11:04:06.786798+09:00"
   },
   "pending": {
-    "http://www.intn.co.kr/news/articleView.html?idxno=2054413": {
-      "title": "국세청, 2025년 1만3985건 세무조사 로 5.7조 부과…건당 4억",
-      "summary": "1억3000만원, 대구 국세청 906건 조사 ·2085억원 부과·건당 부과세액 2억3000만원 이다. 국세청은 2025년 총 1만3985건을 세무조사 해 5조694억원을 부과, 건당 4억1000만원을 부과했다. 지방국세청 조사 유형별...",
-      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2054413",
-      "date": "Fri, 30 Oct 2026 09:58:00 +0900",
+    "https://www.nocutnews.co.kr/news/6599688": {
+      "title": "경주시, 우수 중소기업 5곳 '골든기업' 선정…2100만원 지원",
+      "summary": "경북 경주시가 성장 잠재력과 경쟁력을 갖춘 지역 우수 중소기업 5곳을 '2026년 경주시 골든기업'으로 선정했다. 선정 기업에는 최대 2100만 원의 사업비와 세무조사 유예, 각종 기업 지원사업 우대 혜택 등을 제공하며...",
+      "url": "https://www.nocutnews.co.kr/news/6599688",
+      "date": "Fri, 30 Oct 2026 10:50:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "basis": "제목의 관내 지명/기관",
       "category": "세무 조사·혐의 관련",
-      "priority": 0,
+      "priority": 70,
       "needs_ai": true,
       "filter_version": 12,
-      "review": "AI 관련성 낮음"
+      "ai_wait_reason": "핵심 사건 분류 불일치",
+      "review": "미검토"
     },
-    "http://www.yonhapnewstv.co.kr/news/MYH20261030090312H06": {
-      "title": "[사건사고] 중앙고속도로 화물차 화재…운전자 등 인명피해 없어 外",
-      "summary": "베트남 호찌민을 거점으로 활동하다 현지 공안과의 공조 수사로 붙잡힌 피싱 조직 ' 대동 단결' 조직원들입니다. 이들은 법원 사무관과 검사, 금융감독원 직원 등으로 역할을 나눠 한국인 피해자들을 속였습니다. 먼저...",
-      "url": "http://www.yonhapnewstv.co.kr/news/MYH20261030090312H06",
-      "date": "Fri, 30 Oct 2026 09:04:00 +0900",
+    "https://www.newscj.com/news/articleView.html?idxno=3444421": {
+      "title": "포스코 노사, 임금교섭 다시 마주 앉는다… 무기한 파업 전 분수령",
+      "summary": "포스코 노사가 무기한 파업을 앞두고 다시 협상 테이블에 앉는다. 양측이 임금과 격려금 등 핵심 쟁점을 놓고 입장 차를 좁힐 수 있을지가 이번 교섭의 관건이 될 전망이다. 포스코 노사는 30일 오전 10시 30분부터 경북...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3444421",
+      "date": "Fri, 30 Oct 2026 10:40:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
+      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
       "review": "AI 관련성 낮음"
     },
-    "http://www.intn.co.kr/news/articleView.html?idxno=2054410": {
-      "title": "세무 법인HKL '稅相 읽기'(63) 조세심판원, '도관(Conduit)' 불과한 재개발...",
-      "summary": "■ 곽영국 대표 세무 사 -국립 세무 대학 내국세학과 -1991~1999 영덕 .서대문.중부.종로 세무 서 등 근무 -2000~2009 서울지방국세청 조사 4국 1과 -2010~2011 국세청 조사 국 -2011~2024 법무법인 태평양 세무조사 실무대응팀 책임자...",
-      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2054410",
-      "date": "Fri, 30 Oct 2026 09:54:00 +0900",
+    "https://www.m-i.kr/news/articleView.html?idxno=2012345": {
+      "title": "포스코 노사, 3차 파업 사흘 앞두고 교섭 재개",
+      "summary": "매일일보 = 정경화 기자 | 포스코 노사가 오는 11월 2일 예고된 무기한 3차 파업을 사흘 앞두고 임금 교섭을 재개한다. 30일 포스코 노사는 이날 오전 10시 30분부터 경북 포항 본사에서 2026년 임금 협상을 위한...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2012345",
+      "date": "Fri, 30 Oct 2026 10:32:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
+      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
       "review": "AI 관련성 낮음"
     },
-    "https://www.sidae.com/article/2026103009395018329": {
-      "title": "SK이노베이션, 정승일 총괄사장?강동수 사장 신규 선임",
-      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임했다. 에너지믹스, 천연가스 수급, 그리드(Grid) 등 전력인프라 및 전력시장 구조를 입체적으로 이해하는 에너지 전문가라는...",
-      "url": "https://www.sidae.com/article/2026103009395018329",
-      "date": "Fri, 30 Oct 2026 09:59:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=229381": {
-      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 선임…전력사업에 속도",
-      "summary": "정승일 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임했다. 에너지믹스와 천연가스 수급은 물론 전력망 등 전력 인프라와 전력시장 구조에 대한 폭넓은 이해를 갖춘 에너지...",
-      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229381",
-      "date": "Fri, 30 Oct 2026 09:58:00 +0900",
+    "https://news.tf.co.kr/read/economy/2382884.htm": {
+      "title": "SK이노, 정승일 총괄사장·강동수 사장 선임…\"전력 사업 강화\"",
+      "summary": "그는 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지 전문가다. 이날 SK이노베이션은 강동수 SK㈜ 담당사장 겸 PM부문장도 SK이노베이션 사장 겸 SK에너지 사장으로 신규 선임했다. 강...",
+      "url": "https://news.tf.co.kr/read/economy/2382884.htm",
+      "date": "Fri, 30 Oct 2026 10:53:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1919,11 +1909,11 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.seoultimes.news/news/article.html?no=2000101558": {
-      "title": "SK이노베이션, 정승일 총괄사장 선임…전력사업 전환 속도",
-      "summary": "정 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장을 지냈다. 에너지 정책과 천연가스 수급, 전력망 등 관련 분야에서 경력을 쌓았다. SK이노베이션은 전력시장과 인프라에 밝은 정 사장을...",
-      "url": "https://www.seoultimes.news/news/article.html?no=2000101558",
-      "date": "Fri, 30 Oct 2026 09:56:00 +0900",
+    "https://www.econovill.com/news/articleView.html?idxno=755468": {
+      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 신규 선임…전력사업 전환...",
+      "summary": "1965년생인 정 총괄사장은 서울대 경영학 학사와 석사 학위를 취득했으며, 한국가스공사 사장과 산업통상자원부 차관, 한국전력공사 사장 등을 역임했다. 올해 SK㈜ 미래성장 담당 사장으로 합류했으며 에너지...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=755468",
+      "date": "Fri, 30 Oct 2026 10:48:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1934,11 +1924,11 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.seoulfn.com/news/articleView.html?idxno=641420": {
-      "title": "SK이노, 리더십 교체···정승일 총괄사장·강동수 사장 선임",
-      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임하며, 에너지믹스, 천연가스 수급, 그리드(Grid) 등 전력인프라 및 전력시장 구조를 입체적으로 이해하는 손꼽히는 에너지...",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641420",
-      "date": "Fri, 30 Oct 2026 09:50:00 +0900",
+    "https://www.livebiz.today/news/articleView.html?idxno=206052": {
+      "title": "SK그룹, '안정 속 쇄신' 사장단 인사 단행...정승일 SK이노 CEO 발탁·하이...",
+      "summary": "산업통상자원부 차관, 한국가스공사 ·한국전력공사 사장을 잇따라 역임한 정 사장은 전력·가스산업과 에너지 정책 전반에 정통한 인사다. SK그룹은 올해 1월 정 사장을 영입해 SK㈜ 미래성장담당 사장 겸 SK하이닉스...",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=206052",
+      "date": "Fri, 30 Oct 2026 10:38:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1949,11 +1939,11 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.kukinews.com/article/view/kuk202610300026": {
-      "title": "SK이노, 정승일 총괄사장·강동수 사장 선임…전력사업에 힘 싣는다",
-      "summary": "정승일 신임 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지·전력 분야 전문가다. 에너지 정책과 천연가스 수급, 전력망 인프라 등 관련 분야에서 폭넓은 경험을 쌓았다....",
-      "url": "https://www.kukinews.com/article/view/kuk202610300026",
-      "date": "Fri, 30 Oct 2026 09:48:00 +0900",
+    "https://www.nocutnews.co.kr/news/6599661": {
+      "title": "'안정 속 변화' SK사장단 인사…하닉 곽노정 유임·이노 정승일 내정",
+      "summary": "정 사장은 산업통상자원부 차관과 한국가스공사 사장, 한국전력공사 사장을 역임한 전력·에너지 전문가다. 올해 SK㈜ 미래성장 담당 사장으로 합류했으며, 앞으로 SK이노베이션의 기존 사업 경쟁력 강화와 신규 전력...",
+      "url": "https://www.nocutnews.co.kr/news/6599661",
+      "date": "Fri, 30 Oct 2026 10:31:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1964,11 +1954,11 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.newstree.kr/newsView/ntr202610300003": {
-      "title": "SK이노 사장단 '물갈이'...이노베이션 총괄사장에 정승일 선임",
-      "summary": "정 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임했으며, 에너지 수급과 전력망 등 전력 인프라 및 시장구조에 대한 전문성을 갖추고 있다. 강동수 신임 사장은 사업 포트폴리오...",
-      "url": "https://www.newstree.kr/newsView/ntr202610300003",
-      "date": "Fri, 30 Oct 2026 09:48:00 +0900",
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81074": {
+      "title": "SK그룹 2027년 사장단 인사…SK이노베이션 정승일 신임 총괄사장 선임",
+      "summary": "정 사장은 산업통상자원부 차관과 한국가스공사 사장, 한국전력공사 사장 등을 역임했다. 에너지 정책과 천연가스 수급, 전력망 등 전력산업 전반에 걸친 경험을 갖춘 인물이다. SK이노베이션은 정 사장의 전문성을...",
+      "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81074",
+      "date": "Fri, 30 Oct 2026 10:24:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1979,11 +1969,11 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=283556": {
-      "title": "[인사] SK이노베이션, 총괄사장 정승일·사장 강동수 선임…'실행력 방...",
-      "summary": "특히 그는 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장을 역임하며, 에너지믹스, 천연가스 수급, 그리드(Grid) 등 전력인프라·전력시장 구조를 이해하는 에너지 전문가이다. 강동수 사장은...",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283556",
-      "date": "Fri, 30 Oct 2026 09:44:00 +0900",
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=91203": {
+      "title": "SK그룹, 사장단 인사 단행 .... 이노베이션 정승일 발탁·하이닉스 곽노...",
+      "summary": "산업통상자원부 차관을 지낸 정 사장은 한국가스공사 사장과 한국전력공사 사장을 잇달아 역임해 전력·가스산업과 에너지 정책 전반에 정통한 인물이다. SK그룹은 올해 1월 정 사장을 영입해 SK㈜ 미래성장담당 사장...",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91203",
+      "date": "Fri, 30 Oct 2026 10:24:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1994,11 +1984,11 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.fnnews.com/news/202610300926234795": {
-      "title": "SK이노, 정승일 총괄사장·강동수 사장 선임…전력사업 전환 추진",
-      "summary": "정 신임 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임했다. 에너지 정책과 전력·가스 분야의 공공기관을 이끈 경험을 바탕으로 SK이노베이션의 전력사업 전환과...",
-      "url": "https://www.fnnews.com/news/202610300926234795",
-      "date": "Fri, 30 Oct 2026 09:29:00 +0900",
+    "https://www.ezyeconomy.com/news/articleView.html?idxno=241389": {
+      "title": "[인사] SK이노베이션, 정승일 총괄사장 선임…전력사업 전환 속도",
+      "summary": "정 신임 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지 전문가다. 에너지믹스와 천연가스 수급, 전력망 등 에너지·전력 인프라 전반에 대한 이해를 바탕으로...",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241389",
+      "date": "Fri, 30 Oct 2026 10:22:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -2009,11 +1999,11 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.dailian.co.kr/news/view/1708536/?sc=Naver": {
-      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 선임…\"미래 성장전략 실...",
-      "summary": "정 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임했다. SK이노베이션은 에너지·전력 분야의 전문성과 경영 경험을 선임 배경으로 제시했다. 강동수 신임 사장은 사업...",
-      "url": "https://www.dailian.co.kr/news/view/1708536/?sc=Naver",
-      "date": "Fri, 30 Oct 2026 09:28:00 +0900",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699626&ref=A": {
+      "title": "SK 사장단 인사…산업부 차관 출신 정승일 SK이노 CEO 내정",
+      "summary": "정 CEO는 산업통상부 차관 출신으로 한국가스공사 , 한국전력공사 사장을 지낸 에너지, 전력 분야 전문가입니다. 앞으로 글로벌 경기 둔화와 에너지 시장 변동성 등 대외 리스크에 대응하고, 주력 사업의 본원적...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699626&ref=A",
+      "date": "Fri, 30 Oct 2026 10:17:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -2024,16 +2014,61 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000049.html": {
-      "title": "SK그룹, 2027년 사장단 인사 단행 … 주요 CEO 유임·실무형 리더 발탁",
-      "summary": "차관 ▲2018년 한국가스공사 사장 강동수 SK이노베이션 대표이사 겸 SK에너지 대표이사 ▲1969년생 ▲서울대 경영학 학사 ▲브리티시컬럼비아대 MBA ▲2025년 SK㈜ 담당 사장 겸 PM부문장 ▲2025년 SK㈜ PM부문장...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000049.html",
-      "date": "Fri, 30 Oct 2026 09:26:00 +0900",
+    "https://www.viva100.com/article/20261030500227": {
+      "title": "SK그룹, 2027년 사장단 인사 단행⋯ “안정 속 쇄신으로 미래 성장 가속...",
+      "summary": "산업통상자원부 차관, 한국가스공사 사장, 한국전력공사 대표이사 등을 역임한 정 CEO는 대외 리스크 대응과 함께 신규 전력 사업을 본격 추진한다. 또한 SK 운영 전반을 총괄해온 강동수 사장이 SK이노베이션 각자 대표...",
+      "url": "https://www.viva100.com/article/20261030500227",
+      "date": "Fri, 30 Oct 2026 10:08:00 +0900",
       "channels": [
         "domestic"
       ],
       "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
       "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.mediawatch.kr/news/article.html?no=261552": {
+      "title": "SK이노베이션, 정승일 신임 총괄사장 선임… 전력·에너지 전문가로 포...",
+      "summary": "정 사장은 경제관료 출신으로 산업통상자원부 차관과 한전 사장, 한국가스공사 사장 등을 역임했다. SK이노베이션 관계자는 “정 CEO는 글로벌 경기 둔화와 에너지 시장 변동성 등 대외 리스크에 대응하고 주력 사업의...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=261552",
+      "date": "Fri, 30 Oct 2026 10:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.cnbnews.com/news/articleView.html?idxno=1021645": {
+      "title": "SK이노베이션, 새 대표이사에 정승일·강동수 내정",
+      "summary": "정승일 신임 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지 분야 전문가로, SK이노베이션의 종합에너지기업(Total Energy Company) 전환과 전력 사업 전략을 총괄한다....",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1021645",
+      "date": "Fri, 30 Oct 2026 10:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoQ3NZOUE5NUFrYlhrWWx4Q2l5TGdOSHdPOGRTVXYwX242ZlF4ay04eFNLOUl5TDg2QVZWcGRoLVF6bDBBWXdkNWVCQQ?oc=5": {
+      "title": "포스코이앤씨 더샵 퍼스트월드 서울…308실 11월 분양 : 부동산 - 재경일보",
+      "summary": "포스코이앤씨 더샵 퍼스트월드 서울…308실 11월 분양 : 부동산 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoQ3NZOUE5NUFrYlhrWWx4Q2l5TGdOSHdPOGRTVXYwX242ZlF4ay04eFNLOUl5TDg2QVZWcGRoLVF6bDBBWXdkNWVCQQ?oc=5",
+      "date": "Fri, 30 Oct 2026 01:45:29 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "관심기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
@@ -4141,6 +4176,472 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
+    },
+    "https://www.nextdaily.co.kr/news/articleView.html?idxno=254379": {
+      "title": "LS전선, 구미 에 3500억 투입해 희토류 영구자석 공장 건립",
+      "summary": "LS전선은 희토류 영구자석 사업 자회사 코리아모션웍스가 29일 경상북도· 구미 시와 약 3500억 원 규모의 생산시설 건립을 위한 투자협약( MOU )을 맺었다고 30일 밝혔다. 구자근·강명구 국회의원, 이철우 경북도지사, 김장호...",
+      "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254379",
+      "date": "Fri, 30 Oct 2026 10:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "경제·투자",
+        "score": 80,
+        "evidence": "LS전선은 희토류 영구자석 사업 자회사 코리아모션웍스가 29일 경상북도· 구미 시와 약 3500억 원 규모의 생산시설 건립을 위한 투자협약",
+        "provider": "gemini",
+        "scope_label": "관내: 구미"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.hankookilbo.com/news/article/A2026103009570002101?did=NA": {
+      "title": "경북도, 희토류 영구자석 생산기지 협약… 구미에 3500억 투자 유치",
+      "summary": "투자양해각서( MOU )를 체결했다. 코리아모션웍스는 LS전선이 지분 100%를 보유한 자회사로, 2029년까지... 27일에는 영구자석 제조기업 케이엠엠아이(KMMI)가 경북도· 포항 시와 함께 3,000억 원 규모의 투자협약을 체결했다....",
+      "url": "https://www.hankookilbo.com/news/article/A2026103009570002101?did=NA",
+      "date": "Fri, 30 Oct 2026 10:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "경북도, 희토류 영구자석 생산기지 협약… 구미에 3500억 투자 유치",
+        "provider": "gemini",
+        "scope_label": "관내: 구미"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=727175": {
+      "title": "경상북도 ·구미시·코리아모션웍스 3자 투자협약 체결…희토류 자석 생...",
+      "summary": "이번 협약은 'POST APEC 경상북도 투자포럼 기업인의 밤' 행사와 연계해 진행됐으며, 이철우 경 북도 지사와... LS전선이 지분 100%를 보유한 자회사 코리아모션웍스는 2026년부터 2029년까지 구미국가산업단지 내 LS전선...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=727175",
+      "date": "Fri, 30 Oct 2026 10:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "경상북도 ·구미시·코리아모션웍스 3자 투자협약 체결",
+        "provider": "gemini",
+        "scope_label": "관내: 경상북도, 구미"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=727169": {
+      "title": "이슬람 국가서 반려견 시장 개척…칠곡군 하이비오, 9만 달러 MOU 체결",
+      "summary": "이슬람 국가인 말레이시아에서 경북 칠곡군의 반려견 사료·간식 제조업체 하이비오가 9만 달러 규모의 수출 업무협약( MOU ) 2건을 체결했다. 칠곡군 말레이시아 시장개척단에 참가한 하이비오(대표 양해인)는 현지...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=727169",
+      "date": "Fri, 30 Oct 2026 10:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "경북 칠곡군의 반려견 사료·간식 제조업체 하이비오",
+        "provider": "gemini",
+        "scope_label": "관내: 칠곡"
+      },
+      "review": "AI 참고 적합"
+    },
+    "http://www.sisafocus.co.kr/news/articleView.html?idxno=366970": {
+      "title": "이철우 경북 도지사 투자유치 행보…구미에 3500억 투자",
+      "summary": "경북 도와 구미시는 29일 서울 롯데호텔에서 열린 '경상북도 기업인의 밤'에서 코리아모션웍스㈜(KMW)와 희토류 영구자석 국내 생산시설 구축을 위한 투자양해각서( MOU )를 체결했다. 30일 경북 도에 따르면 이번 협약은 이...",
+      "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=366970",
+      "date": "Fri, 30 Oct 2026 10:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "구미에 3500억 투자",
+        "provider": "gemini",
+        "scope_label": "관내: 구미"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.nocutnews.co.kr/news/6599688": {
+      "title": "경주시, 우수 중소기업 5곳 '골든기업' 선정…2100만원 지원",
+      "summary": "경북 경주시가 성장 잠재력과 경쟁력을 갖춘 지역 우수 중소기업 5곳을 '2026년 경주시 골든기업'으로 선정했다. 선정 기업에는 최대 2100만 원의 사업비와 세무조사 유예, 각종 기업 지원사업 우대 혜택 등을 제공하며...",
+      "url": "https://www.nocutnews.co.kr/news/6599688",
+      "date": "Fri, 30 Oct 2026 10:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "핵심 사건 분류 불일치",
+      "review": "미검토"
+    },
+    "https://news.tf.co.kr/read/economy/2382882.htm": {
+      "title": "포스코 노사, '운명의 한 주'…무기한 파업 사흘 앞두고 막판 협상",
+      "summary": "우려도 포스코 노사가 임금협상에서 접점을 찾지 못하면서 무기한 파업을 앞두고 노사 갈등이 최대... 30일 철강업계에 따르면 포스코 노사는 지난 23일 제28차 본교섭 결렬 이후 교섭 재개를 추진해왔다. 양측은 전날...",
+      "url": "https://news.tf.co.kr/read/economy/2382882.htm",
+      "date": "Fri, 30 Oct 2026 10:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사가 임금협상에서 접점을 찾지 못하면서 무기한 파업을 앞두고",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.newscj.com/news/articleView.html?idxno=3444421": {
+      "title": "포스코 노사, 임금교섭 다시 마주 앉는다… 무기한 파업 전 분수령",
+      "summary": "포스코 노사가 무기한 파업을 앞두고 다시 협상 테이블에 앉는다. 양측이 임금과 격려금 등 핵심 쟁점을 놓고 입장 차를 좁힐 수 있을지가 이번 교섭의 관건이 될 전망이다. 포스코 노사는 30일 오전 10시 30분부터 경북...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3444421",
+      "date": "Fri, 30 Oct 2026 10:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2012345": {
+      "title": "포스코 노사, 3차 파업 사흘 앞두고 교섭 재개",
+      "summary": "매일일보 = 정경화 기자 | 포스코 노사가 오는 11월 2일 예고된 무기한 3차 파업을 사흘 앞두고 임금 교섭을 재개한다. 30일 포스코 노사는 이날 오전 10시 30분부터 경북 포항 본사에서 2026년 임금 협상을 위한...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2012345",
+      "date": "Fri, 30 Oct 2026 10:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.tf.co.kr/read/economy/2382884.htm": {
+      "title": "SK이노, 정승일 총괄사장·강동수 사장 선임…\"전력 사업 강화\"",
+      "summary": "그는 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지 전문가다. 이날 SK이노베이션은 강동수 SK㈜ 담당사장 겸 PM부문장도 SK이노베이션 사장 겸 SK에너지 사장으로 신규 선임했다. 강...",
+      "url": "https://news.tf.co.kr/read/economy/2382884.htm",
+      "date": "Fri, 30 Oct 2026 10:53:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.econovill.com/news/articleView.html?idxno=755468": {
+      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 신규 선임…전력사업 전환...",
+      "summary": "1965년생인 정 총괄사장은 서울대 경영학 학사와 석사 학위를 취득했으며, 한국가스공사 사장과 산업통상자원부 차관, 한국전력공사 사장 등을 역임했다. 올해 SK㈜ 미래성장 담당 사장으로 합류했으며 에너지...",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=755468",
+      "date": "Fri, 30 Oct 2026 10:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.gasnews.com/news/articleView.html?idxno=127422": {
+      "title": "SK이노베이션, 정승일 총괄사장∙강동수 사장 신규 선임",
+      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임하며, 에너지믹스, 천연가스 수급, 그리드(Grid) 등 전력인프라 및 전력시장 구조를 입체적으로 이해하는 손꼽히는 에너지...",
+      "url": "https://www.gasnews.com/news/articleView.html?idxno=127422",
+      "date": "Fri, 30 Oct 2026 10:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.livebiz.today/news/articleView.html?idxno=206052": {
+      "title": "SK그룹, '안정 속 쇄신' 사장단 인사 단행...정승일 SK이노 CEO 발탁·하이...",
+      "summary": "산업통상자원부 차관, 한국가스공사 ·한국전력공사 사장을 잇따라 역임한 정 사장은 전력·가스산업과 에너지 정책 전반에 정통한 인사다. SK그룹은 올해 1월 정 사장을 영입해 SK㈜ 미래성장담당 사장 겸 SK하이닉스...",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=206052",
+      "date": "Fri, 30 Oct 2026 10:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.pointe.co.kr/news/articleView.html?idxno=86891": {
+      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 신규 선임…전력 사업 전...",
+      "summary": "정 총괄사장은 산업통상자원부 차관과 한국전력공사, 한국가스공사 사장을 거치며 에너지 정책과 인프라 전반을 아우른 경험을 보유하고 있다. 전력망과 전력시장 구조, 천연가스 수급에 대한 이해도를 바탕으로 미래...",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=86891",
+      "date": "Fri, 30 Oct 2026 10:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.nocutnews.co.kr/news/6599661": {
+      "title": "'안정 속 변화' SK사장단 인사…하닉 곽노정 유임·이노 정승일 내정",
+      "summary": "정 사장은 산업통상자원부 차관과 한국가스공사 사장, 한국전력공사 사장을 역임한 전력·에너지 전문가다. 올해 SK㈜ 미래성장 담당 사장으로 합류했으며, 앞으로 SK이노베이션의 기존 사업 경쟁력 강화와 신규 전력...",
+      "url": "https://www.nocutnews.co.kr/news/6599661",
+      "date": "Fri, 30 Oct 2026 10:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.dealsitetv.com/articles/177796": {
+      "title": "SK이노, 정승일 총괄사장 선임…전력사업 강화",
+      "summary": "정승일 신임 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임하며, 에너지믹스, 천연가스 수급, 그리드 등 전력인프라 및 전력시장 구조에 대한 이해도가 높은 에너지 전문가다. 정...",
+      "url": "https://news.dealsitetv.com/articles/177796",
+      "date": "Fri, 30 Oct 2026 10:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "http://www.issuenbiz.com/news/articleView.html?idxno=81074": {
+      "title": "SK그룹 2027년 사장단 인사…SK이노베이션 정승일 신임 총괄사장 선임",
+      "summary": "정 사장은 산업통상자원부 차관과 한국가스공사 사장, 한국전력공사 사장 등을 역임했다. 에너지 정책과 천연가스 수급, 전력망 등 전력산업 전반에 걸친 경험을 갖춘 인물이다. SK이노베이션은 정 사장의 전문성을...",
+      "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81074",
+      "date": "Fri, 30 Oct 2026 10:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "http://www.worktoday.co.kr/news/articleView.html?idxno=91203": {
+      "title": "SK그룹, 사장단 인사 단행 .... 이노베이션 정승일 발탁·하이닉스 곽노...",
+      "summary": "산업통상자원부 차관을 지낸 정 사장은 한국가스공사 사장과 한국전력공사 사장을 잇달아 역임해 전력·가스산업과 에너지 정책 전반에 정통한 인물이다. SK그룹은 올해 1월 정 사장을 영입해 SK㈜ 미래성장담당 사장...",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91203",
+      "date": "Fri, 30 Oct 2026 10:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.ezyeconomy.com/news/articleView.html?idxno=241389": {
+      "title": "[인사] SK이노베이션, 정승일 총괄사장 선임…전력사업 전환 속도",
+      "summary": "정 신임 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지 전문가다. 에너지믹스와 천연가스 수급, 전력망 등 에너지·전력 인프라 전반에 대한 이해를 바탕으로...",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241389",
+      "date": "Fri, 30 Oct 2026 10:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699626&ref=A": {
+      "title": "SK 사장단 인사…산업부 차관 출신 정승일 SK이노 CEO 내정",
+      "summary": "정 CEO는 산업통상부 차관 출신으로 한국가스공사 , 한국전력공사 사장을 지낸 에너지, 전력 분야 전문가입니다. 앞으로 글로벌 경기 둔화와 에너지 시장 변동성 등 대외 리스크에 대응하고, 주력 사업의 본원적...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699626&ref=A",
+      "date": "Fri, 30 Oct 2026 10:17:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.newsis.com/view/NISX20261030_0003847959": {
+      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 선임…\"전력사업 전환 속...",
+      "summary": "정 총괄사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임했다. 에너지원 구성과 천연가스 수급, 전력망 등 전력 인프라와 전력시장 구조에 대한 이해를 갖췄다는 게 SK이노베이션 측...",
+      "url": "https://www.newsis.com/view/NISX20261030_0003847959",
+      "date": "Fri, 30 Oct 2026 10:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.viva100.com/article/20261030500227": {
+      "title": "SK그룹, 2027년 사장단 인사 단행⋯ “안정 속 쇄신으로 미래 성장 가속...",
+      "summary": "산업통상자원부 차관, 한국가스공사 사장, 한국전력공사 대표이사 등을 역임한 정 CEO는 대외 리스크 대응과 함께 신규 전력 사업을 본격 추진한다. 또한 SK 운영 전반을 총괄해온 강동수 사장이 SK이노베이션 각자 대표...",
+      "url": "https://www.viva100.com/article/20261030500227",
+      "date": "Fri, 30 Oct 2026 10:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.mediawatch.kr/news/article.html?no=261552": {
+      "title": "SK이노베이션, 정승일 신임 총괄사장 선임… 전력·에너지 전문가로 포...",
+      "summary": "정 사장은 경제관료 출신으로 산업통상자원부 차관과 한전 사장, 한국가스공사 사장 등을 역임했다. SK이노베이션 관계자는 “정 CEO는 글로벌 경기 둔화와 에너지 시장 변동성 등 대외 리스크에 대응하고 주력 사업의...",
+      "url": "https://www.mediawatch.kr/news/article.html?no=261552",
+      "date": "Fri, 30 Oct 2026 10:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.1conomynews.co.kr/news/articleView.html?idxno=51066": {
+      "title": "SK이노, 정승일 총괄사장·강동수 사장 선임…전력사업 전환 가속화",
+      "summary": "2018년 한국가스공사 사장과 산업통상자원부 차관을 지냈으며, 2021년 한국전력공사 사장을 역임했다. 2024년 사우디전력회사 사외이사를 거쳐 올해 SK㈜ 미래성장 담당 사장으로 재직했다. 강동수 신임 사장은 사업...",
+      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51066",
+      "date": "Fri, 30 Oct 2026 10:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.cnbnews.com/news/articleView.html?idxno=1021645": {
+      "title": "SK이노베이션, 새 대표이사에 정승일·강동수 내정",
+      "summary": "정승일 신임 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지 분야 전문가로, SK이노베이션의 종합에너지기업(Total Energy Company) 전환과 전력 사업 전략을 총괄한다....",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1021645",
+      "date": "Fri, 30 Oct 2026 10:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeXBBcnpjUU92b0hnSHk1MkJJSEhTM21ROW1GcGFHbDN5MXhrMkdzRkdxUkxmdE1LN2hZd1JpWHlENUh0aWMwVmxrcDdPRDUyQVNwSGQzTTFHUWlZbHZxbUVNLVBsdFJwNUE?oc=5": {
+      "title": "경상북도·구미시·코리아모션웍스 3자 투자협약 체결…희토류 자석 생산기지 구축 - 경북도민일보",
+      "summary": "경상북도·구미시·코리아모션웍스 3자 투자협약 체결…희토류 자석 생산기지 구축 경북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeXBBcnpjUU92b0hnSHk1MkJJSEhTM21ROW1GcGFHbDN5MXhrMkdzRkdxUkxmdE1LN2hZd1JpWHlENUh0aWMwVmxrcDdPRDUyQVNwSGQzTTFHUWlZbHZxbUVNLVBsdFJwNUE?oc=5",
+      "date": "Fri, 30 Oct 2026 01:24:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoQ3NZOUE5NUFrYlhrWWx4Q2l5TGdOSHdPOGRTVXYwX242ZlF4ay04eFNLOUl5TDg2QVZWcGRoLVF6bDBBWXdkNWVCQQ?oc=5": {
+      "title": "포스코이앤씨 더샵 퍼스트월드 서울…308실 11월 분양 : 부동산 - 재경일보",
+      "summary": "포스코이앤씨 더샵 퍼스트월드 서울…308실 11월 분양 : 부동산 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoQ3NZOUE5NUFrYlhrWWx4Q2l5TGdOSHdPOGRTVXYwX242ZlF4ay04eFNLOUl5TDg2QVZWcGRoLVF6bDBBWXdkNWVCQQ?oc=5",
+      "date": "Fri, 30 Oct 2026 01:45:29 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vUm5YQ2hOLXR3d3p0RjJDTU5IcERDZmFNcE9WMHRab3A2TFJaMXdDR1pibzJPOUdSOXhJYlhNSnJSWUdJYmFTNWRIVll2ak93ZG14d3YxUXdkbGxxRHNhNTdMLTg4Z2htSml0eUpiODNEVmdz?oc=5": {
+      "title": "POSCO Wage Talks Resume Ahead of Possible Strike - Businesskorea",
+      "summary": "POSCO Wage Talks Resume Ahead of Possible Strike Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vUm5YQ2hOLXR3d3p0RjJDTU5IcERDZmFNcE9WMHRab3A2TFJaMXdDR1pibzJPOUdSOXhJYlhNSnJSWUdJYmFTNWRIVll2ak93ZG14d3YxUXdkbGxxRHNhNTdMLTg4Z2htSml0eUpiODNEVmdz?oc=5",
+      "date": "Fri, 30 Oct 2026 01:07:52 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "해외기업 동향",
+        "score": 80,
+        "evidence": "POSCO Wage Talks Resume Ahead of Possible Strike",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코"
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -4368,6 +4869,11 @@
       "url": "http://www.newsdream.kr/news/articleView.html?idxno=121173",
       "title": "LS전선, 구미 에 국내 최대 규모 희토류 영구자석 공장 건립… 비중국 공...",
       "date": "Fri, 30 Oct 2026 09:34:00 +0900"
+    },
+    {
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=727169",
+      "title": "이슬람 국가서 반려견 시장 개척…칠곡군 하이비오, 9만 달러 MOU 체결",
+      "date": "Fri, 30 Oct 2026 10:28:00 +0900"
     }
   ],
   "brief_articles": [
@@ -4389,7 +4895,7 @@
   ],
   "gemini_ai": {
     "2026-10-29": 25,
-    "2026-10-30": 10
+    "2026-10-30": 16
   },
   "ai_cooldowns": {}
 }
