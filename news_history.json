@@ -1165,7 +1165,10 @@
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54102": "2026-10-29T19:02:34.719220+09:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5": "2026-10-29T20:02:39.876584+09:00",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": "2026-10-29T21:02:35.661481+09:00",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5": "2026-10-29T22:02:30.153316+09:00"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5": "2026-10-29T22:02:30.153316+09:00",
+    "http://www.breaknews.com/1246970": "2026-10-30T09:02:46.508680+09:00",
+    "http://www.breaknews.com/1246983": "2026-10-30T09:02:46.508680+09:00",
+    "http://www.wsobi.com/news/articleView.html?idxno=320686": "2026-10-30T09:02:46.508680+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1833,9 +1836,29 @@
     "0cb7f41e032f9b346145db7d2cef004a2ff08713cc68f682f3dcf6e087e06ef6": "2026-10-29T19:02:34.719220+09:00",
     "6e284bff603adf59b35484b98a311cbeaaec53d949bb74bb6a2c3a39d7bbb79c": "2026-10-29T20:02:39.876584+09:00",
     "2e8f09264a2982b1b94c6f877acd37e7d6516770540f47d1a31c60a7e271705e": "2026-10-29T21:02:35.661481+09:00",
-    "7037c2d8d3399c50e9a38492c9f10093a729250eb8a74910d8cb59d4a8de22b3": "2026-10-29T22:02:30.153316+09:00"
+    "7037c2d8d3399c50e9a38492c9f10093a729250eb8a74910d8cb59d4a8de22b3": "2026-10-29T22:02:30.153316+09:00",
+    "3610e3d9aeb69be4528e21c5177d68d83129b67724eaabc341ae1de3800ff6f5": "2026-10-30T09:02:46.508680+09:00",
+    "005e15f5de3d5a10b8efbafed1ff33a147fe1207f6b694b93f206d2fa8bf96eb": "2026-10-30T09:02:46.508680+09:00",
+    "298906e9551bc787edfda14c71654fc451f2a5bb5473dfdbc1e96dfbbe271251": "2026-10-30T09:02:46.508680+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://www.m-i.kr/news/articleView.html?idxno=2012208": {
+      "title": "구미 시, LS전선 자회사 KMW와 희토류 영구자석 생산기지 투자협약",
+      "summary": "구미 시에 따르면 KMW는 LS전선㈜이 지분 100%를 보유한 자회사다. 협약에 따라 KMW는 2026년부터 2029년까지 구미 국가산업단지 내 LS전선 인동공장 유휴부지( 구미 시 3공단2로 238)에 총 3455억6000만원을 투자해 희토류...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2012208",
+      "date": "Fri, 30 Oct 2026 08:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "분류 근거 검증 실패",
+      "review": "미검토"
+    }
+  },
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
@@ -3460,6 +3483,124 @@
         "scope_label": "관심기업: 포스코"
       },
       "review": "AI 참고 적합"
+    },
+    "http://www.breaknews.com/1246970": {
+      "title": "iM뱅크 ·한국가스공사, 지역 상생펀드 600억원…대구·경북 기업 지원",
+      "summary": "iM뱅크 와 한국가스공사가 대구·경북 지역 중소기업과 소상공인의 금융 부담을 줄이기 위해 상생펀드 규모를 기존보다 3배 늘린다. iM뱅크 (은행장 강정훈)는...",
+      "url": "http://www.breaknews.com/1246970",
+      "date": "Fri, 30 Oct 2026 08:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크, 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "iM뱅크 ·한국가스공사, 지역 상생펀드 600억원…대구·경북 기업 지원",
+        "provider": "gemini",
+        "scope_label": "관심기업: iM뱅크, 한국가스공사"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2012208": {
+      "title": "구미 시, LS전선 자회사 KMW와 희토류 영구자석 생산기지 투자협약",
+      "summary": "구미 시에 따르면 KMW는 LS전선㈜이 지분 100%를 보유한 자회사다. 협약에 따라 KMW는 2026년부터 2029년까지 구미 국가산업단지 내 LS전선 인동공장 유휴부지( 구미 시 3공단2로 238)에 총 3455억6000만원을 투자해 희토류...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2012208",
+      "date": "Fri, 30 Oct 2026 08:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "분류 근거 검증 실패",
+      "review": "미검토"
+    },
+    "http://www.breaknews.com/1246983": {
+      "title": "포항지역발전협의회, 포스코 노조에 원만한 협상 타결 당부",
+      "summary": "(사)포항지역발전협의회(회장 이칠구)는 29일 포스코 노동조합을 방문해 김성호... 이번 방문은 지난 26일 포발협 긴급 이사회에서 포스코 노사 갈등에 대한 지역사회...",
+      "url": "http://www.breaknews.com/1246983",
+      "date": "Fri, 30 Oct 2026 08:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포항지역발전협의회, 포스코 노조에 원만한 협상 타결 당부",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6337227": {
+      "title": "'접점 찾을까' 무기한 파업 사흘 앞둔 포스코 노사 이틀째 교섭",
+      "summary": "오는 11월 2일부터 무기한 파업을 예고한 포스코 노조가 30일 사측과 임금협상을 위한 교섭에 나선다. 노사는 전날 포항 본사에서 실무협의를 가졌으며, 이후 노조 측이 \"사측과 입장을 좁힌 상태\"라고 언급해 잠정...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6337227",
+      "date": "Fri, 30 Oct 2026 08:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "무기한 파업 사흘 앞둔 포스코 노사 이틀째 교섭",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코"
+      },
+      "review": "AI 참고 적합"
+    },
+    "http://www.wsobi.com/news/articleView.html?idxno=320686": {
+      "title": "포스코, QSS혁신공장 '선강부문 이송설비 개선활동' 성료...2026 사랑의열...",
+      "summary": "포스코 포항제철소 가 연ㆍ원료 공급의 핵심인 이송설비 개선에 역량을 집중해 설비 고장과 환경ㆍ안전 리스크를 줄이며 조업 안정성을 끌어올렸다고 10월 29일 밝혔다. 포항제철소 는 선강부문 4개 부서, 9개 공장이...",
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=320686",
+      "date": "Fri, 30 Oct 2026 08:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 포항제철소 가 연ㆍ원료 공급의 핵심인 이송설비 개선에 역량을 집중해",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코"
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMlNyTVFiR2g3R0Z2dW5GMzd0eG15bzBEUHR1VXNKamdPTFNOaFpJc2lJVllJV3JDejI4MkhTSzRWSWpKbVJhclRGd3p5VVh2akFNRlduVGp1RWNtR2hoam5XeC0wdw?oc=5": {
+      "title": "포스코, QSS혁신공장 '선강부문 이송설비 개선활동' 성료...2026 사랑의열매 '기부 물적부문 대상' 수상 - 여성소비자신문",
+      "summary": "포스코, QSS혁신공장 '선강부문 이송설비 개선활동' 성료...2026 사랑의열매 '기부 물적부문 대상' 수상 여성소비자신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMlNyTVFiR2g3R0Z2dW5GMzd0eG15bzBEUHR1VXNKamdPTFNOaFpJc2lJVllJV3JDejI4MkhTSzRWSWpKbVJhclRGd3p5VVh2akFNRlduVGp1RWNtR2hoam5XeC0wdw?oc=5",
+      "date": "Thu, 29 Oct 2026 23:19:22 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
     }
   },
   "brief_sent": {
@@ -3667,6 +3808,21 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5",
       "title": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\" - www.ebn.co.kr",
       "date": "Thu, 29 Oct 2026 12:10:03 GMT"
+    },
+    {
+      "url": "http://www.breaknews.com/1246970",
+      "title": "iM뱅크 ·한국가스공사, 지역 상생펀드 600억원…대구·경북 기업 지원",
+      "date": "Fri, 30 Oct 2026 08:56:00 +0900"
+    },
+    {
+      "url": "http://www.breaknews.com/1246983",
+      "title": "포항지역발전협의회, 포스코 노조에 원만한 협상 타결 당부",
+      "date": "Fri, 30 Oct 2026 08:56:00 +0900"
+    },
+    {
+      "url": "http://www.wsobi.com/news/articleView.html?idxno=320686",
+      "title": "포스코, QSS혁신공장 '선강부문 이송설비 개선활동' 성료...2026 사랑의열...",
+      "date": "Fri, 30 Oct 2026 08:22:00 +0900"
     }
   ],
   "brief_articles": [
@@ -3688,7 +3844,7 @@
   ],
   "gemini_ai": {
     "2026-10-29": 25,
-    "2026-10-30": 3
+    "2026-10-30": 5
   },
   "ai_cooldowns": {}
 }
