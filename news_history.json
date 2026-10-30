@@ -1176,7 +1176,12 @@
     "http://www.snmnews.com/news/articleView.html?idxno=576686": "2026-10-30T15:02:45.773258+09:00",
     "https://www.mhns.co.kr/news/articleView.html?idxno=766811": "2026-10-30T16:03:02.939026+09:00",
     "https://www.kbmaeil.com/article/20261030500231": "2026-10-30T16:03:02.939026+09:00",
-    "http://www.metroseoul.co.kr/article/20261030500212": "2026-10-30T17:04:32.240519+09:00"
+    "http://www.metroseoul.co.kr/article/20261030500212": "2026-10-30T17:04:32.240519+09:00",
+    "http://www.breaknews.com/1247282": "2026-10-30T18:03:04.208310+09:00",
+    "https://www.ajunews.com/view/20261030171729346": "2026-10-30T18:03:04.208310+09:00",
+    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524414": "2026-10-30T18:03:04.208310+09:00",
+    "https://www.viva100.com/article/20261030500884": "2026-10-30T18:03:04.208310+09:00",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037": "2026-10-30T18:03:04.208310+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1855,29 +1860,19 @@
     "57f4d049e88e69c28fe4abc38f101df64d11a7a6990c5a69c30a4b55f32818eb": "2026-10-30T15:02:45.773258+09:00",
     "7ab260f2bc02a8c321a714ba8f1451341e462ea8ff304e9936e5f3bbf0189aa3": "2026-10-30T16:03:02.939026+09:00",
     "7511eaa0c940e8282a55849bc37b5022b59710062bbe1075159022de065c6b41": "2026-10-30T16:03:02.939026+09:00",
-    "ee2e5a3e3a9ca696b08b0672f0168dfdc0233fe2f17a86f1d32cbb77253798cb": "2026-10-30T17:04:32.240519+09:00"
+    "ee2e5a3e3a9ca696b08b0672f0168dfdc0233fe2f17a86f1d32cbb77253798cb": "2026-10-30T17:04:32.240519+09:00",
+    "8ddfa13c6050903bfa5582320b6e943a0352563c5bd42fff59366abde2aa58f5": "2026-10-30T18:03:04.208310+09:00",
+    "d9eb8efca1c46592035141fd23837592c62e3203856cdc7afa0b3b90e7763a09": "2026-10-30T18:03:04.208310+09:00",
+    "c90aaee244ea25e57d9b3f5e4a463815666a6d6faaacad5536788454b2988046": "2026-10-30T18:03:04.208310+09:00",
+    "fb9495b3768d9cdf9ad5de311272774567dbdb63f239f46e6646d1ac8c73f90d": "2026-10-30T18:03:04.208310+09:00",
+    "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00"
   },
   "pending": {
-    "http://www.newslock.co.kr/news/articleView.html?idxno=139006": {
-      "title": "SK이노베이션, 정승일 총괄사장 선임…전력사업 전환 속도",
-      "summary": "정 사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임했다. 에너지믹스와 천연가스 수급, 전력망 등 에너지·전력 인프라와 전력시장 전반에 대한 전문성을 갖췄다. 강동수 신임 사장은...",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=139006",
-      "date": "Fri, 30 Oct 2026 16:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.tf.co.kr/read/economy/2383176.htm": {
-      "title": "건설노조, 체코 원전 시공 협상 결렬에 \"한수원 갑질 중단하라\"",
-      "summary": "\"공사비 감액 강요·협상 연기 요구 묵살\" 주장 대우건설 노조도 성명 발표…검토 기한 보장 촉구 한국수력원자력 (한수원)과 대우건설·두산에너빌리티 컨소시엄의 체코 두코바니 신규 원전 시공계약 협상이 결렬되자...",
-      "url": "https://news.tf.co.kr/read/economy/2383176.htm",
-      "date": "Fri, 30 Oct 2026 16:58:00 +0900",
+    "https://www.viva100.com/article/20261030500931": {
+      "title": "대우건설 노조, 체코 원전 협상 결렬 반발…“한수원, 공사비 부담 전가...",
+      "summary": "대우건설 노동조합이 체코 두코바니 원전 시공계약 협상을 종료한 한국수력원자력 (한수원)에 공식 사과와 재협상을 요구했다. 노조는 한수원이 공사비 증가에 따른 위험을 민간 시공사에 전가하려 했다며 국회 차원의...",
+      "url": "https://www.viva100.com/article/20261030500931",
+      "date": "Fri, 30 Oct 2026 17:58:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1888,31 +1883,31 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.ekn.kr/web/view.php?key=20261030027333448": {
-      "title": "한수원, 수자원공사·농어촌공사와 새만금 조력발전 공동개발 MOU",
-      "summary": "한국수력원자력 이 한국수자원공사, 한국농어촌공사와 전북 새만금 조력발전사업을 공동으로 해나가기 위해 손을 잡았다. 30일 한수원에 따르면, 세 기관은 이날 서울 중구 중림동 한수원 방사선보건원에서 '새만금...",
-      "url": "https://www.ekn.kr/web/view.php?key=20261030027333448",
-      "date": "Fri, 30 Oct 2026 16:50:00 +0900",
+    "https://www.newspim.com/news/view/20261030001233": {
+      "title": "건설기업노조, 한수원 체코 원전 계약 결렬 규탄…\"시공사에 불리한 구...",
+      "summary": "전국건설기업노동조합(노조)이 한국수력원자력 (한수원)의 체코 원전 하도급계약 협상 결렬 선언을 '공공기관의 갑질'로 규정하며 강력 대응을 예고했다. 30일 전국건설기업노조는 성명을 내고 한수원이 우월적 지위를...",
+      "url": "https://www.newspim.com/news/view/20261030001233",
+      "date": "Fri, 30 Oct 2026 17:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKLVU1U2M1MFYtSDQyaUF6cDlaeGtDYzZpVGc1QmVYMFp5SzVoUEdTdGtuRkFHZ3dyYjBmOGUyUmsxZ0RPYTh6SDQ5eGJnRy16R2xQaUZwX2xPOFhDZkE?oc=5": {
+      "title": "한수원, 수자원공사·농어촌공사와 새만금 조력발전 공동개발 MOU - 기후에너지데이터뱅크",
+      "summary": "한수원, 수자원공사·농어촌공사와 새만금 조력발전 공동개발 MOU 기후에너지데이터뱅크",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKLVU1U2M1MFYtSDQyaUF6cDlaeGtDYzZpVGc1QmVYMFp5SzVoUEdTdGtuRkFHZ3dyYjBmOGUyUmsxZ0RPYTh6SDQ5eGJnRy16R2xQaUZwX2xPOFhDZkE?oc=5",
+      "date": "Fri, 30 Oct 2026 08:10:03 GMT",
       "channels": [
         "domestic"
       ],
       "basis": "관심기업: 한국수력원자력",
       "category": "경제·투자",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://biz.heraldcorp.com/article/10920822?ref=naver": {
-      "title": "대우건설 노조 “한수원, 팀코리아 상생 흔들어…재협상 임해야”",
-      "summary": "대우건설 노동조합이 체코 두코바니 신규 원전 건설사업 시공계약 결렬을 알린 한국수력원자력 을 향해 재협상을 요구했다. 전국건설기업노동조합 대우건설지부는 30일 성명서를 내고 “공기업이라는 우월적 지위를...",
-      "url": "https://biz.heraldcorp.com/article/10920822?ref=naver",
-      "date": "Fri, 30 Oct 2026 16:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "관심기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
@@ -5562,6 +5557,245 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
+    },
+    "http://www.breaknews.com/1247282": {
+      "title": "경북도·구미시, KMW와 3,500억 원 투자협약…희토류 영구자석 생산기지...",
+      "summary": "투자양해각서( MOU )를 체결했다고 밝혔다. LS전선의 100% 자회사인 KMW는 구미시... high-quality jobs and the revitalization of the local economy.\" 원본 기사 보기:브레이크뉴스 대구 경북",
+      "url": "http://www.breaknews.com/1247282",
+      "date": "Fri, 30 Oct 2026 17:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "경북도·구미시, KMW와 3,500억 원 투자협약…희토류 영구자석 생산기지...",
+        "provider": "gemini",
+        "scope_label": "관내: 구미",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.viva100.com/article/20261030500884": {
+      "title": "경북 경산시-카르마코스메틱, 39억 원 MOU 체결",
+      "summary": "경북 경산시는 27일 경산시청에서 색조화장품 전문기업 카르마코스메틱과 39억 원 규모의 투자양해각서를 체결했다. 카르마코스메틱은 총 39억 원 규모의 이번 투자를 통해 경산화장품특화단지 내 3503㎡(1060평) 부지에...",
+      "url": "https://www.viva100.com/article/20261030500884",
+      "date": "Fri, 30 Oct 2026 17:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "경북 경산시-카르마코스메틱, 39억 원 MOU 체결",
+        "provider": "gemini",
+        "scope_label": "관내: 경북, 경산",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037": {
+      "title": "영천시, 지역 정주형 로봇 인재' 양성 본격화…한국폴리텍대와 MOU",
+      "summary": "아시아투데이 장경국 기자 = 경북 영천시가 한국폴리텍대학과 손잡고 미래 로봇산업을 이끌어갈 지역 정주형 인재 양성에 나선다.30일 영천시에 따르면 김병삼 영천시장은 한국폴리텍대학 로봇캠퍼스를 방문해 이철수...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037",
+      "date": "Fri, 30 Oct 2026 17:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 80,
+        "evidence": "영천시, 지역 정주형 로봇 인재' 양성 본격화…한국폴리텍대와 MOU",
+        "provider": "gemini",
+        "scope_label": "관내: 영천",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524414": {
+      "title": "대동 , 자회사 지분 571억 원 인수 연기… 실적 호조에도 자금 부담?",
+      "summary": "- 지난해 순손실 299억 원… 상반기 순이익 153억 원으로 흑자 - 인수대금 자체 자금·여신한도로… 대동 \"CB 발행은 별개 사안\" 대동 AI 트랙터 HX Seires AI. [사진= 대동 ] [일요서울ㅣ박대윤 기자] 국내 농기계 기업 대동 이...",
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524414",
+      "date": "Fri, 30 Oct 2026 17:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "대동 , 자회사 지분 571억 원 인수 연기… 실적 호조에도 자금 부담?",
+        "provider": "gemini",
+        "scope_label": "관심기업: 대동",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://dealsite.co.kr/articles/171769": {
+      "title": "에코프로 그룹, 정기 임원 인사…부사장 3명 승진",
+      "summary": "상무 11명 승진, 차세대 인재 육성 에코프로 그룹이 미래 경쟁력 강화와 차세대 경영 인재 육성을 위해 부사장 3명, 상무 11명 등 총 14명을 승진시키는 임원 인사를 단행했다고 30일 밝혔다. 임원을 주축으로 현장 중심 경영...",
+      "url": "https://dealsite.co.kr/articles/171769",
+      "date": "Fri, 30 Oct 2026 17:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://biz.chosun.com/industry/company/2026/10/30/GY4XH3YKKBA65LVZHIR5ATWA3I/": {
+      "title": "에코프로 그룹, 정기 임원 인사…부사장·상무 등 14명 승진",
+      "summary": "에코프로 그룹이 미래 경쟁력 강화와 차세대 경영 인재 육성을 위해 부사장 3명, 상무 11명 등 총 14명을 승진시키는 임원 인사를 실시했다고 30일 밝혔다. 신임 부사장으로는 오상영 에코프로 비엠 상무, 이종철...",
+      "url": "https://biz.chosun.com/industry/company/2026/10/30/GY4XH3YKKBA65LVZHIR5ATWA3I/",
+      "date": "Fri, 30 Oct 2026 17:35:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.jbnews.com/news/articleView.html?idxno=1514784": {
+      "title": "에코프로 , 부사장 3명 등 임원 14명 승진 인사",
+      "summary": "［중부매일 양정아 기자］ 충북 청주에 본사를 둔 에코프로 그룹이 부사장 3명과 상무 11명 등 총 14명의 임원 승진 인사를 단행했다. 에코프로 그룹은 현장 중심 경영을 강화하고 중장기 성장을 이끌 차세대 리더를...",
+      "url": "https://www.jbnews.com/news/articleView.html?idxno=1514784",
+      "date": "Fri, 30 Oct 2026 17:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.ajunews.com/view/20261030171729346": {
+      "title": "[속보] 포스코 노사, 임단협 잠정합의 도출...파업 위기 해소",
+      "summary": "아주경제=신지아 기자 fromjia@ajunews.com 아주경제 DB",
+      "url": "https://www.ajunews.com/view/20261030171729346",
+      "date": "Fri, 30 Oct 2026 17:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[속보] 포스코 노사, 임단협 잠정합의 도출...파업 위기 해소",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.eroun.net/news/articleView.html?idxno=93919": {
+      "title": "[속보] 포스코 노사, 잠정 합의...전면 파업위기 일단락",
+      "summary": "이로운넷 = 강진구 기자",
+      "url": "https://www.eroun.net/news/articleView.html?idxno=93919",
+      "date": "Fri, 30 Oct 2026 17:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[속보] 포스코 노사, 잠정 합의...전면 파업위기 일단락",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.viva100.com/article/20261030500931": {
+      "title": "대우건설 노조, 체코 원전 협상 결렬 반발…“한수원, 공사비 부담 전가...",
+      "summary": "대우건설 노동조합이 체코 두코바니 원전 시공계약 협상을 종료한 한국수력원자력 (한수원)에 공식 사과와 재협상을 요구했다. 노조는 한수원이 공사비 증가에 따른 위험을 민간 시공사에 전가하려 했다며 국회 차원의...",
+      "url": "https://www.viva100.com/article/20261030500931",
+      "date": "Fri, 30 Oct 2026 17:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.newspim.com/news/view/20261030001233": {
+      "title": "건설기업노조, 한수원 체코 원전 계약 결렬 규탄…\"시공사에 불리한 구...",
+      "summary": "전국건설기업노동조합(노조)이 한국수력원자력 (한수원)의 체코 원전 하도급계약 협상 결렬 선언을 '공공기관의 갑질'로 규정하며 강력 대응을 예고했다. 30일 전국건설기업노조는 성명을 내고 한수원이 우월적 지위를...",
+      "url": "https://www.newspim.com/news/view/20261030001233",
+      "date": "Fri, 30 Oct 2026 17:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKLVU1U2M1MFYtSDQyaUF6cDlaeGtDYzZpVGc1QmVYMFp5SzVoUEdTdGtuRkFHZ3dyYjBmOGUyUmsxZ0RPYTh6SDQ5eGJnRy16R2xQaUZwX2xPOFhDZkE?oc=5": {
+      "title": "한수원, 수자원공사·농어촌공사와 새만금 조력발전 공동개발 MOU - 기후에너지데이터뱅크",
+      "summary": "한수원, 수자원공사·농어촌공사와 새만금 조력발전 공동개발 MOU 기후에너지데이터뱅크",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKLVU1U2M1MFYtSDQyaUF6cDlaeGtDYzZpVGc1QmVYMFp5SzVoUEdTdGtuRkFHZ3dyYjBmOGUyUmsxZ0RPYTh6SDQ5eGJnRy16R2xQaUZwX2xPOFhDZkE?oc=5",
+      "date": "Fri, 30 Oct 2026 08:10:03 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GbFh3ek1QTTFNLWc3VkJnOHZlMTJEUjQxWUlNcDVhaUQxNXpabHB4bXJPeUFTekozRXEzdmxKMmh6eWtKQnF6Z1A4OFV0Y2RHc1RBT3ptbjBXTFdz?oc=5": {
+      "title": "건설기업노조, 한수원 체코 원전 계약 결렬 규탄…\"시공사에 불리한 구조\" - 뉴스핌",
+      "summary": "건설기업노조, 한수원 체코 원전 계약 결렬 규탄…\"시공사에 불리한 구조\" 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GbFh3ek1QTTFNLWc3VkJnOHZlMTJEUjQxWUlNcDVhaUQxNXpabHB4bXJPeUFTekozRXEzdmxKMmh6eWtKQnF6Z1A4OFV0Y2RHc1RBT3ptbjBXTFdz?oc=5",
+      "date": "Fri, 30 Oct 2026 08:22:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
     }
   },
   "brief_sent": {
@@ -5824,6 +6058,31 @@
       "url": "http://www.metroseoul.co.kr/article/20261030500212",
       "title": "포스코퓨처엠, LG엔솔과 '미래 협력 MOU '…양·음극재 72만톤 공급",
       "date": "Fri, 30 Oct 2026 16:28:00 +0900"
+    },
+    {
+      "url": "http://www.breaknews.com/1247282",
+      "title": "경북도·구미시, KMW와 3,500억 원 투자협약…희토류 영구자석 생산기지...",
+      "date": "Fri, 30 Oct 2026 17:56:00 +0900"
+    },
+    {
+      "url": "https://www.ajunews.com/view/20261030171729346",
+      "title": "[속보] 포스코 노사, 임단협 잠정합의 도출...파업 위기 해소",
+      "date": "Fri, 30 Oct 2026 17:20:00 +0900"
+    },
+    {
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524414",
+      "title": "대동 , 자회사 지분 571억 원 인수 연기… 실적 호조에도 자금 부담?",
+      "date": "Fri, 30 Oct 2026 17:16:00 +0900"
+    },
+    {
+      "url": "https://www.viva100.com/article/20261030500884",
+      "title": "경북 경산시-카르마코스메틱, 39억 원 MOU 체결",
+      "date": "Fri, 30 Oct 2026 17:14:00 +0900"
+    },
+    {
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037",
+      "title": "영천시, 지역 정주형 로봇 인재' 양성 본격화…한국폴리텍대와 MOU",
+      "date": "Fri, 30 Oct 2026 17:08:00 +0900"
     }
   ],
   "brief_articles": [
@@ -5845,7 +6104,7 @@
   ],
   "gemini_ai": {
     "2026-10-29": 25,
-    "2026-10-30": 32
+    "2026-10-30": 35
   },
   "ai_cooldowns": {}
 }
