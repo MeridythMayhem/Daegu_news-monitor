@@ -1173,7 +1173,9 @@
     "https://www.hidomin.com/news/articleView.html?idxno=727169": "2026-10-30T11:04:06.786798+09:00",
     "https://www.etoday.co.kr/news/view/2642292": "2026-10-30T14:02:43.585396+09:00",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=54135": "2026-10-30T15:02:45.773258+09:00",
-    "http://www.snmnews.com/news/articleView.html?idxno=576686": "2026-10-30T15:02:45.773258+09:00"
+    "http://www.snmnews.com/news/articleView.html?idxno=576686": "2026-10-30T15:02:45.773258+09:00",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=766811": "2026-10-30T16:03:02.939026+09:00",
+    "https://www.kbmaeil.com/article/20261030500231": "2026-10-30T16:03:02.939026+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1849,44 +1851,16 @@
     "add1d3c2ffc7399091944e92589e435b9d0a1c677ef84a9d422c6e63a43bcdb2": "2026-10-30T11:04:06.786798+09:00",
     "5a385a083a1fcc1435f2e7c1cd43f68c50945ef139711367217b416c2c208667": "2026-10-30T14:02:43.585396+09:00",
     "b9c29d35a48881828f561a78b23f37803b3bf7970807b03628e4f4fae9c96251": "2026-10-30T15:02:45.773258+09:00",
-    "57f4d049e88e69c28fe4abc38f101df64d11a7a6990c5a69c30a4b55f32818eb": "2026-10-30T15:02:45.773258+09:00"
+    "57f4d049e88e69c28fe4abc38f101df64d11a7a6990c5a69c30a4b55f32818eb": "2026-10-30T15:02:45.773258+09:00",
+    "7ab260f2bc02a8c321a714ba8f1451341e462ea8ff304e9936e5f3bbf0189aa3": "2026-10-30T16:03:02.939026+09:00",
+    "7511eaa0c940e8282a55849bc37b5022b59710062bbe1075159022de065c6b41": "2026-10-30T16:03:02.939026+09:00"
   },
   "pending": {
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1729846": {
-      "title": "'제왕적 회장' 막으려다 '두 개의 권력' 될라…은행장 인사권 딜레마",
-      "summary": "당시 신한은행이 신상훈 신한금융 사장을 배임 ·횡령 혐의로 검찰에 고소하면서 라응찬 회장과 신 사장... DGB금융은 2018년 박인규 전 회장 겸 대구 은행장이 물러난 뒤 회장과 행장을 분리했다. 이후 지주가 모든 자회사 CEO...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729846",
-      "date": "Fri, 30 Oct 2026 14:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.etnews.com/20261030000240": {
-      "title": "대동 유로모터스, 만트럭코리아 상대 계약해지 무효 소송나서",
-      "summary": "30일 업계에 따르면 부산신항 MAN 공식 서비스센터 운영사인 대동 유로모터스는 MTBK를 상대로 계약해지 무효 소송을 진행 중이다. 천휘연 대동 유로모터스 대표는 “현재 계약해지 무효 소송을 진행하고 있으며...",
-      "url": "https://www.etnews.com/20261030000240",
-      "date": "Fri, 30 Oct 2026 14:29:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.finomy.com/news/articleView.html?idxno=265182": {
-      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 선임",
-      "summary": "산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장을 지냈다. 강 신임 사장은 계열 에너지사업의 운영 효율과 사업 포트폴리오 조정을 맡는다. 앞서 SK이노베이션에서 전략·재무부문장과...",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=265182",
-      "date": "Fri, 30 Oct 2026 14:42:00 +0900",
+    "https://www.thebigdata.co.kr/view.php?ud=2026103015195459780a47484cf8_23": {
+      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 선임...\"전력사업 키운다...",
+      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지 전문가다. 에너지믹스와 천연가스 수급, 전력망(Grid) 등 전력 인프라 및 시장 구조에 대한 이해를 갖춘 것으로...",
+      "url": "https://www.thebigdata.co.kr/view.php?ud=2026103015195459780a47484cf8_23",
+      "date": "Fri, 30 Oct 2026 15:24:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1897,11 +1871,11 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54136": {
-      "title": "SK이노베이션, 전력 사업 강화 사장단 인사...정승일 총괄사장 선임",
-      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장을 지냈다. 에너지믹스와 천연가스 수급, 그리드(Grid) 등 전력 인프라와 전력시장 구조를 입체적으로 이해하는 에너지 전문가로 꼽힌다고...",
-      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54136",
-      "date": "Fri, 30 Oct 2026 14:36:00 +0900",
+    "http://www.newsbrite.net/news/articleView.html?idxno=201204": {
+      "title": "SK이노, 사장단 인사 단행...총괄사장에 정승일 선임",
+      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임하며 에너지믹스, 천연가스 수급, 전력인프라와 전력시장 구조에 대한 깊은 이해를 가진 전문가로 평가받고 있다. 강동수 신임...",
+      "url": "http://www.newsbrite.net/news/articleView.html?idxno=201204",
+      "date": "Fri, 30 Oct 2026 15:06:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1912,31 +1886,31 @@
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     },
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589287130921": {
-      "title": "[CEO열전] SK이노베이션, 사장단 인사 단행…정승일 총괄사장 선임, 전력...",
-      "summary": "정 신임 총괄사장은 산업통상자원부 차관과 한국전력공사· 한국가스공사 사장을 역임한 에너지 전문가다. 앞으로 전력사업 전환과 종합에너지기업으로의 성장전략을 총괄한다. 강 신임 사장은 SK이노베이션 전략...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589287130921",
-      "date": "Fri, 30 Oct 2026 14:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.newsdream.kr/news/articleView.html?idxno=121228": {
-      "title": "수자원공사, 농어촌공사·한수원과 새만금 조력발전 MOU 체결",
-      "summary": "한국수자원공사(K-water, 사장 윤석대)는 한국농어촌공사, 한국수력원자력 ㈜과 함께 새만금 조력발전 개발을 위한 상호협력 업무협약(MOU)을 체결했다고 30일 밝혔다. 최근 새만금호의 수질 개선을 위한 해수 유통이...",
-      "url": "http://www.newsdream.kr/news/articleView.html?idxno=121228",
-      "date": "Fri, 30 Oct 2026 14:42:00 +0900",
+    "https://www.newsmap.co.kr/news/articleView.html?idxno=4674": {
+      "title": "수자원공사, 농어촌公·한수원과 새만금 조력발전 공동개발 MOU",
+      "summary": "한국수자원공사가 한국농어촌공사, 한국수력원자력 과 함께 새만금 조력발전 사업 공동개발 및 추진을 위한 협력에 나섰다. 한국수자원공사는 서울에서 한국농어촌공사, 한국수력원자력 과 새만금 조력발전 사업 공동개발...",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4674",
+      "date": "Fri, 30 Oct 2026 15:34:00 +0900",
       "channels": [
         "domestic"
       ],
       "basis": "관심기업: 한국수력원자력",
       "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=205672": {
+      "title": "대우건설 노조 \"한수원, 체코 원전 재협상 나서야\" 촉구",
+      "summary": "대우건설 노동조합이 한국수력원자력 의 체코 두코바니 신규 원전 시공계약 협상 종료에 반발하며 재협상을 촉구했다. 한수원이 공사비 부담을 민간 시공사에 일방적으로 전가하려 했다는 게 노조 측 주장이다. 30일...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205672",
+      "date": "Fri, 30 Oct 2026 15:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
@@ -5239,6 +5213,210 @@
       "priority": 90,
       "needs_ai": false,
       "filter_version": 12
+    },
+    "https://www.ccreview.co.kr/news/articleView.html?idxno=361441": {
+      "title": "에코프로 , 정기 임원 인사…부사장 3명·상무 11명 승진",
+      "summary": "충북 청주시 오창에 본사를 둔 에코프로 그룹은 부사장 3명, 상무 11명 등 14명의 임원 승진 및 인사를 단행했다. 신임 부사장으로는 △오상영 에코프로 비엠 상무 △이종철 에코프로 머티리얼즈 상무 △최선미...",
+      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=361441",
+      "date": "Fri, 30 Oct 2026 15:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=283677": {
+      "title": "에코프로 그룹, 오상영·이종철·최선미 부사장 승진…차기 경영진 육성",
+      "summary": "에코프로 그룹이 미래 경쟁력 강화와 차세대 경영 인재 육성을 위해 부사장 3명, 상무 11명 등 총 14명을 승진시키는 임원 인사를 실시했다고 30일 밝혔다. 에코프로 관계자는 \"성과와 성장 잠재력을 함께 갖춘 인재를 발탁해...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283677",
+      "date": "Fri, 30 Oct 2026 15:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.ddaily.co.kr/page/view/2026103015135425528": {
+      "title": "에코프로 , 정기 임원 인사 단행…부사장 3명 등 14명 승진",
+      "summary": "에코프로 그룹이 미래 경쟁력 강화와 차세대 경영 인재 육성을 위해 총 14명의 임원 승진 인사를 단행했다. 에코프로 는 30일 부사장 3명과 상무 11명 등 총 14명을 승진시키는 정기 임원 인사를 실시했다고 밝혔다. 이번...",
+      "url": "https://www.ddaily.co.kr/page/view/2026103015135425528",
+      "date": "Fri, 30 Oct 2026 15:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "http://www.inews24.com/view/2020966": {
+      "title": "에코프로 , 부사장 3명·상무 11명 승진⋯\"차세대 리더 육성\"",
+      "summary": "에코프로 그룹이 부사장 3명과 상무 11명을 포함해 임원 14명을 승진시켰다. 미래 경쟁력을 다지고 차세대 경영진을 키우겠다는 취지다. 에코프로 그룹은 30일 임원 승진 인사를 단행하고 앞으로 임원이 주축이 돼 현장을...",
+      "url": "http://www.inews24.com/view/2020966",
+      "date": "Fri, 30 Oct 2026 15:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://magazine.hankyung.com/business/article/202610306377b": {
+      "title": "에코프로 그룹, 부사장 3명·상무 11명 승진…미래 리더십 강화",
+      "summary": "에코프로 그룹이 미래 경쟁력 강화와 차세대 경영 인재 육성을 위해 임원 14명을 승진 발탁했다. 성과와 성장 잠재력을 갖춘 인재를 중심으로 경영진 후보군을 확대하고, 임원 주도의 현장 중심 경영을 강화한다는...",
+      "url": "https://magazine.hankyung.com/business/article/202610306377b",
+      "date": "Fri, 30 Oct 2026 15:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://daily.hankooki.com/news/articleView.html?idxno=1420295": {
+      "title": "에코프로 , 임원 14명 승진 인사…부사장 3명 발탁",
+      "summary": "에코프로 본사 전경. 출처= 에코프로 제공 에코프로 그룹이 부사장 3명과 상무 11명 등 14명에 대한 승진 인사를 단행했다. 해외 수주 확대와 기술 개발 등에서 성과를 낸 인재를 발탁해 현장 중심의 경영을 강화한다는...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420295",
+      "date": "Fri, 30 Oct 2026 15:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.thelec.kr/news/articleView.html?idxno=64608": {
+      "title": "에코프로 , 부사장 3명 등 임원 14명 승진 인사",
+      "summary": "에코프로 그룹이 부사장 3명과 상무 11명 등 총 14명의 임원 승진 인사를 단행했다. 경영 안정성과 해외 수주 확대, 미래 기술 개발 성과를 반영해 차세대 경영진 육성에 초점을 맞췄다. 에코프로 는 30일 이 같은 내용의 임원...",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64608",
+      "date": "Fri, 30 Oct 2026 15:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "주요인물·기관 인사",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.mhns.co.kr/news/articleView.html?idxno=766811": {
+      "title": "포항 시의회 경제산업위원회, 포항 국제전시컨벤션센터 건립 현장 집중 점...",
+      "summary": "한종근 기자 hjk2749@naver.com 포항 시의회 경제산업위원회는 지난 29일 포항 국제전시컨벤션센터 건립 현장을 찾아 공사 추진상황을 점검하고, 주차공간 부족과 교통혼잡 등 주요 문제점을 집중적으로 살펴봤다....",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=766811",
+      "date": "Fri, 30 Oct 2026 15:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 80,
+        "evidence": "포항 시의회 경제산업위원회, 포항 국제전시컨벤션센터 건립 현장 집중 점...",
+        "provider": "gemini",
+        "scope_label": "관내: 포항",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.kbmaeil.com/article/20261030500231": {
+      "title": "“ 포항 유일 20세기 청사 벗어나야”…용흥동 복합센터 건립 촉구",
+      "summary": "포항 지역에서 유일하게 20세기에 지어져 시설이 낡고 주차 공간조차 없는 용흥동 행정복지센터를 조속히 이전 건립 해야 한다는 주장이 제기됐다. 포항 시의회 김재원 의원(국민의힘·양학동, 용흥동)은 30일 열린 제334회...",
+      "url": "https://www.kbmaeil.com/article/20261030500231",
+      "date": "Fri, 30 Oct 2026 15:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 80,
+        "evidence": "“ 포항 유일 20세기 청사 벗어나야”…용흥동 복합센터 건립 촉구",
+        "provider": "gemini",
+        "scope_label": "관내: 포항",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.thebigdata.co.kr/view.php?ud=2026103015195459780a47484cf8_23": {
+      "title": "SK이노베이션, 정승일 총괄사장·강동수 사장 선임...\"전력사업 키운다...",
+      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임한 에너지 전문가다. 에너지믹스와 천연가스 수급, 전력망(Grid) 등 전력 인프라 및 시장 구조에 대한 이해를 갖춘 것으로...",
+      "url": "https://www.thebigdata.co.kr/view.php?ud=2026103015195459780a47484cf8_23",
+      "date": "Fri, 30 Oct 2026 15:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "http://www.newsbrite.net/news/articleView.html?idxno=201204": {
+      "title": "SK이노, 사장단 인사 단행...총괄사장에 정승일 선임",
+      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임하며 에너지믹스, 천연가스 수급, 전력인프라와 전력시장 구조에 대한 깊은 이해를 가진 전문가로 평가받고 있다. 강동수 신임...",
+      "url": "http://www.newsbrite.net/news/articleView.html?idxno=201204",
+      "date": "Fri, 30 Oct 2026 15:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.newsmap.co.kr/news/articleView.html?idxno=4674": {
+      "title": "수자원공사, 농어촌公·한수원과 새만금 조력발전 공동개발 MOU",
+      "summary": "한국수자원공사가 한국농어촌공사, 한국수력원자력 과 함께 새만금 조력발전 사업 공동개발 및 추진을 위한 협력에 나섰다. 한국수자원공사는 서울에서 한국농어촌공사, 한국수력원자력 과 새만금 조력발전 사업 공동개발...",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4674",
+      "date": "Fri, 30 Oct 2026 15:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.sisaon.co.kr/news/articleView.html?idxno=205672": {
+      "title": "대우건설 노조 \"한수원, 체코 원전 재협상 나서야\" 촉구",
+      "summary": "대우건설 노동조합이 한국수력원자력 의 체코 두코바니 신규 원전 시공계약 협상 종료에 반발하며 재협상을 촉구했다. 한수원이 공사비 부담을 민간 시공사에 일방적으로 전가하려 했다는 게 노조 측 주장이다. 30일...",
+      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205672",
+      "date": "Fri, 30 Oct 2026 15:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
     }
   },
   "brief_sent": {
@@ -5486,6 +5664,16 @@
       "url": "http://www.snmnews.com/news/articleView.html?idxno=576686",
       "title": "포스코 노사, 무기한 파업 사흘 앞두고 본교섭…노조는 특별조합비 준비",
       "date": "Fri, 30 Oct 2026 14:02:00 +0900"
+    },
+    {
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=766811",
+      "title": "포항 시의회 경제산업위원회, 포항 국제전시컨벤션센터 건립 현장 집중 점...",
+      "date": "Fri, 30 Oct 2026 15:58:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261030500231",
+      "title": "“ 포항 유일 20세기 청사 벗어나야”…용흥동 복합센터 건립 촉구",
+      "date": "Fri, 30 Oct 2026 15:54:00 +0900"
     }
   ],
   "brief_articles": [
@@ -5507,7 +5695,7 @@
   ],
   "gemini_ai": {
     "2026-10-29": 25,
-    "2026-10-30": 26
+    "2026-10-30": 29
   },
   "ai_cooldowns": {}
 }
