@@ -1181,7 +1181,9 @@
     "https://www.ajunews.com/view/20261030171729346": "2026-10-30T18:03:04.208310+09:00",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524414": "2026-10-30T18:03:04.208310+09:00",
     "https://www.viva100.com/article/20261030500884": "2026-10-30T18:03:04.208310+09:00",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037": "2026-10-30T18:03:04.208310+09:00"
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037": "2026-10-30T18:03:04.208310+09:00",
+    "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257": "2026-10-31T12:02:39.066436+09:00",
+    "https://dgmbc.com/NewsArticle/870638": "2026-10-31T12:02:39.066436+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1865,7 +1867,9 @@
     "d9eb8efca1c46592035141fd23837592c62e3203856cdc7afa0b3b90e7763a09": "2026-10-30T18:03:04.208310+09:00",
     "c90aaee244ea25e57d9b3f5e4a463815666a6d6faaacad5536788454b2988046": "2026-10-30T18:03:04.208310+09:00",
     "fb9495b3768d9cdf9ad5de311272774567dbdb63f239f46e6646d1ac8c73f90d": "2026-10-30T18:03:04.208310+09:00",
-    "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00"
+    "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00",
+    "7a657fbaba36f4d45e373f12035309ab94521592b4566994972975c3d86f0854": "2026-10-31T12:02:39.066436+09:00",
+    "6439219f37d97cdde6070761f5a068549a08b8340b6388801d81e3fcddaaca6a": "2026-10-31T12:02:39.066436+09:00"
   },
   "pending": {},
   "ai": {
@@ -7034,6 +7038,75 @@
         "evidence_id": 3
       },
       "review": "AI 참고 적합"
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257": {
+      "title": "경북도, 반도체·드론 투자 유치 나서…서울 상담 이어 김천· 구미 현장...",
+      "summary": "경북도는 지난 29~30일 서울과 김천· 구미 에서 국내외 기업, 투자 기관, 산업전문가 등 300여 명이 참여한 ‘2026 미래전략 산업혁신 투자 포럼’을 개최했다고 밝혔다. 이번 행사는 지난해 APEC 정상회의 성과를 투자 유치로...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257",
+      "date": "Sat, 31 Oct 2026 11:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 80,
+        "evidence": "경북도는 지난 29~30일 서울과 김천· 구미 에서 국내외 기업, 투자 기관, 산업전문가 등 300여 명이 참여한 ‘2026 미래전략 산업혁신 투자 포럼’을 개최했다고 밝혔다.",
+        "provider": "gemini",
+        "scope_label": "관내: 구미, 김천",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://dgmbc.com/NewsArticle/870638": {
+      "title": "대구 MBC 특집 'ARENA, 농구 너머'···시사온 '복합 돔구장 건립 사업'",
+      "summary": "대구 시가 문화체육관광부 추진하는 '스포츠·공연 복합형 돔구장 건립 사업' 응모에 참여한 가운데 대구 시의 새 공간에 대한 방향성을 고민하는 특집 다큐멘터리가 방송됩니다. 대구 문화방송이 지난 7월부터 기획...",
+      "url": "https://dgmbc.com/NewsArticle/870638",
+      "date": "Sat, 31 Oct 2026 11:11:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 80,
+        "evidence": "대구 시가 문화체육관광부 추진하는 '스포츠·공연 복합형 돔구장 건립 사업' 응모에 참여한 가운데 대구 시의 새 공간에 대한 방향성을 고민하는 특집 다큐멘터리가 방송됩니다.",
+        "provider": "gemini",
+        "scope_label": "관내: 대구",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500214": {
+      "title": "한수원, 대우건설과 시공 협상 종료 공식화…원전 수출 기대 흔들",
+      "summary": "체코 두코바니 신규 원전 건설을 둘러싼 한국수력원자력 과 대우건설의 시공 계약 협상이 결렬되면서 대우건설의 해외 원전 사업에 불확실성이 커졌다. 미래에셋증권은 최근 보고서에서 시공사 선정 과정에서 불거진...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500214",
+      "date": "Sat, 31 Oct 2026 11:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "체코 두코바니 신규 원전 건설을 둘러싼 한국수력원자력 과 대우건설의 시공 계약 협상이 결렬되면서 대우건설의 해외 원전 사업에 불확실성이 커졌다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 한국수력원자력",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -7269,6 +7342,16 @@
       "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037",
       "title": "영천시, 지역 정주형 로봇 인재' 양성 본격화…한국폴리텍대와 MOU",
       "date": "Fri, 30 Oct 2026 17:08:00 +0900"
+    },
+    {
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257",
+      "title": "경북도, 반도체·드론 투자 유치 나서…서울 상담 이어 김천· 구미 현장...",
+      "date": "Sat, 31 Oct 2026 11:32:00 +0900"
+    },
+    {
+      "url": "https://dgmbc.com/NewsArticle/870638",
+      "title": "대구 MBC 특집 'ARENA, 농구 너머'···시사온 '복합 돔구장 건립 사업'",
+      "date": "Sat, 31 Oct 2026 11:11:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7281,7 +7364,7 @@
   "gemini_ai": {
     "2026-10-29": 25,
     "2026-10-30": 52,
-    "2026-10-31": 5
+    "2026-10-31": 7
   },
   "ai_cooldowns": {}
 }
