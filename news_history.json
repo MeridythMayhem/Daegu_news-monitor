@@ -1867,54 +1867,7 @@
     "fb9495b3768d9cdf9ad5de311272774567dbdb63f239f46e6646d1ac8c73f90d": "2026-10-30T18:03:04.208310+09:00",
     "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00"
   },
-  "pending": {
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMTnp2N2dDaEtFcmNSaDQxSTZKUloyWEdGZzZpMzlscmxBajJpUUFTUnNlbDBEejZySnlSdm5FRWVuZkRWemtTeHF2RQ?oc=5": {
-      "title": "포스코노조 3차 파업 예고…포항 각계 노사 대화 촉구 : 기업·산업 - 재경일보",
-      "summary": "포스코노조 3차 파업 예고…포항 각계 노사 대화 촉구 : 기업·산업 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMTnp2N2dDaEtFcmNSaDQxSTZKUloyWEdGZzZpMzlscmxBajJpUUFTUnNlbDBEejZySnlSdm5FRWVuZkRWemtTeHF2RQ?oc=5",
-      "date": "Fri, 30 Oct 2026 23:35:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "exclusion_reason": "제목의 관심기업과 AI 인용 기업 불일치",
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDYtdTJzSm9kTW1nd0VVZmh4NHFSQ3lCNWFwTjEwbXlEWklEUllfYmdTNVBSVmFYUzlZOHhGczFDYy1VSGlHdnZHc2RKOGcxSHRwT3NhakthaUZvaWg2b3VHRk1FbTdMVWpXaUtTV0o0X0tEcHFZalNKbmpaTGtVdUFPMmdJdGhkZEJEdDM5R3VXdlQxVF80VC1IRE55OWx6ZmxJUUJVUjBCcGlEM1Y2Q2ZmTHdfRlkxLUE?oc=5": {
-      "title": "POSCO DX stock: Company invests in Enhance for industrial AI - ad-hoc-news.de",
-      "summary": "POSCO DX stock: Company invests in Enhance for industrial AI ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDYtdTJzSm9kTW1nd0VVZmh4NHFSQ3lCNWFwTjEwbXlEWklEUllfYmdTNVBSVmFYUzlZOHhGczFDYy1VSGlHdnZHc2RKOGcxSHRwT3NhakthaUZvaWg2b3VHRk1FbTdMVWpXaUtTV0o0X0tEcHFZalNKbmpaTGtVdUFPMmdJdGhkZEJEdDM5R3VXdlQxVF80VC1IRE55OWx6ZmxJUUJVUjBCcGlEM1Y2Q2ZmTHdfRlkxLUE?oc=5",
-      "date": "Fri, 30 Oct 2026 23:22:44 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN25YYmJkcTVIQTc1Z2ZHVHRRcDNhN1Mxc09WbkRSTllfc2dkaFhZTGNTMUlvbWRVMDdtUDNseGJXM0UxQmNXUThhaTl1UEViMWtpaFhQM0N1dEhuYTBjeTVNX3NENEU3Rko3RmtrZ3JweDNFOFRNY1l2bFRFYlBxMzdkRlptbUIzQnd0dmJiVHBidVRHa0FyQjdtLV81MW9vQmlPRWxiTG1JVmVuMHJjYjJWS1A?oc=5": {
-      "title": "L&F stock trades at 81,900 won in Seoul before earnings - ad-hoc-news.de",
-      "summary": "L&F stock trades at 81,900 won in Seoul before earnings ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN25YYmJkcTVIQTc1Z2ZHVHRRcDNhN1Mxc09WbkRSTllfc2dkaFhZTGNTMUlvbWRVMDdtUDNseGJXM0UxQmNXUThhaTl1UEViMWtpaFhQM0N1dEhuYTBjeTVNX3NENEU3Rko3RmtrZ3JweDNFOFRNY1l2bFRFYlBxMzdkRlptbUIzQnd0dmJiVHBidVRHa0FyQjdtLV81MW9vQmlPRWxiTG1JVmVuMHJjYjJWS1A?oc=5",
-      "date": "Fri, 30 Oct 2026 23:53:36 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
@@ -7058,6 +7011,29 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
+    },
+    "https://www.getnews.co.kr/news/articleView.html?idxno=885497": {
+      "title": "포스코 노사, 기본급 2.6% 인상 등 임금교섭 잠정 합의...내주 노조 '찬...",
+      "summary": "포스코 노사가 기본임금 2.6% 인상 등을 주요 내용으로 하는 올해 임금협상 잠정 합의안을 도출했다. 이는 다음주 노동조합 찬반투표에서 타결 여부가 결정된다. 포스코 는 노사가 30일 포항 포스코 본사에서 본교섭을...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885497",
+      "date": "Sat, 31 Oct 2026 09:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 는 노사가 30일 포항 포스코 본사에서 본교섭을...",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 3
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -7305,7 +7281,7 @@
   "gemini_ai": {
     "2026-10-29": 25,
     "2026-10-30": 52,
-    "2026-10-31": 3
+    "2026-10-31": 5
   },
   "ai_cooldowns": {}
 }
