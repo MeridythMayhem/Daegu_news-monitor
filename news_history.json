@@ -1183,7 +1183,8 @@
     "https://www.viva100.com/article/20261030500884": "2026-10-30T18:03:04.208310+09:00",
     "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037": "2026-10-30T18:03:04.208310+09:00",
     "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257": "2026-10-31T12:02:39.066436+09:00",
-    "https://dgmbc.com/NewsArticle/870638": "2026-10-31T12:02:39.066436+09:00"
+    "https://dgmbc.com/NewsArticle/870638": "2026-10-31T12:02:39.066436+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5": "2026-10-31T18:02:14.424955+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1869,7 +1870,8 @@
     "fb9495b3768d9cdf9ad5de311272774567dbdb63f239f46e6646d1ac8c73f90d": "2026-10-30T18:03:04.208310+09:00",
     "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00",
     "7a657fbaba36f4d45e373f12035309ab94521592b4566994972975c3d86f0854": "2026-10-31T12:02:39.066436+09:00",
-    "6439219f37d97cdde6070761f5a068549a08b8340b6388801d81e3fcddaaca6a": "2026-10-31T12:02:39.066436+09:00"
+    "6439219f37d97cdde6070761f5a068549a08b8340b6388801d81e3fcddaaca6a": "2026-10-31T12:02:39.066436+09:00",
+    "f026b47ad0afa1ff5167e7050e25f0223ca4ec6cd083fcd5261ae8c20bc8c9ea": "2026-10-31T18:02:14.424955+09:00"
   },
   "pending": {},
   "ai": {
@@ -1878,549 +1880,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.jbnews.com/news/articleView.html?idxno=1514733": {
-      "title": "[집중취재] 비싼 민간 산후조리원 대안 될까…청주 공공산후조리원 건립 ...",
-      "summary": "경북 예천군은 지역 내 산후조리원이 없어 공공시설을 건립 했지만, 청주는 이미 민간 산후조리원 7곳이 운영되고 있다. 서울시의 경우는 민간 산후조리원과 협약을 맺고 이용료 일부를 지원하는 '서울형 안심...",
-      "url": "https://www.jbnews.com/news/articleView.html?idxno=1514733",
-      "date": "Thu, 29 Oct 2026 17:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경제·투자",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 10,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.nspna.com/news/?mode=view&newsid=833876": {
-      "title": "[기업실적]삼성SDS, 3Q 실적 상승…영업이익 2410억원 전년比 3.7%↑",
-      "summary": "지난 8월에는 국가 AI 컴퓨팅센터 건립 에 착수했으며, 2028년 준공을 목표로 건설을 진행하고 있다.... 삼성SDS는 오는 11월 초 경북 구미 에서 초기 전력 용량 60MW 규모의 구미 AI 데이터센터 착공식도 진행할 예정이다....",
-      "url": "https://www.nspna.com/news/?mode=view&newsid=833876",
-      "date": "Thu, 29 Oct 2026 17:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경제·투자",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "경제·투자",
-        "score": 80,
-        "evidence": "경북 구미 에서 초기 전력 용량 60MW 규모의 구미 AI 데이터센터 착공식",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.epnc.co.kr/news/articleView.html?idxno=408979": {
-      "title": "삼성SDS, AI 인프라·AX가 3분기 실적 견인…클라우드 18% ↑",
-      "summary": "정부가 추진하는 '국가 AI 컴퓨팅센터' 건립 에도 참여하고 있다. 지난 8월 건립 에 착수했으며 2028년... 경북 구미 에는 초기 전력 용량 60MW 규모의 AI 데이터센터(AIDC)를 조성하고 있으며 11월 초 착공식을 진행할...",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=408979",
-      "date": "Thu, 29 Oct 2026 17:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "지역경제·기업동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "지역경제·기업동향",
-        "score": 80,
-        "evidence": "경북 구미 에는 초기 전력 용량 60MW 규모의 AI 데이터센터(AIDC)를 조성",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=314248": {
-      "title": "11월 2일 총 파업 눈앞 … 최병욱 국민의힘 노동위 부위원장 '파업 철회...",
-      "summary": "29 [사진=경북기자회] 오는 11월 2일 오후 7시로 예고된 포스코 창사 이래 초유의 총파업 카운트다운이 시작되자, 벼랑 끝에 몰린 포항 경제와 기간 제조업의 연쇄 붕괴를 막기 위해 노동계 출신 야당 인사 가 직접 포항 ...",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314248",
-      "date": "Thu, 29 Oct 2026 17:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 창사 이래 초유의 총파업",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=361553": {
-      "title": "삼성SDS, 3Q 영업익 2410억·AX 매출 2배 성장…AI 데이터센터 확장",
-      "summary": "삼성SDS는 최근 항공 화물 혼재 전문기업 우정항공 지분 100%를 인수하고 인천발 화물과 아시아발 인천... 경북 구미 에서도 초기 전력 용량 60MW 규모의 AI 데이터센터 건설을 추진하고 있다. AI 서비스와 신사업...",
-      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361553",
-      "date": "Thu, 29 Oct 2026 17:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경제·투자",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "경제·투자",
-        "score": 80,
-        "evidence": "경북 구미 에서도 초기 전력 용량 60MW 규모의 AI 데이터센터 건설",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.datanet.co.kr/news/articleView.html?idxno=215469": {
-      "title": "삼성SDS, 3분기 매출 3조7725억 ··· GPUaaS·금융 AX 수요 확대",
-      "summary": "AI 플랫폼·솔루션 영역에서는 AI 협업 솔루션 '브리티웍스(Brity Works)'가 경찰청 을 비롯한 주요 정부... 한편 삼성SDS는 경북 구미시에 초기 전력 용량 60MW 규모로 조성하는 '구미 AI 데이터센터'의 착공식을 11월...",
-      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215469",
-      "date": "Thu, 29 Oct 2026 17:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_wait_reason": "분류 근거 검증 실패",
-      "review": "미검토"
-    },
-    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88914": {
-      "title": "삼성SDS, 3분기 호실적...미래 성장 동력은",
-      "summary": "AI 협업 솔루션 '브리티웍스(Brity Works)'는 경찰청 등 정부 부처로 도입이 확대되면서 공공 부문 누적... 한편 삼성SDS는 경북 구미시에 초기 전력 용량 60MW 규모로 조성하는 구미 AI 데이터센터의 착공식을 11월 초...",
-      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88914",
-      "date": "Thu, 29 Oct 2026 17:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_wait_reason": "분류 근거 검증 실패",
-      "review": "미검토"
-    },
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7191325": {
-      "title": "삼성SDS, 3분기 매출 3.7조…전년比 11% '껑충'",
-      "summary": "다음달 초에는 경북 구미 에 60MW 규모 AI 데이터센터를 착공한다. 물류 분야에서는 항공 화물 혼재 전문 기업 우정항공 지분 100%를 인수해 글로벌 항공 운송 역량을 키우고 있다. 피지컬 AI 사업도 육성 중이다....",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191325",
-      "date": "Thu, 29 Oct 2026 17:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "지역경제·기업동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "지역경제·기업동향",
-        "score": 80,
-        "evidence": "경북 구미 에 60MW 규모 AI 데이터센터를 착공한다",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.incheonilbo.com/news/articleView.html?idxno=1335493": {
-      "title": "경찰, 불법 인터넷 도박사이트 운영자 등 89명 검거",
-      "summary": "춘천, 경북 안동 일대 성인PC방 90개소에 불법 인터넷 도박사이트 도메인을 제공해 총 4125억 원 규모의... 몰수· 추징 보전' 신청했다. 경찰은 불법 성인PC방을 완전히 근절할 때까지 고강도 단속을 계속 추진하고, 불법...",
-      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335493",
-      "date": "Thu, 29 Oct 2026 17:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 10,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.newstomato.com/ReadNews.aspx?no=1318560&inflow=N": {
-      "title": "클라우드·물류 동반 성장…삼성SDS, 3분기 매출·영업익 동반 증가",
-      "summary": "2028년 준공을 목표로 국가 AI 컴퓨팅센터 건립 도 추진 중이며, 11월 초에는 초기 전력 용량 60MW 규모의 구미 AI 데이터센터 착공식을 진행할 예정입니다. AI 서비스 영역에서는 금융권 AI 플랫폼 구축 사업을...",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1318560&inflow=N",
-      "date": "Thu, 29 Oct 2026 17:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "지역경제·기업동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "지역경제·기업동향",
-        "score": 80,
-        "evidence": "구미 AI 데이터센터 착공식",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.topstarnews.net/news/articleView.html?idxno=16262150": {
-      "title": "[공매도 브리핑] 10월 29일 LG엔솔 공매도 97%↑…지분 매각 충격",
-      "summary": "삼성전자는 공매도 거래대금이 62.1% 증가해 SK하이닉스를 제치고 코스피 1위에 올랐으며, 코스닥에서는 에코프로 와 에코프로 비엠에 거래가 집중됐다. KRX에 따르면 29일 정규장 종료 기준 국내 증시의 공매도...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16262150",
-      "date": "Thu, 29 Oct 2026 17:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 검토 참고",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 10,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.etnews.com/20261029000455": {
-      "title": "'107조' 번 삼전 떨어지고, '83조' 번 하닉 오르고…역대급 실적보다 '이...",
-      "summary": "23에 마감했다. 개인이 2174억원을 순매수했지만 외국인과 기관이 각각 1308억원, 759억원을 순매도했다. 레인보우로보틱스(-6.55%), 에코프로 비엠(-5.64%), 에코프로 (-4.43%) 등 시가총액 상위 종목들이 일제히 하락했다.",
-      "url": "https://www.etnews.com/20261029000455",
-      "date": "Thu, 29 Oct 2026 17:55:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "지역경제·기업동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 10,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.biztribune.co.kr/news/articleView.html?idxno=361542": {
-      "title": "[분석] SK이노베이션, 정유·윤활유가 실적 견인… SK온은 ESS로 활로 모...",
-      "summary": "최근 미국 네오볼타와 약 9GWh 규모의 ESS용 리튬인산철(LFP) 배터리 공급계약을 체결했으며, 엘앤에프· 포스코 퓨처엠과도 관련 양극재 공급계약을 맺었다. 신규 공장 증설보다는 기존 전기차 배터리 생산라인을...",
-      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361542",
-      "date": "Thu, 29 Oct 2026 17:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "엘앤에프· 포스코 퓨처엠과도 관련 양극재 공급계약을 맺었다",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.segye.com/newsView/20261029519592?OutUrl=naver": {
-      "title": "포스코 노조 내달 2일 3차 파업 예고에 포항 각계각층 \"노사 대화·타협 ...",
-      "summary": "찾길\" 포스코 노조가 내달 2일 3차 파업을 예고한 가운데 경북 포항지역 정치계를 비롯 경제계, 사회단체가 노사 양측의 대화와 타협을 촉구하고 나섰다. 박용선(사진) 포항시장은 29일 지역일간지 특별기고를 통해 \" 포스코 는...",
-      "url": "https://www.segye.com/newsView/20261029519592?OutUrl=naver",
-      "date": "Thu, 29 Oct 2026 18:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조 내달 2일 3차 파업 예고에 포항 각계각층",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6336817": {
-      "title": "포항발전협, '무기한 파업 예고' 포스코 노조에 지역 분위기 전달",
-      "summary": "포항지역발전협의회(포발협)는 29일 내달 2일 무기한 파업을 예고한 포스코 노조를 방문해 원만한 협상 타결을 위한 대화와 협력을 요청했다. 포발협은 이날 김성호 포스코 노조위원장을 만나 노조의 입장을 들은 뒤...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6336817",
-      "date": "Thu, 29 Oct 2026 17:43:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포항지역발전협의회(포발협)는 29일 내달 2일 무기한 파업을 예고한 포스코 노조를 방문",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.newsis.com/view/NISX20261029_0003847214": {
-      "title": "포항발전協 ' 포스코 노사 협상 타결' 촉구…노조 방문",
-      "summary": "포스코 노동조합을 방문해 김성호 위원장과 면담을 갖고, 노사 갈등의 조속한 해결과 임금과 단체 협약의 원만한 협상 타결을 위한 대화와 협력을 촉구했다. 이번 방문은 지난 26일 열린 발전협의회 긴급 이사회에 포스코 ...",
-      "url": "https://www.newsis.com/view/NISX20261029_0003847214",
-      "date": "Thu, 29 Oct 2026 17:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노동조합을 방문해",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.viva100.com/article/20261029501368": {
-      "title": "인천 송도 잭 니클라우스GC 매각 논란…공공토지 개발이익 검증대 오른...",
-      "summary": "29일 인천경실련에 따르면 포스코 그룹은 핵심사업 경쟁력 강화와 재무구조 개선을 위해 저수익·비핵심자산... 단체에 따르면 NSIC는 2022년 골프장 자산을 포스코 그룹 계열사인 포스코 O&M에 3000억원대에 매각했다. 이번...",
-      "url": "https://www.viva100.com/article/20261029501368",
-      "date": "Thu, 29 Oct 2026 17:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 그룹 계열사인 포스코 O&M에 3000억원대에 매각",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://zdnet.co.kr/view/?no=20261029164021": {
-      "title": "엄기천 포스코 퓨처엠 \"연내 양·음극재 120만톤 추가 수주\"",
-      "summary": "엄기천 포스코 퓨처엠 대표가 연말까지 120만톤 규모 양·음극재를 추가 수주할 것으로 전망했다. 엄기천... 엄기천 한국배터리산업협회장 겸 포스코 퓨처엠 대표 (사진=지디넷코리아) 최근 정부가 배터리 등 산업을...",
-      "url": "https://zdnet.co.kr/view/?no=20261029164021",
-      "date": "Thu, 29 Oct 2026 17:15:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "엄기천 포스코 퓨처엠 대표",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.todayenergy.kr/news/articleView.html?idxno=304855": {
-      "title": "엄기천 회장, 배터리 업계 회복세지만...내년 실적 개선은 '미지수'",
-      "summary": "행사에는 이민우 산업부 실장, 김종민 의원, 엄기천 한국배터리산업협회장( 포스코 퓨처엠 대표이사) 등 200여... 포스코 퓨처엠은 지난해 하반기 이후 양극재 약 150만 톤 규모의 공급계약을 공개했고, 연말까지 두세 건이...",
-      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304855",
-      "date": "Thu, 29 Oct 2026 17:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "엄기천 한국배터리산업협회장( 포스코 퓨처엠 대표이사)",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.news1.kr/industry/general-industry/6336816": {
-      "title": "배터리산업협회장 \"美 ESS에 셀사 실적 회복…소재사 낙수효과 기대\"",
-      "summary": "엄기천 한국배터리산업협회(KBIA) 회장 겸 포스코퓨처엠 대표이사는 \"미국 인공지능(AI) 데이터 센터 증설에 따른 에너지저장장치(ESS) 시장 확대와 유럽 전기차 시장 급성장으로 최근 국내 배터리 셀사들의 실적이 회복되고...",
-      "url": "https://www.news1.kr/industry/general-industry/6336816",
-      "date": "Thu, 29 Oct 2026 17:13:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "엄기천 한국배터리산업협회(KBIA) 회장 겸 포스코퓨처엠 대표이사",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://biz.sbs.co.kr/article_hub/20000343080?division=NAVER": {
-      "title": "부분파업 넘어 '무기한'으로…벼랑끝 포스코 [기업 백브리핑]",
-      "summary": "포스코 노사의 임금교섭이 여전히 안갯속입니다. 노조는 당장 오는 11월 2일부터 무기한 파업 엄포를 놓았는데요. 포스코 는 지난달 창사 58년 만에 무분규가 깨지며 '첫 파업'을 겪었습니다. 당시는 '부분 파업'이라 노조의...",
-      "url": "https://biz.sbs.co.kr/article_hub/20000343080?division=NAVER",
-      "date": "Thu, 29 Oct 2026 17:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "벼랑끝 포스코",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.tf.co.kr/read/economy/2382707.htm": {
-      "title": "원전수출 팀코리아에서 대우·두산 빠졌다…기존 총액확정 방식 거부",
-      "summary": "한국수력원자력 (이하 한수원)은 시공사와 진행해 오던 체코 두코바니 원전 건설사업의 시공계약 협상을 합의하지 못하고 종료한다고 29일 밝혔다. 이는 주요 계약조건에 대한 양측의 이견에 따른 것으로, 한수원과 대우...",
-      "url": "https://news.tf.co.kr/read/economy/2382707.htm",
-      "date": "Thu, 29 Oct 2026 17:51:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_wait_reason": "분류 근거 검증 실패",
-      "review": "미검토"
-    },
-    "https://www.ajunews.com/view/20261029170148613": {
-      "title": "수주 때부터 불거진 갈등…'팀코리아' 파열음에 추가 수주도 경고등",
-      "summary": "[사진= 한국수력원자력 ] 한국 원전의 유럽시장 진출 교두보로 평가받던 27조원 규모 체코 두코바니 원전사업이 시공계약 협상 결렬로 난항에 빠졌다. 수주 단계부터 이어진 공사비와 계약조건 갈등을 끝내 해소하지...",
-      "url": "https://www.ajunews.com/view/20261029170148613",
-      "date": "Thu, 29 Oct 2026 17:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "한국수력원자력",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.fetv.co.kr/news/articleView.html?idxno=312708": {
-      "title": "[IR 분석] 두산에너빌리티, 원전 수주 목표 '숫자 없는 α·β·γ' 배경은",
-      "summary": "29일 오전 한국수력원자력 (한수원)은 시공비와 계약 방식 등 주요 조건에서 이견을 좁히지 못했다며 대우건설·두산에너빌리티 컨소시엄과의 두코바니 5·6호기 시공계약 협상을 종료했다. 한수원은 내년 7월까지...",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=312708",
-      "date": "Thu, 29 Oct 2026 17:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "한국수력원자력 (한수원)",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.ddaily.co.kr/page/view/2026102917240874959": {
-      "title": "두산에너빌리티, 3분기 성적표 '선방'…올해 누적 수주 10조원",
-      "summary": "한편 이날 한국수력원자력 과 대우건설·두산에너빌리티 컨소시엄 간 체코 두코바니 신규 원전 시공계약 협상이 결렬되면서 두산에너빌리티 주가는 전 거래일보다 4700원(7.65%) 내린 5만6700원에 마감했다....",
-      "url": "https://www.ddaily.co.kr/page/view/2026102917240874959",
-      "date": "Thu, 29 Oct 2026 17:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "한국수력원자력",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=877835": {
-      "title": "[마감] LG엔솔, LG화학의 지분 매각에 '급락'",
-      "summary": "한국수력원자력 이 추진했던 체코 두코바니 원전 사업 시공 계약이 최종 결렬됐다는 소식에 대우건설(-18.57%), 두산에너빌리티(-7.65%) 등 원전 관련주가 크게 하락했다. KB금융(1.82%), 삼성생명(0.18%), 삼성SDI(0.75...",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877835",
-      "date": "Thu, 29 Oct 2026 17:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 검토 참고",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 10,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.bloter.net/news/articleView.html?idxno=677157": {
-      "title": "두산에너빌리티, '원전·가스터빈' 쌍끌이 수주 10조 눈앞",
-      "summary": "한편 이날 한국수력원자력 과 대우건설·두산에너빌리티 컨소시엄 간 체코 두코바니 신규 원전 시공계약 협상은 주요 계약조건에 대한 이견으로 결렬됐다. 한수원은 기존 시공계약 협상을 종료하고 신규 시공사...",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=677157",
-      "date": "Thu, 29 Oct 2026 17:03:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "한국수력원자력 과 대우건설·두산에너빌리티 컨소시엄 간 체코 두코바니 신규 원전 시공계약 협상",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ocjBaRElQdjMwOEtrV2Y1ZERPWUpxYmM5MXpqRWNGQWgyN2ZJMjMwb0NiXzZyZFVjSkdwZWY4M3dqVXJfNmtpZ1ZvME11VHRaalM4cTQtNTNoZWpQb01qVm5WMWY1MGtwaHFDZldfNzRwS1nSAXdBVV95cUxPWEMxek11MU00c2UwQzcxT1F4WlFxRHp6UHJuSlRvT1lJeVVEUzVwbG5RMlExVjRROFNOcEhid05VMnR5MUNzR3EwemdsYVJyaTEwQ240QnJ3bzhfd1BhN1F6SXlSOW82WEhLZGp2MTctTXZuT3h4VQ?oc=5": {
-      "title": "㈔포항지역발전협의회, 포스코 노조 방문…노사 협상 타결 촉구 - 뉴스프리존",
-      "summary": "㈔포항지역발전협의회, 포스코 노조 방문…노사 협상 타결 촉구 뉴스프리존",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ocjBaRElQdjMwOEtrV2Y1ZERPWUpxYmM5MXpqRWNGQWgyN2ZJMjMwb0NiXzZyZFVjSkdwZWY4M3dqVXJfNmtpZ1ZvME11VHRaalM4cTQtNTNoZWpQb01qVm5WMWY1MGtwaHFDZldfNzRwS1nSAXdBVV95cUxPWEMxek11MU00c2UwQzcxT1F4WlFxRHp6UHJuSlRvT1lJeVVEUzVwbG5RMlExVjRROFNOcEhid05VMnR5MUNzR3EwemdsYVJyaTEwQ240QnJ3bzhfd1BhN1F6SXlSOW82WEhLZGp2MTctTXZuT3h4VQ?oc=5",
-      "date": "Thu, 29 Oct 2026 08:22:31 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조 방문",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
     "http://www.breaknews.com/1246856": {
       "title": "오송첨단의료산업진흥재단, 구미전자정보기술원과 MOU …바이오·방산 인...",
       "summary": "KBIOHealth는 경북 ·구미 방산혁신클러스터 연구시험능력확보사업으로 구축된 첨단 장비를 연계해 지역 기업 지원을 활성화하기 위한 업무협약( MOU )을 체결했다고...",
@@ -6356,6 +5815,29 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5": {
+      "title": "한수원, 싱가포르 정부와 SMR 포럼 개최…동남아 원전 수출 시동 - 한국신용신문",
+      "summary": "한수원, 싱가포르 정부와 SMR 포럼 개최…동남아 원전 수출 시동 한국신용신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5",
+      "date": "Sat, 31 Oct 2026 08:16:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "한수원, 싱가포르 정부와 SMR 포럼 개최…동남아 원전 수출 시동 - 한국신용신문",
+        "provider": "gemini",
+        "scope_label": "관심기업: 한국수력원자력",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -6601,6 +6083,11 @@
       "url": "https://dgmbc.com/NewsArticle/870638",
       "title": "대구 MBC 특집 'ARENA, 농구 너머'···시사온 '복합 돔구장 건립 사업'",
       "date": "Sat, 31 Oct 2026 11:11:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5",
+      "title": "한수원, 싱가포르 정부와 SMR 포럼 개최…동남아 원전 수출 시동 - 한국신용신문",
+      "date": "Sat, 31 Oct 2026 08:16:00 GMT"
     }
   ],
   "brief_articles": [
@@ -6613,7 +6100,7 @@
   "gemini_ai": {
     "2026-10-29": 25,
     "2026-10-30": 52,
-    "2026-10-31": 11
+    "2026-10-31": 13
   },
   "ai_cooldowns": {}
 }
