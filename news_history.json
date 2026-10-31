@@ -1882,41 +1882,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VMWJ4YmxZNmRtSTVPb0l5UVVJdGhZX1hzSHJmOThpdUdqZmtxbU9xNGpQUG82XzhkcHRXYzdiVjJtOTBKcll6TlFzWVl3WEVxbzMwb2QwYzF1UEs4b1dv?oc=5": {
-      "title": "포항지역발전협의회, 포스코 노조 방문…노사 갈등 조속 해결 촉구 - 경상매일신문",
-      "summary": "포항지역발전협의회, 포스코 노조 방문…노사 갈등 조속 해결 촉구 경상매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VMWJ4YmxZNmRtSTVPb0l5UVVJdGhZX1hzSHJmOThpdUdqZmtxbU9xNGpQUG82XzhkcHRXYzdiVjJtOTBKcll6TlFzWVl3WEVxbzMwb2QwYzF1UEs4b1dv?oc=5",
-      "date": "Thu, 29 Oct 2026 10:41:22 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 10
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5": {
-      "title": "[체코원전 팀코리아 파열음-한수원 입장] '대우건설 이탈' 벼랑 끝...26조 체코 원전 지켜낼 3대 현실적 수습책은 - 산경e뉴스",
-      "summary": "[체코원전 팀코리아 파열음-한수원 입장] '대우건설 이탈' 벼랑 끝...26조 체코 원전 지켜낼 3대 현실적 수습책은 산경e뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5",
-      "date": "Thu, 29 Oct 2026 10:16:55 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한수원",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "한수원",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
     "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": {
       "title": "포스코 노사, 무기한 파업 앞두고 실무교섭 진행",
       "summary": "임금 협상에서 평행선을 달리고 있는 포스코 노사가 실무교섭을 진행하고 있습니다. 포스코 노사는 오늘(29일) 오후 4시 포항 본사에서 실무교섭을 열고, 기본급 인상 등 주요 쟁점을 놓고 협상을 이어가고 있습니다. 앞서...",
