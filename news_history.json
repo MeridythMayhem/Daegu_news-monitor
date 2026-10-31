@@ -1184,7 +1184,8 @@
     "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037": "2026-10-30T18:03:04.208310+09:00",
     "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257": "2026-10-31T12:02:39.066436+09:00",
     "https://dgmbc.com/NewsArticle/870638": "2026-10-31T12:02:39.066436+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5": "2026-10-31T18:02:14.424955+09:00"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5": "2026-10-31T18:02:14.424955+09:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mc3FJNTAzaW9jVEMtTUhoTHhNTVpZTklJSk5Ic1BBQ3ZUb3djQ1lkX2lHRzBlbm5YblF4X1B3MGF0VkJtSjZxVFZDZHB3bjRfd2hpU0lwRE9DdVNMQ2pMRGdfZzIyVDB1cHhZWA?oc=5": "2026-10-31T19:02:43.793195+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1871,7 +1872,8 @@
     "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00",
     "7a657fbaba36f4d45e373f12035309ab94521592b4566994972975c3d86f0854": "2026-10-31T12:02:39.066436+09:00",
     "6439219f37d97cdde6070761f5a068549a08b8340b6388801d81e3fcddaaca6a": "2026-10-31T12:02:39.066436+09:00",
-    "f026b47ad0afa1ff5167e7050e25f0223ca4ec6cd083fcd5261ae8c20bc8c9ea": "2026-10-31T18:02:14.424955+09:00"
+    "f026b47ad0afa1ff5167e7050e25f0223ca4ec6cd083fcd5261ae8c20bc8c9ea": "2026-10-31T18:02:14.424955+09:00",
+    "578e2592bdd2965b09a2dc2b2dffc58100518bc8c0ed5601eee3e0dd36399dd2": "2026-10-31T19:02:43.793195+09:00"
   },
   "pending": {},
   "ai": {
@@ -1880,57 +1882,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.breaknews.com/1246856": {
-      "title": "오송첨단의료산업진흥재단, 구미전자정보기술원과 MOU …바이오·방산 인...",
-      "summary": "KBIOHealth는 경북 ·구미 방산혁신클러스터 연구시험능력확보사업으로 구축된 첨단 장비를 연계해 지역 기업 지원을 활성화하기 위한 업무협약( MOU )을 체결했다고...",
-      "url": "http://www.breaknews.com/1246856",
-      "date": "Thu, 29 Oct 2026 18:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경제·투자",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_wait_reason": "관내 지명 근거 없음",
-      "review": "미검토"
-    },
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54102": {
-      "title": "SK이노베이션, 3분기 영업이익 3조7043억원...\"역대 최대\"",
-      "summary": "SK온은 미국 네오볼타와 약 9GWh 규모의 ESS용 LFP 파우치셀 공급 계약을 맺었고, 엘앤에프· 포스코 퓨처엠과는 ESS용 LFP 양극재 공급 계약을 체결했다. 이를 바탕으로 북미 ESS 고객 기반을 넓히고 소재 조달 체계를...",
-      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54102",
-      "date": "Thu, 29 Oct 2026 18:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 10,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "엘앤에프· 포스코 퓨처엠과는 ESS용 LFP 양극재 공급 계약을 체결했다",
-        "provider": "gemini"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mRmlTQnBaeVVlZXVVUnNtc3c4VHhLdXIxU3NibmhYMm5UdEF2WVoxQ3NXVk1TeWptNE5KRUVJaF9FMkVIS25QLVpaR0xMY1MxTFhnVlNVMHVZcVhaX3c4Uw?oc=5": {
-      "title": "포항지역발전협의회, 포스코 노조 방문…노사 갈등 조속한 해결 촉구 - NSP통신",
-      "summary": "포항지역발전협의회, 포스코 노조 방문…노사 갈등 조속한 해결 촉구 NSP통신",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mRmlTQnBaeVVlZXVVUnNtc3c4VHhLdXIxU3NibmhYMm5UdEF2WVoxQ3NXVk1TeWptNE5KRUVJaF9FMkVIS25QLVpaR0xMY1MxTFhnVlNVMHVZcVhaX3c4Uw?oc=5",
-      "date": "Thu, 29 Oct 2026 09:30:06 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 10
-    },
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VMWJ4YmxZNmRtSTVPb0l5UVVJdGhZX1hzSHJmOThpdUdqZmtxbU9xNGpQUG82XzhkcHRXYzdiVjJtOTBKcll6TlFzWVl3WEVxbzMwb2QwYzF1UEs4b1dv?oc=5": {
       "title": "포항지역발전협의회, 포스코 노조 방문…노사 갈등 조속 해결 촉구 - 경상매일신문",
       "summary": "포항지역발전협의회, 포스코 노조 방문…노사 갈등 조속 해결 촉구 경상매일신문",
@@ -5838,6 +5789,29 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mc3FJNTAzaW9jVEMtTUhoTHhNTVpZTklJSk5Ic1BBQ3ZUb3djQ1lkX2lHRzBlbm5YblF4X1B3MGF0VkJtSjZxVFZDZHB3bjRfd2hpU0lwRE9DdVNMQ2pMRGdfZzIyVDB1cHhZWA?oc=5": {
+      "title": "[포스코 임단협⑮] 무기한 파업 앞두고 잠정 합의…140일 교섭 마침표 - 페로타임즈",
+      "summary": "[포스코 임단협⑮] 무기한 파업 앞두고 잠정 합의…140일 교섭 마침표 페로타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mc3FJNTAzaW9jVEMtTUhoTHhNTVpZTklJSk5Ic1BBQ3ZUb3djQ1lkX2lHRzBlbm5YblF4X1B3MGF0VkJtSjZxVFZDZHB3bjRfd2hpU0lwRE9DdVNMQ2pMRGdfZzIyVDB1cHhZWA?oc=5",
+      "date": "Sat, 31 Oct 2026 09:23:32 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[포스코 임단협⑮] 무기한 파업 앞두고 잠정 합의…140일 교섭 마침표 - 페로타임즈",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -6088,6 +6062,11 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5",
       "title": "한수원, 싱가포르 정부와 SMR 포럼 개최…동남아 원전 수출 시동 - 한국신용신문",
       "date": "Sat, 31 Oct 2026 08:16:00 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mc3FJNTAzaW9jVEMtTUhoTHhNTVpZTklJSk5Ic1BBQ3ZUb3djQ1lkX2lHRzBlbm5YblF4X1B3MGF0VkJtSjZxVFZDZHB3bjRfd2hpU0lwRE9DdVNMQ2pMRGdfZzIyVDB1cHhZWA?oc=5",
+      "title": "[포스코 임단협⑮] 무기한 파업 앞두고 잠정 합의…140일 교섭 마침표 - 페로타임즈",
+      "date": "Sat, 31 Oct 2026 09:23:32 GMT"
     }
   ],
   "brief_articles": [
@@ -6100,7 +6079,7 @@
   "gemini_ai": {
     "2026-10-29": 25,
     "2026-10-30": 52,
-    "2026-10-31": 13
+    "2026-10-31": 15
   },
   "ai_cooldowns": {}
 }
