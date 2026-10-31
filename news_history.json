@@ -1882,28 +1882,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": {
-      "title": "포스코 노사, 무기한 파업 앞두고 실무교섭 진행",
-      "summary": "임금 협상에서 평행선을 달리고 있는 포스코 노사가 실무교섭을 진행하고 있습니다. 포스코 노사는 오늘(29일) 오후 4시 포항 본사에서 실무교섭을 열고, 기본급 인상 등 주요 쟁점을 놓고 협상을 이어가고 있습니다. 앞서...",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view",
-      "date": "Thu, 29 Oct 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노사는 오늘(29일) 오후 4시 포항 본사에서 실무교섭을 열고",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코"
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.ebn.co.kr/news/articleView.html?idxno=1729759": {
       "title": "엄기천 포스코 퓨처엠 사장 \"연말까지 수주 270만톤 전망…2028년 판매 확...",
       "summary": "엄기천 포스코 퓨처엠 대표이사 사장이 연말까지 양극재 장기공급계약(LTA) 물량이 약 270만톤에 이를 것으로... 이어 \" 포스코 퓨처엠도 지난해 하반기부터 현재까지 발표한 양·음극재 장기공급계약 물량이 약 150만톤...",
