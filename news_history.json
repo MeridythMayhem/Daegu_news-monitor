@@ -1882,50 +1882,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1729759": {
-      "title": "엄기천 포스코 퓨처엠 사장 \"연말까지 수주 270만톤 전망…2028년 판매 확...",
-      "summary": "엄기천 포스코 퓨처엠 대표이사 사장이 연말까지 양극재 장기공급계약(LTA) 물량이 약 270만톤에 이를 것으로... 이어 \" 포스코 퓨처엠도 지난해 하반기부터 현재까지 발표한 양·음극재 장기공급계약 물량이 약 150만톤...",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729759",
-      "date": "Thu, 29 Oct 2026 21:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "엄기천 포스코 퓨처엠 대표이사 사장이 연말까지 양극재 장기공급계약(LTA) 물량이 약 270만톤에 이를 것으로",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코퓨처엠"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5": {
-      "title": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\" - www.ebn.co.kr",
-      "summary": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\" www.ebn.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5",
-      "date": "Thu, 29 Oct 2026 12:10:03 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\"",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코퓨처엠"
-      },
-      "review": "AI 참고 적합"
-    },
     "http://www.e2news.com/news/articleView.html?idxno=335601": {
       "title": "가스公- iM뱅크 , '대구 지역경제 활력' 상생펀드 600억원 조성",
       "summary": "한국가스공사는 iM뱅크 와 28일 대구 수성구 iM뱅크 본사에서 '더 좋은 지역 경제를 위한 상생펀드 업무 협약'을 갱신했다. 이날 협약식에는 홍의락 가스공사 사장과 강정훈 iM뱅크 은행장을 비롯해 양 기관 관계자 10여...",
