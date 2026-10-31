@@ -1875,7 +1875,24 @@
     "f026b47ad0afa1ff5167e7050e25f0223ca4ec6cd083fcd5261ae8c20bc8c9ea": "2026-10-31T18:02:14.424955+09:00",
     "578e2592bdd2965b09a2dc2b2dffc58100518bc8c0ed5601eee3e0dd36399dd2": "2026-10-31T19:02:43.793195+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://tk.newdaily.co.kr/site/data/html/2026/10/31/2026103100061.html": {
+      "title": "경북, 미래산업 투자유치 ‘3부작’ 마침표…출향 기업인과 고향 투자 ...",
+      "summary": "이날 행사에서는 경북도· 구미 시·코리아모션웍스㈜(KMW) 간 3455억6000만 원 규모의 투자양해각서( MOU )도 체결됐다. KMW는 LS전선의 100% 자회사로, 구미 인동공장에 희토류 영구자석 생산시설을 구축하고 212명을 신규 고용할...",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/31/2026103100061.html",
+      "date": "Sat, 31 Oct 2026 22:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
+      "review": "AI 관련성 낮음"
+    }
+  },
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
@@ -5711,6 +5728,36 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://tk.newdaily.co.kr/site/data/html/2026/10/31/2026103100061.html": {
+      "title": "경북, 미래산업 투자유치 ‘3부작’ 마침표…출향 기업인과 고향 투자 ...",
+      "summary": "이날 행사에서는 경북도· 구미 시·코리아모션웍스㈜(KMW) 간 3455억6000만 원 규모의 투자양해각서( MOU )도 체결됐다. KMW는 LS전선의 100% 자회사로, 구미 인동공장에 희토류 영구자석 생산시설을 구축하고 212명을 신규 고용할...",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/31/2026103100061.html",
+      "date": "Sat, 31 Oct 2026 22:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SdXJCM3loNEc0S3pfaDE0MHotSXhnZ1BNX0x1Z2ZPQjFiLUpTNGdCWnM5M3FuUmNmbmJpamRUUVBzTGRLUXNKcDhtUVF3ZC0wUGNxLUUxelVqTHZMenBkSThfd2VVSWpvdmhHckZkQ0Zoa2hPWFA5ZjB30gF_QVVfeXFMTkpOYzI4UjloYVFFNVIwX2VzLVo2b2NGVDgwZTctRE4wOXJ5UW1HdHZfZTdDc082NGpJQ1kxYktvcGdrbzlvOEs1bHhQOTRJRjZPaTBPX1JjeGwySW03S1VMOGZuemtudjN0SGViWGo5aVVxWmVkS0tHSFZ5d3gxZw?oc=5": {
+      "title": "경북, 미래산업 투자유치 ‘3부작’ 마침표…출향 기업인과 고향 투자 물꼬 튼다 - 뉴데일리 대구경북",
+      "summary": "경북, 미래산업 투자유치 ‘3부작’ 마침표…출향 기업인과 고향 투자 물꼬 튼다 뉴데일리 대구경북",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SdXJCM3loNEc0S3pfaDE0MHotSXhnZ1BNX0x1Z2ZPQjFiLUpTNGdCWnM5M3FuUmNmbmJpamRUUVBzTGRLUXNKcDhtUVF3ZC0wUGNxLUUxelVqTHZMenBkSThfd2VVSWpvdmhHckZkQ0Zoa2hPWFA5ZjB30gF_QVVfeXFMTkpOYzI4UjloYVFFNVIwX2VzLVo2b2NGVDgwZTctRE4wOXJ5UW1HdHZfZTdDc082NGpJQ1kxYktvcGdrbzlvOEs1bHhQOTRJRjZPaTBPX1JjeGwySW03S1VMOGZuemtudjN0SGViWGo5aVVxWmVkS0tHSFZ5d3gxZw?oc=5",
+      "date": "Sat, 31 Oct 2026 13:18:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
     }
   },
   "brief_sent": {
@@ -5978,7 +6025,7 @@
   "gemini_ai": {
     "2026-10-29": 25,
     "2026-10-30": 52,
-    "2026-10-31": 15
+    "2026-10-31": 16
   },
   "ai_cooldowns": {}
 }
