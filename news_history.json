@@ -1890,31 +1890,16 @@
     "7587717e9dd6da2fa9ed918c24d79262cdae8b761d0fa4a196269eb536ddf61f": "2026-11-01T16:02:16.094984+09:00"
   },
   "pending": {
-    "http://www.e2news.com/news/articleView.html?idxno=335665": {
-      "title": "홍의락 가스 公 사장 취임 이후 인천LNG기지서 첫 현장 이사회 개최",
-      "summary": "한국가스공사 (사장 홍의락)는 30일 인천생산기지에서 홍의락 사장을 비롯한 이사진 전원이 참석한 가운데 '현장 이사회'를 개최하고, LNG 하역설비 안전관리 실태를 점검한 후 현장에서 직원 간담회를 진행했다. 이번 현장...",
-      "url": "http://www.e2news.com/news/articleView.html?idxno=335665",
-      "date": "Sun, 01 Nov 2026 15:08:00 +0900",
+    "https://www.cstimes.com/news/articleView.html?idxno=726095": {
+      "title": "한수원·농어촌공사·수자원공사, '새만금 조력발전 공동개발' MOU 체결",
+      "summary": "한국수력원자력 (한수원)은 한국농어촌공사, 한국수자원공사와 손잡고 새만금 조력발전사업의 성공적인 추진을 위한 공동개발 업무협약을 체결했다. 서명식은 지난 10월 30일 서울 중구 한수원 방사선보건원에서 진행됐다....",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=726095",
+      "date": "Sun, 01 Nov 2026 16:30:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.metroseoul.co.kr/article/20261101500219": {
-      "title": "홍의락 가스공사 사장, 취임 후 첫 현장 이사회 \"LNG 하역설비 등 안전 ...",
-      "summary": "경영 의사결정과 현장 안전관리 연계… 안정적 천연가스 공급기반 다진다 가스공사 인천생산기지 현장 안전점검(왼쪽 3번째 홍의락 가스공사 사장) /사진= 한국가스공사 홍의락 한국가스공사 사장이 취임 이후 처음으로...",
-      "url": "http://www.metroseoul.co.kr/article/20261101500219",
-      "date": "Sun, 01 Nov 2026 15:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
@@ -1927,149 +1912,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.sedaily.com/article/20108379?ref=naver": {
-      "title": "에코프로 그룹, 정기 임원 인사…부사장 등 14명 승진",
-      "summary": "에코프로 (086520) 그룹이 부사장 3명, 상무 11명 등 총 14명을 승진시키는 임원 인사를 실시했다. 에코프로 그룹은 미래 경쟁력 강화와 차세대 경영 인재 육성을 위해 이같은 인사를 단행했다고 30일 밝혔다. 신임...",
-      "url": "https://www.sedaily.com/article/20108379?ref=naver",
-      "date": "Fri, 30 Oct 2026 16:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "주요인물·기관 인사",
-      "priority": 90,
-      "needs_ai": false,
-      "filter_version": 12
-    },
-    "http://www.metroseoul.co.kr/article/20261030500212": {
-      "title": "포스코퓨처엠, LG엔솔과 '미래 협력 MOU '…양·음극재 72만톤 공급",
-      "summary": "공급 포항 영일만 4산단에 위치한 포스코퓨처엠 포항 양극재 공장 전경. /포스코퓨처엠 포스코퓨처엠과... 포스코퓨처엠은 LG에너지솔루션과 '미래 협력 양해각서( MOU )'를 체결하고 급변하는 전기차(EV)·에너지저장장치...",
-      "url": "http://www.metroseoul.co.kr/article/20261030500212",
-      "date": "Fri, 30 Oct 2026 16:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "공급 포항 영일만 4산단에 위치한 포스코퓨처엠 포항 양극재 공장 전경.",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코퓨처엠",
-        "evidence_id": 1
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.mt.co.kr/industry/2026/10/30/2026103015561080947": {
-      "title": "포스코퓨처엠 , LG엔솔과 LFP 양극재 공급 MOU 체결",
-      "summary": "포스코퓨처엠 이 LG에너지솔루션과 LFP(리튬·인산·철) 양극재, 인조흑연 음극재 등으로 협력 범위를 넓힌다고 30일 밝혔다. 양사는 이날 '미래 협력 MOU'를 체결하고 급변하는 EV(전기차)·ESS(에너지저장장치) 시장과...",
-      "url": "https://www.mt.co.kr/industry/2026/10/30/2026103015561080947",
-      "date": "Fri, 30 Oct 2026 16:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코퓨처엠 , LG엔솔과 LFP 양극재 공급 MOU 체결",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코퓨처엠",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.datanews.co.kr/news/article.html?no=147251": {
-      "title": "포스코 퓨처엠, LG엔솔과 MOU…72만 톤 양·음극재 공급 계획",
-      "summary": "포스코 퓨처엠이 LG에너지솔루션과 LFP(리튬·인산·철) 양극재 및 인조흑연 음극재 등으로 협력 범위를 넓힌다. 포스코 퓨처엠은 LG에너지솔루션과 '미래 협력 MOU'를 체결, 전기차(EV)·에너지저장장치(ESS) 시장과 글로벌...",
-      "url": "http://www.datanews.co.kr/news/article.html?no=147251",
-      "date": "Fri, 30 Oct 2026 16:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 퓨처엠, LG엔솔과 MOU…72만 톤 양·음극재 공급 계획",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코퓨처엠",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.newslock.co.kr/news/articleView.html?idxno=139006": {
-      "title": "SK이노베이션, 정승일 총괄사장 선임…전력사업 전환 속도",
-      "summary": "정 사장은 산업통상자원부 차관과 한국전력공사 사장, 한국가스공사 사장 등을 역임했다. 에너지믹스와 천연가스 수급, 전력망 등 에너지·전력 인프라와 전력시장 전반에 대한 전문성을 갖췄다. 강동수 신임 사장은...",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=139006",
-      "date": "Fri, 30 Oct 2026 16:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.tf.co.kr/read/economy/2383176.htm": {
-      "title": "건설노조, 체코 원전 시공 협상 결렬에 \"한수원 갑질 중단하라\"",
-      "summary": "\"공사비 감액 강요·협상 연기 요구 묵살\" 주장 대우건설 노조도 성명 발표…검토 기한 보장 촉구 한국수력원자력 (한수원)과 대우건설·두산에너빌리티 컨소시엄의 체코 두코바니 신규 원전 시공계약 협상이 결렬되자...",
-      "url": "https://news.tf.co.kr/read/economy/2383176.htm",
-      "date": "Fri, 30 Oct 2026 16:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.ekn.kr/web/view.php?key=20261030027333448": {
-      "title": "한수원, 수자원공사·농어촌공사와 새만금 조력발전 공동개발 MOU",
-      "summary": "한국수력원자력 이 한국수자원공사, 한국농어촌공사와 전북 새만금 조력발전사업을 공동으로 해나가기 위해 손을 잡았다. 30일 한수원에 따르면, 세 기관은 이날 서울 중구 중림동 한수원 방사선보건원에서 '새만금...",
-      "url": "https://www.ekn.kr/web/view.php?key=20261030027333448",
-      "date": "Fri, 30 Oct 2026 16:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://biz.heraldcorp.com/article/10920822?ref=naver": {
-      "title": "대우건설 노조 “한수원, 팀코리아 상생 흔들어…재협상 임해야”",
-      "summary": "대우건설 노동조합이 체코 두코바니 신규 원전 건설사업 시공계약 결렬을 알린 한국수력원자력 을 향해 재협상을 요구했다. 전국건설기업노동조합 대우건설지부는 30일 성명서를 내고 “공기업이라는 우월적 지위를...",
-      "url": "https://biz.heraldcorp.com/article/10920822?ref=naver",
-      "date": "Fri, 30 Oct 2026 16:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "http://www.breaknews.com/1247282": {
       "title": "경북도·구미시, KMW와 3,500억 원 투자협약…희토류 영구자석 생산기지...",
       "summary": "투자양해각서( MOU )를 체결했다고 밝혔다. LS전선의 100% 자회사인 KMW는 구미시... high-quality jobs and the revitalization of the local economy.\" 원본 기사 보기:브레이크뉴스 대구 경북",
@@ -4352,6 +4194,21 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
+    },
+    "https://www.cstimes.com/news/articleView.html?idxno=726095": {
+      "title": "한수원·농어촌공사·수자원공사, '새만금 조력발전 공동개발' MOU 체결",
+      "summary": "한국수력원자력 (한수원)은 한국농어촌공사, 한국수자원공사와 손잡고 새만금 조력발전사업의 성공적인 추진을 위한 공동개발 업무협약을 체결했다. 서명식은 지난 10월 30일 서울 중구 한수원 방사선보건원에서 진행됐다....",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=726095",
+      "date": "Sun, 01 Nov 2026 16:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
     }
   },
   "brief_sent": {},
@@ -4661,7 +4518,7 @@
     "2026-10-29": 25,
     "2026-10-30": 52,
     "2026-10-31": 16,
-    "2026-11-01": 14
+    "2026-11-01": 15
   },
   "ai_cooldowns": {}
 }
