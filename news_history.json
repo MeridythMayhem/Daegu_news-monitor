@@ -1893,127 +1893,13 @@
     "d9b7f06ca06f05dbde9b1dca7effed02e8ed729c61d0263015ed4a03a787c1f6": "2026-11-01T18:02:15.081818+09:00",
     "2cbc00e3c1e63521466849a835e469ba3fc1e27e1a4db4be0f812bbcb4338677": "2026-11-01T21:02:16.179304+09:00"
   },
-  "pending": {
-    "https://biz.heraldcorp.com/article/10921908?ref=naver": {
-      "title": "정희용 의원, 성주군 출신‘이우석 동아수출공사 회장 공적비 제막행사...",
-      "summary": "이우석 회장은 1935년 경북 성주군 초전면 출생으로, 1967년 ㈜동아수출공사를 설립해 ‘미워도 다시 한번’... 공적비를 건립 했다. 정희용 의원은 “대한민국 영화산업의 기틀을 다졌을 뿐 아니라 장학금 기탁 등 고향...",
-      "url": "https://biz.heraldcorp.com/article/10921908?ref=naver",
-      "date": "Sun, 01 Nov 2026 21:31:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.ujeil.com/news/articleView.html?idxno=394488": {
-      "title": "SK이노, 전력사업 성장기반 강화 사장단 인사 단행",
-      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임하며, 에너지믹스, 천연가스 수급 등 전력인프라 및 전력시장 구조를 입체적으로 이해하는 손꼽히는 에너지 전문가이다. 강동수...",
-      "url": "http://www.ujeil.com/news/articleView.html?idxno=394488",
-      "date": "Sun, 01 Nov 2026 21:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
   },
   "cursor": 0,
   "archive": {
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7191604": {
-      "title": "포스코 노사, 무기한 파업 문턱서 극적 합의…\"사측, 통 큰 결단\"",
-      "summary": "잠정 합의안에는 기본급 2.6% 인상과 일시금 600만원 지급, 특별승호 3호봉, 명절 상여금 200만원과 기본급 20%, 교대 휴일수당 추가, 상주 ·정비수당 2만원, 근로자 에 국한된 의료 복지를 그의 배우자, 자녀로 확대하는...",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191604",
-      "date": "Fri, 30 Oct 2026 22:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노사, 무기한 파업 문턱서 극적 합의…\"사측, 통 큰 결단\"",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.snmnews.com/news/articleView.html?idxno=576725": {
-      "title": "[종합] 포스코 노사, 무기한 파업 문턱서 극적 잠정합의…내달 7일 찬반...",
-      "summary": "포스코 노사가 창사 58년 만의 첫 파업을 거쳐 기본임금 인상과 특별호봉 부여, 일시금 지급 등을 포함한... 30일 포스코 노동조합이 공개한 잠정합의 설명자료에 따르면 노사는 올해 기본임금을 정률 2.6% 인상하기로...",
-      "url": "http://www.snmnews.com/news/articleView.html?idxno=576725",
-      "date": "Fri, 30 Oct 2026 22:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "[종합] 포스코 노사, 무기한 파업 문턱서 극적 잠정합의…내달 7일 찬반...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbmFzbnBoVTNlSExDSFRSY0Q2eVRFWmV3WU12RmhrOF9EbFpwZzVtSGtIUDU3VElCWGxja3VRTXU5LWVGYk5EendBQVFybWhEMThHekZNa0swcTdqeDZKN045OGd0aThUNnJGemZ3T2_SAXRBVV95cUxQMGgxQTdlOWQtdnhwS3d5Ympkc2Q2cElTdUVnNVNfTW5LU096TzRVRjBRQ29RSnhUeWpqYWhIalVrTzJpbnkxclhUeFRFT0RGTzAxUGhtUWRvbGVtdldtQTdWMWdINmtPYnZ5MGhOc185UGNLMQ?oc=5": {
-      "title": "포스코 노사, 무기한 파업 문턱서 극적 합의…“사측 통 큰 결단” - 주간한국",
-      "summary": "포스코 노사, 무기한 파업 문턱서 극적 합의…“사측 통 큰 결단” 주간한국",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsbmFzbnBoVTNlSExDSFRSY0Q2eVRFWmV3WU12RmhrOF9EbFpwZzVtSGtIUDU3VElCWGxja3VRTXU5LWVGYk5EendBQVFybWhEMThHekZNa0swcTdqeDZKN045OGd0aThUNnJGemZ3T2_SAXRBVV95cUxQMGgxQTdlOWQtdnhwS3d5Ympkc2Q2cElTdUVnNVNfTW5LU096TzRVRjBRQ29RSnhUeWpqYWhIalVrTzJpbnkxclhUeFRFT0RGTzAxUGhtUWRvbGVtdldtQTdWMWdINmtPYnZ5MGhOc185UGNLMQ?oc=5",
-      "date": "Fri, 30 Oct 2026 13:42:52 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94d1dQLVBUYk5yWi1yNDZfTFBUcGJsNkxLTGtCM2RWZ1M0LUs1em1LOXFJVlZoM3RYdzgtZTg2UktnSk02NGVKVzhpWm1FaVBodE50dEMtdWRyUQ?oc=5": {
-      "title": "포스코, 140일 만에 ‘기본급 2.6%·600만원’ 잠정합의⋯ “압도적 반대표로 총파업” 댓글 역풍 - 브릿지경제",
-      "summary": "포스코, 140일 만에 ‘기본급 2.6%·600만원’ 잠정합의⋯ “압도적 반대표로 총파업” 댓글 역풍 브릿지경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94d1dQLVBUYk5yWi1yNDZfTFBUcGJsNkxLTGtCM2RWZ1M0LUs1em1LOXFJVlZoM3RYdzgtZTg2UktnSk02NGVKVzhpWm1FaVBodE50dEMtdWRyUQ?oc=5",
-      "date": "Fri, 30 Oct 2026 13:27:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코, 140일 만에 ‘기본급 2.6%·600만원’ 잠정합의⋯ “압도적 반대표로 총파업” 댓글 역풍 - 브릿지경제",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.financialpost.co.kr/news/articleView.html?idxno=283759": {
       "title": "창사 이래 첫 파업 진통 딛고… 포스코 노사 양보로 '타협점'",
       "summary": "포스코 노사가 창사 58년 만의 첫 파업이라는 진통을 딛고 2026년 임금 협약에 잠정 합의하며 파국을 막았다.... 포스코 노동조합은 도출된 잠정 합의안을 바탕으로 조만간 조합원 찬반투표를 진행해, 과반수 찬성을 얻어...",
