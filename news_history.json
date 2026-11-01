@@ -1876,20 +1876,19 @@
     "578e2592bdd2965b09a2dc2b2dffc58100518bc8c0ed5601eee3e0dd36399dd2": "2026-10-31T19:02:43.793195+09:00"
   },
   "pending": {
-    "https://tk.newdaily.co.kr/site/data/html/2026/10/31/2026103100061.html": {
-      "title": "경북, 미래산업 투자유치 ‘3부작’ 마침표…출향 기업인과 고향 투자 ...",
-      "summary": "이날 행사에서는 경북도· 구미 시·코리아모션웍스㈜(KMW) 간 3455억6000만 원 규모의 투자양해각서( MOU )도 체결됐다. KMW는 LS전선의 100% 자회사로, 구미 인동공장에 희토류 영구자석 생산시설을 구축하고 212명을 신규 고용할...",
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/31/2026103100061.html",
-      "date": "Sat, 31 Oct 2026 22:20:00 +0900",
+    "https://www.sentv.co.kr/article/view/sentv202610300201": {
+      "title": "IT서비스 업계, 3분기 실적 '희비'…삼성SDS 웃고 포스코 DX 흐림",
+      "summary": "오는 2일 실적 발표를 앞둔 포스코 DX는 영업익이 절반 가까이 줄어들 전망이다. 증권가 컨센서스에 따르면 3분기 매출은 2501억원, 영업익은 117억원으로 추정됐다. 작년 3분기에 비해 매출은 2.2% 증가하지만...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202610300201",
+      "date": "Sun, 01 Nov 2026 08:02:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
-      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
       "review": "AI 관련성 낮음"
     }
   },
@@ -1899,124 +1898,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.breaknews.com/1246970": {
-      "title": "iM뱅크 ·한국가스공사, 지역 상생펀드 600억원…대구·경북 기업 지원",
-      "summary": "iM뱅크 와 한국가스공사가 대구·경북 지역 중소기업과 소상공인의 금융 부담을 줄이기 위해 상생펀드 규모를 기존보다 3배 늘린다. iM뱅크 (은행장 강정훈)는...",
-      "url": "http://www.breaknews.com/1246970",
-      "date": "Fri, 30 Oct 2026 08:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크, 한국가스공사",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "iM뱅크 ·한국가스공사, 지역 상생펀드 600억원…대구·경북 기업 지원",
-        "provider": "gemini",
-        "scope_label": "관심기업: iM뱅크, 한국가스공사"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.m-i.kr/news/articleView.html?idxno=2012208": {
-      "title": "구미 시, LS전선 자회사 KMW와 희토류 영구자석 생산기지 투자협약",
-      "summary": "구미 시에 따르면 KMW는 LS전선㈜이 지분 100%를 보유한 자회사다. 협약에 따라 KMW는 2026년부터 2029년까지 구미 국가산업단지 내 LS전선 인동공장 유휴부지( 구미 시 3공단2로 238)에 총 3455억6000만원을 투자해 희토류...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2012208",
-      "date": "Fri, 30 Oct 2026 08:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_wait_reason": "분류 근거 검증 실패",
-      "review": "미검토"
-    },
-    "http://www.breaknews.com/1246983": {
-      "title": "포항지역발전협의회, 포스코 노조에 원만한 협상 타결 당부",
-      "summary": "(사)포항지역발전협의회(회장 이칠구)는 29일 포스코 노동조합을 방문해 김성호... 이번 방문은 지난 26일 포발협 긴급 이사회에서 포스코 노사 갈등에 대한 지역사회...",
-      "url": "http://www.breaknews.com/1246983",
-      "date": "Fri, 30 Oct 2026 08:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포항지역발전협의회, 포스코 노조에 원만한 협상 타결 당부",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6337227": {
-      "title": "'접점 찾을까' 무기한 파업 사흘 앞둔 포스코 노사 이틀째 교섭",
-      "summary": "오는 11월 2일부터 무기한 파업을 예고한 포스코 노조가 30일 사측과 임금협상을 위한 교섭에 나선다. 노사는 전날 포항 본사에서 실무협의를 가졌으며, 이후 노조 측이 \"사측과 입장을 좁힌 상태\"라고 언급해 잠정...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6337227",
-      "date": "Fri, 30 Oct 2026 08:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "무기한 파업 사흘 앞둔 포스코 노사 이틀째 교섭",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코"
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.wsobi.com/news/articleView.html?idxno=320686": {
-      "title": "포스코, QSS혁신공장 '선강부문 이송설비 개선활동' 성료...2026 사랑의열...",
-      "summary": "포스코 포항제철소 가 연ㆍ원료 공급의 핵심인 이송설비 개선에 역량을 집중해 설비 고장과 환경ㆍ안전 리스크를 줄이며 조업 안정성을 끌어올렸다고 10월 29일 밝혔다. 포항제철소 는 선강부문 4개 부서, 9개 공장이...",
-      "url": "http://www.wsobi.com/news/articleView.html?idxno=320686",
-      "date": "Fri, 30 Oct 2026 08:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 포항제철소 가 연ㆍ원료 공급의 핵심인 이송설비 개선에 역량을 집중해",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코"
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMlNyTVFiR2g3R0Z2dW5GMzd0eG15bzBEUHR1VXNKamdPTFNOaFpJc2lJVllJV3JDejI4MkhTSzRWSWpKbVJhclRGd3p5VVh2akFNRlduVGp1RWNtR2hoam5XeC0wdw?oc=5": {
-      "title": "포스코, QSS혁신공장 '선강부문 이송설비 개선활동' 성료...2026 사랑의열매 '기부 물적부문 대상' 수상 - 여성소비자신문",
-      "summary": "포스코, QSS혁신공장 '선강부문 이송설비 개선활동' 성료...2026 사랑의열매 '기부 물적부문 대상' 수상 여성소비자신문",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMlNyTVFiR2g3R0Z2dW5GMzd0eG15bzBEUHR1VXNKamdPTFNOaFpJc2lJVllJV3JDejI4MkhTSzRWSWpKbVJhclRGd3p5VVh2akFNRlduVGp1RWNtR2hoam5XeC0wdw?oc=5",
-      "date": "Thu, 29 Oct 2026 23:19:22 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
     "http://www.newsdream.kr/news/articleView.html?idxno=121173": {
       "title": "LS전선, 구미 에 국내 최대 규모 희토류 영구자석 공장 건립… 비중국 공...",
       "summary": "LS전선의 희토류 영구자석 사업 자회사인 코리아모션웍스(대표 홍영호)는 29일 경상북도 및 구미 시와 약 3500억원 규모의 생산시설 건립을 위한 투자협약( MOU )을 체결했다고 30일 밝혔다. 이번 협약식에는 이철우...",
@@ -5660,6 +5541,21 @@
       "priority": 70,
       "needs_ai": true,
       "filter_version": 12
+    },
+    "https://www.sentv.co.kr/article/view/sentv202610300201": {
+      "title": "IT서비스 업계, 3분기 실적 '희비'…삼성SDS 웃고 포스코 DX 흐림",
+      "summary": "오는 2일 실적 발표를 앞둔 포스코 DX는 영업익이 절반 가까이 줄어들 전망이다. 증권가 컨센서스에 따르면 3분기 매출은 2501억원, 영업익은 117억원으로 추정됐다. 작년 3분기에 비해 매출은 2.2% 증가하지만...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202610300201",
+      "date": "Sun, 01 Nov 2026 08:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
     }
   },
   "brief_sent": {},
@@ -5934,7 +5830,7 @@
     "2026-10-29": 25,
     "2026-10-30": 52,
     "2026-10-31": 16,
-    "2026-11-01": 1
+    "2026-11-01": 2
   },
   "ai_cooldowns": {}
 }
