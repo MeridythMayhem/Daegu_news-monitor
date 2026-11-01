@@ -1900,29 +1900,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=283759": {
-      "title": "창사 이래 첫 파업 진통 딛고… 포스코 노사 양보로 '타협점'",
-      "summary": "포스코 노사가 창사 58년 만의 첫 파업이라는 진통을 딛고 2026년 임금 협약에 잠정 합의하며 파국을 막았다.... 포스코 노동조합은 도출된 잠정 합의안을 바탕으로 조만간 조합원 찬반투표를 진행해, 과반수 찬성을 얻어...",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283759",
-      "date": "Sat, 31 Oct 2026 01:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "창사 이래 첫 파업 진통 딛고… 포스코 노사 양보로 '타협점'",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.mediafine.co.kr/news/articleView.html?idxno=94161": {
       "title": "포스코 노사, 기본급 2.6% 인상 잠정 합의…58년 만의 파업 사태 마무리...",
       "summary": "포스코 노사가 4개월 넘게 이어온 임금 협상 끝에 기본급 2.6% 인상 등을 담은 2026년 임금 협약 잠정... 31일 포스코 에 따르면 노사는 전날 오전 10시 30분부터 경북 포항 본사에서 본교섭을 진행해 늦은 오후 잠정 합의에...",
@@ -2923,16 +2900,12 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
-    }
-  },
-  "brief_sent": {},
-  "brief_titles": {},
-  "brief_pending": {
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450529": {
-      "title": "포스코 이앤씨 목동 재건축 선택지 '장고', 송치영 도시정비 수주 회복세...",
-      "summary": "포스코 이앤씨가 건설업계 '도시정비사업 격전지'인 목동 재건축 진입을 두고 장고를 거듭하고 있다. 주요... 송치영 포스코 이앤씨 대표이사 사장. 1일 포스코 이앤씨에 따르면 목동 재건축 사업 홍보를 위한 거점 성격의...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450529",
-      "date": "Sun, 01 Nov 2026 06:02:00 +0900",
+    },
+    "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001500.html": {
+      "title": "30조 목동 수주전서 '나홀로 빈손' 포스코 이앤씨 브랜드 시험대",
+      "summary": "주요 대형 건설사들이 핵심 단지를 하나둘 선점해 나가는 반면, 포스코 이앤씨는 14개 단지 중 단 한 곳의... 이처럼 주요 대형 시공사들의 윤곽이 드러나는 반면, 단지 선점을 하지 못한 포스코 이앤씨, 롯데건설...",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001500.html",
+      "date": "Mon, 02 Nov 2026 06:02:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -2944,7 +2917,26 @@
       "review": "AI 관련성 낮음"
     }
   },
-  "brief_date": "2026-11-01",
+  "brief_sent": {},
+  "brief_titles": {},
+  "brief_pending": {
+    "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001500.html": {
+      "title": "30조 목동 수주전서 '나홀로 빈손' 포스코 이앤씨 브랜드 시험대",
+      "summary": "주요 대형 건설사들이 핵심 단지를 하나둘 선점해 나가는 반면, 포스코 이앤씨는 14개 단지 중 단 한 곳의... 이처럼 주요 대형 시공사들의 윤곽이 드러나는 반면, 단지 선점을 하지 못한 포스코 이앤씨, 롯데건설...",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001500.html",
+      "date": "Mon, 02 Nov 2026 06:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    }
+  },
+  "brief_date": "2026-11-02",
   "sent_articles": [
     {
       "url": "http://www.datanews.co.kr/news/article.html?no=147230",
@@ -3242,7 +3234,8 @@
     "2026-10-29": 25,
     "2026-10-30": 52,
     "2026-10-31": 16,
-    "2026-11-01": 20
+    "2026-11-01": 20,
+    "2026-11-02": 1
   },
   "ai_cooldowns": {}
 }
