@@ -1213,7 +1213,8 @@
     "https://www.newsis.com/view/NISX20261102_0003850791": "2026-11-02T12:03:04.909975+09:00",
     "https://www.etoday.co.kr/news/view/2642963": "2026-11-02T12:03:04.909975+09:00",
     "https://www.etoday.co.kr/news/view/2642961": "2026-11-02T12:03:04.909975+09:00",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BMlZyNWRiZkc1a0Fia0s5anpVa3BtRGVoMXlmRWY0TlNBWXZpR1c0QkJLMjk5V2FDUzY0dnZUMGxLak9lbjNGV2VuOXhKMGhZeGMzV2VBbVZEZVVwYlhHaXc2cjRUTkxoSDItaA?oc=5": "2026-11-02T12:03:04.909975+09:00"
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BMlZyNWRiZkc1a0Fia0s5anpVa3BtRGVoMXlmRWY0TlNBWXZpR1c0QkJLMjk5V2FDUzY0dnZUMGxLak9lbjNGV2VuOXhKMGhZeGMzV2VBbVZEZVVwYlhHaXc2cjRUTkxoSDItaA?oc=5": "2026-11-02T12:03:04.909975+09:00",
+    "https://www.kukinews.com/article/view/kuk202611020093": "2026-11-02T13:02:30.999731+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1929,25 +1930,10 @@
     "491d3e3c7f8d895c64e6272db69953ed43881691d18f5b581feeb9060b11da10": "2026-11-02T12:03:04.909975+09:00",
     "ebb41136bf813aa2f58fa21a279fd86f700e111203510b40d6ebbbae023125cb": "2026-11-02T12:03:04.909975+09:00",
     "5920aeaa02d4c0bebbf2313cacef0a94801396c41ac01a61c8b28f268042a8e1": "2026-11-02T12:03:04.909975+09:00",
-    "2fe2e89a819ef4b76ff31b3312a0c867b7900ede14fe4b7cdf8aa1dfb7f4c336": "2026-11-02T12:03:04.909975+09:00"
+    "2fe2e89a819ef4b76ff31b3312a0c867b7900ede14fe4b7cdf8aa1dfb7f4c336": "2026-11-02T12:03:04.909975+09:00",
+    "da83631924fe227e3d5d3e5e1fea33fa8e3930da9890e0abbb86dac4c15806d9": "2026-11-02T13:02:30.999731+09:00"
   },
-  "pending": {
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0ViR3hkUnVCcndQbk90XzRralRfZkpPNWVsQzZFUENnTE1qZkhrMGFmUmQzRTFIQjlVZlk5VTJSSWFFWUV6TGctWmpua0V1Y1o1MmZ3eENPdmdBZ0c5eFJRbGJBVzhLZDBERDN0WFVXdXFTYzJxOWlLcFNjaEJZbnNB0gGWAUFVX3lxTFBnLW5uOUM3UjdHTUxqVVJHeFNZUnNEYXY0WTJNS2VOR01OV2hMNHEyVlJQSVBqRExUS2VmamdqLVZZY1BYLVdKejVJNURyUEcwSV9neGRFSHV0SFcySEg2X09hUFotcTVUdWVmakV4Vkt4UDlYS29pNUN3RDR1ZFd6Rk43dDZIMlFhOURmNk4zMGhtcUJiUQ?oc=5": {
-      "title": "POSCO International boosts Q3 profit as revenue rises in South Korea - Chosunbiz",
-      "summary": "POSCO International boosts Q3 profit as revenue rises in South Korea Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0ViR3hkUnVCcndQbk90XzRralRfZkpPNWVsQzZFUENnTE1qZkhrMGFmUmQzRTFIQjlVZlk5VTJSSWFFWUV6TGctWmpua0V1Y1o1MmZ3eENPdmdBZ0c5eFJRbGJBVzhLZDBERDN0WFVXdXFTYzJxOWlLcFNjaEJZbnNB0gGWAUFVX3lxTFBnLW5uOUM3UjdHTUxqVVJHeFNZUnNEYXY0WTJNS2VOR01OV2hMNHEyVlJQSVBqRExUS2VmamdqLVZZY1BYLVdKejVJNURyUEcwSV9neGRFSHV0SFcySEg2X09hUFotcTVUdWVmakV4Vkt4UDlYS29pNUN3RDR1ZFd6Rk43dDZIMlFhOURmNk4zMGhtcUJiUQ?oc=5",
-      "date": "Mon, 02 Nov 2026 02:37:00 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
@@ -3736,6 +3722,80 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=66888": {
+      "title": "포스코 퓨처엠, 3분기 '어닝 서프라이즈'…영업이익 821억으로 시장 깜짝...",
+      "summary": "포스코 퓨처엠이 시장 예상을 크게 뛰어넘는 3분기 실적을 내며 '어닝 서프라이즈'를 기록했다. 코스피 상장사 포스코 퓨처엠은 연결 기준 올해 3분기 영업이익이 821억 원으로 잠정 집계됐다고 2일 공시했다. 이는...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66888",
+      "date": "Mon, 02 Nov 2026 12:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.kukinews.com/article/view/kuk202611020093": {
+      "title": "포스코 퓨처엠, 3Q 매출 감소에도 영업익 전년比 23.2% ↑",
+      "summary": "쿠키뉴스=송민재 기자 | 포스코 퓨처엠이 올해 3분기 매출 감소에도 영업이익은 전년 동기 대비 20% 이상 증가한 것으로 나타났다. 포스코 퓨처엠은 올해 3분기 연결 기준 매출 8347억7100만원, 영업이익...",
+      "url": "https://www.kukinews.com/article/view/kuk202611020093",
+      "date": "Mon, 02 Nov 2026 12:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 퓨처엠, 3Q 매출 감소에도 영업익 전년比 23.2% ↑",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zZ3dYVjNQcVhYeXpaM19obVhHRE5DRmlwd0IzQ0NKbWFOaDZMcGs2UUNfc3JpdGNJc210T0h4MXl2OFBPcnZWckE1QWtPZGduSUtxTFFXWV9qemZodUlfTzBzYnM2YUdT?oc=5": {
+      "title": "포스코퓨처엠, 3분기 영업이익 821억 대폭 증가 - https://www.2news.co.kr/",
+      "summary": "포스코퓨처엠, 3분기 영업이익 821억 대폭 증가 https://www.2news.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zZ3dYVjNQcVhYeXpaM19obVhHRE5DRmlwd0IzQ0NKbWFOaDZMcGs2UUNfc3JpdGNJc210T0h4MXl2OFBPcnZWckE1QWtPZGduSUtxTFFXWV9qemZodUlfTzBzYnM2YUdT?oc=5",
+      "date": "Mon, 02 Nov 2026 03:50:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE55ZnFUcEttWW5LRlZhQXFSblVrZXhXYkU2NmZDMTZXWFk4WkRkcTFqYi0wZ0VwdzdjYjdjNFFfTWgyTW5FVkJ6T2Vjd2xzNlk0WXN5RnBtYnVVNGZlcXdtalBCTGJpWFpQZVVoUnEzMUVIT0tkcXc?oc=5": {
+      "title": "South Korea's POSCO Future M Q3 Operating Profit approximately $61.1 Million as Cathode Materials Rebound and Customer Compensation Kick In - BigGo Finance",
+      "summary": "South Korea's POSCO Future M Q3 Operating Profit approximately $61.1 Million as Cathode Materials Rebound and Customer Compensation Kick In BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55ZnFUcEttWW5LRlZhQXFSblVrZXhXYkU2NmZDMTZXWFk4WkRkcTFqYi0wZ0VwdzdjYjdjNFFfTWgyTW5FVkJ6T2Vjd2xzNlk0WXN5RnBtYnVVNGZlcXdtalBCTGJpWFpQZVVoUnEzMUVIT0tkcXc?oc=5",
+      "date": "Mon, 02 Nov 2026 03:25:00 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "해외기업 동향",
+        "score": 80,
+        "evidence": "South Korea's POSCO Future M Q3 Operating Profit approximately $61.1 Million as Cathode Materials Rebound and Customer Compensation Kick In - BigGo Finance",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {},
@@ -4143,6 +4203,11 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BMlZyNWRiZkc1a0Fia0s5anpVa3BtRGVoMXlmRWY0TlNBWXZpR1c0QkJLMjk5V2FDUzY0dnZUMGxLak9lbjNGV2VuOXhKMGhZeGMzV2VBbVZEZVVwYlhHaXc2cjRUTkxoSDItaA?oc=5",
       "title": "[진단] 58년 만의 파업 넘어선 포스코 노사, 철강산업 위기 앞 ‘원팀’ 될까 - 이코노미톡뉴스",
       "date": "Mon, 02 Nov 2026 02:14:08 GMT"
+    },
+    {
+      "url": "https://www.kukinews.com/article/view/kuk202611020093",
+      "title": "포스코 퓨처엠, 3Q 매출 감소에도 영업익 전년比 23.2% ↑",
+      "date": "Mon, 02 Nov 2026 12:12:00 +0900"
     }
   ],
   "brief_articles": [],
@@ -4151,7 +4216,7 @@
     "2026-10-30": 52,
     "2026-10-31": 16,
     "2026-11-01": 20,
-    "2026-11-02": 13
+    "2026-11-02": 15
   },
   "ai_cooldowns": {}
 }
