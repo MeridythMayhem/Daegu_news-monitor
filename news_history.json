@@ -2022,35 +2022,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450529": {
-      "title": "포스코 이앤씨 목동 재건축 선택지 '장고', 송치영 도시정비 수주 회복세...",
-      "summary": "포스코 이앤씨가 건설업계 '도시정비사업 격전지'인 목동 재건축 진입을 두고 장고를 거듭하고 있다. 주요... 송치영 포스코 이앤씨 대표이사 사장. 1일 포스코 이앤씨에 따르면 목동 재건축 사업 홍보를 위한 거점 성격의...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450529",
-      "date": "Sun, 01 Nov 2026 06:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nNENrRnk3TUhqNlI5SUM2eUFra0gzWUl3Xzd3RzgzTFFQd18zWDNKTHdZS09yUklVWDdHbjZuSFp6T0xQV2xsVndMT2hPd29NRFp5M1ZNc2tYYm8ySWI0NmNualgtWUlsWk1kQWE4cEFxdHc?oc=5": {
-      "title": "포스코이앤씨 목동 재건축 선택지 '장고', 송치영 도시정비 수주 회복세에도 신중 - 비즈니스포스트",
-      "summary": "포스코이앤씨 목동 재건축 선택지 '장고', 송치영 도시정비 수주 회복세에도 신중 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nNENrRnk3TUhqNlI5SUM2eUFra0gzWUl3Xzd3RzgzTFFQd18zWDNKTHdZS09yUklVWDdHbjZuSFp6T0xQV2xsVndMT2hPd29NRFp5M1ZNc2tYYm8ySWI0NmNualgtWUlsWk1kQWE4cEFxdHc?oc=5",
-      "date": "Sat, 31 Oct 2026 21:00:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
     "https://www.sentv.co.kr/article/view/sentv202610300201": {
       "title": "IT서비스 업계, 3분기 실적 '희비'…삼성SDS 웃고 포스코 DX 흐림",
       "summary": "오는 2일 실적 발표를 앞둔 포스코 DX는 영업익이 절반 가까이 줄어들 전망이다. 증권가 컨센서스에 따르면 3분기 매출은 2501억원, 영업익은 117억원으로 추정됐다. 작년 3분기에 비해 매출은 2.2% 증가하지만...",
@@ -7290,28 +7261,514 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
-    }
-  },
-  "brief_sent": {},
-  "brief_titles": {},
-  "brief_pending": {
-    "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001500.html": {
-      "title": "30조 목동 수주전서 '나홀로 빈손' 포스코 이앤씨 브랜드 시험대",
-      "summary": "주요 대형 건설사들이 핵심 단지를 하나둘 선점해 나가는 반면, 포스코 이앤씨는 14개 단지 중 단 한 곳의... 이처럼 주요 대형 시공사들의 윤곽이 드러나는 반면, 단지 선점을 하지 못한 포스코 이앤씨, 롯데건설...",
-      "url": "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001500.html",
-      "date": "Mon, 02 Nov 2026 06:02:00 +0900",
+    },
+    "https://www.etoday.co.kr/news/view/2643249": {
+      "title": "대구시ㆍ달성군, 이수페타시스와 5천억 투자협약 체결",
+      "summary": "이투데이=대구 경북 취재본부 이종팔 기자 | 달성국가산단에 제7공장 신설...‘AI 가속기용 고성능 PCB’ 제조... 이수페타시스는 대구국가산업단지의 5만1천평 부지에 총 5천억원을 투자해 신규 공장 건립 을 추진한다. 민선...",
+      "url": "https://www.etoday.co.kr/news/view/2643249",
+      "date": "Tue, 03 Nov 2026 07:40:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
+      "basis": "관심기업: 이수페타시스",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "대구시ㆍ달성군, 이수페타시스와 5천억 투자협약 체결",
+        "provider": "gemini",
+        "scope_label": "관내: 달성군, 대구",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://biz.heraldcorp.com/article/10923317?ref=naver": {
+      "title": "삼성SDS, 구미 AI 데이터센터 건립 첫 삽",
+      "summary": "경북 도와 구미시는 운영·시설관리 및 건립 과정 등에서 고용 창출과 지역 대학과 연계한 Al·클라우드 전문인력 양성, 지역건설·전자·반도체 업체와의 시너지 등 새 데이터센터 건설에 따른 지역경제 파급효과를...",
+      "url": "https://biz.heraldcorp.com/article/10923317?ref=naver",
+      "date": "Tue, 03 Nov 2026 06:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "삼성SDS, 구미 AI 데이터센터 건립 첫 삽",
+        "provider": "gemini",
+        "scope_label": "관내: 구미",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2013411": {
+      "title": "삼성SDS, 구미 AI데이터센터 기공식…60MW 규모 건립 착수",
+      "summary": "◇ 구미 시, 원스톱 지원단 가동 구미 시는 삼성SDS의 AI 데이터센터 구축 계획 초기부터 전담 PM 공무원을 지정해 투자협약 체결과 사업 추진을 지원했다. 도로와 교통, 경관, 전력, 건축 등 분야별 인·허가 사항을...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2013411",
+      "date": "Tue, 03 Nov 2026 07:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "삼성SDS, 구미 AI데이터센터 기공식…60MW 규모 건립 착수",
+        "provider": "gemini",
+        "scope_label": "관내: 구미",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.kbmaeil.com/article/20261103500017": {
+      "title": "달성 금속 공장 서 기계 폭발…작업자 2명 화상",
+      "summary": "대구 달성군의 한 금속 가공 공장 에서 기계가 폭발해 작업자 2명이 화상을 입었다. 3일 소방당국 등에 따르면... 가공 공장 에서 희토류 분쇄 작업 중 기계가 폭발했다. 이 사고 로 20대 남성 작업자 2명이 손 등에 1∼2도...",
+      "url": "https://www.kbmaeil.com/article/20261103500017",
+      "date": "Tue, 03 Nov 2026 07:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "산재·사업장 사고",
+      "priority": 95,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "산재·사업장 사고",
+        "score": 95,
+        "evidence": "대구 달성군의 한 금속 가공 공장 에서 기계가 폭발해 작업자 2명이 화상을 입었다.",
+        "provider": "gemini",
+        "scope_label": "관내: 달성군, 대구",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.newsis.com/view/NISX20261103_0003851863": {
+      "title": "대구 달성군 금속 가공 공장 서 기계 폭발…2명 화상",
+      "summary": "대구 시 달성군 유가읍 한 금속 가공 공장 에서 기계가 폭발해 작업자 2명이 다쳤다. 3일 소방 당국에 따르면... 폭발 사고 로 불이 났지만 공장 관계자들에 의해 완전 진화됐다. 경찰은 정확한 사고 원인과 피해 규모 등을...",
+      "url": "https://www.newsis.com/view/NISX20261103_0003851863",
+      "date": "Tue, 03 Nov 2026 07:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "http://www.yonhapnewstv.co.kr/news/AKR20261103065553gys": {
+      "title": "대구 달성군 금속 가공 공장 에서 기계 폭발…2명 화상",
+      "summary": "어제(2일) 오후 5시 반쯤 대구 달성군 유가읍 한 금속 가공 공장 에서 기계가 폭발하는 사고 가 났습니다. 이 사고 로 20대 남성 작업자 2명이 손 등에 1∼2도 화상을 입고 인근 병원으로 이송됐습니다. 사고 는 희토류 분쇄...",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR20261103065553gys",
+      "date": "Tue, 03 Nov 2026 06:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=399679": {
+      "title": "이수페타시스 대구 신공장 협약…투자액·기간 미정",
+      "summary": "이수페타시스(007660)는 2일 대구 광역시·달성군과 대구 국가산업단지 내 신규 공장 건립을 위한 투자협약( MOU )을 체결했다고 공시했다. 회사는 투자금액과 기간은 아직 검토 중이라고 밝혔다. 이수페타시스는 이날 제출한...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=399679",
+      "date": "Tue, 03 Nov 2026 06:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "이수페타시스 대구 신공장 협약…투자액·기간 미정",
+        "provider": "gemini",
+        "scope_label": "관심기업: 이수페타시스",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.joongang.co.kr/article/25475188": {
+      "title": "퇴근길 달리다 논두렁 ‘쾅’… 근로자 21명 탄 버스 추락, 무슨일",
+      "summary": "전남광주 영양군 에서 근로자 21명을 태운 회사 통근버스가 도로를 벗어나 논두렁으로 추락하는 사고가 났다. 3일 전남 영암경찰서 등에 따르면 전날 오후 9시 39분쯤 영암군 삼호읍의 한 편도 4차로 도로에서 3차로를...",
+      "url": "https://www.joongang.co.kr/article/25475188",
+      "date": "Tue, 03 Nov 2026 01:41:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "산재·사업장 사고",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "http://www.ferrotimes.com/news/articleView.html?idxno=51249": {
+      "title": "포스코 홀딩스, 3분기 영업이익 9450억…3개 분기 연속 개선",
+      "summary": "포스코 홀딩스가 철강 부문의 수익성 회복과 에너지 사업의 견조한 실적을 바탕으로 3개 분기 연속 실적... 포스코 홀딩스는 2026년 3분기 연결 기준 매출 19조1410억 원, 영업이익 9450억 원, 순이익 3800억 원을 각각...",
+      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51249",
+      "date": "Tue, 03 Nov 2026 07:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 홀딩스, 3분기 영업이익 9450억…3개 분기 연속 개선",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코홀딩스",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.mt.co.kr/stock/2026/11/03/2026110307520619956": {
+      "title": "\"'어닝 서프라이즈' 포스코퓨처엠, 실적 성장 지속\"-키움",
+      "summary": "위해 포항 공장의 한 개 라인(2만톤)을 이미 전환했으며, 내년 5월까지 추가 3개 라인의 전환을 통해 총... 셀사와의 양·음극재 관련 MOU (양해각서)와 지난 3월 글로벌 자동차사와의 공급계약이 이를 방증한다\"고 했다.",
+      "url": "https://www.mt.co.kr/stock/2026/11/03/2026110307520619956",
+      "date": "Tue, 03 Nov 2026 07:53:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "http://www.newsdream.kr/news/articleView.html?idxno=121331": {
+      "title": "[키-리포트] 메리츠 \"POSCO 홀딩스 , 내년 실적 개선 주목\"",
+      "summary": "장 연구원은 \"POSCO 홀딩스 는 지난 CID에서 제시했던 자회사 지분 유동화 대금의 10% 환원 방침을 재확인하며 포스코 인터내셔널· 포스코 DX PRS 대금 약 10%를 연내 자사주 매입·소각에 투입할 계획\"이라고 말했다. 이와...",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=121331",
+      "date": "Tue, 03 Nov 2026 07:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[키-리포트] 메리츠 \"POSCO 홀딩스 , 내년 실적 개선 주목\"",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610291637364080103216": {
+      "title": "[더벨] 포스코 퓨처엠 \"연말 수주 270만톤 기대…내년 반등 시동\"",
+      "summary": "엄기천 포스코 퓨처엠 대표가 내년 하반기부터 배터리 소재 출하량과 공장 가동률이 개선될 것으로... 엄기천 포스코 퓨처엠 대표가 29일 서울 조선팰리스 호텔에서 열린 '제6회 배터리 산업의 날' 행사에 참석해...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610291637364080103216",
+      "date": "Tue, 03 Nov 2026 07:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "[더벨] 포스코 퓨처엠 \"연말 수주 270만톤 기대…내년 반등 시동\"",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.gokorea.kr/news/articleView.html?idxno=883771": {
+      "title": "포스코홀딩스 3분기 실적 상승, 철강 부문의 힘과 전략 변화 주목",
+      "summary": "포스코홀딩스 가 올해 3분기에 철강 부문의 성과에 힘입어 연속적인 실적 상승세를 기록했다. 회사는 올해 3분기 영업이익이 9천400억 원으로, 전년도 같은 기간 대비 47.9% 증가했다고 밝혔다. 이는 시장 예측치를 15% 이상...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=883771",
+      "date": "Tue, 03 Nov 2026 06:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.segye.com/newsView/20261102516144?OutUrl=naver": {
+      "title": "포스코 홀딩스 매출·영업익 기대치 웃돌아",
+      "summary": "3분기 철강 영업익 4000억원대 인프라 선전… 이차전지는 적자 순이익은 전년 동기 대비 1.8% ↓ 포스코 홀딩... 포스코 홀딩스는 2일 올해 3분기 연결 기준 매출액 19조1410억원, 영업이익 9450억원을 기록했다고 잠정...",
+      "url": "https://www.segye.com/newsView/20261102516144?OutUrl=naver",
+      "date": "Tue, 03 Nov 2026 06:03:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 홀딩스 매출·영업익 기대치 웃돌아",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코홀딩스",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.joongang.co.kr/article/25475135": {
+      "title": "철강·에너지사업 호조… 포스코 그룹 ‘실적 잔치’",
+      "summary": "포스코 홀딩스가 철강과 에너지 사업의 수익성 개선에 힘입어 3분기 시장 전망을 웃도는 실적을 냈다. 포스코 홀딩스는 3분기 연결 기준으로 매출 19조1410억원, 영업이익 9450억원을 기록했다고 2일 밝혔다. 지난해...",
+      "url": "https://www.joongang.co.kr/article/25475135",
+      "date": "Tue, 03 Nov 2026 00:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "exclusion_reason": "제목의 관심기업과 AI 인용 기업 불일치",
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96LTZjWHNnbl9oRE8tWGlNQ2FOTnN2OGNWVEduanViQ0NwSjRyakZPb2hlOW1OZGlCSnpmSHZmRnJERmVGVndsa1NjV3dIUlB1YllFd1JYLWN6SkdLMk1qdWFDbw?oc=5": {
+      "title": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 - 시사뉴스",
+      "summary": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 시사뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96LTZjWHNnbl9oRE8tWGlNQ2FOTnN2OGNWVEduanViQ0NwSjRyakZPb2hlOW1OZGlCSnpmSHZmRnJERmVGVndsa1NjV3dIUlB1YllFd1JYLWN6SkdLMk1qdWFDbw?oc=5",
+      "date": "Mon, 02 Nov 2026 16:39:26 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 - 시사뉴스",
+        "provider": "gemini",
+        "scope_label": "관내: 달성군, 대구",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yMjliQ0diNjNON3VPNHJKdThQaFN6QlpEcDJpdUdBakFOTHFZNnB0Y0xENXZrSWNtRUZ6RDg4WnZTRnRVRm9hQTRyRFVQbGpZa211V1ZRYU1fN3hEQ0hlYkdRUG1vRzdQQjhfTjYwbHY5d1A1aHfSAXtBVV95cUxQSEViZjlrQy1wMlZEdGhRQWNmbWdCN3otUjMyTzkyRW9DMEFNRmRqVEZ2VTBhakVYTXhuV3JBVElSS1NHQzdEZGFoM0NaWTEyeVBHOFZrUDJPRDZhcWttUHRxTWlCT3cyR0NKdE9CVU9XTEszLTdXbE03cE0?oc=5": {
+      "title": "\"'어닝 서프라이즈' 포스코퓨처엠, 실적 성장 지속\"-키움 - 머니투데이 - 머니투데이",
+      "summary": "\"'어닝 서프라이즈' 포스코퓨처엠, 실적 성장 지속\"-키움 - 머니투데이 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yMjliQ0diNjNON3VPNHJKdThQaFN6QlpEcDJpdUdBakFOTHFZNnB0Y0xENXZrSWNtRUZ6RDg4WnZTRnRVRm9hQTRyRFVQbGpZa211V1ZRYU1fN3hEQ0hlYkdRUG1vRzdQQjhfTjYwbHY5d1A1aHfSAXtBVV95cUxQSEViZjlrQy1wMlZEdGhRQWNmbWdCN3otUjMyTzkyRW9DMEFNRmRqVEZ2VTBhakVYTXhuV3JBVElSS1NHQzdEZGFoM0NaWTEyeVBHOFZrUDJPRDZhcWttUHRxTWlCT3cyR0NKdE9CVU9XTEszLTdXbE03cE0?oc=5",
+      "date": "Mon, 02 Nov 2026 22:53:30 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "\"'어닝 서프라이즈' 포스코퓨처엠, 실적 성장 지속\"-키움 - 머니투데이 - 머니투데이",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeThpbzhucG5QazFiNk5EZ2lnY25kek5mYkRienRDWmFFd3MySFhMalRtSElVc3BTOXl4S2JKZVpUU3RIa09nNmNvQldwUTFSX244aEViUTc0djdSOVZ3ZXd1RU95blQ2QnlDRzRGdTI1TndJZ0xrcmVKNHA2MEJhTUVxY3hFNDJxWVBTbnRRRWVDOFhJYmNNZFJkTVB2dmFuUmkwd0dEeFM?oc=5": {
+      "title": "POSCO ADR earnings missed by $0.60, revenue topped estimates - Investing.com",
+      "summary": "POSCO ADR earnings missed by $0.60, revenue topped estimates Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeThpbzhucG5QazFiNk5EZ2lnY25kek5mYkRienRDWmFFd3MySFhMalRtSElVc3BTOXl4S2JKZVpUU3RIa09nNmNvQldwUTFSX244aEViUTc0djdSOVZ3ZXd1RU95blQ2QnlDRzRGdTI1TndJZ0xrcmVKNHA2MEJhTUVxY3hFNDJxWVBTbnRRRWVDOFhJYmNNZFJkTVB2dmFuUmkwd0dEeFM?oc=5",
+      "date": "Mon, 02 Nov 2026 19:06:01 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "해외기업 동향",
+        "score": 80,
+        "evidence": "POSCO ADR earnings missed by $0.60, revenue topped estimates - Investing.com",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2ZTcEtGcnNRQ2JQYUVnZGpob1FqWnI0RHFFOV9pOHhvM3FnZGVRaVIzNHhjeFk2V0JmZmItVlNKdFdZemlrMnFHelI2dGFwal9Pa3h2VkxETDl2eWY5TTFrUmd6akNrSGExOTItZDVQV1htZFBYM29UUEdHZk5pajhuYVRWbm93?oc=5": {
+      "title": "POSCO International Chases POSCO in Operating Profit - 조선일보",
+      "summary": "POSCO International Chases POSCO in Operating Profit 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2ZTcEtGcnNRQ2JQYUVnZGpob1FqWnI0RHFFOV9pOHhvM3FnZGVRaVIzNHhjeFk2V0JmZmItVlNKdFdZemlrMnFHelI2dGFwal9Pa3h2VkxETDl2eWY5TTFrUmd6akNrSGExOTItZDVQV1htZFBYM29UUEdHZk5pajhuYVRWbm93?oc=5",
+      "date": "Mon, 02 Nov 2026 15:38:16 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "해외기업 동향",
+        "score": 80,
+        "evidence": "POSCO International Chases POSCO in Operating Profit - 조선일보",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2MwWDNBSnZYcTdoVXZPeWRCNEJZaVlhU082c2pMaU1mNEstaWRQQnliZmRNRFlOOVlzclhHSy1DRS1DZGZ2bFZGaXIxd3p2RGZtaWlfRjlrYmlnUFVia0ZHTWwxSWZLT2xpakFfa3k0ZEwtdFA3WWxjTEdmQjg4aFZqNU1obEc4WjdiUkQydXFrejRXYzd1eVV5V3k4c0VXRmFMSEhhckpRbmhXOU1rZVJBaw?oc=5": {
+      "title": "Net profit fell 50.1% from Q2 at POSCO Holdings (PKX), even as operating profit rose. - Stock Titan",
+      "summary": "Net profit fell 50.1% from Q2 at POSCO Holdings (PKX), even as operating profit rose. Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2MwWDNBSnZYcTdoVXZPeWRCNEJZaVlhU082c2pMaU1mNEstaWRQQnliZmRNRFlOOVlzclhHSy1DRS1DZGZ2bFZGaXIxd3p2RGZtaWlfRjlrYmlnUFVia0ZHTWwxSWZLT2xpakFfa3k0ZEwtdFA3WWxjTEdmQjg4aFZqNU1obEc4WjdiUkQydXFrejRXYzd1eVV5V3k4c0VXRmFMSEhhckpRbmhXOU1rZVJBaw?oc=5",
+      "date": "Mon, 02 Nov 2026 14:17:42 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjEwdzRJbE9zU0lLWFJUSTBuRE5PZ3N3MEJnbTd5LWhLZEROYV8yWkJZMzZCRkdJQlItUWRSZ3pKOFdhWko1T3VCbmJsay1ZNHhlWURodU82amZvaWFTYzhuQlVDTUtDU0Zkd2QtY0lxOEFUdlZmeVZSYlhEWFJ6dWVCVkdMWHF0enE4N3FrOEFDaVB0UF9sSU5OaHRSVFJTcXFnOUVhUDdmb0lpc0JmbHFYOEpkUEE?oc=5": {
+      "title": "POSCO Holdings Reports 48% Rise in Third-Quarter Operating Profit - TipRanks",
+      "summary": "POSCO Holdings Reports 48% Rise in Third-Quarter Operating Profit TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjEwdzRJbE9zU0lLWFJUSTBuRE5PZ3N3MEJnbTd5LWhLZEROYV8yWkJZMzZCRkdJQlItUWRSZ3pKOFdhWko1T3VCbmJsay1ZNHhlWURodU82amZvaWFTYzhuQlVDTUtDU0Zkd2QtY0lxOEFUdlZmeVZSYlhEWFJ6dWVCVkdMWHF0enE4N3FrOEFDaVB0UF9sSU5OaHRSVFJTcXFnOUVhUDdmb0lpc0JmbHFYOEpkUEE?oc=5",
+      "date": "Mon, 02 Nov 2026 14:56:01 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
     }
   },
-  "brief_date": "2026-11-02",
+  "brief_sent": {
+    "https://www.kbmaeil.com/article/20261103500017": "2026-11-03T08:03:35.653470+09:00",
+    "https://www.newsis.com/view/NISX20261103_0003851863": "2026-11-03T08:03:35.653470+09:00",
+    "http://www.ferrotimes.com/news/articleView.html?idxno=51249": "2026-11-03T08:03:35.653470+09:00",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yMjliQ0diNjNON3VPNHJKdThQaFN6QlpEcDJpdUdBakFOTHFZNnB0Y0xENXZrSWNtRUZ6RDg4WnZTRnRVRm9hQTRyRFVQbGpZa211V1ZRYU1fN3hEQ0hlYkdRUG1vRzdQQjhfTjYwbHY5d1A1aHfSAXtBVV95cUxQSEViZjlrQy1wMlZEdGhRQWNmbWdCN3otUjMyTzkyRW9DMEFNRmRqVEZ2VTBhakVYTXhuV3JBVElSS1NHQzdEZGFoM0NaWTEyeVBHOFZrUDJPRDZhcWttUHRxTWlCT3cyR0NKdE9CVU9XTEszLTdXbE03cE0?oc=5": "2026-11-03T08:03:35.653470+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2013411": "2026-11-03T08:03:35.653470+09:00",
+    "http://www.newsdream.kr/news/articleView.html?idxno=121331": "2026-11-03T08:03:35.653470+09:00",
+    "https://www.etoday.co.kr/news/view/2643249": "2026-11-03T08:03:35.653470+09:00",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610291637364080103216": "2026-11-03T08:03:35.653470+09:00",
+    "https://www.segye.com/newsView/20261102516144?OutUrl=naver": "2026-11-03T08:03:35.653470+09:00",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeThpbzhucG5QazFiNk5EZ2lnY25kek5mYkRienRDWmFFd3MySFhMalRtSElVc3BTOXl4S2JKZVpUU3RIa09nNmNvQldwUTFSX244aEViUTc0djdSOVZ3ZXd1RU95blQ2QnlDRzRGdTI1TndJZ0xrcmVKNHA2MEJhTUVxY3hFNDJxWVBTbnRRRWVDOFhJYmNNZFJkTVB2dmFuUmkwd0dEeFM?oc=5": "2026-11-03T08:03:35.653470+09:00",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2ZTcEtGcnNRQ2JQYUVnZGpob1FqWnI0RHFFOV9pOHhvM3FnZGVRaVIzNHhjeFk2V0JmZmItVlNKdFdZemlrMnFHelI2dGFwal9Pa3h2VkxETDl2eWY5TTFrUmd6akNrSGExOTItZDVQV1htZFBYM29UUEdHZk5pajhuYVRWbm93?oc=5": "2026-11-03T08:03:35.653470+09:00"
+  },
+  "brief_titles": {
+    "113f39a85f6d9d0ecef210d0718d0b5527fa6a431990a4c0a5254dc57110271f": "2026-11-03T08:03:35.653470+09:00",
+    "a9d7ff2a8bfa7d4bd04bc047a72cdd284f0f98ceac848a991dc8a77e2f4ed8a8": "2026-11-03T08:03:35.653470+09:00",
+    "316cda1ba9c8848d4c92f701a16f7658aa42466e53dfd8f768c3221e0434afab": "2026-11-03T08:03:35.653470+09:00",
+    "0e0389b0923cb3286c69a68bb3ee7898de13a3287de7460d5fcf73f9437e3e0c": "2026-11-03T08:03:35.653470+09:00",
+    "c4428c8eded57cbbc07a4388e8b2ae0339286caf5882f63a698dc1a2633d31b8": "2026-11-03T08:03:35.653470+09:00",
+    "6dc06ca7206f1f9b396cebd58da04ad3c3c54105632d3ae4fbe558e0f4c90e5b": "2026-11-03T08:03:35.653470+09:00",
+    "01f5ca3c173e0f9540d26a88c5930fd5556b00f08f7e5c5fd455c9f6266a5aec": "2026-11-03T08:03:35.653470+09:00",
+    "60601b61370ae7d582f5cc0a5d1ee5156a67d87f20e11953f77f1ae53a10a253": "2026-11-03T08:03:35.653470+09:00",
+    "d74188a6c0434eddb8885f4d05b35b0ecf58d8bf8569d9f10764e55281612f77": "2026-11-03T08:03:35.653470+09:00",
+    "95f3309a82ef7ae8caf352942966b37c797504f2bdd264551bf59886c3847e7c": "2026-11-03T08:03:35.653470+09:00",
+    "3d7fb5a3424c1174f1059a01ab7cec7f0fde929207088b08db0eb70655fd3f68": "2026-11-03T08:03:35.653470+09:00"
+  },
+  "brief_pending": {
+    "https://www.joongang.co.kr/article/25475188": {
+      "title": "퇴근길 달리다 논두렁 ‘쾅’… 근로자 21명 탄 버스 추락, 무슨일",
+      "summary": "전남광주 영양군 에서 근로자 21명을 태운 회사 통근버스가 도로를 벗어나 논두렁으로 추락하는 사고가 났다. 3일 전남 영암경찰서 등에 따르면 전날 오후 9시 39분쯤 영암군 삼호읍의 한 편도 4차로 도로에서 3차로를...",
+      "url": "https://www.joongang.co.kr/article/25475188",
+      "date": "Tue, 03 Nov 2026 01:41:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "산재·사업장 사고",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.joongang.co.kr/article/25475135": {
+      "title": "철강·에너지사업 호조… 포스코 그룹 ‘실적 잔치’",
+      "summary": "포스코 홀딩스가 철강과 에너지 사업의 수익성 개선에 힘입어 3분기 시장 전망을 웃도는 실적을 냈다. 포스코 홀딩스는 3분기 연결 기준으로 매출 19조1410억원, 영업이익 9450억원을 기록했다고 2일 밝혔다. 지난해...",
+      "url": "https://www.joongang.co.kr/article/25475135",
+      "date": "Tue, 03 Nov 2026 00:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "exclusion_reason": "제목의 관심기업과 AI 인용 기업 불일치",
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2MwWDNBSnZYcTdoVXZPeWRCNEJZaVlhU082c2pMaU1mNEstaWRQQnliZmRNRFlOOVlzclhHSy1DRS1DZGZ2bFZGaXIxd3p2RGZtaWlfRjlrYmlnUFVia0ZHTWwxSWZLT2xpakFfa3k0ZEwtdFA3WWxjTEdmQjg4aFZqNU1obEc4WjdiUkQydXFrejRXYzd1eVV5V3k4c0VXRmFMSEhhckpRbmhXOU1rZVJBaw?oc=5": {
+      "title": "Net profit fell 50.1% from Q2 at POSCO Holdings (PKX), even as operating profit rose. - Stock Titan",
+      "summary": "Net profit fell 50.1% from Q2 at POSCO Holdings (PKX), even as operating profit rose. Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2MwWDNBSnZYcTdoVXZPeWRCNEJZaVlhU082c2pMaU1mNEstaWRQQnliZmRNRFlOOVlzclhHSy1DRS1DZGZ2bFZGaXIxd3p2RGZtaWlfRjlrYmlnUFVia0ZHTWwxSWZLT2xpakFfa3k0ZEwtdFA3WWxjTEdmQjg4aFZqNU1obEc4WjdiUkQydXFrejRXYzd1eVV5V3k4c0VXRmFMSEhhckpRbmhXOU1rZVJBaw?oc=5",
+      "date": "Mon, 02 Nov 2026 14:17:42 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjEwdzRJbE9zU0lLWFJUSTBuRE5PZ3N3MEJnbTd5LWhLZEROYV8yWkJZMzZCRkdJQlItUWRSZ3pKOFdhWko1T3VCbmJsay1ZNHhlWURodU82amZvaWFTYzhuQlVDTUtDU0Zkd2QtY0lxOEFUdlZmeVZSYlhEWFJ6dWVCVkdMWHF0enE4N3FrOEFDaVB0UF9sSU5OaHRSVFJTcXFnOUVhUDdmb0lpc0JmbHFYOEpkUEE?oc=5": {
+      "title": "POSCO Holdings Reports 48% Rise in Third-Quarter Operating Profit - TipRanks",
+      "summary": "POSCO Holdings Reports 48% Rise in Third-Quarter Operating Profit TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjEwdzRJbE9zU0lLWFJUSTBuRE5PZ3N3MEJnbTd5LWhLZEROYV8yWkJZMzZCRkdJQlItUWRSZ3pKOFdhWko1T3VCbmJsay1ZNHhlWURodU82amZvaWFTYzhuQlVDTUtDU0Zkd2QtY0lxOEFUdlZmeVZSYlhEWFJ6dWVCVkdMWHF0enE4N3FrOEFDaVB0UF9sSU5OaHRSVFJTcXFnOUVhUDdmb0lpc0JmbHFYOEpkUEE?oc=5",
+      "date": "Mon, 02 Nov 2026 14:56:01 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    }
+  },
+  "brief_date": "2026-11-03",
   "sent_articles": [
     {
       "url": "http://www.datanews.co.kr/news/article.html?no=147230",
@@ -7869,13 +8326,70 @@
       "date": "Mon, 02 Nov 2026 20:40:00 +0900"
     }
   ],
-  "brief_articles": [],
+  "brief_articles": [
+    {
+      "url": "https://www.kbmaeil.com/article/20261103500017",
+      "title": "달성 금속 공장 서 기계 폭발…작업자 2명 화상",
+      "date": "Tue, 03 Nov 2026 07:38:00 +0900"
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261103_0003851863",
+      "title": "대구 달성군 금속 가공 공장 서 기계 폭발…2명 화상",
+      "date": "Tue, 03 Nov 2026 07:15:00 +0900"
+    },
+    {
+      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51249",
+      "title": "포스코 홀딩스, 3분기 영업이익 9450억…3개 분기 연속 개선",
+      "date": "Tue, 03 Nov 2026 07:54:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yMjliQ0diNjNON3VPNHJKdThQaFN6QlpEcDJpdUdBakFOTHFZNnB0Y0xENXZrSWNtRUZ6RDg4WnZTRnRVRm9hQTRyRFVQbGpZa211V1ZRYU1fN3hEQ0hlYkdRUG1vRzdQQjhfTjYwbHY5d1A1aHfSAXtBVV95cUxQSEViZjlrQy1wMlZEdGhRQWNmbWdCN3otUjMyTzkyRW9DMEFNRmRqVEZ2VTBhakVYTXhuV3JBVElSS1NHQzdEZGFoM0NaWTEyeVBHOFZrUDJPRDZhcWttUHRxTWlCT3cyR0NKdE9CVU9XTEszLTdXbE03cE0?oc=5",
+      "title": "\"'어닝 서프라이즈' 포스코퓨처엠, 실적 성장 지속\"-키움 - 머니투데이 - 머니투데이",
+      "date": "Mon, 02 Nov 2026 22:53:30 GMT"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2013411",
+      "title": "삼성SDS, 구미 AI데이터센터 기공식…60MW 규모 건립 착수",
+      "date": "Tue, 03 Nov 2026 07:48:00 +0900"
+    },
+    {
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=121331",
+      "title": "[키-리포트] 메리츠 \"POSCO 홀딩스 , 내년 실적 개선 주목\"",
+      "date": "Tue, 03 Nov 2026 07:44:00 +0900"
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2643249",
+      "title": "대구시ㆍ달성군, 이수페타시스와 5천억 투자협약 체결",
+      "date": "Tue, 03 Nov 2026 07:40:00 +0900"
+    },
+    {
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610291637364080103216",
+      "title": "[더벨] 포스코 퓨처엠 \"연말 수주 270만톤 기대…내년 반등 시동\"",
+      "date": "Tue, 03 Nov 2026 07:02:00 +0900"
+    },
+    {
+      "url": "https://www.segye.com/newsView/20261102516144?OutUrl=naver",
+      "title": "포스코 홀딩스 매출·영업익 기대치 웃돌아",
+      "date": "Tue, 03 Nov 2026 06:03:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeThpbzhucG5QazFiNk5EZ2lnY25kek5mYkRienRDWmFFd3MySFhMalRtSElVc3BTOXl4S2JKZVpUU3RIa09nNmNvQldwUTFSX244aEViUTc0djdSOVZ3ZXd1RU95blQ2QnlDRzRGdTI1TndJZ0xrcmVKNHA2MEJhTUVxY3hFNDJxWVBTbnRRRWVDOFhJYmNNZFJkTVB2dmFuUmkwd0dEeFM?oc=5",
+      "title": "POSCO ADR earnings missed by $0.60, revenue topped estimates - Investing.com",
+      "date": "Mon, 02 Nov 2026 19:06:01 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2ZTcEtGcnNRQ2JQYUVnZGpob1FqWnI0RHFFOV9pOHhvM3FnZGVRaVIzNHhjeFk2V0JmZmItVlNKdFdZemlrMnFHelI2dGFwal9Pa3h2VkxETDl2eWY5TTFrUmd6akNrSGExOTItZDVQV1htZFBYM29UUEdHZk5pajhuYVRWbm93?oc=5",
+      "title": "POSCO International Chases POSCO in Operating Profit - 조선일보",
+      "date": "Mon, 02 Nov 2026 15:38:16 GMT"
+    }
+  ],
   "gemini_ai": {
     "2026-10-29": 25,
     "2026-10-30": 52,
     "2026-10-31": 16,
     "2026-11-01": 20,
-    "2026-11-02": 49
+    "2026-11-02": 49,
+    "2026-11-03": 5
   },
   "ai_cooldowns": {}
 }
