@@ -1195,7 +1195,10 @@
     "https://www.hidomin.com/news/articleView.html?idxno=727401": "2026-11-01T16:02:16.094984+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089183": "2026-11-01T18:02:15.081818+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=627862": "2026-11-01T21:02:16.179304+09:00",
-    "https://www.news1.kr/photos/8190951": "2026-11-02T09:02:42.907352+09:00"
+    "https://www.news1.kr/photos/8190951": "2026-11-02T09:02:42.907352+09:00",
+    "https://news.tf.co.kr/read/national/2383508.htm": "2026-11-02T10:03:02.674354+09:00",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078490": "2026-11-02T10:03:02.674354+09:00",
+    "https://www.ddaily.co.kr/page/view/2026110209261304223": "2026-11-02T10:03:02.674354+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1893,41 +1896,26 @@
     "7587717e9dd6da2fa9ed918c24d79262cdae8b761d0fa4a196269eb536ddf61f": "2026-11-01T16:02:16.094984+09:00",
     "d9b7f06ca06f05dbde9b1dca7effed02e8ed729c61d0263015ed4a03a787c1f6": "2026-11-01T18:02:15.081818+09:00",
     "2cbc00e3c1e63521466849a835e469ba3fc1e27e1a4db4be0f812bbcb4338677": "2026-11-01T21:02:16.179304+09:00",
-    "8bd78970b2a93357bf3eecb89c71ca72ec68955f67b7476b9c404ec3afba7251": "2026-11-02T09:02:42.907352+09:00"
+    "8bd78970b2a93357bf3eecb89c71ca72ec68955f67b7476b9c404ec3afba7251": "2026-11-02T09:02:42.907352+09:00",
+    "cfd314725a056027c31a7917f751444b69bbceafefcdcfda40e695ae64d04ddd": "2026-11-02T10:03:02.674354+09:00",
+    "4fbe6879738ef16440ebfc408e83436cea5943543b73373c5499bc45ba104129": "2026-11-02T10:03:02.674354+09:00",
+    "be8f21a89fa5f9e80b4564b05d51828b7bb4a1c649d6923869cf127a01567c79": "2026-11-02T10:03:02.674354+09:00"
   },
   "pending": {
-    "https://www.sejungilbo.com/news/articleView.html?idxno=60891": {
-      "title": "이종탁 서울 세무 사회장, 세무조사 실무서 출간…\"두려움에서 확신으로...",
-      "summary": "이종탁 서울지방 세무 사회장이 세무조사 사전통지부터 현장 대응, 조사 종결과 사후관리까지 전 과정을 담은... 이 회장은 1963년 경북 안동 출생으로 국립 세무 대학을 졸업하고 경희대학교에서 세무 관리 석사학위와 회계...",
-      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60891",
-      "date": "Mon, 02 Nov 2026 08:38:00 +0900",
+    "http://www.yonhapnewstv.co.kr/news/AKR202611020930107wZ": {
+      "title": "포스코 인터내셔널 3분기 영업이익 4,007억원…전년대비 24%↑",
+      "summary": "포스코 인터내셔널은 올해 3분기 영업이익이 4,007억원으로 지난해 같은 기간보다 24% 증가한 것으로 잠정... 영업이익은 연합인포맥스가 집계한 시장 전망치 4,001억원에 부합했습니다. # 포스코 인터내셔널 #3분기 #실적",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR202611020930107wZ",
+      "date": "Mon, 02 Nov 2026 09:31:00 +0900",
       "channels": [
-        "domestic",
-        "local_media"
+        "domestic"
       ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
-    },
-    "https://www.todayenergy.kr/news/articleView.html?idxno=304957": {
-      "title": "가스공사 홍의락 사장, 취임 첫 '현장 이사회'",
-      "summary": "한국가스공사 (사장 홍의락)는 지난 30일 인천생산기지에서 홍의락 사장을 비롯한 이사진 전원이 참석한 가운데 '현장 이사회'를 개최하고, LNG 하역설비 안전점검과 현장 직원 간담회를 진행했다고 밝혔다.· 이번 현장...",
-      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304957",
-      "date": "Mon, 02 Nov 2026 08:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_wait_reason": "핵심 사건 분류 불일치",
-      "ai_failure_kind": "validation",
-      "review": "미검토"
     }
   },
   "ai": {
@@ -1936,29 +1924,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.getnews.co.kr/news/articleView.html?idxno=885497": {
-      "title": "포스코 노사, 기본급 2.6% 인상 등 임금교섭 잠정 합의...내주 노조 '찬...",
-      "summary": "포스코 노사가 기본임금 2.6% 인상 등을 주요 내용으로 하는 올해 임금협상 잠정 합의안을 도출했다. 이는 다음주 노동조합 찬반투표에서 타결 여부가 결정된다. 포스코 는 노사가 30일 포항 포스코 본사에서 본교섭을...",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885497",
-      "date": "Sat, 31 Oct 2026 09:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 는 노사가 30일 포항 포스코 본사에서 본교섭을...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 3
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257": {
       "title": "경북도, 반도체·드론 투자 유치 나서…서울 상담 이어 김천· 구미 현장...",
       "summary": "경북도는 지난 29~30일 서울과 김천· 구미 에서 국내외 기업, 투자 기관, 산업전문가 등 300여 명이 참여한 ‘2026 미래전략 산업혁신 투자 포럼’을 개최했다고 밝혔다. 이번 행사는 지난해 APEC 정상회의 성과를 투자 유치로...",
@@ -2975,6 +2940,164 @@
       "ai_wait_reason": "핵심 사건 분류 불일치",
       "ai_failure_kind": "validation",
       "review": "미검토"
+    },
+    "https://news.tf.co.kr/read/national/2383508.htm": {
+      "title": "경북 곳곳 화재·교통 사고 잇따라…주택· 공장 전소, 보행자 중상",
+      "summary": "경북 지역에서 주택과 공장 화재, 교통 사고 가 잇따라 발생했다. 화재로 인한 인명피해는 없었지만 주택과... 앞서 1일 오후 6시 43분에는 경주 시 외동읍 북토리의 자동차 부품 제조 공장 에서 불이 났다. 소방당국은 인력...",
+      "url": "https://news.tf.co.kr/read/national/2383508.htm",
+      "date": "Mon, 02 Nov 2026 09:45:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078490": {
+      "title": "구미시, AI 제조혁신 중심 기업지원 체계 전환 추진",
+      "summary": "경북 구미시가 인공지능(AI) 기반 제조혁신과 기업 간 공급망 협력을 중심으로 중장기 기업지원 정책을... 시는 지난달 30일 시청에서 창업 경제 국장과 기업지원기관 관계자, 전문가 등 15명이 참석한 가운데 최종보고회를...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078490",
+      "date": "Mon, 02 Nov 2026 09:56:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 80,
+        "evidence": "구미시, AI 제조혁신 중심 기업지원 체계 전환 추진",
+        "provider": "gemini",
+        "scope_label": "관내: 구미",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.ddaily.co.kr/page/view/2026110209261304223": {
+      "title": "엘앤에프 플러스, 현대제철과 산화철 MOU… 차세대 '무전구체' LFP 속도",
+      "summary": "철강 부산물 산화철 활용해 인산철 전구체 단계 생략… 원가 경쟁력 제고 2028년 1분기 양산 목표로 개발 착수… LFP 공장 내 생산 공간 확보 추진 엘앤에프 의 LFP(리튬인산철) 사업 자회사 엘앤에프 플러스가 현대제철과...",
+      "url": "https://www.ddaily.co.kr/page/view/2026110209261304223",
+      "date": "Mon, 02 Nov 2026 09:35:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "엘앤에프 플러스, 현대제철과 산화철 MOU… 차세대 '무전구체' LFP 속도",
+        "provider": "gemini",
+        "scope_label": "관심기업: 엘앤에프",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.mt.co.kr/industry/2026/11/02/2026110209100075848": {
+      "title": "엘앤에프 플러스, 현대제철과 LFP 양극재용 산화철 공급 협력 MOU",
+      "summary": "엘앤에프 의 자회사 엘앤에프 플러스는 현대제철과 LFP(리튬인산철) 양극재 제조에 필요한 '산화철 공급 협력 업무협약(MOU)'을 체결했다고 2일 밝혔다. 엘앤에프 플러스는 이번 협약을 통해 차세대 무전구체 공법 개발에...",
+      "url": "https://www.mt.co.kr/industry/2026/11/02/2026110209100075848",
+      "date": "Mon, 02 Nov 2026 09:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "엘앤에프 플러스, 현대제철과 LFP 양극재용 산화철 공급 협력 MOU",
+        "provider": "gemini",
+        "scope_label": "관심기업: 엘앤에프",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/01/2026110100015.html": {
+      "title": "포스코 노사, 3차 파업 직전 극적 합의···파국 면했다",
+      "summary": "기자 = 포스코 노사가 3차 파업을 앞두고 2026년 임금협상에 잠정 합의해 파국을 피했다. 두 차례 부분파업과 140일간의 교섭 끝에 노사가 한발씩 양보했지만, 최종 타결까지는 조합원 찬반투표가 남았다. 포스코 노사는...",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/01/2026110100015.html",
+      "date": "Mon, 02 Nov 2026 09:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사, 3차 파업 직전 극적 합의···파국 면했다",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "http://www.yonhapnewstv.co.kr/news/AKR202611020930107wZ": {
+      "title": "포스코 인터내셔널 3분기 영업이익 4,007억원…전년대비 24%↑",
+      "summary": "포스코 인터내셔널은 올해 3분기 영업이익이 4,007억원으로 지난해 같은 기간보다 24% 증가한 것으로 잠정... 영업이익은 연합인포맥스가 집계한 시장 전망치 4,001억원에 부합했습니다. # 포스코 인터내셔널 #3분기 #실적",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR202611020930107wZ",
+      "date": "Mon, 02 Nov 2026 09:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.cbci.co.kr/news/articleView.html?idxno=622029": {
+      "title": "[속보] 포스코 인터내셔널, 3분기 영업이익 4007억원…전년 동기 대비 24...",
+      "summary": "포스코 인터내셔널 CI [단박에 - CBC뉴스 | CBCNEWS] 포스코 인터내셔널이 올해 3분기 연결기준 영업이익 4007억원을 기록한 것으로 잠정 집계됐다. 이는 전년 동기 대비 24.0% 증가한 수치다. 포스코 인터내셔널이...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=622029",
+      "date": "Mon, 02 Nov 2026 09:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6339341": {
+      "title": "'파업 연기' 포스코 노조, 7일 찬반투표로 임금협상 마무리",
+      "summary": "포스코 노조가 오는 7일 사측과 잠정 합의한 올해 임금협상안에 대한 찬반 투표를 실시한다. 찬반 투표에 앞서 포스코 노조는 2일부터 조합원을 상대로 잠정 합의한 임금협상안에 대한 현장 설명회를 가질 예정이다....",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6339341",
+      "date": "Mon, 02 Nov 2026 09:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "'파업 연기' 포스코 노조, 7일 찬반투표로 임금협상 마무리",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {},
@@ -3292,6 +3415,21 @@
       "url": "https://www.news1.kr/photos/8190951",
       "title": "무기한 파업 모면한 포스코",
       "date": "Mon, 02 Nov 2026 08:29:00 +0900"
+    },
+    {
+      "url": "https://news.tf.co.kr/read/national/2383508.htm",
+      "title": "경북 곳곳 화재·교통 사고 잇따라…주택· 공장 전소, 보행자 중상",
+      "date": "Mon, 02 Nov 2026 09:45:00 +0900"
+    },
+    {
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078490",
+      "title": "구미시, AI 제조혁신 중심 기업지원 체계 전환 추진",
+      "date": "Mon, 02 Nov 2026 09:56:00 +0900"
+    },
+    {
+      "url": "https://www.ddaily.co.kr/page/view/2026110209261304223",
+      "title": "엘앤에프 플러스, 현대제철과 산화철 MOU… 차세대 '무전구체' LFP 속도",
+      "date": "Mon, 02 Nov 2026 09:35:00 +0900"
     }
   ],
   "brief_articles": [],
@@ -3300,7 +3438,7 @@
     "2026-10-30": 52,
     "2026-10-31": 16,
     "2026-11-01": 20,
-    "2026-11-02": 3
+    "2026-11-02": 6
   },
   "ai_cooldowns": {}
 }
