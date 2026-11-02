@@ -1999,43 +1999,29 @@
     "e631de1a1c3ddab28157989490a1933941f6639c52e4d868204d7593102185b1": "2026-11-02T21:02:41.172892+09:00",
     "4ed9dcc88b9bca566232a6e6ad540b2203a8593ef8c9fb1c91c2078802e5a097": "2026-11-02T21:02:41.172892+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3JKd291MTIyeEF6eGE2Mk83Q1gwdzJUd2xYNF9oM09zSUZfOHFiV0ZnR2FpSExjaFo0WHo4Z29VbWVjdEpXVHRobEM0NVdOS1RwM2d6OWtEeWp1MEk0TjJjcFNzcTFsc3h4am5RTDI2ZmV1dXhwVGJobHhWVjVtNllSQzdrQi1lQks2VVpvU19UZWI5THh6OHQzM3FjdXFkVEdBQ3BVSEp1LVlheWJjd0NJdm9ONjNVdjFxNA?oc=5": {
+      "title": "POSCO Reports Higher Third-Quarter Revenue but Sharp Profit Declines - TipRanks",
+      "summary": "POSCO Reports Higher Third-Quarter Revenue but Sharp Profit Declines TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3JKd291MTIyeEF6eGE2Mk83Q1gwdzJUd2xYNF9oM09zSUZfOHFiV0ZnR2FpSExjaFo0WHo4Z29VbWVjdEpXVHRobEM0NVdOS1RwM2d6OWtEeWp1MEk0TjJjcFNzcTFsc3h4am5RTDI2ZmV1dXhwVGJobHhWVjVtNllSQzdrQi1lQks2VVpvU19UZWI5THh6OHQzM3FjdXFkVEdBQ3BVSEp1LVlheWJjd0NJdm9ONjNVdjFxNA?oc=5",
+      "date": "Mon, 02 Nov 2026 13:53:15 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    }
+  },
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
   },
   "cursor": 0,
   "archive": {
-    "https://tk.newdaily.co.kr/site/data/html/2026/10/31/2026103100061.html": {
-      "title": "경북, 미래산업 투자유치 ‘3부작’ 마침표…출향 기업인과 고향 투자 ...",
-      "summary": "이날 행사에서는 경북도· 구미 시·코리아모션웍스㈜(KMW) 간 3455억6000만 원 규모의 투자양해각서( MOU )도 체결됐다. KMW는 LS전선의 100% 자회사로, 구미 인동공장에 희토류 영구자석 생산시설을 구축하고 212명을 신규 고용할...",
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/31/2026103100061.html",
-      "date": "Sat, 31 Oct 2026 22:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SdXJCM3loNEc0S3pfaDE0MHotSXhnZ1BNX0x1Z2ZPQjFiLUpTNGdCWnM5M3FuUmNmbmJpamRUUVBzTGRLUXNKcDhtUVF3ZC0wUGNxLUUxelVqTHZMenBkSThfd2VVSWpvdmhHckZkQ0Zoa2hPWFA5ZjB30gF_QVVfeXFMTkpOYzI4UjloYVFFNVIwX2VzLVo2b2NGVDgwZTctRE4wOXJ5UW1HdHZfZTdDc082NGpJQ1kxYktvcGdrbzlvOEs1bHhQOTRJRjZPaTBPX1JjeGwySW03S1VMOGZuemtudjN0SGViWGo5aVVxWmVkS0tHSFZ5d3gxZw?oc=5": {
-      "title": "경북, 미래산업 투자유치 ‘3부작’ 마침표…출향 기업인과 고향 투자 물꼬 튼다 - 뉴데일리 대구경북",
-      "summary": "경북, 미래산업 투자유치 ‘3부작’ 마침표…출향 기업인과 고향 투자 물꼬 튼다 뉴데일리 대구경북",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SdXJCM3loNEc0S3pfaDE0MHotSXhnZ1BNX0x1Z2ZPQjFiLUpTNGdCWnM5M3FuUmNmbmJpamRUUVBzTGRLUXNKcDhtUVF3ZC0wUGNxLUUxelVqTHZMenBkSThfd2VVSWpvdmhHckZkQ0Zoa2hPWFA5ZjB30gF_QVVfeXFMTkpOYzI4UjloYVFFNVIwX2VzLVo2b2NGVDgwZTctRE4wOXJ5UW1HdHZfZTdDc082NGpJQ1kxYktvcGdrbzlvOEs1bHhQOTRJRjZPaTBPX1JjeGwySW03S1VMOGZuemtudjN0SGViWGo5aVVxWmVkS0tHSFZ5d3gxZw?oc=5",
-      "date": "Sat, 31 Oct 2026 13:18:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
     "https://www.businesspost.co.kr/BP?command=article_view&num=450529": {
       "title": "포스코 이앤씨 목동 재건축 선택지 '장고', 송치영 도시정비 수주 회복세...",
       "summary": "포스코 이앤씨가 건설업계 '도시정비사업 격전지'인 목동 재건축 진입을 두고 장고를 거듭하고 있다. 주요... 송치영 포스코 이앤씨 대표이사 사장. 1일 포스코 이앤씨에 따르면 목동 재건축 사업 홍보를 위한 거점 성격의...",
@@ -7266,6 +7252,44 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://www.segye.com/newsView/20261102519402?OutUrl=naver": {
+      "title": "포스코 홀딩스, 3개 분기 연속 실적 개선세 지속… 3분기 실적 발표",
+      "summary": "약세 포스코 인터내셔널 에너지 부문 견조한 이익 지속으로 인프라 부문 전분기 대비 이익 증가 포스코 홀딩스가 2일 2026년 3분기 연결기준 매출 9조 1410억원, 영업이익 9450억원, 순이익 3800억원의 실적을 발표했다고...",
+      "url": "https://www.segye.com/newsView/20261102519402?OutUrl=naver",
+      "date": "Mon, 02 Nov 2026 22:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 홀딩스, 3개 분기 연속 실적 개선세 지속… 3분기 실적 발표",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코홀딩스",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3JKd291MTIyeEF6eGE2Mk83Q1gwdzJUd2xYNF9oM09zSUZfOHFiV0ZnR2FpSExjaFo0WHo4Z29VbWVjdEpXVHRobEM0NVdOS1RwM2d6OWtEeWp1MEk0TjJjcFNzcTFsc3h4am5RTDI2ZmV1dXhwVGJobHhWVjVtNllSQzdrQi1lQks2VVpvU19UZWI5THh6OHQzM3FjdXFkVEdBQ3BVSEp1LVlheWJjd0NJdm9ONjNVdjFxNA?oc=5": {
+      "title": "POSCO Reports Higher Third-Quarter Revenue but Sharp Profit Declines - TipRanks",
+      "summary": "POSCO Reports Higher Third-Quarter Revenue but Sharp Profit Declines TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3JKd291MTIyeEF6eGE2Mk83Q1gwdzJUd2xYNF9oM09zSUZfOHFiV0ZnR2FpSExjaFo0WHo4Z29VbWVjdEpXVHRobEM0NVdOS1RwM2d6OWtEeWp1MEk0TjJjcFNzcTFsc3h4am5RTDI2ZmV1dXhwVGJobHhWVjVtNllSQzdrQi1lQks2VVpvU19UZWI5THh6OHQzM3FjdXFkVEdBQ3BVSEp1LVlheWJjd0NJdm9ONjNVdjFxNA?oc=5",
+      "date": "Mon, 02 Nov 2026 13:53:15 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
     }
   },
   "brief_sent": {},
@@ -7851,7 +7875,7 @@
     "2026-10-30": 52,
     "2026-10-31": 16,
     "2026-11-01": 20,
-    "2026-11-02": 47
+    "2026-11-02": 49
   },
   "ai_cooldowns": {}
 }
