@@ -1194,7 +1194,8 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089156": "2026-11-01T16:02:16.094984+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=727401": "2026-11-01T16:02:16.094984+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089183": "2026-11-01T18:02:15.081818+09:00",
-    "https://www.ksmnews.co.kr/news/view.php?idx=627862": "2026-11-01T21:02:16.179304+09:00"
+    "https://www.ksmnews.co.kr/news/view.php?idx=627862": "2026-11-01T21:02:16.179304+09:00",
+    "https://www.news1.kr/photos/8190951": "2026-11-02T09:02:42.907352+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1891,84 +1892,50 @@
     "6ba1c25c21152de07d138ee68248cbc226edf10ade33e87a59bea1cce9abee6d": "2026-11-01T16:02:16.094984+09:00",
     "7587717e9dd6da2fa9ed918c24d79262cdae8b761d0fa4a196269eb536ddf61f": "2026-11-01T16:02:16.094984+09:00",
     "d9b7f06ca06f05dbde9b1dca7effed02e8ed729c61d0263015ed4a03a787c1f6": "2026-11-01T18:02:15.081818+09:00",
-    "2cbc00e3c1e63521466849a835e469ba3fc1e27e1a4db4be0f812bbcb4338677": "2026-11-01T21:02:16.179304+09:00"
+    "2cbc00e3c1e63521466849a835e469ba3fc1e27e1a4db4be0f812bbcb4338677": "2026-11-01T21:02:16.179304+09:00",
+    "8bd78970b2a93357bf3eecb89c71ca72ec68955f67b7476b9c404ec3afba7251": "2026-11-02T09:02:42.907352+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://www.sejungilbo.com/news/articleView.html?idxno=60891": {
+      "title": "이종탁 서울 세무 사회장, 세무조사 실무서 출간…\"두려움에서 확신으로...",
+      "summary": "이종탁 서울지방 세무 사회장이 세무조사 사전통지부터 현장 대응, 조사 종결과 사후관리까지 전 과정을 담은... 이 회장은 1963년 경북 안동 출생으로 국립 세무 대학을 졸업하고 경희대학교에서 세무 관리 석사학위와 회계...",
+      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60891",
+      "date": "Mon, 02 Nov 2026 08:38:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.todayenergy.kr/news/articleView.html?idxno=304957": {
+      "title": "가스공사 홍의락 사장, 취임 첫 '현장 이사회'",
+      "summary": "한국가스공사 (사장 홍의락)는 지난 30일 인천생산기지에서 홍의락 사장을 비롯한 이사진 전원이 참석한 가운데 '현장 이사회'를 개최하고, LNG 하역설비 안전점검과 현장 직원 간담회를 진행했다고 밝혔다.· 이번 현장...",
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304957",
+      "date": "Mon, 02 Nov 2026 08:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "핵심 사건 분류 불일치",
+      "ai_failure_kind": "validation",
+      "review": "미검토"
+    }
+  },
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
   },
   "cursor": 0,
   "archive": {
-    "https://www.mediafine.co.kr/news/articleView.html?idxno=94161": {
-      "title": "포스코 노사, 기본급 2.6% 인상 잠정 합의…58년 만의 파업 사태 마무리...",
-      "summary": "포스코 노사가 4개월 넘게 이어온 임금 협상 끝에 기본급 2.6% 인상 등을 담은 2026년 임금 협약 잠정... 31일 포스코 에 따르면 노사는 전날 오전 10시 30분부터 경북 포항 본사에서 본교섭을 진행해 늦은 오후 잠정 합의에...",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=94161",
-      "date": "Sat, 31 Oct 2026 08:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "31일 포스코 에 따르면 노사는 전날 오전 10시 30분부터 경북 포항 본사에서 본교섭을 진행해 늦은 오후 잠정 합의에...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 2
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMTnp2N2dDaEtFcmNSaDQxSTZKUloyWEdGZzZpMzlscmxBajJpUUFTUnNlbDBEejZySnlSdm5FRWVuZkRWemtTeHF2RQ?oc=5": {
-      "title": "포스코노조 3차 파업 예고…포항 각계 노사 대화 촉구 : 기업·산업 - 재경일보",
-      "summary": "포스코노조 3차 파업 예고…포항 각계 노사 대화 촉구 : 기업·산업 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMTnp2N2dDaEtFcmNSaDQxSTZKUloyWEdGZzZpMzlscmxBajJpUUFTUnNlbDBEejZySnlSdm5FRWVuZkRWemtTeHF2RQ?oc=5",
-      "date": "Fri, 30 Oct 2026 23:35:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "exclusion_reason": "제목의 관심기업과 AI 인용 기업 불일치",
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDYtdTJzSm9kTW1nd0VVZmh4NHFSQ3lCNWFwTjEwbXlEWklEUllfYmdTNVBSVmFYUzlZOHhGczFDYy1VSGlHdnZHc2RKOGcxSHRwT3NhakthaUZvaWg2b3VHRk1FbTdMVWpXaUtTV0o0X0tEcHFZalNKbmpaTGtVdUFPMmdJdGhkZEJEdDM5R3VXdlQxVF80VC1IRE55OWx6ZmxJUUJVUjBCcGlEM1Y2Q2ZmTHdfRlkxLUE?oc=5": {
-      "title": "POSCO DX stock: Company invests in Enhance for industrial AI - ad-hoc-news.de",
-      "summary": "POSCO DX stock: Company invests in Enhance for industrial AI ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDYtdTJzSm9kTW1nd0VVZmh4NHFSQ3lCNWFwTjEwbXlEWklEUllfYmdTNVBSVmFYUzlZOHhGczFDYy1VSGlHdnZHc2RKOGcxSHRwT3NhakthaUZvaWg2b3VHRk1FbTdMVWpXaUtTV0o0X0tEcHFZalNKbmpaTGtVdUFPMmdJdGhkZEJEdDM5R3VXdlQxVF80VC1IRE55OWx6ZmxJUUJVUjBCcGlEM1Y2Q2ZmTHdfRlkxLUE?oc=5",
-      "date": "Fri, 30 Oct 2026 23:22:44 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN25YYmJkcTVIQTc1Z2ZHVHRRcDNhN1Mxc09WbkRSTllfc2dkaFhZTGNTMUlvbWRVMDdtUDNseGJXM0UxQmNXUThhaTl1UEViMWtpaFhQM0N1dEhuYTBjeTVNX3NENEU3Rko3RmtrZ3JweDNFOFRNY1l2bFRFYlBxMzdkRlptbUIzQnd0dmJiVHBidVRHa0FyQjdtLV81MW9vQmlPRWxiTG1JVmVuMHJjYjJWS1A?oc=5": {
-      "title": "L&F stock trades at 81,900 won in Seoul before earnings - ad-hoc-news.de",
-      "summary": "L&F stock trades at 81,900 won in Seoul before earnings ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN25YYmJkcTVIQTc1Z2ZHVHRRcDNhN1Mxc09WbkRSTllfc2dkaFhZTGNTMUlvbWRVMDdtUDNseGJXM0UxQmNXUThhaTl1UEViMWtpaFhQM0N1dEhuYTBjeTVNX3NENEU3Rko3RmtrZ3JweDNFOFRNY1l2bFRFYlBxMzdkRlptbUIzQnd0dmJiVHBidVRHa0FyQjdtLV81MW9vQmlPRWxiTG1JVmVuMHJjYjJWS1A?oc=5",
-      "date": "Fri, 30 Oct 2026 23:53:36 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "https://www.getnews.co.kr/news/articleView.html?idxno=885497": {
       "title": "포스코 노사, 기본급 2.6% 인상 등 임금교섭 잠정 합의...내주 노조 '찬...",
       "summary": "포스코 노사가 기본임금 2.6% 인상 등을 주요 내용으로 하는 올해 임금협상 잠정 합의안을 도출했다. 이는 다음주 노동조합 찬반투표에서 타결 여부가 결정된다. 포스코 는 노사가 30일 포항 포스코 본사에서 본교섭을...",
@@ -2915,6 +2882,99 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
+    },
+    "https://www.sejungilbo.com/news/articleView.html?idxno=60891": {
+      "title": "이종탁 서울 세무 사회장, 세무조사 실무서 출간…\"두려움에서 확신으로...",
+      "summary": "이종탁 서울지방 세무 사회장이 세무조사 사전통지부터 현장 대응, 조사 종결과 사후관리까지 전 과정을 담은... 이 회장은 1963년 경북 안동 출생으로 국립 세무 대학을 졸업하고 경희대학교에서 세무 관리 석사학위와 회계...",
+      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=60891",
+      "date": "Mon, 02 Nov 2026 08:38:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.tbc.co.kr/news/view?pno=20261101101243AE07766&id=212833": {
+      "title": "포스코 노조, 7일 잠정 합의안 찬반 투표",
+      "summary": "포스코 노동조합은 오는 7일 임금교섭 잠정 합의안에 대해 조합원 찬반 투표를 벌인다고 밝혔습니다. 이번... 포스코 노사는 지난 6월 회사와 임금 교섭을 시작해 30차례에 걸쳐 교섭을 진행했으나 합의에 이르지...",
+      "url": "https://www.tbc.co.kr/news/view?pno=20261101101243AE07766&id=212833",
+      "date": "Mon, 02 Nov 2026 09:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.news1.kr/photos/8190951": {
+      "title": "무기한 파업 모면한 포스코",
+      "summary": "포스코 노사가 2026년도 임금협상 잠정안 합의로 무기한 총파업 위기를 모면한 2일 오전 포항제철소 로 출근하는 차량들이 신호를 기다리고 있다. 포스코 노사는 지난 23일 오후 2016년도 임금협상 잠정안에...",
+      "url": "https://www.news1.kr/photos/8190951",
+      "date": "Mon, 02 Nov 2026 08:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사가 2026년도 임금협상 잠정안 합의로 무기한 총파업 위기를 모면한 2일 오전 포항제철소 로 출근하는 차량들이 신호를 기다리고 있다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.news1.kr/photos/8190954": {
+      "title": "무기한 파업 위기 벗어난 포스코",
+      "summary": "포스코 노사가 2026년도 임금협상 잠정안 합의로 무기한 총파업 위기를 모면한 2일 오전 포항제철소 로 출근하는 차량들이 신호를 기다리고 있다. 포스코 노사는 지난 23일 오후 2016년도 임금협상 잠정안에...",
+      "url": "https://www.news1.kr/photos/8190954",
+      "date": "Mon, 02 Nov 2026 08:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 노사가 2026년도 임금협상 잠정안 합의로 무기한 총파업 위기를 모면한 2일 오전 포항제철소 로 출근하는 차량들이 신호를 기다리고 있다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.todayenergy.kr/news/articleView.html?idxno=304957": {
+      "title": "가스공사 홍의락 사장, 취임 첫 '현장 이사회'",
+      "summary": "한국가스공사 (사장 홍의락)는 지난 30일 인천생산기지에서 홍의락 사장을 비롯한 이사진 전원이 참석한 가운데 '현장 이사회'를 개최하고, LNG 하역설비 안전점검과 현장 직원 간담회를 진행했다고 밝혔다.· 이번 현장...",
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304957",
+      "date": "Mon, 02 Nov 2026 08:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_wait_reason": "핵심 사건 분류 불일치",
+      "ai_failure_kind": "validation",
+      "review": "미검토"
     }
   },
   "brief_sent": {},
@@ -3227,6 +3287,11 @@
       "url": "https://www.ksmnews.co.kr/news/view.php?idx=627862",
       "title": "달서구· 대구 지속가능발전협 MOU",
       "date": "Sun, 01 Nov 2026 20:54:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/photos/8190951",
+      "title": "무기한 파업 모면한 포스코",
+      "date": "Mon, 02 Nov 2026 08:29:00 +0900"
     }
   ],
   "brief_articles": [],
@@ -3235,7 +3300,7 @@
     "2026-10-30": 52,
     "2026-10-31": 16,
     "2026-11-01": 20,
-    "2026-11-02": 1
+    "2026-11-02": 3
   },
   "ai_cooldowns": {}
 }
