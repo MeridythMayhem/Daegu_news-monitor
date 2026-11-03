@@ -1270,7 +1270,9 @@
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5": "2026-11-03T21:36:18.038139+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628315": "2026-11-03T21:36:18.038139+09:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5": "2026-11-03T21:36:18.038139+09:00",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564334": "2026-11-03T22:02:04.479772+09:00"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=564334": "2026-11-03T22:02:04.479772+09:00",
+    "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjBRS1dBZlczMFhwZmg1UV9tYjk4dC1pMzZqNmdTN2MtTWc2aUtfblZpY29CMXVMWlIxMDdBb1V1TmxEbkpVLW5DVXlwRk1QOEZaVXROOWg0NXoyVlczaTVKdW5WMkJUZUhncmRBMGUzLWJQaG41aHJIdFhxYXU3cUU0ajZId2NPYW82dFUtZ0ViWnQ1QmJuU2l4NFpHTHdZUkROeU5tSkVKQnpFUS1lNFNISmI3Yi14bjVUR2t3c1J0LVNjMHNqVnNrbG1PcXlvbjl0dm1vYjRNU0tXZmo2SzJpUFY0eWNYWnVoRXFlTVI3LWZaTlM0cGJocG9Bam84YzVkaTZXLVVQemhXQzJGbTRLSlEwelhjSmdfdFBmNGJTaU5ueFFNZ0NaQTdHN00tZTRvZmtacTNYR2pRb2ZSM2N0dnFHZw?oc=5": "2026-11-03T23:02:05.279202+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=400041": "2026-11-03T23:02:05.279202+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2043,7 +2045,9 @@
     "dd7a88532f4c5c5a7e24a657972eb1bc6bd230476b1148a03563cdc36f6c1449": "2026-11-03T21:36:18.038139+09:00",
     "63a3e01cc171ee30c61c0cff5ed53d3104d04b2fdc961a5f8a2fc12fd60342a9": "2026-11-03T21:36:18.038139+09:00",
     "cac73b4e2973d850fe6b1c6c02cbe087b5e8a3ea1ad117f336b727491c25d3ff": "2026-11-03T21:36:18.038139+09:00",
-    "ae83dc1647f99d0bc89bdf02093f43981c039b382a1291ec92e78f87cb32b364": "2026-11-03T22:02:04.479772+09:00"
+    "ae83dc1647f99d0bc89bdf02093f43981c039b382a1291ec92e78f87cb32b364": "2026-11-03T22:02:04.479772+09:00",
+    "64cfb21a7fe9dd9cc352ad320f4a551d4412c58458ebf12d149339ff0c24ed6e": "2026-11-03T23:02:05.279202+09:00",
+    "49240cdd3f5054ee1d89dc0ea8ee9b8214d04423a2954ac6cc1bd98c24d4aa53": "2026-11-03T23:02:05.279202+09:00"
   },
   "pending": {},
   "ai": {
@@ -8503,6 +8507,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=400041": {
+      "title": "포스코 스틸리온 3분기 영업이익 2억원…순손실 전환",
+      "summary": "포스코 스틸리온(058430)의 2026년 3분기 연결기준 영업이익은 2억원으로 전년 동기보다 96.0% 감소했다. 매출은 2852억원으로 0.9% 늘었지만, 당기순손익은 1억원 적자로 돌아섰다. 회사가 지난 2일 금융감독원...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=400041",
+      "date": "Tue, 03 Nov 2026 22:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjBRS1dBZlczMFhwZmg1UV9tYjk4dC1pMzZqNmdTN2MtTWc2aUtfblZpY29CMXVMWlIxMDdBb1V1TmxEbkpVLW5DVXlwRk1QOEZaVXROOWg0NXoyVlczaTVKdW5WMkJUZUhncmRBMGUzLWJQaG41aHJIdFhxYXU3cUU0ajZId2NPYW82dFUtZ0ViWnQ1QmJuU2l4NFpHTHdZUkROeU5tSkVKQnpFUS1lNFNISmI3Yi14bjVUR2t3c1J0LVNjMHNqVnNrbG1PcXlvbjl0dm1vYjRNU0tXZmo2SzJpUFY0eWNYWnVoRXFlTVI3LWZaTlM0cGJocG9Bam84YzVkaTZXLVVQemhXQzJGbTRLSlEwelhjSmdfdFBmNGJTaU5ueFFNZ0NaQTdHN00tZTRvZmtacTNYR2pRb2ZSM2N0dnFHZw?oc=5": {
+      "title": "엘앤에프, LG에너지솔루션과 1조 원대 LFP 양극재 장기 공급계약 체결 - 아이씨엔매거진",
+      "summary": "엘앤에프, LG에너지솔루션과 1조 원대 LFP 양극재 장기 공급계약 체결 아이씨엔매거진",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjBRS1dBZlczMFhwZmg1UV9tYjk4dC1pMzZqNmdTN2MtTWc2aUtfblZpY29CMXVMWlIxMDdBb1V1TmxEbkpVLW5DVXlwRk1QOEZaVXROOWg0NXoyVlczaTVKdW5WMkJUZUhncmRBMGUzLWJQaG41aHJIdFhxYXU3cUU0ajZId2NPYW82dFUtZ0ViWnQ1QmJuU2l4NFpHTHdZUkROeU5tSkVKQnpFUS1lNFNISmI3Yi14bjVUR2t3c1J0LVNjMHNqVnNrbG1PcXlvbjl0dm1vYjRNU0tXZmo2SzJpUFY0eWNYWnVoRXFlTVI3LWZaTlM0cGJocG9Bam84YzVkaTZXLVVQemhXQzJGbTRLSlEwelhjSmdfdFBmNGJTaU5ueFFNZ0NaQTdHN00tZTRvZmtacTNYR2pRb2ZSM2N0dnFHZw?oc=5",
+      "date": "Tue, 03 Nov 2026 13:22:32 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프 · 시설 투자/계약",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9265,6 +9295,16 @@
       "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564334",
       "title": "[사설] 삼성SDS와 이수페타시스의 구미·대구 투자",
       "date": "Tue, 03 Nov 2026 21:54:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjBRS1dBZlczMFhwZmg1UV9tYjk4dC1pMzZqNmdTN2MtTWc2aUtfblZpY29CMXVMWlIxMDdBb1V1TmxEbkpVLW5DVXlwRk1QOEZaVXROOWg0NXoyVlczaTVKdW5WMkJUZUhncmRBMGUzLWJQaG41aHJIdFhxYXU3cUU0ajZId2NPYW82dFUtZ0ViWnQ1QmJuU2l4NFpHTHdZUkROeU5tSkVKQnpFUS1lNFNISmI3Yi14bjVUR2t3c1J0LVNjMHNqVnNrbG1PcXlvbjl0dm1vYjRNU0tXZmo2SzJpUFY0eWNYWnVoRXFlTVI3LWZaTlM0cGJocG9Bam84YzVkaTZXLVVQemhXQzJGbTRLSlEwelhjSmdfdFBmNGJTaU5ueFFNZ0NaQTdHN00tZTRvZmtacTNYR2pRb2ZSM2N0dnFHZw?oc=5",
+      "title": "엘앤에프, LG에너지솔루션과 1조 원대 LFP 양극재 장기 공급계약 체결 - 아이씨엔매거진",
+      "date": "Tue, 03 Nov 2026 13:22:32 GMT"
+    },
+    {
+      "url": "https://www.vegannews.co.kr/news/article.html?no=400041",
+      "title": "포스코 스틸리온 3분기 영업이익 2억원…순손실 전환",
+      "date": "Tue, 03 Nov 2026 22:14:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9330,7 +9370,8 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 36
+    "2026-11-03": 37
   },
-  "ai_cooldowns": {}
+  "ai_cooldowns": {},
+  "next_provider": "groq"
 }
