@@ -2038,69 +2038,31 @@
     "84409ce78c95b629837e2eb4f5780a09481ce266c757e5c292ef81a79e9766d6": "2026-11-03T20:18:01.551373+09:00"
   },
   "pending": {
-    "https://www.vegannews.co.kr/news/article.html?no=400002": {
-      "title": "톱텍, 270억원 전환사채 전액 취득…소각 예정",
-      "summary": "잠재적 지분 희석 요인이 정리된다. ◆ 희석 부담 정리와 현금 지출 구분해야 이번 조치는 해당 회차... 회사 전체 부채의 해소나 향후 실적 개선으로 확대해 해석해서는 안 된다. 톱텍 구미 본사 전경. (사진=톱텍 제공)",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=400002",
-      "date": "Tue, 03 Nov 2026 19:30:00 +0900",
+    "https://www.ksmnews.co.kr/news/view.php?idx=628315": {
+      "title": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
+      "summary": "포항 시 관광컨벤션도시추진본부는 3일 시청 브리핑룸에서 주요 현안 브리핑을 열고 하반기 축제 운영계획과 마이스산업 육성 전략, 포항 국제전시컨벤션센터(POEX) 건립 현황 등을 발표했다. 포항 해병대문화축제는...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628315",
+      "date": "Tue, 03 Nov 2026 20:58:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 검토 참고",
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
       "priority": 70,
       "needs_ai": true,
       "filter_version": 14,
-      "ai_wait_reason": "핵심 사건 분류 불일치",
-      "ai_failure_kind": "validation",
-      "review": "미검토"
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
     }
   },
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62,
-    "2026-11-03": 2
+    "2026-11-03": 3
   },
   "cursor": 0,
   "archive": {
-    "https://www.ksmnews.co.kr/news/view.php?idx=627862": {
-      "title": "달서구· 대구 지속가능발전협 MOU",
-      "summary": "김용판 달서구청장은 지난달 29일 구청장실에서 대구 지속가능발전협의회 박선 회장과 지역... 지속가능발전협의회 운영 경험과 우수 사례를 공유하고 지역 지속가능발전목표 이행 방안도 함께 논의할 계획이다.특히 대구 ...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=627862",
-      "date": "Sun, 01 Nov 2026 20:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역언론 경제·정책",
-        "score": 80,
-        "evidence": "달서구· 대구 지속가능발전협 MOU",
-        "provider": "gemini",
-        "scope_label": "관내: 대구",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.gukjenews.com/news/articleView.html?idxno=3738937": {
-      "title": "K-water·농어촌공사·한수원, 새만금 조력발전 공동개발 MOU 체결",
-      "summary": "수공은 한국농어촌공사, 한국수력원자력 ㈜과 새만금 조력발전 사업 공동개발 및 추진을 위한 상호협력 업무협약(MOU). 한국수자원공사, 한국농어촌공사, 한국수력원자력 ㈜가 새만금 조력발전 사업의 공동개발과 추진을...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738937",
-      "date": "Sun, 01 Nov 2026 20:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "https://biz.heraldcorp.com/article/10921908?ref=naver": {
       "title": "정희용 의원, 성주군 출신‘이우석 동아수출공사 회장 공적비 제막행사...",
       "summary": "이우석 회장은 1935년 경북 성주군 초전면 출생으로, 1967년 ㈜동아수출공사를 설립해 ‘미워도 다시 한번’... 공적비를 건립 했다. 정희용 의원은 “대한민국 영화산업의 기틀을 다졌을 뿐 아니라 장학금 기탁 등 고향...",
@@ -8485,6 +8447,37 @@
       "priority": 80,
       "needs_ai": false,
       "filter_version": 14
+    },
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205268&mode=view": {
+      "title": "포스코 홀딩스, 3분기 영업이익 47.9% 증가..철강 상승 주도",
+      "summary": "포스코 그룹 지주사인 포스코 홀딩스가 철강 부문의 수익성 회복에 힘입어 3분기 연속 실적 상승세를 이어갔습니다. 포스코 홀딩스는 연결 기준 올해 3분기 영업이익이 9천400억 원으로 지난해 3분기보다 47.9...",
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205268&mode=view",
+      "date": "Tue, 03 Nov 2026 20:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 14
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=628315": {
+      "title": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
+      "summary": "포항 시 관광컨벤션도시추진본부는 3일 시청 브리핑룸에서 주요 현안 브리핑을 열고 하반기 축제 운영계획과 마이스산업 육성 전략, 포항 국제전시컨벤션센터(POEX) 건립 현황 등을 발표했다. 포항 해병대문화축제는...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628315",
+      "date": "Tue, 03 Nov 2026 20:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 14,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
     }
   },
   "brief_sent": {
@@ -9292,7 +9285,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 34
+    "2026-11-03": 35
   },
   "ai_cooldowns": {}
 }
