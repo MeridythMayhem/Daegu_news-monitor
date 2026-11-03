@@ -1257,7 +1257,10 @@
     "https://www.ajunews.com/view/20261103095457354": "2026-11-03T12:02:59.568661+09:00",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5": "2026-11-03T13:02:44.118101+09:00",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=304095": "2026-11-03T14:02:20.283849+09:00",
-    "https://www.naeil.com/news/read/607373?ref=naver": "2026-11-03T14:02:20.283849+09:00"
+    "https://www.naeil.com/news/read/607373?ref=naver": "2026-11-03T14:02:20.283849+09:00",
+    "http://www.breaknews.com/1247936": "2026-11-03T15:02:50.871570+09:00",
+    "https://www.thepublic.kr/news/articleView.html?idxno=324881": "2026-11-03T15:02:50.871570+09:00",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKY2pnOU9IdGZPVWpCS0l1M0FUeHo2OERUQUxNUGVBVmQxYl81UFdQcTJSUmt1c1o2T0VUakdRX2ptR2pwNEtCTGh2SzVBelREYlBnX0lVQzlYazJJdVc0OU9ISGNXWGM?oc=5": "2026-11-03T15:02:50.871570+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2017,70 +2020,49 @@
     "a0394e0ed36d5c85528d32f0823e906d27cf1faabad6a018d4bd5b49d3ca0aee": "2026-11-03T12:02:59.568661+09:00",
     "d7b0950e8f00523867cfa72021f5e4f7b944b498513a53e29a877ef89679849e": "2026-11-03T13:02:44.118101+09:00",
     "f50802a8ed6f3faa35487b7a5843108873c3ee56bfdbbe5d3685b82cee561d43": "2026-11-03T14:02:20.283849+09:00",
-    "bacf90853a9240cb21c0dcd501b7ed39fb0e3f6d7d45aae9ee68e9891f5ed625": "2026-11-03T14:02:20.283849+09:00"
+    "bacf90853a9240cb21c0dcd501b7ed39fb0e3f6d7d45aae9ee68e9891f5ed625": "2026-11-03T14:02:20.283849+09:00",
+    "fd7d01043afaf1443052d1f0840c55c7fae75ab05ea1dc2a6fad945e9899f27a": "2026-11-03T15:02:50.871570+09:00",
+    "00afa1ed0a03f1cf7f881b026cd4807de87355b6f66316d5c80c65ac2a6d825f": "2026-11-03T15:02:50.871570+09:00",
+    "176fd6aa629a00a82bd938f73b83b854167a23b06a6c68212295b376eb774034": "2026-11-03T15:02:50.871570+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://lawtalknews.co.kr/article/NTP5P5SE6JYX": {
+      "title": "우체통서 수거한 지갑 쓰레기통에 버린 우체국 직원…횡령일까 손괴일...",
+      "summary": "법무법인 에스엘 이성준 변호사는 “업무상횡령죄가 성립하려면 단순한 절차 위반이나 업무상 실수만으로는 부족하고, 타인의 재물을 자기 또는 제3자의 이익을 위하여 소유자인 것처럼 처분하려는 불법영득의사가...",
+      "url": "https://lawtalknews.co.kr/article/NTP5P5SE6JYX",
+      "date": "Tue, 03 Nov 2026 14:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mVi14VG03MGRrY1lkOENQNjRSRWg1cGI5YmJUMFFPRThJNjlHbHYtNk42SVR0UXN6SEZWMVpZbldkMmNUR3lYWHgwRExvMnRDVjZFOWdEaFlQR2hP?oc=5": {
+      "title": "[리포트 브리핑]포스코퓨처엠, '양극재 회복과 보상금, 그리고 LFP 수주' 목표가 290,000원 - DS투자증권 - 뉴스핌",
+      "summary": "[리포트 브리핑]포스코퓨처엠, '양극재 회복과 보상금, 그리고 LFP 수주' 목표가 290,000원 - DS투자증권 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mVi14VG03MGRrY1lkOENQNjRSRWg1cGI5YmJUMFFPRThJNjlHbHYtNk42SVR0UXN6SEZWMVpZbldkMmNUR3lYWHgwRExvMnRDVjZFOWdEaFlQR2hP?oc=5",
+      "date": "Tue, 03 Nov 2026 05:07:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    }
+  },
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
   },
   "cursor": 0,
   "archive": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=563940": {
-      "title": "대구 북부경찰서 신청사 건립 순항…임시청사 후보지 2곳 압축",
-      "summary": "1일 대구경찰청 에 따르면 북부서 신청사는 총사업비 488억5천여만원을 들여 지하 3층·지상 7층, 연면적 1만5천395㎡ 규모로 조성된다. 현재 실시설계가 진행 중으로 2027년 2월 설계 완료를 목표로 하고 있다. 이후 조달청...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563940",
-      "date": "Sun, 01 Nov 2026 14:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역언론 경제·정책",
-        "score": 80,
-        "evidence": "대구 북부경찰서 신청사 건립 순항…임시청사 후보지 2곳 압축",
-        "provider": "gemini",
-        "scope_label": "관내: 대구",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://daily.hankooki.com/news/articleView.html?idxno=1420475": {
-      "title": "가스공사 , 홍의락 사장 취임 후 첫 '현장 이사회' 개최",
-      "summary": "홍의락 한국가스공사 사장(왼쪽 세 번째) 등 가스공사 이사진은 지난 10월 30일 인천 송도동 인천기지본부에서 현장 이사회를 열고 주요 시설에 대한 안전 점검을 진행했다. ⓒ 한국가스공사 제공 한국가스공사 는 지난...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420475",
-      "date": "Sun, 01 Nov 2026 14:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_wait_reason": "핵심 사건 분류 불일치",
-      "ai_failure_kind": "validation",
-      "review": "미검토"
-    },
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610312138340210025": {
-      "title": "[SK 2027 사장단 인사] ①승진보다 임무 바꾼 SK…곽노정·장용호 유임 ...",
-      "summary": "신임 CEO로 내정된 정승일 총괄사장은 산업통상자원부 차관과 한국가스공사 ·한국전력공사 사장을 지낸 전력·에너지 전문가다. 올해 1월 SK그룹에 합류해 SK㈜ 미래성장 담당과 SK하이닉스 에너지 태스크포스(TF)...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610312138340210025",
-      "date": "Sun, 01 Nov 2026 14:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "https://www.dkilbo.com/news/articleView.html?idxno=559171": {
       "title": "24 조원대 투자 유치' 구미시… 반도체·로봇,이차전지등 첨단산업 경제...",
       "summary": "BaaS시험실증센터는 부지 2만4576㎡,연면적 3232㎡ 규모로 경북도는 KTR 경북거점을 2028년까지 대구 ·경북... 또한 산동읍 성수 도시개발지구 247,641㎡ 2710 세대 아파트 건립 과 인근 흥안 지구 3215 세대, 인덕지구 1041세대...",
@@ -8072,6 +8054,128 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "http://www.breaknews.com/1247936": {
+      "title": "울진군, 수소산업 박람회서 원자력수소 국가산단 투자유치 홍보",
+      "summary": "업무협약( MOU ) 체결 현황 등 투자 판단에 필요한 정보도 제공한다. 잠재... attracting domestic and international hydrogen production companies.\" 원본 기사 보기:브레이크뉴스 대구 경북",
+      "url": "http://www.breaknews.com/1247936",
+      "date": "Tue, 03 Nov 2026 14:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 80,
+        "evidence": "울진군, 수소산업 박람회서 원자력수소 국가산단 투자유치 홍보",
+        "provider": "gemini",
+        "scope_label": "관내: 울진",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://lawtalknews.co.kr/article/NTP5P5SE6JYX": {
+      "title": "우체통서 수거한 지갑 쓰레기통에 버린 우체국 직원…횡령일까 손괴일...",
+      "summary": "법무법인 에스엘 이성준 변호사는 “업무상횡령죄가 성립하려면 단순한 절차 위반이나 업무상 실수만으로는 부족하고, 타인의 재물을 자기 또는 제3자의 이익을 위하여 소유자인 것처럼 처분하려는 불법영득의사가...",
+      "url": "https://lawtalknews.co.kr/article/NTP5P5SE6JYX",
+      "date": "Tue, 03 Nov 2026 14:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.thepublic.kr/news/articleView.html?idxno=324881": {
+      "title": "포항 철강업계 잇단 공장 폐쇄 속… 포스코 ·현대제철 3분기 실적은 '반...",
+      "summary": "다만 포스코 홀딩스와 현대제철 등 주요 철강 기업들은 고부가가치 제품 전환과 제품 가격 인상 노력을... 포스코 포항제철소 또한 2024년 7월 1제강공장에 이어 같은 해 11월 1선재공장을 연이어 폐쇄했다. 포스코 는...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=324881",
+      "date": "Tue, 03 Nov 2026 14:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 포항제철소 또한 2024년 7월 1제강공장에 이어 같은 해 11월 1선재공장을 연이어 폐쇄했다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 2
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.s-journal.co.kr/news/articleView.html?idxno=45009": {
+      "title": "포스코홀딩스· 포스코퓨처엠 ·포스코인터내셔널, 호실적 속 엇갈린 이익...",
+      "summary": "포스코홀딩스는 철강 회복과 에너지사업 성장에 힘입어 영업이익을 늘렸고 포스코퓨처엠 과 포스코인터내셔널도 시장 전망치를 웃돌았다. 그러나 포스코퓨처엠 의 일회성 이익과 그룹 이차전지소재 부문의 적자...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45009",
+      "date": "Tue, 03 Nov 2026 14:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠, 포스코홀딩스",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코홀딩스· 포스코퓨처엠 ·포스코인터내셔널, 호실적 속 엇갈린 이익...",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠, 포스코홀딩스",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKY2pnOU9IdGZPVWpCS0l1M0FUeHo2OERUQUxNUGVBVmQxYl81UFdQcTJSUmt1c1o2T0VUakdRX2ptR2pwNEtCTGh2SzVBelREYlBnX0lVQzlYazJJdVc0OU9ISGNXWGM?oc=5": {
+      "title": "포스코퓨처엠 영업이익 821억…양극재 회복에 반등 - 자본시장뉴스",
+      "summary": "포스코퓨처엠 영업이익 821억…양극재 회복에 반등 자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKY2pnOU9IdGZPVWpCS0l1M0FUeHo2OERUQUxNUGVBVmQxYl81UFdQcTJSUmt1c1o2T0VUakdRX2ptR2pwNEtCTGh2SzVBelREYlBnX0lVQzlYazJJdVc0OU9ISGNXWGM?oc=5",
+      "date": "Tue, 03 Nov 2026 05:30:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코퓨처엠 영업이익 821억…양극재 회복에 반등 - 자본시장뉴스",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mVi14VG03MGRrY1lkOENQNjRSRWg1cGI5YmJUMFFPRThJNjlHbHYtNk42SVR0UXN6SEZWMVpZbldkMmNUR3lYWHgwRExvMnRDVjZFOWdEaFlQR2hP?oc=5": {
+      "title": "[리포트 브리핑]포스코퓨처엠, '양극재 회복과 보상금, 그리고 LFP 수주' 목표가 290,000원 - DS투자증권 - 뉴스핌",
+      "summary": "[리포트 브리핑]포스코퓨처엠, '양극재 회복과 보상금, 그리고 LFP 수주' 목표가 290,000원 - DS투자증권 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mVi14VG03MGRrY1lkOENQNjRSRWg1cGI5YmJUMFFPRThJNjlHbHYtNk42SVR0UXN6SEZWMVpZbldkMmNUR3lYWHgwRExvMnRDVjZFOWdEaFlQR2hP?oc=5",
+      "date": "Tue, 03 Nov 2026 05:07:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
     }
   },
   "brief_sent": {
@@ -8769,6 +8873,21 @@
       "url": "https://www.naeil.com/news/read/607373?ref=naver",
       "title": "포스코 , 철강 덕에 실적 반등",
       "date": "Tue, 03 Nov 2026 13:02:00 +0900"
+    },
+    {
+      "url": "http://www.breaknews.com/1247936",
+      "title": "울진군, 수소산업 박람회서 원자력수소 국가산단 투자유치 홍보",
+      "date": "Tue, 03 Nov 2026 14:58:00 +0900"
+    },
+    {
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=324881",
+      "title": "포항 철강업계 잇단 공장 폐쇄 속… 포스코 ·현대제철 3분기 실적은 '반...",
+      "date": "Tue, 03 Nov 2026 14:30:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKY2pnOU9IdGZPVWpCS0l1M0FUeHo2OERUQUxNUGVBVmQxYl81UFdQcTJSUmt1c1o2T0VUakdRX2ptR2pwNEtCTGh2SzVBelREYlBnX0lVQzlYazJJdVc0OU9ISGNXWGM?oc=5",
+      "title": "포스코퓨처엠 영업이익 821억…양극재 회복에 반등 - 자본시장뉴스",
+      "date": "Tue, 03 Nov 2026 05:30:00 GMT"
     }
   ],
   "brief_articles": [
@@ -8834,7 +8953,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 18
+    "2026-11-03": 21
   },
   "ai_cooldowns": {}
 }
