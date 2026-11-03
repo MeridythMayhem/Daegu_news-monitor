@@ -1253,7 +1253,8 @@
     "https://www.job-post.co.kr/news/articleView.html?idxno=236077": "2026-11-03T10:02:35.087618+09:00",
     "https://www.tbc.co.kr/news/view?pno=20261103083637AE07870&id=212898": "2026-11-03T11:02:50.204315+09:00",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVXFhNVRhM3RsNUJqTG5tam1aNVRtMExkRVQwdWlKMzNmaVpiZWNJd3pEZ3V1STdYcWc4SDZZMExvMDY5M19SUTk5cXJSdVVKMHVUd01Bc2ZDdDQ1b2RfcS1UTW1tdTZZWXFhSDBVV2k?oc=5": "2026-11-03T11:02:50.204315+09:00",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5": "2026-11-03T11:02:50.204315+09:00"
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5": "2026-11-03T11:02:50.204315+09:00",
+    "https://www.ajunews.com/view/20261103095457354": "2026-11-03T12:02:59.568661+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2009,40 +2010,10 @@
     "0e586c9c89f36d7a07e67b120e08422053be8451957c917d8a3af285526d45a2": "2026-11-03T10:02:35.087618+09:00",
     "51a876d4eade45af94698e8e05aada38ef6ec093413898abe55270434ccf17dd": "2026-11-03T11:02:50.204315+09:00",
     "791c05aafb8676340380ddff8388c206f31f920589eadda20262dff7230dcda8": "2026-11-03T11:02:50.204315+09:00",
-    "d1cee7837eef415cf2097678e5cdd6b70b7da4f19f1e2c5c7823cf947d670f9e": "2026-11-03T11:02:50.204315+09:00"
+    "d1cee7837eef415cf2097678e5cdd6b70b7da4f19f1e2c5c7823cf947d670f9e": "2026-11-03T11:02:50.204315+09:00",
+    "a0394e0ed36d5c85528d32f0823e906d27cf1faabad6a018d4bd5b49d3ca0aee": "2026-11-03T12:02:59.568661+09:00"
   },
-  "pending": {
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNFljY0lTTDVfY0hwVVpyQWt3VUNyamxDU3V0dktVekVaMHhqVVdBcFY1LUFldzRJa0hvQzhRQkRRXzFzbjFibWFrZkhBNGU2OHhTZnRhcHk0RXhLZFdUbFNfblpYVW9UWWg4Q0hHWm0?oc=5": {
-      "title": "포스코홀딩스, 2027년 실적 눈높이 하향… 목표가↓-NH By 인포스탁데일리 - Investing.com 한국어",
-      "summary": "포스코홀딩스, 2027년 실적 눈높이 하향… 목표가↓-NH By 인포스탁데일리 Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNFljY0lTTDVfY0hwVVpyQWt3VUNyamxDU3V0dktVekVaMHhqVVdBcFY1LUFldzRJa0hvQzhRQkRRXzFzbjFibWFrZkhBNGU2OHhTZnRhcHk0RXhLZFdUbFNfblpYVW9UWWg4Q0hHWm0?oc=5",
-      "date": "Tue, 03 Nov 2026 01:14:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3eWpLYU1RaFB5eFhNVElRb0Y5ZGdoRU5oM0xEZklmZlBGeUs4ZmxzVllGWXVnRDluVWxqMHNUY1FYT292RXVkSHpILThyQy1oRTZfWXhXdjU3UzdXQ0I5ZHJBYWU0YjQ?oc=5": {
-      "title": "POSCO DX Q3 Operating Profit Surges 71% Quarter-on-Quarter - THE ELEC, Korea Electronics Industry Media",
-      "summary": "POSCO DX Q3 Operating Profit Surges 71% Quarter-on-Quarter THE ELEC, Korea Electronics Industry Media",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3eWpLYU1RaFB5eFhNVElRb0Y5ZGdoRU5oM0xEZklmZlBGeUs4ZmxzVllGWXVnRDluVWxqMHNUY1FYT292RXVkSHpILThyQy1oRTZfWXhXdjU3UzdXQ0I5ZHJBYWU0YjQ?oc=5",
-      "date": "Tue, 03 Nov 2026 01:18:30 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
@@ -8090,6 +8061,43 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://www.dkilbo.com/news/articleView.html?idxno=559392": {
+      "title": "대구 달성군 금속 가공 공장 서 기계 폭발··· 2명 화상",
+      "summary": "대구 달성군 유가읍의 한 공장 에서 기계 폭발 사고 가 발생해 소방당국이 현장을 살피고 있다. 대구 소방안전본부 제공 3일 소방당국 등에 따르면 전날 오후 5시 26분쯤 대구 달성군 유가읍 한 공장 에서 기계가 폭발하는...",
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=559392",
+      "date": "Tue, 03 Nov 2026 11:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.ajunews.com/view/20261103095457354": {
+      "title": "농기계 수출상담회 대구 서 개최…14개국 25개사 참여",
+      "summary": "수출상담회 MOU 체결식 [사진=농식품부] 농림축산식품부가 해외 바이어와 필리핀 농업기계화 관련 기관 관계자를 초청해 국내 농기계 기업의 수출 확대를 지원한다. 농식품부는 4일부터 6일까지 대구 엑스코에서 열리는...",
+      "url": "https://www.ajunews.com/view/20261103095457354",
+      "date": "Tue, 03 Nov 2026 11:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 80,
+        "evidence": "농기계 수출상담회 대구 서 개최…14개국 25개사 참여",
+        "provider": "gemini",
+        "scope_label": "관내: 대구",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -8767,6 +8775,11 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5",
       "title": "실적 반등 포스코퓨처엠, LFP 전환 확대...증권가 호평 - www.thecommoditiesnews.com",
       "date": "Tue, 03 Nov 2026 01:17:48 GMT"
+    },
+    {
+      "url": "https://www.ajunews.com/view/20261103095457354",
+      "title": "농기계 수출상담회 대구 서 개최…14개국 25개사 참여",
+      "date": "Tue, 03 Nov 2026 11:02:00 +0900"
     }
   ],
   "brief_articles": [
@@ -8832,7 +8845,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 12
+    "2026-11-03": 14
   },
   "ai_cooldowns": {}
 }
