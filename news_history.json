@@ -1255,7 +1255,9 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVXFhNVRhM3RsNUJqTG5tam1aNVRtMExkRVQwdWlKMzNmaVpiZWNJd3pEZ3V1STdYcWc4SDZZMExvMDY5M19SUTk5cXJSdVVKMHVUd01Bc2ZDdDQ1b2RfcS1UTW1tdTZZWXFhSDBVV2k?oc=5": "2026-11-03T11:02:50.204315+09:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5": "2026-11-03T11:02:50.204315+09:00",
     "https://www.ajunews.com/view/20261103095457354": "2026-11-03T12:02:59.568661+09:00",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5": "2026-11-03T13:02:44.118101+09:00"
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5": "2026-11-03T13:02:44.118101+09:00",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304095": "2026-11-03T14:02:20.283849+09:00",
+    "https://www.naeil.com/news/read/607373?ref=naver": "2026-11-03T14:02:20.283849+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2013,115 +2015,17 @@
     "791c05aafb8676340380ddff8388c206f31f920589eadda20262dff7230dcda8": "2026-11-03T11:02:50.204315+09:00",
     "d1cee7837eef415cf2097678e5cdd6b70b7da4f19f1e2c5c7823cf947d670f9e": "2026-11-03T11:02:50.204315+09:00",
     "a0394e0ed36d5c85528d32f0823e906d27cf1faabad6a018d4bd5b49d3ca0aee": "2026-11-03T12:02:59.568661+09:00",
-    "d7b0950e8f00523867cfa72021f5e4f7b944b498513a53e29a877ef89679849e": "2026-11-03T13:02:44.118101+09:00"
+    "d7b0950e8f00523867cfa72021f5e4f7b944b498513a53e29a877ef89679849e": "2026-11-03T13:02:44.118101+09:00",
+    "f50802a8ed6f3faa35487b7a5843108873c3ee56bfdbbe5d3685b82cee561d43": "2026-11-03T14:02:20.283849+09:00",
+    "bacf90853a9240cb21c0dcd501b7ed39fb0e3f6d7d45aae9ee68e9891f5ed625": "2026-11-03T14:02:20.283849+09:00"
   },
-  "pending": {
-    "https://bizhankook.com/articles/sangsangin-yoo-jun-won-appeal-ruling.html": {
-      "title": "7년 끈 상상인 불법 대출 사건, 유준원 대표 항소심 선고 내년 1월 확정",
-      "summary": "원의 추징 을 명령했다. 함께 기소된 상상인저축은행에는 벌금 64억 3600만 원과 추징 금 32억 1800만 원을... KBI그룹에서 인수를 주도하는 곳은 구미 기반의 폐기물 처리 업체 KBI국인산업으로, 과거 라온저축은행을 인수한...",
-      "url": "https://bizhankook.com/articles/sangsangin-yoo-jun-won-appeal-ruling.html",
-      "date": "Tue, 03 Nov 2026 12:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
   },
   "cursor": 0,
   "archive": {
-    "https://www.tournews21.com/news/articleView.html?idxno=147106": {
-      "title": "KOREA RIT, 국제 화재현장 생존 챔피언십 'RIT Challenge' 2라운드 1위",
-      "summary": "게다가 지난 10월 16일 경기 부천 공장 화재에서 RIT가 소방관 고립 사실을 확인한 뒤 故김진석 소방위를... KOREA RIT는 팀장인 울산 중부소방서 김세학 소방장을 비롯해 경기 시흥소방서 이재환 소방위, 대구 119특...",
-      "url": "https://www.tournews21.com/news/articleView.html?idxno=147106",
-      "date": "Sun, 01 Nov 2026 13:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.idaegu.com/news/articleView.html?idxno=666627": {
-      "title": "대구 백화점 본점 매각 또 차질…경영권 소송도 부담",
-      "summary": "세경인베스트는 지난 7월 아람코리아와 함께 구 회장 등 최대주주 일가가 보유한 대구 백화점 지분 25.82%(약 223억6천594만 원)를 인수하기로 계약했던 이전 매수 주체다. 해당 거래는 매수인 변경과 중도금 미지급으로...",
-      "url": "https://www.idaegu.com/news/articleView.html?idxno=666627",
-      "date": "Sun, 01 Nov 2026 13:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역경제·기업동향",
-        "score": 80,
-        "evidence": "대구 백화점 본점 매각 또 차질…경영권 소송도 부담",
-        "provider": "gemini",
-        "scope_label": "관내: 대구",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089125": {
-      "title": "무기한 파업 문턱서 극적 합의… 포스코 노사, 파국 위기 넘겼다",
-      "summary": "포스코 노사가 2일 무기한 파업을 예고한 가운데 잠정합의안을 도출, 최악의 상황에서 벗어날 것으로 기대된다. 1일 포스코 와 포스코 노조에 따르면 지난달 30일 본교섭 끝에 사측이 제시한 안에 잠정합의하고, 오는 7일...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089125",
-      "date": "Sun, 01 Nov 2026 13:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "무기한 파업 문턱서 극적 합의… 포스코 노사, 파국 위기 넘겼다",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.newsprime.co.kr/news/article.html?no=753168": {
-      "title": "'무기한 파업' 앞두고 극적 합의한 포스코 노사, 마지막 관문 '찬반투표...",
-      "summary": "노조가 예고한 무기한 파업을 앞두고 포스코 노사가 임금협상 잠정합의안을 마련했다. 지난 6월16일 임금 교섭을 시작한 지 4개월여 만이다. 조합원 찬반투표가 남아 있긴 하지만 위기를 넘겼다는 평가다. 포스코 노사는...",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=753168",
-      "date": "Sun, 01 Nov 2026 13:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "'무기한 파업' 앞두고 극적 합의한 포스코 노사, 마지막 관문 '찬반투표...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=563940": {
       "title": "대구 북부경찰서 신청사 건립 순항…임시청사 후보지 2곳 압축",
       "summary": "1일 대구경찰청 에 따르면 북부서 신청사는 총사업비 488억5천여만원을 들여 지하 3층·지상 7층, 연면적 1만5천395㎡ 규모로 조성된다. 현재 실시설계가 진행 중으로 2027년 2월 설계 완료를 목표로 하고 있다. 이후 조달청...",
@@ -8122,6 +8026,52 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304095": {
+      "title": "\"내년 영업이익 3.1조원 기대…POSCO 홀딩스 , 철강 반등에 리튬 흑자전환...",
+      "summary": "박성봉 하나증권 연구원은 \"POSCO 홀딩스 는 포스코 인터내셔널과 포스코 DX 보유 지분 일부를 매각해 약 2조5000억원을 확보했는데 이 가운데 약 10%를 연내 자사주 추가 매입 및 소각 계획을 발표한 바 있다\"고 밝혔다....",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304095",
+      "date": "Tue, 03 Nov 2026 13:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "\"내년 영업이익 3.1조원 기대…POSCO 홀딩스 , 철강 반등에 리튬 흑자전환...",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.naeil.com/news/read/607373?ref=naver": {
+      "title": "포스코 , 철강 덕에 실적 반등",
+      "summary": "포스코 홀딩스가 철강 부문 수익성 회복에 힘입어 3개 분기 연속 실적 개선세를 이어갔다. 포스코 홀딩스는 3분기 연결 기준 영업이익이 9400억원으로 지난해 같은 기간보다 47.9% 늘었다고 2일 밝혔다. 시장 전망치를 15...",
+      "url": "https://www.naeil.com/news/read/607373?ref=naver",
+      "date": "Tue, 03 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 , 철강 덕에 실적 반등",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -8809,6 +8759,16 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5",
       "title": "POSCO E&C Q3 Operating Profit approximately $35.9 Million: Plant Unit Turns Profitable Despite Sinansan Line Setback - BigGo Finance",
       "date": "Tue, 03 Nov 2026 03:05:00 GMT"
+    },
+    {
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304095",
+      "title": "\"내년 영업이익 3.1조원 기대…POSCO 홀딩스 , 철강 반등에 리튬 흑자전환...",
+      "date": "Tue, 03 Nov 2026 13:20:00 +0900"
+    },
+    {
+      "url": "https://www.naeil.com/news/read/607373?ref=naver",
+      "title": "포스코 , 철강 덕에 실적 반등",
+      "date": "Tue, 03 Nov 2026 13:02:00 +0900"
     }
   ],
   "brief_articles": [
@@ -8874,7 +8834,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 16
+    "2026-11-03": 18
   },
   "ai_cooldowns": {}
 }
