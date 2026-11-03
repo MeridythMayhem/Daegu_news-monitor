@@ -1266,7 +1266,10 @@
     "https://www.smartbizn.com/news/articleView.html?idxno=158335": "2026-11-03T17:03:06.006852+09:00",
     "http://www.finomy.com/news/articleView.html?idxno=265506": "2026-11-03T18:02:51.147894+09:00",
     "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365": "2026-11-03T19:02:45.192077+09:00",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A": "2026-11-03T20:18:01.551373+09:00"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A": "2026-11-03T20:18:01.551373+09:00",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5": "2026-11-03T21:36:18.038139+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=628315": "2026-11-03T21:36:18.038139+09:00",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5": "2026-11-03T21:36:18.038139+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2035,27 +2038,12 @@
     "bf2242327c74542cf9bd64e404299c16397dea04eacd8d2e1842f4626a562c90": "2026-11-03T17:03:06.006852+09:00",
     "069386bb38a89df9fb80516c07ab87d1cc67bd7046d0394f8618347a801af0be": "2026-11-03T18:02:51.147894+09:00",
     "d25e6564ec33f2004a4f56c1bbbede2c024ab367a8a2955b857ef35169f2ec77": "2026-11-03T19:02:45.192077+09:00",
-    "84409ce78c95b629837e2eb4f5780a09481ce266c757e5c292ef81a79e9766d6": "2026-11-03T20:18:01.551373+09:00"
+    "84409ce78c95b629837e2eb4f5780a09481ce266c757e5c292ef81a79e9766d6": "2026-11-03T20:18:01.551373+09:00",
+    "dd7a88532f4c5c5a7e24a657972eb1bc6bd230476b1148a03563cdc36f6c1449": "2026-11-03T21:36:18.038139+09:00",
+    "63a3e01cc171ee30c61c0cff5ed53d3104d04b2fdc961a5f8a2fc12fd60342a9": "2026-11-03T21:36:18.038139+09:00",
+    "cac73b4e2973d850fe6b1c6c02cbe087b5e8a3ea1ad117f336b727491c25d3ff": "2026-11-03T21:36:18.038139+09:00"
   },
-  "pending": {
-    "https://www.ksmnews.co.kr/news/view.php?idx=628315": {
-      "title": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
-      "summary": "포항 시 관광컨벤션도시추진본부는 3일 시청 브리핑룸에서 주요 현안 브리핑을 열고 하반기 축제 운영계획과 마이스산업 육성 전략, 포항 국제전시컨벤션센터(POEX) 건립 현황 등을 발표했다. 포항 해병대문화축제는...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628315",
-      "date": "Tue, 03 Nov 2026 20:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 14,
-      "review": "미검토",
-      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
-      "ai_failure_kind": "request"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62,
@@ -2063,21 +2051,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://biz.heraldcorp.com/article/10921908?ref=naver": {
-      "title": "정희용 의원, 성주군 출신‘이우석 동아수출공사 회장 공적비 제막행사...",
-      "summary": "이우석 회장은 1935년 경북 성주군 초전면 출생으로, 1967년 ㈜동아수출공사를 설립해 ‘미워도 다시 한번’... 공적비를 건립 했다. 정희용 의원은 “대한민국 영화산업의 기틀을 다졌을 뿐 아니라 장학금 기탁 등 고향...",
-      "url": "https://biz.heraldcorp.com/article/10921908?ref=naver",
-      "date": "Sun, 01 Nov 2026 21:31:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "http://www.ujeil.com/news/articleView.html?idxno=394488": {
       "title": "SK이노, 전력사업 성장기반 강화 사장단 인사 단행",
       "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임하며, 에너지믹스, 천연가스 수급 등 전력인프라 및 전력시장 구조를 입체적으로 이해하는 손꼽히는 에너지 전문가이다. 강동수...",
@@ -8458,9 +8431,9 @@
       ],
       "basis": "관심기업: 포스코홀딩스 · 수치가 명시된 경제지표/실적",
       "category": "관심기업 동향",
-      "priority": 80,
+      "priority": 70,
       "needs_ai": false,
-      "filter_version": 14
+      "filter_version": 16
     },
     "https://www.ksmnews.co.kr/news/view.php?idx=628315": {
       "title": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
@@ -8471,13 +8444,65 @@
         "domestic"
       ],
       "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
+      "category": "지역언론 경제·정책",
+      "priority": 65,
       "needs_ai": true,
-      "filter_version": 14,
-      "review": "미검토",
-      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
-      "ai_failure_kind": "request"
+      "filter_version": 16,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 65,
+        "evidence": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
+        "provider": "gemini",
+        "scope_label": "관내: 포항",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5": {
+      "title": "가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’ - 기후에너지경제",
+      "summary": "가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’ 기후에너지경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5",
+      "date": "Tue, 03 Nov 2026 11:53:01 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 16,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’ - 기후에너지경제",
+        "provider": "gemini",
+        "scope_label": "관심기업: iM뱅크",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5": {
+      "title": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 - 웹이코노미",
+      "summary": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5",
+      "date": "Tue, 03 Nov 2026 11:50:03 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
+      "needs_ai": true,
+      "filter_version": 16,
+      "ai_result": {
+        "category": "지역언론 경제·정책",
+        "score": 65,
+        "evidence": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 - 웹이코노미",
+        "provider": "gemini",
+        "scope_label": "관내: 포항",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -9220,6 +9245,21 @@
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A",
       "title": "[여기는 포항] 포스코 홀딩스, 3분기 영업이익 9천450억 원 외",
       "date": "Tue, 03 Nov 2026 20:02:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5",
+      "title": "가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’ - 기후에너지경제",
+      "date": "Tue, 03 Nov 2026 11:53:01 GMT"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628315",
+      "title": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
+      "date": "Tue, 03 Nov 2026 20:58:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5",
+      "title": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 - 웹이코노미",
+      "date": "Tue, 03 Nov 2026 11:50:03 GMT"
     }
   ],
   "brief_articles": [
@@ -9285,7 +9325,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 35
+    "2026-11-03": 36
   },
   "ai_cooldowns": {}
 }
