@@ -1248,7 +1248,9 @@
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qa2xtcEsyWWhuam93dFhsNjh0UFFvUHBHT2JVSFZHZWU5QlhnWldpb1owYS12clRCN0JJQzYxY3NCSGl4M3E3SGpfeXBOX0RoTTlET2E2TExwSlVnaWNET1RiVnQ5VU0?oc=5": "2026-11-02T19:03:29.123772+09:00",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2357773": "2026-11-02T21:02:41.172892+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628084": "2026-11-02T21:02:41.172892+09:00",
-    "https://www.segye.com/newsView/20261103503141?OutUrl=naver": "2026-11-03T09:02:36.210472+09:00"
+    "https://www.segye.com/newsView/20261103503141?OutUrl=naver": "2026-11-03T09:02:36.210472+09:00",
+    "https://www.news1.kr/local/gwangju-jeonnam/6340934": "2026-11-03T10:02:35.087618+09:00",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=236077": "2026-11-03T10:02:35.087618+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1999,59 +2001,16 @@
     "001c9ab683491cea25c61cc37edb426de52149a6b547d1792f7abb37da7ee57c": "2026-11-02T19:03:29.123772+09:00",
     "e631de1a1c3ddab28157989490a1933941f6639c52e4d868204d7593102185b1": "2026-11-02T21:02:41.172892+09:00",
     "4ed9dcc88b9bca566232a6e6ad540b2203a8593ef8c9fb1c91c2078802e5a097": "2026-11-02T21:02:41.172892+09:00",
-    "19484f3c3e82ef8938dd5383202d6cb90216f33639be65fed3529408af3327ae": "2026-11-03T09:02:36.210472+09:00"
+    "19484f3c3e82ef8938dd5383202d6cb90216f33639be65fed3529408af3327ae": "2026-11-03T09:02:36.210472+09:00",
+    "bad1f8976c9a7452860324a9eb316ee78bd833555af1725b2c7cb6ecbf486a02": "2026-11-03T10:02:35.087618+09:00",
+    "0e586c9c89f36d7a07e67b120e08422053be8451957c917d8a3af285526d45a2": "2026-11-03T10:02:35.087618+09:00"
   },
   "pending": {
-    "https://www.gukjenews.com/news/articleView.html?idxno=3740327": {
-      "title": "포스코 노사 임금협상 잠정합의…광양시 \"지역경제에 의미\"",
-      "summary": "포스코 노사 임금협상 잠정합의안이 2일 도출됐다. 광양시청 청사 사진. ⓒ 광양시 광양시는 환영의 뜻을... 포스코 의 안정적인 생산활동이 협력업체 경영, 노동자 고용, 지역 소상공인 생계 등 지역경제 전반과 밀접하게...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3740327",
-      "date": "Tue, 03 Nov 2026 08:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.newsway.co.kr/news/view?ud=2026110308164721207": {
-      "title": "포스코 홀딩스, 깜짝 실적에도 '뚝' 떨어진 목표가…이유는[애널리스트의...",
-      "summary": "포스코 홀딩스가 3분기 시장 예상치를 웃도는 실적을 냈지만 증권사들은 잇따라 목표주가를 낮췄다. 철강... 3일 금융투자업계에 따르면 NH투자증권은 포스코 홀딩스의 목표주가를 45만원에서 41만원으로 8.9% 낮췄다....",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026110308164721207",
-      "date": "Tue, 03 Nov 2026 08:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.yna.co.kr/view/AKR20261103030000008?input=1195m": {
-      "title": "삼성증권 \" 포스코 인터, 에너지 사업 견고한 실적 흐름 지속\"",
-      "summary": "삼성증권은 3일 포스코 인터내셔널에 대해 \"에너지 사업의 견고한 실적 흐름이 지속되고 있다\"며 투자의견 '매수'와 목표주가 8만원을 유지한다고 밝혔다. 전장 종가는 5만1천400원이다. 백재승 연구원은 \"3분기 연결...",
-      "url": "https://www.yna.co.kr/view/AKR20261103030000008?input=1195m",
-      "date": "Tue, 03 Nov 2026 08:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.etoday.co.kr/news/view/2643299": {
-      "title": "메리츠증권 \"POSCO 홀딩스 , 주주환원·내년 실적 개선 주목\"",
-      "summary": "POSCO 홀딩스 는 자회사 지분 유동화 대금의 10%를 주주에게 환원한다는 기존 방침에 따라 포스코 인터내셔널과 포스코 DX의 주가수익스와프(PRS) 거래 대금 중 약 2500억원을 연내 자사주 매입·소각에 활용할 계획이다. 향후...",
-      "url": "https://www.etoday.co.kr/news/view/2643299",
-      "date": "Tue, 03 Nov 2026 08:32:00 +0900",
+    "https://www.sedaily.com/article/20109416?ref=naver": {
+      "title": "포스코 인터, 에너지·팜 실적 호조…美 LNG로 수익 기회 넓혀[줍줍리포...",
+      "summary": "포스코 인터내셔널이 에너지와 팜 사업 호조로 시장 기대를 웃도는 3분기 실적을 거둔 가운데 미국산... 3일 IBK투자증권은 보고서를 통해 포스코 인터내셔널의 3분기 영업이익이 4007억 원으로 시장 기대치 3888억 원을...",
+      "url": "https://www.sedaily.com/article/20109416?ref=naver",
+      "date": "Tue, 03 Nov 2026 09:01:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -2069,127 +2028,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.newsis.com/view/NISX20261101_0003849550": {
-      "title": "경북도내 공장 ·사찰화재 등 잇따라…1명 부상",
-      "summary": "경북도내 공장 과 사찰에서 화재가 발생하고 공사현장 근로자 다치는 사고 가 잇따라 발생했다. 1일... 앞서 같은달 31일 오후 6시45분께 칠곡 군 지천면 창평리의 한 폐기물 처리 공장 에서 원인을 알 수 없는 불이 나 5시간...",
-      "url": "https://www.newsis.com/view/NISX20261101_0003849550",
-      "date": "Sun, 01 Nov 2026 09:07:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.kbmaeil.com/article/20261101500094": {
-      "title": "에코프로 , 정기 임원 인사 단행...부사장 3명·상무 11명 승진",
-      "summary": "에코프로 그룹이 미래 경쟁력 강화와 차세대 경영 인재 육성을 위해 정기 임원 인사를 단행했다. 에코프로 그룹은 1일 부사장 3명, 상무 11명 등 총 14명을 승진시키는 임원 인사를 실시했다고 밝혔다. 이번 인사는 임원을...",
-      "url": "https://www.kbmaeil.com/article/20261101500094",
-      "date": "Sun, 01 Nov 2026 09:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "주요인물·기관 인사",
-      "priority": 90,
-      "needs_ai": false,
-      "filter_version": 12
-    },
-    "https://www.seoul.co.kr/news/society/2026/11/01/20261101500010?wlog_tag3=naver": {
-      "title": "파업 확대 앞두고 포스코 노사 극적 합의… 7일 조합원 찬반투표",
-      "summary": "한국노총 금속노련 포스코 노동조합( 포스코 노조)은 오는 7일 오전 6시부터 오후 5시까지 임금교섭 잠정 합의안을 놓고 조합원 찬반투표를 한다고 1일 밝혔다. 조합원 찬반투표에서 과반이 찬성하면 합의안은 추인된다....",
-      "url": "https://www.seoul.co.kr/news/society/2026/11/01/20261101500010?wlog_tag3=naver",
-      "date": "Sun, 01 Nov 2026 09:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "파업 확대 앞두고 포스코 노사 극적 합의… 7일 조합원 찬반투표",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.sentv.co.kr/article/view/sentv202611010006": {
-      "title": "포스코 노조, 임금협상 잠정합의…7일 찬반투표",
-      "summary": "포스코 노동조합이 회사 측과 마련한 임금협상 잠정 합의안을 놓고 오는 7일 조합원 찬반투표를 실시한다. 투표에서 과반이 찬성하면 약 4개월간 이어진 임금협상이 최종 마무리된다. 1일 한국노총 금속노련 포스코 노동...",
-      "url": "https://www.sentv.co.kr/article/view/sentv202611010006",
-      "date": "Sun, 01 Nov 2026 09:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조, 임금협상 잠정합의…7일 찬반투표",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.yna.co.kr/view/AKR20261101014100053?input=1195m": {
-      "title": "포스코 노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
-      "summary": "지난달 30일 회사 측과 기본급 2.6% 인상 등 잠정 합의안 도출 한국노총 금속노련 포스코 노동조합( 포스코 노조)은 7일 오전 6시부터 오후 5시까지 임금교섭 잠정 합의안을 놓고 조합원 찬반투표를 한다고 1일 밝혔다....",
-      "url": "https://www.yna.co.kr/view/AKR20261101014100053?input=1195m",
-      "date": "Sun, 01 Nov 2026 09:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.sedaily.com/article/20108639?ref=naver": {
-      "title": "파국 막은 막판 타협… 포스코 , 3차 파업 철회하고 현장 안정화 수순",
-      "summary": "■ 4개월 협상 끝에 나온 기본급 합의: 포스코 노사가 기본급 2.6% 인상을 골자로 한 임단협 잠정 합의안을... 포스코 3차 파업 피했다… 노사, 기본급 2.6% 인상 합의 핵심 요약: 포스코 노사가 기본급 2.6% 인상, 일시금...",
-      "url": "https://www.sedaily.com/article/20108639?ref=naver",
-      "date": "Sun, 01 Nov 2026 09:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "파국 막은 막판 타협… 포스코 , 3차 파업 철회하고 현장 안정화 수순",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.newsis.com/view/NISX20261101_0003849634": {
       "title": "포스코 노조, 7일 임금교섭 잠정합의안 찬반투표",
       "summary": "포스코 노사가 2026년 임금교섭에서 마련한 잠정합의안에 대한 노동조합 찬반투표가 7일 실시된다. 1일 포스코 노동조합 등에 따르면 투표는 오는 7일 오전 6시부터 오후 5시까지 진행되며 투표 결과는 같은 날 오후 5시...",
@@ -7862,6 +7700,183 @@
       "priority": 70,
       "needs_ai": true,
       "filter_version": 12
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=236077": {
+      "title": "대구 고용노동청, 화재·폭발 위험 사업장 집중점검",
+      "summary": "경북 화학제품 제조 공장 에서 화재로 1명 사망 등 화재·폭발 사고 이다. 이에 대구 지방고용노동청은 사업장 자율점검을 통해 위험요인을 사전에 확인하고 개선하도록 안내한 뒤, 11월 13일까지 화재·폭발 위험 사업장을...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=236077",
+      "date": "Tue, 03 Nov 2026 09:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.imaeil.com/page/view/2026110308411969967": {
+      "title": "달성군 유가읍 공장 서 폭발 사고 … 2명 경상",
+      "summary": "26분쯤 달성군 유가읍의 한 금속 공장 에서 \"기계가 폭발했다\"는 신고가 접수됐다. 소방당국은 신고 3분 만인 오후 5시 29분쯤 현장에 도착해, 차량 33대와 인원 78명을 투입했다. 당시 불은 자체 진화된 상태였다. 이 사고 ...",
+      "url": "https://www.imaeil.com/page/view/2026110308411969967",
+      "date": "Tue, 03 Nov 2026 09:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.cnbnews.com/news/articleView.html?idxno=1022003": {
+      "title": "대구 시·달성군, 이수페타시스와 5천억 규모 7공장 증설 투자협약 체결",
+      "summary": "이번 협약으로 이수페타시스는 달성군 구지읍 대구 국가산업단지 2단계 부지 16만 9천㎡(약 5만 1천 평)에 5,000억 원을 투자해 7공장을 건립 할 계획이며 연매출 5,000억 원 창출을 목표로 삼고 있다. 대구 시와 달성군은...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022003",
+      "date": "Tue, 03 Nov 2026 09:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "대구 시·달성군, 이수페타시스와 5천억 규모 7공장 증설 투자협약 체결",
+        "provider": "gemini",
+        "scope_label": "관내: 달성군, 대구",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.news1.kr/local/gwangju-jeonnam/6340934": {
+      "title": "조상열 대동 문화재단 대표, 제61회 잡지의 날 '경영상' 수상",
+      "summary": "(사) 대동 문화재단은 조상열 대표가 문화체육관광부와 (사)한국잡지협회가 주최한 '제61회 잡지의 날... 전날 한국프레스센터 국제회의장에서 열린 기념식에서 조 대표는 격월간 문화잡지 ' 대동 문화'를 발행, 지역문화...",
+      "url": "https://www.news1.kr/local/gwangju-jeonnam/6340934",
+      "date": "Tue, 03 Nov 2026 09:55:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.cbci.co.kr/news/articleView.html?idxno=622484": {
+      "title": "포스코 퓨처엠, 17만원대 올라서며 1.42% 상승…3분기 영업이익 전분기 대...",
+      "summary": "포스코 퓨처엠 CI [단박에 - CBC뉴스 | CBCNEWS] 포스코 퓨처엠이 3일 장중 상승세를 나타내며 17만원대에서 거래되고 있다. 올해 3분기 영업이익이 전분기보다 200% 이상 증가한 가운데 양극재 사업 회복과 신규 배터리...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=622484",
+      "date": "Tue, 03 Nov 2026 09:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.sedaily.com/article/20109416?ref=naver": {
+      "title": "포스코 인터, 에너지·팜 실적 호조…美 LNG로 수익 기회 넓혀[줍줍리포...",
+      "summary": "포스코 인터내셔널이 에너지와 팜 사업 호조로 시장 기대를 웃도는 3분기 실적을 거둔 가운데 미국산... 3일 IBK투자증권은 보고서를 통해 포스코 인터내셔널의 3분기 영업이익이 4007억 원으로 시장 기대치 3888억 원을...",
+      "url": "https://www.sedaily.com/article/20109416?ref=naver",
+      "date": "Tue, 03 Nov 2026 09:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zTm1uWE5yMDIxMmx4bFVzUlVLa2dneG9XVEVWbVRUTWdwSVlMeEpzeDdZQ0kyUWNBYWt4MlJJZUJJYTZpLWhuelV0al9BUmtGZndPTGtaRml5TUZZREhFbmVYazN4QQ?oc=5": {
+      "title": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 - 포커스데일리",
+      "summary": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 포커스데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zTm1uWE5yMDIxMmx4bFVzUlVLa2dneG9XVEVWbVRUTWdwSVlMeEpzeDdZQ0kyUWNBYWt4MlJJZUJJYTZpLWhuelV0al9BUmtGZndPTGtaRml5TUZZREhFbmVYazN4QQ?oc=5",
+      "date": "Tue, 03 Nov 2026 00:34:12 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 - 포커스데일리",
+        "provider": "gemini",
+        "scope_label": "관내: 달성군, 대구",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE43Q2Z5MWVRdzMwM2ZYcExMS1dobXBPWWlaREVwa2t3Q1ZLMTZLVXdtd1N3TDZCTk8xRDMxOUVhSV9mbTdyb3E0RTJlaEZvNjZGS0dnZFpqa29QRk1QY2Q1ZG9VVy03UlhVN0Rmb3pkRG9tQVU?oc=5": {
+      "title": "이수페타시스, 달성군 국가산단에 7공장 건립 추진…5000억원 투자 계획 - 오늘경제",
+      "summary": "이수페타시스, 달성군 국가산단에 7공장 건립 추진…5000억원 투자 계획 오늘경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43Q2Z5MWVRdzMwM2ZYcExMS1dobXBPWWlaREVwa2t3Q1ZLMTZLVXdtd1N3TDZCTk8xRDMxOUVhSV9mbTdyb3E0RTJlaEZvNjZGS0dnZFpqa29QRk1QY2Q1ZG9VVy03UlhVN0Rmb3pkRG9tQVU?oc=5",
+      "date": "Tue, 03 Nov 2026 00:02:14 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "이수페타시스, 달성군 국가산단에 7공장 건립 추진…5000억원 투자 계획 - 오늘경제",
+        "provider": "gemini",
+        "scope_label": "관내: 달성군",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ybGxNaTF6RFFkNFdMcUhiTWR0UHU0elo4ZEw4cURGdnRBemFqU3ZHbUg2Y1dNNUgxQXlkemZPMGtJRGEtNDBXVXN5VDVoOEFwRTExcWRSYWMzbTh4MEx6Z0lLWXpXUQ?oc=5": {
+      "title": "\"삼성SDS, 구미에 AI 미래 심는다\"…60MW 데이터센터 건립 첫 삽 - 포커스데일리",
+      "summary": "\"삼성SDS, 구미에 AI 미래 심는다\"…60MW 데이터센터 건립 첫 삽 포커스데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ybGxNaTF6RFFkNFdMcUhiTWR0UHU0elo4ZEw4cURGdnRBemFqU3ZHbUg2Y1dNNUgxQXlkemZPMGtJRGEtNDBXVXN5VDVoOEFwRTExcWRSYWMzbTh4MEx6Z0lLWXpXUQ?oc=5",
+      "date": "Tue, 03 Nov 2026 00:10:14 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "\"삼성SDS, 구미에 AI 미래 심는다\"…60MW 데이터센터 건립 첫 삽 - 포커스데일리",
+        "provider": "gemini",
+        "scope_label": "관내: 구미",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RLVJJZ3VzU2NXZUJ4NUlPd1k2eE1EX2huczZDT2lQbXpVTGRGSER1Q1NmRVJqUkxiTWY4TmVsd1cxb1dYN0ZON0VOUllXcWo5a2o0MFpfbnJ0LTM5ek96Ny04Nk1DYzEy?oc=5": {
+      "title": "포스코퓨처엠, 17만원대 올라서며 1.42% 상승…3분기 영업이익 전분기 대비 207% 급증 - CBC뉴스",
+      "summary": "포스코퓨처엠, 17만원대 올라서며 1.42% 상승…3분기 영업이익 전분기 대비 207% 급증 CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RLVJJZ3VzU2NXZUJ4NUlPd1k2eE1EX2huczZDT2lQbXpVTGRGSER1Q1NmRVJqUkxiTWY4TmVsd1cxb1dYN0ZON0VOUllXcWo5a2o0MFpfbnJ0LTM5ek96Ny04Nk1DYzEy?oc=5",
+      "date": "Tue, 03 Nov 2026 00:39:49 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
     }
   },
   "brief_sent": {
@@ -8514,6 +8529,16 @@
       "url": "https://www.segye.com/newsView/20261103503141?OutUrl=naver",
       "title": "대구 달성군 금속 공장 서 희토류 분쇄기 폭발…20대 작업자 2명 화상",
       "date": "Tue, 03 Nov 2026 08:53:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/gwangju-jeonnam/6340934",
+      "title": "조상열 대동 문화재단 대표, 제61회 잡지의 날 '경영상' 수상",
+      "date": "Tue, 03 Nov 2026 09:55:00 +0900"
+    },
+    {
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=236077",
+      "title": "대구 고용노동청, 화재·폭발 위험 사업장 집중점검",
+      "date": "Tue, 03 Nov 2026 09:42:00 +0900"
     }
   ],
   "brief_articles": [
@@ -8579,7 +8604,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 7
+    "2026-11-03": 9
   },
   "ai_cooldowns": {}
 }
