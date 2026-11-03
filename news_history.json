@@ -2026,156 +2026,99 @@
     "176fd6aa629a00a82bd938f73b83b854167a23b06a6c68212295b376eb774034": "2026-11-03T15:02:50.871570+09:00"
   },
   "pending": {
-    "https://lawtalknews.co.kr/article/NTP5P5SE6JYX": {
-      "title": "우체통서 수거한 지갑 쓰레기통에 버린 우체국 직원…횡령일까 손괴일...",
-      "summary": "법무법인 에스엘 이성준 변호사는 “업무상횡령죄가 성립하려면 단순한 절차 위반이나 업무상 실수만으로는 부족하고, 타인의 재물을 자기 또는 제3자의 이익을 위하여 소유자인 것처럼 처분하려는 불법영득의사가...",
-      "url": "https://lawtalknews.co.kr/article/NTP5P5SE6JYX",
-      "date": "Tue, 03 Nov 2026 14:28:00 +0900",
+    "https://www.pressian.com/pages/articles/2026110315281909289": {
+      "title": "울진군, 세계수소엑스포서 국가산단 투자유치 총력",
+      "summary": "4~6일 킨텍스서 홍보관 운영…국내외 수소기업 유치 나서 경북 울진군이 원자력수소 국가산업단지 입주... 업무협약( MOU ) 현황도 제공한다. 이번 박람회에는 26개국 261개 기업·기관이 참가해 수소생산부터 저장·운송...",
+      "url": "https://www.pressian.com/pages/articles/2026110315281909289",
+      "date": "Tue, 03 Nov 2026 15:40:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 0,
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
       "needs_ai": true,
       "filter_version": 12,
-      "review": "AI 관련성 낮음"
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
     },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mVi14VG03MGRrY1lkOENQNjRSRWg1cGI5YmJUMFFPRThJNjlHbHYtNk42SVR0UXN6SEZWMVpZbldkMmNUR3lYWHgwRExvMnRDVjZFOWdEaFlQR2hP?oc=5": {
-      "title": "[리포트 브리핑]포스코퓨처엠, '양극재 회복과 보상금, 그리고 LFP 수주' 목표가 290,000원 - DS투자증권 - 뉴스핌",
-      "summary": "[리포트 브리핑]포스코퓨처엠, '양극재 회복과 보상금, 그리고 LFP 수주' 목표가 290,000원 - DS투자증권 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mVi14VG03MGRrY1lkOENQNjRSRWg1cGI5YmJUMFFPRThJNjlHbHYtNk42SVR0UXN6SEZWMVpZbldkMmNUR3lYWHgwRExvMnRDVjZFOWdEaFlQR2hP?oc=5",
-      "date": "Tue, 03 Nov 2026 05:07:00 GMT",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304113": {
+      "title": "포스코 퓨처엠, 현대차그룹과 베트남 음극재 협력…1000억 투자 유치 추...",
+      "summary": "포스코 퓨처엠이 현대자동차그룹과 베트남 인조흑연 음극재 사업 협력에 나선다. 현대차그룹은 1000억원 규모의 지분투자를 검토하고 해당 소재의 우선구매권 확보를 추진한다. 포스코 퓨처엠은 현대차그룹과 베트남...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304113",
+      "date": "Tue, 03 Nov 2026 15:50:00 +0900",
       "channels": [
         "domestic"
       ],
       "basis": "관심기업: 포스코퓨처엠",
       "category": "경제·투자",
-      "priority": 0,
+      "priority": 70,
       "needs_ai": true,
       "filter_version": 12,
-      "review": "AI 관련성 낮음"
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
+    },
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=601733": {
+      "title": "이익 급증에도 웃지 못하는 포스코 퓨처엠⋯13조 수주액 2조원대 '뚝'",
+      "summary": "포스코 퓨처엠이 올해 3분기 영업이익을 전 분기보다 3배 이상 늘리며 수익성 개선에 대한 기대감을... 포스코 퓨처엠이 지난 2일 공시한 연결 기준 잠정 실적에 따르면 올해 1~9월 누적 매출액은 2조2717억원으로...",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601733",
+      "date": "Tue, 03 Nov 2026 15:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfWjhXalhQS0paNHFuQTN1dzFwbVRudkthTmpsSjRiSU1QYmpsckNqT1hURjNyNEdEQ0xjUU91cVBXNmx3bklPZEV3MkdxVzY1WDlVRnZqVHNDVVUzc3NMUnNRNkVEZUVWWkc0YmxwSV9JOGp0Snc?oc=5": {
+      "title": "현대차그룹과 손잡은 포스코퓨처엠..베트남 인조흑연 음극재 사업 협력, 1천억 투자 유치(?) - 데일리카",
+      "summary": "현대차그룹과 손잡은 포스코퓨처엠..베트남 인조흑연 음극재 사업 협력, 1천억 투자 유치(?) 데일리카",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfWjhXalhQS0paNHFuQTN1dzFwbVRudkthTmpsSjRiSU1QYmpsckNqT1hURjNyNEdEQ0xjUU91cVBXNmx3bklPZEV3MkdxVzY1WDlVRnZqVHNDVVUzc3NMUnNRNkVEZUVWWkc0YmxwSV9JOGp0Snc?oc=5",
+      "date": "Tue, 03 Nov 2026 06:13:30 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lNVZfTE1WTGdSYlNQWE1GWnhvcUdxRlNqTS1qTWpRYWdVcUNMQ2R5MGt1bTI0d2hYb3RwVWpsLUlmMXlQMzBORk83UXBnMUZjeWs0?oc=5": {
+      "title": "Hyundai Motor invests 100 billion won in POSCO Future M's Vietnam plant... \"Battery alliance is strengthening\" - 매일경제",
+      "summary": "Hyundai Motor invests 100 billion won in POSCO Future M's Vietnam plant... \"Battery alliance is strengthening\" 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lNVZfTE1WTGdSYlNQWE1GWnhvcUdxRlNqTS1qTWpRYWdVcUNMQ2R5MGt1bTI0d2hYb3RwVWpsLUlmMXlQMzBORk83UXBnMUZjeWs0?oc=5",
+      "date": "Tue, 03 Nov 2026 06:22:02 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
     }
   },
   "ai": {
     "2026-10-28": 17,
-    "2026-10-29": 62
+    "2026-10-29": 62,
+    "2026-11-03": 1
   },
   "cursor": 0,
   "archive": {
-    "https://www.dkilbo.com/news/articleView.html?idxno=559171": {
-      "title": "24 조원대 투자 유치' 구미시… 반도체·로봇,이차전지등 첨단산업 경제...",
-      "summary": "BaaS시험실증센터는 부지 2만4576㎡,연면적 3232㎡ 규모로 경북도는 KTR 경북거점을 2028년까지 대구 ·경북... 또한 산동읍 성수 도시개발지구 247,641㎡ 2710 세대 아파트 건립 과 인근 흥안 지구 3215 세대, 인덕지구 1041세대...",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=559171",
-      "date": "Sun, 01 Nov 2026 15:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역언론 경제·정책",
-        "score": 80,
-        "evidence": "24 조원대 투자 유치' 구미시… 반도체·로봇,이차전지등 첨단산업 경제...",
-        "provider": "gemini",
-        "scope_label": "관내: 구미",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089156": {
-      "title": "의성, 바이오·푸드테크 거점 시동…416억 원 산업단지 준공",
-      "summary": "농림축산식품부와 경북 도 관계자, 국회의원, 의성군의회 관계자, 기업인 등이 참석할 예정이며, 사업 경과보고와 유공자 포상, 기업 투자협약 , 비전 선포에 이어 주요 시설을 둘러보는 일정으로 진행된다. 투자협약 에...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089156",
-      "date": "Sun, 01 Nov 2026 15:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역언론 경제·정책",
-        "score": 80,
-        "evidence": "의성, 바이오·푸드테크 거점 시동…416억 원 산업단지 준공",
-        "provider": "gemini",
-        "scope_label": "관내: 의성",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.dynews.co.kr/news/articleView.html?idxno=871873": {
-      "title": "현장 중심 경영 강화… 에코프로 그룹, 부사장 등 14명 임원 인사 단행",
-      "summary": "［동양일보 홍승태 기자］ 사진 에코프로 충북 청주 오창 뿌리기업인 에코프로 그룹이 미래 경쟁력 강화와 차세대 경영 인재 육성을 위해 부사장 3명, 상무 11명 등 모두 14명의 임원 인사를 단행했다. 에코프로 는 이번...",
-      "url": "https://www.dynews.co.kr/news/articleView.html?idxno=871873",
-      "date": "Sun, 01 Nov 2026 15:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "주요인물·기관 인사",
-      "priority": 90,
-      "needs_ai": false,
-      "filter_version": 12
-    },
-    "https://www.hidomin.com/news/articleView.html?idxno=727401": {
-      "title": "정원석 포항 시의원 \"포엑스 건립 보다 운영이 중요… 포항 형 전략 서둘러...",
-      "summary": "정 의원은 마지막으로 \" 건립 초기의 문제점을 제대로 해결하지 못한 채 시행착오를 되풀이해서는 안 된다\"며 \" 포항 의 경제 상황과 재정 여건이 녹록지 않은 만큼 포항 시와 재단이 책임 있는 역할을 다해야 한다\"고...",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=727401",
-      "date": "Sun, 01 Nov 2026 15:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역언론 경제·정책",
-        "score": 80,
-        "evidence": "정원석 포항 시의원 \"포엑스 건립 보다 운영이 중요… 포항 형 전략 서둘러...",
-        "provider": "gemini",
-        "scope_label": "관내: 포항",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.e2news.com/news/articleView.html?idxno=335665": {
-      "title": "홍의락 가스 公 사장 취임 이후 인천LNG기지서 첫 현장 이사회 개최",
-      "summary": "한국가스공사 (사장 홍의락)는 30일 인천생산기지에서 홍의락 사장을 비롯한 이사진 전원이 참석한 가운데 '현장 이사회'를 개최하고, LNG 하역설비 안전관리 실태를 점검한 후 현장에서 직원 간담회를 진행했다. 이번 현장...",
-      "url": "http://www.e2news.com/news/articleView.html?idxno=335665",
-      "date": "Sun, 01 Nov 2026 15:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.metroseoul.co.kr/article/20261101500219": {
-      "title": "홍의락 가스공사 사장, 취임 후 첫 현장 이사회 \"LNG 하역설비 등 안전 ...",
-      "summary": "경영 의사결정과 현장 안전관리 연계… 안정적 천연가스 공급기반 다진다 가스공사 인천생산기지 현장 안전점검(왼쪽 3번째 홍의락 가스공사 사장) /사진= 한국가스공사 홍의락 한국가스공사 사장이 취임 이후 처음으로...",
-      "url": "http://www.metroseoul.co.kr/article/20261101500219",
-      "date": "Sun, 01 Nov 2026 15:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "https://www.cstimes.com/news/articleView.html?idxno=726095": {
       "title": "한수원·농어촌공사·수자원공사, '새만금 조력발전 공동개발' MOU 체결",
       "summary": "한국수력원자력 (한수원)은 한국농어촌공사, 한국수자원공사와 손잡고 새만금 조력발전사업의 성공적인 추진을 위한 공동개발 업무협약을 체결했다. 서명식은 지난 10월 30일 서울 중구 한수원 방사선보건원에서 진행됐다....",
@@ -8176,6 +8119,119 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
+    },
+    "https://www.pressian.com/pages/articles/2026110315281909289": {
+      "title": "울진군, 세계수소엑스포서 국가산단 투자유치 총력",
+      "summary": "4~6일 킨텍스서 홍보관 운영…국내외 수소기업 유치 나서 경북 울진군이 원자력수소 국가산업단지 입주... 업무협약( MOU ) 현황도 제공한다. 이번 박람회에는 26개국 261개 기업·기관이 참가해 수소생산부터 저장·운송...",
+      "url": "https://www.pressian.com/pages/articles/2026110315281909289",
+      "date": "Tue, 03 Nov 2026 15:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
+    },
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304113": {
+      "title": "포스코 퓨처엠, 현대차그룹과 베트남 음극재 협력…1000억 투자 유치 추...",
+      "summary": "포스코 퓨처엠이 현대자동차그룹과 베트남 인조흑연 음극재 사업 협력에 나선다. 현대차그룹은 1000억원 규모의 지분투자를 검토하고 해당 소재의 우선구매권 확보를 추진한다. 포스코 퓨처엠은 현대차그룹과 베트남...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304113",
+      "date": "Tue, 03 Nov 2026 15:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
+    },
+    "https://magazine.hankyung.com/business/article/202611033101b": {
+      "title": "포스코 퓨처엠, 현대차그룹과 베트남 음극재 동맹…1000억 투자 유치 추...",
+      "summary": "포스코 퓨처엠이 현대자동차그룹과 베트남 인조흑연 음극재 사업 협력에 나선다. 현대차그룹은 사업에 1000억원 규모의 지분투자를 검토하고 음극재 우선구매권 확보를 추진하기로 했다. 포스코 퓨처엠은 투자 재원과...",
+      "url": "https://magazine.hankyung.com/business/article/202611033101b",
+      "date": "Tue, 03 Nov 2026 15:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=601733": {
+      "title": "이익 급증에도 웃지 못하는 포스코 퓨처엠⋯13조 수주액 2조원대 '뚝'",
+      "summary": "포스코 퓨처엠이 올해 3분기 영업이익을 전 분기보다 3배 이상 늘리며 수익성 개선에 대한 기대감을... 포스코 퓨처엠이 지난 2일 공시한 연결 기준 잠정 실적에 따르면 올해 1~9월 누적 매출액은 2조2717억원으로...",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601733",
+      "date": "Tue, 03 Nov 2026 15:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abHhySk5ObHZUT1JNTDRSb0RIQU1iMXhQOFlKTzVoNEI1aFFBeTVCSTZQS3VIU19DbkRTcGI1U1VOeUF4eVg4Y1JKMDd4OEpKMFBEMmxJQmI2V2Z6NldRSkc4SlQzMlhJSzhMQ2ZNcw?oc=5": {
+      "title": "포스코퓨처엠, 현대차그룹과 베트남 음극재 협력…1000억 투자 유치 추진 - 뉴스퀘스트",
+      "summary": "포스코퓨처엠, 현대차그룹과 베트남 음극재 협력…1000억 투자 유치 추진 뉴스퀘스트",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abHhySk5ObHZUT1JNTDRSb0RIQU1iMXhQOFlKTzVoNEI1aFFBeTVCSTZQS3VIU19DbkRTcGI1U1VOeUF4eVg4Y1JKMDd4OEpKMFBEMmxJQmI2V2Z6NldRSkc4SlQzMlhJSzhMQ2ZNcw?oc=5",
+      "date": "Tue, 03 Nov 2026 06:50:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfWjhXalhQS0paNHFuQTN1dzFwbVRudkthTmpsSjRiSU1QYmpsckNqT1hURjNyNEdEQ0xjUU91cVBXNmx3bklPZEV3MkdxVzY1WDlVRnZqVHNDVVUzc3NMUnNRNkVEZUVWWkc0YmxwSV9JOGp0Snc?oc=5": {
+      "title": "현대차그룹과 손잡은 포스코퓨처엠..베트남 인조흑연 음극재 사업 협력, 1천억 투자 유치(?) - 데일리카",
+      "summary": "현대차그룹과 손잡은 포스코퓨처엠..베트남 인조흑연 음극재 사업 협력, 1천억 투자 유치(?) 데일리카",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfWjhXalhQS0paNHFuQTN1dzFwbVRudkthTmpsSjRiSU1QYmpsckNqT1hURjNyNEdEQ0xjUU91cVBXNmx3bklPZEV3MkdxVzY1WDlVRnZqVHNDVVUzc3NMUnNRNkVEZUVWWkc0YmxwSV9JOGp0Snc?oc=5",
+      "date": "Tue, 03 Nov 2026 06:13:30 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lNVZfTE1WTGdSYlNQWE1GWnhvcUdxRlNqTS1qTWpRYWdVcUNMQ2R5MGt1bTI0d2hYb3RwVWpsLUlmMXlQMzBORk83UXBnMUZjeWs0?oc=5": {
+      "title": "Hyundai Motor invests 100 billion won in POSCO Future M's Vietnam plant... \"Battery alliance is strengthening\" - 매일경제",
+      "summary": "Hyundai Motor invests 100 billion won in POSCO Future M's Vietnam plant... \"Battery alliance is strengthening\" 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lNVZfTE1WTGdSYlNQWE1GWnhvcUdxRlNqTS1qTWpRYWdVcUNMQ2R5MGt1bTI0d2hYb3RwVWpsLUlmMXlQMzBORk83UXBnMUZjeWs0?oc=5",
+      "date": "Tue, 03 Nov 2026 06:22:02 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "미검토",
+      "ai_wait_reason": "gemini: HTTP 402; groq: HTTP 429",
+      "ai_failure_kind": "request"
     }
   },
   "brief_sent": {
@@ -8953,7 +9009,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 21
+    "2026-11-03": 22
   },
   "ai_cooldowns": {}
 }
