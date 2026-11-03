@@ -1264,7 +1264,8 @@
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOek1UZk4zSk9ycWFGaEpLaDlNY3oybE01MWpRaEFoMVNOVWlRZUpIU2ZyNWEzMWZtRndWUk85ekl1SGU5UGJobnNoRzdNeWo5YWlqSHVoMmZDdjdSSmIxZ0FBbl9PRGlUcTBjX1huZ0doVzNtdWt5ZVZ2SnhvSHZpVkdtOUE3c2hnZGtIcXdTOS1OenZNdl9ZRTZoeFBrWGpIbFlPSEMwWERsNzF5bkhiRTNnbUI3WVpqcFhMeF8yOVNId9IBxwFBVV95cUxOVy1pYzlKRWgwcXRFR1ZzT0ctdjBPdmpjTW1TNlNkVDR1U2l1WXBtOVA5aTVaZzhyQ3VTcmRlM0p2NUw2eHh4cV9zY1ZpblJwQnJfbF9pY3kweDJXZmotXzRnVHlobUFIb09KM1JJQ2NqcjFkUVlVYl9LSHZNcy1vNFItRTgwQkdLdnI0Zy1VRTh4dEc2R25lX3lJMHN6bkJXOGlMbmwxd2lWZWJRS000aWxidjNrbkFheDl3QUU2T2hXaVBmRVVB?oc=5": "2026-11-03T17:03:06.006852+09:00",
     "https://www.getnews.co.kr/news/articleView.html?idxno=885843": "2026-11-03T17:03:06.006852+09:00",
     "https://www.smartbizn.com/news/articleView.html?idxno=158335": "2026-11-03T17:03:06.006852+09:00",
-    "http://www.finomy.com/news/articleView.html?idxno=265506": "2026-11-03T18:02:51.147894+09:00"
+    "http://www.finomy.com/news/articleView.html?idxno=265506": "2026-11-03T18:02:51.147894+09:00",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365": "2026-11-03T19:02:45.192077+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2031,41 +2032,10 @@
     "0367dd4744aa168d3381145671b46b289a37396c8291298984d6d00919e34a01": "2026-11-03T17:03:06.006852+09:00",
     "05c1ae11adba5d225c443579f29f939bbf02cd27e529606e0780d90b1276172f": "2026-11-03T17:03:06.006852+09:00",
     "bf2242327c74542cf9bd64e404299c16397dea04eacd8d2e1842f4626a562c90": "2026-11-03T17:03:06.006852+09:00",
-    "069386bb38a89df9fb80516c07ab87d1cc67bd7046d0394f8618347a801af0be": "2026-11-03T18:02:51.147894+09:00"
+    "069386bb38a89df9fb80516c07ab87d1cc67bd7046d0394f8618347a801af0be": "2026-11-03T18:02:51.147894+09:00",
+    "d25e6564ec33f2004a4f56c1bbbede2c024ab367a8a2955b857ef35169f2ec77": "2026-11-03T19:02:45.192077+09:00"
   },
-  "pending": {
-    "https://www.seoulfn.com/news/articleView.html?idxno=641827": {
-      "title": "경북교육청, 교육공무직 인사 ·노무관리 실무 역량 강화 나서",
-      "summary": "경북교육청은 이달 3~4일 이틀간 영덕 파나크 오퍼레이티드 바이 소노( 영덕 바이 소노벨)에서 도내 22개 교육지원청 교육공무직 인사 업무담당자 24명을 대상으로 '4세대 지능형 나이스 교육공무직 인사 및 노무관리 분야...",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641827",
-      "date": "Tue, 03 Nov 2026 17:25:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEx4cEx3cHN0Rmg5cWZDLWtKMFlzMXhSVldpQXljeGJaU2dfblh0NFJDbG9Lc0g3NXdIVU9FbGhLcWZGcExoWlUzUXNzOUNXcWJibUZtbzZEQVoxVW9NeUVFZHlWd0hDMF9hU1lFNXhzSi1kNC1tNUVrQ0pNUHRMWnNUdU53UmJTd3NTYkQtYTdHZnBuS2RVNWc4MWFXaExEYzVZ?oc=5": {
-      "title": "Daegu Moves to Ease Investment Rules as Isu Petasys Expands - Seoul Economic Daily",
-      "summary": "Daegu Moves to Ease Investment Rules as Isu Petasys Expands Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEx4cEx3cHN0Rmg5cWZDLWtKMFlzMXhSVldpQXljeGJaU2dfblh0NFJDbG9Lc0g3NXdIVU9FbGhLcWZGcExoWlUzUXNzOUNXcWJibUZtbzZEQVoxVW9NeUVFZHlWd0hDMF9hU1lFNXhzSi1kNC1tNUVrQ0pNUHRMWnNUdU53UmJTd3NTYkQtYTdHZnBuS2RVNWc4MWFXaExEYzVZ?oc=5",
-      "date": "Tue, 03 Nov 2026 08:32:58 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
-      "review": "AI 관련성 낮음"
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62,
@@ -8395,6 +8365,52 @@
       "filter_version": 12,
       "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
       "review": "AI 관련성 낮음"
+    },
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365": {
+      "title": "대구 ·달성·이수페타시스, 5천억 원 투자협약",
+      "summary": "AI용 PCB 수요 폭발에 1조 매출 기업, 생산 거점 3개 산단으로 확장 달성군· 대구 시·이수페타시스, 5천억 원... 한편, 달성군은 국가산단 입주 기업과 근로자 의 편의를 높이기 위해 교통 인프라 확충에도 나선다. 2027년 4월...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365",
+      "date": "Tue, 03 Nov 2026 18:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "AI용 PCB 수요 폭발에 1조 매출 기업, 생산 거점 3개 산단으로 확장 달성군· 대구 시·이수페타시스, 5천억 원...",
+        "provider": "gemini",
+        "scope_label": "관내: 대구",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304141": {
+      "title": "\"3분기 '깜짝 실적'은 시작일 뿐… 포스코 퓨처엠, 2027년 LFP·인조흑연으...",
+      "summary": "포스코 퓨처엠의 3분기 영업이익 기준 시장 기대치를 상회하는 실적을 기록했다. 유안타증권은 3일 포스코 퓨처엠에 대해 투자의견 BUY 및 목표주가 22만6000원을 유지했다. 직전거래일 2일 기준 주가는 16만8900원에...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304141",
+      "date": "Tue, 03 Nov 2026 19:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코 퓨처엠의 3분기 영업이익 기준 시장 기대치를 상회하는 실적을 기록했다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -9127,6 +9143,11 @@
       "url": "http://www.finomy.com/news/articleView.html?idxno=265506",
       "title": "한수원, 유럽 원전 디지털 기기 인증 협력···TUV 라인란드와 MOU",
       "date": "Tue, 03 Nov 2026 17:32:00 +0900"
+    },
+    {
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365",
+      "title": "대구 ·달성·이수페타시스, 5천억 원 투자협약",
+      "date": "Tue, 03 Nov 2026 18:40:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9192,7 +9213,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 28
+    "2026-11-03": 30
   },
   "ai_cooldowns": {}
 }
