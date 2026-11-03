@@ -1247,7 +1247,8 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jck9nUF9Bc2xsQmUzdGZZNUowZFgwSVpLdzZ3SEFRc1IyTndmWmh4Uzdud3VrTmFlTlVNTnJrUU1QODFHUENRMnhoWUNXRFpYVmg2cjJGN2UzZw?oc=5": "2026-11-02T18:03:21.936107+09:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qa2xtcEsyWWhuam93dFhsNjh0UFFvUHBHT2JVSFZHZWU5QlhnWldpb1owYS12clRCN0JJQzYxY3NCSGl4M3E3SGpfeXBOX0RoTTlET2E2TExwSlVnaWNET1RiVnQ5VU0?oc=5": "2026-11-02T19:03:29.123772+09:00",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2357773": "2026-11-02T21:02:41.172892+09:00",
-    "https://www.ksmnews.co.kr/news/view.php?idx=628084": "2026-11-02T21:02:41.172892+09:00"
+    "https://www.ksmnews.co.kr/news/view.php?idx=628084": "2026-11-02T21:02:41.172892+09:00",
+    "https://www.segye.com/newsView/20261103503141?OutUrl=naver": "2026-11-03T09:02:36.210472+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -1997,19 +1998,65 @@
     "0f13cafcf1674744804f880acbe95d4b7b1ed7628f9ba162a58cbe583bd3df1d": "2026-11-02T18:03:21.936107+09:00",
     "001c9ab683491cea25c61cc37edb426de52149a6b547d1792f7abb37da7ee57c": "2026-11-02T19:03:29.123772+09:00",
     "e631de1a1c3ddab28157989490a1933941f6639c52e4d868204d7593102185b1": "2026-11-02T21:02:41.172892+09:00",
-    "4ed9dcc88b9bca566232a6e6ad540b2203a8593ef8c9fb1c91c2078802e5a097": "2026-11-02T21:02:41.172892+09:00"
+    "4ed9dcc88b9bca566232a6e6ad540b2203a8593ef8c9fb1c91c2078802e5a097": "2026-11-02T21:02:41.172892+09:00",
+    "19484f3c3e82ef8938dd5383202d6cb90216f33639be65fed3529408af3327ae": "2026-11-03T09:02:36.210472+09:00"
   },
   "pending": {
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3JKd291MTIyeEF6eGE2Mk83Q1gwdzJUd2xYNF9oM09zSUZfOHFiV0ZnR2FpSExjaFo0WHo4Z29VbWVjdEpXVHRobEM0NVdOS1RwM2d6OWtEeWp1MEk0TjJjcFNzcTFsc3h4am5RTDI2ZmV1dXhwVGJobHhWVjVtNllSQzdrQi1lQks2VVpvU19UZWI5THh6OHQzM3FjdXFkVEdBQ3BVSEp1LVlheWJjd0NJdm9ONjNVdjFxNA?oc=5": {
-      "title": "POSCO Reports Higher Third-Quarter Revenue but Sharp Profit Declines - TipRanks",
-      "summary": "POSCO Reports Higher Third-Quarter Revenue but Sharp Profit Declines TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3JKd291MTIyeEF6eGE2Mk83Q1gwdzJUd2xYNF9oM09zSUZfOHFiV0ZnR2FpSExjaFo0WHo4Z29VbWVjdEpXVHRobEM0NVdOS1RwM2d6OWtEeWp1MEk0TjJjcFNzcTFsc3h4am5RTDI2ZmV1dXhwVGJobHhWVjVtNllSQzdrQi1lQks2VVpvU19UZWI5THh6OHQzM3FjdXFkVEdBQ3BVSEp1LVlheWJjd0NJdm9ONjNVdjFxNA?oc=5",
-      "date": "Mon, 02 Nov 2026 13:53:15 GMT",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3740327": {
+      "title": "포스코 노사 임금협상 잠정합의…광양시 \"지역경제에 의미\"",
+      "summary": "포스코 노사 임금협상 잠정합의안이 2일 도출됐다. 광양시청 청사 사진. ⓒ 광양시 광양시는 환영의 뜻을... 포스코 의 안정적인 생산활동이 협력업체 경영, 노동자 고용, 지역 소상공인 생계 등 지역경제 전반과 밀접하게...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3740327",
+      "date": "Tue, 03 Nov 2026 08:50:00 +0900",
       "channels": [
-        "global"
+        "domestic"
       ],
       "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.newsway.co.kr/news/view?ud=2026110308164721207": {
+      "title": "포스코 홀딩스, 깜짝 실적에도 '뚝' 떨어진 목표가…이유는[애널리스트의...",
+      "summary": "포스코 홀딩스가 3분기 시장 예상치를 웃도는 실적을 냈지만 증권사들은 잇따라 목표주가를 낮췄다. 철강... 3일 금융투자업계에 따르면 NH투자증권은 포스코 홀딩스의 목표주가를 45만원에서 41만원으로 8.9% 낮췄다....",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026110308164721207",
+      "date": "Tue, 03 Nov 2026 08:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.yna.co.kr/view/AKR20261103030000008?input=1195m": {
+      "title": "삼성증권 \" 포스코 인터, 에너지 사업 견고한 실적 흐름 지속\"",
+      "summary": "삼성증권은 3일 포스코 인터내셔널에 대해 \"에너지 사업의 견고한 실적 흐름이 지속되고 있다\"며 투자의견 '매수'와 목표주가 8만원을 유지한다고 밝혔다. 전장 종가는 5만1천400원이다. 백재승 연구원은 \"3분기 연결...",
+      "url": "https://www.yna.co.kr/view/AKR20261103030000008?input=1195m",
+      "date": "Tue, 03 Nov 2026 08:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.etoday.co.kr/news/view/2643299": {
+      "title": "메리츠증권 \"POSCO 홀딩스 , 주주환원·내년 실적 개선 주목\"",
+      "summary": "POSCO 홀딩스 는 자회사 지분 유동화 대금의 10%를 주주에게 환원한다는 기존 방침에 따라 포스코 인터내셔널과 포스코 DX의 주가수익스와프(PRS) 거래 대금 중 약 2500억원을 연내 자사주 매입·소각에 활용할 계획이다. 향후...",
+      "url": "https://www.etoday.co.kr/news/view/2643299",
+      "date": "Tue, 03 Nov 2026 08:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
@@ -2022,21 +2069,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.sentv.co.kr/article/view/sentv202610300201": {
-      "title": "IT서비스 업계, 3분기 실적 '희비'…삼성SDS 웃고 포스코 DX 흐림",
-      "summary": "오는 2일 실적 발표를 앞둔 포스코 DX는 영업익이 절반 가까이 줄어들 전망이다. 증권가 컨센서스에 따르면 3분기 매출은 2501억원, 영업익은 117억원으로 추정됐다. 작년 3분기에 비해 매출은 2.2% 증가하지만...",
-      "url": "https://www.sentv.co.kr/article/view/sentv202610300201",
-      "date": "Sun, 01 Nov 2026 08:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "https://www.newsis.com/view/NISX20261101_0003849550": {
       "title": "경북도내 공장 ·사찰화재 등 잇따라…1명 부상",
       "summary": "경북도내 공장 과 사찰에서 화재가 발생하고 공사현장 근로자 다치는 사고 가 잇따라 발생했다. 1일... 앞서 같은달 31일 오후 6시45분께 칠곡 군 지천면 창평리의 한 폐기물 처리 공장 에서 원인을 알 수 없는 불이 나 5시간...",
@@ -7677,6 +7709,159 @@
       "needs_ai": true,
       "filter_version": 12,
       "review": "AI 관련성 낮음"
+    },
+    "https://www.segye.com/newsView/20261103503141?OutUrl=naver": {
+      "title": "대구 달성군 금속 공장 서 희토류 분쇄기 폭발…20대 작업자 2명 화상",
+      "summary": "3일 소방당국 등에 따르면 전날 오후 5시26분쯤 대구 달성군 유가읍 한 금속 가공 공장 에서 기계가 폭발하는 사고 가 났다. 이 사고 로 20대 남성 작업자 2명이 손 등에 1~2도 화상을 입고 인근 병원으로 이송됐다. 사고 는...",
+      "url": "https://www.segye.com/newsView/20261103503141?OutUrl=naver",
+      "date": "Tue, 03 Nov 2026 08:53:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6340650": {
+      "title": "대구 달성 금속 공장 서 희토류 분쇄기 폭발…20대 2명 화상",
+      "summary": "3일 대구 소방본부 등에 따르면 전날 오후 5시26분쯤 달성군 유가읍의 한 금속 가공 공장 에서 희토류 분쇄 작업 중 기계가 폭발하는 사고 가 발생했다. 이 사고 로 20대 남성 작업자 2명이 손 등에 1~2도 화상을 입고 인근...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6340650",
+      "date": "Tue, 03 Nov 2026 08:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/03/2026110300043.html": {
+      "title": "달성군, 이수페타시스 5천억 투자협약 국가산단 생산기반 확장",
+      "summary": "협약에 따라 이수페타시스는 달성군 구지읍 대구 국가산업단지 2단계 부지 약 5만 1000평(약 16만 9000㎡)에 5000억 원을 투자해 7공장을 건립 할 계획이다. 대구 국가산단에 생산시설을 마련하는 것은 이번이 처음이다....",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/03/2026110300043.html",
+      "date": "Tue, 03 Nov 2026 08:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "협약에 따라 이수페타시스는 달성군 구지읍 대구 국가산업단지 2단계 부지 약 5만 1000평(약 16만 9000㎡)에 5000억 원을 투자해 7공장을 건립 할 계획이다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 이수페타시스",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3740327": {
+      "title": "포스코 노사 임금협상 잠정합의…광양시 \"지역경제에 의미\"",
+      "summary": "포스코 노사 임금협상 잠정합의안이 2일 도출됐다. 광양시청 청사 사진. ⓒ 광양시 광양시는 환영의 뜻을... 포스코 의 안정적인 생산활동이 협력업체 경영, 노동자 고용, 지역 소상공인 생계 등 지역경제 전반과 밀접하게...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3740327",
+      "date": "Tue, 03 Nov 2026 08:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.newsway.co.kr/news/view?ud=2026110308340771933": {
+      "title": "포스코 퓨처엠, 3분기 깜짝 실적에도 엇갈린 평가…LFP 양산 주목[애널리...",
+      "summary": "포스코 퓨처엠이 올해 3분기 시장 전망치를 크게 웃도는 영업이익을 기록했지만 고객사 보상금 등 일회성... 포스코 퓨처엠의 3분기 연결 매출액은 8348억원으로 전년 동기 대비 4.6% 감소했다. 영업이익은 821억원으로 23.2...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026110308340771933",
+      "date": "Tue, 03 Nov 2026 08:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://www.newsway.co.kr/news/view?ud=2026110308164721207": {
+      "title": "포스코 홀딩스, 깜짝 실적에도 '뚝' 떨어진 목표가…이유는[애널리스트의...",
+      "summary": "포스코 홀딩스가 3분기 시장 예상치를 웃도는 실적을 냈지만 증권사들은 잇따라 목표주가를 낮췄다. 철강... 3일 금융투자업계에 따르면 NH투자증권은 포스코 홀딩스의 목표주가를 45만원에서 41만원으로 8.9% 낮췄다....",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026110308164721207",
+      "date": "Tue, 03 Nov 2026 08:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.yna.co.kr/view/AKR20261103030000008?input=1195m": {
+      "title": "삼성증권 \" 포스코 인터, 에너지 사업 견고한 실적 흐름 지속\"",
+      "summary": "삼성증권은 3일 포스코 인터내셔널에 대해 \"에너지 사업의 견고한 실적 흐름이 지속되고 있다\"며 투자의견 '매수'와 목표주가 8만원을 유지한다고 밝혔다. 전장 종가는 5만1천400원이다. 백재승 연구원은 \"3분기 연결...",
+      "url": "https://www.yna.co.kr/view/AKR20261103030000008?input=1195m",
+      "date": "Tue, 03 Nov 2026 08:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.etoday.co.kr/news/view/2643299": {
+      "title": "메리츠증권 \"POSCO 홀딩스 , 주주환원·내년 실적 개선 주목\"",
+      "summary": "POSCO 홀딩스 는 자회사 지분 유동화 대금의 10%를 주주에게 환원한다는 기존 방침에 따라 포스코 인터내셔널과 포스코 DX의 주가수익스와프(PRS) 거래 대금 중 약 2500억원을 연내 자사주 매입·소각에 활용할 계획이다. 향후...",
+      "url": "https://www.etoday.co.kr/news/view/2643299",
+      "date": "Tue, 03 Nov 2026 08:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.jasm.co.kr/news/view/323885/?sc=Naver": {
+      "title": "DS투자증권 \" 포스코 퓨처엠, 3분기 깜짝 실적…목표가 유지\"",
+      "summary": "포스코 퓨처엠이 고객사 물량 미이행 보상금 반영과 양극재 판매 회복에 힘입어 올해 3분기 시장 전망치(컨센서스)를 크게 상회했다고 분석했다. 이에 투자의견 '매수'와 목표주가 29만원을 유지했다. 포스코 퓨...",
+      "url": "https://www.jasm.co.kr/news/view/323885/?sc=Naver",
+      "date": "Tue, 03 Nov 2026 08:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2VVRQazlmcFJ5dU9ZTzRsdVpqbDVYSk16VFotQnRtLTUxRVMxUDdJSzJJS1ExRlA1NmtYY1g2ajhTdjE1bWRabFpsVTZmQVZwdF9fYUI2ZnplYnlwanBMWnFXN1k0OXdr?oc=5": {
+      "title": "포스코퓨처엠, 3분기 깜짝 실적에도 엇갈린 평가···LFP 양산 주목 - 뉴스웨이",
+      "summary": "포스코퓨처엠, 3분기 깜짝 실적에도 엇갈린 평가···LFP 양산 주목 뉴스웨이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2VVRQazlmcFJ5dU9ZTzRsdVpqbDVYSk16VFotQnRtLTUxRVMxUDdJSzJJS1ExRlA1NmtYY1g2ajhTdjE1bWRabFpsVTZmQVZwdF9fYUI2ZnplYnlwanBMWnFXN1k0OXdr?oc=5",
+      "date": "Mon, 02 Nov 2026 23:39:40 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
     }
   },
   "brief_sent": {
@@ -8324,6 +8509,11 @@
       "url": "https://www.ksmnews.co.kr/news/view.php?idx=628084",
       "title": "이수페타시스, 달성 국가산단에 5천억 투자…7공장 건립 추진",
       "date": "Mon, 02 Nov 2026 20:40:00 +0900"
+    },
+    {
+      "url": "https://www.segye.com/newsView/20261103503141?OutUrl=naver",
+      "title": "대구 달성군 금속 공장 서 희토류 분쇄기 폭발…20대 작업자 2명 화상",
+      "date": "Tue, 03 Nov 2026 08:53:00 +0900"
     }
   ],
   "brief_articles": [
@@ -8389,7 +8579,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 5
+    "2026-11-03": 7
   },
   "ai_cooldowns": {}
 }
