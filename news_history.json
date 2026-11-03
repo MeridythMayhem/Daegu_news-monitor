@@ -1250,7 +1250,10 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=628084": "2026-11-02T21:02:41.172892+09:00",
     "https://www.segye.com/newsView/20261103503141?OutUrl=naver": "2026-11-03T09:02:36.210472+09:00",
     "https://www.news1.kr/local/gwangju-jeonnam/6340934": "2026-11-03T10:02:35.087618+09:00",
-    "https://www.job-post.co.kr/news/articleView.html?idxno=236077": "2026-11-03T10:02:35.087618+09:00"
+    "https://www.job-post.co.kr/news/articleView.html?idxno=236077": "2026-11-03T10:02:35.087618+09:00",
+    "https://www.tbc.co.kr/news/view?pno=20261103083637AE07870&id=212898": "2026-11-03T11:02:50.204315+09:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVXFhNVRhM3RsNUJqTG5tam1aNVRtMExkRVQwdWlKMzNmaVpiZWNJd3pEZ3V1STdYcWc4SDZZMExvMDY5M19SUTk5cXJSdVVKMHVUd01Bc2ZDdDQ1b2RfcS1UTW1tdTZZWXFhSDBVV2k?oc=5": "2026-11-03T11:02:50.204315+09:00",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5": "2026-11-03T11:02:50.204315+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2003,19 +2006,37 @@
     "4ed9dcc88b9bca566232a6e6ad540b2203a8593ef8c9fb1c91c2078802e5a097": "2026-11-02T21:02:41.172892+09:00",
     "19484f3c3e82ef8938dd5383202d6cb90216f33639be65fed3529408af3327ae": "2026-11-03T09:02:36.210472+09:00",
     "bad1f8976c9a7452860324a9eb316ee78bd833555af1725b2c7cb6ecbf486a02": "2026-11-03T10:02:35.087618+09:00",
-    "0e586c9c89f36d7a07e67b120e08422053be8451957c917d8a3af285526d45a2": "2026-11-03T10:02:35.087618+09:00"
+    "0e586c9c89f36d7a07e67b120e08422053be8451957c917d8a3af285526d45a2": "2026-11-03T10:02:35.087618+09:00",
+    "51a876d4eade45af94698e8e05aada38ef6ec093413898abe55270434ccf17dd": "2026-11-03T11:02:50.204315+09:00",
+    "791c05aafb8676340380ddff8388c206f31f920589eadda20262dff7230dcda8": "2026-11-03T11:02:50.204315+09:00",
+    "d1cee7837eef415cf2097678e5cdd6b70b7da4f19f1e2c5c7823cf947d670f9e": "2026-11-03T11:02:50.204315+09:00"
   },
   "pending": {
-    "https://www.sedaily.com/article/20109416?ref=naver": {
-      "title": "포스코 인터, 에너지·팜 실적 호조…美 LNG로 수익 기회 넓혀[줍줍리포...",
-      "summary": "포스코 인터내셔널이 에너지와 팜 사업 호조로 시장 기대를 웃도는 3분기 실적을 거둔 가운데 미국산... 3일 IBK투자증권은 보고서를 통해 포스코 인터내셔널의 3분기 영업이익이 4007억 원으로 시장 기대치 3888억 원을...",
-      "url": "https://www.sedaily.com/article/20109416?ref=naver",
-      "date": "Tue, 03 Nov 2026 09:01:00 +0900",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNFljY0lTTDVfY0hwVVpyQWt3VUNyamxDU3V0dktVekVaMHhqVVdBcFY1LUFldzRJa0hvQzhRQkRRXzFzbjFibWFrZkhBNGU2OHhTZnRhcHk0RXhLZFdUbFNfblpYVW9UWWg4Q0hHWm0?oc=5": {
+      "title": "포스코홀딩스, 2027년 실적 눈높이 하향… 목표가↓-NH By 인포스탁데일리 - Investing.com 한국어",
+      "summary": "포스코홀딩스, 2027년 실적 눈높이 하향… 목표가↓-NH By 인포스탁데일리 Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNFljY0lTTDVfY0hwVVpyQWt3VUNyamxDU3V0dktVekVaMHhqVVdBcFY1LUFldzRJa0hvQzhRQkRRXzFzbjFibWFrZkhBNGU2OHhTZnRhcHk0RXhLZFdUbFNfblpYVW9UWWg4Q0hHWm0?oc=5",
+      "date": "Tue, 03 Nov 2026 01:14:00 GMT",
       "channels": [
         "domestic"
       ],
-      "basis": "관심기업: 포스코",
+      "basis": "관심기업: 포스코홀딩스",
       "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3eWpLYU1RaFB5eFhNVElRb0Y5ZGdoRU5oM0xEZklmZlBGeUs4ZmxzVllGWXVnRDluVWxqMHNUY1FYT292RXVkSHpILThyQy1oRTZfWXhXdjU3UzdXQ0I5ZHJBYWU0YjQ?oc=5": {
+      "title": "POSCO DX Q3 Operating Profit Surges 71% Quarter-on-Quarter - THE ELEC, Korea Electronics Industry Media",
+      "summary": "POSCO DX Q3 Operating Profit Surges 71% Quarter-on-Quarter THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3eWpLYU1RaFB5eFhNVElRb0Y5ZGdoRU5oM0xEZklmZlBGeUs4ZmxzVllGWXVnRDluVWxqMHNUY1FYT292RXVkSHpILThyQy1oRTZfWXhXdjU3UzdXQ0I5ZHJBYWU0YjQ?oc=5",
+      "date": "Tue, 03 Nov 2026 01:18:30 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
@@ -2028,112 +2049,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.newsis.com/view/NISX20261101_0003849634": {
-      "title": "포스코 노조, 7일 임금교섭 잠정합의안 찬반투표",
-      "summary": "포스코 노사가 2026년 임금교섭에서 마련한 잠정합의안에 대한 노동조합 찬반투표가 7일 실시된다. 1일 포스코 노동조합 등에 따르면 투표는 오는 7일 오전 6시부터 오후 5시까지 진행되며 투표 결과는 같은 날 오후 5시...",
-      "url": "https://www.newsis.com/view/NISX20261101_0003849634",
-      "date": "Sun, 01 Nov 2026 10:25:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조, 7일 임금교섭 잠정합의안 찬반투표",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.segye.com/newsView/20261101504005?OutUrl=naver": {
-      "title": "포스코 노조, 오는 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표 나서",
-      "summary": "지난 10월 30일 회사 측과 기본급 2.6% 인상 등 잠정 합의안 도출 한국노총 금속노련 포스코 노동조합( 포스코 노조)은 오는 7일 오전 6시부터 오후 5시까지 임금교섭 잠정 합의안을 놓고 조합원 찬반투표에 나선다고 1일...",
-      "url": "https://www.segye.com/newsView/20261101504005?OutUrl=naver",
-      "date": "Sun, 01 Nov 2026 10:23:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조, 오는 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표 나서",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.seoulfn.com/news/articleView.html?idxno=641562": {
-      "title": "포스코 노조, 7일부터 임금협상 합의안 조합원 투표 시행",
-      "summary": "한국노총 금속노련 포스코 노동조합( 포스코 노조)이 7일 오전 6시부터 오후 5시까지 임금교섭 잠정 합의안을 놓고 조합원 찬반투표를 한다. 1일 포스코 노조에 따르면 조합원 찬반투표에서 과반이 찬성하면 합의안은...",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641562",
-      "date": "Sun, 01 Nov 2026 10:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조, 7일부터 임금협상 합의안 조합원 투표 시행",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.etoday.co.kr/news/view/2642615": {
-      "title": "포스코 노조, 7일 임금협상 잠정 합의안 찬반투표",
-      "summary": "이투데이=신수용 기자 | 포스코 노사가 장기간 이어온 임금협상 끝에 잠정 합의안 투표에 돌입한다. 한국노총 금속노련 포스코 노동조합( 포스코 노조)은 7일 오전 6시부터 오후 5시까지 임금교섭 잠정 합의안에 대한...",
-      "url": "https://www.etoday.co.kr/news/view/2642615",
-      "date": "Sun, 01 Nov 2026 10:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://www.sidae.com/article/2026110109275347029": {
-      "title": "파업 겪은 포스코 , 임금협상 타결 문턱",
-      "summary": "포스코 노사가 마련한 올해 임금교섭 잠정합의안이 오는 7일 조합원 투표에 부쳐진다. 두 차례 부분파업과... 한국노총 금속노련 포스코 노동조합은 7일 오전 6시부터 오후 5시까지 잠정합의안에 대한 조합원 찬반투표를...",
-      "url": "https://www.sidae.com/article/2026110109275347029",
-      "date": "Sun, 01 Nov 2026 10:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "파업 겪은 포스코 , 임금협상 타결 문턱",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.businesspost.co.kr/BP?command=article_view&num=450846": {
       "title": "포스코 노조 파업 철회하고 7일 임금협상 잠정합의안 투표, 과반 찬성하...",
       "summary": "포스코 노동조합이 2026년 임금협상 잠정 합의안을 놓고 조합원 찬반투표를 실시한다. 1일 철강업계 취재를 종합하면 포스코 노조는 7일 오전 6시부터 오후 5시까지 임금협상 잠정 합의안을 두고 조합원 찬반투표를...",
@@ -7877,6 +7792,304 @@
       "priority": 70,
       "needs_ai": true,
       "filter_version": 12
+    },
+    "https://www.sisajournal.com/news/articleView.html?idxno=392615": {
+      "title": "[구미 24시] 구미시, 삼성SDS 구미 AI데이터센터 건립 첫 삽",
+      "summary": "경북 도와 구미시, 삼성SDS는 올해 1월 미국에서 열린 'CES 2026'에서 60MW 규모의 AI데이터센터 건립 을 위한 투자양해각서를 체결했다. 협약 체결 약 10개월 만에 기공식이 열리면서 센터 건립 이 본격화됐다. 센터는 2028년 12월...",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=392615",
+      "date": "Tue, 03 Nov 2026 10:35:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "[구미 24시] 구미시, 삼성SDS 구미 AI데이터센터 건립 첫 삽",
+        "provider": "gemini",
+        "scope_label": "관내: 구미",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.dkilbo.com/news/articleView.html?idxno=559389": {
+      "title": "삼성SDS, 구미 에 AI 미래 심는다\"…60MW 데이터센터 건립 첫 삽",
+      "summary": "김장호 구미 시장은 \"삼성SDS의 AI데이터센터 건립 이 마중물이 되어 삼성그룹의 구미 대규모 투자 계획이 마련되고, 이는 로봇특화단지 지정으로 이어졌다. 구미 가 미래 대한민국 첨단 전략 산업의 최적지임을 보여주는...",
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=559389",
+      "date": "Tue, 03 Nov 2026 10:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "김장호 구미 시장은 \"삼성SDS의 AI데이터센터 건립 이 마중물이 되어 삼성그룹의 구미 대규모 투자 계획이 마련되고, 이는 로봇특화단지 지정으로 이어졌다.",
+        "provider": "gemini",
+        "scope_label": "관내: 구미",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611022059592920289": {
+      "title": "\"삼성SDS, 구미 에 AI 미래 심는다\" 60MW 데이터센터 건립 첫 삽",
+      "summary": "구미 시는 삼성SDS의 AI 데이터센터 구축 계획 초기 단계부터 전담 PM 공무원을 지정해 투자협약 체결과 사업추진을 지원했다. 도로·교통·경관·전력·건축 등 분야별 인·허가 사항을 사전에 검토하고 컨설팅될 수...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611022059592920289",
+      "date": "Tue, 03 Nov 2026 10:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/03/2026110300095.html": {
+      "title": "삼성SDS 구미 에 60MW급 AI데이터센터 건립",
+      "summary": "구미 시는 이 데이터센터 건립 을 지원하기 위해 지난 1월부터 전담 PM 공무원을 지정해 도로·교통·경관·전력·건축 등 분야별 인·허가 사항 등을 뒷받침했다. 이에 따라 삼성SDS와 시공사인 삼성물산도 지역 경제...",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/03/2026110300095.html",
+      "date": "Tue, 03 Nov 2026 10:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "삼성SDS 구미 에 60MW급 AI데이터센터 건립",
+        "provider": "gemini",
+        "scope_label": "관내: 구미",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089430": {
+      "title": "대구 달성군 희토류 분쇄기 폭발...20대 작업자 2명 화상",
+      "summary": "대구 달성군의 한 금속 가공 공장 에서 희토류 분쇄기가 폭발해 20대 작업자 2명이 다쳤다. 3일 소방당국... 한 공장 에서 기계가 폭발했다는 신고가 접수됐다. 이 사고 로 20대 남성 작업자 2명이 손 등에 1~2도 화상을...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089430",
+      "date": "Tue, 03 Nov 2026 10:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://idsn.co.kr/news/view/1065575464558734": {
+      "title": "대구 금속 가공 공장 서 희토류 분쇄기 폭발…작업자 2명 화상",
+      "summary": "▲ 산업안전 사고 AI 이미지 대구 달성군 의 한 금속 가공 공장 에서 희토류 분쇄 작업 중 기계가 폭발해 작업자 2명이 다쳤다. 폭발과 함께 불이 났으나 공장 관계자가 자체 진화해 추가 피해로 이어지지는 않았다. 3일...",
+      "url": "https://idsn.co.kr/news/view/1065575464558734",
+      "date": "Tue, 03 Nov 2026 10:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.tbc.co.kr/news/view?pno=20261103083637AE07870&id=212898": {
+      "title": "희토류 분쇄 중 기계 폭발…20대 작업자 2명 화상",
+      "summary": "어제(2일) 오후 5시 26분쯤 대구 달성군 유가읍의 한 금속 가공 공장 에서 희토류를 분쇄하던 중 기계가 폭발했습니다. 이 사고 로 20대 남성 작업자 2명이 손 등에 1~2도 화상을 입고 병원으로 옮겨졌습니다. 경찰은 정확한...",
+      "url": "https://www.tbc.co.kr/news/view?pno=20261103083637AE07870&id=212898",
+      "date": "Tue, 03 Nov 2026 10:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "산재·사업장 사고",
+      "priority": 95,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "산재·사업장 사고",
+        "score": 95,
+        "evidence": "어제(2일) 오후 5시 26분쯤 대구 달성군 유가읍의 한 금속 가공 공장 에서 희토류를 분쇄하던 중 기계가 폭발했습니다.",
+        "provider": "gemini",
+        "scope_label": "관내: 달성군, 대구",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=727715": {
+      "title": "대구 달성군 유가읍 한 공장 서 폭발 사고 ...작업자 2명 화상 입어 병원행",
+      "summary": "대구 달성군 소재 한 공장 에서 폭발 사고 가 발생해 2명이 화상을 입어 인근 병원으로 이송됐다. 3일 대구 소방안전본부에 따르면 전날 오후 5시 26분쯤 달성군 유가읍 금리 한 금속 가공 공장 에서 기계 폭발 사고 가...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=727715",
+      "date": "Tue, 03 Nov 2026 10:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "https://www.ytn.co.kr/_ln/0115_202611031020305255": {
+      "title": "대구 금속 가공 공장 에서 기계 폭발...2명 화상",
+      "summary": "어제(2일) 오후 5시 20분쯤 대구 달성군 유가읍에 있는 금속 가공 공장 에서 기계가 폭발했습니다. 이 사고 로 작업자 두 명이 화상을 입어 병원으로 옮겨졌는데, 생명에는 지장이 없는 것으로 파악됐습니다. 또, 폭발로...",
+      "url": "https://www.ytn.co.kr/_ln/0115_202611031020305255",
+      "date": "Tue, 03 Nov 2026 10:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 90,
+      "needs_ai": false,
+      "filter_version": 12
+    },
+    "http://news.lghellovision.net/news/articleView.html?idxno=560807": {
+      "title": "대구 시, 이수페타시스 7공장 신설 투자협약 체결",
+      "summary": "대구 시가 2일 글로벌 PCB 기업인 이수페타시스, 달성군과 함께 대구 국가산업단지 내 제7공장 신설을 위한 5천억 원 규모의 투자협약 을 체결했습니다. 협약 에 따라 이수페타시스는 국가산단 내 5만 1천 평 부지에 민선 9기...",
+      "url": "http://news.lghellovision.net/news/articleView.html?idxno=560807",
+      "date": "Tue, 03 Nov 2026 10:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "대구 시가 2일 글로벌 PCB 기업인 이수페타시스, 달성군과 함께 대구 국가산업단지 내 제7공장 신설을 위한 5천억 원 규모의 투자협약 을 체결했습니다.",
+        "provider": "gemini",
+        "scope_label": "관심기업: 이수페타시스",
+        "evidence_id": 1
+      },
+      "review": "AI 참고 적합"
+    },
+    "http://www.metroseoul.co.kr/article/20261103500048": {
+      "title": "포스코 이앤씨, 3분기 영업이익 480억원…전년 대비 흑자전환",
+      "summary": "3일 건설업계에 따르면 포스코홀딩스 가 전날 발표한 포스코이앤씨의 3분기 연결기준 매출은 1조7630억원, 영업이익은 480억원으로 집계됐다. 순이익은 130억원이다. 매출은 지난해 같은 기간 1조4080억원보다 3550억원...",
+      "url": "http://www.metroseoul.co.kr/article/20261103500048",
+      "date": "Tue, 03 Nov 2026 10:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DZElsX0lIV1NGQ2E2M3RqdnJhN0ZRa3NkaW9fa0FQcFFCVDhJanQwYWFGT002Q255clRKVUY3bUNzU05BT1hsb3J1S2hJcTZRQnhYcl9EeUhJVXgzMExKX0x1bE5YeXhIQlE?oc=5": {
+      "title": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 - 골든타임뉴스",
+      "summary": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 골든타임뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DZElsX0lIV1NGQ2E2M3RqdnJhN0ZRa3NkaW9fa0FQcFFCVDhJanQwYWFGT002Q255clRKVUY3bUNzU05BT1hsb3J1S2hJcTZRQnhYcl9EeUhJVXgzMExKX0x1bE5YeXhIQlE?oc=5",
+      "date": "Tue, 03 Nov 2026 01:21:20 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "지역경제·기업동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "지역경제·기업동향",
+        "score": 80,
+        "evidence": "달성군·대구시·이수페타시스, 5천억 규모 투자협약 체결 - 골든타임뉴스",
+        "provider": "gemini",
+        "scope_label": "관내: 달성군, 대구",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5": {
+      "title": "실적 반등 포스코퓨처엠, LFP 전환 확대...증권가 호평 - www.thecommoditiesnews.com",
+      "summary": "실적 반등 포스코퓨처엠, LFP 전환 확대...증권가 호평 www.thecommoditiesnews.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5",
+      "date": "Tue, 03 Nov 2026 01:17:48 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "실적 반등 포스코퓨처엠, LFP 전환 확대...증권가 호평 - www.thecommoditiesnews.com",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNFljY0lTTDVfY0hwVVpyQWt3VUNyamxDU3V0dktVekVaMHhqVVdBcFY1LUFldzRJa0hvQzhRQkRRXzFzbjFibWFrZkhBNGU2OHhTZnRhcHk0RXhLZFdUbFNfblpYVW9UWWg4Q0hHWm0?oc=5": {
+      "title": "포스코홀딩스, 2027년 실적 눈높이 하향… 목표가↓-NH By 인포스탁데일리 - Investing.com 한국어",
+      "summary": "포스코홀딩스, 2027년 실적 눈높이 하향… 목표가↓-NH By 인포스탁데일리 Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNFljY0lTTDVfY0hwVVpyQWt3VUNyamxDU3V0dktVekVaMHhqVVdBcFY1LUFldzRJa0hvQzhRQkRRXzFzbjFibWFrZkhBNGU2OHhTZnRhcHk0RXhLZFdUbFNfblpYVW9UWWg4Q0hHWm0?oc=5",
+      "date": "Tue, 03 Nov 2026 01:14:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "관심기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3eWpLYU1RaFB5eFhNVElRb0Y5ZGdoRU5oM0xEZklmZlBGeUs4ZmxzVllGWXVnRDluVWxqMHNUY1FYT292RXVkSHpILThyQy1oRTZfWXhXdjU3UzdXQ0I5ZHJBYWU0YjQ?oc=5": {
+      "title": "POSCO DX Q3 Operating Profit Surges 71% Quarter-on-Quarter - THE ELEC, Korea Electronics Industry Media",
+      "summary": "POSCO DX Q3 Operating Profit Surges 71% Quarter-on-Quarter THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3eWpLYU1RaFB5eFhNVElRb0Y5ZGdoRU5oM0xEZklmZlBGeUs4ZmxzVllGWXVnRDluVWxqMHNUY1FYT292RXVkSHpILThyQy1oRTZfWXhXdjU3UzdXQ0I5ZHJBYWU0YjQ?oc=5",
+      "date": "Tue, 03 Nov 2026 01:18:30 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVXFhNVRhM3RsNUJqTG5tam1aNVRtMExkRVQwdWlKMzNmaVpiZWNJd3pEZ3V1STdYcWc4SDZZMExvMDY5M19SUTk5cXJSdVVKMHVUd01Bc2ZDdDQ1b2RfcS1UTW1tdTZZWXFhSDBVV2k?oc=5": {
+      "title": "L&F, LG Energy Solution sign LFP cathode material supply contract worth 1 trillion won - 머니투데이",
+      "summary": "L&F, LG Energy Solution sign LFP cathode material supply contract worth 1 trillion won 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVXFhNVRhM3RsNUJqTG5tam1aNVRtMExkRVQwdWlKMzNmaVpiZWNJd3pEZ3V1STdYcWc4SDZZMExvMDY5M19SUTk5cXJSdVVKMHVUd01Bc2ZDdDQ1b2RfcS1UTW1tdTZZWXFhSDBVV2k?oc=5",
+      "date": "Tue, 03 Nov 2026 01:28:22 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "해외기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "해외기업 동향",
+        "score": 80,
+        "evidence": "L&F, LG Energy Solution sign LFP cathode material supply contract worth 1 trillion won - 머니투데이",
+        "provider": "gemini",
+        "scope_label": "관심기업: 엘앤에프",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -8539,6 +8752,21 @@
       "url": "https://www.job-post.co.kr/news/articleView.html?idxno=236077",
       "title": "대구 고용노동청, 화재·폭발 위험 사업장 집중점검",
       "date": "Tue, 03 Nov 2026 09:42:00 +0900"
+    },
+    {
+      "url": "https://www.tbc.co.kr/news/view?pno=20261103083637AE07870&id=212898",
+      "title": "희토류 분쇄 중 기계 폭발…20대 작업자 2명 화상",
+      "date": "Tue, 03 Nov 2026 10:38:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVXFhNVRhM3RsNUJqTG5tam1aNVRtMExkRVQwdWlKMzNmaVpiZWNJd3pEZ3V1STdYcWc4SDZZMExvMDY5M19SUTk5cXJSdVVKMHVUd01Bc2ZDdDQ1b2RfcS1UTW1tdTZZWXFhSDBVV2k?oc=5",
+      "title": "L&F, LG Energy Solution sign LFP cathode material supply contract worth 1 trillion won - 머니투데이",
+      "date": "Tue, 03 Nov 2026 01:28:22 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5",
+      "title": "실적 반등 포스코퓨처엠, LFP 전환 확대...증권가 호평 - www.thecommoditiesnews.com",
+      "date": "Tue, 03 Nov 2026 01:17:48 GMT"
     }
   ],
   "brief_articles": [
@@ -8604,7 +8832,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 9
+    "2026-11-03": 12
   },
   "ai_cooldowns": {}
 }
