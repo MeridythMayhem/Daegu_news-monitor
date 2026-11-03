@@ -1,4 +1,4 @@
-"""대구경북 뉴스 모니터 v14. Python 3.12 / pip install requests"""
+"""대구경북 뉴스 모니터 v16. Python 3.12 / pip install requests"""
 from collections import Counter
 from difflib import SequenceMatcher
 import hashlib
@@ -34,7 +34,7 @@ AI_MIN_INTERVAL = min(60, max(0, float(os.getenv('AI_MIN_INTERVAL_SECONDS', '20'
 AI_RETRY_WAIT = 30  # 서버가 알려준 짧은 대기만 1회 재시도
 AI_RUN_LIMIT = max(0, int(os.getenv('AI_MAX_CALLS_PER_RUN', os.getenv('GROQ_MAX_CALLS_PER_RUN', '8'))))
 AI_DAY_LIMIT = max(0, int(os.getenv('GROQ_MAX_CALLS_PER_DAY', '80')))
-MIN_SCORE = int(os.getenv('MIN_SCORE', '80'))
+MIN_SCORE = int(os.getenv('MIN_SCORE', '50'))
 MAX_ALERTS = max(1, int(os.getenv('MAX_ALERTS_PER_RUN', '10')))
 DRY_RUN = os.getenv('DRY_RUN', '0') == '1'
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
@@ -159,14 +159,35 @@ def save(s):
     temp.replace(STATE)
 
 
+SEARCH_REGIONS = ['대구', '경북', '구미', '포항']
+ORIGINAL_RISKS = '압수수색 횡령 배임 비자금 페이퍼컴퍼니 분식회계 세무조사 편법증여 일감몰아주기 가공거래 역외탈세 의견거절 중대재해 의혹 비리 혐의 탈루 구속 밀약'.split()
+FIXED_QUERIES = [
+    '대구경찰청 인사','경북경찰청 인사','국세청 인사','대구지검 인사','대구지검 전보',
+    '대구공소청 인사','경북공소청 인사','대구중수청 인사','경북중수청 인사',
+    '대구지방국세청','대구지방국세청장','대구 세무서','경북 세무서',
+    '대구 화재','경북 화재','대구 공장 화재','경북 공장 화재','성서산단 화재',
+    '구미산단 화재','구미공단 화재','포항 철강공단','대구 노동자 사망','경북 노동자 사망',
+    '대구 끼임 사고','경북 추락 사고','대구 화학물질 누출','구미 불산 누출','대구경북산업단지',
+    '대구 업체 비리','경북 업체 비리','대구 세금 탈루','경북 세금 탈루','구미 업체 구속','포항 업체 압수수색']
+EXTRA_SEARCH = ['납품 특혜','수의계약','쪼개기 계약','입찰 담합','일감 몰아줘','가족회사','오너 일가',
+                '자녀 회사','사업부 양도','영업양수도','현물출자','채무 인수','지급보증','자금 대여',
+                '내부 제보','공익신고','감사 청구','주주 반발','이사회 반발','해명 요구','회삿돈 빼돌려']
+CRIME = '횡령 배임 비리 탈세 구속 압수수색 기소 입건 송치 체포 비자금 가공거래 허위세금계산서 페이퍼컴퍼니 의혹 혐의 탈루 밀약'.split()
+FINANCE = ['가업승계','편법증여','일감몰아주기','일감 몰아주기','지분매각','전환사채','CB','신주인수권부사채','BW','비상장주식','우회상장','자본잠식']
+RELATIONS = ['오너 2세','회장 자녀','자녀 회사','가족회사','개인회사','사주 일가','오너 일가','오너일가','특수관계인','계열사','관계회사']
+MOVES = ['사업부 양도','사업부 매각','영업양수도','사업권 양도','현물출자','채무 인수','지급보증','자금 대여','지분 매각','지분 증여','계열사 간 거래']
+DEAL = ['납품','업체 선정','입찰','수주','수의계약','계약','일감','거래','사업권','대출','인허가']
+DISPUTE = ['특혜','밀어주기','몰아주기','몰아줘','내부 제보','공익신고','감사 청구','주주 반발','이사회 반발','해명 요구']
+WARNING = '논란 위기 적자 파업 노조 소송 재판 승계 지배구조'.split()
+ACTORS = CORPORATE + ['공단','산단','본사','계열사','제조','이차전지','자동차부품사','부품사','협력사','오너일가','특수관계인']
+INVEST = INVESTMENT_TERMS + ['팩토리','신설','투자 유치','자금 조달','투자','수주','공장 증설','생산라인 증설','착공','준공']
+PLACES += ['국가산단','테크노폴리스']
+
+
 def query_plan(s):
-    # 매 실행 같은 검색망 전체를 조회합니다. 시간별 순환 검색을 하지 않습니다.
-    # 세부 세무/사고 표현은 분류 사전에서 계속 사용합니다.
-    terms = ['산재', '근로자', '작업자', '공장 사고', '세무조사', '탈세', '횡령',
-             '배임', '지분', '증여', '승계', '인사', '전보', '추징']
-    queries = COMPANIES + AGENCIES + list(PEOPLE)
-    queries += [f'{region} {term}' for region in REGIONS for term in terms]
-    return sorted(set(queries) | LOCAL_QUERIES | INVESTMENT_QUERIES), 0
+    terms = ORIGINAL_RISKS + INVESTMENT_TERMS + EXTRA_SEARCH
+    domestic = {f'{region} {word}' for region in SEARCH_REGIONS for word in terms}
+    return sorted(domestic | set(FIXED_QUERIES + COMPANIES + AGENCIES + list(PEOPLE)) | LOCAL_QUERIES), 0
 
 
 def fetch(job):
@@ -216,58 +237,54 @@ def emphasis(score):
     return '🔹 확인', 0x3498DB
 
 
+def finance_term(text):
+    return contains(text, [w for w in FINANCE if w not in ('CB','BW')]) or bool(
+        re.search(r'(?<![A-Za-z])(?:CB|BW)(?![A-Za-z])', text, re.I))
+
+
 def classify_core(a):
-    title = a['title']
-    summary = a.get('summary', '')
-    text = title + ' ' + summary
-    local = has_local(text)
-    company = bool(entities(text))
-    person = any(name in text and contains(text, affiliations) for name, affiliations in PEOPLE.items())
-    if not company and not person and contains(title, ['세무조사혁신', '조사혁신', '상주기간', '납세자중심']):
+    title = headline(a)
+    local = has_local(title)
+    vip = bool(entities(title))
+    tax_office = '국세청' in title or (local and '세무서' in title)
+    public_office = local and contains(title, ['경찰','검찰','지검','고검','공소청','중수청','수사본부'])
+    # 지역명이 행사 장소/발언 출처로만 나온 경우 기업 사건으로 승격하지 않습니다.
+    venue = re.search(r'(?:토론회|간담회|세미나|포럼|행사장)(?:에서|서)', title)
+    actor = vip or (local and contains(title, ACTORS))
+    if (not local and not vip and not tax_office) or (venue and not vip):
         return None
-    if not (local or company or person):
-        return None
-    # 제목이 기사 주제의 근거입니다. 요약의 다른 사건·발언을 고득점 근거로 쓰지 않습니다.
-    promotion = contains(title, ['예방', '캠페인', '교육', '훈련', '협약', '간담회', '설명회', '기념식', '시상식'])
-    injury = contains(title, ['숨져', '사망', '중상', '중태', '심정지', '의식불명'])
-    incident = contains(title, ['추락', '떨어져', '끼여', '끼임', '깔려', '질식', '폭발', '화재', '붕괴', '감전', '누출'])
-    workplace = contains(text, WORK)
-    if workplace and (injury or incident) and not promotion:
-        if contains(title, WORK) or company:
-            return '산재·사업장 사고', 100 if injury else 90, False
-        return '산재·사업장 사고', 70, True
-    if contains(title, ['작업중지', '특별감독', '중대재해처벌법위반', '산업안전보건법위반']) and not promotion:
-        return '산재·사업장 사고', 90, False
-    tax_title = contains(title, TAX_DIRECT)
-    corporate_context = company or person or contains(text, CORPORATE)
-    if tax_title and corporate_context and not promotion:
-        return '세무 조사·혐의 관련', 95, False
-    # 인사말/인사 나눠/정치권 인사 논란 등은 발령 기사로 취급하지 않습니다.
-    moves = ['전보', '승진', '발령', '임명', '내정', '취임', '퇴임', '선임', '사임', '해임', '보직변경']
-    appointment = contains(title, moves) or bool(re.search(r'\[인사\]|정기\s*인사|인사\s*(발령|단행|명단)', title))
-    if re.search(r'인사(?:$|[.…]|\s*(?:명단|단행|발표|발령))', title) and contains(title, AGENCIES):
-        appointment = True
-    agency = contains(title, AGENCIES) or (contains(title, REGIONS) and contains(title, ['경찰청', '경찰서', '지검', '고검', '공소청', '중수청', '국세청', '세무서']))
-    leader = contains(title, ['회장', '대표이사', '사장', '청장', '서장', '검사장', '지검장', '지청장'])
-    if appointment and not promotion:
-        if agency or person or (company and leader) or (local and '상공회의소' in title and leader):
-            return '주요인물·기관 인사', 90, False
-    if person and contains(title, ['구속', '기소', '압수수색', '뇌물', '재산공개']):
-        return '주요인물 사건', 90, False
-    if contains(title, TAX_REFERENCE) and corporate_context and not promotion:
-        return '세무 검토 참고', 70, True
-    # 요약에만 핵심 단서가 있으면 AI 확인 전까지 70점으로 보류합니다.
-    if not promotion and contains(title, CORPORATE + COMPANIES) and contains(summary, TAX_DIRECT):
-        return '세무 조사·혐의 관련', 70, True
+    action = contains(title, MOVES) or bool(re.search(
+        r'(?:사업부|사업권|물류사업|지분|자산|영업권|사업장|채무|자금).{0,14}(?:양도|양수|매각|인수|대여|이전|증여)', title))
+    named_act = action or contains(title, DEAL + ['회삿돈','회사돈','자금 유용','자금 횡령'])
+    relation = contains(title, RELATIONS)
+    signal = contains(title, CRIME + ['회삿돈 빼돌','회사 자금 사적 사용','입찰 담합','쪼개기 계약'])
+    if (actor or tax_office) and (signal or (named_act and contains(title, DISPUTE))):
+        return '세무 조사·혐의 관련', 100, False
+    if actor and relation and action:
+        return '관계인 거래', 90, False
+    if actor and (action or finance_term(title)):
+        return '자본이동', 80, False
+    preventive = contains(title,['예방','훈련','안전교육','방지','막고','막는다','막는'])
+    if not preventive and (actor or (local and contains(title, WORK))) and contains(title, ACCIDENTS + ['산불']):
+        if not contains(title,['주가 추락','실적 추락','매출 추락']):
+            return '산재·사업장 사고', 100, False
+    appointment = contains(title,['전보','승진','발령','내정','프로필','선임','취임','임명']) or bool(
+        re.search(r'(?<![가-힣])인사(?=$|[^가-힣]|발령|명단|단행)', title))
+    if appointment and (tax_office or public_office or (vip and contains(title,['대표','회장','사장']))):
+        return '주요인물·기관 인사', 100, False
+    if actor and contains(title, WARNING):
+        return '경영·갈등', 70, False
+    if (actor or local) and contains(title, INVEST):
+        return '경제·투자', 70, False
     return None
 
 
 # 검색망과 발송 기준은 분리합니다. 요약에만 등장한 지역/기업은 AI 확인 필수.
 COMPANY_ALIASES = COMPANIES + ['한수원', '포스코이앤씨', '한국가스공사']
-CATEGORIES = {'세무 조사·혐의 관련': 95, '세무 검토 참고': 80,
- '산재·사업장 사고': 95, '주요인물·기관 인사': 90, '주요인물 사건': 90,
- '경제·투자': 80, '지역언론 경제·정책': 80, '지역경제·기업동향': 80,
- '관심기업 동향': 80, '해외기업 동향': 80}
+CATEGORIES = {'관계인 거래': 90, '자본이동': 80, '경영·갈등': 70, '세무 조사·혐의 관련': 100, '세무 검토 참고': 80,
+ '산재·사업장 사고': 100, '주요인물·기관 인사': 100, '주요인물 사건': 90,
+ '경제·투자': 70, '지역언론 경제·정책': 65, '지역경제·기업동향': 80,
+ '관심기업 동향': 80, '해외기업 동향': 50}
 
 BUSINESS_CATEGORIES = {'경제·투자', '지역언론 경제·정책', '지역경제·기업동향',
                        '관심기업 동향', '해외기업 동향'}
@@ -327,26 +344,43 @@ def classify(a):
     title = headline(a)
     basis, direct = evidence(a)
     a['basis'] = basis
-    if not basis:
+    if not basis and '국세청' not in title:
         return None
-    risk = contains(title, TAX_DIRECT + TAX_REFERENCE)
-    if contains(title, ['프로야구', '프로농구', '프로축구', 'KBO', 'KBL', '홈런', '득점', '트레일런']):
+    if not entities(title) and re.search(r'(?:토론회|간담회|세미나|포럼|행사)(?:장)?(?:에서|서)', title) and (
+            contains(title, ['타지역','전국 사건','전국 입찰']) or re.search(r'(?:서울|인천|부산|제천)\s*(?:기업|업체|회사)',title)):
         return None
-    if contains(title, ['특징주', '주가', '증시', '코스피', '코스닥', '목표주가', '매수추천']) and not risk:
+    risk = contains(title, CRIME + ['회삿돈 빼돌','회사 자금 사적 사용','입찰 담합','쪼개기 계약']) or (
+        contains(title, DEAL + MOVES) and contains(title, DISPUTE))
+    finance = finance_term(title) or contains(title, MOVES)
+    sport = ['프로농구','KBL','프로야구','KBO','프로축구','K리그','득점','리바운드','홈런','페가수스',
+             '라이온즈','대구FC','실내체육관','끝내기','결승','스포츠','MVP','매치','트레일런']
+    if contains(title,sport) or re.search(r'(?<![가-힣])선수(?:단|들)?(?=$|[^가-힣]|가|는|를)',title) or ('감독' in title and contains(title,['경기','구단','선수단'])):
         return None
-    if contains(title, ['인사말', '시상식', '축제', '미담', '여론조사', '지지율', '선거판세']):
+    politics = '국회의원 시의원 도의원 구의원 군수 구청장 도지사 정치 후보 공천 당선 선거 여당 야당 국회 민주당 더불어민주당 국민의힘 국힘 우세 추격 경선 여론조사 지지율 출마 득표 총선 지선 대선 최고위 원내대표'.split()
+    political_mayor = bool(re.search(r'시장.{0,5}(?:후보|공천|출마|선거)',title))
+    if (contains(title,politics) or political_mayor) and not risk:
         return None
-    title_core = classify_core({'title': title})
-    core = title_core or classify_core(dict(a, title=title))
-    prevention = contains(title, ['예방', '막고', '막는다', '막는', '방지', '훈련', '안전교육', '안전기술'])
-    if core and core[0] == '산재·사업장 사고' and prevention:
-        core = None
+    market = ['주가','증시','코스피','코스닥','종목','시황','주식','매수','매도','개미','외인','상장','공모','특징주']
+    price_move = contains(title, ['상승','하락','급등','급락']) and contains(title, ['주식','거래량','매매','거래소','투자자'])
+    institution_trade = '기관' in title and contains(title,['순매수','순매도','매수세','매도세'])
+    if (contains(title, market) or price_move or institution_trade) and not (risk or finance):
+        return None
+    if contains(title, ['인사말','시상식','축제','미담']):
+        return None
+    core = classify_core(a)
     if core:
-        category, score, needs = core
-        # 지명/기업의 제목 등장도 인과관계를 보장하지 않아 직접성이 모호하면 AI로 확인.
-        if title_core and direct and not needs:
-            return category, score, False
-        return category, 70, True
+        return core
+    # 요약의 별도 사건을 합치지 않습니다. 같은 문장의 지역·당사자·사건 근거만 검토합니다.
+    for line in evidence_sentences(a)[1:]:
+        summary_result = classify_core({'title': line})
+        if not summary_result:
+            continue
+        cat = summary_result[0]
+        cues = (ACCIDENTS if cat == '산재·사업장 사고' else
+                PERSON_EVENTS if cat == '주요인물·기관 인사' else
+                CRIME + DISPUTE + DEAL + MOVES + FINANCE + ['회삿돈','대표','횡령'])
+        if cat not in BUSINESS_CATEGORIES and contains(title, cues):
+            return cat, 70, True
     if not economic_scope_allowed(a):
         a['exclusion_reason'] = '경제 기사 제목에 관내 지명/관심기업 없음 (요약의 부수적 언급은 불허)'
         return None
@@ -370,12 +404,12 @@ def classify(a):
             speculative = re.search(r'\b(may|might|could|plans?|expects?|forecast|rumou?r|denies|talks?)\b', title, re.I)
             if firm_action and not speculative and not uncertain:
                 a['basis'] += ' · 계약/가동/실적 발표'
-                return '해외기업 동향', 80, False
+                return '해외기업 동향', 50, False
             return '해외기업 동향', 70, True
         return None
     if not uncertain and investment and (plant or contains(title, ['협약','계약'])):
         a['basis'] += ' · 시설 투자/계약'
-        return '경제·투자', 80, False
+        return '경제·투자', 70, False
     if contains(title, INVESTMENT_TERMS + ['투자유치','수주','공장증설']):
         return '경제·투자', 70, True
     if contains(title, ['수출','무역','물가','미분양','부동산','토지','산업단지','지역경제',
@@ -383,9 +417,28 @@ def classify(a):
         cat = '관심기업 동향' if entities(title) else ('지역언론 경제·정책' if 'local_media' in a.get('channels', []) else '지역경제·기업동향')
         if metric and measured and not uncertain:
             a['basis'] += ' · 수치가 명시된 경제지표/실적'
-            return cat, 80, False
+            return cat, 65 if cat == '지역언론 경제·정책' else 70, False
         return cat, 70, True
     return None
+
+def keyword_reference(a):
+    """70점 참고 기사는 발송 기준을 통과한 확정 분류와 별도로 취급합니다."""
+    if not (a['needs_ai'] and a.get('review') == '미검토' and a['priority'] == 70):
+        return False
+    # AI의 명시적 제외 및 실질적인 분류 충돌을 키워드로 뒤집지 않습니다.
+    if a.get('ai_failure_kind') not in ('request', 'format'):
+        return False
+    title = headline(a)
+    if entities(title) or local_names(title):
+        return True
+    if a['category'] in BUSINESS_CATEGORIES:
+        return False
+    # 핵심 사건에 대해서만 요약 근거를 허용. 지명/기업과 사건 단서가 한 문장에 있어야 합니다.
+    terms = (ACCIDENTS if a['category'] == '산재·사업장 사고' else
+             TAX_DIRECT + TAX_REFERENCE + CRIME + MOVES + FINANCE + DISPUTE if a['category'] in ('세무 조사·혐의 관련','세무 검토 참고','자본이동','관계인 거래') else PERSON_EVENTS)
+    return any((local_names(line) or entities(line)) and contains(line, terms)
+               for line in evidence_sentences(a)[1:])
+
 
 def normalized_title(title):
     title = re.sub(r'\s+-\s+[^-]+$', '', title)
@@ -460,12 +513,12 @@ def prepare_pending(s, now, cutoff=None, end=None, pending_key='pending'):
         if not result or not published or not (cutoff <= published <= end):
             s[pending_key].pop(url, None)
             continue
-        if a.get('filter_version') != 14:
+        if a.get('filter_version') != 16:
             a.pop('review', None)
             for field in ('ai_result','ai_wait_reason','ai_failure_kind','ai_format_retry_v13','ai_retry_note'):
                 a.pop(field, None)
         a['category'], a['priority'], a['needs_ai'] = result
-        a['filter_version'] = 14
+        a['filter_version'] = 16
         if a.get('review') == 'AI 참고 적합':
             a['category'] = a['ai_result']['category']
             a['priority'] = a['ai_result']['score']
@@ -807,7 +860,7 @@ class AI:
                 return '미검토'
             title_direct = bool(entities(headline(a)) or has_local(headline(a)))
             event_terms = (ACCIDENTS if category == '산재·사업장 사고' else
-                           TAX_DIRECT + TAX_REFERENCE if category.startswith('세무') else PERSON_EVENTS)
+                           TAX_DIRECT + TAX_REFERENCE + CRIME + MOVES + FINANCE + DISPUTE if category in ('세무 조사·혐의 관련','세무 검토 참고','자본이동','관계인 거래') else PERSON_EVENTS)
             if not title_direct and not contains(quote, event_terms):
                 a['ai_wait_reason'] = '요약의 지역/기업과 사건이 연결된 문장 필요'
                 return '미검토'
@@ -979,7 +1032,7 @@ def report_window(now, mode='auto'):
 
 
 def main():
-    log.info('대구경북 뉴스 모니터 v14 시작 — 세무 / 주요인사 / 산재')
+    log.info('대구경북 뉴스 모니터 v16 시작 — 세무 / 주요인사 / 산재')
     if not DISCORD_URL and not DRY_RUN:
         raise RuntimeError('GitHub Secrets의 DISCORD_URL 설정이 필요합니다')
     now = datetime.now(KST)
@@ -1004,7 +1057,7 @@ def main():
     queries, next_cursor = query_plan(s)
     jobs = [('naver', q, cutoff) for q in queries] if NAVER_ID and NAVER_SECRET else []
     # Naver 인증정보가 없으면 RSS 검색 범위를 늘립니다.
-    rss_queries = queries[::max(1, len(queries) // 35)] if jobs else queries
+    rss_queries = [q for q in queries if q not in LOCAL_QUERIES] if jobs else queries
     jobs += [('google', q, cutoff) for q in rss_queries]
     jobs += [('google_en', q, cutoff) for q in GLOBAL_QUERIES]
     stats = {'naver': [0, 0], 'google': [0, 0], 'google_en': [0, 0]}
@@ -1079,6 +1132,7 @@ def main():
     pending = prepare_pending(s, now, cutoff, end, pending_key)
     eligible = [a for a in pending if a['priority'] >= MIN_SCORE and
                 (not a['needs_ai'] or a.get('review') == 'AI 참고 적합')]
+    eligible.extend(a for a in pending if keyword_reference(a))
     eligible, removed = deduplicate(eligible, previous)
     if ai and len(eligible) + len(previous) > 1:
         eligible, ai_removed = ai.desk(eligible, previous)
@@ -1088,45 +1142,28 @@ def main():
         s[pending_key].pop(a['url'], None)
     for a in eligible:
         log.info('발송 후보 %s점 [%s] 근거=%s | %s', a['priority'], a['category'], a.get('ai_result',{}).get('evidence',a.get('basis','')), a['title'])
-    held = sum(a['needs_ai'] and a.get('review', '미검토') == '미검토' for a in pending)
-    call_held = sum(a['needs_ai'] and a.get('review', '미검토') == '미검토' and review_status(a) == '호출 미완료' for a in pending)
-    validation_held = held - call_held
-    wait_reasons = Counter(review_status(a) + ': ' + a.get('ai_wait_reason', '검토 대기') for a in pending
-                           if a['needs_ai'] and a.get('review', '미검토') == '미검토')
-    wait_text = ', '.join(f'{reason} {count}건' for reason, count in wait_reasons.items())
+    held = [a for a in pending if a.get('review') == '미검토' and not keyword_reference(a)]
+    log.info('보류 사유: %s', dict(Counter(a.get('ai_wait_reason','검토 대기') for a in held)))
     limit = len(eligible) if morning else MAX_ALERTS
     queued = max(0, len(eligible) - limit)
     pending = eligible[:limit]
-    log.info('필터: 발송 %d / AI 미검토 보류 %d / 다음 회차 대기 %d / 최소 %d점', len(pending), held, queued, MIN_SCORE)
+    log.info('필터: 발송 %d / AI 미검토 보류 %d / 다음 회차 대기 %d / 최소 %d점', len(pending), len(held), queued, MIN_SCORE)
     save(s)
     title = ('🌅 아침 브리핑' if morning else '📊 정기 보고') + now.strftime(' %m/%d %H:%M KST')
-    rule_count = sum(not a['needs_ai'] for a in pending)
-    suffix = (f'\n\n🔎 검색 작업: 성공 {successes}회 / 실패 {failures}회'
-              f'\n🕒 대상: {cutoff:%m/%d %H:%M} ~ {end:%m/%d %H:%M} KST'
-              f'\n📰 대상 시간대 고유 URL: {len(raw)}건 / 이번 발송 대상: {len(pending)}건'
-              f'\n♻️ 중복 제외: {duplicate_count}건'
-              f'\n⏳ AI 호출 미완료: {call_held}건 / 판정 검증 보류: {validation_held}건'
-              f'\n📥 발송 상한 대기: {queued}건'
-              f'\n분류: 규칙 발송 대상 {rule_count}건 / AI 판정 발송 대상 {len(pending)-rule_count}건'
-              f'\n이번 AI 분류 후보: {len(review_targets)}건'
-              f'\n🤖 실제 AI 요청: Gemini {ai.attempts["gemini"] if ai else 0}회 / Groq {ai.attempts["groq"] if ai else 0}회')
-    if wait_text:
-        suffix += '\nAI 보류 사유: ' + wait_text[:650]
-    if held:
-        suffix += '\n⚠️ 미완료/검증 보류 기사가 있어 이번 보고는 검토가 완료되지 않은 상태입니다.'
-    if ai and ai.issues:
-        suffix += '\nAI 처리 상태: ' + '; '.join(sorted(set(ai.issues)))[:450]
-    if failures:
-        suffix += '\n⚠️ 일부 검색이 실패했습니다. 기사 누락 가능성이 있습니다.'
+    log.info('검색 성공 %d / 실패 %d / 고유 URL %d / 중복 %d / AI 후보 %d / 요청 %s / 상태 %s',
+             successes, failures, len(raw), duplicate_count, len(review_targets),
+             dict(ai.attempts) if ai else {}, sorted(set(ai.issues)) if ai else [])
     if not pending:
-        message = (f'⚠️ AI 검토를 완료하지 못한 후보가 {held}건 있습니다. 기사 없음으로 판단할 수 없습니다.'
-                   if held else '현재 발송 기준을 충족한 새 기사가 없습니다.')
-        ok = deliver(message + suffix, title, 0xF39C12 if held or failures else 0x3498DB)
+        message = f'발송할 새 기사 없음 · 판정 보류 {len(held)}건' if held else '발송할 새 기사가 없습니다.'
+        if failures:
+            message += ' · 일부 검색 실패'
+        ok = deliver(message, title, 0xF39C12 if failures else 0x3498DB)
         return 0 if ok and not failures else 1
     group, lines = [], []
     def flush():
-        badge, color = emphasis(max(item['priority'] for item in group))
-        if not deliver('\n\n'.join(lines) + suffix, title + ' · ' + badge, color):
+        _, color = emphasis(max(item['priority'] for item in group))
+        caption = f'기사 {len(group)}건' + (' · 일부 검색 실패' if failures else '')
+        if not deliver('\n'.join(lines), title + ' · ' + caption, color):
             return False
         stamp = datetime.now(KST).isoformat()
         for item in group:
@@ -1141,15 +1178,15 @@ def main():
         url = a['url'].replace('(', '%28').replace(')', '%29')
         if len(url) > 1800:
             url = 'https://news.google.com/search?q=' + requests.utils.quote(a['title'])
-        review = ' / ' + a['review'] if a.get('review') else ''
-        badge, _ = emphasis(a['priority'])
+        label = '키워드 참고' if keyword_reference(a) else a['category']
+        if label == '키워드 참고':
+            label += '·' + a['category']
+        icon = '🚨 ' if a['priority'] >= 95 else ('🟠 ' if a['priority'] >= 90 else '')
         link = f'[{safe}]({url})'
         if a['priority'] >= 90:
             link = '**' + link + '**'
-        basis = a.get('ai_result', {}).get('scope_label', a.get('basis', '규칙 판별'))
-        basis = re.sub(r'([\\*_[\]`])', r'\\\1', basis[:140])
-        line = f"{badge} **[{a['priority']}점] [{a['category']}]**\n{link}\n근거: {basis}"
-        if lines and len('\n\n'.join(lines + [line]) + suffix) > 3800:
+        line = f"{icon}**{a['priority']}점 · {label}** {link}"
+        if lines and len('\n'.join(lines + [line])) > 3800:
             if not flush():
                 return 1
             group, lines = [], []
