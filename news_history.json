@@ -1265,7 +1265,8 @@
     "https://www.getnews.co.kr/news/articleView.html?idxno=885843": "2026-11-03T17:03:06.006852+09:00",
     "https://www.smartbizn.com/news/articleView.html?idxno=158335": "2026-11-03T17:03:06.006852+09:00",
     "http://www.finomy.com/news/articleView.html?idxno=265506": "2026-11-03T18:02:51.147894+09:00",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365": "2026-11-03T19:02:45.192077+09:00"
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365": "2026-11-03T19:02:45.192077+09:00",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A": "2026-11-03T20:18:01.551373+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2033,7 +2034,8 @@
     "05c1ae11adba5d225c443579f29f939bbf02cd27e529606e0780d90b1276172f": "2026-11-03T17:03:06.006852+09:00",
     "bf2242327c74542cf9bd64e404299c16397dea04eacd8d2e1842f4626a562c90": "2026-11-03T17:03:06.006852+09:00",
     "069386bb38a89df9fb80516c07ab87d1cc67bd7046d0394f8618347a801af0be": "2026-11-03T18:02:51.147894+09:00",
-    "d25e6564ec33f2004a4f56c1bbbede2c024ab367a8a2955b857ef35169f2ec77": "2026-11-03T19:02:45.192077+09:00"
+    "d25e6564ec33f2004a4f56c1bbbede2c024ab367a8a2955b857ef35169f2ec77": "2026-11-03T19:02:45.192077+09:00",
+    "84409ce78c95b629837e2eb4f5780a09481ce266c757e5c292ef81a79e9766d6": "2026-11-03T20:18:01.551373+09:00"
   },
   "pending": {
     "https://www.vegannews.co.kr/news/article.html?no=400002": {
@@ -2048,7 +2050,7 @@
       "category": "세무 검토 참고",
       "priority": 70,
       "needs_ai": true,
-      "filter_version": 12,
+      "filter_version": 14,
       "ai_wait_reason": "핵심 사건 분류 불일치",
       "ai_failure_kind": "validation",
       "review": "미검토"
@@ -8442,7 +8444,7 @@
       "category": "세무 검토 참고",
       "priority": 70,
       "needs_ai": true,
-      "filter_version": 12,
+      "filter_version": 14,
       "ai_wait_reason": "핵심 사건 분류 불일치",
       "ai_failure_kind": "validation",
       "review": "미검토"
@@ -8459,7 +8461,7 @@
       "category": "관심기업 동향",
       "priority": 80,
       "needs_ai": true,
-      "filter_version": 12,
+      "filter_version": 14,
       "ai_result": {
         "category": "관심기업 동향",
         "score": 80,
@@ -8469,6 +8471,20 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A": {
+      "title": "[여기는 포항] 포스코 홀딩스, 3분기 영업이익 9천450억 원 외",
+      "summary": "포스코 홀딩스는 올 3분기 연결기준 매출이 19조천410억 원, 영업이익 9천450억 원, 순이익 3천800억 원의 실적을 냈다고 발표했습니다. 세부적으로는 철강 부문에서 포스코 가 4분기 만에 4천억 원대 영업이익을 회복했고...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A",
+      "date": "Tue, 03 Nov 2026 20:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": false,
+      "filter_version": 14
     }
   },
   "brief_sent": {
@@ -9206,6 +9222,11 @@
       "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365",
       "title": "대구 ·달성·이수페타시스, 5천억 원 투자협약",
       "date": "Tue, 03 Nov 2026 18:40:00 +0900"
+    },
+    {
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A",
+      "title": "[여기는 포항] 포스코 홀딩스, 3분기 영업이익 9천450억 원 외",
+      "date": "Tue, 03 Nov 2026 20:02:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9271,7 +9292,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 32
+    "2026-11-03": 34
   },
   "ai_cooldowns": {}
 }
