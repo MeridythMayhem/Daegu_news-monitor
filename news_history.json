@@ -1263,7 +1263,8 @@
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKY2pnOU9IdGZPVWpCS0l1M0FUeHo2OERUQUxNUGVBVmQxYl81UFdQcTJSUmt1c1o2T0VUakdRX2ptR2pwNEtCTGh2SzVBelREYlBnX0lVQzlYazJJdVc0OU9ISGNXWGM?oc=5": "2026-11-03T15:02:50.871570+09:00",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOek1UZk4zSk9ycWFGaEpLaDlNY3oybE01MWpRaEFoMVNOVWlRZUpIU2ZyNWEzMWZtRndWUk85ekl1SGU5UGJobnNoRzdNeWo5YWlqSHVoMmZDdjdSSmIxZ0FBbl9PRGlUcTBjX1huZ0doVzNtdWt5ZVZ2SnhvSHZpVkdtOUE3c2hnZGtIcXdTOS1OenZNdl9ZRTZoeFBrWGpIbFlPSEMwWERsNzF5bkhiRTNnbUI3WVpqcFhMeF8yOVNId9IBxwFBVV95cUxOVy1pYzlKRWgwcXRFR1ZzT0ctdjBPdmpjTW1TNlNkVDR1U2l1WXBtOVA5aTVaZzhyQ3VTcmRlM0p2NUw2eHh4cV9zY1ZpblJwQnJfbF9pY3kweDJXZmotXzRnVHlobUFIb09KM1JJQ2NqcjFkUVlVYl9LSHZNcy1vNFItRTgwQkdLdnI0Zy1VRTh4dEc2R25lX3lJMHN6bkJXOGlMbmwxd2lWZWJRS000aWxidjNrbkFheDl3QUU2T2hXaVBmRVVB?oc=5": "2026-11-03T17:03:06.006852+09:00",
     "https://www.getnews.co.kr/news/articleView.html?idxno=885843": "2026-11-03T17:03:06.006852+09:00",
-    "https://www.smartbizn.com/news/articleView.html?idxno=158335": "2026-11-03T17:03:06.006852+09:00"
+    "https://www.smartbizn.com/news/articleView.html?idxno=158335": "2026-11-03T17:03:06.006852+09:00",
+    "http://www.finomy.com/news/articleView.html?idxno=265506": "2026-11-03T18:02:51.147894+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2029,22 +2030,39 @@
     "176fd6aa629a00a82bd938f73b83b854167a23b06a6c68212295b376eb774034": "2026-11-03T15:02:50.871570+09:00",
     "0367dd4744aa168d3381145671b46b289a37396c8291298984d6d00919e34a01": "2026-11-03T17:03:06.006852+09:00",
     "05c1ae11adba5d225c443579f29f939bbf02cd27e529606e0780d90b1276172f": "2026-11-03T17:03:06.006852+09:00",
-    "bf2242327c74542cf9bd64e404299c16397dea04eacd8d2e1842f4626a562c90": "2026-11-03T17:03:06.006852+09:00"
+    "bf2242327c74542cf9bd64e404299c16397dea04eacd8d2e1842f4626a562c90": "2026-11-03T17:03:06.006852+09:00",
+    "069386bb38a89df9fb80516c07ab87d1cc67bd7046d0394f8618347a801af0be": "2026-11-03T18:02:51.147894+09:00"
   },
   "pending": {
-    "https://www.betanews.net/article/view/beta202611030139": {
-      "title": "\" 포스코 인터, 에너지 사업 실적 견고 지속\"-삼성證",
-      "summary": "포스코 인터내셔널에 대해 에너지 사업 실적의 견고한 흐름이 지속되고 있다는 분석이 나왔다. 삼성증권은 포스코 인터내셔널에 대한 투자의견 '매수'와 목표주가 80,000원을 유지한다고 밝혔다. 삼성증권 백재승...",
-      "url": "https://www.betanews.net/article/view/beta202611030139",
-      "date": "Tue, 03 Nov 2026 16:42:00 +0900",
+    "https://www.seoulfn.com/news/articleView.html?idxno=641827": {
+      "title": "경북교육청, 교육공무직 인사 ·노무관리 실무 역량 강화 나서",
+      "summary": "경북교육청은 이달 3~4일 이틀간 영덕 파나크 오퍼레이티드 바이 소노( 영덕 바이 소노벨)에서 도내 22개 교육지원청 교육공무직 인사 업무담당자 24명을 대상으로 '4세대 지능형 나이스 교육공무직 인사 및 노무관리 분야...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641827",
+      "date": "Tue, 03 Nov 2026 17:25:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
       "priority": 0,
       "needs_ai": true,
       "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEx4cEx3cHN0Rmg5cWZDLWtKMFlzMXhSVldpQXljeGJaU2dfblh0NFJDbG9Lc0g3NXdIVU9FbGhLcWZGcExoWlUzUXNzOUNXcWJibUZtbzZEQVoxVW9NeUVFZHlWd0hDMF9hU1lFNXhzSi1kNC1tNUVrQ0pNUHRMWnNUdU53UmJTd3NTYkQtYTdHZnBuS2RVNWc4MWFXaExEYzVZ?oc=5": {
+      "title": "Daegu Moves to Ease Investment Rules as Isu Petasys Expands - Seoul Economic Daily",
+      "summary": "Daegu Moves to Ease Investment Rules as Isu Petasys Expands Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEx4cEx3cHN0Rmg5cWZDLWtKMFlzMXhSVldpQXljeGJaU2dfblh0NFJDbG9Lc0g3NXdIVU9FbGhLcWZGcExoWlUzUXNzOUNXcWJibUZtbzZEQVoxVW9NeUVFZHlWd0hDMF9hU1lFNXhzSi1kNC1tNUVrQ0pNUHRMWnNUdU53UmJTd3NTYkQtYTdHZnBuS2RVNWc4MWFXaExEYzVZ?oc=5",
+      "date": "Tue, 03 Nov 2026 08:32:58 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
       "review": "AI 관련성 낮음"
     }
   },
@@ -2055,72 +2073,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089183": {
-      "title": "경북 , 미래산업 투자망 넓힌다…구미 3500억 영구자석 투자협약",
-      "summary": "경북 도와 구미시는 LS전선의 100% 자회사인 코리아모션웍스(KMW)와 희토류 영구자석 생산시설 구축을 위한 투자양해각서( MOU )를 체결했다. KMW는 2029년까지 구미 인동공장 내 약 1만5천㎡ 부지에 3천500억원을 투자하고 212명을...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089183",
-      "date": "Sun, 01 Nov 2026 17:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역경제·기업동향",
-        "score": 80,
-        "evidence": "경북 , 미래산업 투자망 넓힌다…구미 3500억 영구자석 투자협약",
-        "provider": "gemini",
-        "scope_label": "관내: 경북, 구미",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.meconomynews.com/news/articleView.html?idxno=203136": {
-      "title": "[인사] 에코프로 그룹 오상영 부사장 승진 외",
-      "summary": "◇부사장 승진 ▲ 에코프로 비엠 오상영 ▲ 에코프로 머티리얼즈 이종철 ▲ 에코프로 이노베이션 최선미 ◇상무 승진 ▲ 에코프로 오경환 이강혁 임호균 조장훈 채문영 최우영 ▲ 에코프로 에이치엔 손용주 최진형...",
-      "url": "https://www.meconomynews.com/news/articleView.html?idxno=203136",
-      "date": "Sun, 01 Nov 2026 17:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "주요인물·기관 인사",
-      "priority": 90,
-      "needs_ai": false,
-      "filter_version": 12
-    },
-    "https://biz.sbs.co.kr/article_hub/20000343479?division=NAVER": {
-      "title": "포스코 노조, 7일 임금교섭 잠정 합의안 조합원 찬반투표",
-      "summary": "포스코 노조가 오는 7일 임금교섭 잠정 합의안에 대한 조합원 찬반투표를 진행합니다. 한국노총 금속노련 포스코 노동조합 7일 오전 6시부터 오후 5시까지 투표를 진행할 계획이라고 오늘(1일) 밝혔습니다. 조합원...",
-      "url": "https://biz.sbs.co.kr/article_hub/20000343479?division=NAVER",
-      "date": "Sun, 01 Nov 2026 17:09:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://www.mk.co.kr/article/12192928": {
-      "title": "[단독] 돈줄 마른 한전, 전력망 하세월 … 요르단 발전소 지분매각 검토",
-      "summary": "이 밖에 한국가스공사 의 비핵심 해외 자원 개발 지분 정리 등 잠정 보류됐던 주요 공기업의 매각 대기 매물들도 다시 검토대에 오를 것이라는 관측이다. 총리 사전 결재 단계가 해제됐어도 입찰 체감률 제한과 재감정...",
-      "url": "https://www.mk.co.kr/article/12192928",
-      "date": "Sun, 01 Nov 2026 17:37:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 검토 참고",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "https://www.ksmnews.co.kr/news/view.php?idx=627862": {
       "title": "달서구· 대구 지속가능발전협 MOU",
       "summary": "김용판 달서구청장은 지난달 29일 구청장실에서 대구 지속가능발전협의회 박선 회장과 지역... 지속가능발전협의회 운영 경험과 우수 사례를 공유하고 지역 지속가능발전목표 이행 방안도 함께 논의할 계획이다.특히 대구 ...",
@@ -8297,6 +8249,152 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://www.seoulfn.com/news/articleView.html?idxno=641827": {
+      "title": "경북교육청, 교육공무직 인사 ·노무관리 실무 역량 강화 나서",
+      "summary": "경북교육청은 이달 3~4일 이틀간 영덕 파나크 오퍼레이티드 바이 소노( 영덕 바이 소노벨)에서 도내 22개 교육지원청 교육공무직 인사 업무담당자 24명을 대상으로 '4세대 지능형 나이스 교육공무직 인사 및 노무관리 분야...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=641827",
+      "date": "Tue, 03 Nov 2026 17:25:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "http://www.finomy.com/news/articleView.html?idxno=265506": {
+      "title": "한수원, 유럽 원전 디지털 기기 인증 협력···TUV 라인란드와 MOU",
+      "summary": "현대경제신문 박희민 기자 | 한국수력원자력 이 유럽 원전에 공급할 디지털 기기의 인증을 위해 글로벌 시험·인증기관 TUV 라인란드와 협력 체계를 마련했다. 한수원은 TUV 라인란드와 '유럽 원자력발전소의 디지털 기기...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=265506",
+      "date": "Tue, 03 Nov 2026 17:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "한수원, 유럽 원전 디지털 기기 인증 협력···TUV 라인란드와 MOU",
+        "provider": "gemini",
+        "scope_label": "관심기업: 한국수력원자력",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304132": {
+      "title": "한수원, TUV 라인란드와 유럽 원전 디지털 인증 협력 MOU 체결",
+      "summary": "한국수력원자력 (사장 김회천)은 3일 TUV 라인란드(TUV Rheinland)와 유럽 원자력발전소 디지털 기기 인증기술 협력을 위한 양해각서(MOU)를 체결했다. 이번 협약으로 한수원은 유럽 원전에 적용되는 디지털 설비의 인증...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304132",
+      "date": "Tue, 03 Nov 2026 17:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "한수원, TUV 라인란드와 유럽 원전 디지털 인증 협력 MOU 체결",
+        "provider": "gemini",
+        "scope_label": "관심기업: 한국수력원자력",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBNNXBWaTdERVJBLTRiWHlSaWFUbGp5bTNyall3UmRfaUVSMTBMYWkycjkzS3p0YmlGUmVwTnp6YWNtcjBoNHdHS2xoM0MxM3AydHZXMHRCUU1QYkJSckItV2dvVWcyejk4c2VOZ2I0LUtydw?oc=5": {
+      "title": "포스코퓨처엠, 실적 반등에 재무지표 개선…투자부담 관리 '과제' - 마켓인",
+      "summary": "포스코퓨처엠, 실적 반등에 재무지표 개선…투자부담 관리 '과제' 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNNXBWaTdERVJBLTRiWHlSaWFUbGp5bTNyall3UmRfaUVSMTBMYWkycjkzS3p0YmlGUmVwTnp6YWNtcjBoNHdHS2xoM0MxM3AydHZXMHRCUU1QYkJSckItV2dvVWcyejk4c2VOZ2I0LUtydw?oc=5",
+      "date": "Tue, 03 Nov 2026 08:41:13 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "관심기업 동향",
+        "score": 80,
+        "evidence": "포스코퓨처엠, 실적 반등에 재무지표 개선…투자부담 관리 '과제' - 마켓인",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코퓨처엠",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSG9ob3JJUElES3FBT1VhajA1S2JLVUlVc3J2M3RvektxUEx3YVpuemRFS25uc2l4a1g2Q2ZVbGl5cmo1d3pwUzRza0dod2w2LVZZWlVvTmtZWkduNjFJblFBRXYwb3g1MlFhY2xsVjd5Y1VOZnNsUmRxMkpLVVlVQWpFY2dGd3ZSVnBTbHFGT1haaGVaTjNDYl82ZjZGc1M3MUYxajFycnlwVXVheTJFRFp0c3YxaEw2c1lQRXF4NDFYWlJo?oc=5": {
+      "title": "Posco: Q3 Earnings Snapshot - kare11.com",
+      "summary": "Posco: Q3 Earnings Snapshot kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSG9ob3JJUElES3FBT1VhajA1S2JLVUlVc3J2M3RvektxUEx3YVpuemRFS25uc2l4a1g2Q2ZVbGl5cmo1d3pwUzRza0dod2w2LVZZWlVvTmtZWkduNjFJblFBRXYwb3g1MlFhY2xsVjd5Y1VOZnNsUmRxMkpLVVlVQWpFY2dGd3ZSVnBTbHFGT1haaGVaTjNDYl82ZjZGc1M3MUYxajFycnlwVXVheTJFRFp0c3YxaEw2c1lQRXF4NDFYWlJo?oc=5",
+      "date": "Tue, 03 Nov 2026 08:15:15 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "해외기업 동향",
+        "score": 80,
+        "evidence": "Posco: Q3 Earnings Snapshot - kare11.com",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50dTNTSUJXUlVvSktmM2l0TG1rMWl3dFY3TFdBT3ZNb3pocF9FdG1VckZDcVFpX05TZzdhSjdqLXpWbVZDV0p3NGsybzNQSGxEdWxz?oc=5": {
+      "title": "L&F, a secondary battery material company, announced on the 3rd that it has signed a contract wi.. - 매일경제",
+      "summary": "L&F, a secondary battery material company, announced on the 3rd that it has signed a contract wi.. 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50dTNTSUJXUlVvSktmM2l0TG1rMWl3dFY3TFdBT3ZNb3pocF9FdG1VckZDcVFpX05TZzdhSjdqLXpWbVZDV0p3NGsybzNQSGxEdWxz?oc=5",
+      "date": "Tue, 03 Nov 2026 08:06:06 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "해외기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "해외기업 동향",
+        "score": 80,
+        "evidence": "L&F, a secondary battery material company, announced on the 3rd that it has signed a contract wi.. - 매일경제",
+        "provider": "gemini",
+        "scope_label": "관심기업: 엘앤에프",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEx4cEx3cHN0Rmg5cWZDLWtKMFlzMXhSVldpQXljeGJaU2dfblh0NFJDbG9Lc0g3NXdIVU9FbGhLcWZGcExoWlUzUXNzOUNXcWJibUZtbzZEQVoxVW9NeUVFZHlWd0hDMF9hU1lFNXhzSi1kNC1tNUVrQ0pNUHRMWnNUdU53UmJTd3NTYkQtYTdHZnBuS2RVNWc4MWFXaExEYzVZ?oc=5": {
+      "title": "Daegu Moves to Ease Investment Rules as Isu Petasys Expands - Seoul Economic Daily",
+      "summary": "Daegu Moves to Ease Investment Rules as Isu Petasys Expands Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEx4cEx3cHN0Rmg5cWZDLWtKMFlzMXhSVldpQXljeGJaU2dfblh0NFJDbG9Lc0g3NXdIVU9FbGhLcWZGcExoWlUzUXNzOUNXcWJibUZtbzZEQVoxVW9NeUVFZHlWd0hDMF9hU1lFNXhzSi1kNC1tNUVrQ0pNUHRMWnNUdU53UmJTd3NTYkQtYTdHZnBuS2RVNWc4MWFXaExEYzVZ?oc=5",
+      "date": "Tue, 03 Nov 2026 08:32:58 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "해외기업 동향",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "exclusion_reason": "제목의 관내 지역과 AI 인용 지역 불일치",
+      "review": "AI 관련성 낮음"
     }
   },
   "brief_sent": {
@@ -9024,6 +9122,11 @@
       "url": "https://www.smartbizn.com/news/articleView.html?idxno=158335",
       "title": "포스코 퓨처엠, 베트남 음극재 사업에 현대차그룹 1000억원 투자 유치 추...",
       "date": "Tue, 03 Nov 2026 16:24:00 +0900"
+    },
+    {
+      "url": "http://www.finomy.com/news/articleView.html?idxno=265506",
+      "title": "한수원, 유럽 원전 디지털 기기 인증 협력···TUV 라인란드와 MOU",
+      "date": "Tue, 03 Nov 2026 17:32:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9089,7 +9192,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 25
+    "2026-11-03": 28
   },
   "ai_cooldowns": {}
 }
