@@ -1269,7 +1269,8 @@
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A": "2026-11-03T20:18:01.551373+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5": "2026-11-03T21:36:18.038139+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628315": "2026-11-03T21:36:18.038139+09:00",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5": "2026-11-03T21:36:18.038139+09:00"
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5": "2026-11-03T21:36:18.038139+09:00",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=564334": "2026-11-03T22:02:04.479772+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2041,7 +2042,8 @@
     "84409ce78c95b629837e2eb4f5780a09481ce266c757e5c292ef81a79e9766d6": "2026-11-03T20:18:01.551373+09:00",
     "dd7a88532f4c5c5a7e24a657972eb1bc6bd230476b1148a03563cdc36f6c1449": "2026-11-03T21:36:18.038139+09:00",
     "63a3e01cc171ee30c61c0cff5ed53d3104d04b2fdc961a5f8a2fc12fd60342a9": "2026-11-03T21:36:18.038139+09:00",
-    "cac73b4e2973d850fe6b1c6c02cbe087b5e8a3ea1ad117f336b727491c25d3ff": "2026-11-03T21:36:18.038139+09:00"
+    "cac73b4e2973d850fe6b1c6c02cbe087b5e8a3ea1ad117f336b727491c25d3ff": "2026-11-03T21:36:18.038139+09:00",
+    "ae83dc1647f99d0bc89bdf02093f43981c039b382a1291ec92e78f87cb32b364": "2026-11-03T22:02:04.479772+09:00"
   },
   "pending": {},
   "ai": {
@@ -2051,21 +2053,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.ujeil.com/news/articleView.html?idxno=394488": {
-      "title": "SK이노, 전력사업 성장기반 강화 사장단 인사 단행",
-      "summary": "정 총괄사장은 산업통상자원부 차관, 한국전력공사 사장, 한국가스공사 사장 등을 역임하며, 에너지믹스, 천연가스 수급 등 전력인프라 및 전력시장 구조를 입체적으로 이해하는 손꼽히는 에너지 전문가이다. 강동수...",
-      "url": "http://www.ujeil.com/news/articleView.html?idxno=394488",
-      "date": "Sun, 01 Nov 2026 21:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001500.html": {
       "title": "30조 목동 수주전서 '나홀로 빈손' 포스코 이앤씨 브랜드 시험대",
       "summary": "주요 대형 건설사들이 핵심 단지를 하나둘 선점해 나가는 반면, 포스코 이앤씨는 14개 단지 중 단 한 곳의... 이처럼 주요 대형 시공사들의 윤곽이 드러나는 반면, 단지 선점을 하지 못한 포스코 이앤씨, 롯데건설...",
@@ -8503,6 +8490,19 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=564334": {
+      "title": "[사설] 삼성SDS와 이수페타시스의 구미·대구 투자",
+      "summary": "경북 도와 구미시가 유치한 삼성SDS 구미 AI 데이터센터가 2일 착공됐다고 한다. 2028년 12월 준공해 2029년 3월... 이수페타시스와 달성군도 2일 대구국가산업단지 내 7공장 신설을 위한 투자 협약( MOU )을 체결했다. 이 협약에...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564334",
+      "date": "Tue, 03 Nov 2026 21:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9260,6 +9260,11 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5",
       "title": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 - 웹이코노미",
       "date": "Tue, 03 Nov 2026 11:50:03 GMT"
+    },
+    {
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564334",
+      "title": "[사설] 삼성SDS와 이수페타시스의 구미·대구 투자",
+      "date": "Tue, 03 Nov 2026 21:54:00 +0900"
     }
   ],
   "brief_articles": [
