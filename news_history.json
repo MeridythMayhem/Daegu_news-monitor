@@ -1254,7 +1254,8 @@
     "https://www.tbc.co.kr/news/view?pno=20261103083637AE07870&id=212898": "2026-11-03T11:02:50.204315+09:00",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IVXFhNVRhM3RsNUJqTG5tam1aNVRtMExkRVQwdWlKMzNmaVpiZWNJd3pEZ3V1STdYcWc4SDZZMExvMDY5M19SUTk5cXJSdVVKMHVUd01Bc2ZDdDQ1b2RfcS1UTW1tdTZZWXFhSDBVV2k?oc=5": "2026-11-03T11:02:50.204315+09:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jVHA5a1pWd1gwc1FCZWowU19OX0lCQkYwc1ktVXBJVWcwVFVoRTMyQ1RMWGhuU2F6SUsxSXBDMV9NS0l3Mkw1SDFGYzV3WkRFeGF4R0swMzFobEo5SWxpMDM0VERIVXFHU2hvLUkyd2tLUG01eFZB?oc=5": "2026-11-03T11:02:50.204315+09:00",
-    "https://www.ajunews.com/view/20261103095457354": "2026-11-03T12:02:59.568661+09:00"
+    "https://www.ajunews.com/view/20261103095457354": "2026-11-03T12:02:59.568661+09:00",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5": "2026-11-03T13:02:44.118101+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2011,61 +2012,32 @@
     "51a876d4eade45af94698e8e05aada38ef6ec093413898abe55270434ccf17dd": "2026-11-03T11:02:50.204315+09:00",
     "791c05aafb8676340380ddff8388c206f31f920589eadda20262dff7230dcda8": "2026-11-03T11:02:50.204315+09:00",
     "d1cee7837eef415cf2097678e5cdd6b70b7da4f19f1e2c5c7823cf947d670f9e": "2026-11-03T11:02:50.204315+09:00",
-    "a0394e0ed36d5c85528d32f0823e906d27cf1faabad6a018d4bd5b49d3ca0aee": "2026-11-03T12:02:59.568661+09:00"
+    "a0394e0ed36d5c85528d32f0823e906d27cf1faabad6a018d4bd5b49d3ca0aee": "2026-11-03T12:02:59.568661+09:00",
+    "d7b0950e8f00523867cfa72021f5e4f7b944b498513a53e29a877ef89679849e": "2026-11-03T13:02:44.118101+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://bizhankook.com/articles/sangsangin-yoo-jun-won-appeal-ruling.html": {
+      "title": "7년 끈 상상인 불법 대출 사건, 유준원 대표 항소심 선고 내년 1월 확정",
+      "summary": "원의 추징 을 명령했다. 함께 기소된 상상인저축은행에는 벌금 64억 3600만 원과 추징 금 32억 1800만 원을... KBI그룹에서 인수를 주도하는 곳은 구미 기반의 폐기물 처리 업체 KBI국인산업으로, 과거 라온저축은행을 인수한...",
+      "url": "https://bizhankook.com/articles/sangsangin-yoo-jun-won-appeal-ruling.html",
+      "date": "Tue, 03 Nov 2026 12:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    }
+  },
   "ai": {
     "2026-10-28": 17,
     "2026-10-29": 62
   },
   "cursor": 0,
   "archive": {
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450846": {
-      "title": "포스코 노조 파업 철회하고 7일 임금협상 잠정합의안 투표, 과반 찬성하...",
-      "summary": "포스코 노동조합이 2026년 임금협상 잠정 합의안을 놓고 조합원 찬반투표를 실시한다. 1일 철강업계 취재를 종합하면 포스코 노조는 7일 오전 6시부터 오후 5시까지 임금협상 잠정 합의안을 두고 조합원 찬반투표를...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450846",
-      "date": "Sun, 01 Nov 2026 12:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조 파업 철회하고 7일 임금협상 잠정합의안 투표, 과반 찬성하...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.fnnews.com/news/202611011159199807": {
-      "title": "포스코 노조, 7일 임협 찬반투표…3차 파업 앞두고 잠정합의",
-      "summary": "포스코 노동조합이 오는 7일 올해 임금교섭 잠정합의안에 대한 조합원 찬반투표를 실시한다. 노사는... 1일 포스코 와 한국노총 금속노련 포스코 노동조합에 따르면 포스코 노조는 오는 7일 오전 6시부터 오후 5시까지...",
-      "url": "https://www.fnnews.com/news/202611011159199807",
-      "date": "Sun, 01 Nov 2026 12:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조, 7일 임협 찬반투표…3차 파업 앞두고 잠정합의",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.tournews21.com/news/articleView.html?idxno=147106": {
       "title": "KOREA RIT, 국제 화재현장 생존 챔피언십 'RIT Challenge' 2라운드 1위",
       "summary": "게다가 지난 10월 16일 경기 부천 공장 화재에서 RIT가 소방관 고립 사실을 확인한 뒤 故김진석 소방위를... KOREA RIT는 팀장인 울산 중부소방서 김세학 소방장을 비롯해 경기 시흥소방서 이재환 소방위, 대구 119특...",
@@ -8098,6 +8070,58 @@
         "evidence_id": 0
       },
       "review": "AI 참고 적합"
+    },
+    "https://bizhankook.com/articles/sangsangin-yoo-jun-won-appeal-ruling.html": {
+      "title": "7년 끈 상상인 불법 대출 사건, 유준원 대표 항소심 선고 내년 1월 확정",
+      "summary": "원의 추징 을 명령했다. 함께 기소된 상상인저축은행에는 벌금 64억 3600만 원과 추징 금 32억 1800만 원을... KBI그룹에서 인수를 주도하는 곳은 구미 기반의 폐기물 처리 업체 KBI국인산업으로, 과거 라온저축은행을 인수한...",
+      "url": "https://bizhankook.com/articles/sangsangin-yoo-jun-won-appeal-ruling.html",
+      "date": "Tue, 03 Nov 2026 12:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 0,
+      "needs_ai": true,
+      "filter_version": 12,
+      "review": "AI 관련성 낮음"
+    },
+    "https://www.kbsm.net/news/view.php?idx=540192": {
+      "title": "이수페타시스, 달성군 국가산단에 5천억 투자···7공장 건립",
+      "summary": "이수페타시스는 이번 협약에 따라 달성군 구지읍 대구 국가산업단지 2단계 부지 약 5만1000평(16만9000㎡)에 5000억 원을 투자해 7공장을 건립 할 계획이다. 대구 국가산단에 입주하는 첫 기업이다.이수페타시스는 투자...",
+      "url": "https://www.kbsm.net/news/view.php?idx=540192",
+      "date": "Tue, 03 Nov 2026 12:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "경제·투자",
+      "priority": 70,
+      "needs_ai": true,
+      "filter_version": 12
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5": {
+      "title": "POSCO E&C Q3 Operating Profit approximately $35.9 Million: Plant Unit Turns Profitable Despite Sinansan Line Setback - BigGo Finance",
+      "summary": "POSCO E&C Q3 Operating Profit approximately $35.9 Million: Plant Unit Turns Profitable Despite Sinansan Line Setback BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5",
+      "date": "Tue, 03 Nov 2026 03:05:00 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 80,
+      "needs_ai": true,
+      "filter_version": 12,
+      "ai_result": {
+        "category": "해외기업 동향",
+        "score": 80,
+        "evidence": "POSCO E&C Q3 Operating Profit approximately $35.9 Million: Plant Unit Turns Profitable Despite Sinansan Line Setback - BigGo Finance",
+        "provider": "gemini",
+        "scope_label": "관심기업: 포스코",
+        "evidence_id": 0
+      },
+      "review": "AI 참고 적합"
     }
   },
   "brief_sent": {
@@ -8780,6 +8804,11 @@
       "url": "https://www.ajunews.com/view/20261103095457354",
       "title": "농기계 수출상담회 대구 서 개최…14개국 25개사 참여",
       "date": "Tue, 03 Nov 2026 11:02:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5",
+      "title": "POSCO E&C Q3 Operating Profit approximately $35.9 Million: Plant Unit Turns Profitable Despite Sinansan Line Setback - BigGo Finance",
+      "date": "Tue, 03 Nov 2026 03:05:00 GMT"
     }
   ],
   "brief_articles": [
@@ -8845,7 +8874,7 @@
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
-    "2026-11-03": 14
+    "2026-11-03": 16
   },
   "ai_cooldowns": {}
 }
