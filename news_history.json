@@ -1370,7 +1370,14 @@
     "http://www.popcornnews.net/news/articleView.html?idxno=138773": "2026-11-04T18:02:06.277096+09:00",
     "https://www.ceoscoredaily.com/page/view/2026110411221072681": "2026-11-04T18:02:06.277096+09:00",
     "http://www.paxetv.com/news/articleView.html?idxno=286047": "2026-11-04T18:02:06.277096+09:00",
-    "https://www.news1.kr/local/daegu-gyeongbuk/6343156": "2026-11-04T18:02:06.277096+09:00"
+    "https://www.news1.kr/local/daegu-gyeongbuk/6343156": "2026-11-04T18:02:06.277096+09:00",
+    "https://www.kmib.co.kr/article/20261104502146": "2026-11-04T19:01:54.985055+09:00",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611041706525200101626": "2026-11-04T19:01:54.985055+09:00",
+    "https://medicalworldnews.co.kr/news/view.php?idx=1510978274": "2026-11-04T19:01:54.985055+09:00",
+    "https://www.hankyung.com/article/2026110463951": "2026-11-04T19:01:54.985055+09:00",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717711": "2026-11-04T19:01:54.985055+09:00",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpCVnVyRzQ3NGFGOUYweDZpX1llRnhNVmVQQi00SkJIXzhzRnhaRVNqeEJjSUVSSEYtcUtwQ1lmRWNlQ1FNN3Z2NHlvdmxpYVlfcmdvOEY1MVljeE9LMGFSa3haSXdQRGpsTS1JRnRLdWNGT3M1YUZJYXlIUWlzNHVpcHFKVGVwdWY2VVJqbU1OVTVIY01fUFozX1lQVERPaEprS0Jn?oc=5": "2026-11-04T19:01:54.985055+09:00",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFlrVEU3YkNwT01PN0NKTzc0czVFSTExemU2eC1FaXdJX2dTcDZCajAtTUtwTHlxUG40NmQwRlZLZmtOeFM2eVZMNDA1U0NESzBDbnFNWDdiaXJrWElOUXl6Q25kOGhKT3BXczRjMGRhTllrRTRzRE5lb01GSjFuVFdWVlQ2TkJpRkM1cnlKczJRN2llSVdlNDkxU3ljX2pRaWc?oc=5": "2026-11-04T19:01:54.985055+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2243,7 +2250,14 @@
     "6c0b93fcc9db46e9b84f22abf21aa6f8979a8313e095cd47b2f540e4bada07c4": "2026-11-04T18:02:06.277096+09:00",
     "c1962b7ac0101f4bd3f983ddcb0d15ca14c9dfb2fc35c4af48bd2a42376c785b": "2026-11-04T18:02:06.277096+09:00",
     "cfdf7660c380db901473a02cf0902310de58a1b201128e60efa8e693653a0762": "2026-11-04T18:02:06.277096+09:00",
-    "db298bcd5119321e90cc482b5001c33f50b12f6d74d49704425bf7fcb3d5318d": "2026-11-04T18:02:06.277096+09:00"
+    "db298bcd5119321e90cc482b5001c33f50b12f6d74d49704425bf7fcb3d5318d": "2026-11-04T18:02:06.277096+09:00",
+    "126c70dabc2a64bacb5b01569ae61148a06a1afc490b9bc62113415956020f36": "2026-11-04T19:01:54.985055+09:00",
+    "d621b40d3d0aacbecb9b78fa78226185fc7a3a0b9977d82566021f8384e50c6f": "2026-11-04T19:01:54.985055+09:00",
+    "e241a6394a4636da2c778d04b11e6c0b59ac17e00f1152719c62c2313be2c5a7": "2026-11-04T19:01:54.985055+09:00",
+    "1d2f8e9b7ca29d324358cf0e52e74b2d47ddb5dfa365d9a0d283051dcddd95cc": "2026-11-04T19:01:54.985055+09:00",
+    "3d5f9776d322de17fc263da9a84c0e7de7018345105a083ab4438fa466535d94": "2026-11-04T19:01:54.985055+09:00",
+    "918fcbb260434eab8f387543a4890079e980d9d6de9fc35f69d6a8b336b969ac": "2026-11-04T19:01:54.985055+09:00",
+    "4999742b52991af8954824ad6ca23d6a35846fce4f7436d607b86506161bdaf0": "2026-11-04T19:01:54.985055+09:00"
   },
   "pending": {},
   "ai": {
@@ -2254,369 +2268,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.nspna.com/news/?mode=view&newsid=834275": {
-      "title": "이수페타시스 , 대구에 5000억원 투자…고성능 PCB 제7공장 건립",
-      "summary": "대구국가산단 5000평 부지에 생산시설 확충…AI 데이터센터 수요 대응 대구시, 하루 1만톤 규모 공공폐수처리시설 증설·고도화 추진 이수페타시스 (007660)가 대구에 5000억원을 투자해 고성능 인쇄회로기판(PCB) 생산시설을...",
-      "url": "https://www.nspna.com/news/?mode=view&newsid=834275",
-      "date": "Mon, 02 Nov 2026 18:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "대구국가산단 5000평 부지에 생산시설 확충…AI 데이터센터 수요 대응 대구시, 하루 1만톤 규모 공공폐수처리시설 증설·고도화 추진 이수페타시스 (007660)가 대구에 5000억원을 투자해 고성능 인쇄회로기판(PCB) 생산시설을...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 이수페타시스",
-        "evidence_id": 1
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.newsprime.co.kr/news/article.html?no=753356": {
-      "title": "달성군, 이수페타시스 5000억원 투자 유치···첨단산업 도약 발판",
-      "summary": "대구 달성군이 첨단 전자부품 기업인 이수페타시스의 5천억 원 규모 신규 투자를 확보하면서... 달성군은 기업 투자 확대와 함께 국가산단 근로자 들의 이동 편의 개선에도 나선다. 산업단지의 교통 접근성이 기업 운영과...",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=753356",
-      "date": "Mon, 02 Nov 2026 18:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "대구 달성군이 첨단 전자부품 기업인 이수페타시스의 5천억 원 규모 신규 투자를 확보하면서...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 이수페타시스",
-        "evidence_id": 1
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.thelec.kr/news/articleView.html?idxno=64721": {
-      "title": "증설, 또 증설... 이수페타시스, 7공장 투자협약",
-      "summary": "이수페타시스는 2일 대구 시, 달성군과 대구 국가산업단지에 7공장을 건립하기 위한 투자협약( MOU )을 체결했다. 부지 면적은 약 5만1000평이다. 2024년 8월 투자협약을 맺은 5공장 부지(6468평)의 약 8배에 달한다. 이번...",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=64721",
-      "date": "Mon, 02 Nov 2026 18:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "이수페타시스는 2일 대구 시, 달성군과 대구 국가산업단지에 7공장을 건립하기 위한 투자협약( MOU )을 체결했다.",
-        "provider": "gemini",
-        "scope_label": "관심기업: 이수페타시스",
-        "evidence_id": 1
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194085": {
-      "title": "포스코홀딩스 , 철강 반등·트리플코어 효과 '톡톡'…철강 본업 실적 회...",
-      "summary": "포스코홀딩스 는 2일 공시를 통해 올해 3분기 연결기준 매출액 19조1410억원, 영업이익 9450억원을 기록했다고 밝혔다. 이는 전년 동기 대비 각각 10.9%와 47.9% 증가한 수치다. 순이익은 3800억원이다. 포스코 관계자는 \"올해...",
-      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194085",
-      "date": "Mon, 02 Nov 2026 18:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.ttlnews.com/news/articleView.html?idxno=3157922": {
-      "title": "포스코홀딩스 , 3분기 영업이익 48% 증가… 3개 분기 연속 실적 개선",
-      "summary": "포스코홀딩스 는 2026년 3분기 연결 기준 매출 19조1410억원, 영업이익 9450억원, 순이익 3800억원을 달성했다고 11월 2일 공시 발표했다. 영업이익은 2025년 동기 대비 48% 대폭 뛰며 3분기 연속 우상향 흐름을 이어갔다. 국제...",
-      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3157922",
-      "date": "Mon, 02 Nov 2026 18:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089419": {
-      "title": "포스코 홀딩스, 3분기 영업이익 47.8% 늘어…순이익은 1.8% 감소",
-      "summary": "포스코 홀딩스가 올 3분기 연결기준 매출 19조1천410억원·영업이익9천450억원·순이익 3천800억원의 실적을 거뒀다. 포스코 홀딩스는 2일 3분기 기업설명회를 열고, 올 3분기 실적이 전년 동기 매출 17조2천610억원...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089419",
-      "date": "Mon, 02 Nov 2026 18:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://www.news2day.co.kr/article/20261102500169": {
-      "title": "\"철강 살아났다\"… 포스코 홀딩스, 3분기 영업이익 45% 급증",
-      "summary": "[그림=ChatGPT] [뉴스투데이=이예주 기자] 포스코 홀딩스가 올해 3분기 철강 부문의 수익성 회복에 힘입어 3개 분기 연속 실적 개선세를 이어갔다. 주력 철강사업인 포스코 가 4분기 만에 4000억원대 영업이익을 회복하면서...",
-      "url": "https://www.news2day.co.kr/article/20261102500169",
-      "date": "Mon, 02 Nov 2026 18:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://magazine.hankyung.com/business/article/202611021211b": {
-      "title": "포스코 그룹 영업익 42% 책임진 포스코 인터…가스전이 실적 버팀목",
-      "summary": "포스코홀딩스 가 발표한 그룹 연결 영업이익은 9450억원이다. 두 수치를 단순 비교하면 포스코인터내셔널의 영업이익은 그룹 전체의 42.4% 수준이다. 에너지 사업이 실적 개선을 이끌었다. 3분기 에너지부문...",
-      "url": "https://magazine.hankyung.com/business/article/202611021211b",
-      "date": "Mon, 02 Nov 2026 18:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7191846": {
-      "title": "포스코 그룹, 3분기 영업익 9400억…3개분기 연속 실적 개선",
-      "summary": "2일 포스코 그룹 지주사 포스코 홀딩스는 올해 3분기 매출 19조 1400억원 영업이익 9400억원을 기록한 것으로 잠정 집계됐다고 공시했다. 서울 강남구 포스코 센터 전경. 사진= 포스코 그룹 포스코 그룹이 주력인 철강 사업의...",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191846",
-      "date": "Mon, 02 Nov 2026 18:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "http://www.popcornnews.net/news/articleView.html?idxno=138404": {
-      "title": "포스코 DX, 3분기 영업이익 전 분기 대비 71% 반등…올해 분기 최대",
-      "summary": "포스코 DX가 3분기 영업이익을 직전 분기보다 71% 끌어올리며 올해 들어 가장 높은 분기 이익을 냈다.... 2일 금융감독원 전자공시시스템에 따르면 포스코 DX는 3분기 연결 기준 영업이익이 168억6100만 원으로 잠정...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=138404",
-      "date": "Mon, 02 Nov 2026 18:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "http://www.finomy.com/news/articleView.html?idxno=265347": {
-      "title": "포스코 홀딩스, 3분기 영업이익 9450억원···철강 회복에 전년比 48%↑",
-      "summary": "현대경제신문 박희민 기자 | 포스코 홀딩스가 철강 부문의 수익성 회복에 힘입어 3개 분기 연속 실적 개선 흐름을 이어갔다. 포스코 홀딩스는 올해 3분기 연결 기준 매출 19조1410억원, 영업이익 9450억원, 순이익 3800억원을...",
-      "url": "http://www.finomy.com/news/articleView.html?idxno=265347",
-      "date": "Mon, 02 Nov 2026 18:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://www.sedaily.com/article/20109290?ref=naver": {
-      "title": "철강 살아나고 해외사업 순풍… 포스코 그룹 ‘깜짝 실적’",
-      "summary": "이차전지 소재에서 포스코퓨처엠 (003670)의 수익성도 좋아졌다. 포스코퓨처엠 의 3분기 매출은 8350억 원으로 전년 동기 대비 4.6% 줄었지만 영업이익은 820억 원으로 22.4% 늘었다. 포스코퓨처엠 측은 “양극재 사업에서...",
-      "url": "https://www.sedaily.com/article/20109290?ref=naver",
-      "date": "Mon, 02 Nov 2026 18:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=304020": {
-      "title": "포스코 DX 3분기 영업이익 169억, 전년比 22% ↓…매출은 올해 최대",
-      "summary": "포스코 DX가 대형 디지털 전환(DX) 사업 확대에 힘입어 매출 성장을 이어갔지만, 전년 동기대비... 포스코 DX는 올해 3분기 연결기준 영업이익이 169억원으로 전년 동기보다 22.2% 감소했다고 2일 공시했다....",
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304020",
-      "date": "Mon, 02 Nov 2026 18:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5NWUgwek40bi03WWJab3VkUFl0UEt5SUtUWHpqRGFoM0k2ODNJTW9YX3NxdFFORG9OVE85MzlEeUtIR3djUGRLRzFNcTlPSFROQ1p5alRVbmh3WXI2RXlCVm5YR3h5cHZzdWp6dW1OcGZ2UQ?oc=5": {
-      "title": "대구시, 이수페타시스와 5,000억 원 규모 AI가속기용 PCB 공장 투자 협약 - 웹이코노미",
-      "summary": "대구시, 이수페타시스와 5,000억 원 규모 AI가속기용 PCB 공장 투자 협약 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NWUgwek40bi03WWJab3VkUFl0UEt5SUtUWHpqRGFoM0k2ODNJTW9YX3NxdFFORG9OVE85MzlEeUtIR3djUGRLRzFNcTlPSFROQ1p5alRVbmh3WXI2RXlCVm5YR3h5cHZzdWp6dW1OcGZ2UQ?oc=5",
-      "date": "Mon, 02 Nov 2026 09:34:49 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "대구시, 이수페타시스와 5,000억 원 규모 AI가속기용 PCB 공장 투자 협약 - 웹이코노미",
-        "provider": "gemini",
-        "scope_label": "관심기업: 이수페타시스",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41MFVWVGpDQ2VtejhVZjFoeUE4Q1JOaGVwRm8ydXRDdUthY0JfdzEtOHZ3VkRBckVmRDBHWDFiOHo2dzJkYjQxN3FxTWJGZUpQeXFrMzR2TmxxX1llUUE1WTZNcw?oc=5": {
-      "title": "[컨콜]포스코홀딩스 “2.5조 PRS 자금 중 10% 연내 자사주 소각… 리튬 가격 저점 도달” - 매일산업뉴스",
-      "summary": "[컨콜]포스코홀딩스 “2.5조 PRS 자금 중 10% 연내 자사주 소각… 리튬 가격 저점 도달” 매일산업뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41MFVWVGpDQ2VtejhVZjFoeUE4Q1JOaGVwRm8ydXRDdUthY0JfdzEtOHZ3VkRBckVmRDBHWDFiOHo2dzJkYjQxN3FxTWJGZUpQeXFrMzR2TmxxX1llUUE1WTZNcw?oc=5",
-      "date": "Mon, 02 Nov 2026 09:31:26 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "세무 검토 참고",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE82c0MtamdQV0FCUTNYS25lNXVoS2R5S3RnM1lKVkRCQnRlcG1OeUZRajdKa3JWNDlhelZQUFdWS0VLNU1QUG1ZRWJVMHRkS3FPUVRWcXo1VGFVZUJSN1dyZTZ5WWNFTTY3TDgwU0swcw?oc=5": {
-      "title": "포스코홀딩스 3분기 실적 발표…3개 분기 연속 실적 개선세 지속 - 내외일보",
-      "summary": "포스코홀딩스 3분기 실적 발표…3개 분기 연속 실적 개선세 지속 내외일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82c0MtamdQV0FCUTNYS25lNXVoS2R5S3RnM1lKVkRCQnRlcG1OeUZRajdKa3JWNDlhelZQUFdWS0VLNU1QUG1ZRWJVMHRkS3FPUVRWcXo1VGFVZUJSN1dyZTZ5WWNFTTY3TDgwU0swcw?oc=5",
-      "date": "Mon, 02 Nov 2026 09:35:10 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SODU3TzhWMHNvQS1EZS14ZUE1TDdubjFVLUlHaklCQmtsaDZlUnFVVVpFY1hLMTJYZjZ6aHFnZjhyU1NJUGZ0NUZyWW5iSjdNakk3V01DTFptZWxDbHh1VEV1LTc2ZmthQ29PQw?oc=5": {
-      "title": "포스코홀딩스, 3분기 영업이익 9450억원…전년比 48% 증가 - 시사신문",
-      "summary": "포스코홀딩스, 3분기 영업이익 9450억원…전년比 48% 증가 시사신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SODU3TzhWMHNvQS1EZS14ZUE1TDdubjFVLUlHaklCQmtsaDZlUnFVVVpFY1hLMTJYZjZ6aHFnZjhyU1NJUGZ0NUZyWW5iSjdNakk3V01DTFptZWxDbHh1VEV1LTc2ZmthQ29PQw?oc=5",
-      "date": "Mon, 02 Nov 2026 09:18:23 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxObG5NX1l2NmpMaVFWMUNfbXNsUUpNdWNJU0R1d2dMTHN6cDVPUzhtMDJjc245Zk9TR2d1aExTRjhQWFhiZ2s2N2JiOVdtbTctaW14d0RTQVo5NEk2OHMtRjZlYWFDYV8ySUJ5N1Ztb29vZFh2RkRZcHVCRUV0aDgyWG80RjNHLXNPSzc1ay11QjBLelA0YllpdkZ2dkgwb2VPYjE3RDdzbm1vOVN2c00zSElESW4yZDRIZ3FDMjI3ZmZBZDlfQVNr?oc=5": {
-      "title": "POSCO Holdings (PKX) Reports Q3 Results, Secures Approval for $3 Billion Low-Carbon Iron Plant - GuruFocus",
-      "summary": "POSCO Holdings (PKX) Reports Q3 Results, Secures Approval for $3 Billion Low-Carbon Iron Plant GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObG5NX1l2NmpMaVFWMUNfbXNsUUpNdWNJU0R1d2dMTHN6cDVPUzhtMDJjc245Zk9TR2d1aExTRjhQWFhiZ2s2N2JiOVdtbTctaW14d0RTQVo5NEk2OHMtRjZlYWFDYV8ySUJ5N1Ztb29vZFh2RkRZcHVCRUV0aDgyWG80RjNHLXNPSzc1ay11QjBLelA0YllpdkZ2dkgwb2VPYjE3RDdzbm1vOVN2c00zSElESW4yZDRIZ3FDMjI3ZmZBZDlfQVNr?oc=5",
-      "date": "Mon, 02 Nov 2026 09:43:21 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SZHVMT1BXcDZLaUREQ09ZendRMWdIU1hIOHVvUHZ4RV9HM0E1U1BNVFFnWlF5WE5TZXowNmdGeXpLT2QzN0ZRNGllR3lvM2ZsaDBMY3JTNjZKbzU0elg3Um1FbjBza0xVU0lv?oc=5": {
-      "title": "POSCO Holdings Q3 profit beats estimates on steel recovery, strong energy unit; shares jump - KED Global",
-      "summary": "POSCO Holdings Q3 profit beats estimates on steel recovery, strong energy unit; shares jump KED Global",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SZHVMT1BXcDZLaUREQ09ZendRMWdIU1hIOHVvUHZ4RV9HM0E1U1BNVFFnWlF5WE5TZXowNmdGeXpLT2QzN0ZRNGllR3lvM2ZsaDBMY3JTNjZKbzU0elg3Um1FbjBza0xVU0lv?oc=5",
-      "date": "Mon, 02 Nov 2026 09:45:00 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVkySFc0WGE0R1ZjRmhlc1pDTWdtdVY3YkxEVFR3N0llcDdRUENGYmFKU1NjVDJiNzRnZmF4bS1ZdzNmOTRtUThsSWVObjV2cmlNc1pkdHR5NndXaE9SdHBQVHRBQnpNZ0hBU1pkNHk0bWRKMkFVUW5pSWl4QXp5dkJzTjBuNy1zNDdqQ05MRXdlQWtoMzBCQWZjNDU?oc=5": {
-      "title": "POSCO Holdings Q3 profit jumps 48% as steel rebounds - grafa.com",
-      "summary": "POSCO Holdings Q3 profit jumps 48% as steel rebounds grafa.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVkySFc0WGE0R1ZjRmhlc1pDTWdtdVY3YkxEVFR3N0llcDdRUENGYmFKU1NjVDJiNzRnZmF4bS1ZdzNmOTRtUThsSWVObjV2cmlNc1pkdHR5NndXaE9SdHBQVHRBQnpNZ0hBU1pkNHk0bWRKMkFVUW5pSWl4QXp5dkJzTjBuNy1zNDdqQ05MRXdlQWtoMzBCQWZjNDU?oc=5",
-      "date": "Mon, 02 Nov 2026 09:08:18 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjNYXzd2d01fZVNNcnZpblpoNjRaMUJLZUVpMlQxQk1Ob1BCdzBXdEgzSHNhcE5uZzZhX3JrSzlKakJkZ25CN29ERXFxRXd5cmtlTVBCcjdUdVFNQUZFYUE1a21tYkFkZjd4YWJjdksteWRQTkt0SXZxeFFXNjRxVlIyb2FqVkRBLTE2RU9ELWRMYUhIMkpJaGFDU2pvc3J6clR6NzJ4cV9kelZEbGJSdG5B?oc=5": {
-      "title": "POSCO Holdings Q3 Earnings Show Steel Resilience Amid Lithium Market Headwinds - streamlinefeed.co.ke",
-      "summary": "POSCO Holdings Q3 Earnings Show Steel Resilience Amid Lithium Market Headwinds streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjNYXzd2d01fZVNNcnZpblpoNjRaMUJLZUVpMlQxQk1Ob1BCdzBXdEgzSHNhcE5uZzZhX3JrSzlKakJkZ25CN29ERXFxRXd5cmtlTVBCcjdUdVFNQUZFYUE1a21tYkFkZjd4YWJjdksteWRQTkt0SXZxeFFXNjRxVlIyb2FqVkRBLTE2RU9ELWRMYUhIMkpJaGFDU2pvc3J6clR6NzJ4cV9kelZEbGJSdG5B?oc=5",
-      "date": "Mon, 02 Nov 2026 09:18:54 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qa2xtcEsyWWhuam93dFhsNjh0UFFvUHBHT2JVSFZHZWU5QlhnWldpb1owYS12clRCN0JJQzYxY3NCSGl4M3E3SGpfeXBOX0RoTTlET2E2TExwSlVnaWNET1RiVnQ5VU0?oc=5": {
-      "title": "Isu Petasys Plans Seventh Plant in Daegu - www.thelec.net",
-      "summary": "Isu Petasys Plans Seventh Plant in Daegu www.thelec.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qa2xtcEsyWWhuam93dFhsNjh0UFFvUHBHT2JVSFZHZWU5QlhnWldpb1owYS12clRCN0JJQzYxY3NCSGl4M3E3SGpfeXBOX0RoTTlET2E2TExwSlVnaWNET1RiVnQ5VU0?oc=5",
-      "date": "Mon, 02 Nov 2026 09:43:31 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "해외기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "해외기업 동향",
-        "score": 80,
-        "evidence": "Isu Petasys Plans Seventh Plant in Daegu - www.thelec.net",
-        "provider": "gemini",
-        "scope_label": "관심기업: 이수페타시스",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.kmib.co.kr/article/20261102502092": {
       "title": "포스코홀딩스, 3분기 영업익 9450억…철강이 실적 개선 견인",
       "summary": "경북 포항 삼원계 양극재 설비를 리튬인산철(LFP)체제로 전환해 글로벌 에너지저장장치(ESS) 시장 공략에 나섰다. 에너지자원 부문에서는 미국 코드가 보유한 셰일가스 자산 지분 을 100% 인수하며 연간 100만t 규모의...",
@@ -7228,6 +6879,110 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.kmib.co.kr/article/20261104502146": {
+      "title": "의대 탈락 목포대 “재검증” 반발… 경북 “45년만의 신설” 환호",
+      "summary": "대구 와 경북이 분리된 이후 국립의대와 상급종합병원이 없었던 경북에 45년 만에 의과대학 신설이 확정되면서 환영 메시지도 쏟아졌다. 경북도는 재정 확보와 우수 교원 유치, 교육병원 건립 등 의대 개교까지 남은 과제를...",
+      "url": "https://www.kmib.co.kr/article/20261104502146",
+      "date": "Wed, 04 Nov 2026 18:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://medicalworldnews.co.kr/news/view.php?idx=1510978274": {
+      "title": "전남· 경북 국립의대 신설 확정…순천대 60명·경국대 40명",
+      "summary": "◆엇갈린 반응 국회 보건복지위원회 이달희 의원(국민의힘·비례대표)은 경북 도민의 오랜 숙원이 이뤄졌다며 환영했다. 이 의원은 “500병상 이상 교육병원 건립 과 교수진 확보, 2032년 이후 추가 정원 논의까지 끝까지...",
+      "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510978274",
+      "date": "Wed, 04 Nov 2026 18:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717711": {
+      "title": "정부 '의대 신설' 발표, 경북 도 환영 기자회견 개최..국립경국대 의과대...",
+      "summary": "정부가 4일 '공공의대 신설 지역·대학 선정 및 정원 배정' 결과를 발표함에 따라 경북 도 국립경국대학교와... 병원 건립 과 정상 운영을 위한 인프라구축 재원 마련, 전문 의료진 확보는 성공적인 의대 신설을 위한 과제로...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717711",
+      "date": "Wed, 04 Nov 2026 18:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.hankyung.com/article/2026110463951": {
+      "title": "[단독] 배터리 3사 잡은 엘앤에프, LFP 양극재 신공장 만든다",
+      "summary": "4일 배터리업계에 따르면 엘앤에프는 이르면 올해 말 대구 구지국가산업단지 내 LFP 양극재 제2공장(B동) 신설 투자에 들어간다. 신규 공장은 기존 1공장(A동) 바로 옆 부지에 연산 6만t 규모로 들어선다. 최대 6만t...",
+      "url": "https://www.hankyung.com/article/2026110463951",
+      "date": "Wed, 04 Nov 2026 18:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611041706525200101626": {
+      "title": "[더벨]3분기 실적 반등한 포스코 퓨처엠, 회사채도 흥행",
+      "summary": "포스코 퓨처엠이 회사채 발행을 위한 수요예측에서 모집액의 4.5배에 달하는 주문을 받으며 흥행에 성공했다. 신고금액은 모두 개별민평금리보다 낮은 금리에서 채웠다. 4일 투자은행(IB) 업계에 따르면 포스코 ...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611041706525200101626",
+      "date": "Wed, 04 Nov 2026 18:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FY21yT0xMSHFZeW8tTUZRYWItbkZYVDI2bjR2VjNOUVc4WG40LXh5RTVGUVQ0SG9yV21lQnJnekRQRFU1UXNVLW5PYlpJaUlNVVNGeFlIOVNibTA?oc=5": {
+      "title": "포항시, 건설현장 합동 안전점검…추락·화재 위험요인 집중 점검 - 경북뉴스",
+      "summary": "포항시, 건설현장 합동 안전점검…추락·화재 위험요인 집중 점검 경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FY21yT0xMSHFZeW8tTUZRYWItbkZYVDI2bjR2VjNOUVc4WG40LXh5RTVGUVQ0SG9yV21lQnJnekRQRFU1UXNVLW5PYlpJaUlNVVNGeFlIOVNibTA?oc=5",
+      "date": "Wed, 04 Nov 2026 09:03:51 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpCVnVyRzQ3NGFGOUYweDZpX1llRnhNVmVQQi00SkJIXzhzRnhaRVNqeEJjSUVSSEYtcUtwQ1lmRWNlQ1FNN3Z2NHlvdmxpYVlfcmdvOEY1MVljeE9LMGFSa3haSXdQRGpsTS1JRnRLdWNGT3M1YUZJYXlIUWlzNHVpcHFKVGVwdWY2VVJqbU1OVTVIY01fUFozX1lQVERPaEprS0Jn?oc=5": {
+      "title": "Hyundai to acquire stake in Posco Future M’s Vietnam battery anode plant - Just Auto",
+      "summary": "Hyundai to acquire stake in Posco Future M’s Vietnam battery anode plant Just Auto",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpCVnVyRzQ3NGFGOUYweDZpX1llRnhNVmVQQi00SkJIXzhzRnhaRVNqeEJjSUVSSEYtcUtwQ1lmRWNlQ1FNN3Z2NHlvdmxpYVlfcmdvOEY1MVljeE9LMGFSa3haSXdQRGpsTS1JRnRLdWNGT3M1YUZJYXlIUWlzNHVpcHFKVGVwdWY2VVJqbU1OVTVIY01fUFozX1lQVERPaEprS0Jn?oc=5",
+      "date": "Wed, 04 Nov 2026 09:30:51 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFlrVEU3YkNwT01PN0NKTzc0czVFSTExemU2eC1FaXdJX2dTcDZCajAtTUtwTHlxUG40NmQwRlZLZmtOeFM2eVZMNDA1U0NESzBDbnFNWDdiaXJrWElOUXl6Q25kOGhKT3BXczRjMGRhTllrRTRzRE5lb01GSjFuVFdWVlQ2TkJpRkM1cnlKczJRN2llSVdlNDkxU3ljX2pRaWc?oc=5": {
+      "title": "POSCO Future M Beats Profit Forecast by 4.6 Times, Splitting Analysts - Seoul Economic Daily",
+      "summary": "POSCO Future M Beats Profit Forecast by 4.6 Times, Splitting Analysts Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFlrVEU3YkNwT01PN0NKTzc0czVFSTExemU2eC1FaXdJX2dTcDZCajAtTUtwTHlxUG40NmQwRlZLZmtOeFM2eVZMNDA1U0NESzBDbnFNWDdiaXJrWElOUXl6Q25kOGhKT3BXczRjMGRhTllrRTRzRE5lb01GSjFuVFdWVlQ2TkJpRkM1cnlKczJRN2llSVdlNDkxU3ljX2pRaWc?oc=5",
+      "date": "Wed, 04 Nov 2026 09:03:14 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -8440,6 +8195,41 @@
       "url": "https://www.news1.kr/local/daegu-gyeongbuk/6343156",
       "title": "경국대 의대 신설에 경북 각계 '환영'…의료인력 양성·정착 지원",
       "date": "Wed, 04 Nov 2026 17:03:00 +0900"
+    },
+    {
+      "url": "https://www.kmib.co.kr/article/20261104502146",
+      "title": "의대 탈락 목포대 “재검증” 반발… 경북 “45년만의 신설” 환호",
+      "date": "Wed, 04 Nov 2026 18:58:00 +0900"
+    },
+    {
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611041706525200101626",
+      "title": "[더벨]3분기 실적 반등한 포스코 퓨처엠, 회사채도 흥행",
+      "date": "Wed, 04 Nov 2026 18:58:00 +0900"
+    },
+    {
+      "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510978274",
+      "title": "전남· 경북 국립의대 신설 확정…순천대 60명·경국대 40명",
+      "date": "Wed, 04 Nov 2026 18:40:00 +0900"
+    },
+    {
+      "url": "https://www.hankyung.com/article/2026110463951",
+      "title": "[단독] 배터리 3사 잡은 엘앤에프, LFP 양극재 신공장 만든다",
+      "date": "Wed, 04 Nov 2026 18:20:00 +0900"
+    },
+    {
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717711",
+      "title": "정부 '의대 신설' 발표, 경북 도 환영 기자회견 개최..국립경국대 의과대...",
+      "date": "Wed, 04 Nov 2026 18:12:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpCVnVyRzQ3NGFGOUYweDZpX1llRnhNVmVQQi00SkJIXzhzRnhaRVNqeEJjSUVSSEYtcUtwQ1lmRWNlQ1FNN3Z2NHlvdmxpYVlfcmdvOEY1MVljeE9LMGFSa3haSXdQRGpsTS1JRnRLdWNGT3M1YUZJYXlIUWlzNHVpcHFKVGVwdWY2VVJqbU1OVTVIY01fUFozX1lQVERPaEprS0Jn?oc=5",
+      "title": "Hyundai to acquire stake in Posco Future M’s Vietnam battery anode plant - Just Auto",
+      "date": "Wed, 04 Nov 2026 09:30:51 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFlrVEU3YkNwT01PN0NKTzc0czVFSTExemU2eC1FaXdJX2dTcDZCajAtTUtwTHlxUG40NmQwRlZLZmtOeFM2eVZMNDA1U0NESzBDbnFNWDdiaXJrWElOUXl6Q25kOGhKT3BXczRjMGRhTllrRTRzRE5lb01GSjFuVFdWVlQ2TkJpRkM1cnlKczJRN2llSVdlNDkxU3ljX2pRaWc?oc=5",
+      "title": "POSCO Future M Beats Profit Forecast by 4.6 Times, Splitting Analysts - Seoul Economic Daily",
+      "date": "Wed, 04 Nov 2026 09:03:14 GMT"
     }
   ],
   "brief_articles": [
@@ -8536,8 +8326,8 @@
     "2026-11-01": 20,
     "2026-11-02": 49,
     "2026-11-03": 37,
-    "2026-11-04": 13
+    "2026-11-04": 14
   },
   "ai_cooldowns": {},
-  "next_provider": "gemini"
+  "next_provider": "groq"
 }
