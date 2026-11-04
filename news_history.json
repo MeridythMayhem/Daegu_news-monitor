@@ -1389,7 +1389,8 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5": "2026-11-04T21:02:00.434584+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564473": "2026-11-04T22:01:58.016206+09:00",
     "http://www.e-platform.net/news/articleView.html?idxno=106714": "2026-11-04T22:01:58.016206+09:00",
-    "https://www.ksmnews.co.kr/news/view.php?idx=628424": "2026-11-04T22:01:58.016206+09:00"
+    "https://www.ksmnews.co.kr/news/view.php?idx=628424": "2026-11-04T22:01:58.016206+09:00",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5": "2026-11-04T23:01:54.291194+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2281,7 +2282,8 @@
     "cd3cff99ea317b5f668bb14115600302ef2143693268bcde86ba7dddd0a47e8e": "2026-11-04T21:02:00.434584+09:00",
     "69211c7a0983772be495ce6b6562309addec02fcb9adff671784c408a771bc4f": "2026-11-04T22:01:58.016206+09:00",
     "1c380f8068314a921dffb98c95de2b07e90e3a2a3919d0dc5ea9a16390297d56": "2026-11-04T22:01:58.016206+09:00",
-    "b1633df162d99baa78648c36799259c777e77cb40bbc3a98a50647f2f8261578": "2026-11-04T22:01:58.016206+09:00"
+    "b1633df162d99baa78648c36799259c777e77cb40bbc3a98a50647f2f8261578": "2026-11-04T22:01:58.016206+09:00",
+    "bfde507a6b2be4d1c1e37740d64fc8088382739b2f810288ac70b67ca291b2fc": "2026-11-04T23:01:54.291194+09:00"
   },
   "pending": {},
   "ai": {
@@ -2292,44 +2294,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.segye.com/newsView/20261102519402?OutUrl=naver": {
-      "title": "포스코 홀딩스, 3개 분기 연속 실적 개선세 지속… 3분기 실적 발표",
-      "summary": "약세 포스코 인터내셔널 에너지 부문 견조한 이익 지속으로 인프라 부문 전분기 대비 이익 증가 포스코 홀딩스가 2일 2026년 3분기 연결기준 매출 9조 1410억원, 영업이익 9450억원, 순이익 3800억원의 실적을 발표했다고...",
-      "url": "https://www.segye.com/newsView/20261102519402?OutUrl=naver",
-      "date": "Mon, 02 Nov 2026 22:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 홀딩스, 3개 분기 연속 실적 개선세 지속… 3분기 실적 발표",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코홀딩스",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3JKd291MTIyeEF6eGE2Mk83Q1gwdzJUd2xYNF9oM09zSUZfOHFiV0ZnR2FpSExjaFo0WHo4Z29VbWVjdEpXVHRobEM0NVdOS1RwM2d6OWtEeWp1MEk0TjJjcFNzcTFsc3h4am5RTDI2ZmV1dXhwVGJobHhWVjVtNllSQzdrQi1lQks2VVpvU19UZWI5THh6OHQzM3FjdXFkVEdBQ3BVSEp1LVlheWJjd0NJdm9ONjNVdjFxNA?oc=5": {
-      "title": "POSCO Reports Higher Third-Quarter Revenue but Sharp Profit Declines - TipRanks",
-      "summary": "POSCO Reports Higher Third-Quarter Revenue but Sharp Profit Declines TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3JKd291MTIyeEF6eGE2Mk83Q1gwdzJUd2xYNF9oM09zSUZfOHFiV0ZnR2FpSExjaFo0WHo4Z29VbWVjdEpXVHRobEM0NVdOS1RwM2d6OWtEeWp1MEk0TjJjcFNzcTFsc3h4am5RTDI2ZmV1dXhwVGJobHhWVjVtNllSQzdrQi1lQks2VVpvU19UZWI5THh6OHQzM3FjdXFkVEdBQ3BVSEp1LVlheWJjd0NJdm9ONjNVdjFxNA?oc=5",
-      "date": "Mon, 02 Nov 2026 13:53:15 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
     "https://www.etoday.co.kr/news/view/2643249": {
       "title": "대구시ㆍ달성군, 이수페타시스와 5천억 투자협약 체결",
       "summary": "이투데이=대구 경북 취재본부 이종팔 기자 | 달성국가산단에 제7공장 신설...‘AI 가속기용 고성능 PCB’ 제조... 이수페타시스는 대구국가산업단지의 5만1천평 부지에 총 5천억원을 투자해 신규 공장 건립 을 추진한다. 민선...",
@@ -6891,6 +6855,19 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5": {
+      "title": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! - 구미일보",
+      "summary": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! 구미일보",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5",
+      "date": "Wed, 04 Nov 2026 13:25:25 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -8198,6 +8175,11 @@
       "url": "https://www.ksmnews.co.kr/news/view.php?idx=628424",
       "title": "경북 국립의대 신설, 유치보다 성공이 더 중요",
       "date": "Wed, 04 Nov 2026 21:10:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5",
+      "title": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! - 구미일보",
+      "date": "Wed, 04 Nov 2026 13:25:25 GMT"
     }
   ],
   "brief_articles": [
