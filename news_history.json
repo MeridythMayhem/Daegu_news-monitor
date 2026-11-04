@@ -1386,7 +1386,10 @@
     "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver": "2026-11-04T21:02:00.434584+09:00",
     "https://www.m-i.kr/news/articleView.html?idxno=2014607": "2026-11-04T21:02:00.434584+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5": "2026-11-04T21:02:00.434584+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5": "2026-11-04T21:02:00.434584+09:00"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5": "2026-11-04T21:02:00.434584+09:00",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=564473": "2026-11-04T22:01:58.016206+09:00",
+    "http://www.e-platform.net/news/articleView.html?idxno=106714": "2026-11-04T22:01:58.016206+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=628424": "2026-11-04T22:01:58.016206+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2275,7 +2278,10 @@
     "79f911a2d6914e7686ea54c6bb968b3cbc04a49b25578ecbc688d6b252d9618c": "2026-11-04T21:02:00.434584+09:00",
     "30d73a3444db2e4925ec2d3c71ea5fd83674fc591c5e6258122daf63fb4e9c9b": "2026-11-04T21:02:00.434584+09:00",
     "1d1c95036929ec0d2e146eb879bd9225c7b7c94dddfae447b01156d350590710": "2026-11-04T21:02:00.434584+09:00",
-    "cd3cff99ea317b5f668bb14115600302ef2143693268bcde86ba7dddd0a47e8e": "2026-11-04T21:02:00.434584+09:00"
+    "cd3cff99ea317b5f668bb14115600302ef2143693268bcde86ba7dddd0a47e8e": "2026-11-04T21:02:00.434584+09:00",
+    "69211c7a0983772be495ce6b6562309addec02fcb9adff671784c408a771bc4f": "2026-11-04T22:01:58.016206+09:00",
+    "1c380f8068314a921dffb98c95de2b07e90e3a2a3919d0dc5ea9a16390297d56": "2026-11-04T22:01:58.016206+09:00",
+    "b1633df162d99baa78648c36799259c777e77cb40bbc3a98a50647f2f8261578": "2026-11-04T22:01:58.016206+09:00"
   },
   "pending": {},
   "ai": {
@@ -6846,6 +6852,45 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=564473": {
+      "title": "국립경국대 의대 신설…경북 45년 숙원 풀었다",
+      "summary": "대학병원은 500병상 이상 규모로 건립 해 학생 임상교육과 전문 의료인력 수련은 물론 지역 의료체계의 중심... 포항 의 첨단과학·연구 기반과 동해안의 원자력·방사선 의과학 자원까지 연계하면 연구부터 임상, 사업화로...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564473",
+      "date": "Wed, 04 Nov 2026 21:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=628424": {
+      "title": "경북 국립의대 신설, 유치보다 성공이 더 중요",
+      "summary": "이번 사업은 경북 도청신도시 2단계 개발지구 13만362㎡ 부지에 의과대학과 500병상 이상 규모의 부속 교육병원을 건립 하는 것으로, 총사업비는 약 6300억원에 이른다. 2030학년도 개교를 목표로 하고 있지만 사업 규모와 준비...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628424",
+      "date": "Wed, 04 Nov 2026 21:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.e-platform.net/news/articleView.html?idxno=106714": {
+      "title": "한수원, 시뮬레이터 활용 원자로 조종사 원자로 조종사 위기 대응 능력...",
+      "summary": "한국수력원자력 이 원자로 조종사 경진대회를 개최하고 최우수부서인 새울1발 2호기 발전5부의 시연회를 가졌다. 한수원이 시뮬레이터를 활용해 우수한 원자로 조종사들의 운전 역량을 확인하는 자리를 마련했다....",
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=106714",
+      "date": "Wed, 04 Nov 2026 21:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -8138,6 +8183,21 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5",
       "title": "포스코퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손'…베트남 투자 가속화 - 마일드경제",
       "date": "Wed, 04 Nov 2026 11:18:04 GMT"
+    },
+    {
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564473",
+      "title": "국립경국대 의대 신설…경북 45년 숙원 풀었다",
+      "date": "Wed, 04 Nov 2026 21:54:00 +0900"
+    },
+    {
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=106714",
+      "title": "한수원, 시뮬레이터 활용 원자로 조종사 원자로 조종사 위기 대응 능력...",
+      "date": "Wed, 04 Nov 2026 21:52:00 +0900"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628424",
+      "title": "경북 국립의대 신설, 유치보다 성공이 더 중요",
+      "date": "Wed, 04 Nov 2026 21:10:00 +0900"
     }
   ],
   "brief_articles": [
