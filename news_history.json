@@ -1381,7 +1381,12 @@
     "http://www.consumernews.co.kr/news/articleView.html?idxno=767618": "2026-11-04T20:01:58.363987+09:00",
     "http://news.ebs.co.kr/ebsnews/allView/60786641/N": "2026-11-04T20:01:58.363987+09:00",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KaEhTMThic0RRajFFdUJBM3FaLUJnQS1DRjMwbG12NG5ydGZ5Z0w2TEZLa2FaTVg1RUtKMkJsSWdCQ2RrbmN4aFNKdGhjbEFyWWI1Q3RENU15VklPYmV1ZF9ERVU2amFlTmw0YXBLQzlKSjQ?oc=5": "2026-11-04T20:01:58.363987+09:00",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRlh2QUw5VFhTcVJoVlZzYlJsNE8zWFVBdzU4UE5EZkpoSFpkemhpRVpKcnRZcXJpWm1oVHA2V0hJRlJyZ0Nudk9pTmZPODZ3RV9kRExvQ3JsTklMdm1DZlpfc1M2bFgxM3hjSQ?oc=5": "2026-11-04T20:01:58.363987+09:00"
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRlh2QUw5VFhTcVJoVlZzYlJsNE8zWFVBdzU4UE5EZkpoSFpkemhpRVpKcnRZcXJpWm1oVHA2V0hJRlJyZ0Nudk9pTmZPODZ3RV9kRExvQ3JsTklMdm1DZlpfc1M2bFgxM3hjSQ?oc=5": "2026-11-04T20:01:58.363987+09:00",
+    "https://www.taxtimes.co.kr/news/article.html?no=277611": "2026-11-04T21:02:00.434584+09:00",
+    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver": "2026-11-04T21:02:00.434584+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2014607": "2026-11-04T21:02:00.434584+09:00",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5": "2026-11-04T21:02:00.434584+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5": "2026-11-04T21:02:00.434584+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2265,7 +2270,12 @@
     "3ca66d98793e74b104616606ee2a8432c2bc88c2895b81e4c22d46aa339b2b0a": "2026-11-04T20:01:58.363987+09:00",
     "95aba2c86e2185805cdc89d0e6bece1da9a324ebdd70ccd242b8958be0272724": "2026-11-04T20:01:58.363987+09:00",
     "fed81e1bbc7b07ffb6db059078adda99064e0dacb155a08d48b973ed5b54b715": "2026-11-04T20:01:58.363987+09:00",
-    "21c2febc289857736278f1be2b9990970cffe503d1ba7c1d97d8454be32fe6e0": "2026-11-04T20:01:58.363987+09:00"
+    "21c2febc289857736278f1be2b9990970cffe503d1ba7c1d97d8454be32fe6e0": "2026-11-04T20:01:58.363987+09:00",
+    "7300cef7efaede99f6743329bcbe2f432aad4b7b3d528ca818d79483dddfc883": "2026-11-04T21:02:00.434584+09:00",
+    "79f911a2d6914e7686ea54c6bb968b3cbc04a49b25578ecbc688d6b252d9618c": "2026-11-04T21:02:00.434584+09:00",
+    "30d73a3444db2e4925ec2d3c71ea5fd83674fc591c5e6258122daf63fb4e9c9b": "2026-11-04T21:02:00.434584+09:00",
+    "1d1c95036929ec0d2e146eb879bd9225c7b7c94dddfae447b01156d350590710": "2026-11-04T21:02:00.434584+09:00",
+    "cd3cff99ea317b5f668bb14115600302ef2143693268bcde86ba7dddd0a47e8e": "2026-11-04T21:02:00.434584+09:00"
   },
   "pending": {},
   "ai": {
@@ -2276,158 +2286,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2357773": {
-      "title": "삼성SDS, 구미에 4,273억원 투입 AI 데이터센터 건립 …2028년 말 준공",
-      "summary": "삼성SDS가 경북 구미시에 4,273억원을 투자해 초기 전력 용량 60MW 규모의 인공지능(AI) 전용 데이터센터를 건립 한다. 2028년 말 준공 예정인 이 시설은 최대 120MW까지 확장할 수 있도록 설계되며, 제조·로봇 분야의 AI...",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2357773",
-      "date": "Mon, 02 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역경제·기업동향",
-        "score": 80,
-        "evidence": "삼성SDS, 구미에 4,273억원 투입 AI 데이터센터 건립 …2028년 말 준공",
-        "provider": "gemini",
-        "scope_label": "관내: 구미",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.ajunews.com/view/20261102195609592": {
-      "title": "대구 시·달성군-이수페타시스, '7공장 증설 5000억 대규모 투자협약' 체...",
-      "summary": "이번 협약에 따라 이수페타시스는 달성군 구지읍 대구 국가산업단지 2단계 부지 약 5만 1000평(16만 9000㎡)에 총 5000억 원을 투입해 7공장을 건립 한다. 이수페타시스가 대구 국가산단에 신규 생산 거점을 터 잡는 것은...",
-      "url": "https://www.ajunews.com/view/20261102195609592",
-      "date": "Mon, 02 Nov 2026 20:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "대구 시·달성군-이수페타시스, '7공장 증설 5000억 대규모 투자협약' 체...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 이수페타시스",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.ksmnews.co.kr/news/view.php?idx=628084": {
-      "title": "이수페타시스, 달성 국가산단에 5천억 투자…7공장 건립 추진",
-      "summary": "협약에 따라 이수페타시스는 달성군 구지읍 대구 국가산단 2단계 부지 약 5만1천평(16만9천㎡)에 5천억원을 투자해 7공장을 건립 한다. 대구 국가산단 첫 입주기업으로, 7공장 연매출 목표는 5천억원이다.1972년 설립된...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628084",
-      "date": "Mon, 02 Nov 2026 20:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "이수페타시스, 달성 국가산단에 5천억 투자…7공장 건립 추진",
-        "provider": "gemini",
-        "scope_label": "관심기업: 이수페타시스",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205262&mode=view": {
-      "title": "포스코 노조, 잠정 합의안 7일 찬반투표",
-      "summary": "포스코 노조는 오는 7일 임금교섭 잠정 합의안에 대한 조합원 찬반투표를 실시합니다. 잠정 합의안에는 기본급 2.6% 인상과 일시금 600만 원, 특별승호 3호봉, 명절 상여금 확대 등이 담겼습니다. 노사는 지난 6월부터...",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205262&mode=view",
-      "date": "Mon, 02 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코 노조, 잠정 합의안 7일 찬반투표",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.donga.com/news/Economy/article/all/20261102/134953637/1": {
-      "title": "포스코홀딩스 , 3분기 영업이익 48%↑ 수익성 개선…“트리플코어 전략 ...",
-      "summary": "포스코홀딩스 는 올해 3분기 연결 기준 매출 19조1410억 원, 영업이익 9450억 원의 경영실적을 거뒀다고 2일 발표했다. 작년 3분기와 비교해 매출이 10.9% 증가했고 영업이익은 47.9% 성장한 수치다. 매출 증가율을 크게 웃도는...",
-      "url": "https://www.donga.com/news/Economy/article/all/20261102/134953637/1",
-      "date": "Mon, 02 Nov 2026 20:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "포스코홀딩스 , 3분기 영업이익 48%↑ 수익성 개선…“트리플코어 전략 ...",
-        "provider": "gemini",
-        "scope_label": "관심기업: 포스코홀딩스",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LdmhQS20wWVpnb0pTNm5HY1Z3TzE2aElwa25zcDk0Zmd1WV9JVzlQMWE3OTdJU3pmSTZuOGJsVkZiakNULVRDd1M2bnUzZENlZFg4TXYyZGZsQdIBWEFVX3lxTE9NSC1OSWYwdjBzWVdYYUlmRU1POHVsMWw3VTZZZGVpWWhOUGdOQm56MmE2MENseUJXTE5jZ09jaDVqYXNweFRzMWt2dUdycWc1bFp6V2twNFU?oc=5": {
-      "title": "대구시·달성군-이수페타시스, 7공장 증설 5000억 대규모 투자협약 체결 - 아주경제",
-      "summary": "대구시·달성군-이수페타시스, 7공장 증설 5000억 대규모 투자협약 체결 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LdmhQS20wWVpnb0pTNm5HY1Z3TzE2aElwa25zcDk0Zmd1WV9JVzlQMWE3OTdJU3pmSTZuOGJsVkZiakNULVRDd1M2bnUzZENlZFg4TXYyZGZsQdIBWEFVX3lxTE9NSC1OSWYwdjBzWVdYYUlmRU1POHVsMWw3VTZZZGVpWWhOUGdOQm56MmE2MENseUJXTE5jZ09jaDVqYXNweFRzMWt2dUdycWc1bFp6V2twNFU?oc=5",
-      "date": "Mon, 02 Nov 2026 11:13:47 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "경제·투자",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wVkMtZ0xFOWw5MC10VUJ3Z2MwSXdVMGdhNUVWZmwxdldSN041SWU0VHozVGNKcG9OLVNqSVRRNE9jY1p2ZExNdVljQ1VDMGlUWTdTNWhQa0VjSTV6Vng0?oc=5": {
-      "title": "구미에 삼성SDS AI 데이터센터 건립 본격화 - 경상매일신문",
-      "summary": "구미에 삼성SDS AI 데이터센터 건립 본격화 경상매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wVkMtZ0xFOWw5MC10VUJ3Z2MwSXdVMGdhNUVWZmwxdldSN041SWU0VHozVGNKcG9OLVNqSVRRNE9jY1p2ZExNdVljQ1VDMGlUWTdTNWhQa0VjSTV6Vng0?oc=5",
-      "date": "Mon, 02 Nov 2026 11:37:41 GMT",
-      "channels": [
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "지역경제·기업동향",
-        "score": 80,
-        "evidence": "구미에 삼성SDS AI 데이터센터 건립 본격화 - 경상매일신문",
-        "provider": "gemini",
-        "scope_label": "관내: 구미",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
     "https://www.segye.com/newsView/20261102519402?OutUrl=naver": {
       "title": "포스코 홀딩스, 3개 분기 연속 실적 개선세 지속… 3분기 실적 발표",
       "summary": "약세 포스코 인터내셔널 에너지 부문 견조한 이익 지속으로 인프라 부문 전분기 대비 이익 증가 포스코 홀딩스가 2일 2026년 3분기 연결기준 매출 9조 1410억원, 영업이익 9450억원, 순이익 3800억원의 실적을 발표했다고...",
@@ -6923,6 +6781,71 @@
       "category": "해외기업 동향",
       "priority": 50,
       "filter_version": 17
+    },
+    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver": {
+      "title": "경북 도의회, 국립경국대학교 의과대학 신설 쾌거… “260만 도민과 함께...",
+      "summary": "1245㎡)에 건립 될 예정이다. 총사업비 6325억원(국비 2790억원, 지방비 3535억원)이 투입되며, 교육 정원 40명과 112명의 교원을 확보하여 2030년 개교를 목표로 500병상 이상 규모의 교육병원으로 운영될 예정이다. 경북 도는...",
+      "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver",
+      "date": "Wed, 04 Nov 2026 20:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277611": {
+      "title": "국세청 , 11월 하반기 서기관 승진 인사 어렵다",
+      "summary": "예년대로라면 올해 11월 서기관 승진 인사를 위해선 10월 말 또는 늦어도 11월 초순경에는 서기관 승진 심사 계획 공지가 있어야 하나, 국세청 인사 부서에선 ‘승진 계획 공지가 예정돼 있지 않음’을 밝혔다. 하반기...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277611",
+      "date": "Wed, 04 Nov 2026 20:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2014607": {
+      "title": "금속노조, 포스코 에 특별승호 교섭 경위 공개 요구",
+      "summary": "매일일보 = 이강민 기자 | 포스코 의 특별승호 적용 기준을 놓고 교섭 경위에 대한 설명 요구가 나왔다. 입사... 4일 민주노총 전국금속노동조합 소속 포항·광주전남지부 포스코 지회는 성명을 내고 최근 입사자도...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2014607",
+      "date": "Wed, 04 Nov 2026 20:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5": {
+      "title": "포스코 특별승호 적용 범위 논란…금속노조, 교섭 경위 공개 요구 - 매일일보",
+      "summary": "포스코 특별승호 적용 범위 논란…금속노조, 교섭 경위 공개 요구 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5",
+      "date": "Wed, 04 Nov 2026 11:28:41 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5": {
+      "title": "포스코퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손'…베트남 투자 가속화 - 마일드경제",
+      "summary": "포스코퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손'…베트남 투자 가속화 마일드경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5",
+      "date": "Wed, 04 Nov 2026 11:18:04 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -8190,6 +8113,31 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRlh2QUw5VFhTcVJoVlZzYlJsNE8zWFVBdzU4UE5EZkpoSFpkemhpRVpKcnRZcXJpWm1oVHA2V0hJRlJyZ0Nudk9pTmZPODZ3RV9kRExvQ3JsTklMdm1DZlpfc1M2bFgxM3hjSQ?oc=5",
       "title": "L&F plans new 60,000-ton LFP cathode plant as ESS orders swell - KED Global",
       "date": "Wed, 04 Nov 2026 10:25:00 GMT"
+    },
+    {
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277611",
+      "title": "국세청 , 11월 하반기 서기관 승진 인사 어렵다",
+      "date": "Wed, 04 Nov 2026 20:02:00 +0900"
+    },
+    {
+      "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver",
+      "title": "경북 도의회, 국립경국대학교 의과대학 신설 쾌거… “260만 도민과 함께...",
+      "date": "Wed, 04 Nov 2026 20:32:00 +0900"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2014607",
+      "title": "금속노조, 포스코 에 특별승호 교섭 경위 공개 요구",
+      "date": "Wed, 04 Nov 2026 20:30:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5",
+      "title": "포스코 특별승호 적용 범위 논란…금속노조, 교섭 경위 공개 요구 - 매일일보",
+      "date": "Wed, 04 Nov 2026 11:28:41 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5",
+      "title": "포스코퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손'…베트남 투자 가속화 - 마일드경제",
+      "date": "Wed, 04 Nov 2026 11:18:04 GMT"
     }
   ],
   "brief_articles": [
