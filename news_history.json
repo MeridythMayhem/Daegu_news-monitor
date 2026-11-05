@@ -1390,7 +1390,14 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564473": "2026-11-04T22:01:58.016206+09:00",
     "http://www.e-platform.net/news/articleView.html?idxno=106714": "2026-11-04T22:01:58.016206+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628424": "2026-11-04T22:01:58.016206+09:00",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5": "2026-11-04T23:01:54.291194+09:00"
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5": "2026-11-04T23:01:54.291194+09:00",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=314672": "2026-11-05T09:01:57.509755+09:00",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=767641": "2026-11-05T09:01:57.509755+09:00",
+    "https://kpenews.com/View.aspx?No=4298352": "2026-11-05T09:01:57.509755+09:00",
+    "https://biz.heraldcorp.com/article/10926376?ref=naver": "2026-11-05T09:01:57.509755+09:00",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yV2pCX2JWbFJka3ZXSjQ0OHc0T3JQdmlBSGdMSnJZdXRMR2dMUFZPb2J0aWpJem5TN0pjcDNlWFBVTEwxWnNsX2k0ME9fREowdWNrWXp3Ynhka09xdVlZLXctUUdjVDRhQU9KbGFFRmVacE0?oc=5": "2026-11-05T09:01:57.509755+09:00",
+    "https://www.g-enews.com/view.php?ud=202611042205274427d9ce08d08_1": "2026-11-05T09:01:57.509755+09:00",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjhOelNKbXJVbzRHT1B0c1VrNEJSaGtudURueWFyeUNHeUtyNUZlSUZodm13TFkxVFVZQVlBM3hPNUlVS05iOGdYOWJoZHdTNUNqdHBVams1djlzQTRVVm8zQ1FGTG44QXJuTFdMM2p5aUxjXzg0cGRIVERQTDd5ZFA0WkYtVzNERmc?oc=5": "2026-11-05T09:01:57.509755+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2283,7 +2290,14 @@
     "69211c7a0983772be495ce6b6562309addec02fcb9adff671784c408a771bc4f": "2026-11-04T22:01:58.016206+09:00",
     "1c380f8068314a921dffb98c95de2b07e90e3a2a3919d0dc5ea9a16390297d56": "2026-11-04T22:01:58.016206+09:00",
     "b1633df162d99baa78648c36799259c777e77cb40bbc3a98a50647f2f8261578": "2026-11-04T22:01:58.016206+09:00",
-    "bfde507a6b2be4d1c1e37740d64fc8088382739b2f810288ac70b67ca291b2fc": "2026-11-04T23:01:54.291194+09:00"
+    "bfde507a6b2be4d1c1e37740d64fc8088382739b2f810288ac70b67ca291b2fc": "2026-11-04T23:01:54.291194+09:00",
+    "e3d09a5e13faba6f496df557ec0882a1073e309e380814c7e6f0469f62e99aac": "2026-11-05T09:01:57.509755+09:00",
+    "77851a438ec3b600f564267d5edd92cfc4ba749842257a0a4f61ca985a306f51": "2026-11-05T09:01:57.509755+09:00",
+    "8e889e0ff3709dee78456a624d5a55c17e196d7e93b476b0cf1bf7754b34a104": "2026-11-05T09:01:57.509755+09:00",
+    "33c3d0fec47d595edd9785e6de0d9c10a46906d30fb88d7a7381333a1c5bd18e": "2026-11-05T09:01:57.509755+09:00",
+    "4a6a873fe7421260a7b29f8ccddebcf4d9848c8fa51a6a7adb95c139bfe9ae78": "2026-11-05T09:01:57.509755+09:00",
+    "c6e657d06f479565043ea54add8262a54a0e27b9d3e63f696deb7eb444ee3ed8": "2026-11-05T09:01:57.509755+09:00",
+    "39590f8d707320baf66e7567dd76560c8c908f749ce890b05fa5408f57bf183f": "2026-11-05T09:01:57.509755+09:00"
   },
   "pending": {},
   "ai": {
@@ -2293,159 +2307,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.segye.com/newsView/20261103503141?OutUrl=naver": {
-      "title": "대구 달성군 금속 공장 서 희토류 분쇄기 폭발…20대 작업자 2명 화상",
-      "summary": "3일 소방당국 등에 따르면 전날 오후 5시26분쯤 대구 달성군 유가읍 한 금속 가공 공장 에서 기계가 폭발하는 사고 가 났다. 이 사고 로 20대 남성 작업자 2명이 손 등에 1~2도 화상을 입고 인근 병원으로 이송됐다. 사고 는...",
-      "url": "https://www.segye.com/newsView/20261103503141?OutUrl=naver",
-      "date": "Tue, 03 Nov 2026 08:53:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 90,
-      "needs_ai": false,
-      "filter_version": 12
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6340650": {
-      "title": "대구 달성 금속 공장 서 희토류 분쇄기 폭발…20대 2명 화상",
-      "summary": "3일 대구 소방본부 등에 따르면 전날 오후 5시26분쯤 달성군 유가읍의 한 금속 가공 공장 에서 희토류 분쇄 작업 중 기계가 폭발하는 사고 가 발생했다. 이 사고 로 20대 남성 작업자 2명이 손 등에 1~2도 화상을 입고 인근...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6340650",
-      "date": "Tue, 03 Nov 2026 08:05:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 90,
-      "needs_ai": false,
-      "filter_version": 12
-    },
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/03/2026110300043.html": {
-      "title": "달성군, 이수페타시스 5천억 투자협약 국가산단 생산기반 확장",
-      "summary": "협약에 따라 이수페타시스는 달성군 구지읍 대구 국가산업단지 2단계 부지 약 5만 1000평(약 16만 9000㎡)에 5000억 원을 투자해 7공장을 건립 할 계획이다. 대구 국가산단에 생산시설을 마련하는 것은 이번이 처음이다....",
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/03/2026110300043.html",
-      "date": "Tue, 03 Nov 2026 08:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 12,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "협약에 따라 이수페타시스는 달성군 구지읍 대구 국가산업단지 2단계 부지 약 5만 1000평(약 16만 9000㎡)에 5000억 원을 투자해 7공장을 건립 할 계획이다.",
-        "provider": "gemini",
-        "scope_label": "관심기업: 이수페타시스",
-        "evidence_id": 1
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://www.gukjenews.com/news/articleView.html?idxno=3740327": {
-      "title": "포스코 노사 임금협상 잠정합의…광양시 \"지역경제에 의미\"",
-      "summary": "포스코 노사 임금협상 잠정합의안이 2일 도출됐다. 광양시청 청사 사진. ⓒ 광양시 광양시는 환영의 뜻을... 포스코 의 안정적인 생산활동이 협력업체 경영, 노동자 고용, 지역 소상공인 생계 등 지역경제 전반과 밀접하게...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3740327",
-      "date": "Tue, 03 Nov 2026 08:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.newsway.co.kr/news/view?ud=2026110308340771933": {
-      "title": "포스코 퓨처엠, 3분기 깜짝 실적에도 엇갈린 평가…LFP 양산 주목[애널리...",
-      "summary": "포스코 퓨처엠이 올해 3분기 시장 전망치를 크게 웃도는 영업이익을 기록했지만 고객사 보상금 등 일회성... 포스코 퓨처엠의 3분기 연결 매출액은 8348억원으로 전년 동기 대비 4.6% 감소했다. 영업이익은 821억원으로 23.2...",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026110308340771933",
-      "date": "Tue, 03 Nov 2026 08:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://www.newsway.co.kr/news/view?ud=2026110308164721207": {
-      "title": "포스코 홀딩스, 깜짝 실적에도 '뚝' 떨어진 목표가…이유는[애널리스트의...",
-      "summary": "포스코 홀딩스가 3분기 시장 예상치를 웃도는 실적을 냈지만 증권사들은 잇따라 목표주가를 낮췄다. 철강... 3일 금융투자업계에 따르면 NH투자증권은 포스코 홀딩스의 목표주가를 45만원에서 41만원으로 8.9% 낮췄다....",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026110308164721207",
-      "date": "Tue, 03 Nov 2026 08:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.yna.co.kr/view/AKR20261103030000008?input=1195m": {
-      "title": "삼성증권 \" 포스코 인터, 에너지 사업 견고한 실적 흐름 지속\"",
-      "summary": "삼성증권은 3일 포스코 인터내셔널에 대해 \"에너지 사업의 견고한 실적 흐름이 지속되고 있다\"며 투자의견 '매수'와 목표주가 8만원을 유지한다고 밝혔다. 전장 종가는 5만1천400원이다. 백재승 연구원은 \"3분기 연결...",
-      "url": "https://www.yna.co.kr/view/AKR20261103030000008?input=1195m",
-      "date": "Tue, 03 Nov 2026 08:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.etoday.co.kr/news/view/2643299": {
-      "title": "메리츠증권 \"POSCO 홀딩스 , 주주환원·내년 실적 개선 주목\"",
-      "summary": "POSCO 홀딩스 는 자회사 지분 유동화 대금의 10%를 주주에게 환원한다는 기존 방침에 따라 포스코 인터내셔널과 포스코 DX의 주가수익스와프(PRS) 거래 대금 중 약 2500억원을 연내 자사주 매입·소각에 활용할 계획이다. 향후...",
-      "url": "https://www.etoday.co.kr/news/view/2643299",
-      "date": "Tue, 03 Nov 2026 08:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 0,
-      "needs_ai": true,
-      "filter_version": 12,
-      "review": "AI 관련성 낮음"
-    },
-    "https://www.jasm.co.kr/news/view/323885/?sc=Naver": {
-      "title": "DS투자증권 \" 포스코 퓨처엠, 3분기 깜짝 실적…목표가 유지\"",
-      "summary": "포스코 퓨처엠이 고객사 물량 미이행 보상금 반영과 양극재 판매 회복에 힘입어 올해 3분기 시장 전망치(컨센서스)를 크게 상회했다고 분석했다. 이에 투자의견 '매수'와 목표주가 29만원을 유지했다. 포스코 퓨...",
-      "url": "https://www.jasm.co.kr/news/view/323885/?sc=Naver",
-      "date": "Tue, 03 Nov 2026 08:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2VVRQazlmcFJ5dU9ZTzRsdVpqbDVYSk16VFotQnRtLTUxRVMxUDdJSzJJS1ExRlA1NmtYY1g2ajhTdjE1bWRabFpsVTZmQVZwdF9fYUI2ZnplYnlwanBMWnFXN1k0OXdr?oc=5": {
-      "title": "포스코퓨처엠, 3분기 깜짝 실적에도 엇갈린 평가···LFP 양산 주목 - 뉴스웨이",
-      "summary": "포스코퓨처엠, 3분기 깜짝 실적에도 엇갈린 평가···LFP 양산 주목 뉴스웨이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2VVRQazlmcFJ5dU9ZTzRsdVpqbDVYSk16VFotQnRtLTUxRVMxUDdJSzJJS1ExRlA1NmtYY1g2ajhTdjE1bWRabFpsVTZmQVZwdF9fYUI2ZnplYnlwanBMWnFXN1k0OXdr?oc=5",
-      "date": "Mon, 02 Nov 2026 23:39:40 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": true,
-      "filter_version": 12
-    },
     "https://www.job-post.co.kr/news/articleView.html?idxno=236077": {
       "title": "대구 고용노동청, 화재·폭발 위험 사업장 집중점검",
       "summary": "경북 화학제품 제조 공장 에서 화재로 1명 사망 등 화재·폭발 사고 이다. 이에 대구 지방고용노동청은 사업장 자율점검을 통해 위험요인을 사전에 확인하고 개선하도록 안내한 뒤, 11월 13일까지 화재·폭발 위험 사업장을...",
@@ -6581,6 +6442,97 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=314672": {
+      "title": "국립경국대 의대 신설… 경북 북부권 의료 혁신",
+      "summary": "교육병원을 건립 한다. 새 교육병원은 중증·응급·소아·분만 등 필수의료를 담당하며, 경북 북부권 거점 의료기관으로 육성될 예정이다. 지역·필수·공공의료를 책임질 지역 정착형 의사 교육과 수련, 정착을...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314672",
+      "date": "Thu, 05 Nov 2026 08:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://biz.heraldcorp.com/article/10926376?ref=naver": {
+      "title": "[단독] 459억 몰아주기 있었나…특검, ‘사전투표지 발급기 사업 의혹’...",
+      "summary": "혐의로 압수수색 영장을 집행했다. 특검팀은 2023년 말 중앙선관위 선거기반과장으로 일했으며 현재는... 김포와 대구 소재 업체 등 5곳도 업무상 배임과 입찰방해 혐의로 수사하고 있다. 특검팀은 압수 물 분석을 바탕으로...",
+      "url": "https://biz.heraldcorp.com/article/10926376?ref=naver",
+      "date": "Thu, 05 Nov 2026 08:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://kpenews.com/View.aspx?No=4298352": {
+      "title": "'파노라마 워크 준공 기념전' 포스코 미술관 광양, 관람객 발길 이어져",
+      "summary": "한국정경신문 최창윤 기­자 desk0223@nate.com [한국정경신문(광양)=최창윤 기자] 포스코 미술관 광양에서... 광양의 아름다운 자연, 작가의 창의적인 예술, 포스코 의 독보적인 기술이 만나 새로운 지역 명소가 탄생한...",
+      "url": "https://kpenews.com/View.aspx?No=4298352",
+      "date": "Thu, 05 Nov 2026 08:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.mhns.co.kr/news/articleView.html?idxno=767641": {
+      "title": "한국 거래소, '대왕고래' 관련 이상거래 통보…금융위 자료제출 거부",
+      "summary": "5일 국회 예산결산특별위원회 권향엽 의원이 감사원에서 제출받은 '동해 심해 가스전 사업 진행에 대한 공익감사청구 감사보고서'에 따르면, 거래소는 2024년 9월 13일 한국가스공사 와 A기업 주식거래 심리 결과를...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=767641",
+      "date": "Thu, 05 Nov 2026 08:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.g-enews.com/view.php?ud=202611042205274427d9ce08d08_1": {
+      "title": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익...",
+      "summary": "한국수력원자력 은 약 324만7130㎡(약 98만2000평)에 1.4GW급 원전 2기를 건설할 계획이다. 총발전용량은 2.8GW로, 지난 6월 영덕군이 신규 원전 후보부지로 선정되면서 후속 절차가 진행되고 있다. 기후에너지환경부는 지난달...",
+      "url": "https://www.g-enews.com/view.php?ud=202611042205274427d9ce08d08_1",
+      "date": "Thu, 05 Nov 2026 08:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yV2pCX2JWbFJka3ZXSjQ0OHc0T3JQdmlBSGdMSnJZdXRMR2dMUFZPb2J0aWpJem5TN0pjcDNlWFBVTEwxWnNsX2k0ME9fREowdWNrWXp3Ynhka09xdVlZLXctUUdjVDRhQU9KbGFFRmVacE0?oc=5": {
+      "title": "고령군, 2026년 농업 노동자 기숙사 건립 지원 선정 - 스트레이트뉴스",
+      "summary": "고령군, 2026년 농업 노동자 기숙사 건립 지원 선정 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yV2pCX2JWbFJka3ZXSjQ0OHc0T3JQdmlBSGdMSnJZdXRMR2dMUFZPb2J0aWpJem5TN0pjcDNlWFBVTEwxWnNsX2k0ME9fREowdWNrWXp3Ynhka09xdVlZLXctUUdjVDRhQU9KbGFFRmVacE0?oc=5",
+      "date": "Wed, 04 Nov 2026 23:29:29 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjhOelNKbXJVbzRHT1B0c1VrNEJSaGtudURueWFyeUNHeUtyNUZlSUZodm13TFkxVFVZQVlBM3hPNUlVS05iOGdYOWJoZHdTNUNqdHBVams1djlzQTRVVm8zQ1FGTG44QXJuTFdMM2p5aUxjXzg0cGRIVERQTDd5ZFA0WkYtVzNERmc?oc=5": {
+      "title": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익은 - 글로벌이코노믹",
+      "summary": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익은 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjhOelNKbXJVbzRHT1B0c1VrNEJSaGtudURueWFyeUNHeUtyNUZlSUZodm13TFkxVFVZQVlBM3hPNUlVS05iOGdYOWJoZHdTNUNqdHBVams1djlzQTRVVm8zQ1FGTG44QXJuTFdMM2p5aUxjXzg0cGRIVERQTDd5ZFA0WkYtVzNERmc?oc=5",
+      "date": "Wed, 04 Nov 2026 23:26:45 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -7879,6 +7831,41 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5",
       "title": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! - 구미일보",
       "date": "Wed, 04 Nov 2026 13:25:25 GMT"
+    },
+    {
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314672",
+      "title": "국립경국대 의대 신설… 경북 북부권 의료 혁신",
+      "date": "Thu, 05 Nov 2026 08:54:00 +0900"
+    },
+    {
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=767641",
+      "title": "한국 거래소, '대왕고래' 관련 이상거래 통보…금융위 자료제출 거부",
+      "date": "Thu, 05 Nov 2026 08:46:00 +0900"
+    },
+    {
+      "url": "https://kpenews.com/View.aspx?No=4298352",
+      "title": "'파노라마 워크 준공 기념전' 포스코 미술관 광양, 관람객 발길 이어져",
+      "date": "Thu, 05 Nov 2026 08:38:00 +0900"
+    },
+    {
+      "url": "https://biz.heraldcorp.com/article/10926376?ref=naver",
+      "title": "[단독] 459억 몰아주기 있었나…특검, ‘사전투표지 발급기 사업 의혹’...",
+      "date": "Thu, 05 Nov 2026 08:34:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yV2pCX2JWbFJka3ZXSjQ0OHc0T3JQdmlBSGdMSnJZdXRMR2dMUFZPb2J0aWpJem5TN0pjcDNlWFBVTEwxWnNsX2k0ME9fREowdWNrWXp3Ynhka09xdVlZLXctUUdjVDRhQU9KbGFFRmVacE0?oc=5",
+      "title": "고령군, 2026년 농업 노동자 기숙사 건립 지원 선정 - 스트레이트뉴스",
+      "date": "Wed, 04 Nov 2026 23:29:29 GMT"
+    },
+    {
+      "url": "https://www.g-enews.com/view.php?ud=202611042205274427d9ce08d08_1",
+      "title": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익...",
+      "date": "Thu, 05 Nov 2026 08:28:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjhOelNKbXJVbzRHT1B0c1VrNEJSaGtudURueWFyeUNHeUtyNUZlSUZodm13TFkxVFVZQVlBM3hPNUlVS05iOGdYOWJoZHdTNUNqdHBVams1djlzQTRVVm8zQ1FGTG44QXJuTFdMM2p5aUxjXzg0cGRIVERQTDd5ZFA0WkYtVzNERmc?oc=5",
+      "title": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익은 - 글로벌이코노믹",
+      "date": "Wed, 04 Nov 2026 23:26:45 GMT"
     }
   ],
   "brief_articles": [
