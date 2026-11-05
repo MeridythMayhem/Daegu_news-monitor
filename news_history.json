@@ -1498,7 +1498,8 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564600": "2026-11-05T22:02:43.662074+09:00",
     "http://www.breaknews.com/1248782": "2026-11-05T22:02:43.662074+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WR0daTzRaSzlheWQ2aTJZT09JYjdPM0tzMUdOckhLSTlkb2MtbnliYUhPLTQzczdQNXhXVlpOUWZqMjNBejlTMTNMMmkzNUVSZTNrMDBPWURhZ3Z5QktPLVhYa3lfZVI0bUpZ?oc=5": "2026-11-05T22:02:43.662074+09:00",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886206": "2026-11-05T22:02:43.662074+09:00"
+    "https://www.getnews.co.kr/news/articleView.html?idxno=886206": "2026-11-05T22:02:43.662074+09:00",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5": "2026-11-05T23:01:58.765278+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2499,7 +2500,8 @@
     "473ba76b5c874910b3d583a3aab8d95e418ab57b680307183d62d2bb17ac0bcb": "2026-11-05T22:02:43.662074+09:00",
     "f0d895d79ca9ef777de827dcd4c0af3b09503fcfb93d8af9a38ca7da48865ce9": "2026-11-05T22:02:43.662074+09:00",
     "b0757615ce52a2e66a0ef207f1e33ca2e8c370a4434fede8e11a185c2cfa5db7": "2026-11-05T22:02:43.662074+09:00",
-    "5604b2eaa60945f60a061ebc654a00f9f349258a8efed8f0a1bdf41031ff4848": "2026-11-05T22:02:43.662074+09:00"
+    "5604b2eaa60945f60a061ebc654a00f9f349258a8efed8f0a1bdf41031ff4848": "2026-11-05T22:02:43.662074+09:00",
+    "346419b8edbc0d6b877bcdab68681a611f42474c6dfab6e0d9ff47c62deebd83": "2026-11-05T23:01:58.765278+09:00"
   },
   "pending": {},
   "ai": {
@@ -2519,32 +2521,6 @@
         "domestic"
       ],
       "basis": "관심기업: 포스코퓨처엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.vegannews.co.kr/news/article.html?no=400041": {
-      "title": "포스코 스틸리온 3분기 영업이익 2억원…순손실 전환",
-      "summary": "포스코 스틸리온(058430)의 2026년 3분기 연결기준 영업이익은 2억원으로 전년 동기보다 96.0% 감소했다. 매출은 2852억원으로 0.9% 늘었지만, 당기순손익은 1억원 적자로 돌아섰다. 회사가 지난 2일 금융감독원...",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=400041",
-      "date": "Tue, 03 Nov 2026 22:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjBRS1dBZlczMFhwZmg1UV9tYjk4dC1pMzZqNmdTN2MtTWc2aUtfblZpY29CMXVMWlIxMDdBb1V1TmxEbkpVLW5DVXlwRk1QOEZaVXROOWg0NXoyVlczaTVKdW5WMkJUZUhncmRBMGUzLWJQaG41aHJIdFhxYXU3cUU0ajZId2NPYW82dFUtZ0ViWnQ1QmJuU2l4NFpHTHdZUkROeU5tSkVKQnpFUS1lNFNISmI3Yi14bjVUR2t3c1J0LVNjMHNqVnNrbG1PcXlvbjl0dm1vYjRNU0tXZmo2SzJpUFY0eWNYWnVoRXFlTVI3LWZaTlM0cGJocG9Bam84YzVkaTZXLVVQemhXQzJGbTRLSlEwelhjSmdfdFBmNGJTaU5ueFFNZ0NaQTdHN00tZTRvZmtacTNYR2pRb2ZSM2N0dnFHZw?oc=5": {
-      "title": "엘앤에프, LG에너지솔루션과 1조 원대 LFP 양극재 장기 공급계약 체결 - 아이씨엔매거진",
-      "summary": "엘앤에프, LG에너지솔루션과 1조 원대 LFP 양극재 장기 공급계약 체결 아이씨엔매거진",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjBRS1dBZlczMFhwZmg1UV9tYjk4dC1pMzZqNmdTN2MtTWc2aUtfblZpY29CMXVMWlIxMDdBb1V1TmxEbkpVLW5DVXlwRk1QOEZaVXROOWg0NXoyVlczaTVKdW5WMkJUZUhncmRBMGUzLWJQaG41aHJIdFhxYXU3cUU0ajZId2NPYW82dFUtZ0ViWnQ1QmJuU2l4NFpHTHdZUkROeU5tSkVKQnpFUS1lNFNISmI3Yi14bjVUR2t3c1J0LVNjMHNqVnNrbG1PcXlvbjl0dm1vYjRNU0tXZmo2SzJpUFY0eWNYWnVoRXFlTVI3LWZaTlM0cGJocG9Bam84YzVkaTZXLVVQemhXQzJGbTRLSlEwelhjSmdfdFBmNGJTaU5ueFFNZ0NaQTdHN00tZTRvZmtacTNYR2pRb2ZSM2N0dnFHZw?oc=5",
-      "date": "Tue, 03 Nov 2026 13:22:32 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프 · 시설 투자/계약",
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
@@ -8348,6 +8324,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5": {
+      "title": "대구 북구,‘별 따라 맛집, 선물 가득 이벤트’진행 - 시사뉴스",
+      "summary": "대구 북구,‘별 따라 맛집, 선물 가득 이벤트’진행 시사뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5",
+      "date": "Thu, 05 Nov 2026 13:24:22 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -10186,6 +10175,11 @@
       "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886206",
       "title": "에코프로 , 악재 속 3분기 흑자 수성... 북미 신규 수주로 반등 노린다",
       "date": "Thu, 05 Nov 2026 21:02:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5",
+      "title": "대구 북구,‘별 따라 맛집, 선물 가득 이벤트’진행 - 시사뉴스",
+      "date": "Thu, 05 Nov 2026 13:24:22 GMT"
     }
   ],
   "brief_articles": [
