@@ -1491,7 +1491,10 @@
     "https://www.vegannews.co.kr/news/article.html?no=401041": "2026-11-05T20:02:34.810642+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LRmRYS1ZXc1diMUJ6YXJ1V1VBaTliQy11NkYyTzdBZm96NVlNemNkTVA5QzhZc0hRblhFbEloN0hFTFIzRGUxZ2VBcENCc2tKT1JINmFHWTJTbF8yeTE3M3MtNEZCNDJsVXVZ?oc=5": "2026-11-05T20:02:34.810642+09:00",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtd09BZk5HMzBKX0ZROG5SN2xNdy13R1lSM2owbEtZOGxNMHlySnFyYjBlQ29yUG40cTJITVFncjFOd1lRM3gzY3FaLXFHb3BwbXl2WkY3SFRweHgtdWwwQmlHU0tfV2VZNno4RFRMVQ?oc=5": "2026-11-05T20:02:34.810642+09:00",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489055": "2026-11-05T20:02:34.810642+09:00"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489055": "2026-11-05T20:02:34.810642+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892": "2026-11-05T21:01:52.393115+09:00",
+    "https://magazine.hankyung.com/business/article/202611059374b": "2026-11-05T21:01:52.393115+09:00",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ0pVaHVqdUEwY09HdTNYWkl1LTVhVWdObDM3OEJoSktxYUJEdnd4MXVCdFNSeTA0clRjTG5raFJtWmZpTnN0Z2dQeE1BWl9INm9nZWsxdXQybUg5TnlmSGFZR3FrdXRzb2IyMkRJNFVIRElX?oc=5": "2026-11-05T21:01:52.393115+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2485,14 +2488,17 @@
     "1129e4fc94479d260421e36a278a61e38f3115c3f02f61cb8c59abb058633c28": "2026-11-05T20:02:34.810642+09:00",
     "8cb47e61fac737be7b3560a994d5905677803347c3c4e75a9975c8489f6f319d": "2026-11-05T20:02:34.810642+09:00",
     "19f10b5fa89251d54b76a2745f7df906a0bd37e6b30c0cb6d5c3eddf69905059": "2026-11-05T20:02:34.810642+09:00",
-    "9e5c418ecdf15e9b64c10f02fac9f09233ee6e5f00f94e887da60058f1ebcf59": "2026-11-05T20:02:34.810642+09:00"
+    "9e5c418ecdf15e9b64c10f02fac9f09233ee6e5f00f94e887da60058f1ebcf59": "2026-11-05T20:02:34.810642+09:00",
+    "1809ccaf390eb6a4802828f6437521a35e32043403c0ff8469853c989a90bc8f": "2026-11-05T21:01:52.393115+09:00",
+    "968735b8f4b19ab077f125bd578b5f0c5a41c764ec93cd671767503b27f461e6": "2026-11-05T21:01:52.393115+09:00",
+    "fa8d488c9d80aca285ff015fe3cdebcf753ac65640d088983b3355d718288f7c": "2026-11-05T21:01:52.393115+09:00"
   },
   "pending": {},
   "ai": {
     "2026-10-29": 62,
     "2026-11-03": 3,
     "2026-11-04": 15,
-    "2026-11-05": 27
+    "2026-11-05": 28
   },
   "cursor": 0,
   "archive": {
@@ -2508,103 +2514,6 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
-    },
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A": {
-      "title": "[여기는 포항] 포스코 홀딩스, 3분기 영업이익 9천450억 원 외",
-      "summary": "포스코 홀딩스는 올 3분기 연결기준 매출이 19조천410억 원, 영업이익 9천450억 원, 순이익 3천800억 원의 실적을 냈다고 발표했습니다. 세부적으로는 철강 부문에서 포스코 가 4분기 만에 4천억 원대 영업이익을 회복했고...",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A",
-      "date": "Tue, 03 Nov 2026 20:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": false,
-      "filter_version": 14
-    },
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205268&mode=view": {
-      "title": "포스코 홀딩스, 3분기 영업이익 47.9% 증가..철강 상승 주도",
-      "summary": "포스코 그룹 지주사인 포스코 홀딩스가 철강 부문의 수익성 회복에 힘입어 3분기 연속 실적 상승세를 이어갔습니다. 포스코 홀딩스는 연결 기준 올해 3분기 영업이익이 9천400억 원으로 지난해 3분기보다 47.9...",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205268&mode=view",
-      "date": "Tue, 03 Nov 2026 20:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "needs_ai": false,
-      "filter_version": 16
-    },
-    "https://www.ksmnews.co.kr/news/view.php?idx=628315": {
-      "title": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
-      "summary": "포항 시 관광컨벤션도시추진본부는 3일 시청 브리핑룸에서 주요 현안 브리핑을 열고 하반기 축제 운영계획과 마이스산업 육성 전략, 포항 국제전시컨벤션센터(POEX) 건립 현황 등을 발표했다. 포항 해병대문화축제는...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628315",
-      "date": "Tue, 03 Nov 2026 20:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
-      "needs_ai": true,
-      "filter_version": 16,
-      "ai_result": {
-        "category": "지역언론 경제·정책",
-        "score": 65,
-        "evidence": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
-        "provider": "gemini",
-        "scope_label": "관내: 포항",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5": {
-      "title": "가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’ - 기후에너지경제",
-      "summary": "가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’ 기후에너지경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5",
-      "date": "Tue, 03 Nov 2026 11:53:01 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 80,
-      "needs_ai": true,
-      "filter_version": 16,
-      "ai_result": {
-        "category": "관심기업 동향",
-        "score": 80,
-        "evidence": "가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’ - 기후에너지경제",
-        "provider": "gemini",
-        "scope_label": "관심기업: iM뱅크",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5": {
-      "title": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 - 웹이코노미",
-      "summary": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5",
-      "date": "Tue, 03 Nov 2026 11:50:03 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
-      "needs_ai": true,
-      "filter_version": 16,
-      "ai_result": {
-        "category": "지역언론 경제·정책",
-        "score": 65,
-        "evidence": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 - 웹이코노미",
-        "provider": "gemini",
-        "scope_label": "관내: 포항",
-        "evidence_id": 0
-      },
-      "review": "AI 참고 적합"
     },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564334": {
       "title": "[사설] 삼성SDS와 이수페타시스의 구미·대구 투자",
@@ -8327,6 +8236,45 @@
       "category": "관심기업 동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892": {
+      "title": "에코프로 , 3분기 영업이익 112억원…흑자 유지에도 전분기보다 급감",
+      "summary": "전구체 사업을 담당하는 에코프로머티리얼즈 는 3분기 매출 1천811억 원으로 전분기(1천788억 원) 대비 23억 원 늘었으나 영업이익은 적자를 보였다. 이는 환율과 메탈 가격 약세 등 대외 요인이 복합적으로 작용하며...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892",
+      "date": "Thu, 05 Nov 2026 20:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://magazine.hankyung.com/business/article/202611059374b": {
+      "title": "에코프로 3분기 흑자 이어갔지만…머티리얼즈 적자·수익성은 숙제",
+      "summary": "계열사별로는 양극재를 생산하는 에코프로비엠 이 매출 5579억원, 영업이익 120억원을 기록했다. 전기차 시장 성장 둔화로 매출이 전 분기보다 소폭 감소했지만 인공지능(AI) 데이터센터 확산에 따른 에너지저장장치(ESS)...",
+      "url": "https://magazine.hankyung.com/business/article/202611059374b",
+      "date": "Thu, 05 Nov 2026 20:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ0pVaHVqdUEwY09HdTNYWkl1LTVhVWdObDM3OEJoSktxYUJEdnd4MXVCdFNSeTA0clRjTG5raFJtWmZpTnN0Z2dQeE1BWl9INm9nZWsxdXQybUg5TnlmSGFZR3FrdXRzb2IyMkRJNFVIRElX?oc=5": {
+      "title": "안호영 “새만금 투자, 무주~대구 고속도로 예타에 반영해야” - 글로벌뉴스통신GNA",
+      "summary": "안호영 “새만금 투자, 무주~대구 고속도로 예타에 반영해야” 글로벌뉴스통신GNA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ0pVaHVqdUEwY09HdTNYWkl1LTVhVWdObDM3OEJoSktxYUJEdnd4MXVCdFNSeTA0clRjTG5raFJtWmZpTnN0Z2dQeE1BWl9INm9nZWsxdXQybUg5TnlmSGFZR3FrdXRzb2IyMkRJNFVIRElX?oc=5",
+      "date": "Thu, 05 Nov 2026 11:08:01 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -10130,6 +10078,21 @@
       "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489055",
       "title": "에코프로 , 3분기 매출 8107억원·영업이익 112억원",
       "date": "Thu, 05 Nov 2026 19:05:00 +0900"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892",
+      "title": "에코프로 , 3분기 영업이익 112억원…흑자 유지에도 전분기보다 급감",
+      "date": "Thu, 05 Nov 2026 20:50:00 +0900"
+    },
+    {
+      "url": "https://magazine.hankyung.com/business/article/202611059374b",
+      "title": "에코프로 3분기 흑자 이어갔지만…머티리얼즈 적자·수익성은 숙제",
+      "date": "Thu, 05 Nov 2026 20:30:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ0pVaHVqdUEwY09HdTNYWkl1LTVhVWdObDM3OEJoSktxYUJEdnd4MXVCdFNSeTA0clRjTG5raFJtWmZpTnN0Z2dQeE1BWl9INm9nZWsxdXQybUg5TnlmSGFZR3FrdXRzb2IyMkRJNFVIRElX?oc=5",
+      "title": "안호영 “새만금 투자, 무주~대구 고속도로 예타에 반영해야” - 글로벌뉴스통신GNA",
+      "date": "Thu, 05 Nov 2026 11:08:01 GMT"
     }
   ],
   "brief_articles": [
@@ -10192,7 +10155,7 @@
     "2026-11-02": 49,
     "2026-11-03": 37,
     "2026-11-04": 14,
-    "2026-11-05": 9
+    "2026-11-05": 10
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
