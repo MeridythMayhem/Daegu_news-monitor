@@ -2505,260 +2505,12 @@
   },
   "pending": {},
   "ai": {
-    "2026-10-29": 62,
     "2026-11-03": 3,
     "2026-11-04": 15,
     "2026-11-05": 31
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfWjhXalhQS0paNHFuQTN1dzFwbVRudkthTmpsSjRiSU1QYmpsckNqT1hURjNyNEdEQ0xjUU91cVBXNmx3bklPZEV3MkdxVzY1WDlVRnZqVHNDVVUzc3NMUnNRNkVEZUVWWkc0YmxwSV9JOGp0Snc?oc=5": {
-      "title": "현대차그룹과 손잡은 포스코퓨처엠..베트남 인조흑연 음극재 사업 협력, 1천억 투자 유치(?) - 데일리카",
-      "summary": "현대차그룹과 손잡은 포스코퓨처엠..베트남 인조흑연 음극재 사업 협력, 1천억 투자 유치(?) 데일리카",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfWjhXalhQS0paNHFuQTN1dzFwbVRudkthTmpsSjRiSU1QYmpsckNqT1hURjNyNEdEQ0xjUU91cVBXNmx3bklPZEV3MkdxVzY1WDlVRnZqVHNDVVUzc3NMUnNRNkVEZUVWWkc0YmxwSV9JOGp0Snc?oc=5",
-      "date": "Tue, 03 Nov 2026 18:15:23 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.yonhapnewstv.co.kr/news/AKR20261104063459a3g": {
-      "title": "대구 북구 공장 서 화재 …인명피해 없어",
-      "summary": "대구 소방본부 등에 따르면 불은 오전 3시 43분쯤 산격동의 한 공장 에서 발생했습니다. 소방당국은 인력 100여 명과 장비 50여 대를 투입해 진화 작업을 벌였고, 오전 5시쯤 불을 완전히 껐습니다. 이번 화재 로 인한...",
-      "url": "http://www.yonhapnewstv.co.kr/news/AKR20261104063459a3g",
-      "date": "Wed, 04 Nov 2026 06:35:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.yna.co.kr/view/AKR20261104010500053?input=1195m": {
-      "title": "대구 북구 공장 화재 1시간여만에 진화…인명피해 없어",
-      "summary": "한 공장 에서 불이 나 1시간여만에 꺼졌다. 대구 소방본부 등에 따르면 불이 나자 당국은 현장에 인력 100여명과 장비 50여대 등을 투입했으며, 오전 5시께 진화 작업을 완료했다. 조사 결과 이번 화재 에 따른 인명피해는...",
-      "url": "https://www.yna.co.kr/view/AKR20261104010500053?input=1195m",
-      "date": "Wed, 04 Nov 2026 06:21:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.topstarnews.net/news/articleView.html?idxno=16267525": {
-      "title": "엘앤에프 , 1조349억원 규모 LFP 양극재 공급 계약 체결…LG에너지솔루션...",
-      "summary": "엘앤에프 (066970)가 LG에너지솔루션 및 그 자회사와 LFP 양극활물질 중장기 거래 계약을 체결했다. 한국거래소 공시에 따르면 계약 금액은 1,034,992,800,000원으로, 엘앤에프 의 2025년 연결기준 최근 매출액 2,154,938,965...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16267525",
-      "date": "Wed, 04 Nov 2026 00:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프 · 시설 투자/계약",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.koreareport.co.kr/news/articleView.html?idxno=54273": {
-      "title": "포스코 ·현대제철·동국제강, 올해 3분기 '고부가'로 실적 반등",
-      "summary": "◆ 포스코, 4개 분기 만에 4000억원대 회복...가격이 끌고 물량이 받쳤다 포스코홀딩스 는 2일 3분기 연결 기준 매출 19조1410억원, 영업이익 9450억원, 순이익 3800억원을 기록했다고 공시했다. 영업이익은 전년 동기보다 47.9...",
-      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54273",
-      "date": "Wed, 04 Nov 2026 08:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.the-today.com/news/articleView.html?idxno=92992": {
-      "title": "[단독] 환경 허가 뚫자 '상생 협약' 청구서…美 노조, 현대· 포스코 압박",
-      "summary": "현대제철과 포스코 가 미국 루이지애나주에 짓는 58억달러(약 7조6900억원) 규모 제철소가 대기배출 허가를... 현대· 포스코 루이지애나 스틸(HPLS)을 상대로 오염 방지 장치, 지역민 우선 채용, 피해 주택 소유주 보상을...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=92992",
-      "date": "Wed, 04 Nov 2026 07:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078921": {
-      "title": "포스코 장인화, 첫 파업 딛고 '연임' 시험대…12월 차기회장 경쟁 돌입",
-      "summary": "포스코홀딩스 의 3분기 연결기준 영업이익은 9450억원으로 전년 동기 대비 47.9% 증가했다. 매출은 19조1410억원으로 10.9% 늘었다. 영업이익 증가에는 지난해 포스코이앤씨의 대규모 적자에 따른 기저효과가 크게 작용했다....",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078921",
-      "date": "Wed, 04 Nov 2026 07:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.fnnews.com/news/202611030753087624": {
-      "title": "\" 포스코 퓨처엠, 연내 LFP 양산… 내년 양극재 출하 10만t 넘는다\"IBK투자...",
-      "summary": "포스코 퓨처엠이 연내 리튬인산철(LFP) 양극재 양산에 돌입하며 배터리 소재 사업의 성장축을 넓힌다.... 4일 IBK투자증권 보고서에 따르면 포스코 퓨처엠은 포항 공장의 기존 삼원계 생산라인 전환을 마치고 4분기...",
-      "url": "https://www.fnnews.com/news/202611030753087624",
-      "date": "Wed, 04 Nov 2026 05:29:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.segye.com/newsView/20261103519692?OutUrl=naver": {
-      "title": "포스코 퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손', 베트남 투자...",
-      "summary": "협력 포스코 퓨처엠은 현대자동차그룹과 베트남 인조흑연 음극재 사업 투자 및 협력 방안을 논의하기로 했다고 3일 밝혔다. 포스코 퓨처엠은 이날 현대차그룹과 베트남 인조흑연 음극재 사업 협력을 위한 투자의향서(LOI)...",
-      "url": "https://www.segye.com/newsView/20261103519692?OutUrl=naver",
-      "date": "Wed, 04 Nov 2026 01:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.g-enews.com/view.php?ud=20261104071230457ea13369bfa_1": {
-      "title": "한수원, 유럽 원전 수출 경쟁력 높인다…디지털 인증 체계 정비",
-      "summary": "유럽 원전 시장 진출을 추진하는 한국수력원자력 이 현지 기술 규제에 대응하기 위한 디지털 설비 인증 역량 강화에 나섰다. 원전의 안전성과 직결되는 디지털 기기의 설계·검증부터 유럽 인증 취득까지 전문기관과...",
-      "url": "https://www.g-enews.com/view.php?ud=20261104071230457ea13369bfa_1",
-      "date": "Wed, 04 Nov 2026 07:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE10dFZ2SVcyNUJkaUxZNzBRdkU4U0hIN0hVZk9zVVYxanJqX1Q5UW4xWEFSalRyU09ER3VCdFVWY0xWZmhXbHJqZ3VBX3hyTlV0Q1M5X1ZseDZ0VTFGdkh3RjlTMzNseTliRTZhWUNVZC1fQQ?oc=5": {
-      "title": "[은행] 우리, 개인사업자 전용 요금제 출시…KB국민, 수출입 기업 가족 초청·iM뱅크, 군부대 위문 - 웹이코노미",
-      "summary": "[은행] 우리, 개인사업자 전용 요금제 출시…KB국민, 수출입 기업 가족 초청·iM뱅크, 군부대 위문 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10dFZ2SVcyNUJkaUxZNzBRdkU4U0hIN0hVZk9zVVYxanJqX1Q5UW4xWEFSalRyU09ER3VCdFVWY0xWZmhXbHJqZ3VBX3hyTlV0Q1M5X1ZseDZ0VTFGdkh3RjlTMzNseTliRTZhWUNVZC1fQQ?oc=5",
-      "date": "Tue, 03 Nov 2026 14:37:29 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOdUNPUVBDTlJrRlRxQTNGdXpoemsyUy1DNEdMVUJHZnlFNTNMc2VQZ0NEcV9UdzM1RER1akw5V2N1R1AzMWdzTkJUaw?oc=5": {
-      "title": "대구 산격동 공장 화재…1시간여 만에 진화 : 사회 - 재경일보",
-      "summary": "대구 산격동 공장 화재…1시간여 만에 진화 : 사회 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOdUNPUVBDTlJrRlRxQTNGdXpoemsyUy1DNEdMVUJHZnlFNTNMc2VQZ0NEcV9UdzM1RER1akw5V2N1R1AzMWdzTkJUaw?oc=5",
-      "date": "Tue, 03 Nov 2026 21:32:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE04bUl0VnByR0tEVHVVdVdYSWhmR01CZVhJXzBKMERUNWdxUU84aFBtOUZONTU3YWpFRi1LOENrRTBXMGR2Y1FrcUtncnRHbXNmY25lSHhWT25KTVV2elNra05WeUtuNTJjdFE?oc=5": {
-      "title": "대동, 60억 CB에 자회사 매각 조건…팔아도 보증 1055억원 '불씨' - IB토마토",
-      "summary": "대동, 60억 CB에 자회사 매각 조건…팔아도 보증 1055억원 '불씨' IB토마토",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04bUl0VnByR0tEVHVVdVdYSWhmR01CZVhJXzBKMERUNWdxUU84aFBtOUZONTU3YWpFRi1LOENrRTBXMGR2Y1FrcUtncnRHbXNmY25lSHhWT25KTVV2elNra05WeUtuNTJjdFE?oc=5",
-      "date": "Tue, 03 Nov 2026 21:30:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE5FeEVtc3lrZFptTDdDUXRvY2dUdXdtaF9YeERSN2NmNVY1WVJLSTB1aEtEeUQ5TXVxcWw5bm1yLUNnMmIzbU01WU5YcGMyRDhpblBpSjJwNTVQaW81cFhXZ0NXVHAwSG5JYTZKbkM3YXE3QQ?oc=5": {
-      "title": "엘앤에프, 1조349억원 규모 LFP 양극재 공급 계약 체결…LG에너지솔루션과 중장기 거래 - 톱스타뉴스",
-      "summary": "엘앤에프, 1조349억원 규모 LFP 양극재 공급 계약 체결…LG에너지솔루션과 중장기 거래 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FeEVtc3lrZFptTDdDUXRvY2dUdXdtaF9YeERSN2NmNVY1WVJLSTB1aEtEeUQ5TXVxcWw5bm1yLUNnMmIzbU01WU5YcGMyRDhpblBpSjJwNTVQaW81cFhXZ0NXVHAwSG5JYTZKbkM3YXE3QQ?oc=5",
-      "date": "Tue, 03 Nov 2026 15:01:32 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프 · 시설 투자/계약",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VMGlsOWh5QWY2MEtCLXY5OS13MGg0Y3cyTFVyd2lxS0tXbmMyejRVOTlRWWlodjFTZnE2X0hfYVFHLXM3aHdkN0xZc0IwX3dZeDRfWWVwTEZOeDVLbTJEMVVDQjNFUjdOM3NkcA?oc=5": {
-      "title": "엘앤에프, LG에너지솔루션과 1조349억원 규모 LFP 양극재 공급계약… 매출의 48% - CEO경제신문",
-      "summary": "엘앤에프, LG에너지솔루션과 1조349억원 규모 LFP 양극재 공급계약… 매출의 48% CEO경제신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VMGlsOWh5QWY2MEtCLXY5OS13MGg0Y3cyTFVyd2lxS0tXbmMyejRVOTlRWWlodjFTZnE2X0hfYVFHLXM3aHdkN0xZc0IwX3dZeDRfWWVwTEZOeDVLbTJEMVVDQjNFUjdOM3NkcA?oc=5",
-      "date": "Tue, 03 Nov 2026 16:18:55 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TXJtaTFQU0JJbjFzR0VRMXlYVnlNempzRHpvZF9VWnljRDdrZHZMQi0zRTJma1hnbDk1RWdzaFRqaEtIWGstY0R1YkRNWUhPZkpDeW9WZ0g?oc=5": {
-      "title": "포스코홀딩스 3분기 영업이익 9,450억…3개 분기 연속 실적 개선 - 경북신문",
-      "summary": "포스코홀딩스 3분기 영업이익 9,450억…3개 분기 연속 실적 개선 경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TXJtaTFQU0JJbjFzR0VRMXlYVnlNempzRHpvZF9VWnljRDdrZHZMQi0zRTJma1hnbDk1RWdzaFRqaEtIWGstY0R1YkRNWUhPZkpDeW9WZ0g?oc=5",
-      "date": "Tue, 03 Nov 2026 15:31:07 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsdm9iNlR3d1ZrT0tpR2p5Y25RNk1Pb3VvSF9kQlNaSTh6OTdONTFEYmtXam0wd3djc1RTX3pBam1JT3BYTDFDQlRBRE1pN0JHUWRRUDhScjI0dw?oc=5": {
-      "title": "\"포스코퓨처엠, 연내 LFP 양산… 내년 양극재 출하 10만t 넘는다\"IBK투자證 - 파이낸셜뉴스",
-      "summary": "\"포스코퓨처엠, 연내 LFP 양산… 내년 양극재 출하 10만t 넘는다\"IBK투자證 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsdm9iNlR3d1ZrT0tpR2p5Y25RNk1Pb3VvSF9kQlNaSTh6OTdONTFEYmtXam0wd3djc1RTX3pBam1JT3BYTDFDQlRBRE1pN0JHUWRRUDhScjI0dw?oc=5",
-      "date": "Tue, 03 Nov 2026 20:29:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dEFITFpMSk91dFNtd2ZfSXVQWmRUUVVfdkRoeHQtOVhieWZHeHUxOXRIWXc0cFZqU1p0S19VZ2lpcDNVN0VjZDZ6Y0p6bXpDdWpUUDNJZzBnVVA5aWcteg?oc=5": {
-      "title": "한수원, 글로벌 인증기관 TUV 라인란드와 손잡고 '유럽 원전 디지털 기기' 수출 길 닦는다 - 메트로신문",
-      "summary": "한수원, 글로벌 인증기관 TUV 라인란드와 손잡고 '유럽 원전 디지털 기기' 수출 길 닦는다 메트로신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dEFITFpMSk91dFNtd2ZfSXVQWmRUUVVfdkRoeHQtOVhieWZHeHUxOXRIWXc0cFZqU1p0S19VZ2lpcDNVN0VjZDZ6Y0p6bXpDdWpUUDNJZzBnVVA5aWcteg?oc=5",
-      "date": "Tue, 03 Nov 2026 21:05:18 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xQ3FhVGM4QUk2a0RQNmdVWFBMa3RjYUFfSFZSV3RNbzRpNGg2MU5ObGl5blFlVUw3RlJScUlZRjFBX25kQXlfWGxWeVpCc0NqNzZRRTdlU3A?oc=5": {
-      "title": "“POSCO Future M to begin mass production of LFP by year-end... cathode shipments to top 100,000 tonnes next year” — IBK Investment & Securities - 파이낸셜뉴스",
-      "summary": "“POSCO Future M to begin mass production of LFP by year-end... cathode shipments to top 100,000 tonnes next year” — IBK Investment & Securities 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xQ3FhVGM4QUk2a0RQNmdVWFBMa3RjYUFfSFZSV3RNbzRpNGg2MU5ObGl5blFlVUw3RlJScUlZRjFBX25kQXlfWGxWeVpCc0NqNzZRRTdlU3A?oc=5",
-      "date": "Tue, 03 Nov 2026 20:29:00 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
     "https://www.imaeil.com/page/view/2026110317073887521": {
       "title": "포항 인터넷신문 대표, 지자체 보조금 1천만원 부정수급 혐의 송치",
       "summary": "경북 포항 지역 인터넷신문 대표가 지자체 보조금을 부정수급한 혐의 로 공소청에 넘겨졌다. 포항 남부경찰서는 3일 인터넷신문 대표 A(60대·남) 씨를 지방자치단체 보조금 관리에 관한 법률 위반 혐의 로 공소청에...",
@@ -8337,34 +8089,194 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2015158": {
+      "title": "구미 1산단 공단동 도시재생혁신지구 착공…2719억원 투입",
+      "summary": "구미 시는 이번 사업을 인근 문화산단 조성사업과 청년드림타워, 호텔 건립 사업 등과 연계할 방침이다. 산업시설 중심의 기존 산단에 문화와 주거 기능을 확대해 청년 인재와 기업의 유입을 촉진한다는 계획이다. 김장호...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2015158",
+      "date": "Fri, 06 Nov 2026 07:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=03129126645643096&mediaCodeNo=257": {
+      "title": "에코프로 비엠, 3분기 매출 기대 하회…\"LFP 진출로 美 BESS 시장 공략\"",
+      "summary": "에코프로 비엠(247540)이 미국 전기차 시장 부진 등으로 3분기 시장 기대에 못 미치는 매출을 냈다. 다만 리튬인산철(LFP) 양극재 생산라인 신설로 미국 배터리에너지저장장치(BESS) 시장에 진출하고, 2028년부터 양극재...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03129126645643096&mediaCodeNo=257",
+      "date": "Fri, 06 Nov 2026 07:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67179": {
+      "title": "영업손실에도 '역대 최대 출하'… 엘앤에프 , NCM·LFP 투트랙 승부수",
+      "summary": "엘앤에프 가 3분기 영업손실을 기록하며 적자로 돌아섰지만, 주력인 NCM(니켈·코발트·망간) 양극재 사업의... 엘앤에프 는 5일 공시를 통해 연결 기준 올해 3분기 영업손실이 265억원을 기록했다고 밝혔다. 지난해 같은...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67179",
+      "date": "Fri, 06 Nov 2026 07:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=730782": {
+      "title": "LS그룹, 2027년도 임원인사 단행",
+      "summary": "[LS- 엘앤에프 배터리솔루션(LLBS)] ◇CEO ▲대표이사 최원규(\\[現 LS 사업관리부문장 → LS- 엘앤에프 배터리솔루션(LLBS) CEO] [가온전선] ◇상무 ▲LSCUS법인장 손태원 ◇신규 이사 선임 ▲재경부문장 CFO 권세진...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730782",
+      "date": "Fri, 06 Nov 2026 01:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.donga.com/news/Economy/article/all/20261105/134974501/2": {
+      "title": "[경제계 인사]LS 3세 구본규 부회장 승진 外",
+      "summary": "최준환 ◇LS- 엘앤에프 배터리솔루션 〈선임〉 △대표이사 최원규 ◇가온전선 〈승진〉 △상무 손태원 〈선임〉 △이사 권세진 ◇LS마린솔루션·LS빌드윈 〈승진〉 △전무 김병옥 ◇LS머트리얼즈·LS에코첨단소재...",
+      "url": "https://www.donga.com/news/Economy/article/all/20261105/134974501/2",
+      "date": "Fri, 06 Nov 2026 00:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ddaily.co.kr/page/view/2026110517371268032": {
+      "title": "[종합] 엘앤에프 , LFP 25만톤 수주…2028년 생산능력 12만톤 확대",
+      "summary": "엘앤에프 가 리튬인산철(LFP) 양극재의 대규모 수주와 46파이 원통형 배터리용 하이니켈 양극재 공급... 엘앤에프 는 5일 올해 3분기 실적발표 컨퍼런스콜에서 연결기준 매출 8744억원, 영업손실 265억원을 기록했다고...",
+      "url": "https://www.ddaily.co.kr/page/view/2026110517371268032",
+      "date": "Thu, 05 Nov 2026 23:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ddaily.co.kr/page/view/2026110516544285756": {
+      "title": "엘앤에프 , 2026년 연간 역대 최대 출하 전망… \"NCM·LFP 쌍끌이 성장\"",
+      "summary": "엘앤에프 , 2026년 연간 역대 최대 출하 전망… \"NCM·LFP 쌍끌이 성장\" 엘앤에프 가 울트라(Ultra) 하이니켈과 차세대 46파이(지름 46㎜) 원통형 배터리용 양극재 판매 호조에 힘입어 2026년 연간 기준 사상 최대 출하량을...",
+      "url": "https://www.ddaily.co.kr/page/view/2026110516544285756",
+      "date": "Thu, 05 Nov 2026 23:37:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=237602": {
+      "title": "포스코 노조 7일 임금교섭 잠정합의안 찬반투표",
+      "summary": "▲ 포스코 포항제철소. 포스코 노조(위원장 김성호)가 창사 최초 파업 끝에 마련한 2026년 임금협약 잠정합의안에 대해 찬반투표를 실시한다. 노조는 7일 오전 6시부터 오후 5시까지 잠정합의안 찬반투표를 진행한다고...",
+      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237602",
+      "date": "Fri, 06 Nov 2026 06:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vUGtPYVFfSUVLcVdlbFdOR2sxbktaRjZUczBoOE1sREplczdnRTNRQVpaZkFNNXpSV0EwdlZEbm5hOWFqSWE3dGhUQklIN0VBcnlCWXhtUk12TnNkYXo5VkNQdEdzeUVwblNB?oc=5": {
+      "title": "[경제와 세상] 대구의 문제를 푸는 기업에 투자하자 - 영남일보",
+      "summary": "[경제와 세상] 대구의 문제를 푸는 기업에 투자하자 영남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vUGtPYVFfSUVLcVdlbFdOR2sxbktaRjZUczBoOE1sREplczdnRTNRQVpaZkFNNXpSV0EwdlZEbm5hOWFqSWE3dGhUQklIN0VBcnlCWXhtUk12TnNkYXo5VkNQdEdzeUVwblNB?oc=5",
+      "date": "Thu, 05 Nov 2026 21:00:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ock5PVUM2SGZRN2paWTJYQVRIYmk4ZlBjUzYtX2kxbmllaGtBeTFFQ2hvam1HdG8tMURFNHBqSUpjTXgyV1NsVm5WQVJSbWlRUU4tbHdRUFFaQkdSYWRLT0ZhOHFGajNKUmJQOS1zcUTSAXBBVV95cUxOaHJOT1VDNkhmUTdqWlkyWEFUSGJpOGZQY1M2LV9pMW5pZWhrQXkxRUNob2ptR3RvLTFERTRwaklKY014MldTbFZuVkFSUm1pUVFOLWx3UVBRWkJHUmFkS09GYThxRmozSlJiUDktc3FE?oc=5": {
+      "title": "에코프로, 3분기 매출 8107억원, 영업이익 112억원 기록 - 전기신문",
+      "summary": "에코프로, 3분기 매출 8107억원, 영업이익 112억원 기록 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ock5PVUM2SGZRN2paWTJYQVRIYmk4ZlBjUzYtX2kxbmllaGtBeTFFQ2hvam1HdG8tMURFNHBqSUpjTXgyV1NsVm5WQVJSbWlRUU4tbHdRUFFaQkdSYWRLT0ZhOHFGajNKUmJQOS1zcUTSAXBBVV95cUxOaHJOT1VDNkhmUTdqWlkyWEFUSGJpOGZQY1M2LV9pMW5pZWhrQXkxRUNob2ptR3RvLTFERTRwaklKY014MldTbFZuVkFSUm1pUVFOLWx3UVBRWkJHUmFkS09GYThxRmozSlJiUDktc3FE?oc=5",
+      "date": "Thu, 05 Nov 2026 17:43:03 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3d2EzaXU1NkhZNVMwNEZGNFBaUVMxTHYtNGxHWGszRWVpUXgyYVhyaHQtZ2FoYXdPaVpFVEhfRVZJSzQ0SEdhdFczSXNRZGkzMllFM1BzbEFHbEZzUkMyMktlUjBwbFNZQjNJ?oc=5": {
+      "title": "[포스코 지금은①] 리튬사업 8년째 투자 확대…2034년 회수 전망 흔들리나 - 뉴스저널리즘",
+      "summary": "[포스코 지금은①] 리튬사업 8년째 투자 확대…2034년 회수 전망 흔들리나 뉴스저널리즘",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3d2EzaXU1NkhZNVMwNEZGNFBaUVMxTHYtNGxHWGszRWVpUXgyYVhyaHQtZ2FoYXdPaVpFVEhfRVZJSzQ0SEdhdFczSXNRZGkzMllFM1BzbEFHbEZzUkMyMktlUjBwbFNZQjNJ?oc=5",
+      "date": "Thu, 05 Nov 2026 22:41:37 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Smt4U2ZPT1REdXlIbjBSdDN0TkZMU1l2X1hkZDBlN0RaQ0lmMWF4VHZHWXhEV2F3MEtxZlBtRGZLcTYzTzBBYnd6bU5VZTdXOVRLRnFXVFllUFI3WlhuMnhFNnl5WXhKLWpR?oc=5": {
+      "title": "[포스코 지금은②] 포스코퓨처엠 LFP 6조원 계약…진짜 신규 수주는 얼마 - 뉴스저널리즘",
+      "summary": "[포스코 지금은②] 포스코퓨처엠 LFP 6조원 계약…진짜 신규 수주는 얼마 뉴스저널리즘",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Smt4U2ZPT1REdXlIbjBSdDN0TkZMU1l2X1hkZDBlN0RaQ0lmMWF4VHZHWXhEV2F3MEtxZlBtRGZLcTYzTzBBYnd6bU5VZTdXOVRLRnFXVFllUFI3WlhuMnhFNnl5WXhKLWpR?oc=5",
+      "date": "Thu, 05 Nov 2026 22:41:50 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코, 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yVGJWX3F1dGljdmZGaFFCeVJHcnZTTnFWZmpONzdnQ3hYMmVfR1p2SnphRGp3c2RiVkhLR3pxV1FFal9hczhVUUs0UjRZblNCV3JWbVZ3WDd1NzVad2xuTGs5WW43aElPSEVOZmdn?oc=5": "2026-11-05T08:02:04.608545+09:00",
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041446186960625": "2026-11-05T08:02:04.608545+09:00",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3742667": "2026-11-05T08:02:04.608545+09:00",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZ1RXZENkNmM1MXkwdWNTNUlDblM1S2FibXEycERoTlVyQ3RNMWdFVFJGSXdCTVU2cWRaZG1aZElSMjJkOEVGZkJUajFLTlprWnhVMi1lSkRqcVJBNFp3YmcyclFjOGg40gFuQVVfeXFMT2NqSnB3dldhelpKb2MxYk90TjlhaDFQNGlaZFFDbHJHOGJJcVhQZlg2VDRUT3l6R28wa1FGYzZwN1hwQzNDYkNxcV8zbDRVUDZjbC1rSDE2cDBtN2hiOU5QWmdzUVhyRlc0XzB2ekE?oc=5": "2026-11-05T08:02:04.608545+09:00",
-    "https://www.imaeil.com/page/view/2026110417411658783": "2026-11-05T08:02:04.608545+09:00",
-    "https://www.donga.com/news/Society/article/all/20261104/134967192/2": "2026-11-05T08:02:04.608545+09:00",
-    "https://www.cbci.co.kr/news/articleView.html?idxno=623248": "2026-11-05T08:02:04.608545+09:00",
-    "https://www.m-i.kr/news/articleView.html?idxno=2014321": "2026-11-05T08:02:04.608545+09:00",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHMUZUc2dZcXQ5bk52R3lfM1FEU1hHaTR6YWZNUWlLSE9HMHRIY0V2SFpLc1hPNDhpMFo4RF9LaVNLWUdzdmVBNUJUYWhUYzRpQTdHaEpXMjRhbU4zNFFrODBhaUxIQQ?oc=5": "2026-11-05T08:02:04.608545+09:00",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=747722": "2026-11-05T08:02:04.608545+09:00"
+    "https://www.edaily.co.kr/News/Read?newsId=03129126645643096&mediaCodeNo=257": "2026-11-06T08:01:40.858812+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Smt4U2ZPT1REdXlIbjBSdDN0TkZMU1l2X1hkZDBlN0RaQ0lmMWF4VHZHWXhEV2F3MEtxZlBtRGZLcTYzTzBBYnd6bU5VZTdXOVRLRnFXVFllUFI3WlhuMnhFNnl5WXhKLWpR?oc=5": "2026-11-06T08:01:40.858812+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3d2EzaXU1NkhZNVMwNEZGNFBaUVMxTHYtNGxHWGszRWVpUXgyYVhyaHQtZ2FoYXdPaVpFVEhfRVZJSzQ0SEdhdFczSXNRZGkzMllFM1BzbEFHbEZzUkMyMktlUjBwbFNZQjNJ?oc=5": "2026-11-06T08:01:40.858812+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2015158": "2026-11-06T08:01:40.858812+09:00",
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67179": "2026-11-06T08:01:40.858812+09:00",
+    "https://www.labortoday.co.kr/news/articleView.html?idxno=237602": "2026-11-06T08:01:40.858812+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vUGtPYVFfSUVLcVdlbFdOR2sxbktaRjZUczBoOE1sREplczdnRTNRQVpaZkFNNXpSV0EwdlZEbm5hOWFqSWE3dGhUQklIN0VBcnlCWXhtUk12TnNkYXo5VkNQdEdzeUVwblNB?oc=5": "2026-11-06T08:01:40.858812+09:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ock5PVUM2SGZRN2paWTJYQVRIYmk4ZlBjUzYtX2kxbmllaGtBeTFFQ2hvam1HdG8tMURFNHBqSUpjTXgyV1NsVm5WQVJSbWlRUU4tbHdRUFFaQkdSYWRLT0ZhOHFGajNKUmJQOS1zcUTSAXBBVV95cUxOaHJOT1VDNkhmUTdqWlkyWEFUSGJpOGZQY1M2LV9pMW5pZWhrQXkxRUNob2ptR3RvLTFERTRwaklKY014MldTbFZuVkFSUm1pUVFOLWx3UVBRWkJHUmFkS09GYThxRmozSlJiUDktc3FE?oc=5": "2026-11-06T08:01:40.858812+09:00",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=730782": "2026-11-06T08:01:40.858812+09:00",
+    "https://www.donga.com/news/Economy/article/all/20261105/134974501/2": "2026-11-06T08:01:40.858812+09:00",
+    "https://www.ddaily.co.kr/page/view/2026110517371268032": "2026-11-06T08:01:40.858812+09:00",
+    "https://www.ddaily.co.kr/page/view/2026110516544285756": "2026-11-06T08:01:40.858812+09:00"
   },
   "brief_titles": {
-    "45371365a757cfb8088a0748abc6e0dd60ed04977a029d9367a6000c0db3aaa6": "2026-11-05T08:02:04.608545+09:00",
-    "0140ad1cbacb5fc1128633b75e4fcbddfa38d583807e87ee95eb05bd30035521": "2026-11-05T08:02:04.608545+09:00",
-    "00092e1f0ee0fa70c625fa50df2e404ccab6aced401141ec7bcf567bdc62d106": "2026-11-05T08:02:04.608545+09:00",
-    "00bd99cae5fb323aca4f1dfbce9d01a0adab3505c2d5c67df82ffd1fc3d6ea8d": "2026-11-05T08:02:04.608545+09:00",
-    "267eddcea8fbee989a8372464f9f6c60faa84c3d31925ee640913cef68d3112a": "2026-11-05T08:02:04.608545+09:00",
-    "71fd9b84b095153575ab1f040dcb3d9656e47435b02c9d570a336d549e8896fe": "2026-11-05T08:02:04.608545+09:00",
-    "28499af59b6463ee8d633ba5689337cde971d60d2ac853c9b66de8f54c3b00d3": "2026-11-05T08:02:04.608545+09:00",
-    "800d526524dd0fcddd115fa46207c90c00ede76090148346f20871e965a45929": "2026-11-05T08:02:04.608545+09:00",
-    "1d6d16d29c7da405a4fdb62e950f4797fd6bee18557621c60c2d501e957f35f9": "2026-11-05T08:02:04.608545+09:00",
-    "6695e72080408be6e459b35069a378ebfe68d5b66daa0f9eb5b4e23d525bab5f": "2026-11-05T08:02:04.608545+09:00"
+    "d6528390243aa165b13926bcc16345f10d782790c517d2a043b391431eec591e": "2026-11-06T08:01:40.858812+09:00",
+    "0445360914d47619bc68ac5758f38b07698e81985a126ba71d55c7ea22500462": "2026-11-06T08:01:40.858812+09:00",
+    "83bd00dfae92b134b67360e35be9b3bca20aa826db128f11746b694243c88ec8": "2026-11-06T08:01:40.858812+09:00",
+    "29b68a8ab651b8c9a7ea36111f528a1d4001c91212281ba384b290e3730efa2e": "2026-11-06T08:01:40.858812+09:00",
+    "c6ee3c9c21e6cedb6a439d01b568b1de87d1be5542320e9555147d3b44a51492": "2026-11-06T08:01:40.858812+09:00",
+    "cf6ce0cb3f15d91e1d3fab764519221f5e86da88790a4a62c902f0e350656c79": "2026-11-06T08:01:40.858812+09:00",
+    "81fc617584044a35077ba8c2188ba1b3c65aff631add0e4c8f067a5d19c51eac": "2026-11-06T08:01:40.858812+09:00",
+    "a3f2d570c0bdd72d4af2e01229fb10fc7ad83c5cb7ec5cd3fe3757bc1cebe384": "2026-11-06T08:01:40.858812+09:00",
+    "2993029090cb6068760847f22db9d49bd7b4fcc6152d8e42a068031f3b7f2dd5": "2026-11-06T08:01:40.858812+09:00",
+    "71057412dd7f4cfe17547f3cddfd01bdd8233a9cb535ebdbcb202cb1005285aa": "2026-11-06T08:01:40.858812+09:00",
+    "64f0d29d7c97f5a79aa75a16481ffec8f3af4f6e134948d1ab4c32d0ea3863cc": "2026-11-06T08:01:40.858812+09:00",
+    "01aa6a7c632913f5d0cf563d3ba0a0f431a955ae6ce05e736cb359755e6025a7": "2026-11-06T08:01:40.858812+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-05",
+  "brief_date": "2026-11-06",
   "sent_articles": [
     {
       "url": "http://www.datanews.co.kr/news/article.html?no=147230",
@@ -10184,58 +10096,67 @@
   ],
   "brief_articles": [
     {
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yVGJWX3F1dGljdmZGaFFCeVJHcnZTTnFWZmpONzdnQ3hYMmVfR1p2SnphRGp3c2RiVkhLR3pxV1FFal9hczhVUUs0UjRZblNCV3JWbVZ3WDd1NzVad2xuTGs5WW43aElPSEVOZmdn?oc=5",
-      "title": "\"11월부터 대대적 점검\"…청도군, 500㎡ 이상 공장·창고 화재안전 실태조사 착수 - 국제뉴스",
-      "date": "Wed, 04 Nov 2026 20:52:26 GMT"
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03129126645643096&mediaCodeNo=257",
+      "title": "에코프로 비엠, 3분기 매출 기대 하회…\"LFP 진출로 美 BESS 시장 공략\"",
+      "date": "Fri, 06 Nov 2026 07:58:00 +0900"
     },
     {
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041446186960625",
-      "title": "③ 한수원,‘저가수주’ 청구서 시공사로…“손실 1.4조 떠넘겨”",
-      "date": "Thu, 05 Nov 2026 06:22:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Smt4U2ZPT1REdXlIbjBSdDN0TkZMU1l2X1hkZDBlN0RaQ0lmMWF4VHZHWXhEV2F3MEtxZlBtRGZLcTYzTzBBYnd6bU5VZTdXOVRLRnFXVFllUFI3WlhuMnhFNnl5WXhKLWpR?oc=5",
+      "title": "[포스코 지금은②] 포스코퓨처엠 LFP 6조원 계약…진짜 신규 수주는 얼마 - 뉴스저널리즘",
+      "date": "Thu, 05 Nov 2026 22:41:50 GMT"
     },
     {
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742667",
-      "title": "경북 도의회, 국립경국대 의대 신설 환영…지역 필수의료 강화 기대",
-      "date": "Thu, 05 Nov 2026 05:52:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3d2EzaXU1NkhZNVMwNEZGNFBaUVMxTHYtNGxHWGszRWVpUXgyYVhyaHQtZ2FoYXdPaVpFVEhfRVZJSzQ0SEdhdFczSXNRZGkzMllFM1BzbEFHbEZzUkMyMktlUjBwbFNZQjNJ?oc=5",
+      "title": "[포스코 지금은①] 리튬사업 8년째 투자 확대…2034년 회수 전망 흔들리나 - 뉴스저널리즘",
+      "date": "Thu, 05 Nov 2026 22:41:37 GMT"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZ1RXZENkNmM1MXkwdWNTNUlDblM1S2FibXEycERoTlVyQ3RNMWdFVFJGSXdCTVU2cWRaZG1aZElSMjJkOEVGZkJUajFLTlprWnhVMi1lSkRqcVJBNFp3YmcyclFjOGg40gFuQVVfeXFMT2NqSnB3dldhelpKb2MxYk90TjlhaDFQNGlaZFFDbHJHOGJJcVhQZlg2VDRUT3l6R28wa1FGYzZwN1hwQzNDYkNxcV8zbDRVUDZjbC1rSDE2cDBtN2hiOU5QWmdzUVhyRlc0XzB2ekE?oc=5",
-      "title": "[더벨]대동, 전북도·현대차그룹과 새만금 '로봇 팜 팩토리' 사업화 논의 - 머니투데이 - 머니투데이",
-      "date": "Wed, 04 Nov 2026 20:16:20 GMT"
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2015158",
+      "title": "구미 1산단 공단동 도시재생혁신지구 착공…2719억원 투입",
+      "date": "Fri, 06 Nov 2026 07:34:00 +0900"
     },
     {
-      "url": "https://www.imaeil.com/page/view/2026110417411658783",
-      "title": "[사설] 경북 에 국립의대 신설, 의료격차·지방소멸 해소 계기로",
-      "date": "Thu, 05 Nov 2026 05:01:00 +0900"
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67179",
+      "title": "영업손실에도 '역대 최대 출하'… 엘앤에프 , NCM·LFP 투트랙 승부수",
+      "date": "Fri, 06 Nov 2026 07:00:00 +0900"
     },
     {
-      "url": "https://www.donga.com/news/Society/article/all/20261104/134967192/2",
-      "title": "동부권 관광 거점 ‘ 대구 제2수목원’ 착공",
-      "date": "Thu, 05 Nov 2026 04:33:00 +0900"
+      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237602",
+      "title": "포스코 노조 7일 임금교섭 잠정합의안 찬반투표",
+      "date": "Fri, 06 Nov 2026 06:34:00 +0900"
     },
     {
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=623248",
-      "title": "에코프로 비엠 10% 이상 급등…3분기 영업이익 얼마",
-      "date": "Thu, 05 Nov 2026 00:10:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vUGtPYVFfSUVLcVdlbFdOR2sxbktaRjZUczBoOE1sREplczdnRTNRQVpaZkFNNXpSV0EwdlZEbm5hOWFqSWE3dGhUQklIN0VBcnlCWXhtUk12TnNkYXo5VkNQdEdzeUVwblNB?oc=5",
+      "title": "[경제와 세상] 대구의 문제를 푸는 기업에 투자하자 - 영남일보",
+      "date": "Thu, 05 Nov 2026 21:00:00 GMT"
     },
     {
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2014321",
-      "title": "국립경국대 의대 신설, 경북 의료 공백 해소할까",
-      "date": "Thu, 05 Nov 2026 00:00:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ock5PVUM2SGZRN2paWTJYQVRIYmk4ZlBjUzYtX2kxbmllaGtBeTFFQ2hvam1HdG8tMURFNHBqSUpjTXgyV1NsVm5WQVJSbWlRUU4tbHdRUFFaQkdSYWRLT0ZhOHFGajNKUmJQOS1zcUTSAXBBVV95cUxOaHJOT1VDNkhmUTdqWlkyWEFUSGJpOGZQY1M2LV9pMW5pZWhrQXkxRUNob2ptR3RvLTFERTRwaklKY014MldTbFZuVkFSUm1pUVFOLWx3UVBRWkJHUmFkS09GYThxRmozSlJiUDktc3FE?oc=5",
+      "title": "에코프로, 3분기 매출 8107억원, 영업이익 112억원 기록 - 전기신문",
+      "date": "Thu, 05 Nov 2026 17:43:03 GMT"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHMUZUc2dZcXQ5bk52R3lfM1FEU1hHaTR6YWZNUWlLSE9HMHRIY0V2SFpLc1hPNDhpMFo4RF9LaVNLWUdzdmVBNUJUYWhUYzRpQTdHaEpXMjRhbU4zNFFrODBhaUxIQQ?oc=5",
-      "title": "영천 청년창업기업 8곳, 투자유치 무대 오른다 - 경북TV",
-      "date": "Wed, 04 Nov 2026 14:01:10 GMT"
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730782",
+      "title": "LS그룹, 2027년도 임원인사 단행",
+      "date": "Fri, 06 Nov 2026 01:30:00 +0900"
     },
     {
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=747722",
-      "title": "제철 과메기 특수로 지역 경제 활력 찾는다… '제27회 포항 구룡포 과메...",
-      "date": "Thu, 05 Nov 2026 00:33:00 +0900"
+      "url": "https://www.donga.com/news/Economy/article/all/20261105/134974501/2",
+      "title": "[경제계 인사]LS 3세 구본규 부회장 승진 外",
+      "date": "Fri, 06 Nov 2026 00:31:00 +0900"
+    },
+    {
+      "url": "https://www.ddaily.co.kr/page/view/2026110517371268032",
+      "title": "[종합] 엘앤에프 , LFP 25만톤 수주…2028년 생산능력 12만톤 확대",
+      "date": "Thu, 05 Nov 2026 23:38:00 +0900"
+    },
+    {
+      "url": "https://www.ddaily.co.kr/page/view/2026110516544285756",
+      "title": "엘앤에프 , 2026년 연간 역대 최대 출하 전망… \"NCM·LFP 쌍끌이 성장\"",
+      "date": "Thu, 05 Nov 2026 23:37:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-10-29": 25,
     "2026-10-30": 52,
     "2026-10-31": 16,
     "2026-11-01": 20,
