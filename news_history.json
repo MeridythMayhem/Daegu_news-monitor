@@ -1574,7 +1574,10 @@
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DR3RKRlY3Tk1mbHNVTVlxRFFwdi1fSHppQk9meTRmaEZlS2NRV1JGYl8xbDcxaGpPcGlfdzdrTUJnRC1DSnBGVE1BWWpXZEZFOE1XLUVxRUJtRXRua3oyYkxNQWwwRWMtT2l6Q2tic3BrRFJsazRRaE55bFk?oc=5": "2026-11-06T19:02:00.599807+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaHNuY1NSSmFCenZhVS1lTWwzZmZPeWR4UDg4UThjbHBKZW9wS2FyeHpDYVpyV2YyVm1uV1NISHhvTVRBVUU0TThPdDhtOXM1WHlGTzBYY1Ezd0FaNmVZcmVPU0k?oc=5": "2026-11-06T20:02:02.801969+09:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c3N0VkdDVFY4Q3Vvd0kxMHdacjEwVHJCYWhCTGhjVElzX2NmZjFVdVd0Q3FsbTVQd2ZkZHBQTkJPM24zWk13ZnpBeW52V1J2S1ppUkwyV0RDS0VWdXphVS1fTFdKa0hQa0ZkZndR?oc=5": "2026-11-06T20:02:02.801969+09:00",
-    "https://www.kbmaeil.com/article/20261106500210": "2026-11-06T20:02:02.801969+09:00"
+    "https://www.kbmaeil.com/article/20261106500210": "2026-11-06T20:02:02.801969+09:00",
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=247281": "2026-11-06T21:02:01.076082+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=401427": "2026-11-06T21:02:01.076082+09:00",
+    "http://www.metroseoul.co.kr/article/20261106500264": "2026-11-06T21:02:01.076082+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2651,7 +2654,10 @@
     "103aecc09d39ed0daf7d7e2a7ba56e5994fc9339960b21497e9070343b19d4cf": "2026-11-06T19:02:00.599807+09:00",
     "82526b8bef6adefc90920132fc27685ee1dbbc76de30cc56480bf5a791afaf71": "2026-11-06T20:02:02.801969+09:00",
     "f25bbc61ab2306c18856416d08f7a63aaf8038308f8d75ce9dfc6e41db73be41": "2026-11-06T20:02:02.801969+09:00",
-    "06ffb317573c30afc4916a97817b9d7bcfbb54c62f3008911b217beca8a2e9e7": "2026-11-06T20:02:02.801969+09:00"
+    "06ffb317573c30afc4916a97817b9d7bcfbb54c62f3008911b217beca8a2e9e7": "2026-11-06T20:02:02.801969+09:00",
+    "5d73082059d926e62b82f1b46033bc791f1c2e4b503e6ea25c1457674846016d": "2026-11-06T21:02:01.076082+09:00",
+    "7af94a78f54b5a7cc5bf2c1707ac5df0a64514968dbe92198e9c7992d4ad6f9f": "2026-11-06T21:02:01.076082+09:00",
+    "baf25b2ff22b5e6eda38c28825dfe1c38e56ec5ec348fd9596a5b3f30ec7f0f3": "2026-11-06T21:02:01.076082+09:00"
   },
   "pending": {},
   "ai": {
@@ -2662,71 +2668,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver": {
-      "title": "경북 도의회, 국립경국대학교 의과대학 신설 쾌거… “260만 도민과 함께...",
-      "summary": "1245㎡)에 건립 될 예정이다. 총사업비 6325억원(국비 2790억원, 지방비 3535억원)이 투입되며, 교육 정원 40명과 112명의 교원을 확보하여 2030년 개교를 목표로 500병상 이상 규모의 교육병원으로 운영될 예정이다. 경북 도는...",
-      "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver",
-      "date": "Wed, 04 Nov 2026 20:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.taxtimes.co.kr/news/article.html?no=277611": {
-      "title": "국세청 , 11월 하반기 서기관 승진 인사 어렵다",
-      "summary": "예년대로라면 올해 11월 서기관 승진 인사를 위해선 10월 말 또는 늦어도 11월 초순경에는 서기관 승진 심사 계획 공지가 있어야 하나, 국세청 인사 부서에선 ‘승진 계획 공지가 예정돼 있지 않음’을 밝혔다. 하반기...",
-      "url": "https://www.taxtimes.co.kr/news/article.html?no=277611",
-      "date": "Wed, 04 Nov 2026 20:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.m-i.kr/news/articleView.html?idxno=2014607": {
-      "title": "금속노조, 포스코 에 특별승호 교섭 경위 공개 요구",
-      "summary": "매일일보 = 이강민 기자 | 포스코 의 특별승호 적용 기준을 놓고 교섭 경위에 대한 설명 요구가 나왔다. 입사... 4일 민주노총 전국금속노동조합 소속 포항·광주전남지부 포스코 지회는 성명을 내고 최근 입사자도...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2014607",
-      "date": "Wed, 04 Nov 2026 20:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5": {
-      "title": "포스코 특별승호 적용 범위 논란…금속노조, 교섭 경위 공개 요구 - 매일일보",
-      "summary": "포스코 특별승호 적용 범위 논란…금속노조, 교섭 경위 공개 요구 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5",
-      "date": "Wed, 04 Nov 2026 11:28:41 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5": {
-      "title": "포스코퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손'…베트남 투자 가속화 - 마일드경제",
-      "summary": "포스코퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손'…베트남 투자 가속화 마일드경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5",
-      "date": "Wed, 04 Nov 2026 11:18:04 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564473": {
       "title": "국립경국대 의대 신설…경북 45년 숙원 풀었다",
       "summary": "대학병원은 500병상 이상 규모로 건립 해 학생 임상교육과 전문 의료인력 수련은 물론 지역 의료체계의 중심... 포항 의 첨단과학·연구 기반과 동해안의 원자력·방사선 의과학 자원까지 연계하면 연구부터 임상, 사업화로...",
@@ -7278,6 +7219,45 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "http://www.metroseoul.co.kr/article/20261106500264": {
+      "title": "경북 도, 의성 식품산업 육성 본격화…455억 원 투자 유치",
+      "summary": "6일 경북 의성바이오푸드밸리에서 열린 '미래 신성장 산업 비전 선포식'에서 식품기업 투자협약 식이 진행되고 있다. 왼쪽부터 금준호 ㈜씨위드 대표, 양금희 경북 도 경제부지사, 최유철 의성군수, 장종현 ㈜오그래...",
+      "url": "http://www.metroseoul.co.kr/article/20261106500264",
+      "date": "Fri, 06 Nov 2026 20:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.safetimes.co.kr/news/articleView.html?idxno=247281": {
+      "title": "새 법무부 장관에 '이용철' 지명 … 국세청 ·정무수석 인사 도 단행",
+      "summary": "이재명 대통령이 두 번째 법무부 장관 후보자로 이용철 현 방위사업청장을 지명하고 국세청 장과 청와대 정무수석 인사 도 단행했다. 법무부 장관에는 인권·행정 분야 경험을 갖춘 변호사를, 국세청 장에는 세무 행정...",
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247281",
+      "date": "Fri, 06 Nov 2026 20:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=401427": {
+      "title": "한국가스공사 , 3분기 실적 공시일 12일로 예고",
+      "summary": "한국가스공사 (036460)가 2026년 3분기 결산실적을 오는 12일 공시할 예정이다. 회사는 6일 금융감독원 전자공시시스템(DART)에 ‘결산실적공시예고(안내공시)’를 제출했다. 이번 공시는 3분기 결산실적 공시...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=401427",
+      "date": "Fri, 06 Nov 2026 20:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9500,6 +9480,21 @@
       "url": "https://www.kbmaeil.com/article/20261106500210",
       "title": "홍준표 경선캠프 ‘2억 의혹’…6명 송치, 수사 확대",
       "date": "Fri, 06 Nov 2026 19:02:00 +0900"
+    },
+    {
+      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247281",
+      "title": "새 법무부 장관에 '이용철' 지명 … 국세청 ·정무수석 인사 도 단행",
+      "date": "Fri, 06 Nov 2026 20:08:00 +0900"
+    },
+    {
+      "url": "https://www.vegannews.co.kr/news/article.html?no=401427",
+      "title": "한국가스공사 , 3분기 실적 공시일 12일로 예고",
+      "date": "Fri, 06 Nov 2026 20:42:00 +0900"
+    },
+    {
+      "url": "http://www.metroseoul.co.kr/article/20261106500264",
+      "title": "경북 도, 의성 식품산업 육성 본격화…455억 원 투자 유치",
+      "date": "Fri, 06 Nov 2026 20:16:00 +0900"
     }
   ],
   "brief_articles": [
