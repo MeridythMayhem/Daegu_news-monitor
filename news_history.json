@@ -1569,7 +1569,9 @@
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081761": "2026-11-06T18:01:47.302900+09:00",
     "https://www.joongang.co.kr/article/25476416": "2026-11-06T18:01:47.302900+09:00",
     "https://www.sisajournal.com/news/articleView.html?idxno=393074": "2026-11-06T18:01:47.302900+09:00",
-    "http://amenews.kr/news/view.php?idx=68606": "2026-11-06T18:01:47.302900+09:00"
+    "http://amenews.kr/news/view.php?idx=68606": "2026-11-06T18:01:47.302900+09:00",
+    "https://www.newspim.com/news/view/20261106001234": "2026-11-06T19:02:00.599807+09:00",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DR3RKRlY3Tk1mbHNVTVlxRFFwdi1fSHppQk9meTRmaEZlS2NRV1JGYl8xbDcxaGpPcGlfdzdrTUJnRC1DSnBGVE1BWWpXZEZFOE1XLUVxRUJtRXRua3oyYkxNQWwwRWMtT2l6Q2tic3BrRFJsazRRaE55bFk?oc=5": "2026-11-06T19:02:00.599807+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2641,36 +2643,11 @@
     "132d0dde604d0035db24900c76206c0fb6634914757497ce1941ec77ccf49ff3": "2026-11-06T18:01:47.302900+09:00",
     "ca4d465ad6c673b4656f056eccb8865e6f220b6c4eac5ffb3fcc22b061c8ad1c": "2026-11-06T18:01:47.302900+09:00",
     "cb96328c1d7edfc3b040b368cbd3bd237356adbad21ce5ca597203ef4d5cbec8": "2026-11-06T18:01:47.302900+09:00",
-    "c7471a262feb72ef5574bb7bff9b60d0ffb0db65403930459254ca54c0887d1f": "2026-11-06T18:01:47.302900+09:00"
+    "c7471a262feb72ef5574bb7bff9b60d0ffb0db65403930459254ca54c0887d1f": "2026-11-06T18:01:47.302900+09:00",
+    "8794465e9eb46b8554d5614e89b7bb621441f0f9198ece89bacc95ee255fcf16": "2026-11-06T19:02:00.599807+09:00",
+    "103aecc09d39ed0daf7d7e2a7ba56e5994fc9339960b21497e9070343b19d4cf": "2026-11-06T19:02:00.599807+09:00"
   },
-  "pending": {
-    "https://www.mhns.co.kr/news/articleView.html?idxno=768027": {
-      "title": "대구 교도소 후적지 개발, 기재부 심의 전격 통과…'달성 아레나' 건립 본...",
-      "summary": "허성호 기자 지난 50년간 지역 발전의 걸림돌이자 도심 속 단절의 상징이었던 옛 대구 교도소 후적지가 문화와 예술, 주거와 휴식이 공존하는 대구 서남부권의 새로운 미래형 복합 도시공간으로 전격 탈바꿈한다. 대구 ...",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=768027",
-      "date": "Fri, 06 Nov 2026 17:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.nocutnews.co.kr/news/6603426": {
-      "title": "정치자금법 위반 혐의 홍준표 선거캠프 관계자 6명 송치",
-      "summary": "대구 경찰청은 정치자금법 위반 혐의로 홍 전 대구 시장 선거캠프 관계자인 선거용역업체 사장 박모씨 등 6명을 공소청에 불 구속 송치했다고 6일 밝혔다. 이들은 지난 2021년 국민의힘 대선 경선 당시 홍준표 선거캠프...",
-      "url": "https://www.nocutnews.co.kr/news/6603426",
-      "date": "Fri, 06 Nov 2026 17:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-11-03": 3,
     "2026-11-04": 15,
@@ -2679,110 +2656,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kmib.co.kr/article/20261104502146": {
-      "title": "의대 탈락 목포대 “재검증” 반발… 경북 “45년만의 신설” 환호",
-      "summary": "대구 와 경북이 분리된 이후 국립의대와 상급종합병원이 없었던 경북에 45년 만에 의과대학 신설이 확정되면서 환영 메시지도 쏟아졌다. 경북도는 재정 확보와 우수 교원 유치, 교육병원 건립 등 의대 개교까지 남은 과제를...",
-      "url": "https://www.kmib.co.kr/article/20261104502146",
-      "date": "Wed, 04 Nov 2026 18:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://medicalworldnews.co.kr/news/view.php?idx=1510978274": {
-      "title": "전남· 경북 국립의대 신설 확정…순천대 60명·경국대 40명",
-      "summary": "◆엇갈린 반응 국회 보건복지위원회 이달희 의원(국민의힘·비례대표)은 경북 도민의 오랜 숙원이 이뤄졌다며 환영했다. 이 의원은 “500병상 이상 교육병원 건립 과 교수진 확보, 2032년 이후 추가 정원 논의까지 끝까지...",
-      "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510978274",
-      "date": "Wed, 04 Nov 2026 18:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717711": {
-      "title": "정부 '의대 신설' 발표, 경북 도 환영 기자회견 개최..국립경국대 의과대...",
-      "summary": "정부가 4일 '공공의대 신설 지역·대학 선정 및 정원 배정' 결과를 발표함에 따라 경북 도 국립경국대학교와... 병원 건립 과 정상 운영을 위한 인프라구축 재원 마련, 전문 의료진 확보는 성공적인 의대 신설을 위한 과제로...",
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717711",
-      "date": "Wed, 04 Nov 2026 18:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.hankyung.com/article/2026110463951": {
-      "title": "[단독] 배터리 3사 잡은 엘앤에프, LFP 양극재 신공장 만든다",
-      "summary": "4일 배터리업계에 따르면 엘앤에프는 이르면 올해 말 대구 구지국가산업단지 내 LFP 양극재 제2공장(B동) 신설 투자에 들어간다. 신규 공장은 기존 1공장(A동) 바로 옆 부지에 연산 6만t 규모로 들어선다. 최대 6만t...",
-      "url": "https://www.hankyung.com/article/2026110463951",
-      "date": "Wed, 04 Nov 2026 18:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611041706525200101626": {
-      "title": "[더벨]3분기 실적 반등한 포스코 퓨처엠, 회사채도 흥행",
-      "summary": "포스코 퓨처엠이 회사채 발행을 위한 수요예측에서 모집액의 4.5배에 달하는 주문을 받으며 흥행에 성공했다. 신고금액은 모두 개별민평금리보다 낮은 금리에서 채웠다. 4일 투자은행(IB) 업계에 따르면 포스코 ...",
-      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611041706525200101626",
-      "date": "Wed, 04 Nov 2026 18:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FY21yT0xMSHFZeW8tTUZRYWItbkZYVDI2bjR2VjNOUVc4WG40LXh5RTVGUVQ0SG9yV21lQnJnekRQRFU1UXNVLW5PYlpJaUlNVVNGeFlIOVNibTA?oc=5": {
-      "title": "포항시, 건설현장 합동 안전점검…추락·화재 위험요인 집중 점검 - 경북뉴스",
-      "summary": "포항시, 건설현장 합동 안전점검…추락·화재 위험요인 집중 점검 경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FY21yT0xMSHFZeW8tTUZRYWItbkZYVDI2bjR2VjNOUVc4WG40LXh5RTVGUVQ0SG9yV21lQnJnekRQRFU1UXNVLW5PYlpJaUlNVVNGeFlIOVNibTA?oc=5",
-      "date": "Wed, 04 Nov 2026 09:03:51 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpCVnVyRzQ3NGFGOUYweDZpX1llRnhNVmVQQi00SkJIXzhzRnhaRVNqeEJjSUVSSEYtcUtwQ1lmRWNlQ1FNN3Z2NHlvdmxpYVlfcmdvOEY1MVljeE9LMGFSa3haSXdQRGpsTS1JRnRLdWNGT3M1YUZJYXlIUWlzNHVpcHFKVGVwdWY2VVJqbU1OVTVIY01fUFozX1lQVERPaEprS0Jn?oc=5": {
-      "title": "Hyundai to acquire stake in Posco Future M’s Vietnam battery anode plant - Just Auto",
-      "summary": "Hyundai to acquire stake in Posco Future M’s Vietnam battery anode plant Just Auto",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbHpCVnVyRzQ3NGFGOUYweDZpX1llRnhNVmVQQi00SkJIXzhzRnhaRVNqeEJjSUVSSEYtcUtwQ1lmRWNlQ1FNN3Z2NHlvdmxpYVlfcmdvOEY1MVljeE9LMGFSa3haSXdQRGpsTS1JRnRLdWNGT3M1YUZJYXlIUWlzNHVpcHFKVGVwdWY2VVJqbU1OVTVIY01fUFozX1lQVERPaEprS0Jn?oc=5",
-      "date": "Wed, 04 Nov 2026 09:30:51 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFlrVEU3YkNwT01PN0NKTzc0czVFSTExemU2eC1FaXdJX2dTcDZCajAtTUtwTHlxUG40NmQwRlZLZmtOeFM2eVZMNDA1U0NESzBDbnFNWDdiaXJrWElOUXl6Q25kOGhKT3BXczRjMGRhTllrRTRzRE5lb01GSjFuVFdWVlQ2TkJpRkM1cnlKczJRN2llSVdlNDkxU3ljX2pRaWc?oc=5": {
-      "title": "POSCO Future M Beats Profit Forecast by 4.6 Times, Splitting Analysts - Seoul Economic Daily",
-      "summary": "POSCO Future M Beats Profit Forecast by 4.6 Times, Splitting Analysts Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFlrVEU3YkNwT01PN0NKTzc0czVFSTExemU2eC1FaXdJX2dTcDZCajAtTUtwTHlxUG40NmQwRlZLZmtOeFM2eVZMNDA1U0NESzBDbnFNWDdiaXJrWElOUXl6Q25kOGhKT3BXczRjMGRhTllrRTRzRE5lb01GSjFuVFdWVlQ2TkJpRkM1cnlKczJRN2llSVdlNDkxU3ljX2pRaWc?oc=5",
-      "date": "Wed, 04 Nov 2026 09:03:14 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
     "http://news.ebs.co.kr/ebsnews/allView/60786641/N": {
       "title": "[지역교육브리핑] 전남· 경북 의대 신설…지역의료 바꿀까?",
       "summary": "경북 도는 의대 건립 부터 교수진 확보, 교육병원 마련까지 전폭적으로 지원하겠다고 했습니다. 경국대와 안동시, 예천군이 함께 준비하고, 정부와도 협력하겠다는 겁니다. 전남광주통합특별시도 정부와 대학, 관계 기관과...",
@@ -7386,6 +7259,32 @@
       "category": "세무 조사·혐의 관련",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.newspim.com/news/view/20261106001234": {
+      "title": "의성에 식품기업 2곳이 455억원 투자…일자리 83개 창출 기대",
+      "summary": "다만 이번 투자와 고용 규모는 투자양해각서에 따른 계획으로 향후 기업별 공장 건립 과 생산시설 확충 일정에 맞춰 단계적으로 추진된다. 양금희 경북 도 경제부지사는 \"도내 최초의 식품 전문 산단 준공과 푸드테크...",
+      "url": "https://www.newspim.com/news/view/20261106001234",
+      "date": "Fri, 06 Nov 2026 18:35:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DR3RKRlY3Tk1mbHNVTVlxRFFwdi1fSHppQk9meTRmaEZlS2NRV1JGYl8xbDcxaGpPcGlfdzdrTUJnRC1DSnBGVE1BWWpXZEZFOE1XLUVxRUJtRXRua3oyYkxNQWwwRWMtT2l6Q2tic3BrRFJsazRRaE55bFk?oc=5": {
+      "title": "의성군, 미래 푸드테크 산업 이끌 기업 투자유치… 455억 원 규모 - 경북뉴스",
+      "summary": "의성군, 미래 푸드테크 산업 이끌 기업 투자유치… 455억 원 규모 경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DR3RKRlY3Tk1mbHNVTVlxRFFwdi1fSHppQk9meTRmaEZlS2NRV1JGYl8xbDcxaGpPcGlfdzdrTUJnRC1DSnBGVE1BWWpXZEZFOE1XLUVxRUJtRXRua3oyYkxNQWwwRWMtT2l6Q2tic3BrRFJsazRRaE55bFk?oc=5",
+      "date": "Fri, 06 Nov 2026 09:06:14 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9583,6 +9482,16 @@
       "url": "http://amenews.kr/news/view.php?idx=68606",
       "title": "엘앤에프 , 3Q 매출 8744억…전년比 34%↑",
       "date": "Fri, 06 Nov 2026 17:10:00 +0900"
+    },
+    {
+      "url": "https://www.newspim.com/news/view/20261106001234",
+      "title": "의성에 식품기업 2곳이 455억원 투자…일자리 83개 창출 기대",
+      "date": "Fri, 06 Nov 2026 18:35:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DR3RKRlY3Tk1mbHNVTVlxRFFwdi1fSHppQk9meTRmaEZlS2NRV1JGYl8xbDcxaGpPcGlfdzdrTUJnRC1DSnBGVE1BWWpXZEZFOE1XLUVxRUJtRXRua3oyYkxNQWwwRWMtT2l6Q2tic3BrRFJsazRRaE55bFk?oc=5",
+      "title": "의성군, 미래 푸드테크 산업 이끌 기업 투자유치… 455억 원 규모 - 경북뉴스",
+      "date": "Fri, 06 Nov 2026 09:06:14 GMT"
     }
   ],
   "brief_articles": [
