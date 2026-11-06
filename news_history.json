@@ -1578,7 +1578,9 @@
     "https://www.safetimes.co.kr/news/articleView.html?idxno=247281": "2026-11-06T21:02:01.076082+09:00",
     "https://www.vegannews.co.kr/news/article.html?no=401427": "2026-11-06T21:02:01.076082+09:00",
     "http://www.metroseoul.co.kr/article/20261106500264": "2026-11-06T21:02:01.076082+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5": "2026-11-06T22:01:59.361041+09:00"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5": "2026-11-06T22:01:59.361041+09:00",
+    "https://www.news2day.co.kr/article/20261106500370": "2026-11-06T23:01:44.354082+09:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5": "2026-11-06T23:01:44.354082+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2659,30 +2661,19 @@
     "5d73082059d926e62b82f1b46033bc791f1c2e4b503e6ea25c1457674846016d": "2026-11-06T21:02:01.076082+09:00",
     "7af94a78f54b5a7cc5bf2c1707ac5df0a64514968dbe92198e9c7992d4ad6f9f": "2026-11-06T21:02:01.076082+09:00",
     "baf25b2ff22b5e6eda38c28825dfe1c38e56ec5ec348fd9596a5b3f30ec7f0f3": "2026-11-06T21:02:01.076082+09:00",
-    "5afae9715bcde8446b21d25581eda7ccefbdd2b646efa84d03af39dfef17ae99": "2026-11-06T22:01:59.361041+09:00"
+    "5afae9715bcde8446b21d25581eda7ccefbdd2b646efa84d03af39dfef17ae99": "2026-11-06T22:01:59.361041+09:00",
+    "3014a0815a50f21c2e64c7e2c5ffa9a115dbba60f9050b765e9546d9f037d934": "2026-11-06T23:01:44.354082+09:00",
+    "e28ff03cd17e7dcd8fa47c1265e1f90b8066b06c217fc87ade2b7cb4b6b86289": "2026-11-06T23:01:44.354082+09:00"
   },
   "pending": {},
   "ai": {
     "2026-11-03": 3,
     "2026-11-04": 15,
     "2026-11-05": 31,
-    "2026-11-06": 17
+    "2026-11-06": 18
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5": {
-      "title": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! - 구미일보",
-      "summary": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! 구미일보",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5",
-      "date": "Wed, 04 Nov 2026 13:25:25 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.gukjenews.com/news/articleView.html?idxno=3742667": {
       "title": "경북 도의회, 국립경국대 의대 신설 환영…지역 필수의료 강화 기대",
       "summary": "의과대학은 5만4,006㎡, 대학병원은 3만1,245㎡ 규모로 건립 되며, 입학정원 40명과 교원 112명을 확보해 2030년 개교를 목표로 한다. 교육병원은 500병상 이상 규모로 추진된다. 경북 도는 의대 설립부터 교육·운영·정착까지...",
@@ -7234,6 +7225,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.news2day.co.kr/article/20261106500370": {
+      "title": "경북 도·의성군, 바이오·푸드테크 산업 대전환…455억 투자 결실",
+      "summary": "기자] 경북 도와 의성군이 455억 원 규모의 기업 투자를 유치하고 도내 첫 식품 전문 산업단지 를 준공하는 등... 경북 도와 의성군은 앞으로 기업 투자 지원과 연구개발 기반 확충에 힘쓰는 한편, 대구경북 신공항과 연계한...",
+      "url": "https://www.news2day.co.kr/article/20261106500370",
+      "date": "Fri, 06 Nov 2026 22:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5": {
+      "title": "경주시, 태영테크 명계3산단 신공장 준공…151억 투자 결실 - 국제뉴스",
+      "summary": "경주시, 태영테크 명계3산단 신공장 준공…151억 투자 결실 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5",
+      "date": "Fri, 06 Nov 2026 13:10:09 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9476,6 +9493,16 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5",
       "title": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 - 웹플러스뉴스",
       "date": "Fri, 06 Nov 2026 12:17:13 GMT"
+    },
+    {
+      "url": "https://www.news2day.co.kr/article/20261106500370",
+      "title": "경북 도·의성군, 바이오·푸드테크 산업 대전환…455억 투자 결실",
+      "date": "Fri, 06 Nov 2026 22:36:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5",
+      "title": "경주시, 태영테크 명계3산단 신공장 준공…151억 투자 결실 - 국제뉴스",
+      "date": "Fri, 06 Nov 2026 13:10:09 GMT"
     }
   ],
   "brief_articles": [
@@ -9548,7 +9575,7 @@
     "2026-11-03": 37,
     "2026-11-04": 14,
     "2026-11-05": 11,
-    "2026-11-06": 10
+    "2026-11-06": 11
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
