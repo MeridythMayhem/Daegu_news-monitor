@@ -1577,7 +1577,8 @@
     "https://www.kbmaeil.com/article/20261106500210": "2026-11-06T20:02:02.801969+09:00",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=247281": "2026-11-06T21:02:01.076082+09:00",
     "https://www.vegannews.co.kr/news/article.html?no=401427": "2026-11-06T21:02:01.076082+09:00",
-    "http://www.metroseoul.co.kr/article/20261106500264": "2026-11-06T21:02:01.076082+09:00"
+    "http://www.metroseoul.co.kr/article/20261106500264": "2026-11-06T21:02:01.076082+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5": "2026-11-06T22:01:59.361041+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2657,7 +2658,8 @@
     "06ffb317573c30afc4916a97817b9d7bcfbb54c62f3008911b217beca8a2e9e7": "2026-11-06T20:02:02.801969+09:00",
     "5d73082059d926e62b82f1b46033bc791f1c2e4b503e6ea25c1457674846016d": "2026-11-06T21:02:01.076082+09:00",
     "7af94a78f54b5a7cc5bf2c1707ac5df0a64514968dbe92198e9c7992d4ad6f9f": "2026-11-06T21:02:01.076082+09:00",
-    "baf25b2ff22b5e6eda38c28825dfe1c38e56ec5ec348fd9596a5b3f30ec7f0f3": "2026-11-06T21:02:01.076082+09:00"
+    "baf25b2ff22b5e6eda38c28825dfe1c38e56ec5ec348fd9596a5b3f30ec7f0f3": "2026-11-06T21:02:01.076082+09:00",
+    "5afae9715bcde8446b21d25581eda7ccefbdd2b646efa84d03af39dfef17ae99": "2026-11-06T22:01:59.361041+09:00"
   },
   "pending": {},
   "ai": {
@@ -2668,45 +2670,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564473": {
-      "title": "국립경국대 의대 신설…경북 45년 숙원 풀었다",
-      "summary": "대학병원은 500병상 이상 규모로 건립 해 학생 임상교육과 전문 의료인력 수련은 물론 지역 의료체계의 중심... 포항 의 첨단과학·연구 기반과 동해안의 원자력·방사선 의과학 자원까지 연계하면 연구부터 임상, 사업화로...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564473",
-      "date": "Wed, 04 Nov 2026 21:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ksmnews.co.kr/news/view.php?idx=628424": {
-      "title": "경북 국립의대 신설, 유치보다 성공이 더 중요",
-      "summary": "이번 사업은 경북 도청신도시 2단계 개발지구 13만362㎡ 부지에 의과대학과 500병상 이상 규모의 부속 교육병원을 건립 하는 것으로, 총사업비는 약 6300억원에 이른다. 2030학년도 개교를 목표로 하고 있지만 사업 규모와 준비...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628424",
-      "date": "Wed, 04 Nov 2026 21:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.e-platform.net/news/articleView.html?idxno=106714": {
-      "title": "한수원, 시뮬레이터 활용 원자로 조종사 원자로 조종사 위기 대응 능력...",
-      "summary": "한국수력원자력 이 원자로 조종사 경진대회를 개최하고 최우수부서인 새울1발 2호기 발전5부의 시연회를 가졌다. 한수원이 시뮬레이터를 활용해 우수한 원자로 조종사들의 운전 역량을 확인하는 자리를 마련했다....",
-      "url": "http://www.e-platform.net/news/articleView.html?idxno=106714",
-      "date": "Wed, 04 Nov 2026 21:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5": {
       "title": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! - 구미일보",
       "summary": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! 구미일보",
@@ -7258,6 +7221,19 @@
       "category": "관심기업 동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5": {
+      "title": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 - 웹플러스뉴스",
+      "summary": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 웹플러스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5",
+      "date": "Fri, 06 Nov 2026 12:17:13 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9495,6 +9471,11 @@
       "url": "http://www.metroseoul.co.kr/article/20261106500264",
       "title": "경북 도, 의성 식품산업 육성 본격화…455억 원 투자 유치",
       "date": "Fri, 06 Nov 2026 20:16:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5",
+      "title": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 - 웹플러스뉴스",
+      "date": "Fri, 06 Nov 2026 12:17:13 GMT"
     }
   ],
   "brief_articles": [
