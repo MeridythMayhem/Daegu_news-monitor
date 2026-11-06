@@ -1559,7 +1559,17 @@
     "https://www.mk.co.kr/article/12200605": "2026-11-06T17:02:14.115192+09:00",
     "https://www.khan.co.kr/article/202611061641001": "2026-11-06T17:02:14.115192+09:00",
     "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261106.99099002007": "2026-11-06T17:02:14.115192+09:00",
-    "https://www.donga.com/news/Economy/article/all/20261106/134979250/1": "2026-11-06T17:02:14.115192+09:00"
+    "https://www.donga.com/news/Economy/article/all/20261106/134979250/1": "2026-11-06T17:02:14.115192+09:00",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1422813": "2026-11-06T18:01:47.302900+09:00",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443540": "2026-11-06T18:01:47.302900+09:00",
+    "https://news.jtbc.co.kr/article/NB12326906?influxDiv=NAVER": "2026-11-06T18:01:47.302900+09:00",
+    "https://www.kbmaeil.com/article/20261106500200": "2026-11-06T18:01:47.302900+09:00",
+    "https://www.nocutnews.co.kr/news/6603447": "2026-11-06T18:01:47.302900+09:00",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261106172920ohg": "2026-11-06T18:01:47.302900+09:00",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081761": "2026-11-06T18:01:47.302900+09:00",
+    "https://www.joongang.co.kr/article/25476416": "2026-11-06T18:01:47.302900+09:00",
+    "https://www.sisajournal.com/news/articleView.html?idxno=393074": "2026-11-06T18:01:47.302900+09:00",
+    "http://amenews.kr/news/view.php?idx=68606": "2026-11-06T18:01:47.302900+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2621,58 +2631,42 @@
     "a6d7bc00504079aed1f43c32f8bbc89671a028d9a3020925bba21da427cb25da": "2026-11-06T17:02:14.115192+09:00",
     "45c629830adde4e9d05b04dd60fa3a27d59cf3e071c6ab425b09c92b43646a13": "2026-11-06T17:02:14.115192+09:00",
     "743f567a9991ae17fdb9d8f41bff8a8f1a85ed0b479cfcd329b9e435bdcbc841": "2026-11-06T17:02:14.115192+09:00",
-    "413037a17d8fd6dbc6334dc6a4c1dcb5951d02e61829669f8fcb0281c7260ed8": "2026-11-06T17:02:14.115192+09:00"
+    "413037a17d8fd6dbc6334dc6a4c1dcb5951d02e61829669f8fcb0281c7260ed8": "2026-11-06T17:02:14.115192+09:00",
+    "9d46d68c75d6ac1633f8fb0e0e19f748d78a31ef53ea67403427dd6759c2f975": "2026-11-06T18:01:47.302900+09:00",
+    "19c10c1796708dc6d49011ddcb748c58c76e97d0d4b710ddd40d859bbf8b0df1": "2026-11-06T18:01:47.302900+09:00",
+    "60366ecee67cc2367b3fc2f55c976c28e64445d62918bc69de6d93b82021087f": "2026-11-06T18:01:47.302900+09:00",
+    "8069a8cd4682f0d49044f1a76c13d01f29e67cf9703a83d35eb37904ce315141": "2026-11-06T18:01:47.302900+09:00",
+    "1778891c8c0e50f3e84ed216dca76c6d6173c0dce4690d6b0f548f9adc1978f8": "2026-11-06T18:01:47.302900+09:00",
+    "b50393a9e90a9dbc4a0fd3d0e8c5f219993527c0f5daf46b7679372e59468a98": "2026-11-06T18:01:47.302900+09:00",
+    "132d0dde604d0035db24900c76206c0fb6634914757497ce1941ec77ccf49ff3": "2026-11-06T18:01:47.302900+09:00",
+    "ca4d465ad6c673b4656f056eccb8865e6f220b6c4eac5ffb3fcc22b061c8ad1c": "2026-11-06T18:01:47.302900+09:00",
+    "cb96328c1d7edfc3b040b368cbd3bd237356adbad21ce5ca597203ef4d5cbec8": "2026-11-06T18:01:47.302900+09:00",
+    "c7471a262feb72ef5574bb7bff9b60d0ffb0db65403930459254ca54c0887d1f": "2026-11-06T18:01:47.302900+09:00"
   },
   "pending": {
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080625": {
-      "title": "상주 토마토, 일본 정기 수출 재개…연간 36억원 규모 전망",
-      "summary": "경북 상주에서 생산한 토마토가 지난해 수출 공백을 딛고 일본 시장에 다시 진출했다. 시험 수출 을 통해 해외 공급 가능성을 확인한 지역 농업법인이 이달부터 정기적인 선적에 나서면서 농산물 수출 확대에 대한 기대가...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080625",
-      "date": "Fri, 06 Nov 2026 16:18:00 +0900",
+    "https://www.mhns.co.kr/news/articleView.html?idxno=768027": {
+      "title": "대구 교도소 후적지 개발, 기재부 심의 전격 통과…'달성 아레나' 건립 본...",
+      "summary": "허성호 기자 지난 50년간 지역 발전의 걸림돌이자 도심 속 단절의 상징이었던 옛 대구 교도소 후적지가 문화와 예술, 주거와 휴식이 공존하는 대구 서남부권의 새로운 미래형 복합 도시공간으로 전격 탈바꿈한다. 대구 ...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=768027",
+      "date": "Fri, 06 Nov 2026 17:08:00 +0900",
       "channels": [
-        "local_media"
+        "domestic"
       ],
       "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
+      "category": "경제·투자",
+      "priority": 70,
       "filter_version": 17
     },
-    "https://dgmbc.com/NewsArticle/871923": {
-      "title": "홍준표 선거캠프 관계자 6명, 정치자금 2억 부정 지출 혐의 불 구속 송치",
-      "summary": "대구 경찰청은 정치자금을 부정하게 지출한 혐의로 홍준표 전 대구 시장 선거캠프 관계자 박 모 씨와 거래업체 관계자 등 6명을 공소청에 불 구속 송치했다고 밝혔습니다. 이들은 2021년 국민의힘 대선 경선 당시 선거캠프...",
-      "url": "https://dgmbc.com/NewsArticle/871923",
-      "date": "Fri, 06 Nov 2026 16:08:00 +0900",
+    "https://www.nocutnews.co.kr/news/6603426": {
+      "title": "정치자금법 위반 혐의 홍준표 선거캠프 관계자 6명 송치",
+      "summary": "대구 경찰청은 정치자금법 위반 혐의로 홍 전 대구 시장 선거캠프 관계자인 선거용역업체 사장 박모씨 등 6명을 공소청에 불 구속 송치했다고 6일 밝혔다. 이들은 지난 2021년 국민의힘 대선 경선 당시 홍준표 선거캠프...",
+      "url": "https://www.nocutnews.co.kr/news/6603426",
+      "date": "Fri, 06 Nov 2026 17:08:00 +0900",
       "channels": [
         "domestic"
       ],
       "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
       "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mediapen.com/news/view/1135804": {
-      "title": "엘앤에프 , 3분기 영업손실 265억원…하이니켈 출하 확대에도 적자",
-      "summary": "엘앤에프 가 올해 3분기 하이니켈 양극재 판매 확대에도 환율과 원재료 가격 하락의 영향으로 영업적자를 기록했다. 엘앤에프 는 3분기 실적에서 매출 8744억 원, 영업손실 265억 원을 기록했다고 6일 밝혔다. 다만...",
-      "url": "https://www.mediapen.com/news/view/1135804",
-      "date": "Fri, 06 Nov 2026 16:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CdG4xMXNnZjVnUHRVSExwU3dQNjVOMXZFNTN5QWs2Qkh5b1JaajBPMEFYUVk5ZlVVeWx4YWNwc0lOMmo3X3UybzhYMUlZMjhmRjVJVkxiY0FoSVdSbl8zSUVsMNIBbEFVX3lxTE9vbGpubV80aVNjZTl4MVdNWUdsYmctZTM0bE5BbDNxSS1WbWc5eDNRS3lKd3B0TmNDcEkyTXZpaDlBWEhQX2lGaExYdVAwQ2pUeTZHZGY5VFd4RkZfSTJDOU43Q0t3Z20wVGo3VQ?oc=5": {
-      "title": "대동, 새만금에 ‘로봇이 짓는 농장’ 만든다…현대차·전북도와 3000억 규모 로봇 팜 팩토리 논의 - 소셜밸류",
-      "summary": "대동, 새만금에 ‘로봇이 짓는 농장’ 만든다…현대차·전북도와 3000억 규모 로봇 팜 팩토리 논의 소셜밸류",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CdG4xMXNnZjVnUHRVSExwU3dQNjVOMXZFNTN5QWs2Qkh5b1JaajBPMEFYUVk5ZlVVeWx4YWNwc0lOMmo3X3UybzhYMUlZMjhmRjVJVkxiY0FoSVdSbl8zSUVsMNIBbEFVX3lxTE9vbGpubV80aVNjZTl4MVdNWUdsYmctZTM0bE5BbDNxSS1WbWc5eDNRS3lKd3B0TmNDcEkyTXZpaDlBWEhQX2lGaExYdVAwQ2pUeTZHZGY5VFd4RkZfSTJDOU43Q0t3Z20wVGo3VQ?oc=5",
-      "date": "Fri, 06 Nov 2026 07:15:10 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
     }
@@ -2681,140 +2675,10 @@
     "2026-11-03": 3,
     "2026-11-04": 15,
     "2026-11-05": 31,
-    "2026-11-06": 16
+    "2026-11-06": 17
   },
   "cursor": 0,
   "archive": {
-    "http://www.breaknews.com/1248433": {
-      "title": "영천시, 청년창업기업 지원 프로그램 추진…9~10일 사업계획서 캠프",
-      "summary": "로컬창업지원센터, 경북 테크노파크 금호이웃사촌마을지원센터... On the 9th—the first day of the camp—four organizations will sign a memorandum of understanding ( MOU ) to revitalize the local...",
-      "url": "http://www.breaknews.com/1248433",
-      "date": "Wed, 04 Nov 2026 17:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886025": {
-      "title": "경북 북부 '의료 숙원' 풀렸다...국립경국대 의대 안동 신설 확정",
-      "summary": "겪어온 경북 지역에 정원 40명 규모의 의학교육 거점이 들어서게 됐다. 오는 2030년 첫 신입생 입학을 목표로 본과 과정 운영과 부속병원 건립 이 본격 추진된다. 이번 결정은 2013년 옛 국립안동대가 전담 연구위원회를...",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886025",
-      "date": "Wed, 04 Nov 2026 17:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6343156": {
-      "title": "경국대 의대 신설에 경북 각계 '환영'…의료인력 양성·정착 지원",
-      "summary": "같은 당 이달희 의원(비례)도 \"2030년 개교와 500병상 이상 교육병원 건립 , 교수진 확보를 챙기겠다\"며 \"2032년 이후 추가 정원 논의에도 경북 의 의료 현실을 반영하겠다\"고 했다. 이인선 의원(대구 수성을)은 \" 경북 북부권의...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6343156",
-      "date": "Wed, 04 Nov 2026 17:03:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.dkilbo.com/news/articleView.html?idxno=559636": {
-      "title": "대구 소방, 노후 아파트·공장에 화재 감지기 보급… 4개월간 총력 대응",
-      "summary": "대구 소방에 따르면 지난 2021년부터 5년 동안 대구 에서 일어난 겨울철 화재 는 모두 1782건으로 연평균 356건에 달했다. 이는 사계절 가운데 가장 높은 28.7%를 차지한다. 같은 기간 겨울철 인명피해도 연평균 32명으로 집계돼...",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=559636",
-      "date": "Wed, 04 Nov 2026 17:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "http://www.paxetv.com/news/articleView.html?idxno=286047": {
-      "title": "대동 ·현대차, 새만금 로봇 팜 팩토리 머리 맞대···3000억 규모 기획",
-      "summary": "원유현 대동 그룹 부회장, 박지원 더불어민주당 의원, 이원택 전북특별자치도지사, 정성주 김제시장 등이 기념 사진을 촬영하고 있다. [사진= 대동 ] 대동 은 지난 3일 국회의원회관에서 열린 '새만금 피지컬AI 로봇팜...",
-      "url": "http://www.paxetv.com/news/articleView.html?idxno=286047",
-      "date": "Wed, 04 Nov 2026 17:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.sentv.co.kr/article/view/sentv202611040137": {
-      "title": "포스코 홀딩스, 인프라 부문 실적 회복…리튬은 적자",
-      "summary": "포스코 홀딩스가 올해 3분기 전년보다 48% 늘어난 영업이익을 기록했습니다. 포스코 인터내셔널과 포스코 이앤씨 등 인프라 부문이 실적을 끌어올렸는데요. 반면 성장동력으로 육성 중인 이차전지소재 사업은 리튬 가격...",
-      "url": "https://www.sentv.co.kr/article/view/sentv202611040137",
-      "date": "Wed, 04 Nov 2026 17:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.yna.co.kr/view/AKR20261104162600053?input=1195m": {
-      "title": "금속노조 포스코 지회 \"최근 입사자 특별승호 배제는 차별\"",
-      "summary": "민주노총 전국금속노동조합 포항지부 포스코 지회와 광주전남지부 포스코 지회는 4일 성명을 내고 \" 포스코 는 올해 4월 10일 이후에 고용된 노동자의 특별승호 3호봉 배제를 시정하라\"고 촉구했다. 포스코 지회는 \" 포스코 와...",
-      "url": "https://www.yna.co.kr/view/AKR20261104162600053?input=1195m",
-      "date": "Wed, 04 Nov 2026 17:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.snmnews.com/news/articleView.html?idxno=576923": {
-      "title": "철강協· 포스코 , '스틸챌린지-21' 국내 대학생부 참여 지원 \"우수 실적자...",
-      "summary": "한국철강협회가 포스코 와 함께 세계철강협회(worldsteel)의 철강 공정 시뮬레이션 경연대회인 '스틸챌린지... 이런 가운데 한국철강협회와 포스코 는 우리나라의 젊은 철강금속 전문 생산인재들에게 귀중한 세계대회...",
-      "url": "http://www.snmnews.com/news/articleView.html?idxno=576923",
-      "date": "Wed, 04 Nov 2026 17:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ceoscoredaily.com/page/view/2026110411221072681": {
-      "title": "포스코 퓨처엠, ‘LFP 양극재’ 봇물 터졌다…K-배터리 3사와 대형 계약",
-      "summary": "포스코 퓨처엠이 내년도에 양극재 판매량을 10만톤 이상으로 끌어올리겠다고 선언했다. 기존 주력 제품인 삼원계 양극재 보다 리튬인산철(LFP) 양극재 공급을 확대하면서, 전체 판매량을 높인다는 구상이다. 포스코 퓨...",
-      "url": "https://www.ceoscoredaily.com/page/view/2026110411221072681",
-      "date": "Wed, 04 Nov 2026 17:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.popcornnews.net/news/articleView.html?idxno=138773": {
-      "title": "한수원, 원자로 조종사 위기 대응 능력 점검…최우수 부서 시연",
-      "summary": "한국수력원자력 (이하 한수원)이 원자로 조종사들의 위기 대응 능력을 점검하기 위한 시뮬레이터 시연회를 열었다. 전국 162개 원전 운전 부서 가운데 1위를 차지한 새울1발전소 2호기 발전5부가 복합적인 비상 상황에...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=138773",
-      "date": "Wed, 04 Nov 2026 17:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.kmib.co.kr/article/20261104502146": {
       "title": "의대 탈락 목포대 “재검증” 반발… 경북 “45년만의 신설” 환호",
       "summary": "대구 와 경북이 분리된 이후 국립의대와 상급종합병원이 없었던 경북에 45년 만에 의과대학 신설이 확정되면서 환영 메시지도 쏟아졌다. 경북도는 재정 확보와 우수 교원 유치, 교육병원 건립 등 의대 개교까지 남은 과제를...",
@@ -7366,6 +7230,162 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081761": {
+      "title": "[ 은행 圈 인사 전망 종합] 5대 은행 장 연말 연임 심사… 국책·지방·인터...",
+      "summary": "도이치은행과 HSBC, DGB 대구은행 경영기획본부장 등을 거쳐 2024년 3월 토스뱅크 대표로 취임했으며 새 임기는 2028년 3월 31일까지다. 정윤모 임원후보추천위원장과 강승수 보수위원장은 오는 28일 임기가 끝난다. 이...",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081761",
+      "date": "Fri, 06 Nov 2026 17:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbmaeil.com/article/20261106500200": {
+      "title": "경북 도 의성에 식품산업 투자 455억원 유치",
+      "summary": "경북 도가 의성을 미래 식품산업의 핵심 거점으로 육성하기 위한 기반 구축에 속도를 내고 있다. 경북 도는... 양해각서( MOU )를 체결했다. 의성바이오푸드밸리는 22만5844㎡ 규모로 조성된 도내 최초의 식품 전문 산업단지로...",
+      "url": "https://www.kbmaeil.com/article/20261106500200",
+      "date": "Fri, 06 Nov 2026 17:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6603447": {
+      "title": "경북 의성바이오푸드밸리에 식품기업 유치 잇따라…455억 원 투자",
+      "summary": "3공장을 건립 하고 기존에 성주군에 있던 1, 2공장을 모두 바이오푸드밸리로 이전할 계획이다. 두 기업이 고용할 신규 인력은 83명 수준으로 예상된다. 양금희 경북 도 경제부지사는 \"도내 최초의 식품 전문 산단 준공과...",
+      "url": "https://www.nocutnews.co.kr/news/6603447",
+      "date": "Fri, 06 Nov 2026 17:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.sisajournal.com/news/articleView.html?idxno=393074": {
+      "title": "[ 경북 24시] 경북 도, 의성바이오푸드밸리 준공·455억원 투자협약",
+      "summary": "김봉교 전 경북 도의회 부의장, 경북 사랑의열매 회장 취임 경북 도·국회도서관 업무 협약 , 경북 도서관에... 이날 경북 도와 의성군은 식품기업 2곳과 총 455억원 규모의 투자 양해각서를 체결했다. 의성바이오푸드밸리는...",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=393074",
+      "date": "Fri, 06 Nov 2026 17:21:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://daily.hankooki.com/news/articleView.html?idxno=1422813": {
+      "title": "의성군, 세포배양·단백질 식품기업 유치…455억원 투자협약",
+      "summary": "투자협약 식. 사진=의성군 제공 경북 의성군이 세포배양식품과 단백질 식품 제조기업 2곳으로부터 455억원 규모의 투자 를 유치했다. 의성군은 6일 '의성 미래신성장산업 비전선포식'에서 세포배양식품 제조기업...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422813",
+      "date": "Fri, 06 Nov 2026 17:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443540": {
+      "title": "李정부 '2기 국세청 ' 이끌 안덕수…탈세대응·체납관리 과제",
+      "summary": "주식·부동산 탈세 겨눈 조사통…기존 국세행정 기조 이어갈듯 안덕수 국세청 장 후보자[연합뉴스 자료사진]... 추적해 조세 정의를 실현할 것\"이라고 말했다. 안 후보자는 향후 국회 인사 청문회 등 절차를 거쳐 최종 임명된다.",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443540",
+      "date": "Fri, 06 Nov 2026 17:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.mhns.co.kr/news/articleView.html?idxno=768027": {
+      "title": "대구 교도소 후적지 개발, 기재부 심의 전격 통과…'달성 아레나' 건립 본...",
+      "summary": "허성호 기자 지난 50년간 지역 발전의 걸림돌이자 도심 속 단절의 상징이었던 옛 대구 교도소 후적지가 문화와 예술, 주거와 휴식이 공존하는 대구 서남부권의 새로운 미래형 복합 도시공간으로 전격 탈바꿈한다. 대구 ...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=768027",
+      "date": "Fri, 06 Nov 2026 17:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.jtbc.co.kr/article/NB12326906?influxDiv=NAVER": {
+      "title": "홍준표 선거캠프 관계자 등 6명 송치…정치자금 2억 부정지출",
+      "summary": "대구 경찰청은 오늘(6일) 정치자금 2억원가량을 부정하게 지출한 혐의(정치자금법 위반)로 선거용역업체 대표 박모 씨와 홍 전 시장 선거캠프 회계담당자 김 모 씨, 거래업체 관계자 등 6명을 공소청에 불 구속 송치했습니다....",
+      "url": "https://news.jtbc.co.kr/article/NB12326906?influxDiv=NAVER",
+      "date": "Fri, 06 Nov 2026 17:47:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6603426": {
+      "title": "정치자금법 위반 혐의 홍준표 선거캠프 관계자 6명 송치",
+      "summary": "대구 경찰청은 정치자금법 위반 혐의로 홍 전 대구 시장 선거캠프 관계자인 선거용역업체 사장 박모씨 등 6명을 공소청에 불 구속 송치했다고 6일 밝혔다. 이들은 지난 2021년 국민의힘 대선 경선 당시 홍준표 선거캠프...",
+      "url": "https://www.nocutnews.co.kr/news/6603426",
+      "date": "Fri, 06 Nov 2026 17:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.yonhapnewstv.co.kr/news/AKR20261106172920ohg": {
+      "title": "홍준표 캠프 2억 부정지출 6명 송치…수사 확대",
+      "summary": "대구 경찰청은 오늘(6일) 선거용역업체 대표와 캠프 회계담당자, 거래업체 관계자 등 6명을 정치자금법 위반 혐의로 공소청 에 불구속 송치했습니다. 이들은 지난 2021년 국민의힘 대선 경선 당시 허위 거래로 22억원 가량의...",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR20261106172920ohg",
+      "date": "Fri, 06 Nov 2026 17:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://amenews.kr/news/view.php?idx=68606": {
+      "title": "엘앤에프 , 3Q 매출 8744억…전년比 34%↑",
+      "summary": "글로벌 이차전지 소재 전문기업 엘앤에프 의 3분기 매출이 하이니켈 제품의 안정적인 판매에 힘입어 전년동기대비 크게 개선됐다. 엘앤에프 는 5일 실적발표를 통해 3분기 매출 8,744억원, 영업손실 265억원을...",
+      "url": "http://amenews.kr/news/view.php?idx=68606",
+      "date": "Fri, 06 Nov 2026 17:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.joongang.co.kr/article/25476416": {
+      "title": "‘조작기소 특검’ 수사대상 사건 12개, 재판 어디까지 왔나",
+      "summary": "한국수력원자력 의 의사에 반해 월성원전 1호기 조기 폐쇄 결정하고 경제성 평가를 조작했다는 의혹(월성원전 1호기 조작 사건)과 사드 배치 반대 단체에 군사 2급 비밀인 군사작전 정보를 유출했다는 의혹(사드 기밀...",
+      "url": "https://www.joongang.co.kr/article/25476416",
+      "date": "Fri, 06 Nov 2026 17:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9513,6 +9533,56 @@
       "url": "https://www.donga.com/news/Economy/article/all/20261106/134979250/1",
       "title": "국립의대 신설 확정 경북도청신도시, ‘경북도청 푸르지오 퍼스티온’...",
       "date": "Fri, 06 Nov 2026 16:16:00 +0900"
+    },
+    {
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422813",
+      "title": "의성군, 세포배양·단백질 식품기업 유치…455억원 투자협약",
+      "date": "Fri, 06 Nov 2026 17:16:00 +0900"
+    },
+    {
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443540",
+      "title": "李정부 '2기 국세청 ' 이끌 안덕수…탈세대응·체납관리 과제",
+      "date": "Fri, 06 Nov 2026 17:06:00 +0900"
+    },
+    {
+      "url": "https://news.jtbc.co.kr/article/NB12326906?influxDiv=NAVER",
+      "title": "홍준표 선거캠프 관계자 등 6명 송치…정치자금 2억 부정지출",
+      "date": "Fri, 06 Nov 2026 17:47:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261106500200",
+      "title": "경북 도 의성에 식품산업 투자 455억원 유치",
+      "date": "Fri, 06 Nov 2026 17:38:00 +0900"
+    },
+    {
+      "url": "https://www.nocutnews.co.kr/news/6603447",
+      "title": "경북 의성바이오푸드밸리에 식품기업 유치 잇따라…455억 원 투자",
+      "date": "Fri, 06 Nov 2026 17:30:00 +0900"
+    },
+    {
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR20261106172920ohg",
+      "title": "홍준표 캠프 2억 부정지출 6명 송치…수사 확대",
+      "date": "Fri, 06 Nov 2026 17:30:00 +0900"
+    },
+    {
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081761",
+      "title": "[ 은행 圈 인사 전망 종합] 5대 은행 장 연말 연임 심사… 국책·지방·인터...",
+      "date": "Fri, 06 Nov 2026 17:28:00 +0900"
+    },
+    {
+      "url": "https://www.joongang.co.kr/article/25476416",
+      "title": "‘조작기소 특검’ 수사대상 사건 12개, 재판 어디까지 왔나",
+      "date": "Fri, 06 Nov 2026 17:26:00 +0900"
+    },
+    {
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=393074",
+      "title": "[ 경북 24시] 경북 도, 의성바이오푸드밸리 준공·455억원 투자협약",
+      "date": "Fri, 06 Nov 2026 17:21:00 +0900"
+    },
+    {
+      "url": "http://amenews.kr/news/view.php?idx=68606",
+      "title": "엘앤에프 , 3Q 매출 8744억…전년比 34%↑",
+      "date": "Fri, 06 Nov 2026 17:10:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9585,7 +9655,7 @@
     "2026-11-03": 37,
     "2026-11-04": 14,
     "2026-11-05": 11,
-    "2026-11-06": 9
+    "2026-11-06": 10
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
