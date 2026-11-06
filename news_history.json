@@ -1571,7 +1571,10 @@
     "https://www.sisajournal.com/news/articleView.html?idxno=393074": "2026-11-06T18:01:47.302900+09:00",
     "http://amenews.kr/news/view.php?idx=68606": "2026-11-06T18:01:47.302900+09:00",
     "https://www.newspim.com/news/view/20261106001234": "2026-11-06T19:02:00.599807+09:00",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DR3RKRlY3Tk1mbHNVTVlxRFFwdi1fSHppQk9meTRmaEZlS2NRV1JGYl8xbDcxaGpPcGlfdzdrTUJnRC1DSnBGVE1BWWpXZEZFOE1XLUVxRUJtRXRua3oyYkxNQWwwRWMtT2l6Q2tic3BrRFJsazRRaE55bFk?oc=5": "2026-11-06T19:02:00.599807+09:00"
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DR3RKRlY3Tk1mbHNVTVlxRFFwdi1fSHppQk9meTRmaEZlS2NRV1JGYl8xbDcxaGpPcGlfdzdrTUJnRC1DSnBGVE1BWWpXZEZFOE1XLUVxRUJtRXRua3oyYkxNQWwwRWMtT2l6Q2tic3BrRFJsazRRaE55bFk?oc=5": "2026-11-06T19:02:00.599807+09:00",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaHNuY1NSSmFCenZhVS1lTWwzZmZPeWR4UDg4UThjbHBKZW9wS2FyeHpDYVpyV2YyVm1uV1NISHhvTVRBVUU0TThPdDhtOXM1WHlGTzBYY1Ezd0FaNmVZcmVPU0k?oc=5": "2026-11-06T20:02:02.801969+09:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c3N0VkdDVFY4Q3Vvd0kxMHdacjEwVHJCYWhCTGhjVElzX2NmZjFVdVd0Q3FsbTVQd2ZkZHBQTkJPM24zWk13ZnpBeW52V1J2S1ppUkwyV0RDS0VWdXphVS1fTFdKa0hQa0ZkZndR?oc=5": "2026-11-06T20:02:02.801969+09:00",
+    "https://www.kbmaeil.com/article/20261106500210": "2026-11-06T20:02:02.801969+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2645,7 +2648,10 @@
     "cb96328c1d7edfc3b040b368cbd3bd237356adbad21ce5ca597203ef4d5cbec8": "2026-11-06T18:01:47.302900+09:00",
     "c7471a262feb72ef5574bb7bff9b60d0ffb0db65403930459254ca54c0887d1f": "2026-11-06T18:01:47.302900+09:00",
     "8794465e9eb46b8554d5614e89b7bb621441f0f9198ece89bacc95ee255fcf16": "2026-11-06T19:02:00.599807+09:00",
-    "103aecc09d39ed0daf7d7e2a7ba56e5994fc9339960b21497e9070343b19d4cf": "2026-11-06T19:02:00.599807+09:00"
+    "103aecc09d39ed0daf7d7e2a7ba56e5994fc9339960b21497e9070343b19d4cf": "2026-11-06T19:02:00.599807+09:00",
+    "82526b8bef6adefc90920132fc27685ee1dbbc76de30cc56480bf5a791afaf71": "2026-11-06T20:02:02.801969+09:00",
+    "f25bbc61ab2306c18856416d08f7a63aaf8038308f8d75ce9dfc6e41db73be41": "2026-11-06T20:02:02.801969+09:00",
+    "06ffb317573c30afc4916a97817b9d7bcfbb54c62f3008911b217beca8a2e9e7": "2026-11-06T20:02:02.801969+09:00"
   },
   "pending": {},
   "ai": {
@@ -2656,58 +2662,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://news.ebs.co.kr/ebsnews/allView/60786641/N": {
-      "title": "[지역교육브리핑] 전남· 경북 의대 신설…지역의료 바꿀까?",
-      "summary": "경북 도는 의대 건립 부터 교수진 확보, 교육병원 마련까지 전폭적으로 지원하겠다고 했습니다. 경국대와 안동시, 예천군이 함께 준비하고, 정부와도 협력하겠다는 겁니다. 전남광주통합특별시도 정부와 대학, 관계 기관과...",
-      "url": "http://news.ebs.co.kr/ebsnews/allView/60786641/N",
-      "date": "Wed, 04 Nov 2026 19:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=767618": {
-      "title": "한수원, 시뮬레이터 경진대회 시연회 개최…원전 운전·위기 대응 역량...",
-      "summary": "한국수력원자력 (사장 김회천, 이하 한수원)이 3일 새울원자력본부에서 원자로 조종사들의 위기 대응 역량을 검증하는 시연회를 개최했다. 실제 원자력발전소와 동일하게 구축된 시뮬레이터 환경에서 열린 이번 행사는...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=767618",
-      "date": "Wed, 04 Nov 2026 19:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KaEhTMThic0RRajFFdUJBM3FaLUJnQS1DRjMwbG12NG5ydGZ5Z0w2TEZLa2FaTVg1RUtKMkJsSWdCQ2RrbmN4aFNKdGhjbEFyWWI1Q3RENU15VklPYmV1ZF9ERVU2amFlTmw0YXBLQzlKSjQ?oc=5": {
-      "title": "한수원, 시뮬레이터 경진대회 시연회 개최…원전 운전·위기 대응 역량 점검 - 소비자가 만드는 신문",
-      "summary": "한수원, 시뮬레이터 경진대회 시연회 개최…원전 운전·위기 대응 역량 점검 소비자가 만드는 신문",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KaEhTMThic0RRajFFdUJBM3FaLUJnQS1DRjMwbG12NG5ydGZ5Z0w2TEZLa2FaTVg1RUtKMkJsSWdCQ2RrbmN4aFNKdGhjbEFyWWI1Q3RENU15VklPYmV1ZF9ERVU2amFlTmw0YXBLQzlKSjQ?oc=5",
-      "date": "Wed, 04 Nov 2026 10:03:43 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRlh2QUw5VFhTcVJoVlZzYlJsNE8zWFVBdzU4UE5EZkpoSFpkemhpRVpKcnRZcXJpWm1oVHA2V0hJRlJyZ0Nudk9pTmZPODZ3RV9kRExvQ3JsTklMdm1DZlpfc1M2bFgxM3hjSQ?oc=5": {
-      "title": "L&F plans new 60,000-ton LFP cathode plant as ESS orders swell - KED Global",
-      "summary": "L&F plans new 60,000-ton LFP cathode plant as ESS orders swell KED Global",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRlh2QUw5VFhTcVJoVlZzYlJsNE8zWFVBdzU4UE5EZkpoSFpkemhpRVpKcnRZcXJpWm1oVHA2V0hJRlJyZ0Nudk9pTmZPODZ3RV9kRExvQ3JsTklMdm1DZlpfc1M2bFgxM3hjSQ?oc=5",
-      "date": "Wed, 04 Nov 2026 10:25:00 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
     "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver": {
       "title": "경북 도의회, 국립경국대학교 의과대학 신설 쾌거… “260만 도민과 함께...",
       "summary": "1245㎡)에 건립 될 예정이다. 총사업비 6325억원(국비 2790억원, 지방비 3535억원)이 투입되며, 교육 정원 40명과 112명의 교원을 확보하여 2030년 개교를 목표로 500병상 이상 규모의 교육병원으로 운영될 예정이다. 경북 도는...",
@@ -7285,6 +7239,45 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.kbmaeil.com/article/20261106500210": {
+      "title": "홍준표 경선캠프 ‘2억 의혹’…6명 송치, 수사 확대",
+      "summary": "대구 경찰청은 6일 정치자금법 위반 혐의로 선거용역업체 대표 박모씨와 캠프 회계담당자 김모씨, 거래업체 관계자 등 6명을 불 구속 송치했다. 이들은 2021년 국민의힘 대선 경선 당시 허위 거래를 꾸며 캠프 정치자금 약...",
+      "url": "https://www.kbmaeil.com/article/20261106500210",
+      "date": "Fri, 06 Nov 2026 19:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c3N0VkdDVFY4Q3Vvd0kxMHdacjEwVHJCYWhCTGhjVElzX2NmZjFVdVd0Q3FsbTVQd2ZkZHBQTkJPM24zWk13ZnpBeW52V1J2S1ppUkwyV0RDS0VWdXphVS1fTFdKa0hQa0ZkZndR?oc=5": {
+      "title": "영주시, 수의계약 실적 본청·읍면동 통합 관리…특정 업체 집중 방지 - 국제뉴스",
+      "summary": "영주시, 수의계약 실적 본청·읍면동 통합 관리…특정 업체 집중 방지 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c3N0VkdDVFY4Q3Vvd0kxMHdacjEwVHJCYWhCTGhjVElzX2NmZjFVdVd0Q3FsbTVQd2ZkZHBQTkJPM24zWk13ZnpBeW52V1J2S1ppUkwyV0RDS0VWdXphVS1fTFdKa0hQa0ZkZndR?oc=5",
+      "date": "Fri, 06 Nov 2026 10:09:08 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaHNuY1NSSmFCenZhVS1lTWwzZmZPeWR4UDg4UThjbHBKZW9wS2FyeHpDYVpyV2YyVm1uV1NISHhvTVRBVUU0TThPdDhtOXM1WHlGTzBYY1Ezd0FaNmVZcmVPU0k?oc=5": {
+      "title": "의성, 455억 투자 유치…미래 식품산업 거점으로 도약 - 경북TV",
+      "summary": "의성, 455억 투자 유치…미래 식품산업 거점으로 도약 경북TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaHNuY1NSSmFCenZhVS1lTWwzZmZPeWR4UDg4UThjbHBKZW9wS2FyeHpDYVpyV2YyVm1uV1NISHhvTVRBVUU0TThPdDhtOXM1WHlGTzBYY1Ezd0FaNmVZcmVPU0k?oc=5",
+      "date": "Fri, 06 Nov 2026 10:18:46 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9492,6 +9485,21 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DR3RKRlY3Tk1mbHNVTVlxRFFwdi1fSHppQk9meTRmaEZlS2NRV1JGYl8xbDcxaGpPcGlfdzdrTUJnRC1DSnBGVE1BWWpXZEZFOE1XLUVxRUJtRXRua3oyYkxNQWwwRWMtT2l6Q2tic3BrRFJsazRRaE55bFk?oc=5",
       "title": "의성군, 미래 푸드테크 산업 이끌 기업 투자유치… 455억 원 규모 - 경북뉴스",
       "date": "Fri, 06 Nov 2026 09:06:14 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaHNuY1NSSmFCenZhVS1lTWwzZmZPeWR4UDg4UThjbHBKZW9wS2FyeHpDYVpyV2YyVm1uV1NISHhvTVRBVUU0TThPdDhtOXM1WHlGTzBYY1Ezd0FaNmVZcmVPU0k?oc=5",
+      "title": "의성, 455억 투자 유치…미래 식품산업 거점으로 도약 - 경북TV",
+      "date": "Fri, 06 Nov 2026 10:18:46 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c3N0VkdDVFY4Q3Vvd0kxMHdacjEwVHJCYWhCTGhjVElzX2NmZjFVdVd0Q3FsbTVQd2ZkZHBQTkJPM24zWk13ZnpBeW52V1J2S1ppUkwyV0RDS0VWdXphVS1fTFdKa0hQa0ZkZndR?oc=5",
+      "title": "영주시, 수의계약 실적 본청·읍면동 통합 관리…특정 업체 집중 방지 - 국제뉴스",
+      "date": "Fri, 06 Nov 2026 10:09:08 GMT"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261106500210",
+      "title": "홍준표 경선캠프 ‘2억 의혹’…6명 송치, 수사 확대",
+      "date": "Fri, 06 Nov 2026 19:02:00 +0900"
     }
   ],
   "brief_articles": [
