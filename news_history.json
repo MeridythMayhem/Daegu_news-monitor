@@ -1537,7 +1537,9 @@
     "https://dgmbc.com/NewsArticle/871864": "2026-11-06T14:02:06.909596+09:00",
     "https://www.farminsight.net/news/articleView.html?idxno=17186": "2026-11-06T14:02:06.909596+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501910": "2026-11-06T14:02:06.909596+09:00",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KU3liN0RubUdydXhxNDRJRGxnNVZpYTA2RUx1eG43UmRYR2ZWaGY5YVdXS2RCTGRCVm5xdk1RY3h6Y3VtRG9ib2RQVXdEcUxJbDFiOVVwMndGY29GOEZPVTR3elRmc3A0?oc=5": "2026-11-06T14:02:06.909596+09:00"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KU3liN0RubUdydXhxNDRJRGxnNVZpYTA2RUx1eG43UmRYR2ZWaGY5YVdXS2RCTGRCVm5xdk1RY3h6Y3VtRG9ib2RQVXdEcUxJbDFiOVVwMndGY29GOEZPVTR3elRmc3A0?oc=5": "2026-11-06T14:02:06.909596+09:00",
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718057": "2026-11-06T15:01:47.347759+09:00",
+    "https://www.eroun.net/news/articleView.html?idxno=94663": "2026-11-06T15:01:47.347759+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2577,407 +2579,19 @@
     "1091b989d5d61f32f7a5aa88e3285d63ea76a7501924c9565bc72801f195eeb3": "2026-11-06T14:02:06.909596+09:00",
     "a6085683a385ae7b4d9052f2d387563c338e81ce57c103ca4c8655617823c740": "2026-11-06T14:02:06.909596+09:00",
     "f38bf719ce89813568c8bd6b7143a0986d04304f90e8375d1eaee0dd406c981f": "2026-11-06T14:02:06.909596+09:00",
-    "5fd44fec5dff8947eb334b44214879b8ea18d1af66e71f1f1931e2db366f9bcc": "2026-11-06T14:02:06.909596+09:00"
+    "5fd44fec5dff8947eb334b44214879b8ea18d1af66e71f1f1931e2db366f9bcc": "2026-11-06T14:02:06.909596+09:00",
+    "8d61161607278638d95901a6f6b7ec5560202e2ce71ef806fffdf90959939b33": "2026-11-06T15:01:47.347759+09:00",
+    "b86bb6ffae7514aacaf97b348ba8c875952187be9c37a559e4084d4296930bc1": "2026-11-06T15:01:47.347759+09:00"
   },
   "pending": {},
   "ai": {
     "2026-11-03": 3,
     "2026-11-04": 15,
     "2026-11-05": 31,
-    "2026-11-06": 11
+    "2026-11-06": 12
   },
   "cursor": 0,
   "archive": {
-    "https://www.sisajournal.com/news/articleView.html?idxno=392770": {
-      "title": "경북 국립경국대 의과대학 신설 확정…2030년 개교 목표",
-      "summary": "대구 ·경북 분리 이후 국립의대와 상급종합병원이 없었던 경북에 45년만의 의과대학이 신설된다. 특히... 부지에 건립 될 예정이다. 입학정원은 40명 규모로 2030년 개교를 목표로 한다. 2032년까지 112명 이상의 전임교원을...",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=392770",
-      "date": "Wed, 04 Nov 2026 14:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kbsm.net/news/view.php?idx=540437": {
-      "title": "포항시·포스코, 건설현장 추락· 화재 위험 살폈다",
-      "summary": "포항시가 4일 포항 도농공감 활력센터 건립 공사현장에서 안전보건공단 경북 동부지사, 포스코와 함께... 올해 세 번째 합동점검이다.점검단은 추락과 화재 ·폭발 사고 예방에 중점을 두고 작업발판과 안전난간 설치 상태...",
-      "url": "https://www.kbsm.net/news/view.php?idx=540437",
-      "date": "Wed, 04 Nov 2026 14:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.hidomin.com/news/articleView.html?idxno=727947": {
-      "title": "도민의 힘으로 이룬'국립경국대 의과대학'신설…경상북도 새로운 미래의...",
-      "summary": "교육병원 건립 등 후속 과제를 해결해야 한다. 경북도는 교육부가 4일 국립경국대학교 의과대학 신설을 최종... 포항 의 첨단과학·연구 인프라와 동해안의 원자력·방사선 의과학 자원까지 연계하면 경북 전역을 아우르는...",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=727947",
-      "date": "Wed, 04 Nov 2026 14:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.newstown.co.kr/news/articleView.html?idxno=720718": {
-      "title": "경북 국립의대 신설 최종 확정…2030년 개교·500병상 대학병원 건립",
-      "summary": "경북 도에 따르면 국립경국대 의과대학 신설은 대구 · 경북 분리 이후 45년간 국립의대와 상급종합병원이... 경북 도는 안동 바이오 산업단지 의 국제백신연구소 안동분원과 백신상용화기술지원센터, 헴프특구 등 기존 산업 ...",
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=720718",
-      "date": "Wed, 04 Nov 2026 14:27:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.newsprime.co.kr/news/article.html?no=753698": {
-      "title": "경북 도의회, 국립경국대 의대 신설 환영···지역 의료혁신 전폭 지원",
-      "summary": "의과대학은 40명의 교육정원과 112명의 교원 확보를 기반으로 2030년 문을 여는 것을 목표로 하고 있으며, 부속병원은 500병상 이상 규모의 교육병원으로 건립 될 예정이다. 경북 도는 대학 설립 이후에도 교육과 연구...",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=753698",
-      "date": "Wed, 04 Nov 2026 14:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.bbsi.co.kr/news/articleView.html?idxno=4116686": {
-      "title": "경북 도의회, 국립경국대 의과대학 신설 환영...\"거점 의료기관 성장에 ...",
-      "summary": "이에 경북 도의회는 260만 도민과 함께 적극적인 환영의 뜻을 밝히며, 지역 필수 의료 사각지대를 해소하고 경쟁력 있는 거점 의료기관으로 도약할 수 있도록 전폭적인 지원에 나선다고 강조했습니다. 이번에 건립 될...",
-      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116686",
-      "date": "Wed, 04 Nov 2026 14:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kbsm.net/news/view.php?idx=540426": {
-      "title": "경북 도의회, 국립경국대 의대 신설 환영⋯전폭 지원 약속",
-      "summary": "경북 도의회가 4일 교육부와 보건복지부의 국립경국대학교 의과대학 신설 확정에 환영의 뜻을 밝히고 성공적인 개교와 교육병원 건립 을 위한 지원을 약속했다.김희수 경북 도의회 의장은 \"이번 의대 신설은 260만 도민의...",
-      "url": "https://www.kbsm.net/news/view.php?idx=540426",
-      "date": "Wed, 04 Nov 2026 14:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsis.com/view/NISX20261104_0003854601": {
-      "title": "경북 도의회 '국립경국대 의대 신설' 환영",
-      "summary": "4일 경북 도의회에 따르면 이번 신설되는 국립경국대학교 의과대학 및 부속병원은 2027년부터 2034년까지 도청 신도시내 13만362㎡ 부지(의과대학 5만4006㎡, 대학병원 3만1245㎡)에 건립 될 예정이다. 총 사업비 6325억원...",
-      "url": "https://www.newsis.com/view/NISX20261104_0003854601",
-      "date": "Wed, 04 Nov 2026 14:15:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://daily.hankooki.com/news/articleView.html?idxno=1421566": {
-      "title": "경북 에 국립의대 들어선다…500병상 대학병원도 건립",
-      "summary": "국립경국대학교에 의과대학이 들어서고 도청신도시에는 500병상 이상 규모의 대학병원이 건립 된다. 이철우 경북 도지사는 4일 도청에서 브리핑을 열고 \"교육부가 국립경국대 의과대학 신설을 최종 확정했다\"고 밝혔다....",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421566",
-      "date": "Wed, 04 Nov 2026 14:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.idaegu.com/news/articleView.html?idxno=666735": {
-      "title": "경북 국립경국대 의대 신설 확정…여야 \"의료 사각지대 해소\" 한목소리",
-      "summary": "경북 국립경국대학교 의과대학 신설이 확정되자, 대구 ·경북지역 정치권이 일제히 환영했다. 경북 북부권의 의료 공백을 해소할 계기가 마련됐다는 평가와 함께, 의대 정원 확대와 부속병원 건립 등 후속 과제를 챙겨야...",
-      "url": "https://www.idaegu.com/news/articleView.html?idxno=666735",
-      "date": "Wed, 04 Nov 2026 14:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://daily.hankooki.com/news/articleView.html?idxno=1421651": {
-      "title": "경북 도의회 \"국립경국대 의대 신설 환영…조속한 설립 지원\"",
-      "summary": "김희수 경북 도의회 의장. 사진=데일리항국DB 경북 도의회는 4일 국립경국대학교 의과대학 신설 확정과... 부속병원은 500병상 이상 규모로 건립 될 예정이다. 김희수 의장은 \"도의회 차원에서도 의대가 경쟁력 있는 지역...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421651",
-      "date": "Wed, 04 Nov 2026 14:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.thebk.co.kr/news/articleView.html?idxno=312676": {
-      "title": "45년 맺힌 한 풀었다… 경북 첫 국립의대 '경국대' 신설 확정",
-      "summary": "대학병원을 건립 하는 대규모 국책 사업이 본격 궤도에 오르게 됐다. 새로 들어서는 국립의대는 입학정원... 것\"이라며 \" 포항 의 첨단 과학 연구 인프라와 동해안의 원자력 의과학 자원까지 연계해 경북 전역이 대한민국...",
-      "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312676",
-      "date": "Wed, 04 Nov 2026 14:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/04/2026110400239.html": {
-      "title": "경북 45년 숙원 풀었다… 국립경국대 의대 신설 최종 확정",
-      "summary": "대구 ·경북 분리 이후 국립의대는 물론 상급종합병원조차 없었던 경북에 의학교육과 연구, 임상진료를... 대학병원은 500병상 이상 규모로 건립 한다. 2032년까지 전임교원 112명 이상을 확보해 의학교육과 임상교육, 전문...",
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/04/2026110400239.html",
-      "date": "Wed, 04 Nov 2026 14:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://fpn119.co.kr/258904": {
-      "title": "경북 경주시 자동차 부품 공장 화재 … 재산피해 9600만원",
-      "summary": "= 1일 오후 6시 43분께 경북 경주시 외동읍의 한 자동차 부품 제조 공장 에서 화재 가 발생했다. 소방은 인원 32명과 장비 15대를 동원해 1시간 만에 완진했다. 이 화재 로 건물 2동이 전소되고 자동차 부품 완제품이...",
-      "url": "http://fpn119.co.kr/258904",
-      "date": "Wed, 04 Nov 2026 14:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.idaegu.com/news/articleView.html?idxno=666741": {
-      "title": "봉화군 \"K-베트남 밸리 3천476억 원 모두 신규 투자 아냐\"…폐지 청원에...",
-      "summary": "경북 봉화군이 국회 국민동의청원에서 5만 명 이상의 동의를 얻은 'K-베트남 밸리' 사업 폐지 요구 에 대해 공식 해명 에 나섰다. 총사업비 3천476억 원이 모두 신규 투자되는 것은 아니며 기존 문화·관광사업과 연계한 장기...",
-      "url": "https://www.idaegu.com/news/articleView.html?idxno=666741",
-      "date": "Wed, 04 Nov 2026 14:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.imaeil.com/page/view/2026110414250908721": {
-      "title": "5개월간 대구 북부 공장 화재 만 15건… 화재 주의 당부",
-      "summary": "대구 북부소방서는 최근 북구에서 공장 화재 가 잇따라 발생한 만큼, 화재 예방과 안전 관리에 주의를 기울일 필요가 있다고 밝혔다. 북부소방서에 따르면 최근 5개월간 관내 공장 에서 발생한 화재 는 총 15건으로...",
-      "url": "https://www.imaeil.com/page/view/2026110414250908721",
-      "date": "Wed, 04 Nov 2026 14:45:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "http://fpn119.co.kr/258895": {
-      "title": "대구 북구 도금 공장 화재 … 인명피해 없어",
-      "summary": "= 4일 오전 3시 43분께 대구 북구 산격동의 한 도금 공장 에서 화재 가 발생했다. 소방은 인원 92명과 차량 38대를 투입해 1시간 20분여 만인 오전 5시 완진했다. 이 화재 로 인한 인명피해는 없었다.",
-      "url": "http://fpn119.co.kr/258895",
-      "date": "Wed, 04 Nov 2026 14:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.kbmaeil.com/article/20261104500306": {
-      "title": "TK신공항 민항 편입토지 336필지 공개… 대구 시, 배후 705만㎡ 경제자유...",
-      "summary": "대구경북 통합신공항(TK신공항) 민간공항 건설사업의 편입토지 336필지에 대한 세부 내역이 공개됐다.... 제1첨단 산업단지 250만㎡ 등이 포함된다. 대구 시는 이번 용역을 통해 경제자유구역 지정 가능성과 개발 방향을...",
-      "url": "https://www.kbmaeil.com/article/20261104500306",
-      "date": "Wed, 04 Nov 2026 14:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.nbntv.kr/news/articleView.html?idxno=341073": {
-      "title": "대동 , 현대차그룹·전북·김제와 '새만금 피지컬 AI 로봇팜 팩토리' 구축...",
-      "summary": "원유현 대동 그룹 부회장, 박지원 더불어민주당 의원, 이원택 전북특별자치도지사, 정성주 김제시장 등이 간담회 후 기념 사진을 촬영하고 있다. 미래농업 리딩 기업 대동 이 현대차그룹과 전북특별자치도, 김제시 등과...",
-      "url": "https://www.nbntv.kr/news/articleView.html?idxno=341073",
-      "date": "Wed, 04 Nov 2026 14:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://biz.chosun.com/industry/business-venture/2026/11/04/QK3U5RGZKFG5XKSYQIHN64HD2Y/": {
-      "title": "대동 , 새만금에 3000억원 규모 ‘로봇 팜 팩토리’ 구상",
-      "summary": "농기계 기업 대동 은 국회의원회관에서 열린 ‘새만금 피지컬 인공지능(AI) 로봇팜 팩토리 구축 간담회’... 대동 그룹은 ‘로봇 중심’ 농업의 필요성과 발전 방향을 소개했다. 로봇 팜 팩토리는 농업 로봇의 제작, AI 학습...",
-      "url": "https://biz.chosun.com/industry/business-venture/2026/11/04/QK3U5RGZKFG5XKSYQIHN64HD2Y/",
-      "date": "Wed, 04 Nov 2026 14:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsway.co.kr/news/view?ud=2026110411035275255": {
-      "title": "잇단 사고에 '안전 전문가'도 시험대…송치영 포스코이앤씨 대표, 연말...",
-      "summary": "연이은 중대재해 로 물러난 전임 대표의 뒤를 이어 '안전 구원투수'로 투입돼 안전 중심 체제 전환에... 송 대표는 포스코 포항 제철소 안전환경부소장, 포스코이앤씨 최고안전책임자(CSO)를 거친 그룹 내 대표적인 안전...",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026110411035275255",
-      "date": "Wed, 04 Nov 2026 14:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=512273": {
-      "title": "[포토뉴스] 포스코 미술관 광양, '파노라마 워크 준공전'... 구봉산 360도...",
-      "summary": "포스코 미술관 광양은 구봉산 정상에 들어선 체험형 조형물의 완공을 기념하는 기획전 《PANORAMA WALK : THE... 지역의 수려한 자연환경과 작가의 창의적인 조형 예술 감각, 여기에 포스코 의 독보적인 철강 엔지니어링 기술이...",
-      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=512273",
-      "date": "Wed, 04 Nov 2026 14:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.popcornnews.net/news/articleView.html?idxno=138715": {
-      "title": "한수원, 美 전력연구원과 청정수소·저탄소 에너지 기술협력 MOU 체결",
-      "summary": "한국수력원자력 (이하 한수원)이 미국 전력연구원(EPRI)과 청정수소와 에너지 저장 등 저탄소 에너지 기술 분야의 공동연구와 기술협력에 나선다. 한수원은 4일 일산 킨텍스에서 미국 전력연구원(EPRI)과 청정수소 전주기...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=138715",
-      "date": "Wed, 04 Nov 2026 14:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BQ1k3Q2xkOGxGWjN2T3hRZW92OGo0Y1Q5LUM2OHdMbWtGUVhORko3Z0hlMXZXTFZwbklqVFBiNC1INUF0dE1YazFkWFZ3cTRVeXZDX0RJQ1lRU1hiTmxQdmhBS2hja1RORTJJ?oc=5": {
-      "title": "경북 국립의과대학 안동 유치 최종 확정...2030년 개교 및 500병상 병원 건립 - BBS불교방송",
-      "summary": "경북 국립의과대학 안동 유치 최종 확정...2030년 개교 및 500병상 병원 건립 BBS불교방송",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BQ1k3Q2xkOGxGWjN2T3hRZW92OGo0Y1Q5LUM2OHdMbWtGUVhORko3Z0hlMXZXTFZwbklqVFBiNC1INUF0dE1YazFkWFZ3cTRVeXZDX0RJQ1lRU1hiTmxQdmhBS2hja1RORTJJ?oc=5",
-      "date": "Wed, 04 Nov 2026 05:19:44 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TNGlYWFNvc1dmd1M2MHUtbHlGdUxJUnZRUUNvcWJlcmFybEcxZ2lKQkR6QXl4MS1obnVzU1Z5Y054YV83OEpQSWhqZWZOaE84VzdlYmhqaE93R21xcWJVYnJSVzZnWUVoS2c?oc=5": {
-      "title": "도민의 힘으로 이룬'국립경국대 의과대학'신설…경상북도 새로운 미래의 시작, 지역 필수의료 확충·바이오산업 연계 과제 - www.hidomin.com",
-      "summary": "도민의 힘으로 이룬'국립경국대 의과대학'신설…경상북도 새로운 미래의 시작, 지역 필수의료 확충·바이오산업 연계 과제 www.hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TNGlYWFNvc1dmd1M2MHUtbHlGdUxJUnZRUUNvcWJlcmFybEcxZ2lKQkR6QXl4MS1obnVzU1Z5Y054YV83OEpQSWhqZWZOaE84VzdlYmhqaE93R21xcWJVYnJSVzZnWUVoS2c?oc=5",
-      "date": "Wed, 04 Nov 2026 05:34:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDNXlzNDhPVjJ3Vk1aSWc2aXg4RDVwa0NFemRvR3VlRUFvYlIyUURHREJmZGJ1U3JDbXFOalp2Mm5jczlvUTRsVWlzTHEzS3ZadUtweGd1dnNhUU5TdGhHR0xDbVlyakFtaXc?oc=5": {
-      "title": "45년 맺힌 한 풀었다… 경북 첫 국립의대 ‘경국대’ 신설 확정 - 뷰티경제",
-      "summary": "45년 맺힌 한 풀었다… 경북 첫 국립의대 ‘경국대’ 신설 확정 뷰티경제",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDNXlzNDhPVjJ3Vk1aSWc2aXg4RDVwa0NFemRvR3VlRUFvYlIyUURHREJmZGJ1U3JDbXFOalp2Mm5jczlvUTRsVWlzTHEzS3ZadUtweGd1dnNhUU5TdGhHR0xDbVlyakFtaXc?oc=5",
-      "date": "Wed, 04 Nov 2026 05:05:01 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10dGgzVjc3YVlrZ0JNSmVIV3Brd2FvY2MtRUFQdUEwNjFFV2FRTkhscHRBWVVNUGNSOExndkRKQ0hhdw?oc=5": {
-      "title": "\"누적 매출 407억 돌파\" 구미시, 공공배달앱 '먹깨비' 활성화 맞손 - 브레이크뉴스",
-      "summary": "\"누적 매출 407억 돌파\" 구미시, 공공배달앱 '먹깨비' 활성화 맞손 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10dGgzVjc3YVlrZ0JNSmVIV3Brd2FvY2MtRUFQdUEwNjFFV2FRTkhscHRBWVVNUGNSOExndkRKQ0hhdw?oc=5",
-      "date": "Wed, 04 Nov 2026 05:42:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Edk03Z2JTY1h1ejZ4Yk1yc3E0dW1EcnM1U3FsTG1ReVBqMmRHeERmX1dSTDVxbzVRbFRfaFRMWDdiU3hfY3RXc0lZWEFxN2lPbUZZY0tKaXdGbmMwbUlHV1ZMNmptOUd5?oc=5": {
-      "title": "봉화군 “K-베트남 밸리 3천476억 원 모두 신규 투자 아냐”…폐지 청원에 공식 해명 - 대구일보",
-      "summary": "봉화군 “K-베트남 밸리 3천476억 원 모두 신규 투자 아냐”…폐지 청원에 공식 해명 대구일보",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Edk03Z2JTY1h1ejZ4Yk1yc3E0dW1EcnM1U3FsTG1ReVBqMmRHeERmX1dSTDVxbzVRbFRfaFRMWDdiU3hfY3RXc0lZWEFxN2lPbUZZY0tKaXdGbmMwbUlHV1ZMNmptOUd5?oc=5",
-      "date": "Wed, 04 Nov 2026 05:27:41 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EakZ4SnBLZElQQnpWRkZIX0ppcTJXcnNMSXdiV0lOcjlfMzFDa1Jpc2ZCOElkay1sMHF2dlF4M0xaRjdrOTJXX1J2S1ZNZldIaFJhN0xFc2lDQQ?oc=5": {
-      "title": "TK신공항 민항 편입토지 336필지 공개…대구시, 배후 705만㎡ 경제자유구역 추진 - 경북매일",
-      "summary": "TK신공항 민항 편입토지 336필지 공개…대구시, 배후 705만㎡ 경제자유구역 추진 경북매일",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EakZ4SnBLZElQQnpWRkZIX0ppcTJXcnNMSXdiV0lOcjlfMzFDa1Jpc2ZCOElkay1sMHF2dlF4M0xaRjdrOTJXX1J2S1ZNZldIaFJhN0xFc2lDQQ?oc=5",
-      "date": "Wed, 04 Nov 2026 05:22:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUFlLU3dBbU9CNU51dWRtODl1SHdUeUJzOGlBMVJ4RU4xTFMxeGd3VV9VejBSbGxoT2sxY1F4UE0xY3Z3NWZYemhob0FFd1daamYxSnNESHJvOUVGMFhSbTEtTVVheFQwcGc?oc=5": {
-      "title": "잇단 사고에 '안전 전문가'도 시험대···송치영 포스코이앤씨 대표, 연말 거취 촉각 - 뉴스웨이",
-      "summary": "잇단 사고에 '안전 전문가'도 시험대···송치영 포스코이앤씨 대표, 연말 거취 촉각 뉴스웨이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUFlLU3dBbU9CNU51dWRtODl1SHdUeUJzOGlBMVJ4RU4xTFMxeGd3VV9VejBSbGxoT2sxY1F4UE0xY3Z3NWZYemhob0FFd1daamYxSnNESHJvOUVGMFhSbTEtTVVheFQwcGc?oc=5",
-      "date": "Wed, 04 Nov 2026 05:34:13 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
     "http://www.breaknews.com/1248329": {
       "title": "\"누적 매출 407억 돌파\" 구미시, 공공배달앱 '먹깨비' 활성화 맞손",
       "summary": "업무협약( MOU )’을 체결했다고 밝혔다. 이날 협약식에는 김장호 구미시장을 비롯해 김주형 ㈜먹깨비 대표... 번역한 영문 기사의 전문 입니다. 번역에 오류가 있을 수 있음을 밝힙니다.> 원본 기사 보기:브레이크뉴스 대구 경북",
@@ -7633,6 +7247,45 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.mtnews.net/news/articleView.html?idxno=26460": {
+      "title": "경북 도, 의성바이오푸드밸리 준공 및 455억 원 규모 식품·푸드테크 투자...",
+      "summary": "투자양해각서( MOU )는 도와 의성군, ㈜씨위드, ㈜오그래 농업회사법인 간에 체결됐다. 협약에 따라 두 기업은... 이날 선포식에는 양금희 경북 도 경제부지사, 정경석 농림축산식품부 식품산업정책관, 최유철 의성군수...",
+      "url": "https://www.mtnews.net/news/articleView.html?idxno=26460",
+      "date": "Fri, 06 Nov 2026 14:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718057": {
+      "title": "경산시, 중국·인도 시장 공략 나선다..상하이·뉴델리 무역사절단 파견",
+      "summary": "경북 경산시가 중국과 인도 시장 공략에 나선다. 6일 경산시에 따르면 시는 지역 중소기업의 해외시장... 경산시는 이번 무역사절단을 통해 현지 산업시장 동향을 살피고 지역 기업의 신규 수출시장 개척과 거래 선...",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718057",
+      "date": "Fri, 06 Nov 2026 14:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.eroun.net/news/articleView.html?idxno=94663": {
+      "title": "[이로운 기획] 노벨리스 영주공장 파업 공식 마침표, 6일 '2026 임단협' 최...",
+      "summary": "성과급의 투명성을 요구하되, 회사 의 글로벌 경영 지침을 존중하는 절충점을 먼저 내민 것이다. 사측도시... 명문화, 자녀 출산 축의금 100만 원 신설 등 현장 노동자들의 실질적인 처우를 대폭 개선하는 패키지를...",
+      "url": "https://www.eroun.net/news/articleView.html?idxno=94663",
+      "date": "Fri, 06 Nov 2026 14:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -9670,6 +9323,16 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KU3liN0RubUdydXhxNDRJRGxnNVZpYTA2RUx1eG43UmRYR2ZWaGY5YVdXS2RCTGRCVm5xdk1RY3h6Y3VtRG9ib2RQVXdEcUxJbDFiOVVwMndGY29GOEZPVTR3elRmc3A0?oc=5",
       "title": "안호영 “새만금 대규모 투자, 무주~대구 고속도로 예타에 반영해야” - 시사브리핑",
       "date": "Fri, 06 Nov 2026 04:10:44 GMT"
+    },
+    {
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718057",
+      "title": "경산시, 중국·인도 시장 공략 나선다..상하이·뉴델리 무역사절단 파견",
+      "date": "Fri, 06 Nov 2026 14:42:00 +0900"
+    },
+    {
+      "url": "https://www.eroun.net/news/articleView.html?idxno=94663",
+      "title": "[이로운 기획] 노벨리스 영주공장 파업 공식 마침표, 6일 '2026 임단협' 최...",
+      "date": "Fri, 06 Nov 2026 14:34:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9742,7 +9405,7 @@
     "2026-11-03": 37,
     "2026-11-04": 14,
     "2026-11-05": 11,
-    "2026-11-06": 6
+    "2026-11-06": 7
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
