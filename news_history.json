@@ -1580,7 +1580,8 @@
     "http://www.metroseoul.co.kr/article/20261106500264": "2026-11-06T21:02:01.076082+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5": "2026-11-06T22:01:59.361041+09:00",
     "https://www.news2day.co.kr/article/20261106500370": "2026-11-06T23:01:44.354082+09:00",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5": "2026-11-06T23:01:44.354082+09:00"
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5": "2026-11-06T23:01:44.354082+09:00",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5": "2026-11-07T09:01:46.313119+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2663,108 +2664,19 @@
     "baf25b2ff22b5e6eda38c28825dfe1c38e56ec5ec348fd9596a5b3f30ec7f0f3": "2026-11-06T21:02:01.076082+09:00",
     "5afae9715bcde8446b21d25581eda7ccefbdd2b646efa84d03af39dfef17ae99": "2026-11-06T22:01:59.361041+09:00",
     "3014a0815a50f21c2e64c7e2c5ffa9a115dbba60f9050b765e9546d9f037d934": "2026-11-06T23:01:44.354082+09:00",
-    "e28ff03cd17e7dcd8fa47c1265e1f90b8066b06c217fc87ade2b7cb4b6b86289": "2026-11-06T23:01:44.354082+09:00"
+    "e28ff03cd17e7dcd8fa47c1265e1f90b8066b06c217fc87ade2b7cb4b6b86289": "2026-11-06T23:01:44.354082+09:00",
+    "89e20f41517c96579f10bc875da323a03e87161b1d9d7864260ce0259291da54": "2026-11-07T09:01:46.313119+09:00"
   },
   "pending": {},
   "ai": {
     "2026-11-03": 3,
     "2026-11-04": 15,
     "2026-11-05": 31,
-    "2026-11-06": 18
+    "2026-11-06": 18,
+    "2026-11-07": 1
   },
   "cursor": 0,
   "archive": {
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=314672": {
-      "title": "국립경국대 의대 신설… 경북 북부권 의료 혁신",
-      "summary": "교육병원을 건립 한다. 새 교육병원은 중증·응급·소아·분만 등 필수의료를 담당하며, 경북 북부권 거점 의료기관으로 육성될 예정이다. 지역·필수·공공의료를 책임질 지역 정착형 의사 교육과 수련, 정착을...",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314672",
-      "date": "Thu, 05 Nov 2026 08:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://biz.heraldcorp.com/article/10926376?ref=naver": {
-      "title": "[단독] 459억 몰아주기 있었나…특검, ‘사전투표지 발급기 사업 의혹’...",
-      "summary": "혐의로 압수수색 영장을 집행했다. 특검팀은 2023년 말 중앙선관위 선거기반과장으로 일했으며 현재는... 김포와 대구 소재 업체 등 5곳도 업무상 배임과 입찰방해 혐의로 수사하고 있다. 특검팀은 압수 물 분석을 바탕으로...",
-      "url": "https://biz.heraldcorp.com/article/10926376?ref=naver",
-      "date": "Thu, 05 Nov 2026 08:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://kpenews.com/View.aspx?No=4298352": {
-      "title": "'파노라마 워크 준공 기념전' 포스코 미술관 광양, 관람객 발길 이어져",
-      "summary": "한국정경신문 최창윤 기­자 desk0223@nate.com [한국정경신문(광양)=최창윤 기자] 포스코 미술관 광양에서... 광양의 아름다운 자연, 작가의 창의적인 예술, 포스코 의 독보적인 기술이 만나 새로운 지역 명소가 탄생한...",
-      "url": "https://kpenews.com/View.aspx?No=4298352",
-      "date": "Thu, 05 Nov 2026 08:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mhns.co.kr/news/articleView.html?idxno=767641": {
-      "title": "한국 거래소, '대왕고래' 관련 이상거래 통보…금융위 자료제출 거부",
-      "summary": "5일 국회 예산결산특별위원회 권향엽 의원이 감사원에서 제출받은 '동해 심해 가스전 사업 진행에 대한 공익감사청구 감사보고서'에 따르면, 거래소는 2024년 9월 13일 한국가스공사 와 A기업 주식거래 심리 결과를...",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=767641",
-      "date": "Thu, 05 Nov 2026 08:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.g-enews.com/view.php?ud=202611042205274427d9ce08d08_1": {
-      "title": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익...",
-      "summary": "한국수력원자력 은 약 324만7130㎡(약 98만2000평)에 1.4GW급 원전 2기를 건설할 계획이다. 총발전용량은 2.8GW로, 지난 6월 영덕군이 신규 원전 후보부지로 선정되면서 후속 절차가 진행되고 있다. 기후에너지환경부는 지난달...",
-      "url": "https://www.g-enews.com/view.php?ud=202611042205274427d9ce08d08_1",
-      "date": "Thu, 05 Nov 2026 08:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yV2pCX2JWbFJka3ZXSjQ0OHc0T3JQdmlBSGdMSnJZdXRMR2dMUFZPb2J0aWpJem5TN0pjcDNlWFBVTEwxWnNsX2k0ME9fREowdWNrWXp3Ynhka09xdVlZLXctUUdjVDRhQU9KbGFFRmVacE0?oc=5": {
-      "title": "고령군, 2026년 농업 노동자 기숙사 건립 지원 선정 - 스트레이트뉴스",
-      "summary": "고령군, 2026년 농업 노동자 기숙사 건립 지원 선정 스트레이트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yV2pCX2JWbFJka3ZXSjQ0OHc0T3JQdmlBSGdMSnJZdXRMR2dMUFZPb2J0aWpJem5TN0pjcDNlWFBVTEwxWnNsX2k0ME9fREowdWNrWXp3Ynhka09xdVlZLXctUUdjVDRhQU9KbGFFRmVacE0?oc=5",
-      "date": "Wed, 04 Nov 2026 23:29:29 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjhOelNKbXJVbzRHT1B0c1VrNEJSaGtudURueWFyeUNHeUtyNUZlSUZodm13TFkxVFVZQVlBM3hPNUlVS05iOGdYOWJoZHdTNUNqdHBVams1djlzQTRVVm8zQ1FGTG44QXJuTFdMM2p5aUxjXzg0cGRIVERQTDd5ZFA0WkYtVzNERmc?oc=5": {
-      "title": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익은 - 글로벌이코노믹",
-      "summary": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익은 글로벌이코노믹",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjhOelNKbXJVbzRHT1B0c1VrNEJSaGtudURueWFyeUNHeUtyNUZlSUZodm13TFkxVFVZQVlBM3hPNUlVS05iOGdYOWJoZHdTNUNqdHBVams1djlzQTRVVm8zQ1FGTG44QXJuTFdMM2p5aUxjXzg0cGRIVERQTDd5ZFA0WkYtVzNERmc?oc=5",
-      "date": "Wed, 04 Nov 2026 23:26:45 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.hidomin.com/news/articleView.html?idxno=728082": {
       "title": "고령군, '농업노동자 기숙사 건립 지원 사업' 선정",
       "summary": "국민의힘 정희용 국회의원( 경북 고령·성주·칠곡)은 고령군이 농림축산식품부의 '2026년 농업 노동자 기숙사 건립 지원 사업'에 선정됐다고 5일 밝혔다. 고령군은 농업 노동자 기숙사 건립 지원 사업 중 '농협 유휴시설...",
@@ -7121,6 +7033,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://biz.heraldcorp.com/article/10929084?ref=naver": {
+      "title": "경주시, 명계3산단에 태영테크 명계공장 준공",
+      "summary": "경북 경주시 내남면 명계3일반산업단지에 자동차 부품 전문기업 태영테크(주)의 신공장이 들어섰다.... 태영테크(주)는 지난해 7월 경주시와 151억원 규모의 자동차 부품 신공장 건립을 위한 투자양해각서( MOU )를 체결하고...",
+      "url": "https://biz.heraldcorp.com/article/10929084?ref=naver",
+      "date": "Sat, 07 Nov 2026 08:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5": {
+      "title": "'말'보다 '눈'으로…한수원, 합천양수 주민을 공사 현장 앞에 세웠다 - 에너지안전신문",
+      "summary": "'말'보다 '눈'으로…한수원, 합천양수 주민을 공사 현장 앞에 세웠다 에너지안전신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5",
+      "date": "Fri, 06 Nov 2026 23:19:48 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {},
@@ -9347,18 +9285,23 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5",
       "title": "경주시, 태영테크 명계3산단 신공장 준공…151억 투자 결실 - 국제뉴스",
       "date": "Fri, 06 Nov 2026 13:10:09 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5",
+      "title": "'말'보다 '눈'으로…한수원, 합천양수 주민을 공사 현장 앞에 세웠다 - 에너지안전신문",
+      "date": "Fri, 06 Nov 2026 23:19:48 GMT"
     }
   ],
   "brief_articles": [],
   "gemini_ai": {
-    "2026-10-30": 52,
     "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
     "2026-11-03": 37,
     "2026-11-04": 14,
     "2026-11-05": 11,
-    "2026-11-06": 11
+    "2026-11-06": 11,
+    "2026-11-07": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
