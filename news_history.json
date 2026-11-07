@@ -1612,7 +1612,12 @@
     "http://www.inews24.com/view/2023713": "2026-11-07T19:02:04.219434+09:00",
     "https://www.jasm.co.kr/news/view/324534/?sc=Naver": "2026-11-07T19:02:04.219434+09:00",
     "https://www.kado.net/news/articleView.html?idxno=2083199": "2026-11-07T19:02:04.219434+09:00",
-    "https://www.chosun.com/economy/tech_it/2026/11/07/VJAMG77MGJEPVCLZO6B7YFTIFA/": "2026-11-07T19:02:04.219434+09:00"
+    "https://www.chosun.com/economy/tech_it/2026/11/07/VJAMG77MGJEPVCLZO6B7YFTIFA/": "2026-11-07T19:02:04.219434+09:00",
+    "https://www.ngonews.kr/news/articleView.html?idxno=242574": "2026-11-07T20:01:59.687242+09:00",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZ9IBckFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZw?oc=5": "2026-11-07T20:01:59.687242+09:00",
+    "https://www.mt.co.kr/industry/2026/11/07/2026110719110614930": "2026-11-07T20:01:59.687242+09:00",
+    "https://www.sidae.com/article/2026110717514317403": "2026-11-07T20:01:59.687242+09:00",
+    "https://www.newsinside.kr/news/articleView.html?idxno=5042797": "2026-11-07T20:01:59.687242+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2727,7 +2732,12 @@
     "e8a5e67756a37e767b51e2394bf48a5fa23045bc6f8173550a4cf94b2d138a4c": "2026-11-07T19:02:04.219434+09:00",
     "b0c48b0b7afa906d6e987ced41eb22be5c5394a3b9b341cffab942521284c016": "2026-11-07T19:02:04.219434+09:00",
     "385547feae8438b5a9467d93d31d30567b98aac717120b6f84fad15820f9c860": "2026-11-07T19:02:04.219434+09:00",
-    "30eed43ca220a2efa9c1083b289c7f625e2c05974348ea904cb4ae1f71f95030": "2026-11-07T19:02:04.219434+09:00"
+    "30eed43ca220a2efa9c1083b289c7f625e2c05974348ea904cb4ae1f71f95030": "2026-11-07T19:02:04.219434+09:00",
+    "95007d3919a7b288156e5039186760e42a81728e19716e38c6ced5a98d79f103": "2026-11-07T20:01:59.687242+09:00",
+    "d128bcdd4c6319912366675de01570a07b0c0de4b36c303f9cd3fc91e7470ff5": "2026-11-07T20:01:59.687242+09:00",
+    "e26c40a9cf200459a220edca1e84b8c54ff424458d3f5dd9d2a9d2b19f733ff1": "2026-11-07T20:01:59.687242+09:00",
+    "4510a544dac4ff82c651a41a79f084954a49d63cec65eb21f65a0e27337104fe": "2026-11-07T20:01:59.687242+09:00",
+    "e6e1c0329c42dcc260da7e725eea75eb064bff6000994c1190ee3f997e866efa": "2026-11-07T20:01:59.687242+09:00"
   },
   "pending": {},
   "ai": {
@@ -2739,97 +2749,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.vegannews.co.kr/news/article.html?no=401044": {
-      "title": "에코프로 에이치엔 3분기 매출 528억·영업익 113억",
-      "summary": "영업이익은 전년 동기보다 386.3% 증가 에코프로 에이치엔(383310)은 5일 공시한 2026년 3분기 연결 기준 잠정 실적에서 매출 528억원, 영업이익 113억원을 기록했다. 전년 동기 대비 매출은 86.0%, 영업이익은 386.3...",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=401044",
-      "date": "Thu, 05 Nov 2026 19:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.vegannews.co.kr/news/article.html?no=401041": {
-      "title": "에코프로 3분기 매출 8107억원…영업이익 92.5% 감소",
-      "summary": "1~3분기 누적 영업이익은 1011억원 에코프로 (086520)는 2026년 3분기 연결 기준 매출 8107억원, 영업이익 112억원을 기록했다. 5일 금융감독원 전자공시시스템에 제출한 잠정 실적에서 영업이익은 전년 동기보다 92.5...",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=401041",
-      "date": "Thu, 05 Nov 2026 19:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489055": {
-      "title": "에코프로 , 3분기 매출 8107억원·영업이익 112억원",
-      "summary": "에코프로 그룹이 메탈 가격 하락과 환율 약세 등 대외 여건 악화에도 올해 3분기 흑자 기조를 유지했다. 다만 영업이익은 전 분기보다 66.7% 감소한 가운데 북미 신규 고객사 확보와 인도네시아 제련소 가동률 회복, 환경...",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489055",
-      "date": "Thu, 05 Nov 2026 19:05:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.ttlnews.com/news/articleView.html?idxno=3159342": {
-      "title": "엘앤에프 , 3분기 매출 8744억원 기록… 하이니켈 판매로 흐름 유지",
-      "summary": "이차전지 양극재 전문 제조사 엘앤에프 가 2026년 3분기 외형 성장 속에서도 환율 급락과 광물 가격... 엘앤에프 가 11월 5일 공시한 분기 잠정 실적에 따르면, 2026년 3분기 연결 기준 매출액은 전년 동기 대비 34.0...",
-      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3159342",
-      "date": "Thu, 05 Nov 2026 19:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtd09BZk5HMzBKX0ZROG5SN2xNdy13R1lSM2owbEtZOGxNMHlySnFyYjBlQ29yUG40cTJITVFncjFOd1lRM3gzY3FaLXFHb3BwbXl2WkY3SFRweHgtdWwwQmlHU0tfV2VZNno4RFRMVQ?oc=5": {
-      "title": "무주~대구 고속도로 예타 통과할까…안호영 의원, KDI에 투자 변화 반영 요청 - 월드장애인사랑뉴스",
-      "summary": "무주~대구 고속도로 예타 통과할까…안호영 의원, KDI에 투자 변화 반영 요청 월드장애인사랑뉴스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtd09BZk5HMzBKX0ZROG5SN2xNdy13R1lSM2owbEtZOGxNMHlySnFyYjBlQ29yUG40cTJITVFncjFOd1lRM3gzY3FaLXFHb3BwbXl2WkY3SFRweHgtdWwwQmlHU0tfV2VZNno4RFRMVQ?oc=5",
-      "date": "Thu, 05 Nov 2026 10:29:37 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nM0xsZGRGNzEyNzdaTlF3dnlScHZMQXBCRHhrWFVRTXFNaVNHU2ljTFlseE50XzFqTXNRZE5qQm9wbHN2WmRfQnF3QjlNblNyM1o0clEyX1FHNGpFRzRWREllT3E2U05Cb2ZF0gFvQVVfeXFMUEpwYi1WVjB2ajFJMjNUQ3FJR0FYcXFwekhTZmd6b01fcTdPazVBOTlQcHpkdWU1Um83ZFlhMU5NbDhvSVlOUWlfVVVtdmJwdldWQU1iRTkzRjVDMHF6U3FyVmdYVndKcnAtOVVRZC1r?oc=5": {
-      "title": "구미 공단동 도시재생혁신지구 착공…2030년 하반기 준공 목표 - 핫콘뉴스",
-      "summary": "구미 공단동 도시재생혁신지구 착공…2030년 하반기 준공 목표 핫콘뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nM0xsZGRGNzEyNzdaTlF3dnlScHZMQXBCRHhrWFVRTXFNaVNHU2ljTFlseE50XzFqTXNRZE5qQm9wbHN2WmRfQnF3QjlNblNyM1o0clEyX1FHNGpFRzRWREllT3E2U05Cb2ZF0gFvQVVfeXFMUEpwYi1WVjB2ajFJMjNUQ3FJR0FYcXFwekhTZmd6b01fcTdPazVBOTlQcHpkdWU1Um83ZFlhMU5NbDhvSVlOUWlfVVVtdmJwdldWQU1iRTkzRjVDMHF6U3FyVmdYVndKcnAtOVVRZC1r?oc=5",
-      "date": "Thu, 05 Nov 2026 10:10:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LRmRYS1ZXc1diMUJ6YXJ1V1VBaTliQy11NkYyTzdBZm96NVlNemNkTVA5QzhZc0hRblhFbEloN0hFTFIzRGUxZ2VBcENCc2tKT1JINmFHWTJTbF8yeTE3M3MtNEZCNDJsVXVZ?oc=5": {
-      "title": "에코프로, 3Q 누적 매출 2조 4504억원·영업익 1011억원 - 마일드경제",
-      "summary": "에코프로, 3Q 누적 매출 2조 4504억원·영업익 1011억원 마일드경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LRmRYS1ZXc1diMUJ6YXJ1V1VBaTliQy11NkYyTzdBZm96NVlNemNkTVA5QzhZc0hRblhFbEloN0hFTFIzRGUxZ2VBcENCc2tKT1JINmFHWTJTbF8yeTE3M3MtNEZCNDJsVXVZ?oc=5",
-      "date": "Thu, 05 Nov 2026 10:37:54 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892": {
       "title": "에코프로 , 3분기 영업이익 112억원…흑자 유지에도 전분기보다 급감",
       "summary": "전구체 사업을 담당하는 에코프로머티리얼즈 는 3분기 매출 1천811억 원으로 전분기(1천788억 원) 대비 23억 원 늘었으나 영업이익은 적자를 보였다. 이는 환율과 메탈 가격 약세 등 대외 요인이 복합적으로 작용하며...",
@@ -4897,6 +4816,71 @@
       "basis": "관심기업: 한국가스공사",
       "category": "산재·사업장 사고",
       "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.ngonews.kr/news/articleView.html?idxno=242574": {
+      "title": "포스코 노조, 임금 잠정합의안 부결…\"반대 51.7%\"",
+      "summary": "포스코 노사의 올해 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결됐다. 대표 교섭노조인 한국노총 금속노련 포스코 노동조합은 7일 회사 측과 잠정 합의한 임금 교섭안을 놓고 조합원 찬반투표를 한 결과 찬성...",
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=242574",
+      "date": "Sat, 07 Nov 2026 19:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.mt.co.kr/industry/2026/11/07/2026110719110614930": {
+      "title": "포스코 임단협 잠정합의안, 노조원 투표 '부결'…반대 51.7%",
+      "summary": "포스코 임금·단체협약 잠정합의안이 노조원 찬반투표의 벽을 넘지 못했다. 한국노동조합총연맹 전국금속노동조합연맹 포스코 노동조합은 7일 오전 6시부터 오후 5시까지 진행된 임단협 잠정합의안 찬반투표 결과...",
+      "url": "https://www.mt.co.kr/industry/2026/11/07/2026110719110614930",
+      "date": "Sat, 07 Nov 2026 19:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.sidae.com/article/2026110717514317403": {
+      "title": "포스코 노조, 임금 잠정합의안 51.7% 반대로 부결",
+      "summary": "포스코 노사가 마련한 2026년 임금·단체협약 잠정합의안이 노동조합 찬반투표에서 부결됐다. 7일 포스코 노사에 따르면 이날 진행된 잠정합의안 찬반투표에는 전체 조합원 가운데 9177명이 참여했으며 찬성 4433표(48.3...",
+      "url": "https://www.sidae.com/article/2026110717514317403",
+      "date": "Sat, 07 Nov 2026 19:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsinside.kr/news/articleView.html?idxno=5042797": {
+      "title": "포스코 노조, 임금 잠정합의안 부결…교섭 원점",
+      "summary": "포스코 노사가 약 5개월간의 교섭과 두 차례 부분파업 끝에 마련한 올해 임금교섭 잠정합의안이 조합원... 한국노동조합총연맹 전국금속노동조합연맹 포스코 노동조합은 올해 임금교섭 잠정합의안에 대한 조합원...",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5042797",
+      "date": "Sat, 07 Nov 2026 19:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZ9IBckFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZw?oc=5": {
+      "title": "포스코 임단협 잠정합의안, 노조원 투표 '부결'…반대 51.7% - 머니투데이 - 머니투데이",
+      "summary": "포스코 임단협 잠정합의안, 노조원 투표 '부결'…반대 51.7% - 머니투데이 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZ9IBckFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZw?oc=5",
+      "date": "Sat, 07 Nov 2026 10:16:36 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
       "filter_version": 17
     }
   },
@@ -7284,6 +7268,31 @@
       "url": "https://www.chosun.com/economy/tech_it/2026/11/07/VJAMG77MGJEPVCLZO6B7YFTIFA/",
       "title": "포스코 노조, 임협 잠정합의안 부결",
       "date": "Sat, 07 Nov 2026 18:01:00 +0900"
+    },
+    {
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=242574",
+      "title": "포스코 노조, 임금 잠정합의안 부결…\"반대 51.7%\"",
+      "date": "Sat, 07 Nov 2026 19:28:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZ9IBckFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZw?oc=5",
+      "title": "포스코 임단협 잠정합의안, 노조원 투표 '부결'…반대 51.7% - 머니투데이 - 머니투데이",
+      "date": "Sat, 07 Nov 2026 10:16:36 GMT"
+    },
+    {
+      "url": "https://www.mt.co.kr/industry/2026/11/07/2026110719110614930",
+      "title": "포스코 임단협 잠정합의안, 노조원 투표 '부결'…반대 51.7%",
+      "date": "Sat, 07 Nov 2026 19:16:00 +0900"
+    },
+    {
+      "url": "https://www.sidae.com/article/2026110717514317403",
+      "title": "포스코 노조, 임금 잠정합의안 51.7% 반대로 부결",
+      "date": "Sat, 07 Nov 2026 19:12:00 +0900"
+    },
+    {
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5042797",
+      "title": "포스코 노조, 임금 잠정합의안 부결…교섭 원점",
+      "date": "Sat, 07 Nov 2026 19:10:00 +0900"
     }
   ],
   "brief_articles": [],
