@@ -1620,7 +1620,9 @@
     "https://www.newsinside.kr/news/articleView.html?idxno=5042797": "2026-11-07T20:01:59.687242+09:00",
     "https://www.nocutnews.co.kr/news/6603585": "2026-11-07T21:02:46.966535+09:00",
     "https://view.asiae.co.kr/article/2026110720111507931": "2026-11-07T21:02:46.966535+09:00",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=285401": "2026-11-07T21:02:46.966535+09:00"
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285401": "2026-11-07T21:02:46.966535+09:00",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A": "2026-11-07T22:01:44.820681+09:00",
+    "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052": "2026-11-07T22:01:44.820681+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2743,7 +2745,9 @@
     "e6e1c0329c42dcc260da7e725eea75eb064bff6000994c1190ee3f997e866efa": "2026-11-07T20:01:59.687242+09:00",
     "b38fbacc15bd015ac53168f9a47c28a8df7f697255e907df5a49bc2c0fa5c427": "2026-11-07T21:02:46.966535+09:00",
     "5ef493aec6def2b2ae1b4c7283955ec5ed37e84be6ca60108a4309280b682121": "2026-11-07T21:02:46.966535+09:00",
-    "19031078a8a407bbd8ddf848e3b17c2a8eb3e7713a734ff46b561599287a11a8": "2026-11-07T21:02:46.966535+09:00"
+    "19031078a8a407bbd8ddf848e3b17c2a8eb3e7713a734ff46b561599287a11a8": "2026-11-07T21:02:46.966535+09:00",
+    "fc5aadd63285ca96604ac04dbf38e782c5d384ce494a287bdcc3036102e4ee00": "2026-11-07T22:01:44.820681+09:00",
+    "2d33eb4dc16350220b95f07e8b1be8bde554c1bc23137bb0cc0283f38896fe52": "2026-11-07T22:01:44.820681+09:00"
   },
   "pending": {},
   "ai": {
@@ -2751,88 +2755,10 @@
     "2026-11-04": 15,
     "2026-11-05": 31,
     "2026-11-06": 18,
-    "2026-11-07": 5
+    "2026-11-07": 6
   },
   "cursor": 0,
   "archive": {
-    "http://www.breaknews.com/1248782": {
-      "title": "대구 시 “원상복구 명령 유효”…성서공단 폐수 반입 논란에 공유재산...",
-      "summary": "성서공단 내 시설 설치 역시 변경 허가 조건과 대구 시의 보완 요구 에 따른... 고농도 침출수 반입 우려에 대해서는 원수를 그대로 반입하려던 것은 아니라고 해명 했...",
-      "url": "http://www.breaknews.com/1248782",
-      "date": "Thu, 05 Nov 2026 21:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564600": {
-      "title": "대구 서 공장 화재 매년 100건씩 발생",
-      "summary": "대구 전체 화재 통계에서도 부주의와 전기적 요인이 주요 화재 원인으로 나타났다. 올해 같은 기간 대구 에선 1천100건의 화재 가 발생했으며 화재 원인으론 부주의가 37.8%(416건), 전기적 요인이 30.5%(336건)로 집계됐다....",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564600",
-      "date": "Thu, 05 Nov 2026 21:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.pointdaily.co.kr/news/articleView.html?idxno=324965": {
-      "title": "에코프로 비엠, 3분기 영업이익 120억원…전년비 76.2% 급감",
-      "summary": "에코배터리 포항캠퍼스 에코프로 비엠 CAM7 전경사진. 사진= 에코프로 비엠 에코프로 비엠이 북미 전기차 시장의 성장 둔화에도 에너지저장장치(ESS)와 산업용 배터리 소재 매출 증가에 힘입어 7분기 연속 영업흑자를...",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324965",
-      "date": "Thu, 05 Nov 2026 21:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489033": {
-      "title": "에코프로 비엠, 3분기 영업이익 120억원···7분기 연속 흑자",
-      "summary": "에코프로 비엠이 북미 전기차 시장의 성장 둔화에도 인공지능(AI) 데이터센터와 에너지저장장치(ESS)용 양극재 수요 증가에 힘입어 7분기 연속 흑자를 기록했다. 전기차 중심의 사업 구조에서 ESS와 파워 애플리케이션...",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489033",
-      "date": "Thu, 05 Nov 2026 21:05:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886206": {
-      "title": "에코프로 , 악재 속 3분기 흑자 수성... 북미 신규 수주로 반등 노린다",
-      "summary": "핵심 계열사인 에코프로비엠 은 전기차 캐즘(일시적 수요 정체) 여파로 전체 매출이 소폭 감소했음에도, 인공지능(AI) 산업 팽창에 따른 에너지저장장치(ESS) 수요 증가에 힘입어 5579억 원의 매출과 120억 원의 영업이익을...",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886206",
-      "date": "Thu, 05 Nov 2026 21:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WR0daTzRaSzlheWQ2aTJZT09JYjdPM0tzMUdOckhLSTlkb2MtbnliYUhPLTQzczdQNXhXVlpOUWZqMjNBejlTMTNMMmkzNUVSZTNrMDBPWURhZ3Z5QktPLVhYa3lfZVI0bUpZ?oc=5": {
-      "title": "구미 1공단, 2,719억 투입해 산업·문화·주거 복합거점으로 탈바꿈…2030년 준공 - 미디어디펜스",
-      "summary": "구미 1공단, 2,719억 투입해 산업·문화·주거 복합거점으로 탈바꿈…2030년 준공 미디어디펜스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WR0daTzRaSzlheWQ2aTJZT09JYjdPM0tzMUdOckhLSTlkb2MtbnliYUhPLTQzczdQNXhXVlpOUWZqMjNBejlTMTNMMmkzNUVSZTNrMDBPWURhZ3Z5QktPLVhYa3lfZVI0bUpZ?oc=5",
-      "date": "Thu, 05 Nov 2026 12:06:51 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5": {
       "title": "대구 북구,‘별 따라 맛집, 선물 가득 이벤트’진행 - 시사뉴스",
       "summary": "대구 북구,‘별 따라 맛집, 선물 가득 이벤트’진행 시사뉴스",
@@ -4894,6 +4820,45 @@
       "summary": "한국노총 금속노련 포스코 노동조합이 7일 회사 측과 잠정 합의한 올해 임금 교섭안을 놓고 조합원 찬반투표를 진행한 결과, 반대 51.69%(4744표) 및 찬성 48.31%(4433표)로 최종 부결됐다. ​이에 따라 포스코 노사는...",
       "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285401",
       "date": "Sat, 07 Nov 2026 20:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A": {
+      "title": "포스코 노조, 임금 잠정 합의안 부결…재협상",
+      "summary": "올해 포스코 노사의 임금 교섭 잠정 합의안이 부결됐습니다. 한국노총 포스코 노조는 사측과 잠정 합의한 임금 교섭안에 대해 찬반투표를 벌인 결과, 반대 51.7%, 찬성 48.3%로 부결됐다고 밝혔습니다.",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A",
+      "date": "Sat, 07 Nov 2026 21:35:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052": {
+      "title": "포스코 노조, 임금 잠정 합의안 반대 51.69% '부결'",
+      "summary": "포스코 노사의 올해(2026년) 임금교섭 잠정 합의안이 조합원 투표에서 부결됐습니다. 한국노총 금속노련 포스코 노동조합은 오늘(7일) 회사 측과 잠정 합의한 임금 교섭안을 놓고 찬반투표를 벌인 결과 찬성 48.31...",
+      "url": "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052",
+      "date": "Sat, 07 Nov 2026 21:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newstomato.com/ReadNews.aspx?no=1319601&inflow=N": {
+      "title": "‘첫 파업’ 포스코 노조, 잠정합의안 ‘부결’…찬반 311표 차",
+      "summary": "포스코 포항제철소 .(사진=연합뉴스) 한국노총 금속노련 포스코노동조합은 7일 조합원을 대상으로 잠정합의안 찬반투표를 실시한 결과 찬성 48.31%(4433표), 반대 51.69%(4744표)로 부결됐다고 밝혔습니다. 반대표가...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1319601&inflow=N",
+      "date": "Sat, 07 Nov 2026 21:14:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -7327,6 +7292,16 @@
       "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285401",
       "title": "합의안 부결, 파업 끝 극적 합의 물거품… 포스코 임금 교섭 '안갯속'",
       "date": "Sat, 07 Nov 2026 20:02:00 +0900"
+    },
+    {
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A",
+      "title": "포스코 노조, 임금 잠정 합의안 부결…재협상",
+      "date": "Sat, 07 Nov 2026 21:35:00 +0900"
+    },
+    {
+      "url": "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052",
+      "title": "포스코 노조, 임금 잠정 합의안 반대 51.69% '부결'",
+      "date": "Sat, 07 Nov 2026 21:32:00 +0900"
     }
   ],
   "brief_articles": [],
@@ -7338,7 +7313,7 @@
     "2026-11-04": 14,
     "2026-11-05": 11,
     "2026-11-06": 11,
-    "2026-11-07": 3
+    "2026-11-07": 4
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
