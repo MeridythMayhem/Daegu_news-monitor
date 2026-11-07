@@ -1585,7 +1585,9 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS2loUmRWb3VmZVpKTFJMMEk2NzNLZmpNV3VjR055ZmlhVHRKWmZfWjZZSW9FM29nUjRYYWVJZXVkcHo2cVh3ZHNQUEx4WnUyOHNkdzhSa2ttaFlYaFNETHJBWUlLbG5Uc1Fr0gFvQVVfeXFMTVJkNjFUSWROa1hsdEJoWTlSbWdiNjZnaml2TjFwN1JzOGR3NFZFYl9aeEVyNlVBMVBLRjgyVk1LLUdLQUdKcjJIa3ZIZGVtaWJPQWhqNkpZODhoNWJqc3ZKWmRHTC0xckdOZDE1UXhN?oc=5": "2026-11-07T10:01:55.313848+09:00",
     "https://www.thepublic.kr/news/articleView.html?idxno=325530": "2026-11-07T10:01:55.313848+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502033": "2026-11-07T10:01:55.313848+09:00",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qN05jeU9lSmV3endHSXlvNlZJRGIwZWhtV1VjcHBKNU1Xa1JEdFVEVTlscWtHbEpYR01jUjhNbUowOFNNNG1NYTZuV2xNUEhKeVZGWGVZM2NoN0U1c2pBTlVZaXRkMFhQanlYTUpQR3lRVVU?oc=5": "2026-11-07T10:01:55.313848+09:00"
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qN05jeU9lSmV3endHSXlvNlZJRGIwZWhtV1VjcHBKNU1Xa1JEdFVEVTlscWtHbEpYR01jUjhNbUowOFNNNG1NYTZuV2xNUEhKeVZGWGVZM2NoN0U1c2pBTlVZaXRkMFhQanlYTUpQR3lRVVU?oc=5": "2026-11-07T10:01:55.313848+09:00",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1422853": "2026-11-07T11:01:45.933536+09:00",
+    "https://www.kpinews.kr/newsView/1065573603846673": "2026-11-07T11:01:45.933536+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2673,7 +2675,9 @@
     "3eff59b4f496f698c35936021a35f6e41f538ecf27a75f1e10acc3ce888b21c2": "2026-11-07T10:01:55.313848+09:00",
     "cfa281a58c1a1373056e067f0a6ea36cf6a5539e14e211cbe0f30534eed6986c": "2026-11-07T10:01:55.313848+09:00",
     "7eed4272d992aaa5c442427c2d7de45cc51ad816fc07fcba947d73b2a520b611": "2026-11-07T10:01:55.313848+09:00",
-    "7957958225f2d4ee4fd7d9f5485f998c9fce36eafd9b7a5a2db5eea98a635414": "2026-11-07T10:01:55.313848+09:00"
+    "7957958225f2d4ee4fd7d9f5485f998c9fce36eafd9b7a5a2db5eea98a635414": "2026-11-07T10:01:55.313848+09:00",
+    "a23f54d62328250f2ed721232097fa225129982d6f460a1efb446ae1afda20e1": "2026-11-07T11:01:45.933536+09:00",
+    "02d7e1c1e6deaf3589e7ae1bc79d2c3e1aed28b9c452eee73b289cf407cb906c": "2026-11-07T11:01:45.933536+09:00"
   },
   "pending": {},
   "ai": {
@@ -2685,344 +2689,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/05/2026110500082.html": {
-      "title": "구미시, 공단동 도시재생혁신지구 조성 착공식",
-      "summary": "뉴데일리 이현종 기자 = 경북 구미시가 5일 1국가산업단지인 공단동에서 김장호 시장을 비롯한 유관기관 및... 빌딩을 건립 한다. 혁신지구는 △산업융복합 혁신지구 △산업문화 복합지구 △근로상생 복합지구로 나눠...",
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/05/2026110500082.html",
-      "date": "Thu, 05 Nov 2026 10:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://biz.heraldcorp.com/article/10926681?ref=naver": {
-      "title": "10년 기다린 민간분양…‘ 경북 도청 푸르지오 퍼스티온’ 공급 [부동산3...",
-      "summary": "이 밖에 신도시 일대 도시첨단산업단지 조성과 경북 도립미술관 건립 도 본격화되고 있다. 국도 28·34·85호선이 연결돼 예천·안동·문경 등 경북 북부권 이동이 용이하며, 중앙고속도로 서안동IC 진입이 수월하다....",
-      "url": "https://biz.heraldcorp.com/article/10926681?ref=naver",
-      "date": "Thu, 05 Nov 2026 10:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kbmaeil.com/article/20261105500148": {
-      "title": "국립경국대 의대 신설 확정 예천 도청신도시, 의료·교육·산업 중심지...",
-      "summary": "의과대학은 입학정원 40명 규모로 2030년 개교를 목표로 하며, 대학병원은 500병상 이상 규모로 건립 될 계획이다. 이번 의대 신설로 가장 기대되는 변화는 경북 북부권의 의료 접근성 향상이다. 그동안 전문적인 진료를 받기...",
-      "url": "https://www.kbmaeil.com/article/20261105500148",
-      "date": "Thu, 05 Nov 2026 10:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.pressian.com/pages/articles/2026110509284912836": {
-      "title": "구미 시, 산업단지 재도약에 2719억 원 투입...도심은 전동킥보드와의 전...",
-      "summary": "구미 시는 인근 문화산단 조성사업과 청년드림타워, 호텔 건립 사업 등과 연계해 산업단지의 정주여건을 개선한다는 구상이다. 이번 사업의 실질적인 성과는 2030년 준공 시점에 얼마나 많은 기업과 근로자가 이 공간을...",
-      "url": "https://www.pressian.com/pages/articles/2026110509284912836",
-      "date": "Thu, 05 Nov 2026 10:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501516": {
-      "title": "대동 금속 상한가 직행…글로벌 인프라 투자 기대에 건설기계주 '불기둥...",
-      "summary": "이날 증시에서는 주물 부품 제조업체 대동 금속이 가격제한폭까지 치솟으며 강세를 주도하고 있다. 한국거래소에 따르면 이날 오후 10시42분 현재 대동 금속은 29.90% 오른 3345원에 거래되며 상한가를 기록했다. 건설기계와...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501516",
-      "date": "Thu, 05 Nov 2026 10:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ngonews.kr/news/articleView.html?idxno=242383": {
-      "title": "에코프로 비엠, 3분기 매출 5579억 원, 영업이익 120억 원…\"7분기 연속...",
-      "summary": "에코프로 비엠이 인공지능(AI) 데이터센터용 에너지저장장치(ESS)와 파워 애플리케이션 수요 증가에 힘입어 올해 3분기에도 흑자 기조를 이어갔다. 7분기 연속 흑자…ESS 매출 전분기 대비 173% 증가 에코프로 비엠은...",
-      "url": "https://www.ngonews.kr/news/articleView.html?idxno=242383",
-      "date": "Thu, 05 Nov 2026 10:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.livebiz.today/news/articleView.html?idxno=206234": {
-      "title": "에코프로 비엠, 북미 전기차 시장 둔화에 3Q 실적 부진...영업익 76% 급감",
-      "summary": "에코프로 비엠이 북미 전기차(EV) 시장 둔화의 영향으로 올해 3분기 영업이익이 약 76% 급감했다. 에코프로 비엠은 5일 실적 공시를 통해 연결기준 3분기 매출 5579억원, 영업이익 120억원을 기록했다고 밝혔다. 매출과...",
-      "url": "https://www.livebiz.today/news/articleView.html?idxno=206234",
-      "date": "Thu, 05 Nov 2026 10:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.dailian.co.kr/news/view/1711138/?sc=Naver": {
-      "title": "에코프로 비엠, 3분기 영업익 120억원…ESS 매출 173% 증가",
-      "summary": "에코프로 비엠이 인공지능(AI) 데이터센터용 에너지저장장치(ESS)와 파워 애플리케이션 수요 증가로 7분기 연속 영업이익 흑자를 이어갔다. 에코프로 비엠은 올해 3분기 연결 기준 매출 5579억원, 영업이익 120억원을...",
-      "url": "https://www.dailian.co.kr/news/view/1711138/?sc=Naver",
-      "date": "Thu, 05 Nov 2026 10:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.cctimes.kr/news/articleView.html?idxno=935690": {
-      "title": "에코프로 비엠, 3분기 매출 5579억, 영업이익 120억… 7분기 연속 흑자",
-      "summary": "▲ 에코프로 비엠 2026년 3분기 연결 실적(표)./ 에코프로 비엠 제공 에코프로 비엠이 인공지능(AI) 데이터센터용 에너지저장장치(ESS)와 파워 애플리케이션 수요 증가에 힘입어 3분기에도 흑자 기조를 유지했다. 회사는...",
-      "url": "http://www.cctimes.kr/news/articleView.html?idxno=935690",
-      "date": "Thu, 05 Nov 2026 10:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451230": {
-      "title": "에코프로 비엠 3분기 영업이익 120억으로 76.2% 감소, ESS용 양극재 매출...",
-      "summary": "에코프로 비엠은 2026년 3분기 연결기준으로 매출 5579억 원, 영업이익 120억 원, 순손실 18억 원을 거둔 것으로 잠정 집계했다고 5일 공시했다. 지난해 3분기보다 매출은 10.7% 줄고, 영업이익은 76.2% 감소한 것이다....",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451230",
-      "date": "Thu, 05 Nov 2026 10:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ccreview.co.kr/news/articleView.html?idxno=361885": {
-      "title": "에코프로 비엠, 3분기 영업이익 120억원…7분기 연속 흑자",
-      "summary": "충북 청주 오창에 본사를 둔 에코프로 비엠이 3분기 영업이익 120억원을 기록하며 7분기 연속 흑자를 이어간다. 에코프로 비엠은 5일 올해 3분기 매출은 5579억원, 영업이익은 120억원으로 집계됐다고 발표했다. 회사에...",
-      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=361885",
-      "date": "Thu, 05 Nov 2026 10:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsway.co.kr/news/view?ud=2026110510085166475": {
-      "title": "에코프로 비엠, 7분기 연속 흑자…ESS 매출 173%↑",
-      "summary": "에코프로 비엠이 전기차 수요 둔화 속에서도 AI데이터센터용 에너지저장장치(ESS)와 파워 애플리케이션 판매를 늘리며 7분기 연속 영업이익 흑자를 이어갔다. 에코프로 비엠은 올해 3분기 연결 기준 매출 5579억원...",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026110510085166475",
-      "date": "Thu, 05 Nov 2026 10:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.econovill.com/news/articleView.html?idxno=756108": {
-      "title": "에코프로 비엠, 3Q 영업이익 120억원…전년比 76%↓",
-      "summary": "에코프로 비엠이 올해 3분기 전기차 시장의 수요 둔화에도 에너지저장장치(ESS)와 파워 애플리케이션용 양극재 판매 확대에 힘입어 7분기 연속 영업흑자를 이어갔다. 그러나 매출과 영업이익은 전년 동기와 전 분기...",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=756108",
-      "date": "Thu, 05 Nov 2026 10:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.pointe.co.kr/news/articleView.html?idxno=87202": {
-      "title": "에코프로 비엠, 3분기 영업이익 120억원…7개 분기 연속 흑자",
-      "summary": "데이터센터용 에너지저장장치와 파워 애플리케이션 분야의 폭발적인 수요 확대가 에코프로 비엠의 3분기 흑자 행진을 든든하게 뒷받침했다. 비전기차 부문 도약이 이끈 연속 흑자 5일 에코프로 비엠이 공개한 3분기 연결...",
-      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87202",
-      "date": "Thu, 05 Nov 2026 10:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.etoday.co.kr/news/view/2644481": {
-      "title": "에코프로 비엠, 3분기 영업익 120억…ESS 매출 173%↑",
-      "summary": "이투데이=김민서 기자 | 전기차 수요 둔화에도 7개 분기 연속 흑자…헝가리 양산·인니 투자 확대 에코프로 비엠이 전기차 배터리용 양극재 판매 감소에도 에너지저장장치(ESS)와 파워 애플리케이션 부문의 성장에...",
-      "url": "https://www.etoday.co.kr/news/view/2644481",
-      "date": "Thu, 05 Nov 2026 10:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.fnnews.com/news/202611051002155429": {
-      "title": "\"ESS 매출, 전분기 대비 173% 증가\"… 에코프로 비엠 3분기 영업이익 120억...",
-      "summary": "에코프로 비엠의 ESS용 양극재 매출이 전분기보다 173% 늘어난 1236억원을 기록했고, 영업이익은 120억원으로 흑자를 이어갔다. 전기차용 매출은 2561억원으로 줄고 ESS와 파워 애플리케이션용이 늘어난 구성이어서, 전체...",
-      "url": "https://www.fnnews.com/news/202611051002155429",
-      "date": "Thu, 05 Nov 2026 10:11:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443169": {
-      "title": "에코프로 비엠, 3Q 영업이익 120억…EV 정체에 전년비 76%↓",
-      "summary": "에코프로 비엠[247540]이 전년 대비 큰 폭 감소한 3분기 실적을 기록했다. 에코프로 비엠은 3분기 매출액 5천579억원, 영업이익 120억원을 거뒀다고 5일 밝혔다. 매출은 전년 대비 11%, 영업이익은 76% 감소한 수준이다....",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443169",
-      "date": "Thu, 05 Nov 2026 10:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://biz.heraldcorp.com/article/10926638?ref=naver": {
-      "title": "에코프로 비엠, 3분기 영업이익 120억원…전년比 76% ↓",
-      "summary": "북미 EV 수요 정체·유럽 고객사 재고 소진 매출 5579억원·11%↓…영업이익률 2.2% 에코프로 비엠이 올해 3분기 영업이익 120억원을 기록해 전년 동기 대비 76% 감소했다고 5일 공시했다. 에코프로 비엠은 3분기 연결 기준...",
-      "url": "https://biz.heraldcorp.com/article/10926638?ref=naver",
-      "date": "Thu, 05 Nov 2026 10:05:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuZm1STElubkhQRWYxT3JfdExtM1pHUVlSM0x5cmFtTzhrbTVjNEhMaHdpcmRuODgzc0ZUaVZTdFZwZ2FKeVUxcWh5TVA1aHRVZGxyVjIzU1dFWVNNZXFFU1BIdTZNUENPTHc?oc=5": {
-      "title": "영천시, 청년창업기업 성장·투자유치 지원 강화 - www.hidomin.com",
-      "summary": "영천시, 청년창업기업 성장·투자유치 지원 강화 www.hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuZm1STElubkhQRWYxT3JfdExtM1pHUVlSM0x5cmFtTzhrbTVjNEhMaHdpcmRuODgzc0ZUaVZTdFZwZ2FKeVUxcWh5TVA1aHRVZGxyVjIzU1dFWVNNZXFFU1BIdTZNUENPTHc?oc=5",
-      "date": "Thu, 05 Nov 2026 01:29:35 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE14dFBwSlIxR2tGb1dkT3plQVYzd2IzZl9yTU10UzVGLUJwaW9CeHM5Y2RISTVIOWZrbUFxbzloNDFZT28teHlTdktPZmZlYk5GSUJfbmZlRUtvcXhjOWUzU0ZVeXdIN0liNHF3?oc=5": {
-      "title": "구미시, 산업단지 재도약에 2719억 원 투입...도심은 전동킥보드와의 전쟁 - 프레시안",
-      "summary": "구미시, 산업단지 재도약에 2719억 원 투입...도심은 전동킥보드와의 전쟁 프레시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14dFBwSlIxR2tGb1dkT3plQVYzd2IzZl9yTU10UzVGLUJwaW9CeHM5Y2RISTVIOWZrbUFxbzloNDFZT28teHlTdktPZmZlYk5GSUJfbmZlRUtvcXhjOWUzU0ZVeXdIN0liNHF3?oc=5",
-      "date": "Thu, 05 Nov 2026 01:29:34 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXaWRoOThFUGZNY3RDcHl1M0dvSlc5U0VKaXZjVE5HWkZoWEVHU3FhblBKOEt2d2VMSTBoM2hYQkN0bmZGbjRvbmxHaDM1QkM4MklrTFFrOXdCRTNIbjljTk9mcjYzRGJra1BVRzR3?oc=5": {
-      "title": "에코프로비엠, 전기차 부진에도 7분기 연속 흑자…ESS 매출 173% 급증 - 아시아투데이",
-      "summary": "에코프로비엠, 전기차 부진에도 7분기 연속 흑자…ESS 매출 173% 급증 아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXaWRoOThFUGZNY3RDcHl1M0dvSlc5U0VKaXZjVE5HWkZoWEVHU3FhblBKOEt2d2VMSTBoM2hYQkN0bmZGbjRvbmxHaDM1QkM4MklrTFFrOXdCRTNIbjljTk9mcjYzRGJra1BVRzR3?oc=5",
-      "date": "Thu, 05 Nov 2026 01:08:55 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWndLcDROd1hHamJkZ3pNbUtIMXBFMVBmbkFDWW5LUWNsaDlGWlFmUHhQWFJtRW9zV0NoVld0TENDdHJsWjh5bnMxcUR2OEtaSzJXX1JmcW92dC01SjBSMzZqbENXbXgyVldDdTRDWm92U1k?oc=5": {
-      "title": "에코프로비엠 3분기 영업이익 120억으로 76.2% 감소, ESS용 양극재 매출 25% 줄어 - 비즈니스포스트",
-      "summary": "에코프로비엠 3분기 영업이익 120억으로 76.2% 감소, ESS용 양극재 매출 25% 줄어 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lWndLcDROd1hHamJkZ3pNbUtIMXBFMVBmbkFDWW5LUWNsaDlGWlFmUHhQWFJtRW9zV0NoVld0TENDdHJsWjh5bnMxcUR2OEtaSzJXX1JmcW92dC01SjBSMzZqbENXbXgyVldDdTRDWm92U1k?oc=5",
-      "date": "Thu, 05 Nov 2026 01:14:38 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QVG8wMUtVZXgxeThnR0tBSU4weVB3b0FTdWgwSDgwa1ZmOHNlMUo5cFVWVXloQ3d1SXJWSEFVUXY5LXJETlpqZmtkNnJvYkNLdXUwQUVhSmFfdw?oc=5": {
-      "title": "\"ESS 매출, 전분기 대비 173% 증가\"…에코프로비엠 3분기 영업이익 120억원 - 파이낸셜뉴스",
-      "summary": "\"ESS 매출, 전분기 대비 173% 증가\"…에코프로비엠 3분기 영업이익 120억원 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QVG8wMUtVZXgxeThnR0tBSU4weVB3b0FTdWgwSDgwa1ZmOHNlMUo5cFVWVXloQ3d1SXJWSEFVUXY5LXJETlpqZmtkNnJvYkNLdXUwQUVhSmFfdw?oc=5",
-      "date": "Thu, 05 Nov 2026 01:10:58 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1a0JXNWg1aVQ3ZEdLSXo2Z1hqdGlvcHQwWEE0a3ZPTUgxeV9iRUFzQWo0cUJqdE5obEw3V21Ecm1IdmZTRUpiYmJEVVNtaGFjUFNUVDA2MnYxUndWRV9hd191NDZaTGhsU0E?oc=5": {
-      "title": "에코프로비엠, 7분기 연속 흑자···ESS 매출 173%↑ - 뉴스웨이",
-      "summary": "에코프로비엠, 7분기 연속 흑자···ESS 매출 173%↑ 뉴스웨이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1a0JXNWg1aVQ3ZEdLSXo2Z1hqdGlvcHQwWEE0a3ZPTUgxeV9iRUFzQWo0cUJqdE5obEw3V21Ecm1IdmZTRUpiYmJEVVNtaGFjUFNUVDA2MnYxUndWRV9hd191NDZaTGhsU0E?oc=5",
-      "date": "Thu, 05 Nov 2026 01:19:15 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zWXZxa1JMSGxVVGFhVXFiVHkwcFdfUnNoWHVfb2RTZFU5OG9TbDBZMDUyX05MUkhHQmlXOGxzVGItTkV6R0tDVm16WF9hZXAxM2l0QlVySF9XbTRSSEo0WGdGV0N4SXA1?oc=5": {
-      "title": "EcoPro BM Posts Q3 Operating Profit of 12 Billion Won, Down 76% YoY - 아시아경제",
-      "summary": "EcoPro BM Posts Q3 Operating Profit of 12 Billion Won, Down 76% YoY 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zWXZxa1JMSGxVVGFhVXFiVHkwcFdfUnNoWHVfb2RTZFU5OG9TbDBZMDUyX05MUkhHQmlXOGxzVGItTkV6R0tDVm16WF9hZXAxM2l0QlVySF9XbTRSSEo0WGdGV0N4SXA1?oc=5",
-      "date": "Thu, 05 Nov 2026 01:21:38 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1k0UHVNclZ1TTBWdFg0amtvY2RDVG5jSDVicGRhSjNvT0xDbXVMSzZ3blJWQWswS1U0TmQxVTV5dHBkcXA3WUpXNHFxMDJtOTNWRXgzZ1Jnb2VWUWRhdzZFVG1NOHJ0OXhQRURNc3hya3BEU2IxYjd6ajVzOXFoRE1iYUtob3JaZm85U3pHdHRtU2RmUTB6aUczMi1sTHlJc1VuX1VSX0doUnk1T2JwSTJES18?oc=5": {
-      "title": "Ecopro BM Reports Sharp Profitability Decline in Third Quarter - TipRanks",
-      "summary": "Ecopro BM Reports Sharp Profitability Decline in Third Quarter TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV1k0UHVNclZ1TTBWdFg0amtvY2RDVG5jSDVicGRhSjNvT0xDbXVMSzZ3blJWQWswS1U0TmQxVTV5dHBkcXA3WUpXNHFxMDJtOTNWRXgzZ1Jnb2VWUWRhdzZFVG1NOHJ0OXhQRURNc3hya3BEU2IxYjd6ajVzOXFoRE1iYUtob3JaZm85U3pHdHRtU2RmUTB6aUczMi1sTHlJc1VuX1VSX0doUnk1T2JwSTJES18?oc=5",
-      "date": "Thu, 05 Nov 2026 01:18:08 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 에코프로 · 계약/가동/실적 발표",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
     "https://www.hankookilbo.com/news/article/A2026110511090002054?did=NA": {
       "title": "경북 교육청, 경국대 의대 신설 맞춰 맞춤형 학습 지원 강화",
       "summary": "교육병원은 500병상 이상 규모로 건립 해 학생들의 임상교육과 전문 의료인력 수련을 담당하도록 할 방침이다. 경북 교육청은 2030학년도 개교 일정에 맞춰 의료·보건 계열 진학을 희망하는 학생들을 위한 교육과정을...",
@@ -6937,6 +6603,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://daily.hankooki.com/news/articleView.html?idxno=1422853": {
+      "title": "\"돌봄·복지·문화 한곳에\"…문경시, 모전동 커뮤니티센터 건립",
+      "summary": "사진=문경시 제공 경북 문경시가 모전동에 복합복지·문화공간을 조성한다. 문경시는 '행복1번지 커뮤니티센터 건립 사업'이 국토교통부 지역개발사업에 선정됐다고 7일 밝혔다. 이에 따라 시는 국비 112억원 등 총사업비...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422853",
+      "date": "Sat, 07 Nov 2026 10:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kpinews.kr/newsView/1065573603846673": {
+      "title": "크라카타우 포스코 , 인도네시아 반텐주 최우수 외국인 투자기업 선정",
+      "summary": "포스코 (POSCO)의 인도네시아 합작법인 '크라카타우 포스코 '가 반텐주 최우수 외국인 투자기업으로 선정됐다. 이번 수상은 한국과 인도네시아의 합작 일관제철 기업인 크라카타우 포스코 의 기업 지배구조와 운영체계가...",
+      "url": "https://www.kpinews.kr/newsView/1065573603846673",
+      "date": "Sat, 07 Nov 2026 10:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {},
@@ -9188,6 +8880,16 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qN05jeU9lSmV3endHSXlvNlZJRGIwZWhtV1VjcHBKNU1Xa1JEdFVEVTlscWtHbEpYR01jUjhNbUowOFNNNG1NYTZuV2xNUEhKeVZGWGVZM2NoN0U1c2pBTlVZaXRkMFhQanlYTUpQR3lRVVU?oc=5",
       "title": "신한투자증권 \"북미 전기차 부진에도…에코프로비엠, ESS·신규 고객으로 돌파구\" - 핀포인트뉴스",
       "date": "Sat, 07 Nov 2026 00:23:55 GMT"
+    },
+    {
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422853",
+      "title": "\"돌봄·복지·문화 한곳에\"…문경시, 모전동 커뮤니티센터 건립",
+      "date": "Sat, 07 Nov 2026 10:26:00 +0900"
+    },
+    {
+      "url": "https://www.kpinews.kr/newsView/1065573603846673",
+      "title": "크라카타우 포스코 , 인도네시아 반텐주 최우수 외국인 투자기업 선정",
+      "date": "Sat, 07 Nov 2026 10:02:00 +0900"
     }
   ],
   "brief_articles": [],
