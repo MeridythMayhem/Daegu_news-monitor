@@ -1622,7 +1622,11 @@
     "https://view.asiae.co.kr/article/2026110720111507931": "2026-11-07T21:02:46.966535+09:00",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=285401": "2026-11-07T21:02:46.966535+09:00",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A": "2026-11-07T22:01:44.820681+09:00",
-    "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052": "2026-11-07T22:01:44.820681+09:00"
+    "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052": "2026-11-07T22:01:44.820681+09:00",
+    "https://www.viva100.com/article/20261107500203": "2026-11-07T23:01:54.137564+09:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZV3dfYU0yTDl6WE93REFuU05TRzRqNzlGanRnWlNTWlh6SDNzWGxNTW80M2taR0E5Rzh0eVpDSjZ4TFVBOFJxSDB6SERRdFhDSTBCWXZLU2huQQ?oc=5": "2026-11-07T23:01:54.137564+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2015691": "2026-11-07T23:01:54.137564+09:00",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pejl3VnpBd2dBejY4MVRVVWhwcWVLX2RMZjBBOG9NVjRmS2g0R0NtQ28ybmQyc1RpbmtWY0M3bkR1MkVJMkxNU3czT2JpbzFlVmowNTRwWkNTTHpuMUNLbg?oc=5": "2026-11-07T23:01:54.137564+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2747,7 +2751,11 @@
     "5ef493aec6def2b2ae1b4c7283955ec5ed37e84be6ca60108a4309280b682121": "2026-11-07T21:02:46.966535+09:00",
     "19031078a8a407bbd8ddf848e3b17c2a8eb3e7713a734ff46b561599287a11a8": "2026-11-07T21:02:46.966535+09:00",
     "fc5aadd63285ca96604ac04dbf38e782c5d384ce494a287bdcc3036102e4ee00": "2026-11-07T22:01:44.820681+09:00",
-    "2d33eb4dc16350220b95f07e8b1be8bde554c1bc23137bb0cc0283f38896fe52": "2026-11-07T22:01:44.820681+09:00"
+    "2d33eb4dc16350220b95f07e8b1be8bde554c1bc23137bb0cc0283f38896fe52": "2026-11-07T22:01:44.820681+09:00",
+    "cf08be7e5ad96a532b12e81e7ddb297816a61a7cbd1660a3d7c1898b1e03d34d": "2026-11-07T23:01:54.137564+09:00",
+    "04265018af7413e096dfa934a355ee8959125ea55cb0d9ad88f031d84d2b1a3d": "2026-11-07T23:01:54.137564+09:00",
+    "143568f0902123c636ac6e169b7fcd515e144a5b8c1f26e945a58cf26656a86c": "2026-11-07T23:01:54.137564+09:00",
+    "93eb678fc1baa5bf85c1ee01ef5acf2b4959206709df79a50581283fad60d0c8": "2026-11-07T23:01:54.137564+09:00"
   },
   "pending": {},
   "ai": {
@@ -2755,23 +2763,10 @@
     "2026-11-04": 15,
     "2026-11-05": 31,
     "2026-11-06": 18,
-    "2026-11-07": 6
+    "2026-11-07": 7
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5": {
-      "title": "대구 북구,‘별 따라 맛집, 선물 가득 이벤트’진행 - 시사뉴스",
-      "summary": "대구 북구,‘별 따라 맛집, 선물 가득 이벤트’진행 시사뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5",
-      "date": "Thu, 05 Nov 2026 13:24:22 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.m-i.kr/news/articleView.html?idxno=2015158": {
       "title": "구미 1산단 공단동 도시재생혁신지구 착공…2719억원 투입",
       "summary": "구미 시는 이번 사업을 인근 문화산단 조성사업과 청년드림타워, 호텔 건립 사업 등과 연계할 방침이다. 산업시설 중심의 기존 산단에 문화와 주거 기능을 확대해 청년 인재와 기업의 유입을 촉진한다는 계획이다. 김장호...",
@@ -4859,6 +4854,58 @@
       "summary": "포스코 포항제철소 .(사진=연합뉴스) 한국노총 금속노련 포스코노동조합은 7일 조합원을 대상으로 잠정합의안 찬반투표를 실시한 결과 찬성 48.31%(4433표), 반대 51.69%(4744표)로 부결됐다고 밝혔습니다. 반대표가...",
       "url": "http://www.newstomato.com/ReadNews.aspx?no=1319601&inflow=N",
       "date": "Sat, 07 Nov 2026 21:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.viva100.com/article/20261107500203": {
+      "title": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차...",
+      "summary": "포스코 노사가 도출한 올해 임금교섭 첫 잠정합의안이 조합원 투표 문턱을 넘지 못했다. 내부 반발로... 7일 포스코 노조에 따르면 이날 진행한 2026년 단체교섭(임금교섭) 잠정합의안 찬반투표는 참여 조합원 9177명 중...",
+      "url": "https://www.viva100.com/article/20261107500203",
+      "date": "Sat, 07 Nov 2026 22:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2015691": {
+      "title": "포스코 노조, 임단협 잠정합의안 부결…반대 51.69%",
+      "summary": "매일일보 = 정경화 기자 | 포스코 노사가 창사 이래 첫 파업 등에 이어 도출한 올해 임금·단체협약 잠정합의안이 조합원 투표에서 최종 부결됐다. 7일 한국노총 금속노련 포스코 노동조합에 따르면 이날 조합원을...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2015691",
+      "date": "Sat, 07 Nov 2026 22:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pejl3VnpBd2dBejY4MVRVVWhwcWVLX2RMZjBBOG9NVjRmS2g0R0NtQ28ybmQyc1RpbmtWY0M3bkR1MkVJMkxNU3czT2JpbzFlVmowNTRwWkNTTHpuMUNLbg?oc=5": {
+      "title": "구미시, 「공단동 도시재생혁신지구 조성사업 착공식」 개최 - 구미일보",
+      "summary": "구미시, 「공단동 도시재생혁신지구 조성사업 착공식」 개최 구미일보",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pejl3VnpBd2dBejY4MVRVVWhwcWVLX2RMZjBBOG9NVjRmS2g0R0NtQ28ybmQyc1RpbmtWY0M3bkR1MkVJMkxNU3czT2JpbzFlVmowNTRwWkNTTHpuMUNLbg?oc=5",
+      "date": "Sat, 07 Nov 2026 13:03:46 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZV3dfYU0yTDl6WE93REFuU05TRzRqNzlGanRnWlNTWlh6SDNzWGxNTW80M2taR0E5Rzh0eVpDSjZ4TFVBOFJxSDB6SERRdFhDSTBCWXZLU2huQQ?oc=5": {
+      "title": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차 총파업’ 오나 - 브릿지경제",
+      "summary": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차 총파업’ 오나 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZV3dfYU0yTDl6WE93REFuU05TRzRqNzlGanRnWlNTWlh6SDNzWGxNTW80M2taR0E5Rzh0eVpDSjZ4TFVBOFJxSDB6SERRdFhDSTBCWXZLU2huQQ?oc=5",
+      "date": "Sat, 07 Nov 2026 13:35:00 GMT",
       "channels": [
         "domestic"
       ],
@@ -7302,6 +7349,26 @@
       "url": "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052",
       "title": "포스코 노조, 임금 잠정 합의안 반대 51.69% '부결'",
       "date": "Sat, 07 Nov 2026 21:32:00 +0900"
+    },
+    {
+      "url": "https://www.viva100.com/article/20261107500203",
+      "title": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차...",
+      "date": "Sat, 07 Nov 2026 22:36:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZV3dfYU0yTDl6WE93REFuU05TRzRqNzlGanRnWlNTWlh6SDNzWGxNTW80M2taR0E5Rzh0eVpDSjZ4TFVBOFJxSDB6SERRdFhDSTBCWXZLU2huQQ?oc=5",
+      "title": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차 총파업’ 오나 - 브릿지경제",
+      "date": "Sat, 07 Nov 2026 13:35:00 GMT"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2015691",
+      "title": "포스코 노조, 임단협 잠정합의안 부결…반대 51.69%",
+      "date": "Sat, 07 Nov 2026 22:06:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pejl3VnpBd2dBejY4MVRVVWhwcWVLX2RMZjBBOG9NVjRmS2g0R0NtQ28ybmQyc1RpbmtWY0M3bkR1MkVJMkxNU3czT2JpbzFlVmowNTRwWkNTTHpuMUNLbg?oc=5",
+      "title": "구미시, 「공단동 도시재생혁신지구 조성사업 착공식」 개최 - 구미일보",
+      "date": "Sat, 07 Nov 2026 13:03:46 GMT"
     }
   ],
   "brief_articles": [],
@@ -7313,7 +7380,7 @@
     "2026-11-04": 14,
     "2026-11-05": 11,
     "2026-11-06": 11,
-    "2026-11-07": 4
+    "2026-11-07": 5
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
