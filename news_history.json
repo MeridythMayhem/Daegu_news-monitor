@@ -1587,7 +1587,8 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502033": "2026-11-07T10:01:55.313848+09:00",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qN05jeU9lSmV3endHSXlvNlZJRGIwZWhtV1VjcHBKNU1Xa1JEdFVEVTlscWtHbEpYR01jUjhNbUowOFNNNG1NYTZuV2xNUEhKeVZGWGVZM2NoN0U1c2pBTlVZaXRkMFhQanlYTUpQR3lRVVU?oc=5": "2026-11-07T10:01:55.313848+09:00",
     "https://daily.hankooki.com/news/articleView.html?idxno=1422853": "2026-11-07T11:01:45.933536+09:00",
-    "https://www.kpinews.kr/newsView/1065573603846673": "2026-11-07T11:01:45.933536+09:00"
+    "https://www.kpinews.kr/newsView/1065573603846673": "2026-11-07T11:01:45.933536+09:00",
+    "https://www.etoday.co.kr/news/view/2645293": "2026-11-07T12:02:05.423144+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2677,7 +2678,8 @@
     "7eed4272d992aaa5c442427c2d7de45cc51ad816fc07fcba947d73b2a520b611": "2026-11-07T10:01:55.313848+09:00",
     "7957958225f2d4ee4fd7d9f5485f998c9fce36eafd9b7a5a2db5eea98a635414": "2026-11-07T10:01:55.313848+09:00",
     "a23f54d62328250f2ed721232097fa225129982d6f460a1efb446ae1afda20e1": "2026-11-07T11:01:45.933536+09:00",
-    "02d7e1c1e6deaf3589e7ae1bc79d2c3e1aed28b9c452eee73b289cf407cb906c": "2026-11-07T11:01:45.933536+09:00"
+    "02d7e1c1e6deaf3589e7ae1bc79d2c3e1aed28b9c452eee73b289cf407cb906c": "2026-11-07T11:01:45.933536+09:00",
+    "b277d30cd0aaad65d29bcfc04c92cc990f56aef325827d8cd0d1fad5df3895c1": "2026-11-07T12:02:05.423144+09:00"
   },
   "pending": {},
   "ai": {
@@ -2689,175 +2691,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.hankookilbo.com/news/article/A2026110511090002054?did=NA": {
-      "title": "경북 교육청, 경국대 의대 신설 맞춰 맞춤형 학습 지원 강화",
-      "summary": "교육병원은 500병상 이상 규모로 건립 해 학생들의 임상교육과 전문 의료인력 수련을 담당하도록 할 방침이다. 경북 교육청은 2030학년도 개교 일정에 맞춰 의료·보건 계열 진학을 희망하는 학생들을 위한 교육과정을...",
-      "url": "https://www.hankookilbo.com/news/article/A2026110511090002054?did=NA",
-      "date": "Thu, 05 Nov 2026 11:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.datasom.co.kr/news/articleView.html?idxno=210668": {
-      "title": "[분석] 엘앤에프 1조 LFP 수주 ··· 국산 '양극재' 中 독주 깰까",
-      "summary": "LG에너지솔루션은 지난달 30일 포스코퓨처엠 과 2027년부터 2033년까지 7년간 총 72만t 규모의 양극재·음극재 거래를 추진하는 업무협약을 체결했다. 기존 삼원계 양극재 외에 LFP 양극재와 인조흑연 음극재를 공급 품목에...",
-      "url": "https://www.datasom.co.kr/news/articleView.html?idxno=210668",
-      "date": "Thu, 05 Nov 2026 12:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.amnews.co.kr/news/articleView.html?idxno=75411": {
-      "title": "대동 , 새만금에 '로봇 팜 팩토리' 시동",
-      "summary": "대동 (공동대표 김준식·원유현)은 지난 3일 국회의원회관에서 열린 간담회에 참석해 전북특별자치도... 현대차그룹의 제조·물류 역량과 대동 의 정밀농업·자율주행 농기계 기술력이 결합되는 이번 프로젝트는...",
-      "url": "http://www.amnews.co.kr/news/articleView.html?idxno=75411",
-      "date": "Thu, 05 Nov 2026 11:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=367216": {
-      "title": "에코프로 비엠, 3분기 영업익 76.2% 감소…ESS 매출 173% 증가",
-      "summary": "에코프로 비엠 CI. (사진 / 에코프로 비엠) 에코프로 비엠이 올해 3분기 전기차(EV)용 양극재 판매가 부진한 가운데 영업이익이 크게 줄었지만, 에너지저장장치(ESS) 등 비전기차 부문 성장에 힘입어 7분기 연속 영업...",
-      "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367216",
-      "date": "Thu, 05 Nov 2026 12:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.moneystorm.kr/news/articleView.html?idxno=8099": {
-      "title": "[실적분석] \"너무 다른 3분기실적\" 에코프로비엠과 롯데에너지머티리얼...",
-      "summary": "포스코 퓨처엠 등 2차전지 소재업체 일부도 호전 추세다. 유독 에코프로비엠 실적 개선만 더딘 이유로는... 포스코 퓨처엠 등 다른 소재사들도 양극재 외 음극재 사업을 영위하거나 제품 라인업 다변화를 꾀해 충격을...",
-      "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8099",
-      "date": "Thu, 05 Nov 2026 11:21:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.joseilbo.com/news/news_read.php?uid=578986&class=17&grp=": {
-      "title": "에코프로 비엠, 3분기 영업익 전년比 76% 급감…순이익 적자전환",
-      "summary": "에코프로 비엠이 올해 3분기 전기차용 양극재 판매 부진과 헝가리 공장 가동 중단 등의 영향으로 매출과 영업이익이 모두 감소한 데 이어 당기순이익도 적자로 전환하는 등 실적이 악화됐다. 에코프로 비엠은 3분기...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=578986&class=17&grp=",
-      "date": "Thu, 05 Nov 2026 11:19:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mt.co.kr/industry/2026/11/05/2026110510524566877": {
-      "title": "에코프로 비엠, ESS 수요 확대 대응..LFP 양극재 투자 본격화",
-      "summary": "에코프로 비엠이 북미 전기차 시장 둔화와 유럽 완성차업체(OEM)의 재고 조정 여파로 올 3분기 부진한 실적을 거뒀다. 에너지저장장치(ESS) 시장이 성장세를 이어가는 만큼 그간 신중한 입장을 보여온 LFP(리튬인산철)...",
-      "url": "https://www.mt.co.kr/industry/2026/11/05/2026110510524566877",
-      "date": "Thu, 05 Nov 2026 11:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.dkilbo.com/news/articleView.html?idxno=559702": {
-      "title": "포항 산림바이오매스, 지역경제 부흥 새 돌파구 연다",
-      "summary": "한전 흥해변전소와 약 3.6km의 지중선으로 접속되는 이번 사업은 향후 인근의 에코프로 , 포스코퓨처엠 등 포항의 핵심 수출 기업들과 직접 전력구매계약(PPA)을 체결해 송배전망 이용료 절감 및 전기요금 부담 완화(연간...",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=559702",
-      "date": "Thu, 05 Nov 2026 11:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE44NVl4NlhTMTBabmplcE11OFVYc3NTQzdtMUhYZVJ6LVB3d3FJbE9IUjZ5Q2lxUmRLdUo5UDdBcGdkS3dtWXBycXNOemN3bW0zSXNUdFpwZXJaRFFzbjdrYUJFbDh5dkFMQjN3?oc=5": {
-      "title": "이만희 의원 “국립경국대 의대 신설, 경북 의료환경 개선 전환점” - 일간투데이",
-      "summary": "이만희 의원 “국립경국대 의대 신설, 경북 의료환경 개선 전환점” 일간투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44NVl4NlhTMTBabmplcE11OFVYc3NTQzdtMUhYZVJ6LVB3d3FJbE9IUjZ5Q2lxUmRLdUo5UDdBcGdkS3dtWXBycXNOemN3bW0zSXNUdFpwZXJaRFFzbjdrYUJFbDh5dkFMQjN3?oc=5",
-      "date": "Thu, 05 Nov 2026 02:18:37 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FM1E3VEEzRmdMcVh0UENBSExLeXFfNHNwX3NEbFN3R0JOWGl2ZGgyRTZzZ0xCWVRMenBtOWVMSk0zUGplN1paRURxVUlaSkxJNTc3QS1FaVM4X0cwVjNSNm1NcjV5aFBydUxGT09FY9IBc0FVX3lxTE5jVlY3NG0yek1acFA4eVBzdnBhVGxBYmd6a2JNRDNNdXJzRHlyM1p1dEJyeGpQUFNUZEtydnNmOENOYkltMlA3QTBrQ3BJRU5oX0dZOFI1OS1KQWVjUFlzUzBxT0g1eUJHZW1TRUkzN0FVM1k?oc=5": {
-      "title": "[경산 24시] 경산시, 아파트 건설현장과 미분양 대응 논의…지역업체 참여 요청 - 시사저널",
-      "summary": "[경산 24시] 경산시, 아파트 건설현장과 미분양 대응 논의…지역업체 참여 요청 시사저널",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FM1E3VEEzRmdMcVh0UENBSExLeXFfNHNwX3NEbFN3R0JOWGl2ZGgyRTZzZ0xCWVRMenBtOWVMSk0zUGplN1paRURxVUlaSkxJNTc3QS1FaVM4X0cwVjNSNm1NcjV5aFBydUxGT09FY9IBc0FVX3lxTE5jVlY3NG0yek1acFA4eVBzdnBhVGxBYmd6a2JNRDNNdXJzRHlyM1p1dEJyeGpQUFNUZEtydnNmOENOYkltMlA3QTBrQ3BJRU5oX0dZOFI1OS1KQWVjUFlzUzBxT0g1eUJHZW1TRUkzN0FVM1k?oc=5",
-      "date": "Thu, 05 Nov 2026 02:06:33 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkbF9rNFVEdXpmMEJORlNiQjB3U2xNR2xzUHNwaklCTmlpVENhZVZYUmZMVzNfOF9KWUhjMXM5S1MwNzNEZHNuV3dPQlVNelJZUElrS0FCU29XemV4dlJ0Nl82ME5JOXZZ?oc=5": {
-      "title": "대동, 새만금에 ‘로봇 팜 팩토리’ 시동 - 농축유통신문",
-      "summary": "대동, 새만금에 ‘로봇 팜 팩토리’ 시동 농축유통신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkbF9rNFVEdXpmMEJORlNiQjB3U2xNR2xzUHNwaklCTmlpVENhZVZYUmZMVzNfOF9KWUhjMXM5S1MwNzNEZHNuV3dPQlVNelJZUElrS0FCU29XemV4dlJ0Nl82ME5JOXZZ?oc=5",
-      "date": "Thu, 05 Nov 2026 02:29:53 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KTC0yNTJUVW9QbzRrZWxuOXl3YjliaGt3Y2EtbHVQZzl4Q20tN0FkOFpyY29jUDdhNTBwdmpGWkNIak82Yy14RUJvdFBKT2trUW5IV0J0OHYzSWhoWE9nb0p0ckhrRUFKY3VEetIBckFVX3lxTFBFbzJwQ2pCaXM3VVpNRGRhTEhuVjZ0aTd1dm1Bb0Vwby0wV3N0aC1QU0swaW1LODhRaWxNaXpqT1NVSnlFN1FYcnV0Y3dFOW1PQUFKbFk3bnZMTzRpUGlGYkllNnNfbVRNWjl2RHExa0g0Zw?oc=5": {
-      "title": "에코프로비엠, ESS 수요 확대 대응..LFP 양극재 투자 본격화 - 머니투데이 - 머니투데이",
-      "summary": "에코프로비엠, ESS 수요 확대 대응..LFP 양극재 투자 본격화 - 머니투데이 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KTC0yNTJUVW9QbzRrZWxuOXl3YjliaGt3Y2EtbHVQZzl4Q20tN0FkOFpyY29jUDdhNTBwdmpGWkNIak82Yy14RUJvdFBKT2trUW5IV0J0OHYzSWhoWE9nb0p0ckhrRUFKY3VEetIBckFVX3lxTFBFbzJwQ2pCaXM3VVpNRGRhTEhuVjZ0aTd1dm1Bb0Vwby0wV3N0aC1QU0swaW1LODhRaWxNaXpqT1NVSnlFN1FYcnV0Y3dFOW1PQUFKbFk3bnZMTzRpUGlGYkllNnNfbVRNWjl2RHExa0g0Zw?oc=5",
-      "date": "Thu, 05 Nov 2026 02:14:25 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSG5sUHo5bmsySkZzQkJ6UmtPcDhRMDJLNnlHdzJWQ3RabzQ5N2c0NUNWVTRyUm9idkY0OXhPaXpHUFJ0SXdUMXRET1VWM19RWDZKb2F3?oc=5": {
-      "title": "에코프로비엠 “LFP라인 5만톤 규모 증설 추진…글로벌 완성車 수조원대 수주 마무리 단계” - 헤럴드경제",
-      "summary": "에코프로비엠 “LFP라인 5만톤 규모 증설 추진…글로벌 완성車 수조원대 수주 마무리 단계” 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSG5sUHo5bmsySkZzQkJ6UmtPcDhRMDJLNnlHdzJWQ3RabzQ5N2c0NUNWVTRyUm9idkY0OXhPaXpHUFJ0SXdUMXRET1VWM19RWDZKb2F3?oc=5",
-      "date": "Thu, 05 Nov 2026 02:27:24 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.viva100.com/article/20261105500578": {
       "title": "경북 국립경국대, 의과대학 신설 최종 확정",
       "summary": "대구 ㆍ경북 분리 이후 국립의대와 상급종합병원이 없었던 경북에 45년 만에 의과대학이 신설되는 것이다.... 부지에 건립 될 예정이다. 입학정원은 40명 규모로 2030년 개교를 목표로 하며, 2032년까지 112명 이상의...",
@@ -6629,6 +6462,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.etoday.co.kr/news/view/2645293": {
+      "title": "영주 방산산단 조성 본격화…2200억 투자·400명 고용 기대",
+      "summary": "이투데이=대구 경북 취재본부 이용호 기자 | 조제일반산업단지 지정계획 고시, 후속절차 돌 유도탄 조립... 시는 지난해 12월 투자양해각서( MOU ) 체결 이후 주민설명회와 산업단지 지정계획 신청 등 관련 행정절차를 추진해...",
+      "url": "https://www.etoday.co.kr/news/view/2645293",
+      "date": "Sat, 07 Nov 2026 11:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {},
@@ -8890,6 +8736,11 @@
       "url": "https://www.kpinews.kr/newsView/1065573603846673",
       "title": "크라카타우 포스코 , 인도네시아 반텐주 최우수 외국인 투자기업 선정",
       "date": "Sat, 07 Nov 2026 10:02:00 +0900"
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2645293",
+      "title": "영주 방산산단 조성 본격화…2200억 투자·400명 고용 기대",
+      "date": "Sat, 07 Nov 2026 11:16:00 +0900"
     }
   ],
   "brief_articles": [],
