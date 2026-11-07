@@ -1617,7 +1617,10 @@
     "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZ9IBckFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZw?oc=5": "2026-11-07T20:01:59.687242+09:00",
     "https://www.mt.co.kr/industry/2026/11/07/2026110719110614930": "2026-11-07T20:01:59.687242+09:00",
     "https://www.sidae.com/article/2026110717514317403": "2026-11-07T20:01:59.687242+09:00",
-    "https://www.newsinside.kr/news/articleView.html?idxno=5042797": "2026-11-07T20:01:59.687242+09:00"
+    "https://www.newsinside.kr/news/articleView.html?idxno=5042797": "2026-11-07T20:01:59.687242+09:00",
+    "https://www.nocutnews.co.kr/news/6603585": "2026-11-07T21:02:46.966535+09:00",
+    "https://view.asiae.co.kr/article/2026110720111507931": "2026-11-07T21:02:46.966535+09:00",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285401": "2026-11-07T21:02:46.966535+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2737,7 +2740,10 @@
     "d128bcdd4c6319912366675de01570a07b0c0de4b36c303f9cd3fc91e7470ff5": "2026-11-07T20:01:59.687242+09:00",
     "e26c40a9cf200459a220edca1e84b8c54ff424458d3f5dd9d2a9d2b19f733ff1": "2026-11-07T20:01:59.687242+09:00",
     "4510a544dac4ff82c651a41a79f084954a49d63cec65eb21f65a0e27337104fe": "2026-11-07T20:01:59.687242+09:00",
-    "e6e1c0329c42dcc260da7e725eea75eb064bff6000994c1190ee3f997e866efa": "2026-11-07T20:01:59.687242+09:00"
+    "e6e1c0329c42dcc260da7e725eea75eb064bff6000994c1190ee3f997e866efa": "2026-11-07T20:01:59.687242+09:00",
+    "b38fbacc15bd015ac53168f9a47c28a8df7f697255e907df5a49bc2c0fa5c427": "2026-11-07T21:02:46.966535+09:00",
+    "5ef493aec6def2b2ae1b4c7283955ec5ed37e84be6ca60108a4309280b682121": "2026-11-07T21:02:46.966535+09:00",
+    "19031078a8a407bbd8ddf848e3b17c2a8eb3e7713a734ff46b561599287a11a8": "2026-11-07T21:02:46.966535+09:00"
   },
   "pending": {},
   "ai": {
@@ -2745,49 +2751,10 @@
     "2026-11-04": 15,
     "2026-11-05": 31,
     "2026-11-06": 18,
-    "2026-11-07": 3
+    "2026-11-07": 5
   },
   "cursor": 0,
   "archive": {
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892": {
-      "title": "에코프로 , 3분기 영업이익 112억원…흑자 유지에도 전분기보다 급감",
-      "summary": "전구체 사업을 담당하는 에코프로머티리얼즈 는 3분기 매출 1천811억 원으로 전분기(1천788억 원) 대비 23억 원 늘었으나 영업이익은 적자를 보였다. 이는 환율과 메탈 가격 약세 등 대외 요인이 복합적으로 작용하며...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892",
-      "date": "Thu, 05 Nov 2026 20:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://magazine.hankyung.com/business/article/202611059374b": {
-      "title": "에코프로 3분기 흑자 이어갔지만…머티리얼즈 적자·수익성은 숙제",
-      "summary": "계열사별로는 양극재를 생산하는 에코프로비엠 이 매출 5579억원, 영업이익 120억원을 기록했다. 전기차 시장 성장 둔화로 매출이 전 분기보다 소폭 감소했지만 인공지능(AI) 데이터센터 확산에 따른 에너지저장장치(ESS)...",
-      "url": "https://magazine.hankyung.com/business/article/202611059374b",
-      "date": "Thu, 05 Nov 2026 20:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ0pVaHVqdUEwY09HdTNYWkl1LTVhVWdObDM3OEJoSktxYUJEdnd4MXVCdFNSeTA0clRjTG5raFJtWmZpTnN0Z2dQeE1BWl9INm9nZWsxdXQybUg5TnlmSGFZR3FrdXRzb2IyMkRJNFVIRElX?oc=5": {
-      "title": "안호영 “새만금 투자, 무주~대구 고속도로 예타에 반영해야” - 글로벌뉴스통신GNA",
-      "summary": "안호영 “새만금 투자, 무주~대구 고속도로 예타에 반영해야” 글로벌뉴스통신GNA",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ0pVaHVqdUEwY09HdTNYWkl1LTVhVWdObDM3OEJoSktxYUJEdnd4MXVCdFNSeTA0clRjTG5raFJtWmZpTnN0Z2dQeE1BWl9INm9nZWsxdXQybUg5TnlmSGFZR3FrdXRzb2IyMkRJNFVIRElX?oc=5",
-      "date": "Thu, 05 Nov 2026 11:08:01 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.breaknews.com/1248782": {
       "title": "대구 시 “원상복구 명령 유효”…성서공단 폐수 반입 논란에 공유재산...",
       "summary": "성서공단 내 시설 설치 역시 변경 허가 조건과 대구 시의 보완 요구 에 따른... 고농도 침출수 반입 우려에 대해서는 원수를 그대로 반입하려던 것은 아니라고 해명 했...",
@@ -4875,6 +4842,58 @@
       "summary": "포스코 임단협 잠정합의안, 노조원 투표 '부결'…반대 51.7% - 머니투데이 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZ9IBckFVX3lxTE0ySnlLTEFhZF9yZE1ZbDZpU0RCMUQ4clNhYTA1ZHdPeXdVdVpCR1ByNTgzWUtxbnAtbXFFemh1M2p5ZXR0RU1RM256Y2lFNE1lcW1qM2Y5cWVtZ0Z1U1R1VWwyLVFZaVF0VEgzZS15R0RxZw?oc=5",
       "date": "Sat, 07 Nov 2026 10:16:36 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6603588": {
+      "title": "경주 도심 변압기 교체작업 중 폭발 화재 …작업자 3명 중경상",
+      "summary": "경북 경주 도심에서 변압기 교체작업 중 폭발 화재 사고가 발생해 3명이 중경상을 입고 병원으로 이송됐다. 7일 경북 소방본부에 따르면 이날 오전 10시 33분쯤 경주시 사정동 인근 A상가 앞 변압기가 터졌다는 신고가...",
+      "url": "https://www.nocutnews.co.kr/news/6603588",
+      "date": "Sat, 07 Nov 2026 20:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6603585": {
+      "title": "포스코 노조, 임단협 잠정합의안 부결…찬반투표 300여 표 차 부결",
+      "summary": "포스코 노사가 교섭 140일 만에 이뤄낸 2026년 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결됐다. 포스코 노조는 지난달 30일 사측과 잠정 합의한 임금 교섭안에 대해 7일 조합원 찬반투표를 실시해 총 투표 9177표...",
+      "url": "https://www.nocutnews.co.kr/news/6603585",
+      "date": "Sat, 07 Nov 2026 20:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://view.asiae.co.kr/article/2026110720111507931": {
+      "title": "포스코 노조 임금 잠정합의안 부결…재협상 필요",
+      "summary": "올해 포스코 노동조합이 회사 측과 잠정 합의한 임금교섭안이 조합원 찬반투표에서 부결됐다. 7일 대표 교섭노조인 한국노총 금속노련 포스코 노동조합은 지난달 30일 회사 측과 잠정 합의한 임금 교섭안에 대해...",
+      "url": "https://view.asiae.co.kr/article/2026110720111507931",
+      "date": "Sat, 07 Nov 2026 20:11:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285401": {
+      "title": "합의안 부결, 파업 끝 극적 합의 물거품… 포스코 임금 교섭 '안갯속'",
+      "summary": "한국노총 금속노련 포스코 노동조합이 7일 회사 측과 잠정 합의한 올해 임금 교섭안을 놓고 조합원 찬반투표를 진행한 결과, 반대 51.69%(4744표) 및 찬성 48.31%(4433표)로 최종 부결됐다. ​이에 따라 포스코 노사는...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285401",
+      "date": "Sat, 07 Nov 2026 20:02:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -7293,6 +7312,21 @@
       "url": "https://www.newsinside.kr/news/articleView.html?idxno=5042797",
       "title": "포스코 노조, 임금 잠정합의안 부결…교섭 원점",
       "date": "Sat, 07 Nov 2026 19:10:00 +0900"
+    },
+    {
+      "url": "https://www.nocutnews.co.kr/news/6603585",
+      "title": "포스코 노조, 임단협 잠정합의안 부결…찬반투표 300여 표 차 부결",
+      "date": "Sat, 07 Nov 2026 20:29:00 +0900"
+    },
+    {
+      "url": "https://view.asiae.co.kr/article/2026110720111507931",
+      "title": "포스코 노조 임금 잠정합의안 부결…재협상 필요",
+      "date": "Sat, 07 Nov 2026 20:11:00 +0900"
+    },
+    {
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285401",
+      "title": "합의안 부결, 파업 끝 극적 합의 물거품… 포스코 임금 교섭 '안갯속'",
+      "date": "Sat, 07 Nov 2026 20:02:00 +0900"
     }
   ],
   "brief_articles": [],
@@ -7304,7 +7338,7 @@
     "2026-11-04": 14,
     "2026-11-05": 11,
     "2026-11-06": 11,
-    "2026-11-07": 2
+    "2026-11-07": 3
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
