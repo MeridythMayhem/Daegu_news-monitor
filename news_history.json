@@ -2767,162 +2767,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.m-i.kr/news/articleView.html?idxno=2015158": {
-      "title": "구미 1산단 공단동 도시재생혁신지구 착공…2719억원 투입",
-      "summary": "구미 시는 이번 사업을 인근 문화산단 조성사업과 청년드림타워, 호텔 건립 사업 등과 연계할 방침이다. 산업시설 중심의 기존 산단에 문화와 주거 기능을 확대해 청년 인재와 기업의 유입을 촉진한다는 계획이다. 김장호...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2015158",
-      "date": "Fri, 06 Nov 2026 07:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.edaily.co.kr/News/Read?newsId=03129126645643096&mediaCodeNo=257": {
-      "title": "에코프로 비엠, 3분기 매출 기대 하회…\"LFP 진출로 美 BESS 시장 공략\"",
-      "summary": "에코프로 비엠(247540)이 미국 전기차 시장 부진 등으로 3분기 시장 기대에 못 미치는 매출을 냈다. 다만 리튬인산철(LFP) 양극재 생산라인 신설로 미국 배터리에너지저장장치(BESS) 시장에 진출하고, 2028년부터 양극재...",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03129126645643096&mediaCodeNo=257",
-      "date": "Fri, 06 Nov 2026 07:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.newsroad.co.kr/news/articleView.html?idxno=67179": {
-      "title": "영업손실에도 '역대 최대 출하'… 엘앤에프 , NCM·LFP 투트랙 승부수",
-      "summary": "엘앤에프 가 3분기 영업손실을 기록하며 적자로 돌아섰지만, 주력인 NCM(니켈·코발트·망간) 양극재 사업의... 엘앤에프 는 5일 공시를 통해 연결 기준 올해 3분기 영업손실이 265억원을 기록했다고 밝혔다. 지난해 같은...",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67179",
-      "date": "Fri, 06 Nov 2026 07:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=730782": {
-      "title": "LS그룹, 2027년도 임원인사 단행",
-      "summary": "[LS- 엘앤에프 배터리솔루션(LLBS)] ◇CEO ▲대표이사 최원규(\\[現 LS 사업관리부문장 → LS- 엘앤에프 배터리솔루션(LLBS) CEO] [가온전선] ◇상무 ▲LSCUS법인장 손태원 ◇신규 이사 선임 ▲재경부문장 CFO 권세진...",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730782",
-      "date": "Fri, 06 Nov 2026 01:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.donga.com/news/Economy/article/all/20261105/134974501/2": {
-      "title": "[경제계 인사]LS 3세 구본규 부회장 승진 外",
-      "summary": "최준환 ◇LS- 엘앤에프 배터리솔루션 〈선임〉 △대표이사 최원규 ◇가온전선 〈승진〉 △상무 손태원 〈선임〉 △이사 권세진 ◇LS마린솔루션·LS빌드윈 〈승진〉 △전무 김병옥 ◇LS머트리얼즈·LS에코첨단소재...",
-      "url": "https://www.donga.com/news/Economy/article/all/20261105/134974501/2",
-      "date": "Fri, 06 Nov 2026 00:31:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ddaily.co.kr/page/view/2026110517371268032": {
-      "title": "[종합] 엘앤에프 , LFP 25만톤 수주…2028년 생산능력 12만톤 확대",
-      "summary": "엘앤에프 가 리튬인산철(LFP) 양극재의 대규모 수주와 46파이 원통형 배터리용 하이니켈 양극재 공급... 엘앤에프 는 5일 올해 3분기 실적발표 컨퍼런스콜에서 연결기준 매출 8744억원, 영업손실 265억원을 기록했다고...",
-      "url": "https://www.ddaily.co.kr/page/view/2026110517371268032",
-      "date": "Thu, 05 Nov 2026 23:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ddaily.co.kr/page/view/2026110516544285756": {
-      "title": "엘앤에프 , 2026년 연간 역대 최대 출하 전망… \"NCM·LFP 쌍끌이 성장\"",
-      "summary": "엘앤에프 , 2026년 연간 역대 최대 출하 전망… \"NCM·LFP 쌍끌이 성장\" 엘앤에프 가 울트라(Ultra) 하이니켈과 차세대 46파이(지름 46㎜) 원통형 배터리용 양극재 판매 호조에 힘입어 2026년 연간 기준 사상 최대 출하량을...",
-      "url": "https://www.ddaily.co.kr/page/view/2026110516544285756",
-      "date": "Thu, 05 Nov 2026 23:37:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=237602": {
-      "title": "포스코 노조 7일 임금교섭 잠정합의안 찬반투표",
-      "summary": "▲ 포스코 포항제철소. 포스코 노조(위원장 김성호)가 창사 최초 파업 끝에 마련한 2026년 임금협약 잠정합의안에 대해 찬반투표를 실시한다. 노조는 7일 오전 6시부터 오후 5시까지 잠정합의안 찬반투표를 진행한다고...",
-      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237602",
-      "date": "Fri, 06 Nov 2026 06:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vUGtPYVFfSUVLcVdlbFdOR2sxbktaRjZUczBoOE1sREplczdnRTNRQVpaZkFNNXpSV0EwdlZEbm5hOWFqSWE3dGhUQklIN0VBcnlCWXhtUk12TnNkYXo5VkNQdEdzeUVwblNB?oc=5": {
-      "title": "[경제와 세상] 대구의 문제를 푸는 기업에 투자하자 - 영남일보",
-      "summary": "[경제와 세상] 대구의 문제를 푸는 기업에 투자하자 영남일보",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vUGtPYVFfSUVLcVdlbFdOR2sxbktaRjZUczBoOE1sREplczdnRTNRQVpaZkFNNXpSV0EwdlZEbm5hOWFqSWE3dGhUQklIN0VBcnlCWXhtUk12TnNkYXo5VkNQdEdzeUVwblNB?oc=5",
-      "date": "Thu, 05 Nov 2026 21:00:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ock5PVUM2SGZRN2paWTJYQVRIYmk4ZlBjUzYtX2kxbmllaGtBeTFFQ2hvam1HdG8tMURFNHBqSUpjTXgyV1NsVm5WQVJSbWlRUU4tbHdRUFFaQkdSYWRLT0ZhOHFGajNKUmJQOS1zcUTSAXBBVV95cUxOaHJOT1VDNkhmUTdqWlkyWEFUSGJpOGZQY1M2LV9pMW5pZWhrQXkxRUNob2ptR3RvLTFERTRwaklKY014MldTbFZuVkFSUm1pUVFOLWx3UVBRWkJHUmFkS09GYThxRmozSlJiUDktc3FE?oc=5": {
-      "title": "에코프로, 3분기 매출 8107억원, 영업이익 112억원 기록 - 전기신문",
-      "summary": "에코프로, 3분기 매출 8107억원, 영업이익 112억원 기록 전기신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ock5PVUM2SGZRN2paWTJYQVRIYmk4ZlBjUzYtX2kxbmllaGtBeTFFQ2hvam1HdG8tMURFNHBqSUpjTXgyV1NsVm5WQVJSbWlRUU4tbHdRUFFaQkdSYWRLT0ZhOHFGajNKUmJQOS1zcUTSAXBBVV95cUxOaHJOT1VDNkhmUTdqWlkyWEFUSGJpOGZQY1M2LV9pMW5pZWhrQXkxRUNob2ptR3RvLTFERTRwaklKY014MldTbFZuVkFSUm1pUVFOLWx3UVBRWkJHUmFkS09GYThxRmozSlJiUDktc3FE?oc=5",
-      "date": "Thu, 05 Nov 2026 17:43:03 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3d2EzaXU1NkhZNVMwNEZGNFBaUVMxTHYtNGxHWGszRWVpUXgyYVhyaHQtZ2FoYXdPaVpFVEhfRVZJSzQ0SEdhdFczSXNRZGkzMllFM1BzbEFHbEZzUkMyMktlUjBwbFNZQjNJ?oc=5": {
-      "title": "[포스코 지금은①] 리튬사업 8년째 투자 확대…2034년 회수 전망 흔들리나 - 뉴스저널리즘",
-      "summary": "[포스코 지금은①] 리튬사업 8년째 투자 확대…2034년 회수 전망 흔들리나 뉴스저널리즘",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3d2EzaXU1NkhZNVMwNEZGNFBaUVMxTHYtNGxHWGszRWVpUXgyYVhyaHQtZ2FoYXdPaVpFVEhfRVZJSzQ0SEdhdFczSXNRZGkzMllFM1BzbEFHbEZzUkMyMktlUjBwbFNZQjNJ?oc=5",
-      "date": "Thu, 05 Nov 2026 22:41:37 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Smt4U2ZPT1REdXlIbjBSdDN0TkZMU1l2X1hkZDBlN0RaQ0lmMWF4VHZHWXhEV2F3MEtxZlBtRGZLcTYzTzBBYnd6bU5VZTdXOVRLRnFXVFllUFI3WlhuMnhFNnl5WXhKLWpR?oc=5": {
-      "title": "[포스코 지금은②] 포스코퓨처엠 LFP 6조원 계약…진짜 신규 수주는 얼마 - 뉴스저널리즘",
-      "summary": "[포스코 지금은②] 포스코퓨처엠 LFP 6조원 계약…진짜 신규 수주는 얼마 뉴스저널리즘",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Smt4U2ZPT1REdXlIbjBSdDN0TkZMU1l2X1hkZDBlN0RaQ0lmMWF4VHZHWXhEV2F3MEtxZlBtRGZLcTYzTzBBYnd6bU5VZTdXOVRLRnFXVFllUFI3WlhuMnhFNnl5WXhKLWpR?oc=5",
-      "date": "Thu, 05 Nov 2026 22:41:50 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코, 포스코퓨처엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.g-enews.com/view.php?ud=20261106082918308044093b5d4e_1": {
       "title": "신한투자증권 \" 에코프로 비엠, 4분기 적자 예상.. 목표가 하향\"",
       "summary": "신한투자증권은 6일 에코프로 비엠에 대해 북미 전기차(EV) 시장 부진과 유럽 완성차 업체의 차종 변경으로 단기 실적 공백이 불가피하다고 진단했다. 목표주가는 기존 16만원에서 12만원으로 25% 하향 조정했다....",
@@ -4913,12 +4757,104 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.polinews.co.kr/news/articleView.html?idxno=748008": {
+      "title": "의성 바이오푸드밸리, 455억 투자 로 푸드테크 생산 거점 도약… \"83명 신...",
+      "summary": "또한, 경북 성주에 있는 제1·2공장도 단계적으로 통합 이전할 계획이다. 의성군은 이번 투자협약 을 바탕으로 기업 투자 와 지역 일자리 창출이 이어질 수 있도록 산업 여건을 조성해 나갈 방침이다. 최유철...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748008",
+      "date": "Sat, 07 Nov 2026 23:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67294": {
+      "title": "포스코 노조, 임금 잠정합의안 부결…노사 재협상 국면 재진입",
+      "summary": "포스코 노사의 올해 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결되면서 노사가 다시 협상 테이블로 돌아가게 됐다. 대표 교섭노조인 한국노총 금속노련 포스코 노동조합은 7일 조합원을 대상으로 실시한 잠정...",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67294",
+      "date": "Sun, 08 Nov 2026 07:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newscj.com/news/articleView.html?idxno=3446821": {
+      "title": "[천지일보 이슈종합] 조작기소 특검·이용철 대장동 의혹·미래에셋증권...",
+      "summary": "◆ 포스코 노조, 임금교섭 잠정합의안 부결… 노사 갈등 장기화 우려☞ 포스코 노사가 두 차례 부분파업 끝에 마련한 임금교섭 잠정합의안이 조합원 찬반투표에서 부결됐다. 수개월간 이어진 협상이 다시 난항을 겪게...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3446821",
+      "date": "Sun, 08 Nov 2026 07:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.livebiz.today/news/articleView.html?idxno=206301": {
+      "title": "포스코 노조, 임금협상 잠정합의안 부결…반대가 311표 많아",
+      "summary": "포스코 노사가 140여일간의 교섭과 두 차례 부분파업 끝에 마련한 임금협상 잠정합의안 조합원... 경우 포스코 의 실적에 부담으로 작용할 수 있다는 우려가 나온다. 8일 철강업계에 따르면 한국노총 금속노련 포스코 ...",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=206301",
+      "date": "Sun, 08 Nov 2026 06:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN0hxM0FCd1dRUms3Y05td3RMWExTNUlnTkJJdVhOTV9iT2l2SlZGV1dJTDlMQ3NnSzlNU3laUXNTS0hRYWtnYVg5bmlPcGlaQXN0OVZSeVRHZw?oc=5": {
+      "title": "경주시, 태영테크(주) 명계3산단 신공장 준공…151억 원 투자 결실 - 미디어경북",
+      "summary": "경주시, 태영테크(주) 명계3산단 신공장 준공…151억 원 투자 결실 미디어경북",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN0hxM0FCd1dRUms3Y05td3RMWExTNUlnTkJJdVhOTV9iT2l2SlZGV1dJTDlMQ3NnSzlNU3laUXNTS0hRYWtnYVg5bmlPcGlaQXN0OVZSeVRHZw?oc=5",
+      "date": "Sat, 07 Nov 2026 17:20:55 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrT2R4d1dYQlVON0lQWWVIU1pQNGJrQjl5Qm5kQm1pVDhvSzdOTkgxYVQ1ZXlNczMzWUx4eWdVZEx5WDl5OFZScExVTzdfYmFwZzllZEZ3ZEpsVTl1WEpNNUlpN0pRNndFZFNHVFRn?oc=5": {
+      "title": "의성 바이오푸드밸리, 455억 투자로 푸드테크 생산 거점 도약… \"83명 신규 고용할 것\" - 폴리뉴스 Polinews",
+      "summary": "의성 바이오푸드밸리, 455억 투자로 푸드테크 생산 거점 도약… \"83명 신규 고용할 것\" 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrT2R4d1dYQlVON0lQWWVIU1pQNGJrQjl5Qm5kQm1pVDhvSzdOTkgxYVQ1ZXlNczMzWUx4eWdVZEx5WDl5OFZScExVTzdfYmFwZzllZEZ3ZEpsVTl1WEpNNUlpN0pRNndFZFNHVFRn?oc=5",
+      "date": "Sat, 07 Nov 2026 14:34:38 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
-  "brief_sent": {},
-  "brief_titles": {},
+  "brief_sent": {
+    "http://www.newsroad.co.kr/news/articleView.html?idxno=67294": "2026-11-08T08:01:42.844906+09:00",
+    "https://www.newscj.com/news/articleView.html?idxno=3446821": "2026-11-08T08:01:42.844906+09:00",
+    "https://www.livebiz.today/news/articleView.html?idxno=206301": "2026-11-08T08:01:42.844906+09:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN0hxM0FCd1dRUms3Y05td3RMWExTNUlnTkJJdVhOTV9iT2l2SlZGV1dJTDlMQ3NnSzlNU3laUXNTS0hRYWtnYVg5bmlPcGlaQXN0OVZSeVRHZw?oc=5": "2026-11-08T08:01:42.844906+09:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrT2R4d1dYQlVON0lQWWVIU1pQNGJrQjl5Qm5kQm1pVDhvSzdOTkgxYVQ1ZXlNczMzWUx4eWdVZEx5WDl5OFZScExVTzdfYmFwZzllZEZ3ZEpsVTl1WEpNNUlpN0pRNndFZFNHVFRn?oc=5": "2026-11-08T08:01:42.844906+09:00",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=748008": "2026-11-08T08:01:42.844906+09:00"
+  },
+  "brief_titles": {
+    "17f5f1d4e3f77b094b44a1093af975afd651836eda5274090f4c778725f00f42": "2026-11-08T08:01:42.844906+09:00",
+    "81b0a40fdd218c40327fc68cf2811881cb791c76329e949a9cf2e45f66f64c65": "2026-11-08T08:01:42.844906+09:00",
+    "72ed68087e93dd97c0b769f6eb37be19bb0830b500f1dc2bfc3a598ce07699fa": "2026-11-08T08:01:42.844906+09:00",
+    "1fe70a3b82fbcfa5be0e067f5e39b2a7361f1a7ccf3c906e9f0725d2ab5cfa4f": "2026-11-08T08:01:42.844906+09:00",
+    "6271ec14607e5ebd46503de6897e618d558d918c59786e3c54736bcb366ad671": "2026-11-08T08:01:42.844906+09:00",
+    "9ea935eb89935eb9fa3bc6eb7d2fa21409b50e8c3f4b736ec6467f460f6c414a": "2026-11-08T08:01:42.844906+09:00"
+  },
   "brief_pending": {},
-  "brief_date": "2026-11-07",
+  "brief_date": "2026-11-08",
   "sent_articles": [
     {
       "url": "http://www.datanews.co.kr/news/article.html?no=147230",
@@ -7371,9 +7307,39 @@
       "date": "Sat, 07 Nov 2026 13:03:46 GMT"
     }
   ],
-  "brief_articles": [],
+  "brief_articles": [
+    {
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67294",
+      "title": "포스코 노조, 임금 잠정합의안 부결…노사 재협상 국면 재진입",
+      "date": "Sun, 08 Nov 2026 07:30:00 +0900"
+    },
+    {
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3446821",
+      "title": "[천지일보 이슈종합] 조작기소 특검·이용철 대장동 의혹·미래에셋증권...",
+      "date": "Sun, 08 Nov 2026 07:00:00 +0900"
+    },
+    {
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=206301",
+      "title": "포스코 노조, 임금협상 잠정합의안 부결…반대가 311표 많아",
+      "date": "Sun, 08 Nov 2026 06:32:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tN0hxM0FCd1dRUms3Y05td3RMWExTNUlnTkJJdVhOTV9iT2l2SlZGV1dJTDlMQ3NnSzlNU3laUXNTS0hRYWtnYVg5bmlPcGlaQXN0OVZSeVRHZw?oc=5",
+      "title": "경주시, 태영테크(주) 명계3산단 신공장 준공…151억 원 투자 결실 - 미디어경북",
+      "date": "Sat, 07 Nov 2026 17:20:55 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrT2R4d1dYQlVON0lQWWVIU1pQNGJrQjl5Qm5kQm1pVDhvSzdOTkgxYVQ1ZXlNczMzWUx4eWdVZEx5WDl5OFZScExVTzdfYmFwZzllZEZ3ZEpsVTl1WEpNNUlpN0pRNndFZFNHVFRn?oc=5",
+      "title": "의성 바이오푸드밸리, 455억 투자로 푸드테크 생산 거점 도약… \"83명 신규 고용할 것\" - 폴리뉴스 Polinews",
+      "date": "Sat, 07 Nov 2026 14:34:38 GMT"
+    },
+    {
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748008",
+      "title": "의성 바이오푸드밸리, 455억 투자 로 푸드테크 생산 거점 도약… \"83명 신...",
+      "date": "Sat, 07 Nov 2026 23:34:00 +0900"
+    }
+  ],
   "gemini_ai": {
-    "2026-10-31": 16,
     "2026-11-01": 20,
     "2026-11-02": 49,
     "2026-11-03": 37,
