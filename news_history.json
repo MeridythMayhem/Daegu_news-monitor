@@ -1592,7 +1592,17 @@
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbzJJckJKUlhBMUxSUGFseGozdVdVRHdHVGJXa0kwVVU2MU8zWTFFOFQ4ak5zeWxWRlI5WF9uQXd6YzZTV0JYc0tjSU9IdF95Yktv?oc=5": "2026-11-07T13:01:45.078114+09:00",
     "https://www.newspim.com/news/view/20261107000084": "2026-11-07T16:01:46.920706+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NTGtFSTAtWFZYZl81cjc0MHNlM2pTY01RYWNNVllWQ1RXTDZHU0VuYm8tVGdUWnlEN040aTVzeXU4LXJZN1puU0RsUDdpSldudFNOVFBCeE5FdEZyTGpGdU42X08?oc=5": "2026-11-07T16:01:46.920706+09:00",
-    "https://www.yeongnam.com/web/view.php?key=20261107026009285": "2026-11-07T17:01:52.159391+09:00"
+    "https://www.yeongnam.com/web/view.php?key=20261107026009285": "2026-11-07T17:01:52.159391+09:00",
+    "https://www.ytn.co.kr/_ln/0115_202611071747348746": "2026-11-07T18:01:55.502087+09:00",
+    "https://www.dt.co.kr/article/12093660?ref=naver": "2026-11-07T18:01:55.502087+09:00",
+    "https://www.newsis.com/view/NISX20261107_0003858993": "2026-11-07T18:01:55.502087+09:00",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=314852": "2026-11-07T18:01:55.502087+09:00",
+    "https://biz.sbs.co.kr/article_hub/20000344923?division=NAVER": "2026-11-07T18:01:55.502087+09:00",
+    "https://www.edaily.co.kr/News/Read?newsId=03181606645643424&mediaCodeNo=257": "2026-11-07T18:01:55.502087+09:00",
+    "https://www.newscj.com/news/articleView.html?idxno=3446785": "2026-11-07T18:01:55.502087+09:00",
+    "https://www.yna.co.kr/view/AKR20261107046300053?input=1195m": "2026-11-07T18:01:55.502087+09:00",
+    "https://www.yeongnam.com/web/view.php?key=20261107024369298": "2026-11-07T18:01:55.502087+09:00",
+    "https://www.news1.kr/local/daegu-gyeongbuk/6346476": "2026-11-07T18:01:55.502087+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2687,9 +2697,85 @@
     "46aca5080026340b36c2a5a5163b1ccb32a01d8cec25fb8a8bface1969459787": "2026-11-07T13:01:45.078114+09:00",
     "165417429d0d8d30d7da22f83a6a0f93693049091a9b7a441b9547859b3680ad": "2026-11-07T16:01:46.920706+09:00",
     "d2f04e989ec71cc46b890a275d4a7b8eb0c3ce5ee9923a0cf7db6d30ccb67c5a": "2026-11-07T16:01:46.920706+09:00",
-    "70fcab9f8a532f675575cf631a60f80f9d0501468a80dd2074ba73edb26fd75e": "2026-11-07T17:01:52.159391+09:00"
+    "70fcab9f8a532f675575cf631a60f80f9d0501468a80dd2074ba73edb26fd75e": "2026-11-07T17:01:52.159391+09:00",
+    "2862a2460273e06cdb1339a390cb36cfad93085159633ef07dd58242f200f044": "2026-11-07T18:01:55.502087+09:00",
+    "9d1134e45aa8f6d8f858744ae84dd31d8abc5aeda4e2a9c08f3222b283d0e0ac": "2026-11-07T18:01:55.502087+09:00",
+    "2a28f0fc9e4441c21296e2b8f2118bd09c6e6f6423a32aef18bc9979964c9484": "2026-11-07T18:01:55.502087+09:00",
+    "064e69f8c849e7614ab9b52dcce744148ba255ce36d7626eba8ec2895b292bb5": "2026-11-07T18:01:55.502087+09:00",
+    "cef13bf843330329d24c1236de5d00b24e501583266a1e1cdd50c004e860b06a": "2026-11-07T18:01:55.502087+09:00",
+    "5199c980005d8e6c543c1e06f115de5944d4a71f90d169518e6fc8288673799a": "2026-11-07T18:01:55.502087+09:00",
+    "dad9538e36857227d571f7938f59375270187fa9bb9d5eac01c2c192bb2c0bf0": "2026-11-07T18:01:55.502087+09:00",
+    "3dfcacf996830ab3c62ce53f633c77d921a2754a23e6f5de70de64d73f26e519": "2026-11-07T18:01:55.502087+09:00",
+    "5669b9f35e7fb00847cdbcc12e51827e7ecddb9350f74f865de38d0cb98e5904": "2026-11-07T18:01:55.502087+09:00",
+    "146ee88250564b8e3cbd9ad0f72e46daccab12c3e61364e5b04f4d137acd2a6a": "2026-11-07T18:01:55.502087+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://www.polinews.co.kr/news/articleView.html?idxno=748000": {
+      "title": "경북 도, 의성에 식품산업 '455억 원 투자 유치'… 일자리 83개 창출 및 지...",
+      "summary": "경북 도는 지난 6일 의성바이오푸드밸리에서 열린 '미래 신성장 산업 비전 선포식'에서 ㈜씨위드, ㈜오그래 농업회사법인과 총 455억 원 규모의 투자양해각서( MOU )를 체결했다고 밝혔다. 이번 투자협약에 따라 씨위드는...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748000",
+      "date": "Sat, 07 Nov 2026 17:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsis.com/view/NISX20261107_0003858986": {
+      "title": "[속보] 포스코 노조, 잠정 합의안 찬반투표 부결…311표차",
+      "summary": "",
+      "url": "https://www.newsis.com/view/NISX20261107_0003858986",
+      "date": "Sat, 07 Nov 2026 17:39:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.sedaily.com/article/20111465?ref=naver": {
+      "title": "포스코 노조, 임금협상 잠정안 부결…노사 갈등 장기화하나",
+      "summary": "포스코 노조가 올해 임금협상 잠정합의안을 부결시키면서 5개월 가까이 이어진 교섭이 다시 원점으로... 한국노동조합총연맹(한국노총) 전국금속노동조합연맹(금속노련) 포스코 노동조합( 포스코 노조)은 7일 오전...",
+      "url": "https://www.sedaily.com/article/20111465?ref=naver",
+      "date": "Sat, 07 Nov 2026 17:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ajunews.com/view/20261107171711953": {
+      "title": "포스코 노조, 임금교섭 잠정합의안 부결…반대 51%",
+      "summary": "7일 조합원 찬반투표서 과반 동의 못 얻어 아주경제=이나경 기자 nakk@ajunews.com 포스코 포항제철소 앞. [사진=연합뉴스] 포스코 노동조합이 올해 임금교섭 잠정합의안에 대한 조합원 찬반투표에서 반대 51%로 합의안을...",
+      "url": "https://www.ajunews.com/view/20261107171711953",
+      "date": "Sat, 07 Nov 2026 17:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYmxSS2hIanVlcEJaUEk2VngtNUZmNTVIMGFhX0VpZEdzQjRRaDNvRmdSR1FUcVFLOE9tU0FtdUZvcXlXaXVLTnpLQUJqNS0ybDJSeUh0aGs4RTdHNDJ2YWRNcHdocnlYaU1udk1n?oc=5": {
+      "title": "경북도, 의성에 식품산업 '455억 원 투자 유치'… 일자리 83개 창출 및 지역경제 활성화 기대 - 폴리뉴스 Polinews",
+      "summary": "경북도, 의성에 식품산업 '455억 원 투자 유치'… 일자리 83개 창출 및 지역경제 활성화 기대 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYmxSS2hIanVlcEJaUEk2VngtNUZmNTVIMGFhX0VpZEdzQjRRaDNvRmdSR1FUcVFLOE9tU0FtdUZvcXlXaXVLTnpLQUJqNS0ybDJSeUh0aGs4RTdHNDJ2YWRNcHdocnlYaU1udk1n?oc=5",
+      "date": "Sat, 07 Nov 2026 08:29:54 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    }
+  },
   "ai": {
     "2026-11-03": 3,
     "2026-11-04": 15,
@@ -2699,344 +2785,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.newsian.co.kr/news/articleView.html?idxno=100721": {
-      "title": "무주~성주~칠곡 4차로 신설…영호남 동서 교통망 확충…안호영, 새만금...",
-      "summary": "＃ 무주서 성주 거쳐 칠곡까지…영호남 잇는 4차로 무주~대구 고속도로는 전북 무주에서 경북 성주를 거쳐... 이날 안 의원은 국립해양도시과학관 건립 과 종자산업 혁신클러스터 조성 등 전북 주요 현안의 건의자료도...",
-      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=100721",
-      "date": "Thu, 05 Nov 2026 17:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://view.asiae.co.kr/article/2026110517054739115": {
-      "title": "30년 염원, 경북 의료의 새 길 열다…국립경국대 의대 신설 확정",
-      "summary": "국립경국대 의과대학과 부속병원 건립 사업은 경북 도청 신도시를 중심으로 추진될 예정이다. 의과대학에는 교육·연구시설을 마련하고 부속병원은 500병상 이상 규모로 조성하는 방안이 추진되고 있다. 의과대학은 신입생...",
-      "url": "https://view.asiae.co.kr/article/2026110517054739115",
-      "date": "Thu, 05 Nov 2026 17:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.betanews.net/article/view/beta202611050132": {
-      "title": "무주~대구 고속도로 84.1㎞ 예타…안호영 \"새만금 투자 반영해야\"",
-      "summary": "무주~대구 고속도로는 전북 무주에서 경북 성주를 거쳐 칠곡까지 84.1㎞를 4차로로 새로 놓는 사업이다.... 국립해양도시과학관 건립 , 종자산업 혁신클러스터 조성 등 전북 현안사업 건의자료도 함께 전달했다. 안 의원은...",
-      "url": "https://www.betanews.net/article/view/beta202611050132",
-      "date": "Thu, 05 Nov 2026 17:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886193": {
-      "title": "구미 공단동 도시재생지구 착공",
-      "summary": "구미 시는 이번 사업을 인근 문화산단 조성사업과 청년드림타워, 호텔 건립 사업 등과 연계할 방침입니다. 이를 통해 청년과 기업의 유입을 촉진하고, 근로자가 일과 생활, 여가를 함께 누릴 수 있는 산업단지로...",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886193",
-      "date": "Thu, 05 Nov 2026 17:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ppss.kr/news/articleView.html?idxno=319352": {
-      "title": "경찰, 강호동 농협중앙회장 구속 영장 신청…금품수수·공금 유용 의혹",
-      "summary": "2017년에는 부산은행장을 겸직하던 성세환 당시 BNK금융지주 회장이 주가 시세조종 혐의로 구속 됐고, 2018년에는 박인규 전 대구 은행장이 채용비리와 횡령 등 혐의로 구속 됐다. 강 회장의 구속 여부는 공소청과 법원의...",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=319352",
-      "date": "Thu, 05 Nov 2026 17:55:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://view.asiae.co.kr/article/2026110517042511653": {
-      "title": "경북TP, '카본코리아 2026' 참가…경북 탄소기업 지원 성과 빛냈다",
-      "summary": "이번에 참가한 기업은 에이펙스인텍㈜, ㈜우성첨단소재, 우성파워텍㈜, 이랑산업㈜, ㈜디와이, (유) 아진산업 , ㈜카보랩, 엔티피㈜ 등 총 8곳이다. 이들은 경상북도 지원으로 경북TP가 수행한 '탄소산업 혁신기술...",
-      "url": "https://view.asiae.co.kr/article/2026110517042511653",
-      "date": "Thu, 05 Nov 2026 17:17:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.gukjenews.com/news/articleView.html?idxno=3743543": {
-      "title": "에코프로 그룹 3분기 실적 발표…매출 8107억·영업익 112억",
-      "summary": "계열사별로 보면, 에코프로비엠 은 3분기 연결 매출 5579억 원, 영업이익 120억 원을 기록했다. 북미 전기차 시장 성장 둔화와 유럽 완성차 업체 재고 조정 등으로 EV향 매출은 감소했으나, AI 데이터센터 확장에 따른...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743543",
-      "date": "Thu, 05 Nov 2026 17:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ccdailynews.com/news/articleView.html?idxno=2449995": {
-      "title": "에코프로 , 3분기 영업이익 112억원… 전분기 대비 66.7% 감소",
-      "summary": "에코프로 가 올해 3분기 연결 기준 영업이익 112억원을 기록하며 흑자 기조를 이어갔지만 전분기보다 수익성이 악화된 것으로 나타났다. 에코프로 는 5일 3분기 연결 기준 매출 8107억원, 영업이익 112억원을 기록했다고...",
-      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2449995",
-      "date": "Thu, 05 Nov 2026 17:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newstree.kr/newsView/ntr202611050019": {
-      "title": "구본규 LS전선 대표 부회장으로 승진...LS그룹 임원인사 단행",
-      "summary": "계열사 CEO 인사에서는 최원규 이사가 LS- 엘앤에프 배터리솔루션 대표이사로 선임됐다. 김명균 전무는 모보, 오창호 상무는 LS메탈, 이유미 상무는 LS티라유텍, 이정용 이사는 LS메카피온 CEO를 각각 맡는다. LS그룹은...",
-      "url": "https://www.newstree.kr/newsView/ntr202611050019",
-      "date": "Thu, 05 Nov 2026 18:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.vegannews.co.kr/news/article.html?no=401005": {
-      "title": "엘앤에프 3분기 265억원 영업손실…1년 전 흑자서 적자",
-      "summary": "엘앤에프 (066970)가 2026년 3분기 연결 기준 영업손실 265억원을 기록해 전년 동기 흑자에서 적자로 돌아섰다. 엘앤에프 의 5일 잠정실적 공시에 따르면 3분기 매출은 8744억300만원으로, 전년 동기보다 34.0...",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=401005",
-      "date": "Thu, 05 Nov 2026 18:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://view.asiae.co.kr/article/2026110517384092851": {
-      "title": "엘앤에프 , 3분기 영업손실 265억원…환율·원재료값 하락에 적자",
-      "summary": "엘앤에프 가 올해 3분기 환율과 원재료 가격 하락의 영향으로 영업적자를 기록했다. 다만 하이니켈 양극재 출하 확대에 힘입어 올해 연간 출하량은 역대 최대를 기록할 것으로 전망했다. 엘앤에프 는 올해 3분기 매출...",
-      "url": "https://view.asiae.co.kr/article/2026110517384092851",
-      "date": "Thu, 05 Nov 2026 17:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mt.co.kr/industry/2026/11/05/2026110517275294102": {
-      "title": "엘앤에프 , 3분기 영업손실 265억..전년 대비 적자전환",
-      "summary": "엘앤에프 는 올해 3분기 매출액 8744억원, 영업손실 265억원을 기록했다고 5일 공시했다. 전년 동기 대비... 엘앤에프 는 울트라 하이니켈 양극재의 안정적인 공급과 북미 신규 고객사 대상 46파이(지름 46㎜) 원통형...",
-      "url": "https://www.mt.co.kr/industry/2026/11/05/2026110517275294102",
-      "date": "Thu, 05 Nov 2026 17:35:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.sedaily.com/article/20110816?ref=naver": {
-      "title": "엘앤에프 , 3분기 영업손실 265억 원로 적자 전환",
-      "summary": "엘앤에프 (066970)가 원·달러 환율 하락과 주요 원재료 가격 급락 여파로 적자 전환했다. 엘앤에프 는 올해 3분기 연결 기준 영업손실이 265억 원으로 전년 동기 영업이익 221억 원에서 적자 전환한 것으로 잠정...",
-      "url": "https://www.sedaily.com/article/20110816?ref=naver",
-      "date": "Thu, 05 Nov 2026 17:33:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=210943": {
-      "title": "LS그룹, 2027년도 임원 인사 단행…'안정 속 도약'",
-      "summary": "LS- 엘앤에프 배터리솔루션(LLBS) ▲ CEO 선임 이사 최원규 ◇ 가온전선 ▲ 상무 승진 LSCUS법인장 손태원 ▲ 신규 이사 선임 재경부문장 CFO 권세진 ◇ LS마린솔루션·LS빌드윈 ▲ 전무 승진 대표이사 CEO 김병옥...",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210943",
-      "date": "Thu, 05 Nov 2026 17:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.tf.co.kr/read/economy/2385436.htm": {
-      "title": "엘앤에프 , 3Q 영업손실 265억…적자 전환",
-      "summary": "매출 8744억…전년비 34% 증가 엘앤에프 는 3분기 연결 기준 매출과 영업 손실이 각각 8744억원, 265억원으로... 엘앤에프 는 3분기에는 원·달러 환율과 주요 원재료 가격의 급락에 따른 외부 요인으로 영업손실을...",
-      "url": "https://news.tf.co.kr/read/economy/2385436.htm",
-      "date": "Thu, 05 Nov 2026 17:21:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.popcornnews.net/news/articleView.html?idxno=138907": {
-      "title": "엘앤에프 , 3분기 영업손실 265억…NCM 판매 감소·원가 부담에 적자 전환",
-      "summary": "엘앤에프 가 올해 3분기 매출 증가에도 영업손실을 기록하며 적자로 돌아섰다. 이는 고부가 니켈·코발트... 5일 금융감독원 전자공시시스템에 따르면 엘앤에프 는 올해 3분기 연결 기준 매출 8744억 원, 영업손실 265억...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=138907",
-      "date": "Thu, 05 Nov 2026 17:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713054": {
-      "title": "엘앤에프 , 3분기 영업손실 265억...전년비 적자 전환",
-      "summary": "엘앤에프 대구 구지 3공장 전경 [사진: 엘앤에프 ] 엘앤에프 가 올해 3분기 매출액 8744억원, 영업손실 265억원을 기록했다고 5일 밝혔다. 전년 동기 대비 매출액은 34% 증가했지만 영업이익은 흑자에서 적자로 돌아섰다....",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713054",
-      "date": "Thu, 05 Nov 2026 17:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.thebigdata.co.kr/view.php?ud=2026110516575034130ecbf9426b_23": {
-      "title": "엘앤에프 , 3분기 영업손실 265억원…리튬·환율 하락에 적자전환",
-      "summary": "엘앤에프 는 올해 3분기 연결 기준 매출 8744억원, 영업손실 265억원을 기록했다고 5일 밝혔다. 매출은 전년... 엘앤에프 는 원재료 가격 하락에 따른 재고평가손실 약 426억원과 환율 하락에 따른 손실 약 220억원이...",
-      "url": "https://www.thebigdata.co.kr/view.php?ud=2026110516575034130ecbf9426b_23",
-      "date": "Thu, 05 Nov 2026 17:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.bloter.net/news/articleView.html?idxno=677887": {
-      "title": "엘앤에프 , 3Q 매출 34% 증가에도 '적자전환'…환율 하락에 발목",
-      "summary": "엘앤에프 가 올해 3분기 외형 성장에도 수익성 개선에 실패했다. 고부가 양극재 판매 확대에 힘입어 매출이 두 자릿수 증가했지만 환율 하락과 원재료 재고평가손실이 영업이익을 잠식했다. 엘앤에프 는 북미 ESS...",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=677887",
-      "date": "Thu, 05 Nov 2026 17:11:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.inews24.com/view/2023050": {
-      "title": "재정난 겪는 광양시에 힘 보태는 포스코 … 지역경제 상생 실천 '눈길'",
-      "summary": "광양시가 수백억 원대 재정부족으로 재정 정상화에 나선 가운데, 지역 최대 기업인 포스코 그룹이 대규모... 특히 광양시가 올해 약 650억 원의 재정부족을 예상하고 세출 구조조정과 세입 확충에 나선 상황에서 포스코 그룹...",
-      "url": "http://www.inews24.com/view/2023050",
-      "date": "Thu, 05 Nov 2026 17:13:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ickJyaWpaWFVLRlhOVG4tUGhMX0JER05FYmJjN2Q2akdEek9JQTBaN3MtMElyc2VDZEFSQXdYSlFRUUZ2R3FSMEZ0WFJtQUQwZDVLX2hvVi1MZmM5SXZIa0VfZGhudkxqd0p2Sw?oc=5": {
-      "title": "에코프로비엠 3분기 실적 하락세… 적자 전환 - 굿모닝경제",
-      "summary": "에코프로비엠 3분기 실적 하락세… 적자 전환 굿모닝경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ickJyaWpaWFVLRlhOVG4tUGhMX0JER05FYmJjN2Q2akdEek9JQTBaN3MtMElyc2VDZEFSQXdYSlFRUUZ2R3FSMEZ0WFJtQUQwZDVLX2hvVi1MZmM5SXZIa0VfZGhudkxqd0p2Sw?oc=5",
-      "date": "Thu, 05 Nov 2026 08:34:11 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHbEc3QThBZDd2S2JQLXRVQm9Zakt0NG1aZlNJV3N5djZBZmRuNmRpMUJHbFZQSmpmWEZqTndzUFlYTkthRnFXYmFMb2dmYTNyR3o4Sm5JcEdWSzZ4UncweFNCeXhGMGxmWE5DdNIBckFVX3lxTE1fLWxwYjhvWHZIREpiNkhndlhBN0F4VUZSMXNZWDRaZXZKb3NDcXI1VHlrXzNIVlJpLUNHckEyYmZaWTFka2V3TEJVWVdzQ3hlb1BZQmxwS1BWQ2pVZzB5S3ozTi1hT1dLdkhtb0JSenBzZw?oc=5": {
-      "title": "엘앤에프, 3분기 영업손실 265억..전년 대비 적자전환 - 머니투데이 - 머니투데이",
-      "summary": "엘앤에프, 3분기 영업손실 265억..전년 대비 적자전환 - 머니투데이 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHbEc3QThBZDd2S2JQLXRVQm9Zakt0NG1aZlNJV3N5djZBZmRuNmRpMUJHbFZQSmpmWEZqTndzUFlYTkthRnFXYmFMb2dmYTNyR3o4Sm5JcEdWSzZ4UncweFNCeXhGMGxmWE5DdNIBckFVX3lxTE1fLWxwYjhvWHZIREpiNkhndlhBN0F4VUZSMXNZWDRaZXZKb3NDcXI1VHlrXzNIVlJpLUNHckEyYmZaWTFka2V3TEJVWVdzQ3hlb1BZQmxwS1BWQ2pVZzB5S3ozTi1hT1dLdkhtb0JSenBzZw?oc=5",
-      "date": "Thu, 05 Nov 2026 08:35:38 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Bc3Z6VEJyNVo3S3dWcGxUcmFlZUc0UTNTQTZoSzRna09XS0k0Z3JIUjlQNURGelZ6NHNueG1TanJMa013ZkpiRkN6STFNaEp6WjA0OHVPQXhraExDTmNnd0ZBMy1oTWNDZUNCNTB3?oc=5": {
-      "title": "엘앤에프, 3분기 265억원 적자에도 연간 최대 출하 전망…내년 LFP 5만t 공급 - 아시아투데이",
-      "summary": "엘앤에프, 3분기 265억원 적자에도 연간 최대 출하 전망…내년 LFP 5만t 공급 아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Bc3Z6VEJyNVo3S3dWcGxUcmFlZUc0UTNTQTZoSzRna09XS0k0Z3JIUjlQNURGelZ6NHNueG1TanJMa013ZkpiRkN6STFNaEp6WjA0OHVPQXhraExDTmNnd0ZBMy1oTWNDZUNCNTB3?oc=5",
-      "date": "Thu, 05 Nov 2026 08:40:44 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81MDA0cDBfVDJ1enhQSUlVRmpWanU1dlVQbHlUTk5mc3UycW1UVFFSal9ZWDk2SlhSTFMwdGRpQ1hwXzVmZnlHdjZlc2hwM1BKT0JvbXNrOV9mZw?oc=5": {
-      "title": "포항 철강노조 “숙련인력·생산기반 지켜야” - 경북매일",
-      "summary": "포항 철강노조 “숙련인력·생산기반 지켜야” 경북매일",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81MDA0cDBfVDJ1enhQSUlVRmpWanU1dlVQbHlUTk5mc3UycW1UVFFSal9ZWDk2SlhSTFMwdGRpQ1hwXzVmZnlHdjZlc2hwM1BKT0JvbXNrOV9mZw?oc=5",
-      "date": "Thu, 05 Nov 2026 08:36:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUVpSmlWTS12d2ZsWHdqQlJFdERBa204bWppM181cHVMQ29OT2Eya0w0V0dXRnV6MzZQTjJXUGJoVkNoSUl2M3JmZHd0akRXR2c1ZzdmQVd2UXphZi1VSzdVVUtRZTFoenBOeWJtckdNWVhFdG9mUUNLWDZuWmpKTG1OOXBJUW1WTTJPb1ZWbzVySGFpZjBZbDR4dVlrUQ?oc=5": {
-      "title": "L&F Swings to Operating Loss of 26.5 Billion Won in Third Quarter - Seoul Economic Daily",
-      "summary": "L&F Swings to Operating Loss of 26.5 Billion Won in Third Quarter Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUVpSmlWTS12d2ZsWHdqQlJFdERBa204bWppM181cHVMQ29OT2Eya0w0V0dXRnV6MzZQTjJXUGJoVkNoSUl2M3JmZHd0akRXR2c1ZzdmQVd2UXphZi1VSzdVVUtRZTFoenBOeWJtckdNWVhFdG9mUUNLWDZuWmpKTG1OOXBJUW1WTTJPb1ZWbzVySGFpZjBZbDR4dVlrUQ?oc=5",
-      "date": "Thu, 05 Nov 2026 08:32:17 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIaHRnc2Y3ZjVobjBkemFZWjNlcHJvaFRSYWVrbUFFNkhpY0c5ajBfcXlNZTFXRzVQNC1iX0trdHhqWUtzLVdNX0s3TXk2UnZJeWtRU1JMcDFBVVV3QlNtaUFPanpnTzlLRXU1OWdlcVNvY01fMEE?oc=5": {
-      "title": "South Korea's L&F Posts Q3 Operating Loss of approximately $19.8 Million as Won-Dollar Rate, Raw Material Price Slump Bite - BigGo Finance",
-      "summary": "South Korea's L&F Posts Q3 Operating Loss of approximately $19.8 Million as Won-Dollar Rate, Raw Material Price Slump Bite BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIaHRnc2Y3ZjVobjBkemFZWjNlcHJvaFRSYWVrbUFFNkhpY0c5ajBfcXlNZTFXRzVQNC1iX0trdHhqWUtzLVdNX0s3TXk2UnZJeWtRU1JMcDFBVVV3QlNtaUFPanpnTzlLRXU1OWdlcVNvY01fMEE?oc=5",
-      "date": "Thu, 05 Nov 2026 08:25:00 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
     "https://sjbnews.com/news/news.php?number=891915": {
       "title": "\"새만금 투자 효과, 무주~대구 고속도로 예타에 반영해야\"",
       "summary": "덩달아 새만금과 영일만( 포항 )을 잇는 동서횡단 고속도로 또한 미완의 과제로 남겨졌다. 문제의 구간은 무주... 아울러 전주역 시설개선사업 중 역사 증축과 편의시설 확충, 김제 국립해양도시과학관 건립 과 종자산업...",
@@ -4960,6 +4708,202 @@
       "basis": "제목의 관내 지명/기관",
       "category": "산재·사업장 사고",
       "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.polinews.co.kr/news/articleView.html?idxno=748000": {
+      "title": "경북 도, 의성에 식품산업 '455억 원 투자 유치'… 일자리 83개 창출 및 지...",
+      "summary": "경북 도는 지난 6일 의성바이오푸드밸리에서 열린 '미래 신성장 산업 비전 선포식'에서 ㈜씨위드, ㈜오그래 농업회사법인과 총 455억 원 규모의 투자양해각서( MOU )를 체결했다고 밝혔다. 이번 투자협약에 따라 씨위드는...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748000",
+      "date": "Sat, 07 Nov 2026 17:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ytn.co.kr/_ln/0115_202611071747348746": {
+      "title": "경북 경주서 변압기 화재 ...작업자 3명 중·경상",
+      "summary": "오늘(7일) 오전 10시쯤 경북 경주시 사정동 거리에 있는 변압기에서 폭발과 함께 불이 났습니다. 불은 10분... 경찰과 소방 당국은 고장 난 변압기를 교체하던 중 화재 가 일어난 것으로 보고 정확한 원인을 조사하고...",
+      "url": "https://www.ytn.co.kr/_ln/0115_202611071747348746",
+      "date": "Sat, 07 Nov 2026 17:47:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.yeongnam.com/web/view.php?key=20261107024369298": {
+      "title": "포스코 노조, 임금협상안 부결…노사 재교섭 국면으로",
+      "summary": "7일 영남일보 취재를 종합하면, 포스코 노조가 이날 실시한 찬반투표에서 투표자 9천177명 중 4천744명(51%)이... 포스코 가동 여부가 지역 경제 와 직결되는 포항에서는 갈등이 장기화하면 식당과 상점, 협력업체 등 지역...",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261107024369298",
+      "date": "Sat, 07 Nov 2026 17:46:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.dt.co.kr/article/12093660?ref=naver": {
+      "title": "포스코 노조, 찬반투표서 임금 잠정합의안 부결…51.7% 반대",
+      "summary": "포스코 임금 및 단체협약 잠정합의안이 조합원 찬반투표 문턱을 넘지 못하면서 노사가 다시 협상 테이블에 앉게 됐다. 대표 교섭노조인 한국노총 금속노련 포스코 노동조합은 7일 임금교섭 잠정합의안을 대상으로...",
+      "url": "https://www.dt.co.kr/article/12093660?ref=naver",
+      "date": "Sat, 07 Nov 2026 17:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsis.com/view/NISX20261107_0003858993": {
+      "title": "포스코 노조, 잠정합의안 찬반투표 부결…찬성 49%·반대 51%",
+      "summary": "포스코 노사가 마련한 임금·단체협약 잠정합의안이 노동조합 찬반투표에서 부결됐다. 7일 포스코 등에 따르면 이날 진행된 잠정합의안 찬반투표에는 전체 조합원 가운데 9177명이 참여했으며 찬성 4433표(48.3%), 반대...",
+      "url": "https://www.newsis.com/view/NISX20261107_0003858993",
+      "date": "Sat, 07 Nov 2026 17:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=314852": {
+      "title": "포스코 노조 임단협 잠정합의안 311표 차 부결… 재점화된 파업 전운",
+      "summary": "포항제철소 전경 2026.11.07 [사진= 포스코 ] 사상 초유의 무기한 총파업 위기라는 벼랑 끝에서 극적으로 도출됐던 포스코 노사의 2026년도 임금·단체협약 잠정합의안이 조합원 총투표 문턱을 넘지 못하고 끝내 좌초됐다....",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314852",
+      "date": "Sat, 07 Nov 2026 17:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://biz.sbs.co.kr/article_hub/20000344923?division=NAVER": {
+      "title": "포스코 노조, 임금교섭 잠정합의안 찬반투표 부결…51.7% 반대",
+      "summary": "포스코 노사의 올해 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결됐습니다. 한국노총 금속노련 포스코 노동조합은 오늘(7일) 회사 측과 잠정 합의한 임금 교섭안을 놓고 조합원 찬반투표를 한 결과 찬성 48.31...",
+      "url": "https://biz.sbs.co.kr/article_hub/20000344923?division=NAVER",
+      "date": "Sat, 07 Nov 2026 17:53:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=03181606645643424&mediaCodeNo=257": {
+      "title": "[속보] 포스코 노조, 올해 임금협상 잠정합의안 부결…교섭 원점",
+      "summary": "포스코 노동조합이 올해 임금협상 잠정합의안을 부결시켰다. 기본급 2.6% 인상과 일시금 600만원 지급... 서울 강남구 포스코 센터. 한국노총 전국금속노동조합연맹 포스코 노동조합은 7일 조합원을 대상으로...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03181606645643424&mediaCodeNo=257",
+      "date": "Sat, 07 Nov 2026 17:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newscj.com/news/articleView.html?idxno=3446785": {
+      "title": "포스코 노조, 임금교섭 잠정합의안 부결… 노사 갈등 장기화 우려",
+      "summary": "포스코 노사가 두 차례 부분파업 끝에 마련한 임금교섭 잠정합의안이 조합원 찬반투표에서 부결됐다.... 7일 업계에 따르면 포스코 노동조합은 이날 임금교섭 잠정합의안에 대한 조합원 찬반투표를 실시한 결과 반대...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3446785",
+      "date": "Sat, 07 Nov 2026 17:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.yna.co.kr/view/AKR20261107046300053?input=1195m": {
+      "title": "포스코 노조, 임금 잠정합의안 부결…51.7% 반대",
+      "summary": "포스코 노사의 올해 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결됐다. 대표 교섭노조인 한국노총 금속노련 포스코 노동조합은 7일 회사 측과 잠정 합의한 임금 교섭안을 놓고 조합원 찬반투표를 한 결과 찬성...",
+      "url": "https://www.yna.co.kr/view/AKR20261107046300053?input=1195m",
+      "date": "Sat, 07 Nov 2026 17:47:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6346476": {
+      "title": "[속보] 포스코 노조, 임금협상 잠정안 찬반투표 부결",
+      "summary": "",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6346476",
+      "date": "Sat, 07 Nov 2026 17:45:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsis.com/view/NISX20261107_0003858986": {
+      "title": "[속보] 포스코 노조, 잠정 합의안 찬반투표 부결…311표차",
+      "summary": "",
+      "url": "https://www.newsis.com/view/NISX20261107_0003858986",
+      "date": "Sat, 07 Nov 2026 17:39:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.sedaily.com/article/20111465?ref=naver": {
+      "title": "포스코 노조, 임금협상 잠정안 부결…노사 갈등 장기화하나",
+      "summary": "포스코 노조가 올해 임금협상 잠정합의안을 부결시키면서 5개월 가까이 이어진 교섭이 다시 원점으로... 한국노동조합총연맹(한국노총) 전국금속노동조합연맹(금속노련) 포스코 노동조합( 포스코 노조)은 7일 오전...",
+      "url": "https://www.sedaily.com/article/20111465?ref=naver",
+      "date": "Sat, 07 Nov 2026 17:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ajunews.com/view/20261107171711953": {
+      "title": "포스코 노조, 임금교섭 잠정합의안 부결…반대 51%",
+      "summary": "7일 조합원 찬반투표서 과반 동의 못 얻어 아주경제=이나경 기자 nakk@ajunews.com 포스코 포항제철소 앞. [사진=연합뉴스] 포스코 노동조합이 올해 임금교섭 잠정합의안에 대한 조합원 찬반투표에서 반대 51%로 합의안을...",
+      "url": "https://www.ajunews.com/view/20261107171711953",
+      "date": "Sat, 07 Nov 2026 17:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYmxSS2hIanVlcEJaUEk2VngtNUZmNTVIMGFhX0VpZEdzQjRRaDNvRmdSR1FUcVFLOE9tU0FtdUZvcXlXaXVLTnpLQUJqNS0ybDJSeUh0aGs4RTdHNDJ2YWRNcHdocnlYaU1udk1n?oc=5": {
+      "title": "경북도, 의성에 식품산업 '455억 원 투자 유치'… 일자리 83개 창출 및 지역경제 활성화 기대 - 폴리뉴스 Polinews",
+      "summary": "경북도, 의성에 식품산업 '455억 원 투자 유치'… 일자리 83개 창출 및 지역경제 활성화 기대 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYmxSS2hIanVlcEJaUEk2VngtNUZmNTVIMGFhX0VpZEdzQjRRaDNvRmdSR1FUcVFLOE9tU0FtdUZvcXlXaXVLTnpLQUJqNS0ybDJSeUh0aGs4RTdHNDJ2YWRNcHdocnlYaU1udk1n?oc=5",
+      "date": "Sat, 07 Nov 2026 08:29:54 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
       "filter_version": 17
     }
   },
@@ -7247,6 +7191,56 @@
       "url": "https://www.yeongnam.com/web/view.php?key=20261107026009285",
       "title": "경주 사정동 도로 변압기 폭발… 작업자 3명 부상",
       "date": "Sat, 07 Nov 2026 16:04:00 +0900"
+    },
+    {
+      "url": "https://www.ytn.co.kr/_ln/0115_202611071747348746",
+      "title": "경북 경주서 변압기 화재 ...작업자 3명 중·경상",
+      "date": "Sat, 07 Nov 2026 17:47:00 +0900"
+    },
+    {
+      "url": "https://www.dt.co.kr/article/12093660?ref=naver",
+      "title": "포스코 노조, 찬반투표서 임금 잠정합의안 부결…51.7% 반대",
+      "date": "Sat, 07 Nov 2026 17:58:00 +0900"
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261107_0003858993",
+      "title": "포스코 노조, 잠정합의안 찬반투표 부결…찬성 49%·반대 51%",
+      "date": "Sat, 07 Nov 2026 17:58:00 +0900"
+    },
+    {
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314852",
+      "title": "포스코 노조 임단협 잠정합의안 311표 차 부결… 재점화된 파업 전운",
+      "date": "Sat, 07 Nov 2026 17:54:00 +0900"
+    },
+    {
+      "url": "https://biz.sbs.co.kr/article_hub/20000344923?division=NAVER",
+      "title": "포스코 노조, 임금교섭 잠정합의안 찬반투표 부결…51.7% 반대",
+      "date": "Sat, 07 Nov 2026 17:53:00 +0900"
+    },
+    {
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03181606645643424&mediaCodeNo=257",
+      "title": "[속보] 포스코 노조, 올해 임금협상 잠정합의안 부결…교섭 원점",
+      "date": "Sat, 07 Nov 2026 17:52:00 +0900"
+    },
+    {
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3446785",
+      "title": "포스코 노조, 임금교섭 잠정합의안 부결… 노사 갈등 장기화 우려",
+      "date": "Sat, 07 Nov 2026 17:48:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261107046300053?input=1195m",
+      "title": "포스코 노조, 임금 잠정합의안 부결…51.7% 반대",
+      "date": "Sat, 07 Nov 2026 17:47:00 +0900"
+    },
+    {
+      "url": "https://www.yeongnam.com/web/view.php?key=20261107024369298",
+      "title": "포스코 노조, 임금협상안 부결…노사 재교섭 국면으로",
+      "date": "Sat, 07 Nov 2026 17:46:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6346476",
+      "title": "[속보] 포스코 노조, 임금협상 잠정안 찬반투표 부결",
+      "date": "Sat, 07 Nov 2026 17:45:00 +0900"
     }
   ],
   "brief_articles": [],
