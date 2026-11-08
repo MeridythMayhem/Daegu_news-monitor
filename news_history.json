@@ -1626,7 +1626,12 @@
     "https://www.viva100.com/article/20261107500203": "2026-11-07T23:01:54.137564+09:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZV3dfYU0yTDl6WE93REFuU05TRzRqNzlGanRnWlNTWlh6SDNzWGxNTW80M2taR0E5Rzh0eVpDSjZ4TFVBOFJxSDB6SERRdFhDSTBCWXZLU2huQQ?oc=5": "2026-11-07T23:01:54.137564+09:00",
     "https://www.m-i.kr/news/articleView.html?idxno=2015691": "2026-11-07T23:01:54.137564+09:00",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pejl3VnpBd2dBejY4MVRVVWhwcWVLX2RMZjBBOG9NVjRmS2g0R0NtQ28ybmQyc1RpbmtWY0M3bkR1MkVJMkxNU3czT2JpbzFlVmowNTRwWkNTTHpuMUNLbg?oc=5": "2026-11-07T23:01:54.137564+09:00"
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pejl3VnpBd2dBejY4MVRVVWhwcWVLX2RMZjBBOG9NVjRmS2g0R0NtQ28ybmQyc1RpbmtWY0M3bkR1MkVJMkxNU3czT2JpbzFlVmowNTRwWkNTTHpuMUNLbg?oc=5": "2026-11-07T23:01:54.137564+09:00",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwMHZqcXhtNkptcDJ2b2ljOHBNQTEyUy1DYTItangzZDlyblpCRzBkSzlkZnk0RmpPd3loeTRta1A5TnhraDlfSk91ZEEtcVpIWUdmZjlaUXdneTBxMGE4eDdxWTluVzV2?oc=5": "2026-11-08T10:01:55.176056+09:00",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=886394": "2026-11-08T10:01:55.176056+09:00",
+    "https://www.ddaily.co.kr/page/view/2026110802215406547": "2026-11-08T10:01:55.176056+09:00",
+    "https://biz.chosun.com/industry/company/2026/11/08/PFB7ZUZJTBAQFIPOAA7D6ETUUM/": "2026-11-08T10:01:55.176056+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE81SXJYSW9Wakx5T2hURHEyeXpoaU1SYlVIalJVelp4UUJJVUtweGwyeHhFX1hMSXBpY0hGQU1NMHd3WnJ4WGdrU2ZxRXRrRHJ4YWNpZVpxU2ptaUU5U1p3ZTFhOVhuNlNWbDlB?oc=5": "2026-11-08T10:01:55.176056+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2755,7 +2760,12 @@
     "cf08be7e5ad96a532b12e81e7ddb297816a61a7cbd1660a3d7c1898b1e03d34d": "2026-11-07T23:01:54.137564+09:00",
     "04265018af7413e096dfa934a355ee8959125ea55cb0d9ad88f031d84d2b1a3d": "2026-11-07T23:01:54.137564+09:00",
     "143568f0902123c636ac6e169b7fcd515e144a5b8c1f26e945a58cf26656a86c": "2026-11-07T23:01:54.137564+09:00",
-    "93eb678fc1baa5bf85c1ee01ef5acf2b4959206709df79a50581283fad60d0c8": "2026-11-07T23:01:54.137564+09:00"
+    "93eb678fc1baa5bf85c1ee01ef5acf2b4959206709df79a50581283fad60d0c8": "2026-11-07T23:01:54.137564+09:00",
+    "6a071384fc079679ebacf14c6401e037e7c369292fe4bdfcb9daa8c6ee7fd350": "2026-11-08T10:01:55.176056+09:00",
+    "0c9b74ae7486621f19203ba0905941e7432950488d81b8518e6449107d09c6f4": "2026-11-08T10:01:55.176056+09:00",
+    "30989fbf8e86b057349dae07f39d63821a720a8b3e2e764500034e7509170302": "2026-11-08T10:01:55.176056+09:00",
+    "e0a3c38b0b1ae75de43648aaccf0f67cd89f293f152f08e901f47a9b054a050d": "2026-11-08T10:01:55.176056+09:00",
+    "1d2a023f8cf6a247b8286c79628dcf55fe456b3cf8ea0c13bbbb2ee385db9364": "2026-11-08T10:01:55.176056+09:00"
   },
   "pending": {},
   "ai": {
@@ -2767,97 +2777,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611060805135050921": {
-      "title": "경북 도, 의성에 식품산업 455억 원 투자 유치…푸드테크 거점 육성 본격...",
-      "summary": "경북 도는 6일 의성바이오푸드밸리에서 열린 '미래 신성장 산업 비전 선포식'에서 식품 전문 산업단지 준공식을 개최하고, ㈜씨위드 및 ㈜오그래 농업회사법인과 총 455억 원 규모의 투자양해각서( MOU )를 체결했다고...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611060805135050921",
-      "date": "Fri, 06 Nov 2026 09:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717956": {
-      "title": "이만희 \" 경북 의료환경 바꿀 전환점\"…국립경국대 의대 신설 확정 환영",
-      "summary": "교육병원을 건립 하는 내용이 담겼다. 사업비는 국비 2,790억원, 지방비 3,535억원으로 구성된다. 교육병원은 경북 북부권의 중증·응급·소아·분만 등 필수의료를 담당하는 거점 의료기관으로 육성된다. 지역 의료인력...",
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717956",
-      "date": "Fri, 06 Nov 2026 09:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6345097": {
-      "title": "의성 바이오푸드밸리 준공…기업 2곳 455억 투자 ·83명 고용",
-      "summary": "경북 도는 6일 의성군과 함께 식품기업 2곳과 455억 원 규모의 투자 협약 을 맺고 의성바이오푸드밸리를 미래 식품산업 거점으로 육성한다고 밝혔다. 이날 의성바이오푸드밸리에서 미래 신성장 산업 비전 선포식과...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6345097",
-      "date": "Fri, 06 Nov 2026 09:13:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newspim.com/news/view/20261106000077": {
-      "title": "[모닝 리포트] \" 엘앤에프 , 실적 부진에도 LFP 확장 주목\"",
-      "summary": "삼성증권은 6일 양극재 기업 엘앤에프 에 대해 리튬 가격 약세에 따른 재고 관련 손실로 단기 실적 부담이... 엘앤에프 의 올해 3분기 매출액은 8744억원으로 전분기 대비 1% 감소했고 영업손실은 265억원을 기록해 시장...",
-      "url": "https://www.newspim.com/news/view/20261106000077",
-      "date": "Fri, 06 Nov 2026 09:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjMzVEQmtqRjN3VzhjYzdRQ2FTcE1tWTFtQmZQSGhOZW9BTUMzazlHOThMT19UZzZNNFltM2tzWnhJZjRwTjVoby1LUUxCZ0RldlNHME5EdjA4X1p3QllDVUc5UTB5Uko5bkVhSnFqbFNGQTjSAXdBVV95cUxPUE9IRkJOVVA2b0ZRS3AwbXo1cUFDYzlBVmt4cl93a0VlRl9oNUh6T2xkY2NFZHEwMXkzUXRmTWFCaElscVBtLXlhSU9NeXVEVi02WkpMeXN4UF9CRzh3V2RFOGw3eEFzUGx3ZFNSOGhzWnJWZVg4MA?oc=5": {
-      "title": "이만희 “경북 의료환경 바꿀 전환점”…국립경국대 의대 신설 확정 환영 - 뉴스프리존",
-      "summary": "이만희 “경북 의료환경 바꿀 전환점”…국립경국대 의대 신설 확정 환영 뉴스프리존",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjMzVEQmtqRjN3VzhjYzdRQ2FTcE1tWTFtQmZQSGhOZW9BTUMzazlHOThMT19UZzZNNFltM2tzWnhJZjRwTjVoby1LUUxCZ0RldlNHME5EdjA4X1p3QllDVUc5UTB5Uko5bkVhSnFqbFNGQTjSAXdBVV95cUxPUE9IRkJOVVA2b0ZRS3AwbXo1cUFDYzlBVmt4cl93a0VlRl9oNUh6T2xkY2NFZHEwMXkzUXRmTWFCaElscVBtLXlhSU9NeXVEVi02WkpMeXN4UF9CRzh3V2RFOGw3eEFzUGx3ZFNSOGhzWnJWZVg4MA?oc=5",
-      "date": "Fri, 06 Nov 2026 00:08:48 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oM2lpWFhYVzRqNVB4NmhLQ3FSOEtmVFNmSkNPVFJvLW9tQ2NxWFFzLUtabmJPRHNyM3d0WG94U3g0N2lrS0JYbjViNV8?oc=5": {
-      "title": "구미 1산업단지 도시재생 사업 '첫 삽'...2719억 투입 - 아이뉴스24",
-      "summary": "구미 1산업단지 도시재생 사업 '첫 삽'...2719억 투입 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oM2lpWFhYVzRqNVB4NmhLQ3FSOEtmVFNmSkNPVFJvLW9tQ2NxWFFzLUtabmJPRHNyM3d0WG94U3g0N2lrS0JYbjViNV8?oc=5",
-      "date": "Fri, 06 Nov 2026 00:08:26 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE51THB3MnM4TmdkRUhHc2VJWm1NeU1zVkdGZzFnaktTSU44Z1NkYUZFNVpfUUJSYncySzFwRHRUeDFueUlWYlRUWGVQdkNoc3hfaGF2TlEtZmt3R2JzQ1o4ZlNSV0FxTTE4Vzlybg?oc=5": {
-      "title": "NH농협은행 경북본부, K푸드 세계화 위한 경북 농식품기업 투자설명회 개최 - 농수축산신문",
-      "summary": "NH농협은행 경북본부, K푸드 세계화 위한 경북 농식품기업 투자설명회 개최 농수축산신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51THB3MnM4TmdkRUhHc2VJWm1NeU1zVkdGZzFnaktTSU44Z1NkYUZFNVpfUUJSYncySzFwRHRUeDFueUlWYlRUWGVQdkNoc3hfaGF2TlEtZmt3R2JzQ1o4ZlNSV0FxTTE4Vzlybg?oc=5",
-      "date": "Fri, 06 Nov 2026 00:18:10 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.nocutnews.co.kr/news/6603153": {
       "title": "경주 명계3산단에 태영테크 공장 준공…지역경제 활력 기대",
       "summary": "경북 경주시 내남면 명계3일반산업단지에 자동차 부품 전문기업의 새로운 공장이 준공됐다. 신규 일자리... 태영테크(주)는 지난해 7월 경주시와 151억 원 규모의 자동차 부품 신공장 건립을 위한 투자양해각서( MOU )를...",
@@ -4716,6 +4635,71 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ddaily.co.kr/page/view/2026110802215406547": {
+      "title": "'3Q 주춤' 양극재, 내년 반등 노린다…LG엔솔 빠진 韓 ESS 3차 입찰 [위클...",
+      "summary": "엘앤에프 는 매출 8744억원을 기록했지만 영업손실 265억원으로 적자전환했습니다. 원재료 가격 하락에... 실제로 엘앤에프 는 국내 배터리 셀 제조사 3곳과 해외 고객사 1곳 등 총 4곳으로부터 LFP 양극재 25만톤의...",
+      "url": "https://www.ddaily.co.kr/page/view/2026110802215406547",
+      "date": "Sun, 08 Nov 2026 09:51:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.getnews.co.kr/news/articleView.html?idxno=886394": {
+      "title": "포스코 노조, 임금 잠정합의안 부결…조합원 51.7% 반대",
+      "summary": "포스코 노사가 마련한 올해 임금협상 잠정 합의안이 조합원 찬반투표에서 부결됐다. 한국노총 금속노련 포스코 노동조합은 7일 조합원 찬반투표 결과 찬성 48.31%(4433표), 반대 51.69%(4744표)로 부결됐다고 밝혔다. 노조...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886394",
+      "date": "Sun, 08 Nov 2026 09:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://biz.chosun.com/industry/company/2026/11/08/PFB7ZUZJTBAQFIPOAA7D6ETUUM/": {
+      "title": "포스코 노사 잠정합의안, 노조원 투표서 부결",
+      "summary": "포스코 그룹 산하 철강 사업 회사인 포스코 의 노사가 합의한 단체교섭 잠정합의안이 7일 조합원 찬반 투표에서 부결됐다. 노조 지도부가 내놓은 잠정합의한이 조합원의 동의를 얻지 못한 것이다. 8일 철강업계에...",
+      "url": "https://biz.chosun.com/industry/company/2026/11/08/PFB7ZUZJTBAQFIPOAA7D6ETUUM/",
+      "date": "Sun, 08 Nov 2026 09:41:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwMHZqcXhtNkptcDJ2b2ljOHBNQTEyUy1DYTItangzZDlyblpCRzBkSzlkZnk0RmpPd3loeTRta1A5TnhraDlfSk91ZEEtcVpIWUdmZjlaUXdneTBxMGE4eDdxWTluVzV2?oc=5": {
+      "title": "안덕수 신임 국세청장 내정‥ \"꼼수 탈세 잡고 서민은 품는다\" - 일간경기",
+      "summary": "안덕수 신임 국세청장 내정‥ \"꼼수 탈세 잡고 서민은 품는다\" 일간경기",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwMHZqcXhtNkptcDJ2b2ljOHBNQTEyUy1DYTItangzZDlyblpCRzBkSzlkZnk0RmpPd3loeTRta1A5TnhraDlfSk91ZEEtcVpIWUdmZjlaUXdneTBxMGE4eDdxWTluVzV2?oc=5",
+      "date": "Sun, 08 Nov 2026 00:30:54 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE81SXJYSW9Wakx5T2hURHEyeXpoaU1SYlVIalJVelp4UUJJVUtweGwyeHhFX1hMSXBpY0hGQU1NMHd3WnJ4WGdrU2ZxRXRrRHJ4YWNpZVpxU2ptaUU5U1p3ZTFhOVhuNlNWbDlB?oc=5": {
+      "title": "포스코 임금 잠정합의안 노조 투표서 부결…반대 51.69% - 한국사회복지저널",
+      "summary": "포스코 임금 잠정합의안 노조 투표서 부결…반대 51.69% 한국사회복지저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81SXJYSW9Wakx5T2hURHEyeXpoaU1SYlVIalJVelp4UUJJVUtweGwyeHhFX1hMSXBpY0hGQU1NMHd3WnJ4WGdrU2ZxRXRrRHJ4YWNpZVpxU2ptaUU5U1p3ZTFhOVhuNlNWbDlB?oc=5",
+      "date": "Sun, 08 Nov 2026 00:11:35 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
     }
@@ -7188,6 +7172,31 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pejl3VnpBd2dBejY4MVRVVWhwcWVLX2RMZjBBOG9NVjRmS2g0R0NtQ28ybmQyc1RpbmtWY0M3bkR1MkVJMkxNU3czT2JpbzFlVmowNTRwWkNTTHpuMUNLbg?oc=5",
       "title": "구미시, 「공단동 도시재생혁신지구 조성사업 착공식」 개최 - 구미일보",
       "date": "Sat, 07 Nov 2026 13:03:46 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwMHZqcXhtNkptcDJ2b2ljOHBNQTEyUy1DYTItangzZDlyblpCRzBkSzlkZnk0RmpPd3loeTRta1A5TnhraDlfSk91ZEEtcVpIWUdmZjlaUXdneTBxMGE4eDdxWTluVzV2?oc=5",
+      "title": "안덕수 신임 국세청장 내정‥ \"꼼수 탈세 잡고 서민은 품는다\" - 일간경기",
+      "date": "Sun, 08 Nov 2026 00:30:54 GMT"
+    },
+    {
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886394",
+      "title": "포스코 노조, 임금 잠정합의안 부결…조합원 51.7% 반대",
+      "date": "Sun, 08 Nov 2026 09:52:00 +0900"
+    },
+    {
+      "url": "https://www.ddaily.co.kr/page/view/2026110802215406547",
+      "title": "'3Q 주춤' 양극재, 내년 반등 노린다…LG엔솔 빠진 韓 ESS 3차 입찰 [위클...",
+      "date": "Sun, 08 Nov 2026 09:51:00 +0900"
+    },
+    {
+      "url": "https://biz.chosun.com/industry/company/2026/11/08/PFB7ZUZJTBAQFIPOAA7D6ETUUM/",
+      "title": "포스코 노사 잠정합의안, 노조원 투표서 부결",
+      "date": "Sun, 08 Nov 2026 09:41:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81SXJYSW9Wakx5T2hURHEyeXpoaU1SYlVIalJVelp4UUJJVUtweGwyeHhFX1hMSXBpY0hGQU1NMHd3WnJ4WGdrU2ZxRXRrRHJ4YWNpZVpxU2ptaUU5U1p3ZTFhOVhuNlNWbDlB?oc=5",
+      "title": "포스코 임금 잠정합의안 노조 투표서 부결…반대 51.69% - 한국사회복지저널",
+      "date": "Sun, 08 Nov 2026 00:11:35 GMT"
     }
   ],
   "brief_articles": [
