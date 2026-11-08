@@ -1634,7 +1634,10 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE81SXJYSW9Wakx5T2hURHEyeXpoaU1SYlVIalJVelp4UUJJVUtweGwyeHhFX1hMSXBpY0hGQU1NMHd3WnJ4WGdrU2ZxRXRrRHJ4YWNpZVpxU2ptaUU5U1p3ZTFhOVhuNlNWbDlB?oc=5": "2026-11-08T10:01:55.176056+09:00",
     "http://www.breaknews.com/1249195": "2026-11-08T11:01:52.329653+09:00",
     "https://www.seoulfn.com/news/articleView.html?idxno=642206": "2026-11-08T12:01:53.180744+09:00",
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=367307": "2026-11-08T13:01:56.261875+09:00"
+    "http://www.sisafocus.co.kr/news/articleView.html?idxno=367307": "2026-11-08T13:01:56.261875+09:00",
+    "https://www.greened.kr/news/articleView.html?idxno=354109": "2026-11-08T14:02:17.836385+09:00",
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229645": "2026-11-08T14:02:17.836385+09:00",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odDNjZmhMTFBRZ3dydUlwZUN0VU50SHpVcHVSaVhpdjlNMk93dDBzYV8tN056VDJwUGVvMUs4Vkx6UDZxX1RPM19JZGhKd1NQVl9hS3FPQk9vWDZ3aG1tVVY5ZErSAWdBVV95cUxObjFOSWxGY2dKWEY5ZWh4YkY2dVZGOVhjSnljVVdINEMwbkhjVnpnR0F0TDVYZ1BneTcxQWVINWJHM1JhOTB0Xzl3WnBTM0l0QWg0X2k5WXpYa0U4ei1DSnlxaGFlalc4?oc=5": "2026-11-08T14:02:17.836385+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2771,7 +2774,10 @@
     "1d2a023f8cf6a247b8286c79628dcf55fe456b3cf8ea0c13bbbb2ee385db9364": "2026-11-08T10:01:55.176056+09:00",
     "4e108ce87e7109fb53edec09df18c28671d8c6dbbef1193730c4cd69f24fe585": "2026-11-08T11:01:52.329653+09:00",
     "29d8cddb3cb5d0c5becc2ca50a21d063681cd10721a25282913c1acdf9d9fe77": "2026-11-08T12:01:53.180744+09:00",
-    "9405bd0d46dfe9c380e4721c305f00aefa77bc3a82ecdd480e4ea0234734fa0f": "2026-11-08T13:01:56.261875+09:00"
+    "9405bd0d46dfe9c380e4721c305f00aefa77bc3a82ecdd480e4ea0234734fa0f": "2026-11-08T13:01:56.261875+09:00",
+    "7495f634ebbd2991b394cb16b580c6d0a7afd9109a732918677d8a7affb5755f": "2026-11-08T14:02:17.836385+09:00",
+    "bf9052d1386acbf6755e1b1b32ad71cfb17b678cda4012a68d9ea6309a61e36f": "2026-11-08T14:02:17.836385+09:00",
+    "966c7f8b7110800b4bad887d4b6929d485c457545b8073aa745b471e0809e05a": "2026-11-08T14:02:17.836385+09:00"
   },
   "pending": {},
   "ai": {
@@ -2779,89 +2785,11 @@
     "2026-11-04": 15,
     "2026-11-05": 31,
     "2026-11-06": 18,
-    "2026-11-07": 7
+    "2026-11-07": 7,
+    "2026-11-08": 2
   },
   "cursor": 0,
   "archive": {
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080503": {
-      "title": "경주 태영테크, 명계3산단에 151억원 투자 신공장 준공",
-      "summary": "경북 경주시 명계3일반산업단지에 자동차 부품 전문기업 태영테크㈜의 신공장이 들어서면서 지역 자동차... 이번 공장 준공은 지난해 7월 경주시와 태영테크가 체결한 투자양해각서( MOU )에 따른 것이다. 당시 회사는...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080503",
-      "date": "Fri, 06 Nov 2026 13:38:00 +0900",
-      "channels": [
-        "domestic",
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://dgmbc.com/NewsArticle/871864": {
-      "title": "대구 소방, 겨울철 화재 대비 노후아파트· 공장 집중적으로 점검",
-      "summary": "대구 소방은 우선 노후 아파트를 대상으로 단독 경보형 감지기를 집중적으로 보급하고 현장 중심 피난 훈련을 추진합니다. 공장 과 물류창고 화재 를 예방하기 위해 노후 공장 을 대상으로 화재 예방 안전 사업을 하고, 불법...",
-      "url": "https://dgmbc.com/NewsArticle/871864",
-      "date": "Fri, 06 Nov 2026 13:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501910": {
-      "title": "곡물가 안정에 농업 테마주 주춤… 대동 금속·그린플러스는 '함박웃음'",
-      "summary": "한국거래소에 따르면 이날 오후 1시 39분 현재 농기계용 주물 부품을 생산하는 대동 금속은 13% 급등한 3780원에... 농기계 부품 사업을 영위하는 대동 기어도 2.88% 상승한 6790원에 거래되고 있다. 누보와 TYM 역시 개별 사업...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501910",
-      "date": "Fri, 06 Nov 2026 13:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.farminsight.net/news/articleView.html?idxno=17186": {
-      "title": "농협사료- 포스코 인터내셔널, 사료원료 공급망 MOU",
-      "summary": "최강필 농협사료 대표이사와 임재성 포스코 인터내셔널 소재바이오본부장이 업무협약을 체결한 뒤 기념촬영을 가졌다. 농협사료와 포스코 인터내셔널이 수입 사료원료의 안정적 공급망 구축을 위한 업무협약(MOU)을 5년...",
-      "url": "https://www.farminsight.net/news/articleView.html?idxno=17186",
-      "date": "Fri, 06 Nov 2026 13:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBrNWFqZWVoOWszTmQxS3RKT2dYYzJRM25GSzVVbjRWRl96WF82NHJDVjlYbEUweTNVdVIxeTR6UG1jelN2YnlIUDF4a3JmcElWdVJob3BUTk5VMUxKeDBlU183N2tWZ3owTTdvUG5WcVUzQQ?oc=5": {
-      "title": "경주시, 태영테크 명계3산단 신공장 준공…151억 원 투자 결실 - 웹이코노미",
-      "summary": "경주시, 태영테크 명계3산단 신공장 준공…151억 원 투자 결실 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrNWFqZWVoOWszTmQxS3RKT2dYYzJRM25GSzVVbjRWRl96WF82NHJDVjlYbEUweTNVdVIxeTR6UG1jelN2YnlIUDF4a3JmcElWdVJob3BUTk5VMUxKeDBlU183N2tWZ3owTTdvUG5WcVUzQQ?oc=5",
-      "date": "Fri, 06 Nov 2026 04:02:51 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KU3liN0RubUdydXhxNDRJRGxnNVZpYTA2RUx1eG43UmRYR2ZWaGY5YVdXS2RCTGRCVm5xdk1RY3h6Y3VtRG9ib2RQVXdEcUxJbDFiOVVwMndGY29GOEZPVTR3elRmc3A0?oc=5": {
-      "title": "안호영 “새만금 대규모 투자, 무주~대구 고속도로 예타에 반영해야” - 시사브리핑",
-      "summary": "안호영 “새만금 대규모 투자, 무주~대구 고속도로 예타에 반영해야” 시사브리핑",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KU3liN0RubUdydXhxNDRJRGxnNVZpYTA2RUx1eG43UmRYR2ZWaGY5YVdXS2RCTGRCVm5xdk1RY3h6Y3VtRG9ib2RQVXdEcUxJbDFiOVVwMndGY29GOEZPVTR3elRmc3A0?oc=5",
-      "date": "Fri, 06 Nov 2026 04:10:44 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.mtnews.net/news/articleView.html?idxno=26460": {
       "title": "경북 도, 의성바이오푸드밸리 준공 및 455억 원 규모 식품·푸드테크 투자...",
       "summary": "투자양해각서( MOU )는 도와 의성군, ㈜씨위드, ㈜오그래 농업회사법인 간에 체결됐다. 협약에 따라 두 기업은... 이날 선포식에는 양금희 경북 도 경제부지사, 정경석 농림축산식품부 식품산업정책관, 최유철 의성군수...",
@@ -4473,6 +4401,58 @@
       "basis": "제목의 관내 지명/기관",
       "category": "경제·투자",
       "priority": 70,
+      "filter_version": 17
+    },
+    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229645": {
+      "title": "포스코 노조, 임금 잠정합의안 부결…노사 갈등 장기화 조짐",
+      "summary": "포스코 노사가 마련한 임금교섭 잠정 합의안이 조합원 찬반투표 문턱을 넘지 못하면서 노사 갈등이 장기화할 우려가 커지고 있습니다. 오늘(8일) 포스코 노사에 따르면 대표 교섭노조인 한국노총 금속노련 포스코 ...",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229645",
+      "date": "Sun, 08 Nov 2026 13:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.greened.kr/news/articleView.html?idxno=354109": {
+      "title": "'가스배관은 묻고 의혹은 덮나'… 한국가스공사 ·금호건설·공주시 책임...",
+      "summary": "한국가스공사 가 발주하고 금호건설이 시공에 참여한 부여~공주 LNG 가스배관 공사가 부실시공 의혹에 이어 신오교 파손 책임 공방과 6억 원의 마을발전기금 자금 출처 논란까지 불거지면서 공주시의 준공 관련 검토와...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=354109",
+      "date": "Sun, 08 Nov 2026 13:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odDNjZmhMTFBRZ3dydUlwZUN0VU50SHpVcHVSaVhpdjlNMk93dDBzYV8tN056VDJwUGVvMUs4Vkx6UDZxX1RPM19JZGhKd1NQVl9hS3FPQk9vWDZ3aG1tVVY5ZErSAWdBVV95cUxObjFOSWxGY2dKWEY5ZWh4YkY2dVZGOVhjSnljVVdINEMwbkhjVnpnR0F0TDVYZ1BneTcxQWVINWJHM1JhOTB0Xzl3WnBTM0l0QWg0X2k5WXpYa0U4ei1DSnlxaGFlalc4?oc=5": {
+      "title": "삼성SDS, 구미 AI 데이터센터 착공… 삼성 영남권 60조원 투자 계획 실행 - 국민기자뉴스",
+      "summary": "삼성SDS, 구미 AI 데이터센터 착공… 삼성 영남권 60조원 투자 계획 실행 국민기자뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odDNjZmhMTFBRZ3dydUlwZUN0VU50SHpVcHVSaVhpdjlNMk93dDBzYV8tN056VDJwUGVvMUs4Vkx6UDZxX1RPM19JZGhKd1NQVl9hS3FPQk9vWDZ3aG1tVVY5ZErSAWdBVV95cUxObjFOSWxGY2dKWEY5ZWh4YkY2dVZGOVhjSnljVVdINEMwbkhjVnpnR0F0TDVYZ1BneTcxQWVINWJHM1JhOTB0Xzl3WnBTM0l0QWg0X2k5WXpYa0U4ei1DSnlxaGFlalc4?oc=5",
+      "date": "Sun, 08 Nov 2026 04:05:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yQ0tKbXNZQUxsd1lYcldwWUVoUmU0MWtTWnoxeTlzd3BpV2JwTTJrMzZYV3otcFdGcUcwMGZoTTk1bGVLSFU4WDdwU3g2ZWw1cFFZTGFlc1VyWU9kc1lhUVJ0ZG1aM1Zu?oc=5": {
+      "title": "‘가스배관은 묻고 의혹은 덮나’…한국가스공사·금호건설·공주시 책임론 확산 - 녹색경제신문",
+      "summary": "‘가스배관은 묻고 의혹은 덮나’…한국가스공사·금호건설·공주시 책임론 확산 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yQ0tKbXNZQUxsd1lYcldwWUVoUmU0MWtTWnoxeTlzd3BpV2JwTTJrMzZYV3otcFdGcUcwMGZoTTk1bGVLSFU4WDdwU3g2ZWw1cFFZTGFlc1VyWU9kc1lhUVJ0ZG1aM1Zu?oc=5",
+      "date": "Sun, 08 Nov 2026 04:50:34 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
       "filter_version": 17
     }
   },
@@ -6984,6 +6964,21 @@
       "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367307",
       "title": "경북 도, 의성에 식품 산업 455억 투자 유치",
       "date": "Sun, 08 Nov 2026 12:14:00 +0900"
+    },
+    {
+      "url": "https://www.greened.kr/news/articleView.html?idxno=354109",
+      "title": "'가스배관은 묻고 의혹은 덮나'… 한국가스공사 ·금호건설·공주시 책임...",
+      "date": "Sun, 08 Nov 2026 13:50:00 +0900"
+    },
+    {
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229645",
+      "title": "포스코 노조, 임금 잠정합의안 부결…노사 갈등 장기화 조짐",
+      "date": "Sun, 08 Nov 2026 13:30:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odDNjZmhMTFBRZ3dydUlwZUN0VU50SHpVcHVSaVhpdjlNMk93dDBzYV8tN056VDJwUGVvMUs4Vkx6UDZxX1RPM19JZGhKd1NQVl9hS3FPQk9vWDZ3aG1tVVY5ZErSAWdBVV95cUxObjFOSWxGY2dKWEY5ZWh4YkY2dVZGOVhjSnljVVdINEMwbkhjVnpnR0F0TDVYZ1BneTcxQWVINWJHM1JhOTB0Xzl3WnBTM0l0QWg0X2k5WXpYa0U4ei1DSnlxaGFlalc4?oc=5",
+      "title": "삼성SDS, 구미 AI 데이터센터 착공… 삼성 영남권 60조원 투자 계획 실행 - 국민기자뉴스",
+      "date": "Sun, 08 Nov 2026 04:05:00 GMT"
     }
   ],
   "brief_articles": [
@@ -7025,7 +7020,8 @@
     "2026-11-04": 14,
     "2026-11-05": 11,
     "2026-11-06": 11,
-    "2026-11-07": 5
+    "2026-11-07": 5,
+    "2026-11-08": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
