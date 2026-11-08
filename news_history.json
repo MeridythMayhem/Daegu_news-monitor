@@ -1644,7 +1644,14 @@
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50NlNrTHk2OVpiSl9fQ1NCSDFacnZXOFluVkI3eUJwU1R3aXpXc3B3WFFvY20zUFJBNlRlOTQxd204Ym5RaW5YOTlFU3JGWlctd3o4bHlxNTlhUHlkdVZscjBMYkdKRUk?oc=5": "2026-11-08T16:01:59.760315+09:00",
     "https://www.fnnews.com/news/202611081547001680": "2026-11-08T16:01:59.760315+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=728389": "2026-11-08T16:01:59.760315+09:00",
-    "https://www.kbmaeil.com/article/20261108500358": "2026-11-08T16:01:59.760315+09:00"
+    "https://www.kbmaeil.com/article/20261108500358": "2026-11-08T16:01:59.760315+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089986": "2026-11-08T17:01:41.132860+09:00",
+    "https://www.kbmaeil.com/article/20261108500479": "2026-11-08T17:01:41.132860+09:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qcTd4VFlsSjVQMHVKal9uelN0VWQ5NlpSb2VfdjZBcENjaGtPWm9BSFdiUER1cmpzeERGb1BiZGJ6aWF2Ym4zTUF0UWJXbFlrQWV0UGx2eHlsQQ?oc=5": "2026-11-08T17:01:41.132860+09:00",
+    "https://www.kbmaeil.com/article/20261108500252": "2026-11-08T17:01:41.132860+09:00",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZN1RpWXlPTzRIZVgtelZyN3AyOWFLbjJVc0ZfZldOU1hzQzl5VEZfY0F6Y0dJcGFIMm9NUXA3bmUtNE1CV2pLRzhaSFpsaTllZWI0X21LTEZMb2tjbmsxVDAya3RiQzhpZ2hpTEhQZw?oc=5": "2026-11-08T17:01:41.132860+09:00",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309531": "2026-11-08T17:01:41.132860+09:00",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309537": "2026-11-08T17:01:41.132860+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2791,7 +2798,14 @@
     "b7eb9f66dae8585cffb3abda497ed4c0a0117bc8b4de2f7e75ce55020bdaf596": "2026-11-08T16:01:59.760315+09:00",
     "4186e00a72c4894f697ed16d94ac44b96b82b478542e089c33e6846570c2cbf9": "2026-11-08T16:01:59.760315+09:00",
     "2ee213fc6127bfd1ef120d04ccadf583644f5c0aa0d4d39e01f4791cb4251bd7": "2026-11-08T16:01:59.760315+09:00",
-    "6de95627aa09670eb41ca0256fd4b21f56eb6b271c40ad02a09650f1962cae64": "2026-11-08T16:01:59.760315+09:00"
+    "6de95627aa09670eb41ca0256fd4b21f56eb6b271c40ad02a09650f1962cae64": "2026-11-08T16:01:59.760315+09:00",
+    "a382da21e4e84cdd1ce1afb49d1f744f333b04fd52fe1d0010985a851c41bcf9": "2026-11-08T17:01:41.132860+09:00",
+    "109924bf07fa6bab493559c1523efee17da2754007e3034fd4ec099efa0d6c38": "2026-11-08T17:01:41.132860+09:00",
+    "8d2f744cf5bd28ae375d8d2f38791ca3fe0d80d6aad416cb472edf63e7b62228": "2026-11-08T17:01:41.132860+09:00",
+    "e0913cf55f0ace48156da5b16291ba5fc903aea9954b486f19103d881407494c": "2026-11-08T17:01:41.132860+09:00",
+    "1b07e92b49f540e1a30bf251927a5000cfdff4bdb6a042afaa9f8307118ee729": "2026-11-08T17:01:41.132860+09:00",
+    "c4dbb81c04a5c3df5ddb4de96118b3c45c679f3713a9f0b51e4bc623fd4e9a91": "2026-11-08T17:01:41.132860+09:00",
+    "59d88bcfde79b9e13f5a0cee965d0cd60c30133f47c2523395c2d7bf5a326402": "2026-11-08T17:01:41.132860+09:00"
   },
   "pending": {},
   "ai": {
@@ -2804,227 +2818,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.mk.co.kr/article/12200605": {
-      "title": "경북도, 의성에 식품 기업 455억원 투자 유치…83명 신규 고용",
-      "summary": "투자양해각서( MOU )를 체결했다. 투자 규모는 씨위드 200억원, 오그래 농업회사법인 255억원이다. 두 기업은... 또한 대구 경북신공항과 연계한 입지 경쟁력을 활용해 기업이 찾아오는 투자 환경을 조성할 계획이다. 최유철...",
-      "url": "https://www.mk.co.kr/article/12200605",
-      "date": "Fri, 06 Nov 2026 16:59:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.hankookilbo.com/news/article/A2026110610260004366?did=NA": {
-      "title": "의성에 경북 첫 식품 전문 산업단지 준공",
-      "summary": "경북 도는 6일 도내 첫 식품 전문 산업단지인 의성 바이오푸드밸리 준공식을 열고 기업 2곳과 투자 양해각서를 체결했다. 경북 도에 따르면 의성 바이오푸드밸리는 22만5,844㎡ 규모로 첨단 식품기업의 입주 기반을 확충...",
-      "url": "https://www.hankookilbo.com/news/article/A2026110610260004366?did=NA",
-      "date": "Fri, 06 Nov 2026 16:51:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.donga.com/news/Economy/article/all/20261106/134979250/1": {
-      "title": "국립의대 신설 확정 경북도청신도시, ‘경북도청 푸르지오 퍼스티온’...",
-      "summary": "부지에 건립 될 예정이다. 입학정원은 40명이며 2030년 개교를 목표로 한다. 경상북도는 안동의료원을... 2011년 칠곡경북대학교병원이 개원한 대구 북구 학정동도 지난해 3.3㎡당 997만 원으로 북구 평균(894만 원)을...",
-      "url": "https://www.donga.com/news/Economy/article/all/20261106/134979250/1",
-      "date": "Fri, 06 Nov 2026 16:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080625": {
-      "title": "상주 토마토, 일본 정기 수출 재개…연간 36억원 규모 전망",
-      "summary": "경북 상주에서 생산한 토마토가 지난해 수출 공백을 딛고 일본 시장에 다시 진출했다. 시험 수출 을 통해 해외 공급 가능성을 확인한 지역 농업법인이 이달부터 정기적인 선적에 나서면서 농산물 수출 확대에 대한 기대가...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080625",
-      "date": "Fri, 06 Nov 2026 16:18:00 +0900",
-      "channels": [
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
-      "filter_version": 17
-    },
-    "https://www.ajunews.com/view/20261106160846043": {
-      "title": "[프로필] 국세청장 후보자에 안덕수…주식시장 탈세 조사 이끈 ' 조사 통...",
-      "summary": "◇프로필 △1971년 부산 출생 △부산 용인고 △고려대 경제학과 △행정고시 40회 △ 구미세무 서장 △기획재정부 환경에너지세제과장 △부산지방국세청 징세송무국장 △미국 국세청 파견 △부산지방국세청 조사 1국장...",
-      "url": "https://www.ajunews.com/view/20261106160846043",
-      "date": "Fri, 06 Nov 2026 16:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://biz.chosun.com/policy/policy_sub/2026/11/06/GVTSOPDGINHPFPTBUSXG345BFI/": {
-      "title": "[프로필] 안덕수 국세청장 후보자...주식시장 탈세 겨눈 조사 전문가",
-      "summary": "구미 ·경산·남인천 세무 서를 거쳐 국무조정실에 파견을 다녀온 후 서울청 조사 3국, 국세청 징세과, 서울청 조사 2국 조사 관리과에서 일한 뒤 구미세무 서장을 지냈다. 미국 유학 후 인사 교류로 기획재정부(현 재정경제부)...",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/06/GVTSOPDGINHPFPTBUSXG345BFI/",
-      "date": "Fri, 06 Nov 2026 16:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "http://www.breaknews.com/1249023": {
-      "title": "청와대 \"법무장관 이용철· 국세청 장 안덕수 지명..정무수석 최인호 내정...",
-      "summary": "청와대가 6일 \"법무장관 후보자에 이용철 현 방위사업청장, 국세청 장 후보자에... 그러면서 \"이번 인사 는 국민 목소리를 더 많이 듣고 소통하겠다는 의지\"라며...",
-      "url": "http://www.breaknews.com/1249023",
-      "date": "Fri, 06 Nov 2026 16:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.khan.co.kr/article/202611061640001": {
-      "title": "안덕수 국세청 장 내정자, 부산 출신 ‘정통 조사통’",
-      "summary": "신임 국세청 장으로 6일 내정된 안덕수 서울지방 국세청 장(55)은 국세청 에서 대표적인 ‘조사통’이라는 평가를 받는다. 인사 청문회를 통과하면 지난 7월3일 서울청장에 임명된 지 4개월여 만에 국세청 장에 오르게 된다....",
-      "url": "https://www.khan.co.kr/article/202611061640001",
-      "date": "Fri, 06 Nov 2026 16:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.khan.co.kr/article/202611061641001": {
-      "title": "경찰, 홍준표 대선 경선캠프 관계자 등 6명 송치···정치자금 부정 지...",
-      "summary": "대구 경찰청은 정치자금법 위반 혐의로 홍준표 전 대구 시장 선거캠프 관계자 A씨와 거래업체 관계자 등 6명을 불 구속 송치했다고 6일 밝혔다. A씨 등은 2021년 국민의힘 대선 경선 당시 공모해 홍 전 시장 캠프 정치자금 약...",
-      "url": "https://www.khan.co.kr/article/202611061641001",
-      "date": "Fri, 06 Nov 2026 16:41:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261106.99099002007": {
-      "title": "[속보] '홍준표 변호사' 정치자금 부정지출 의혹 선거캠프 관계자 등 6명...",
-      "summary": "대구 경찰청은 정치자금을 부정하게 지출한 혐의로 수사를 받아온 홍준표 전 대구 시장 선거캠프 관계자 박모 씨와 거래업체 관계자 등 6명을 공소청에 불 구속 송치했다고 6일 밝혔다. 박 씨 등은 2021년 국민의힘 대선 경선...",
-      "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261106.99099002007",
-      "date": "Fri, 06 Nov 2026 16:27:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://dgmbc.com/NewsArticle/871923": {
-      "title": "홍준표 선거캠프 관계자 6명, 정치자금 2억 부정 지출 혐의 불 구속 송치",
-      "summary": "대구 경찰청은 정치자금을 부정하게 지출한 혐의로 홍준표 전 대구 시장 선거캠프 관계자 박 모 씨와 거래업체 관계자 등 6명을 공소청에 불 구속 송치했다고 밝혔습니다. 이들은 2021년 국민의힘 대선 경선 당시 선거캠프...",
-      "url": "https://dgmbc.com/NewsArticle/871923",
-      "date": "Fri, 06 Nov 2026 16:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mediapen.com/news/view/1135804": {
-      "title": "엘앤에프 , 3분기 영업손실 265억원…하이니켈 출하 확대에도 적자",
-      "summary": "엘앤에프 가 올해 3분기 하이니켈 양극재 판매 확대에도 환율과 원재료 가격 하락의 영향으로 영업적자를 기록했다. 엘앤에프 는 3분기 실적에서 매출 8744억 원, 영업손실 265억 원을 기록했다고 6일 밝혔다. 다만...",
-      "url": "https://www.mediapen.com/news/view/1135804",
-      "date": "Fri, 06 Nov 2026 16:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://view.asiae.co.kr/article/2026110614470519843": {
-      "title": "경주시, 태영테크 신공장 준공·신농업혁신타운 개소·고속도로 휴게소...",
-      "summary": "지난해 7월 경주시와 151억 원 규모의 투자양해각서( MOU )를 체결한 지 1년여 만에 결실을 맺은 신공장은 1만... 외동휴게소( 포항 ·부산방향)와 경주휴게소(부산방향)를 추가 지정하고 표지판 설치를 마쳤다. 경주시는 이번...",
-      "url": "https://view.asiae.co.kr/article/2026110614470519843",
-      "date": "Fri, 06 Nov 2026 16:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VG1iNmpKR01peFRzeGlaZDFvYWw3SFNJV0IxSG5tVnAteWk3VGNDbHU3bHVra3BSX2hHWDlQMHFFRUZEWUVIaGNxS2lnMkliby12LTVxMC1mZjhXMkpielhzcWtlMHk5Q3RIRktR?oc=5": {
-      "title": "태영테크㈜, 신공장 준공 기념해 경주시에 백미 10kg 63포 기탁 - 서프라이즈뉴스",
-      "summary": "태영테크㈜, 신공장 준공 기념해 경주시에 백미 10kg 63포 기탁 서프라이즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VG1iNmpKR01peFRzeGlaZDFvYWw3SFNJV0IxSG5tVnAteWk3VGNDbHU3bHVra3BSX2hHWDlQMHFFRUZEWUVIaGNxS2lnMkliby12LTVxMC1mZjhXMkpielhzcWtlMHk5Q3RIRktR?oc=5",
-      "date": "Fri, 06 Nov 2026 07:15:36 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HVkt1MXdjUFU5WkJXRzVvMnFVaFRGSEpTRFBrOWVTQ2FfZ3Z2V2doWVdZTWlQNXJmVVRZSnlZSUdWNnBOdEttekNleVZEQVJRSmotRURMYjBpQdIBWEFVX3lxTE16Y09LZ2dGV0YwSW5QOG5JSmRBOTRlWDJqSTZ5N2dUaUlNd29HbW9fZndSblhhSy1kczdTaVlPTHVZSFVqajZDd3ZiMDh1a1d6MVZmeFdXQmk?oc=5": {
-      "title": "[프로필] 국세청장 후보자에 안덕수…주식시장 탈세 조사 이끈 조사통 - 아주경제",
-      "summary": "[프로필] 국세청장 후보자에 안덕수…주식시장 탈세 조사 이끈 조사통 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HVkt1MXdjUFU5WkJXRzVvMnFVaFRGSEpTRFBrOWVTQ2FfZ3Z2V2doWVdZTWlQNXJmVVRZSnlZSUdWNnBOdEttekNleVZEQVJRSmotRURMYjBpQdIBWEFVX3lxTE16Y09LZ2dGV0YwSW5QOG5JSmRBOTRlWDJqSTZ5N2dUaUlNd29HbW9fZndSblhhSy1kczdTaVlPTHVZSFVqajZDd3ZiMDh1a1d6MVZmeFdXQmk?oc=5",
-      "date": "Fri, 06 Nov 2026 07:25:11 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYc3RqV1hWelZlMkFXaFRpSUFqVF9IeW1fbkZ5NHNEVGo1NktIbUVaY2tERnpsY1U3UmJydld5MHJjdmdieHpfVFhLMktZLWpQbHd2TkR0bndxWnh3MlRaeU5B?oc=5": {
-      "title": "李대통령, 법무장관 이용철·국세청장 안덕수 지명…靑 정무수석 최인호 내정 - 매일신문",
-      "summary": "李대통령, 법무장관 이용철·국세청장 안덕수 지명…靑 정무수석 최인호 내정 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYc3RqV1hWelZlMkFXaFRpSUFqVF9IeW1fbkZ5NHNEVGo1NktIbUVaY2tERnpsY1U3UmJydld5MHJjdmdieHpfVFhLMktZLWpQbHd2TkR0bndxWnh3MlRaeU5B?oc=5",
-      "date": "Fri, 06 Nov 2026 07:05:02 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CdG4xMXNnZjVnUHRVSExwU3dQNjVOMXZFNTN5QWs2Qkh5b1JaajBPMEFYUVk5ZlVVeWx4YWNwc0lOMmo3X3UybzhYMUlZMjhmRjVJVkxiY0FoSVdSbl8zSUVsMNIBbEFVX3lxTE9vbGpubV80aVNjZTl4MVdNWUdsYmctZTM0bE5BbDNxSS1WbWc5eDNRS3lKd3B0TmNDcEkyTXZpaDlBWEhQX2lGaExYdVAwQ2pUeTZHZGY5VFd4RkZfSTJDOU43Q0t3Z20wVGo3VQ?oc=5": {
-      "title": "대동, 새만금에 ‘로봇이 짓는 농장’ 만든다…현대차·전북도와 3000억 규모 로봇 팜 팩토리 논의 - 소셜밸류",
-      "summary": "대동, 새만금에 ‘로봇이 짓는 농장’ 만든다…현대차·전북도와 3000억 규모 로봇 팜 팩토리 논의 소셜밸류",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CdG4xMXNnZjVnUHRVSExwU3dQNjVOMXZFNTN5QWs2Qkh5b1JaajBPMEFYUVk5ZlVVeWx4YWNwc0lOMmo3X3UybzhYMUlZMjhmRjVJVkxiY0FoSVdSbl8zSUVsMNIBbEFVX3lxTE9vbGpubV80aVNjZTl4MVdNWUdsYmctZTM0bE5BbDNxSS1WbWc5eDNRS3lKd3B0TmNDcEkyTXZpaDlBWEhQX2lGaExYdVAwQ2pUeTZHZGY5VFd4RkZfSTJDOU43Q0t3Z20wVGo3VQ?oc=5",
-      "date": "Fri, 06 Nov 2026 07:15:10 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081761": {
       "title": "[ 은행 圈 인사 전망 종합] 5대 은행 장 연말 연임 심사… 국책·지방·인터...",
       "summary": "도이치은행과 HSBC, DGB 대구은행 경영기획본부장 등을 거쳐 2024년 3월 토스뱅크 대표로 취임했으며 새 임기는 2028년 3월 31일까지다. 정윤모 임원후보추천위원장과 강승수 보수위원장은 오는 28일 임기가 끝난다. 이...",
@@ -4375,6 +4168,97 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089986": {
+      "title": "의성에 455억원 푸드테크 투자협약…배양육·단백질 식품공장 추진",
+      "summary": "투자양해각서( MOU )를 체결했다고 8일 밝혔다. 씨위드는 200억 원을 투입해 한우 배양육 대량생산시설을... 단백질 분말과 쉐이크, 시리얼 등을 제조하는 이 기업은 경북 성주에서 운영 중인 제1·2공장도 단계적으로...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089986",
+      "date": "Sun, 08 Nov 2026 16:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.kbmaeil.com/article/20261108500252": {
+      "title": "정용채 도의원 산불 보상 사각지대·행복재단 의혹 ·소규모학교 대책 촉...",
+      "summary": "이어 지난해 12월 경북 행복재단 연구원 사망 사건을 언급하며 정재훈 대표이사의 직장 내 괴롭힘 의혹 과 경북 도의 관리·감독 부실을 강하게 비판하고, 고용노동부와 근로복지공단의 판단을 언급하며 대표이사 직위해제와...",
+      "url": "https://www.kbmaeil.com/article/20261108500252",
+      "date": "Sun, 08 Nov 2026 16:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309531": {
+      "title": "경산시, 중국·인도 시장 공략…지역기업 수출 판로 확대",
+      "summary": "무역 사절단이 지역기업의 우수한 제품을 중국과 인도 시장에 알리고 로봇·첨단산업 분야의 새로운 교류 가능성을 발굴해 실질적인 수출 성과와 지역산업 경쟁력 강화로 이어지길 기대한다\"고 밝혔다. [전국 매일신문 ]...",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309531",
+      "date": "Sun, 08 Nov 2026 16:38:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
+      "filter_version": 17
+    },
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309537": {
+      "title": "영천 샤인머스켓, 미국·대만·홍콩에 24.5톤 수출 …하루 최대 물량",
+      "summary": "하락으로 어려움을 겪는 포도농가에 수출 은 중요한 판로이자 새로운 희망\"이라며 \" 수출 확대를 통해 농가가 안정적으로 영농활동을 이어갈 수 있도록 지원을 아끼지 않겠다\"고 말했다. [전국 매일신문 ] 윤석중기자",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309537",
+      "date": "Sun, 08 Nov 2026 16:38:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
+      "filter_version": 17
+    },
+    "https://www.kbmaeil.com/article/20261108500479": {
+      "title": "“40년의 발자취, 새로운 음악적 여정으로”… 소프라노 조수미 경주 온...",
+      "summary": "한국수력원자력 (주)과 경주시가 공동주최하고 (재)경주문화재단이 주관하는 한수원프리미어 공연의 일환으로 마련됐다. 1986년 세계 오페라 무대에 첫발을 내디딘 소프라노 조수미가 국제 무대 데뷔 40주년을 맞아...",
+      "url": "https://www.kbmaeil.com/article/20261108500479",
+      "date": "Sun, 08 Nov 2026 16:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZN1RpWXlPTzRIZVgtelZyN3AyOWFLbjJVc0ZfZldOU1hzQzl5VEZfY0F6Y0dJcGFIMm9NUXA3bmUtNE1CV2pLRzhaSFpsaTllZWI0X21LTEZMb2tjbmsxVDAya3RiQzhpZ2hpTEhQZw?oc=5": {
+      "title": "문경시, 복지·문화 아우를 ‘행복1번지’ 건립에 국비 112억원 확보 - 경북일보",
+      "summary": "문경시, 복지·문화 아우를 ‘행복1번지’ 건립에 국비 112억원 확보 경북일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZN1RpWXlPTzRIZVgtelZyN3AyOWFLbjJVc0ZfZldOU1hzQzl5VEZfY0F6Y0dJcGFIMm9NUXA3bmUtNE1CV2pLRzhaSFpsaTllZWI0X21LTEZMb2tjbmsxVDAya3RiQzhpZ2hpTEhQZw?oc=5",
+      "date": "Sun, 08 Nov 2026 07:05:21 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qcTd4VFlsSjVQMHVKal9uelN0VWQ5NlpSb2VfdjZBcENjaGtPWm9BSFdiUER1cmpzeERGb1BiZGJ6aWF2Ym4zTUF0UWJXbFlrQWV0UGx2eHlsQQ?oc=5": {
+      "title": "“40년의 발자취, 새로운 음악적 여정으로”… 소프라노 조수미 경주 온다 - 경북매일",
+      "summary": "“40년의 발자취, 새로운 음악적 여정으로”… 소프라노 조수미 경주 온다 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qcTd4VFlsSjVQMHVKal9uelN0VWQ5NlpSb2VfdjZBcENjaGtPWm9BSFdiUER1cmpzeERGb1BiZGJ6aWF2Ym4zTUF0UWJXbFlrQWV0UGx2eHlsQQ?oc=5",
+      "date": "Sun, 08 Nov 2026 07:14:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 17
     }
@@ -6937,6 +6821,41 @@
       "url": "https://www.kbmaeil.com/article/20261108500358",
       "title": "외국인 투자 97% 비수도권으로… 대구경북 도 유치 경쟁 가세",
       "date": "Sun, 08 Nov 2026 15:04:00 +0900"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089986",
+      "title": "의성에 455억원 푸드테크 투자협약…배양육·단백질 식품공장 추진",
+      "date": "Sun, 08 Nov 2026 16:26:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261108500479",
+      "title": "“40년의 발자취, 새로운 음악적 여정으로”… 소프라노 조수미 경주 온...",
+      "date": "Sun, 08 Nov 2026 16:16:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qcTd4VFlsSjVQMHVKal9uelN0VWQ5NlpSb2VfdjZBcENjaGtPWm9BSFdiUER1cmpzeERGb1BiZGJ6aWF2Ym4zTUF0UWJXbFlrQWV0UGx2eHlsQQ?oc=5",
+      "title": "“40년의 발자취, 새로운 음악적 여정으로”… 소프라노 조수미 경주 온다 - 경북매일",
+      "date": "Sun, 08 Nov 2026 07:14:00 GMT"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261108500252",
+      "title": "정용채 도의원 산불 보상 사각지대·행복재단 의혹 ·소규모학교 대책 촉...",
+      "date": "Sun, 08 Nov 2026 16:08:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZN1RpWXlPTzRIZVgtelZyN3AyOWFLbjJVc0ZfZldOU1hzQzl5VEZfY0F6Y0dJcGFIMm9NUXA3bmUtNE1CV2pLRzhaSFpsaTllZWI0X21LTEZMb2tjbmsxVDAya3RiQzhpZ2hpTEhQZw?oc=5",
+      "title": "문경시, 복지·문화 아우를 ‘행복1번지’ 건립에 국비 112억원 확보 - 경북일보",
+      "date": "Sun, 08 Nov 2026 07:05:21 GMT"
+    },
+    {
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309531",
+      "title": "경산시, 중국·인도 시장 공략…지역기업 수출 판로 확대",
+      "date": "Sun, 08 Nov 2026 16:38:00 +0900"
+    },
+    {
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309537",
+      "title": "영천 샤인머스켓, 미국·대만·홍콩에 24.5톤 수출 …하루 최대 물량",
+      "date": "Sun, 08 Nov 2026 16:38:00 +0900"
     }
   ],
   "brief_articles": [
