@@ -1632,7 +1632,8 @@
     "https://www.ddaily.co.kr/page/view/2026110802215406547": "2026-11-08T10:01:55.176056+09:00",
     "https://biz.chosun.com/industry/company/2026/11/08/PFB7ZUZJTBAQFIPOAA7D6ETUUM/": "2026-11-08T10:01:55.176056+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE81SXJYSW9Wakx5T2hURHEyeXpoaU1SYlVIalJVelp4UUJJVUtweGwyeHhFX1hMSXBpY0hGQU1NMHd3WnJ4WGdrU2ZxRXRrRHJ4YWNpZVpxU2ptaUU5U1p3ZTFhOVhuNlNWbDlB?oc=5": "2026-11-08T10:01:55.176056+09:00",
-    "http://www.breaknews.com/1249195": "2026-11-08T11:01:52.329653+09:00"
+    "http://www.breaknews.com/1249195": "2026-11-08T11:01:52.329653+09:00",
+    "https://www.seoulfn.com/news/articleView.html?idxno=642206": "2026-11-08T12:01:53.180744+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2767,7 +2768,8 @@
     "30989fbf8e86b057349dae07f39d63821a720a8b3e2e764500034e7509170302": "2026-11-08T10:01:55.176056+09:00",
     "e0a3c38b0b1ae75de43648aaccf0f67cd89f293f152f08e901f47a9b054a050d": "2026-11-08T10:01:55.176056+09:00",
     "1d2a023f8cf6a247b8286c79628dcf55fe456b3cf8ea0c13bbbb2ee385db9364": "2026-11-08T10:01:55.176056+09:00",
-    "4e108ce87e7109fb53edec09df18c28671d8c6dbbef1193730c4cd69f24fe585": "2026-11-08T11:01:52.329653+09:00"
+    "4e108ce87e7109fb53edec09df18c28671d8c6dbbef1193730c4cd69f24fe585": "2026-11-08T11:01:52.329653+09:00",
+    "29d8cddb3cb5d0c5becc2ca50a21d063681cd10721a25282913c1acdf9d9fe77": "2026-11-08T12:01:53.180744+09:00"
   },
   "pending": {},
   "ai": {
@@ -2779,123 +2781,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.hidomin.com/news/articleView.html?idxno=728241": {
-      "title": "경북 첫 식품산단 의성 바이오푸드밸리 준공…기업 2곳 455억 투자",
-      "summary": "경북 도와 의성군이 6일 식품기업 2곳과 455억원 규모의 투자 협약을 맺고 의성바이오푸드밸리를 미래... 의성군은 2024년 세포배양식품 규제자유특구로 지정된 바 있으며, 이번 센터 건립 을 통해 시제품 생산과 기술개발...",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=728241",
-      "date": "Fri, 06 Nov 2026 11:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.eroun.net/news/articleView.html?idxno=94610": {
-      "title": "경북 도·의성군, 의성바이오푸드밸리 준공...455억 원 투자협약 체결",
-      "summary": "㈜씨위드는 이날 투자협약 에 따라 200억 원을 투자 해 세포배양식품 생산시설을 구축하고 46명을 신규 고용할 계획이다. ㈜씨위드는 오는 2027년 연간 400톤 규모의 GMP 생산체계를 확보한 뒤 2028년 이후 연간 1200톤...",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=94610",
-      "date": "Fri, 06 Nov 2026 11:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.the-today.com/news/articleView.html?idxno=93182": {
-      "title": "[속보] \"엠파나다에 고기 재활용 안 써\"… 포스코 아르헨 리튬 '급식 논란...",
-      "summary": "포스코 의 아르헨티나 염수 리튬 프로젝트 사업장에서 급식 품질 저하와 조리 음식 재사용 의혹을... 회사는 국가 식품 규정에 따라 조리된 음식의 재사용은 원천 차단되어 있으며, 발주처인 포스코 아르헨티나의...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=93182",
-      "date": "Fri, 06 Nov 2026 11:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=880576": {
-      "title": "포스코 홀딩스, 호실적 이면엔 철강·리튬 회복 시차 '그늘'",
-      "summary": "장인화 포스코 홀딩스 회장. 연합뉴스 | 서울=한스경제 김창수 기자 | 포스코 홀딩스가 철강 판매 확대에 힘입어 3분기 이익을 늘렸지만 개선 흐름을 이어가기까지 시간이 필요할 전망이다. 고로 대보수를 앞둔 판매 증대...",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880576",
-      "date": "Fri, 06 Nov 2026 11:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KN2pMQ3NzLVJmYWI2QXZMZnVYd0Y0cXpweDI2VDZNWTliejZMMnpSbjM3d0I2Nlp3eTc0S3FNcTZ1Vmc4eFRfM1lXLTJOZ1Rtb081WFAwbkdPZFhkOGNRRA?oc=5": {
-      "title": "경주시, 태영테크(주) 명계3산단 신공장 준공…151억 원 투자 결실 - https://www.newsgb.co.kr/",
-      "summary": "경주시, 태영테크(주) 명계3산단 신공장 준공…151억 원 투자 결실 https://www.newsgb.co.kr/",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KN2pMQ3NzLVJmYWI2QXZMZnVYd0Y0cXpweDI2VDZNWTliejZMMnpSbjM3d0I2Nlp3eTc0S3FNcTZ1Vmc4eFRfM1lXLTJOZ1Rtb081WFAwbkdPZFhkOGNRRA?oc=5",
-      "date": "Fri, 06 Nov 2026 02:10:02 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93Z2h3VU9OLVN0bVZOTkJvUk1zT0pCampmSlVCWHR5RXBBeUhNdlkwbXlhZE9BMVpUaG1RWFktZ3JxMTVqVF91WHVxMlZPSll6UFdjVy0yell5djVm?oc=5": {
-      "title": "[리포트 브리핑]에코프로비엠, '눈높이 조정 후 수주 확정에 주목' 목표가 160,000원 - DS투자증권 - 뉴스핌",
-      "summary": "[리포트 브리핑]에코프로비엠, '눈높이 조정 후 수주 확정에 주목' 목표가 160,000원 - DS투자증권 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93Z2h3VU9OLVN0bVZOTkJvUk1zT0pCampmSlVCWHR5RXBBeUhNdlkwbXlhZE9BMVpUaG1RWFktZ3JxMTVqVF91WHVxMlZPSll6UFdjVy0yell5djVm?oc=5",
-      "date": "Fri, 06 Nov 2026 02:20:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nbWxJRHZnT0IyY2tWVE5FZ1BxZnh0TC1iNmdOQ3JKdFR2c2s0N0FxOS1QUE01enJ1a2diQ0EwUTk3VlU5dzdWbk9EWnplVVk3RXdaY1hQODJvNVhNd3hJOTh3cHdRdGp6OTQw0gFvQVVfeXFMT0tZYmhvMmQzMjN1VDVNTjFWQzJYSS1rN2hGTmdjaDA2YlJGVExublhmdVBNN3YwaUVFeWlIR0p0cWZiRlFkTHRkSkh1RVllWEU0UEtqY0FJVHlGOHEyTnVfenlRLTgxQmtCZ2lfWGlv?oc=5": {
-      "title": "포스코홀딩스, 호실적 이면엔 철강·리튬 회복 시차 ‘그늘’ - 한스경제",
-      "summary": "포스코홀딩스, 호실적 이면엔 철강·리튬 회복 시차 ‘그늘’ 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nbWxJRHZnT0IyY2tWVE5FZ1BxZnh0TC1iNmdOQ3JKdFR2c2s0N0FxOS1QUE01enJ1a2diQ0EwUTk3VlU5dzdWbk9EWnplVVk3RXdaY1hQODJvNVhNd3hJOTh3cHdRdGp6OTQw0gFvQVVfeXFMT0tZYmhvMmQzMjN1VDVNTjFWQzJYSS1rN2hGTmdjaDA2YlJGVExublhmdVBNN3YwaUVFeWlIR0p0cWZiRlFkTHRkSkh1RVllWEU0UEtqY0FJVHlGOHEyTnVfenlRLTgxQmtCZ2lfWGlv?oc=5",
-      "date": "Fri, 06 Nov 2026 02:13:49 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HM3BpYmZmT1lRMnBEQVBsRk5ZNldCUHJzWXhWdjFnTy11OGZ1TFE1OV9pckk3WE9CSm9mMFc5cDZOSWpNcnZ4bXlqclNYRXpyR3A2azRwUkVFZ1N3X09jUWV0REE?oc=5": {
-      "title": "포항시, 수소연료전지 산업 핵심 거점 도약…투자 유치 총력 - OMATE 시니어",
-      "summary": "포항시, 수소연료전지 산업 핵심 거점 도약…투자 유치 총력 OMATE 시니어",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HM3BpYmZmT1lRMnBEQVBsRk5ZNldCUHJzWXhWdjFnTy11OGZ1TFE1OV9pckk3WE9CSm9mMFc5cDZOSWpNcnZ4bXlqclNYRXpyR3A2azRwUkVFZ1N3X09jUWV0REE?oc=5",
-      "date": "Fri, 06 Nov 2026 02:45:50 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IVnBxdGxXQk1WQ19XeWI2T0RkVm83NXk5ZlBEYWJWNlVoQkdjaXRnbDNWVlVJUUlJeDh3TTZhc19QeDZJQWYxT1pqR3UzRlN1R3F5VTJYZHoxc2xCUTRHOExiQ0Q?oc=5": {
-      "title": "포항시, 2026년 시군평가 실적 제고 총력전…2차 대책 보고회 - OMATE 시니어",
-      "summary": "포항시, 2026년 시군평가 실적 제고 총력전…2차 대책 보고회 OMATE 시니어",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IVnBxdGxXQk1WQ19XeWI2T0RkVm83NXk5ZlBEYWJWNlVoQkdjaXRnbDNWVlVJUUlJeDh3TTZhc19QeDZJQWYxT1pqR3UzRlN1R3F5VTJYZHoxc2xCUTRHOExiQ0Q?oc=5",
-      "date": "Fri, 06 Nov 2026 02:07:22 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://theopiniontimes.news/26%ec%a1%b0-%ec%b2%b4%ec%bd%94-%ec%9b%90%ec%a0%84-%ec%88%98%ec%a3%bc-%ed%9d%94%eb%93%a4%ed%95%9c%ec%88%98%ec%9b%90%c2%b7%ec%8b%9c%ea%b3%b5%ec%82%ac-%ea%b3%b5%ec%82%ac%eb%b9%84-1%ec%a1%b0/": {
       "title": "26조 체코 원전 수주 흔들…한수원·시공사 '공사비 1조' 정면충돌",
       "summary": "(사진=한수원) 한국수력원자력 이 약 26조 원 규모의 체코 두코바니 원전 건설 사업을 두고 대우건설·두산에너빌리티 컨소시엄과 진행해 온 시공계약 협상을 최종 종료했다. 체코 발주처와 본계약을 맺은 이후 약 15개월...",
@@ -4619,6 +4504,19 @@
       "summary": "포스코 노사가 어렵게 마련한 올해 임금협상 잠정합의안이 조합원들의 반대로... 한국노총 금속노련 포스코 노동조합은 지난 7일 실시한 잠정합의안 찬반투표에서...",
       "url": "http://www.breaknews.com/1249195",
       "date": "Sun, 08 Nov 2026 10:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.seoulfn.com/news/articleView.html?idxno=642206": {
+      "title": "포스코 임협 장기화 우려···협력사·지역경제도 '촉각'",
+      "summary": "명절 상여금 확대와 각종 수당 개선, 배우자· 자녀 의료비 지원 확대도 포함했지만 조합원들의 동의를 얻는 데는 실패했다. 사측의 추가 제시 여력이 관건이다. 회사 는 올해 상반기 영업이익이 전년 동기보다 43% 감소하는...",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=642206",
+      "date": "Sun, 08 Nov 2026 11:45:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -7126,6 +7024,11 @@
       "url": "http://www.breaknews.com/1249195",
       "title": "포스코 임금협상 잠정합의안 부결 후폭풍… 지역경제 불확실성 커진다",
       "date": "Sun, 08 Nov 2026 10:38:00 +0900"
+    },
+    {
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=642206",
+      "title": "포스코 임협 장기화 우려···협력사·지역경제도 '촉각'",
+      "date": "Sun, 08 Nov 2026 11:45:00 +0900"
     }
   ],
   "brief_articles": [
