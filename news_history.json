@@ -1663,7 +1663,9 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047": "2026-11-08T19:01:55.308845+09:00",
     "http://www.snmnews.com/news/articleView.html?idxno=577085": "2026-11-08T20:01:50.599056+09:00",
     "https://www.cstimes.com/news/articleView.html?idxno=727046": "2026-11-08T21:01:44.109079+09:00",
-    "https://www.ksmnews.co.kr/news/view.php?idx=628791": "2026-11-08T21:01:44.109079+09:00"
+    "https://www.ksmnews.co.kr/news/view.php?idx=628791": "2026-11-08T21:01:44.109079+09:00",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=564737": "2026-11-08T22:01:52.567033+09:00",
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html": "2026-11-08T22:01:52.567033+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2829,7 +2831,9 @@
     "b6c0a9e85c825332efa44fea18cc1231815f3e4bace6fbbc012ae7fc51c08fbe": "2026-11-08T19:01:55.308845+09:00",
     "2036dca75445f5e3f2b03d57620bbcf426d779b332e9c4cd5c8d7ce00483f38e": "2026-11-08T20:01:50.599056+09:00",
     "8bcedc5f16f8f27fb0e78dbcef187fe7e8572ee82dd4898c240e5b3963a15693": "2026-11-08T21:01:44.109079+09:00",
-    "f91ad7654f182f737266bc02c1fd0da4b93e66ef8ffcef27847048604d7a40e1": "2026-11-08T21:01:44.109079+09:00"
+    "f91ad7654f182f737266bc02c1fd0da4b93e66ef8ffcef27847048604d7a40e1": "2026-11-08T21:01:44.109079+09:00",
+    "c062a3418c304cc7df043f1f997f697dfc8ff885bce71c5edc7e0178c242fe64": "2026-11-08T22:01:52.567033+09:00",
+    "fb5c62a12b848a6582437176776489aaec5fccbcf7d01009cac099881bcd3f59": "2026-11-08T22:01:52.567033+09:00"
   },
   "pending": {},
   "ai": {
@@ -2842,19 +2846,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5": {
-      "title": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 - 웹플러스뉴스",
-      "summary": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 웹플러스뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5",
-      "date": "Fri, 06 Nov 2026 12:17:13 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.news2day.co.kr/article/20261106500370": {
       "title": "경북 도·의성군, 바이오·푸드테크 산업 대전환…455억 투자 결실",
       "summary": "기자] 경북 도와 의성군이 455억 원 규모의 기업 투자를 유치하고 도내 첫 식품 전문 산업단지 를 준공하는 등... 경북 도와 의성군은 앞으로 기업 투자 지원과 연구개발 기반 확충에 힘쓰는 한편, 대구경북 신공항과 연계한...",
@@ -4179,6 +4170,32 @@
       ],
       "basis": "관심기업: 한국수력원자력",
       "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=564737": {
+      "title": "경북 도, 의성에 식품산업 455억 투자 …신성장 비전 선포",
+      "summary": "경북 도는 지난 6일 의성바이오푸드밸리에서 '미래 신성장 산업 비전 선포식'을 열고 도내 첫 식품 전문... 이번 투자협약 에는 ㈜씨위드와 ㈜오그래 농업회사법인이 참여했다. 두 기업은 총 455억원을 투자 해 83명의 신규...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564737",
+      "date": "Sun, 08 Nov 2026 21:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html": {
+      "title": "노벨리스코리아 영주공장 노사분규 종지부···50여 일 파업 끝났다",
+      "summary": "이와 함께 정년퇴직자 15일 유급휴가를 명문화하고 자녀 출산 축의금 100만원을 신설하는 등 근로자 복지... 고용노동부와 대구 지방고용노동청 영주지청은 노사 간 대화와 협상이 진전을 이룰 수 있도록 조정에 힘을...",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html",
+      "date": "Sun, 08 Nov 2026 21:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
     }
@@ -6836,6 +6853,16 @@
       "url": "https://www.ksmnews.co.kr/news/view.php?idx=628791",
       "title": "경북 의성, 첨단 푸드테크 산업 중심지로 도약…455억원 투자 유치",
       "date": "Sun, 08 Nov 2026 20:28:00 +0900"
+    },
+    {
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564737",
+      "title": "경북 도, 의성에 식품산업 455억 투자 …신성장 비전 선포",
+      "date": "Sun, 08 Nov 2026 21:24:00 +0900"
+    },
+    {
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html",
+      "title": "노벨리스코리아 영주공장 노사분규 종지부···50여 일 파업 끝났다",
+      "date": "Sun, 08 Nov 2026 21:24:00 +0900"
     }
   ],
   "brief_articles": [
