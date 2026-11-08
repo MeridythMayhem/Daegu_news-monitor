@@ -1660,7 +1660,8 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502185": "2026-11-08T18:01:38.176414+09:00",
     "https://www.mk.co.kr/article/12201775": "2026-11-08T18:01:38.176414+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090060": "2026-11-08T19:01:55.308845+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047": "2026-11-08T19:01:55.308845+09:00"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047": "2026-11-08T19:01:55.308845+09:00",
+    "http://www.snmnews.com/news/articleView.html?idxno=577085": "2026-11-08T20:01:50.599056+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2823,7 +2824,8 @@
     "b6d771643db0b9a4295923c451fda965b1a926d16423c5671c36a282fa128f42": "2026-11-08T18:01:38.176414+09:00",
     "07c96a1ebd14da624557fa40324313cc5b99fb20785123915c1435985a9a695d": "2026-11-08T18:01:38.176414+09:00",
     "ff4ca39d8b0b266eab5dec88aaa5aec65b587ee0e6a269342b50036973ddb34f": "2026-11-08T19:01:55.308845+09:00",
-    "b6c0a9e85c825332efa44fea18cc1231815f3e4bace6fbbc012ae7fc51c08fbe": "2026-11-08T19:01:55.308845+09:00"
+    "b6c0a9e85c825332efa44fea18cc1231815f3e4bace6fbbc012ae7fc51c08fbe": "2026-11-08T19:01:55.308845+09:00",
+    "2036dca75445f5e3f2b03d57620bbcf426d779b332e9c4cd5c8d7ce00483f38e": "2026-11-08T20:01:50.599056+09:00"
   },
   "pending": {},
   "ai": {
@@ -2836,45 +2838,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kbmaeil.com/article/20261106500210": {
-      "title": "홍준표 경선캠프 ‘2억 의혹’…6명 송치, 수사 확대",
-      "summary": "대구 경찰청은 6일 정치자금법 위반 혐의로 선거용역업체 대표 박모씨와 캠프 회계담당자 김모씨, 거래업체 관계자 등 6명을 불 구속 송치했다. 이들은 2021년 국민의힘 대선 경선 당시 허위 거래를 꾸며 캠프 정치자금 약...",
-      "url": "https://www.kbmaeil.com/article/20261106500210",
-      "date": "Fri, 06 Nov 2026 19:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c3N0VkdDVFY4Q3Vvd0kxMHdacjEwVHJCYWhCTGhjVElzX2NmZjFVdVd0Q3FsbTVQd2ZkZHBQTkJPM24zWk13ZnpBeW52V1J2S1ppUkwyV0RDS0VWdXphVS1fTFdKa0hQa0ZkZndR?oc=5": {
-      "title": "영주시, 수의계약 실적 본청·읍면동 통합 관리…특정 업체 집중 방지 - 국제뉴스",
-      "summary": "영주시, 수의계약 실적 본청·읍면동 통합 관리…특정 업체 집중 방지 국제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c3N0VkdDVFY4Q3Vvd0kxMHdacjEwVHJCYWhCTGhjVElzX2NmZjFVdVd0Q3FsbTVQd2ZkZHBQTkJPM24zWk13ZnpBeW52V1J2S1ppUkwyV0RDS0VWdXphVS1fTFdKa0hQa0ZkZndR?oc=5",
-      "date": "Fri, 06 Nov 2026 10:09:08 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaHNuY1NSSmFCenZhVS1lTWwzZmZPeWR4UDg4UThjbHBKZW9wS2FyeHpDYVpyV2YyVm1uV1NISHhvTVRBVUU0TThPdDhtOXM1WHlGTzBYY1Ezd0FaNmVZcmVPU0k?oc=5": {
-      "title": "의성, 455억 투자 유치…미래 식품산업 거점으로 도약 - 경북TV",
-      "summary": "의성, 455억 투자 유치…미래 식품산업 거점으로 도약 경북TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaHNuY1NSSmFCenZhVS1lTWwzZmZPeWR4UDg4UThjbHBKZW9wS2FyeHpDYVpyV2YyVm1uV1NISHhvTVRBVUU0TThPdDhtOXM1WHlGTzBYY1Ezd0FaNmVZcmVPU0k?oc=5",
-      "date": "Fri, 06 Nov 2026 10:18:46 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.metroseoul.co.kr/article/20261106500264": {
       "title": "경북 도, 의성 식품산업 육성 본격화…455억 원 투자 유치",
       "summary": "6일 경북 의성바이오푸드밸리에서 열린 '미래 신성장 산업 비전 선포식'에서 식품기업 투자협약 식이 진행되고 있다. 왼쪽부터 금준호 ㈜씨위드 대표, 양금희 경북 도 경제부지사, 최유철 의성군수, 장종현 ㈜오그래...",
@@ -4212,6 +4175,19 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.snmnews.com/news/articleView.html?idxno=577085": {
+      "title": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 \"교섭·쟁의 ...",
+      "summary": "사진은 포스코 포항제철소 전경. 포스코 잠정합의안에는 기본임금 2.6% 인상과 특별호봉 3호봉 부여, 자연승호분을 포함한 월평균 22만8,000원의 임금 인상 효과가 담겼다. 목표달성격려금과 노사화합 장려금 등을 포함한...",
+      "url": "http://www.snmnews.com/news/articleView.html?idxno=577085",
+      "date": "Sun, 08 Nov 2026 20:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
     }
@@ -6854,6 +6830,11 @@
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047",
       "title": "대구 시의회, 9일 행감 돌입…노후 건물 안전·미분양 대책 검증",
       "date": "Sun, 08 Nov 2026 18:18:00 +0900"
+    },
+    {
+      "url": "http://www.snmnews.com/news/articleView.html?idxno=577085",
+      "title": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 \"교섭·쟁의 ...",
+      "date": "Sun, 08 Nov 2026 20:00:00 +0900"
     }
   ],
   "brief_articles": [
