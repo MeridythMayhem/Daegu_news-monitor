@@ -1661,7 +1661,9 @@
     "https://www.mk.co.kr/article/12201775": "2026-11-08T18:01:38.176414+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090060": "2026-11-08T19:01:55.308845+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047": "2026-11-08T19:01:55.308845+09:00",
-    "http://www.snmnews.com/news/articleView.html?idxno=577085": "2026-11-08T20:01:50.599056+09:00"
+    "http://www.snmnews.com/news/articleView.html?idxno=577085": "2026-11-08T20:01:50.599056+09:00",
+    "https://www.cstimes.com/news/articleView.html?idxno=727046": "2026-11-08T21:01:44.109079+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=628791": "2026-11-08T21:01:44.109079+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2825,7 +2827,9 @@
     "07c96a1ebd14da624557fa40324313cc5b99fb20785123915c1435985a9a695d": "2026-11-08T18:01:38.176414+09:00",
     "ff4ca39d8b0b266eab5dec88aaa5aec65b587ee0e6a269342b50036973ddb34f": "2026-11-08T19:01:55.308845+09:00",
     "b6c0a9e85c825332efa44fea18cc1231815f3e4bace6fbbc012ae7fc51c08fbe": "2026-11-08T19:01:55.308845+09:00",
-    "2036dca75445f5e3f2b03d57620bbcf426d779b332e9c4cd5c8d7ce00483f38e": "2026-11-08T20:01:50.599056+09:00"
+    "2036dca75445f5e3f2b03d57620bbcf426d779b332e9c4cd5c8d7ce00483f38e": "2026-11-08T20:01:50.599056+09:00",
+    "8bcedc5f16f8f27fb0e78dbcef187fe7e8572ee82dd4898c240e5b3963a15693": "2026-11-08T21:01:44.109079+09:00",
+    "f91ad7654f182f737266bc02c1fd0da4b93e66ef8ffcef27847048604d7a40e1": "2026-11-08T21:01:44.109079+09:00"
   },
   "pending": {},
   "ai": {
@@ -2838,45 +2842,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.metroseoul.co.kr/article/20261106500264": {
-      "title": "경북 도, 의성 식품산업 육성 본격화…455억 원 투자 유치",
-      "summary": "6일 경북 의성바이오푸드밸리에서 열린 '미래 신성장 산업 비전 선포식'에서 식품기업 투자협약 식이 진행되고 있다. 왼쪽부터 금준호 ㈜씨위드 대표, 양금희 경북 도 경제부지사, 최유철 의성군수, 장종현 ㈜오그래...",
-      "url": "http://www.metroseoul.co.kr/article/20261106500264",
-      "date": "Fri, 06 Nov 2026 20:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.safetimes.co.kr/news/articleView.html?idxno=247281": {
-      "title": "새 법무부 장관에 '이용철' 지명 … 국세청 ·정무수석 인사 도 단행",
-      "summary": "이재명 대통령이 두 번째 법무부 장관 후보자로 이용철 현 방위사업청장을 지명하고 국세청 장과 청와대 정무수석 인사 도 단행했다. 법무부 장관에는 인권·행정 분야 경험을 갖춘 변호사를, 국세청 장에는 세무 행정...",
-      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247281",
-      "date": "Fri, 06 Nov 2026 20:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.vegannews.co.kr/news/article.html?no=401427": {
-      "title": "한국가스공사 , 3분기 실적 공시일 12일로 예고",
-      "summary": "한국가스공사 (036460)가 2026년 3분기 결산실적을 오는 12일 공시할 예정이다. 회사는 6일 금융감독원 전자공시시스템(DART)에 ‘결산실적공시예고(안내공시)’를 제출했다. 이번 공시는 3분기 결산실적 공시...",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=401427",
-      "date": "Fri, 06 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5": {
       "title": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 - 웹플러스뉴스",
       "summary": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 웹플러스뉴스",
@@ -4188,6 +4153,32 @@
       ],
       "basis": "관심기업: 포스코",
       "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=628791": {
+      "title": "경북 의성, 첨단 푸드테크 산업 중심지로 도약…455억원 투자 유치",
+      "summary": "있다. 경북 도는 지난 6일 의성바이오푸드밸리에서 미래 식품산업 발전 전략을 발표하고 산업단지 준공을 기념하는 행사를 가졌다. 이날 ㈜씨위드와 오그래 농업회사법인 등 2개 기업과 총 455억원 규모의 투자협약 도...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628791",
+      "date": "Sun, 08 Nov 2026 20:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.cstimes.com/news/articleView.html?idxno=727046": {
+      "title": "한수원, 청정수소 포럼 개최·합천양수 주민 현장견학 시행",
+      "summary": "한국수력원자력 (한수원)이 미국 전력연구소(EPRI) 저탄소자원계획(LCRI) 팀과 손잡고 일산 킨텍스에서 청정수소 국산화와 대용량 생산 방안을 논의하는 장을 마련했다. 이번 행사의 기술적 토대가 된 'EPRI LCRI(Low Carbon...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=727046",
+      "date": "Sun, 08 Nov 2026 20:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
     }
@@ -6835,6 +6826,16 @@
       "url": "http://www.snmnews.com/news/articleView.html?idxno=577085",
       "title": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 \"교섭·쟁의 ...",
       "date": "Sun, 08 Nov 2026 20:00:00 +0900"
+    },
+    {
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=727046",
+      "title": "한수원, 청정수소 포럼 개최·합천양수 주민 현장견학 시행",
+      "date": "Sun, 08 Nov 2026 20:36:00 +0900"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628791",
+      "title": "경북 의성, 첨단 푸드테크 산업 중심지로 도약…455억원 투자 유치",
+      "date": "Sun, 08 Nov 2026 20:28:00 +0900"
     }
   ],
   "brief_articles": [
