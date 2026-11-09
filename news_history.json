@@ -1688,7 +1688,12 @@
     "https://view.asiae.co.kr/article/2026110910470047088": "2026-11-09T12:01:46.245539+09:00",
     "https://www.kpinews.kr/newsView/1065579013767692": "2026-11-09T12:01:46.245539+09:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BaTdqWFEyYVo0bTZPc3BMYWYtc19iRy1lXzZhd3RIU2lLT3pTRjJQNDFNRW9Id0k4QldNOXlUZXNlQlNmQm92VklsckRNM2lEdEh4NS1kbXowQlRESnE4Sw?oc=5": "2026-11-09T12:01:46.245539+09:00",
-    "https://www.ppss.kr/news/articleView.html?idxno=319804": "2026-11-09T13:02:01.170796+09:00"
+    "https://www.ppss.kr/news/articleView.html?idxno=319804": "2026-11-09T13:02:01.170796+09:00",
+    "https://www.naeil.com/news/read/608108?ref=naver": "2026-11-09T14:01:43.133966+09:00",
+    "https://www.getnews.co.kr/news/articleView.html?idxno=886485": "2026-11-09T14:01:43.133966+09:00",
+    "http://www.breaknews.com/1249355": "2026-11-09T14:01:43.133966+09:00",
+    "http://www.ferrotimes.com/news/articleView.html?idxno=51378": "2026-11-09T14:01:43.133966+09:00",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ0dBSF9oVnF5aHU0UGhtejlRTkhWbmYtU0x0VGZ2UGxLaXktZTFQRzhNYW5TYWVqWWZ4dU1pM2xnRFZFRkx1MmU5NGEyQXRqTGFqem9XOXVmWGs?oc=5": "2026-11-09T14:01:43.133966+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2879,7 +2884,12 @@
     "273489b928498aefe266119a97249b224db6b2f860619dbb9b20fba243589e63": "2026-11-09T12:01:46.245539+09:00",
     "8f985adf3e295d04c57df252c670a94a50fcf514d3d98afee74e31afe447de99": "2026-11-09T12:01:46.245539+09:00",
     "263da1949a4b19be0e1815141d1abaaa9b1fd933af1112bf15173f06eee7e8f0": "2026-11-09T12:01:46.245539+09:00",
-    "ad6af88dd1e0767d3d1ac1d6115be16ca74d9c832542fa91565b2a70301b282a": "2026-11-09T13:02:01.170796+09:00"
+    "ad6af88dd1e0767d3d1ac1d6115be16ca74d9c832542fa91565b2a70301b282a": "2026-11-09T13:02:01.170796+09:00",
+    "33148df22b63183a20236d1855faba76b5b8021824b41bf730d9f8009a140f86": "2026-11-09T14:01:43.133966+09:00",
+    "ab2ddd9ea917042b0924438b68d4ea4c5143bff215a6cabf24aa35f0f9d0ff26": "2026-11-09T14:01:43.133966+09:00",
+    "d7304af44cac3bad84d67b41f961eb9365830697497ae8e4e5953328fc0739f4": "2026-11-09T14:01:43.133966+09:00",
+    "119980ba62920dd40521fb0859f9f1cbd22b96e0f1c44ce68235cae58facfa59": "2026-11-09T14:01:43.133966+09:00",
+    "745f4dbdcf8a8d7930685b188e3c2fb280853ff0ecaa1448af18d3ff4661dc70": "2026-11-09T14:01:43.133966+09:00"
   },
   "pending": {},
   "ai": {
@@ -2889,7 +2899,7 @@
     "2026-11-06": 18,
     "2026-11-07": 7,
     "2026-11-08": 3,
-    "2026-11-09": 1
+    "2026-11-09": 2
   },
   "cursor": 0,
   "archive": {
@@ -4503,6 +4513,84 @@
       ],
       "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
       "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.getnews.co.kr/news/articleView.html?idxno=886485": {
+      "title": "포항 시, 미국 유통 거점 '한남체인'과 수출 MOU 체결… 북미 시장 진출 ...",
+      "summary": "포항 시는 지난 6일(현지시간) 미국 서부 지역의 대표적인 대형 한인 유통 기업인 '한남체인 USA'와 포항 시 우수 농수산특산품의 미주 시장 진출 본격화를 위한 전략적 업무협약( MOU )을 체결했다고 밝혔다. 이번에 손을 잡은...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886485",
+      "date": "Mon, 09 Nov 2026 13:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.breaknews.com/1249355": {
+      "title": "포항시, 미국 한남체인과 수출 협약…농수산식품 북미 판로 확대",
+      "summary": "업무협약( MOU )을 체결했다고 밝혔다. 1988년 문을 연 한남체인은 미국 서부를... and marine food products and to increase export contracts.\" 원본 기사 보기:브레이크뉴스 대구 경북",
+      "url": "http://www.breaknews.com/1249355",
+      "date": "Mon, 09 Nov 2026 13:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.naeil.com/news/read/608108?ref=naver": {
+      "title": "신임 국세청 장에 안덕수 서울청장 내정",
+      "summary": "신임 국세청 장 후보자에 안덕수(사진) 서울지방 국세청 장이 내정됐다. 안 후보자는 1971년 부산 출신으로... 이어 “앞으로 주어진 시간 동안 국세행정의 역할과 책임에 대해 깊이 고민하며 인사 청문회를 성실하게...",
+      "url": "https://www.naeil.com/news/read/608108?ref=naver",
+      "date": "Mon, 09 Nov 2026 13:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "http://www.ferrotimes.com/news/articleView.html?idxno=51378": {
+      "title": "포스코 미술관 광양, 파노라마 워크 준공 기념전 개최",
+      "summary": "전시를 찾은 관람객이 큐레이터에게 전시 설명을 듣고 있다.(출처 : 포스코 뉴스룸) 포스코 미술관 광양에서 광양 구봉산 정상에 조성된 체험형 조형물 '파노라마 워크'의 준공 기념전이 열리고 있다. 이번 'PANORAMA WALK...",
+      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51378",
+      "date": "Mon, 09 Nov 2026 13:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=623864": {
+      "title": "대우건설 노조 \"한수원, 체코 원전 시공사 교체 사전 계획 의혹\"",
+      "summary": "전국건설기업노동조합 대우건설지부는 한국수력원자력 (이하 한수원)이 체코 두코바니 신규 원전 시공협상 결렬에 앞서 특정 대형 건설사와 사전 접촉을 가졌다는 의혹을 제기했다. 대우건설 노조는 9일 서울 여의도 국회...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623864",
+      "date": "Mon, 09 Nov 2026 13:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ0dBSF9oVnF5aHU0UGhtejlRTkhWbmYtU0x0VGZ2UGxLaXktZTFQRzhNYW5TYWVqWWZ4dU1pM2xnRFZFRkx1MmU5NGEyQXRqTGFqem9XOXVmWGs?oc=5": {
+      "title": "안동시청 직원들, 경북 국립의대 신설 확정 함께 축하 - 경북뉴스",
+      "summary": "안동시청 직원들, 경북 국립의대 신설 확정 함께 축하 경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ0dBSF9oVnF5aHU0UGhtejlRTkhWbmYtU0x0VGZ2UGxLaXktZTFQRzhNYW5TYWVqWWZ4dU1pM2xnRFZFRkx1MmU5NGEyQXRqTGFqem9XOXVmWGs?oc=5",
+      "date": "Mon, 09 Nov 2026 04:05:45 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
     }
@@ -7289,6 +7377,31 @@
       "url": "https://www.ppss.kr/news/articleView.html?idxno=319804",
       "title": "[PPSS 기업해부 포스코 ⑥] 매출 69조에도 영업이익률 2.6%… 포스코 , 실...",
       "date": "Mon, 09 Nov 2026 13:00:00 +0900"
+    },
+    {
+      "url": "https://www.naeil.com/news/read/608108?ref=naver",
+      "title": "신임 국세청 장에 안덕수 서울청장 내정",
+      "date": "Mon, 09 Nov 2026 13:04:00 +0900"
+    },
+    {
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886485",
+      "title": "포항 시, 미국 유통 거점 '한남체인'과 수출 MOU 체결… 북미 시장 진출 ...",
+      "date": "Mon, 09 Nov 2026 13:56:00 +0900"
+    },
+    {
+      "url": "http://www.breaknews.com/1249355",
+      "title": "포항시, 미국 한남체인과 수출 협약…농수산식품 북미 판로 확대",
+      "date": "Mon, 09 Nov 2026 13:54:00 +0900"
+    },
+    {
+      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51378",
+      "title": "포스코 미술관 광양, 파노라마 워크 준공 기념전 개최",
+      "date": "Mon, 09 Nov 2026 13:30:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ0dBSF9oVnF5aHU0UGhtejlRTkhWbmYtU0x0VGZ2UGxLaXktZTFQRzhNYW5TYWVqWWZ4dU1pM2xnRFZFRkx1MmU5NGEyQXRqTGFqem9XOXVmWGs?oc=5",
+      "title": "안동시청 직원들, 경북 국립의대 신설 확정 함께 축하 - 경북뉴스",
+      "date": "Mon, 09 Nov 2026 04:05:45 GMT"
     }
   ],
   "brief_articles": [
@@ -7341,7 +7454,7 @@
     "2026-11-06": 11,
     "2026-11-07": 5,
     "2026-11-08": 2,
-    "2026-11-09": 1
+    "2026-11-09": 2
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
