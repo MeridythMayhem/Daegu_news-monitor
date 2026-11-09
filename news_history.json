@@ -1733,7 +1733,9 @@
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRXRQMV81QTMyVzZOWHVLbW9FVnprLTVITWNkTl9uXzJSUEtlRmlCS1hnQkZVWWU4SlRjOXoxRFlxcEZBaDFubXZ1aDdISFU0ZC16ZGx3Zy1oQmtSeXZNSlFtSlU?oc=5": "2026-11-09T21:01:46.710440+09:00",
     "https://www.dkilbo.com/news/articleView.html?idxno=560152": "2026-11-09T21:01:46.710440+09:00",
     "https://www.yeongnam.com/web/view.php?key=20261109020469378": "2026-11-09T21:01:46.710440+09:00",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE80eW5DWXpMdHdaQmRGRDhFdXlGZ1pfNTkzaWVkUTYzbDVBVEI0ZHpjRkxMR1VaS0paTmVZd3piRGRIM0ZPQ0dISTJaQjJLY2xyQkdXUUlyVTFLTzI0anpSbEpDMDlFdkZtcFRXSl9tZWhQc2Zf?oc=5": "2026-11-09T21:01:46.710440+09:00"
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE80eW5DWXpMdHdaQmRGRDhFdXlGZ1pfNTkzaWVkUTYzbDVBVEI0ZHpjRkxMR1VaS0paTmVZd3piRGRIM0ZPQ0dISTJaQjJLY2xyQkdXUUlyVTFLTzI0anpSbEpDMDlFdkZtcFRXSl9tZWhQc2Zf?oc=5": "2026-11-09T21:01:46.710440+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=402641": "2026-11-09T22:01:58.247610+09:00",
+    "http://www.newstown.co.kr/news/articleView.html?idxno=721298": "2026-11-09T22:01:58.247610+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2969,7 +2971,9 @@
     "50973bb7132d3369fddc39392a0395ce4bd9a393532631235950fad25247c120": "2026-11-09T21:01:46.710440+09:00",
     "61c36c90812172425eb2cf2a4b08b1f5b7933299cf209354793f00082c5e6891": "2026-11-09T21:01:46.710440+09:00",
     "4dcc758a44ee48f61160f33444b45e2ea114e1e4f942d164b21575fa160848af": "2026-11-09T21:01:46.710440+09:00",
-    "72875cf7d3b5cf93178fd39331e12b40ab76bb8d4cbc7e4e1251576f31551ef5": "2026-11-09T21:01:46.710440+09:00"
+    "72875cf7d3b5cf93178fd39331e12b40ab76bb8d4cbc7e4e1251576f31551ef5": "2026-11-09T21:01:46.710440+09:00",
+    "39f23773ddaf46c817d67cb2aac4dc895c650a60a99e56a97b48b6e6e6ecf204": "2026-11-09T22:01:58.247610+09:00",
+    "88c5d440f4b4151a4cc1ed03853a36bb3e08f25f62a48b48f4fd60c8f5565c16": "2026-11-09T22:01:58.247610+09:00"
   },
   "pending": {},
   "ai": {
@@ -2979,49 +2983,10 @@
     "2026-11-06": 18,
     "2026-11-07": 7,
     "2026-11-08": 3,
-    "2026-11-09": 10
+    "2026-11-09": 11
   },
   "cursor": 0,
   "archive": {
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A": {
-      "title": "포스코 노조, 임금 잠정 합의안 부결…재협상",
-      "summary": "올해 포스코 노사의 임금 교섭 잠정 합의안이 부결됐습니다. 한국노총 포스코 노조는 사측과 잠정 합의한 임금 교섭안에 대해 찬반투표를 벌인 결과, 반대 51.7%, 찬성 48.3%로 부결됐다고 밝혔습니다.",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A",
-      "date": "Sat, 07 Nov 2026 21:35:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052": {
-      "title": "포스코 노조, 임금 잠정 합의안 반대 51.69% '부결'",
-      "summary": "포스코 노사의 올해(2026년) 임금교섭 잠정 합의안이 조합원 투표에서 부결됐습니다. 한국노총 금속노련 포스코 노동조합은 오늘(7일) 회사 측과 잠정 합의한 임금 교섭안을 놓고 찬반투표를 벌인 결과 찬성 48.31...",
-      "url": "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052",
-      "date": "Sat, 07 Nov 2026 21:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.newstomato.com/ReadNews.aspx?no=1319601&inflow=N": {
-      "title": "‘첫 파업’ 포스코 노조, 잠정합의안 ‘부결’…찬반 311표 차",
-      "summary": "포스코 포항제철소 .(사진=연합뉴스) 한국노총 금속노련 포스코노동조합은 7일 조합원을 대상으로 잠정합의안 찬반투표를 실시한 결과 찬성 48.31%(4433표), 반대 51.69%(4744표)로 부결됐다고 밝혔습니다. 반대표가...",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1319601&inflow=N",
-      "date": "Sat, 07 Nov 2026 21:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.viva100.com/article/20261107500203": {
       "title": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차...",
       "summary": "포스코 노사가 도출한 올해 임금교섭 첫 잠정합의안이 조합원 투표 문턱을 넘지 못했다. 내부 반발로... 7일 포스코 노조에 따르면 이날 진행한 2026년 단체교섭(임금교섭) 잠정합의안 찬반투표는 참여 조합원 9177명 중...",
@@ -4945,6 +4910,45 @@
       "basis": "관심기업: 포스코",
       "category": "해외기업 동향",
       "priority": 50,
+      "filter_version": 17
+    },
+    "http://www.newstown.co.kr/news/articleView.html?idxno=721298": {
+      "title": "포항 시, 미국 대형 유통업체와 협약…농수산특산품 북미 수출 확대",
+      "summary": "포항 시는 지난 6일(현지시간) 미국 서부 지역의 대표적인 한인 유통업체인 한남체인 USA와 포항 농수산특산품의 미주 시장 진출 확대를 위한 업무협약( MOU )을 체결했다. (사진 / 포항 시 제공) 포항 시가 캐나다에 이어 미국...",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721298",
+      "date": "Mon, 09 Nov 2026 21:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=402641": {
+      "title": "한국가스공사 , 12일 3분기 잠정실적 공시",
+      "summary": "한국가스공사 (036460)가 오는 12일 2026년 3분기 결산실적을 공시할 예정이다. 대상 기간은 1월 1일부터 9월 30일까지다. 한국가스공사 는 지난 6일 금융감독원 전자공시시스템에 제출한 결산실적공시예고에서 일정을...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=402641",
+      "date": "Mon, 09 Nov 2026 21:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lbWJLUWEyMU5mbkRacDZ5enRic2NPQUhkblFINWlUZkZlZEptbWZLcmdjTm5CcHV2N3JvcVBaSHUxcEtmaE1PRUdWN0VyeU1VT2Znd0FBbnoxWUg3STRySzR3WQ?oc=5": {
+      "title": "산불 피해 ‘제이오푸드’, 595일 만에 안동 신공장 준공 100억 원 재투자로 생산능력 5배 확대 - 시사뉴스",
+      "summary": "산불 피해 ‘제이오푸드’, 595일 만에 안동 신공장 준공 100억 원 재투자로 생산능력 5배 확대 시사뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lbWJLUWEyMU5mbkRacDZ5enRic2NPQUhkblFINWlUZkZlZEptbWZLcmdjTm5CcHV2N3JvcVBaSHUxcEtmaE1PRUdWN0VyeU1VT2Znd0FBbnoxWUg3STRySzR3WQ?oc=5",
+      "date": "Mon, 09 Nov 2026 12:24:38 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
       "filter_version": 17
     }
   },
@@ -7955,6 +7959,16 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80eW5DWXpMdHdaQmRGRDhFdXlGZ1pfNTkzaWVkUTYzbDVBVEI0ZHpjRkxMR1VaS0paTmVZd3piRGRIM0ZPQ0dISTJaQjJLY2xyQkdXUUlyVTFLTzI0anpSbEpDMDlFdkZtcFRXSl9tZWhQc2Zf?oc=5",
       "title": "POSCO Union Rejects Wage Deal with Re-strike Looming - Businesskorea",
       "date": "Mon, 09 Nov 2026 11:15:21 GMT"
+    },
+    {
+      "url": "https://www.vegannews.co.kr/news/article.html?no=402641",
+      "title": "한국가스공사 , 12일 3분기 잠정실적 공시",
+      "date": "Mon, 09 Nov 2026 21:48:00 +0900"
+    },
+    {
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721298",
+      "title": "포항 시, 미국 대형 유통업체와 협약…농수산특산품 북미 수출 확대",
+      "date": "Mon, 09 Nov 2026 21:01:00 +0900"
     }
   ],
   "brief_articles": [
@@ -8007,7 +8021,7 @@
     "2026-11-06": 11,
     "2026-11-07": 5,
     "2026-11-08": 2,
-    "2026-11-09": 7
+    "2026-11-09": 8
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
