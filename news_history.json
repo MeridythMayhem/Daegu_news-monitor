@@ -1666,7 +1666,11 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=628791": "2026-11-08T21:01:44.109079+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564737": "2026-11-08T22:01:52.567033+09:00",
     "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html": "2026-11-08T22:01:52.567033+09:00",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234": "2026-11-09T09:01:56.464971+09:00"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234": "2026-11-09T09:01:56.464971+09:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5": "2026-11-09T10:01:55.172813+09:00",
+    "http://www.inews24.com/view/2023832": "2026-11-09T10:01:55.172813+09:00",
+    "https://www.aflnews.co.kr/news/articleView.html?idxno=331304": "2026-11-09T10:01:55.172813+09:00",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMVlXVEk4UlZlQ21vQ2Y4aFBIdUtJZGxyMHp0NjN1NVlMSmx1ZmFWY0xya3JqQkExeXZvTDRSdGxmdmxtdElUcFM0TDA?oc=5": "2026-11-09T10:01:55.172813+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2835,7 +2839,11 @@
     "f91ad7654f182f737266bc02c1fd0da4b93e66ef8ffcef27847048604d7a40e1": "2026-11-08T21:01:44.109079+09:00",
     "c062a3418c304cc7df043f1f997f697dfc8ff885bce71c5edc7e0178c242fe64": "2026-11-08T22:01:52.567033+09:00",
     "fb5c62a12b848a6582437176776489aaec5fccbcf7d01009cac099881bcd3f59": "2026-11-08T22:01:52.567033+09:00",
-    "d6b4998e89316b4b856a0b238fb2526c7d69c3ff2ffb1ff17d3f81abe3863772": "2026-11-09T09:01:56.464971+09:00"
+    "d6b4998e89316b4b856a0b238fb2526c7d69c3ff2ffb1ff17d3f81abe3863772": "2026-11-09T09:01:56.464971+09:00",
+    "cce503c043bda03730b799b7d73bddf4342909c025a9ecc66d1557ca9b6d3998": "2026-11-09T10:01:55.172813+09:00",
+    "05442794b07eb90060b22efe644f1269fd1986bb9108a04f4c0d5ad7627fe548": "2026-11-09T10:01:55.172813+09:00",
+    "08b77a31c1bc9408a6ba71b422f30bee0f41cb5bc7dfc205cdf86e071a15307e": "2026-11-09T10:01:55.172813+09:00",
+    "159af27a49559add44dd0015ab40a16826967da84fd3046ad095ea7c47ecb25c": "2026-11-09T10:01:55.172813+09:00"
   },
   "pending": {},
   "ai": {
@@ -2848,58 +2856,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.thepublic.kr/news/articleView.html?idxno=325530": {
-      "title": "기업 세무조사 부담 줄이고 주가조작 탈세 추적… 국세청 장 후보에 안덕...",
-      "summary": "안덕수 서울지방 국세청 장이 차기 국세청 장 후보자로 내정됐다. 국세청 조사국장 시절 조사관이 기업에... 고민하며 인사 청문회를 성실하게 준비하겠습니다\"라고 밝혔다. 1971년 부산에서 태어난 안 후보자는 고려대...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=325530",
-      "date": "Sat, 07 Nov 2026 09:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502033": {
-      "title": "신한투자증권 \"북미 전기차 부진에도… 에코프로 비엠, ESS·신규 고객으로...",
-      "summary": "에코프로 비엠이 헝가리 생산라인의 정상 가동을 발판으로 중장기 실적 회복에 나선다. 신한투자증권은 최근 보고서에서 북미 전기차 시장의 부진과 유럽 완성차 업체들의 차종 변경에 따른 단기 출하 공백이...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502033",
-      "date": "Sat, 07 Nov 2026 09:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS2loUmRWb3VmZVpKTFJMMEk2NzNLZmpNV3VjR055ZmlhVHRKWmZfWjZZSW9FM29nUjRYYWVJZXVkcHo2cVh3ZHNQUEx4WnUyOHNkdzhSa2ttaFlYaFNETHJBWUlLbG5Uc1Fr0gFvQVVfeXFMTVJkNjFUSWROa1hsdEJoWTlSbWdiNjZnaml2TjFwN1JzOGR3NFZFYl9aeEVyNlVBMVBLRjgyVk1LLUdLQUdKcjJIa3ZIZGVtaWJPQWhqNkpZODhoNWJqc3ZKWmRHTC0xckdOZDE1UXhN?oc=5": {
-      "title": "기업 세무조사 부담 줄이고 주가조작 탈세 추적…국세청장 후보에 안덕수 - 더퍼블릭",
-      "summary": "기업 세무조사 부담 줄이고 주가조작 탈세 추적…국세청장 후보에 안덕수 더퍼블릭",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS2loUmRWb3VmZVpKTFJMMEk2NzNLZmpNV3VjR055ZmlhVHRKWmZfWjZZSW9FM29nUjRYYWVJZXVkcHo2cVh3ZHNQUEx4WnUyOHNkdzhSa2ttaFlYaFNETHJBWUlLbG5Uc1Fr0gFvQVVfeXFMTVJkNjFUSWROa1hsdEJoWTlSbWdiNjZnaml2TjFwN1JzOGR3NFZFYl9aeEVyNlVBMVBLRjgyVk1LLUdLQUdKcjJIa3ZIZGVtaWJPQWhqNkpZODhoNWJqc3ZKWmRHTC0xckdOZDE1UXhN?oc=5",
-      "date": "Sat, 07 Nov 2026 00:40:03 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qN05jeU9lSmV3endHSXlvNlZJRGIwZWhtV1VjcHBKNU1Xa1JEdFVEVTlscWtHbEpYR01jUjhNbUowOFNNNG1NYTZuV2xNUEhKeVZGWGVZM2NoN0U1c2pBTlVZaXRkMFhQanlYTUpQR3lRVVU?oc=5": {
-      "title": "신한투자증권 \"북미 전기차 부진에도…에코프로비엠, ESS·신규 고객으로 돌파구\" - 핀포인트뉴스",
-      "summary": "신한투자증권 \"북미 전기차 부진에도…에코프로비엠, ESS·신규 고객으로 돌파구\" 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qN05jeU9lSmV3endHSXlvNlZJRGIwZWhtV1VjcHBKNU1Xa1JEdFVEVTlscWtHbEpYR01jUjhNbUowOFNNNG1NYTZuV2xNUEhKeVZGWGVZM2NoN0U1c2pBTlVZaXRkMFhQanlYTUpQR3lRVVU?oc=5",
-      "date": "Sat, 07 Nov 2026 00:23:55 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://daily.hankooki.com/news/articleView.html?idxno=1422853": {
       "title": "\"돌봄·복지·문화 한곳에\"…문경시, 모전동 커뮤니티센터 건립",
       "summary": "사진=문경시 제공 경북 문경시가 모전동에 복합복지·문화공간을 조성한다. 문경시는 '행복1번지 커뮤니티센터 건립 사업'이 국토교통부 지역개발사업에 선정됐다고 7일 밝혔다. 이에 따라 시는 국비 112억원 등 총사업비...",
@@ -4263,6 +4219,58 @@
       ],
       "basis": "관심기업: 포스코",
       "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.inews24.com/view/2023832": {
+      "title": "세계 투자 자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자 유...",
+      "summary": "실제 투자 와 기업 협력으로 연결하는 것이 앞으로의 과제다. 대구 경북경제자유구역청(DGFEZ·청장 정해용)은... 다만 이번 방문에서 구체적인 투자협약 이나 투자 금액이 확정됐는지는 제시되지 않았다. 해외 투자 자들의...",
+      "url": "http://www.inews24.com/view/2023832",
+      "date": "Mon, 09 Nov 2026 09:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.aflnews.co.kr/news/articleView.html?idxno=331304": {
+      "title": "농협사료· 포스코 인터네셔널, 5년 연속 수입 사료원료 공급망 MOU",
+      "summary": "불확실한 글로벌 환경 속 국내 축산농가의 생산비 절감과 경쟁력 강화를 위한 농협사료와 포스코 인터네셔널의 업무협약(MOU)이 5년 연속으로 이뤄져 이목이 집중된다. 농협사료는 지난달 28일 서울 포스코 센터에서 최강필...",
+      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331304",
+      "date": "Mon, 09 Nov 2026 09:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5": {
+      "title": "의성군, 바이오푸드밸리 455억 원 투자유치…신규 일자리 83개 창출 - 열린뉴스통신",
+      "summary": "의성군, 바이오푸드밸리 455억 원 투자유치…신규 일자리 83개 창출 열린뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5",
+      "date": "Mon, 09 Nov 2026 00:39:46 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMVlXVEk4UlZlQ21vQ2Y4aFBIdUtJZGxyMHp0NjN1NVlMSmx1ZmFWY0xya3JqQkExeXZvTDRSdGxmdmxtdElUcFM0TDA?oc=5": {
+      "title": "세계 투자자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자유치 시험대 - 아이뉴스24",
+      "summary": "세계 투자자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자유치 시험대 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMVlXVEk4UlZlQ21vQ2Y4aFBIdUtJZGxyMHp0NjN1NVlMSmx1ZmFWY0xya3JqQkExeXZvTDRSdGxmdmxtdElUcFM0TDA?oc=5",
+      "date": "Mon, 09 Nov 2026 00:21:12 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
     }
@@ -6939,6 +6947,26 @@
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234",
       "title": "포스코 임금협상 잠정합의안 부결…노조, 9일 대책회의 개최",
       "date": "Mon, 09 Nov 2026 08:18:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5",
+      "title": "의성군, 바이오푸드밸리 455억 원 투자유치…신규 일자리 83개 창출 - 열린뉴스통신",
+      "date": "Mon, 09 Nov 2026 00:39:46 GMT"
+    },
+    {
+      "url": "http://www.inews24.com/view/2023832",
+      "title": "세계 투자 자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자 유...",
+      "date": "Mon, 09 Nov 2026 09:22:00 +0900"
+    },
+    {
+      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331304",
+      "title": "농협사료· 포스코 인터네셔널, 5년 연속 수입 사료원료 공급망 MOU",
+      "date": "Mon, 09 Nov 2026 09:22:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMVlXVEk4UlZlQ21vQ2Y4aFBIdUtJZGxyMHp0NjN1NVlMSmx1ZmFWY0xya3JqQkExeXZvTDRSdGxmdmxtdElUcFM0TDA?oc=5",
+      "title": "세계 투자자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자유치 시험대 - 아이뉴스24",
+      "date": "Mon, 09 Nov 2026 00:21:12 GMT"
     }
   ],
   "brief_articles": [
