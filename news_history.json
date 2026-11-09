@@ -1665,7 +1665,8 @@
     "https://www.cstimes.com/news/articleView.html?idxno=727046": "2026-11-08T21:01:44.109079+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628791": "2026-11-08T21:01:44.109079+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564737": "2026-11-08T22:01:52.567033+09:00",
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html": "2026-11-08T22:01:52.567033+09:00"
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html": "2026-11-08T22:01:52.567033+09:00",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234": "2026-11-09T09:01:56.464971+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2833,7 +2834,8 @@
     "8bcedc5f16f8f27fb0e78dbcef187fe7e8572ee82dd4898c240e5b3963a15693": "2026-11-08T21:01:44.109079+09:00",
     "f91ad7654f182f737266bc02c1fd0da4b93e66ef8ffcef27847048604d7a40e1": "2026-11-08T21:01:44.109079+09:00",
     "c062a3418c304cc7df043f1f997f697dfc8ff885bce71c5edc7e0178c242fe64": "2026-11-08T22:01:52.567033+09:00",
-    "fb5c62a12b848a6582437176776489aaec5fccbcf7d01009cac099881bcd3f59": "2026-11-08T22:01:52.567033+09:00"
+    "fb5c62a12b848a6582437176776489aaec5fccbcf7d01009cac099881bcd3f59": "2026-11-08T22:01:52.567033+09:00",
+    "d6b4998e89316b4b856a0b238fb2526c7d69c3ff2ffb1ff17d3f81abe3863772": "2026-11-09T09:01:56.464971+09:00"
   },
   "pending": {},
   "ai": {
@@ -2846,32 +2848,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://biz.heraldcorp.com/article/10929084?ref=naver": {
-      "title": "경주시, 명계3산단에 태영테크 명계공장 준공",
-      "summary": "경북 경주시 내남면 명계3일반산업단지에 자동차 부품 전문기업 태영테크(주)의 신공장이 들어섰다.... 태영테크(주)는 지난해 7월 경주시와 151억원 규모의 자동차 부품 신공장 건립을 위한 투자양해각서( MOU )를 체결하고...",
-      "url": "https://biz.heraldcorp.com/article/10929084?ref=naver",
-      "date": "Sat, 07 Nov 2026 08:15:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5": {
-      "title": "'말'보다 '눈'으로…한수원, 합천양수 주민을 공사 현장 앞에 세웠다 - 에너지안전신문",
-      "summary": "'말'보다 '눈'으로…한수원, 합천양수 주민을 공사 현장 앞에 세웠다 에너지안전신문",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5",
-      "date": "Fri, 06 Nov 2026 23:19:48 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.thepublic.kr/news/articleView.html?idxno=325530": {
       "title": "기업 세무조사 부담 줄이고 주가조작 탈세 추적… 국세청 장 후보에 안덕...",
       "summary": "안덕수 서울지방 국세청 장이 차기 국세청 장 후보자로 내정됐다. 국세청 조사국장 시절 조사관이 기업에... 고민하며 인사 청문회를 성실하게 준비하겠습니다\"라고 밝혔다. 1971년 부산에서 태어난 안 후보자는 고려대...",
@@ -4274,6 +4250,19 @@
       ],
       "basis": "관심기업: 한국수력원자력",
       "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234": {
+      "title": "포스코 임금협상 잠정합의안 부결…노조, 9일 대책회의 개최",
+      "summary": "포스코 노사가 약 140일간의 교섭 끝에 마련한 임금협상 잠정합의안이 노동조합 찬반투표에서 부결됐다. 노조는 9일 대책회의를 열고 향후 교섭 및 쟁의행위 대응 방안을 논의할 예정이다. 포스코 노조는 2026년도...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234",
+      "date": "Mon, 09 Nov 2026 08:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
     }
@@ -6945,6 +6934,11 @@
       "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html",
       "title": "노벨리스코리아 영주공장 노사분규 종지부···50여 일 파업 끝났다",
       "date": "Sun, 08 Nov 2026 21:24:00 +0900"
+    },
+    {
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234",
+      "title": "포스코 임금협상 잠정합의안 부결…노조, 9일 대책회의 개최",
+      "date": "Mon, 09 Nov 2026 08:18:00 +0900"
     }
   ],
   "brief_articles": [
