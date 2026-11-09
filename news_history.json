@@ -1723,7 +1723,10 @@
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9taUc1bTUybFV3Qzk2VE5iRnE5R2lKM3ZMNnQtUk9YT0pBa2tRenl1M3R0NFhNZ1d5UEx4MklMMnUzMEczQkxoYWc1ZlpYZVdGQU90ajJrODZUWEh6ZGs2NEgyYw?oc=5": "2026-11-09T18:01:56.652898+09:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yclF6cFFDWW5XRU11dGU1UXhNUkF3aHRSMnNLOGtGbG9zS1hxWk1XSUpTSF9LWmdtRkFRdVBBd3E1dWs1bDlEbHdVeDd3Tk5CUmNNTTAwemg1YURhcUJGNw?oc=5": "2026-11-09T18:01:56.652898+09:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDNnB4dXN0U2VRWXRyWDJuVENIMVdhMUdSQ21FVWxtRzRLQS1seGZFOXd4U3lOdGotVlppX1VtcnhZNHpwTVp3eGc1NnVfQmtoUnFIWHE1ZTg5UDIzdmlSYg?oc=5": "2026-11-09T18:01:56.652898+09:00",
-    "https://www.dkilbo.com/news/articleView.html?idxno=560094": "2026-11-09T18:01:56.652898+09:00"
+    "https://www.dkilbo.com/news/articleView.html?idxno=560094": "2026-11-09T18:01:56.652898+09:00",
+    "https://www.sentv.co.kr/article/view/sentv202611090145": "2026-11-09T19:01:56.680080+09:00",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiUTA3LTVpVEdDd094eUdzRHJncXhGLUtHaTJ0Sy1GUjN0cmw1U1lmdXp2NnAySlZhMkpOQk9wcU94LVlEZUZkQl9kRTdSYTkwUTVka3ExTnVLdzg?oc=5": "2026-11-09T19:01:56.680080+09:00",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE45ay02R0lIWjZ4TUpkZV81NDZ6ME1ORmVhbGY5QW0xa0tSbXg4ZEVrdEdMNGFJbmtfaExtUkJmdE1zOVZDSHc3NGE5cTBUQ1Y4Vkt2dlAteFNvUWhsbGY3a3JncUFSaElsX21zZWw3QdIBb0FVX3lxTE45ay02R0lIWjZ4TUpkZV81NDZ6ME1ORmVhbGY5QW0xa0tSbXg4ZEVrdEdMNGFJbmtfaExtUkJmdE1zOVZDSHc3NGE5cTBUQ1Y4Vkt2dlAteFNvUWhsbGY3a3JncUFSaElsX21zZWw3QQ?oc=5": "2026-11-09T19:01:56.680080+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2949,7 +2952,10 @@
     "a310d81144eba1e6e3cb72be4014bf7d5c11f33d5bff380e2b65b22bd60fb3fd": "2026-11-09T18:01:56.652898+09:00",
     "c225fadd762533292391266cd7ad55f45d4ddd5e4ff3df3ace7b0cd38349e523": "2026-11-09T18:01:56.652898+09:00",
     "014530a655b401b6cc27eb8a437db60512b17c87294cd290de22b4a111ed28a0": "2026-11-09T18:01:56.652898+09:00",
-    "c41044e57a8cf320f1ad56ea63b69016b7f704561135bac546b6b3c9a9a743ce": "2026-11-09T18:01:56.652898+09:00"
+    "c41044e57a8cf320f1ad56ea63b69016b7f704561135bac546b6b3c9a9a743ce": "2026-11-09T18:01:56.652898+09:00",
+    "1a532886a613dfba7a1bcc98af3affdd0020c215b32f4153314d4741546864e5": "2026-11-09T19:01:56.680080+09:00",
+    "1feb60d06c3059bf606b41acbef3c40aadcc5042d91001ac27e7b8347c05e210": "2026-11-09T19:01:56.680080+09:00",
+    "ca67a7a5921d7be1ea43439261dd3e8e2d40d6d233c2d9fc9d7b3ba36fac9797": "2026-11-09T19:01:56.680080+09:00"
   },
   "pending": {},
   "ai": {
@@ -2959,166 +2965,10 @@
     "2026-11-06": 18,
     "2026-11-07": 7,
     "2026-11-08": 3,
-    "2026-11-09": 9
+    "2026-11-09": 10
   },
   "cursor": 0,
   "archive": {
-    "https://www.kbsm.net/news/view.php?idx=540713": {
-      "title": "경주 사정동서 변압기 교체 중 폭발…작업자 3명 중·경상",
-      "summary": "경북 경주시 사정동의 한 도로에서 변압기가 폭발해 작업자 3명이 다치는 사고가 발생했다. 경주시와 소방... 경찰과 소방 당국은 고장 난 변압기를 교체하던 중 화재 가 일어난 것으로 보고 정확한 원인을 조사하고...",
-      "url": "https://www.kbsm.net/news/view.php?idx=540713",
-      "date": "Sat, 07 Nov 2026 18:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.ddaily.co.kr/page/view/2026110718191159934": {
-      "title": "포스코 노조, 임단협 잠정합의안 부결…노사 재교섭 불가피",
-      "summary": "포스코 노사가 파업 위기 속에서 가까스로 도출한 올해 임금·단체협상 잠정합의안이 끝내 노동조합... 7일 한국노총 금속노련 포스코 노동조합에 따르면 이날 진행된 2026년 임단협 잠정합의안에 대한 조합원 찬반투표...",
-      "url": "https://www.ddaily.co.kr/page/view/2026110718191159934",
-      "date": "Sat, 07 Nov 2026 18:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.joongang.co.kr/article/25476616": {
-      "title": "포스코 노조 임금협상 잠정합의안, 투표서 부결…교섭 원점",
-      "summary": "포스코 노사가 두 차례 부분파업 끝에 마련한 올해 임금교섭 잠정합의안이 조합원 찬반투표에서... 7일 업계에 따르면 한국노총 금속노련 포스코 노동조합은 이날 임금교섭 잠정합의안에 대한 조합원 찬반투표를...",
-      "url": "https://www.joongang.co.kr/article/25476616",
-      "date": "Sat, 07 Nov 2026 18:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6346497": {
-      "title": "포스코 노조, 임금 잠정안 부결…\"또 파업하면 지역사회 못 버텨\"",
-      "summary": "포스코 노조가 진행한 2026년도 임금협상 잠정안 투표가 부결됐다는 소식에 지역 사회가 술렁이고 있다. 7일 포스코 노사에 따르면 이날 오후 포항과 광양제철소에서 진행된 찬반 투표 결과, 전체 투표수 9177표 중 찬성은...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6346497",
-      "date": "Sat, 07 Nov 2026 18:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.hankookilbo.com/news/article/A2026110718050001362?did=NA": {
-      "title": "포스코 노조, 잠정합의안 부결…임금협상 원점",
-      "summary": "포스코 노동조합이 올해 임금교섭 잠정합의안에 대한 조합원 찬반투표에서 반대 51%로 합의안을... 한국노동조합총연맹(한국노총) 전국금속노동조합연맹(금속노련) 포스코 노동조합( 포스코 노조)은 7일 오전 6시부터...",
-      "url": "https://www.hankookilbo.com/news/article/A2026110718050001362?did=NA",
-      "date": "Sat, 07 Nov 2026 18:09:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6346481": {
-      "title": "포스코 노조, 임금교섭 잠정안 '반대 51%' 부결…갈등 장기화 우려",
-      "summary": "포스코 노사의 2026년도 임금교섭 잠정 합의안이 조합원 찬반 투표에서 부결됐다. 7일 포스코 노사에 따르면 이번 찬반 투표에선 기본금 2.6% 인상과 일시금 600만 원 지급 등에 대한 조합원 의견을 물었다. 전체...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6346481",
-      "date": "Sat, 07 Nov 2026 18:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.inews24.com/view/2023713": {
-      "title": "포스코 노조 임금 잠정합의안 부결…조합원 51.7% 반대",
-      "summary": "포스코 노사가 약 4개월간의 임금교섭 끝에 마련한 잠정합의안이 조합원 찬반투표에서 부결됐다. 두 차례... 7일 한국노총 금속노련 포스코 노동조합은 임금교섭 잠정합의안에 대한 조합원 찬반투표를 진행한 결과...",
-      "url": "http://www.inews24.com/view/2023713",
-      "date": "Sat, 07 Nov 2026 18:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.jasm.co.kr/news/view/324534/?sc=Naver": {
-      "title": "포스코 노조, 임금 잠정합의안 부결…반대 51.7%",
-      "summary": "포스코 노사의 올해 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결됐다. 한국노총 금속노련 포스코 노동조합은 7일 회사 측과 잠정 합의한 임금 교섭안에 대한 조합원 찬반투표를 한 결과 찬성 48.31%(4433표), 반대...",
-      "url": "https://www.jasm.co.kr/news/view/324534/?sc=Naver",
-      "date": "Sat, 07 Nov 2026 18:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kado.net/news/articleView.html?idxno=2083199": {
-      "title": "포스코 노조, 임금교섭 잠정합의안 부결…51.7% 반대",
-      "summary": "포스코 노사가 4개월 넘게 이어온 올해 임금교섭에서 마련한 잠정 합의안이 조합원 투표 문턱을 넘지... 한국노총 금속노련 포스코 노동조합은 7일 임금교섭 잠정 합의안에 대한 조합원 찬반투표 결과 찬성 48.31%(4433표)...",
-      "url": "https://www.kado.net/news/articleView.html?idxno=2083199",
-      "date": "Sat, 07 Nov 2026 18:05:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.chosun.com/economy/tech_it/2026/11/07/VJAMG77MGJEPVCLZO6B7YFTIFA/": {
-      "title": "포스코 노조, 임협 잠정합의안 부결",
-      "summary": "포스코 의 임금 교섭 잠정 합의안이 조합원 찬반 투표에서 부결됐다. 한국노총 금속노련 포스코 노동조합은 7일 회사 측과 잠정 합의한 임금 교섭안에 대해 조합원 찬반 투표를 한 결과 찬성 48.31%(4433표), 반대 51.69...",
-      "url": "https://www.chosun.com/economy/tech_it/2026/11/07/VJAMG77MGJEPVCLZO6B7YFTIFA/",
-      "date": "Sat, 07 Nov 2026 18:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hd2hNWjRJNUFub3g2Q2VSSk1tSlJ0MmRId1N1Uk1TR05NT29kWmxjc3hxdXRVLVVZcGl3Rjd2Z3M1WFcxMDlJUHBlUXQtRThlUFQ3OHU5LTdhOHh3eS16elVSQnIzR1RoS3c?oc=5": {
-      "title": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 “교섭·쟁의 재개” - 철강금속신문",
-      "summary": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 “교섭·쟁의 재개” 철강금속신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hd2hNWjRJNUFub3g2Q2VSSk1tSlJ0MmRId1N1Uk1TR05NT29kWmxjc3hxdXRVLVVZcGl3Rjd2Z3M1WFcxMDlJUHBlUXQtRThlUFQ3OHU5LTdhOHh3eS16elVSQnIzR1RoS3c?oc=5",
-      "date": "Sat, 07 Nov 2026 09:46:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jcmRNSF8wcVFueWVCNjdTS3owYm1lbEVBQTVkX2xWSmVsTjZPMTFQaWZiam1WTDlLZzR4NWNrMmozTDI2X1V3UmJmU3drWDRjWmFhMlR4N2toaDlwa2RkRUt2YnFYMmI1MlHSAW9BVV95cUxQLUY4emN2VFd0M3l5WnR4T1E1cDZHNThHSjBGcGlkOFNhWjNQZ0xtRlFMZkJyU3NFV0tFSnJhVXpNY2d1eTVETW9iVWVxSXY1Q01zZDdXeWtPaFlPUVYzWWJPZmNacmMwN1NkUmgySVU?oc=5": {
-      "title": "'배스+포터 53점 폭발' KT, 파죽의 3연승→승률 5할 복귀... 한국가스공사 연승 실패 [수원 현장리뷰] - 머니투데이 - 머니투데이",
-      "summary": "'배스+포터 53점 폭발' KT, 파죽의 3연승→승률 5할 복귀... 한국가스공사 연승 실패 [수원 현장리뷰] - 머니투데이 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jcmRNSF8wcVFueWVCNjdTS3owYm1lbEVBQTVkX2xWSmVsTjZPMTFQaWZiam1WTDlLZzR4NWNrMmozTDI2X1V3UmJmU3drWDRjWmFhMlR4N2toaDlwa2RkRUt2YnFYMmI1MlHSAW9BVV95cUxQLUY4emN2VFd0M3l5WnR4T1E1cDZHNThHSjBGcGlkOFNhWjNQZ0xtRlFMZkJyU3NFV0tFSnJhVXpNY2d1eTVETW9iVWVxSXY1Q01zZDdXeWtPaFlPUVYzWWJPZmNacmMwN1NkUmgySVU?oc=5",
-      "date": "Sat, 07 Nov 2026 09:39:37 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
     "https://www.ngonews.kr/news/articleView.html?idxno=242574": {
       "title": "포스코 노조, 임금 잠정합의안 부결…\"반대 51.7%\"",
       "summary": "포스코 노사의 올해 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결됐다. 대표 교섭노조인 한국노총 금속노련 포스코 노동조합은 7일 회사 측과 잠정 합의한 임금 교섭안을 놓고 조합원 찬반투표를 한 결과 찬성...",
@@ -5062,6 +4912,45 @@
       "summary": "포항시, 미국 한남체인과 업무협약…농수산특산품 북미 수출 확대 NSP통신",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDNnB4dXN0U2VRWXRyWDJuVENIMVdhMUdSQ21FVWxtRzRLQS1seGZFOXd4U3lOdGotVlppX1VtcnhZNHpwTVp3eGc1NnVfQmtoUnFIWHE1ZTg5UDIzdmlSYg?oc=5",
       "date": "Mon, 09 Nov 2026 08:03:46 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.sentv.co.kr/article/view/sentv202611090145": {
+      "title": "포스코 임금협상 다시 안갯속…파업 재개 우려",
+      "summary": "노조는 지난 9월 창사이래 처음으로 포항 과 광양 제철소 의 열연공장 등을 중심으로 두 차례 부분파업을 벌였습니다. 이번 합의안 부결로 추가 쟁의행위 가능성이 다시 변수로 떠오른 가운데, 재교섭이 길어지면 연내...",
+      "url": "https://www.sentv.co.kr/article/view/sentv202611090145",
+      "date": "Mon, 09 Nov 2026 18:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiUTA3LTVpVEdDd094eUdzRHJncXhGLUtHaTJ0Sy1GUjN0cmw1U1lmdXp2NnAySlZhMkpOQk9wcU94LVlEZUZkQl9kRTdSYTkwUTVka3ExTnVLdzg?oc=5": {
+      "title": "김천시, 관광문화재단 설립 본격 추진...전담 TF팀 신설 - 경북뉴스",
+      "summary": "김천시, 관광문화재단 설립 본격 추진...전담 TF팀 신설 경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiUTA3LTVpVEdDd094eUdzRHJncXhGLUtHaTJ0Sy1GUjN0cmw1U1lmdXp2NnAySlZhMkpOQk9wcU94LVlEZUZkQl9kRTdSYTkwUTVka3ExTnVLdzg?oc=5",
+      "date": "Mon, 09 Nov 2026 09:06:19 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE45ay02R0lIWjZ4TUpkZV81NDZ6ME1ORmVhbGY5QW0xa0tSbXg4ZEVrdEdMNGFJbmtfaExtUkJmdE1zOVZDSHc3NGE5cTBUQ1Y4Vkt2dlAteFNvUWhsbGY3a3JncUFSaElsX21zZWw3QdIBb0FVX3lxTE45ay02R0lIWjZ4TUpkZV81NDZ6ME1ORmVhbGY5QW0xa0tSbXg4ZEVrdEdMNGFJbmtfaExtUkJmdE1zOVZDSHc3NGE5cTBUQ1Y4Vkt2dlAteFNvUWhsbGY3a3JncUFSaElsX21zZWw3QQ?oc=5": {
+      "title": "포항, 미국 한남체인과 수출 협약…북미 판로 확대 - 서울일보",
+      "summary": "포항, 미국 한남체인과 수출 협약…북미 판로 확대 서울일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45ay02R0lIWjZ4TUpkZV81NDZ6ME1ORmVhbGY5QW0xa0tSbXg4ZEVrdEdMNGFJbmtfaExtUkJmdE1zOVZDSHc3NGE5cTBUQ1Y4Vkt2dlAteFNvUWhsbGY3a3JncUFSaElsX21zZWw3QdIBb0FVX3lxTE45ay02R0lIWjZ4TUpkZV81NDZ6ME1ORmVhbGY5QW0xa0tSbXg4ZEVrdEdMNGFJbmtfaExtUkJmdE1zOVZDSHc3NGE5cTBUQ1Y4Vkt2dlAteFNvUWhsbGY3a3JncUFSaElsX21zZWw3QQ?oc=5",
+      "date": "Mon, 09 Nov 2026 09:01:55 GMT",
       "channels": [
         "domestic"
       ],
@@ -8028,6 +7917,21 @@
       "url": "https://www.dkilbo.com/news/articleView.html?idxno=560094",
       "title": "경북TP, '카본 코리아 2026'서 경북 탄소소재 부품 기업 지원",
       "date": "Mon, 09 Nov 2026 17:01:00 +0900"
+    },
+    {
+      "url": "https://www.sentv.co.kr/article/view/sentv202611090145",
+      "title": "포스코 임금협상 다시 안갯속…파업 재개 우려",
+      "date": "Mon, 09 Nov 2026 18:48:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiUTA3LTVpVEdDd094eUdzRHJncXhGLUtHaTJ0Sy1GUjN0cmw1U1lmdXp2NnAySlZhMkpOQk9wcU94LVlEZUZkQl9kRTdSYTkwUTVka3ExTnVLdzg?oc=5",
+      "title": "김천시, 관광문화재단 설립 본격 추진...전담 TF팀 신설 - 경북뉴스",
+      "date": "Mon, 09 Nov 2026 09:06:19 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45ay02R0lIWjZ4TUpkZV81NDZ6ME1ORmVhbGY5QW0xa0tSbXg4ZEVrdEdMNGFJbmtfaExtUkJmdE1zOVZDSHc3NGE5cTBUQ1Y4Vkt2dlAteFNvUWhsbGY3a3JncUFSaElsX21zZWw3QdIBb0FVX3lxTE45ay02R0lIWjZ4TUpkZV81NDZ6ME1ORmVhbGY5QW0xa0tSbXg4ZEVrdEdMNGFJbmtfaExtUkJmdE1zOVZDSHc3NGE5cTBUQ1Y4Vkt2dlAteFNvUWhsbGY3a3JncUFSaElsX21zZWw3QQ?oc=5",
+      "title": "포항, 미국 한남체인과 수출 협약…북미 판로 확대 - 서울일보",
+      "date": "Mon, 09 Nov 2026 09:01:55 GMT"
     }
   ],
   "brief_articles": [
@@ -8080,7 +7984,7 @@
     "2026-11-06": 11,
     "2026-11-07": 5,
     "2026-11-08": 2,
-    "2026-11-09": 6
+    "2026-11-09": 7
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
