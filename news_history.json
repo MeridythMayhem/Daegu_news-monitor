@@ -1687,7 +1687,8 @@
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRVJWSE1RVGpwX0ZITi03X1ZWLUFocWFyUTIwclNFZF9JMUVLUm41T2xVR1kwSFRRaGsyN1hNWVNqODdrd2UyZGY5Q2VOdkk?oc=5": "2026-11-09T12:01:46.245539+09:00",
     "https://view.asiae.co.kr/article/2026110910470047088": "2026-11-09T12:01:46.245539+09:00",
     "https://www.kpinews.kr/newsView/1065579013767692": "2026-11-09T12:01:46.245539+09:00",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BaTdqWFEyYVo0bTZPc3BMYWYtc19iRy1lXzZhd3RIU2lLT3pTRjJQNDFNRW9Id0k4QldNOXlUZXNlQlNmQm92VklsckRNM2lEdEh4NS1kbXowQlRESnE4Sw?oc=5": "2026-11-09T12:01:46.245539+09:00"
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BaTdqWFEyYVo0bTZPc3BMYWYtc19iRy1lXzZhd3RIU2lLT3pTRjJQNDFNRW9Id0k4QldNOXlUZXNlQlNmQm92VklsckRNM2lEdEh4NS1kbXowQlRESnE4Sw?oc=5": "2026-11-09T12:01:46.245539+09:00",
+    "https://www.ppss.kr/news/articleView.html?idxno=319804": "2026-11-09T13:02:01.170796+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -2877,7 +2878,8 @@
     "079b42fc5fe94519254586cb0e63a143804af95ff1bfd612a85097fcff6575c3": "2026-11-09T12:01:46.245539+09:00",
     "273489b928498aefe266119a97249b224db6b2f860619dbb9b20fba243589e63": "2026-11-09T12:01:46.245539+09:00",
     "8f985adf3e295d04c57df252c670a94a50fcf514d3d98afee74e31afe447de99": "2026-11-09T12:01:46.245539+09:00",
-    "263da1949a4b19be0e1815141d1abaaa9b1fd933af1112bf15173f06eee7e8f0": "2026-11-09T12:01:46.245539+09:00"
+    "263da1949a4b19be0e1815141d1abaaa9b1fd933af1112bf15173f06eee7e8f0": "2026-11-09T12:01:46.245539+09:00",
+    "ad6af88dd1e0767d3d1ac1d6115be16ca74d9c832542fa91565b2a70301b282a": "2026-11-09T13:02:01.170796+09:00"
   },
   "pending": {},
   "ai": {
@@ -2891,19 +2893,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbzJJckJKUlhBMUxSUGFseGozdVdVRHdHVGJXa0kwVVU2MU8zWTFFOFQ4ak5zeWxWRlI5WF9uQXd6YzZTV0JYc0tjSU9IdF95Yktv?oc=5": {
-      "title": "경상북도, 도민의 힘으로 이룬 ‘국립경국대 의과대학’ 신설 최종 확정 - CBN뉴스",
-      "summary": "경상북도, 도민의 힘으로 이룬 ‘국립경국대 의과대학’ 신설 최종 확정 CBN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbzJJckJKUlhBMUxSUGFseGozdVdVRHdHVGJXa0kwVVU2MU8zWTFFOFQ4ak5zeWxWRlI5WF9uQXd6YzZTV0JYc0tjSU9IdF95Yktv?oc=5",
-      "date": "Sat, 07 Nov 2026 03:05:32 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.newspim.com/news/view/20261107000084": {
       "title": "경주서 변압기 교체 중 폭발 추정 화재 …작업자 3명 부상",
       "summary": "7일 오전 10시 3분쯤 경북 경주시 사정동의 한 상가 앞에서 변압기 교체 작업 중 폭발로 추정되는 화재 가 발생했다.[사진= 경북 소방본부]2026.11.07 nulcheon@newspim.com 경북 소방 당국은 차량 8대와 인력 19명을 투입해 현장...",
@@ -4501,6 +4490,19 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ppss.kr/news/articleView.html?idxno=319804": {
+      "title": "[PPSS 기업해부 포스코 ⑥] 매출 69조에도 영업이익률 2.6%… 포스코 , 실...",
+      "summary": "포스코홀딩스 의 2025년 연결 매출액은 69조955억원, 영업이익은 1조8,270억원, 당기순이익은 5,040억원을 기록했다. 2024년 매출액 72조6,680억원, 영업이익 2조1,730억원과 비교하면 매출은 약 4.9%, 영업이익은 약 15.9...",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=319804",
+      "date": "Mon, 09 Nov 2026 13:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
       "priority": 70,
       "filter_version": 17
     }
@@ -7282,6 +7284,11 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BaTdqWFEyYVo0bTZPc3BMYWYtc19iRy1lXzZhd3RIU2lLT3pTRjJQNDFNRW9Id0k4QldNOXlUZXNlQlNmQm92VklsckRNM2lEdEh4NS1kbXowQlRESnE4Sw?oc=5",
       "title": "포항시, 미국 유통업체 한남체인과 수출 협력 MOU…북미 시장 진출 확대 - https://www.newsgb.co.kr/",
       "date": "Mon, 09 Nov 2026 02:10:07 GMT"
+    },
+    {
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=319804",
+      "title": "[PPSS 기업해부 포스코 ⑥] 매출 69조에도 영업이익률 2.6%… 포스코 , 실...",
+      "date": "Mon, 09 Nov 2026 13:00:00 +0900"
     }
   ],
   "brief_articles": [
