@@ -1761,7 +1761,17 @@
     "https://www.yna.co.kr/view/AKR20261110064900053?input=1195m": "2026-11-10T11:01:55.586305+09:00",
     "https://www.financialpost.co.kr/news/articleView.html?idxno=285794": "2026-11-10T11:01:55.586305+09:00",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hU1gtSG9FdjdYVGVWcS1PRFNfckt0M0NMa0lwWWdDZUluY1M0ZGNZRnFBTEJjdXZJRllHbkV0NWI3eFNqcU93czNMNnJabWotZzAxNFlEdUotQjRMZk5UMVhidlE3NTEw?oc=5": "2026-11-10T11:01:55.586305+09:00",
-    "https://www.kukinews.com/article/view/kuk202611100034": "2026-11-10T11:01:55.586305+09:00"
+    "https://www.kukinews.com/article/view/kuk202611100034": "2026-11-10T11:01:55.586305+09:00",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EMVZMNFVLejN2WjhzLUhReGlxd2FPNUZDZzVsRUZhWFNMYmYtVy1fckxvMWFzcTJ0Vy1QWDhtTmowanJSOG43ZUVWbGI0WGNyNmNuRWk0U2Zydmh0bC1QaF9Ndw?oc=5": "2026-11-10T12:02:00.272017+09:00",
+    "https://www.kpinews.kr/newsView/1065580193974224": "2026-11-10T12:02:00.272017+09:00",
+    "https://www.bloter.net/news/articleView.html?idxno=678193": "2026-11-10T12:02:00.272017+09:00",
+    "https://view.asiae.co.kr/article/2026111011222938458": "2026-11-10T12:02:00.272017+09:00",
+    "https://www.news1.kr/local/ulsan/6348892": "2026-11-10T12:02:00.272017+09:00",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VOXJHamM5THUxcFpxZDJqeXF0dVVXbWxMNzJFQ0l1R2JDaFBqT2hwSTFmeVczblRtc1FxVEhFazNIb3NQcHBGTmxqbw?oc=5": "2026-11-10T12:02:00.272017+09:00",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1423565": "2026-11-10T12:02:00.272017+09:00",
+    "https://www.kbsm.net/news/view.php?idx=541084": "2026-11-10T12:02:00.272017+09:00",
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4117582": "2026-11-10T12:02:00.272017+09:00",
+    "https://www.kbmaeil.com/article/20261110500180": "2026-11-10T12:02:00.272017+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3025,9 +3035,59 @@
     "e068d78540ef5485d9e9a0b4f9300e1ad1a44cdaae0e96c092de8fdd4f180980": "2026-11-10T11:01:55.586305+09:00",
     "ecaf0b756349363c2a81fcbad695b4ed96508e1c528fa2cec51ce54d5751bf1e": "2026-11-10T11:01:55.586305+09:00",
     "5162acb51cde7bedcbedaad2269a10554960f62ab01e1115c170d8d39ff02af0": "2026-11-10T11:01:55.586305+09:00",
-    "10d3d3633a748f1ef5496bbc1a00868dafc75c01a49771b26b87d904a44203bf": "2026-11-10T11:01:55.586305+09:00"
+    "10d3d3633a748f1ef5496bbc1a00868dafc75c01a49771b26b87d904a44203bf": "2026-11-10T11:01:55.586305+09:00",
+    "8b2884ccb0d747d83b7a1aa84d0ab4192e9ab41c624a13c4023ffc918655b68e": "2026-11-10T12:02:00.272017+09:00",
+    "ce6afdbee41f2952d9d13e2dbbae8cf9d53029dfc17bef93d4ddef36d60a3fe0": "2026-11-10T12:02:00.272017+09:00",
+    "f32f2381121db7b31929ba48f253b750176cbea1c15b1268c3a8d64b6f9dae0f": "2026-11-10T12:02:00.272017+09:00",
+    "242e99c2a0547ab8b932a78b64f954d8d4d5850c45d3991b6219e13b0f5a7669": "2026-11-10T12:02:00.272017+09:00",
+    "6b88802d680eff507e6d18ef52f10d58ed4db12e0a69bebefb5ba0eed9ac5e91": "2026-11-10T12:02:00.272017+09:00",
+    "df69fb5c5ed9e0302596dd55833830bf34a3ae10223623ef6d5ca33b243adb27": "2026-11-10T12:02:00.272017+09:00",
+    "5b232eb0063daebc6c63b55ed8e53e8d933dbde05e91957e7c30adb42324b376": "2026-11-10T12:02:00.272017+09:00",
+    "eee90d48ae2b246b9671df5d7d79e9e46c6880d6fc6a08da9a0058aaef1b83e2": "2026-11-10T12:02:00.272017+09:00",
+    "d7355699cdaa1ec073db5289c7beeab33cfd32763b2f4dd6ad1eaf28cc916691": "2026-11-10T12:02:00.272017+09:00",
+    "7cb58619213dc45744d53eda03d225a0b113fffc0a33eb7adda1956f7b16bd44": "2026-11-10T12:02:00.272017+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://view.asiae.co.kr/article/2026111011084675438": {
+      "title": "김천시, 베트남·태국서 수출길 넓혔다… MOU 체결",
+      "summary": "경북 김천시가 베트남과 태국에서 해외수출상담회를 열고 지역기업의 동남아 시장 진출 확대에 나섰다.... 업무협약( MOU ) 20건을 체결했다고 밝혔다. 체결된 MOU 규모는 총 2915만4900달러다. 참여기업들은 현지 바이어와...",
+      "url": "https://view.asiae.co.kr/article/2026111011084675438",
+      "date": "Tue, 10 Nov 2026 11:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100908128510319": {
+      "title": "경북 교육청, 98억 원 투입해 학교급식교육관 건립 … 경북 첫 체험형 식생...",
+      "summary": "경북 교육청은 10일 도교육청에서 학교급식교육관 건립 을 위한 설계협의회를 열고 교육관의 공간 구성과 시설 배치계획 등을 논의했다고 밝혔다. 학교급식교육관은 폐교된 옛 상주낙동동부초등학교를 리모델링하고 일부...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100908128510319",
+      "date": "Tue, 10 Nov 2026 11:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbsm.net/news/view.php?idx=541087": {
+      "title": "경북 국립의대 신설⋯북부 의료공백 해소 기대",
+      "summary": "전문의 양성에는 추가 수련기간이 필요하다.의대와 교육병원 건립 을 위한 재원 확보와 교수진 충원도 해결해야 한다. 경북 도는 2032년까지 전임교원 112명을 확보할 계획이며, 현재 10여명의 교원을 우선 확보했다고...",
+      "url": "https://www.kbsm.net/news/view.php?idx=541087",
+      "date": "Tue, 10 Nov 2026 11:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    }
+  },
   "ai": {
     "2026-11-03": 3,
     "2026-11-04": 15,
@@ -3036,23 +3096,10 @@
     "2026-11-07": 7,
     "2026-11-08": 3,
     "2026-11-09": 11,
-    "2026-11-10": 3
+    "2026-11-10": 4
   },
   "cursor": 0,
   "archive": {
-    "https://www.seoulfn.com/news/articleView.html?idxno=642206": {
-      "title": "포스코 임협 장기화 우려···협력사·지역경제도 '촉각'",
-      "summary": "명절 상여금 확대와 각종 수당 개선, 배우자· 자녀 의료비 지원 확대도 포함했지만 조합원들의 동의를 얻는 데는 실패했다. 사측의 추가 제시 여력이 관건이다. 회사 는 올해 상반기 영업이익이 전년 동기보다 43% 감소하는...",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=642206",
-      "date": "Sun, 08 Nov 2026 11:45:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.sisafocus.co.kr/news/articleView.html?idxno=367307": {
       "title": "경북 도, 의성에 식품 산업 455억 투자 유치",
       "summary": "최유철 의성군수도 \"기업 지원과 산업 기반 확충에 힘쓰고 바이오와 푸드테크를 중심으로 의성의 미래 100년을 준비하겠다\"고 말했다. 경북 도와 의성군은 앞으로 기업 입주와 연구개발 지원을 강화하고, 대구경북 신공...",
@@ -5412,6 +5459,175 @@
       "summary": "포스코 노사, 합의안 부결 사흘 만에 다시 마주앉는다 …노조는 쟁의 재개 헤럴드경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYN0RoQmR2Um9oVl9meFV5eW9yWFUyNTlnMEt4Q3FjNDdWNTZHT1ZrZTlTLUlpSUoxTnk0Y01aeHlkYmpuWFB6TEF1dEZMUWFIdUlrOHhB?oc=5",
       "date": "Tue, 10 Nov 2026 01:54:39 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://view.asiae.co.kr/article/2026111011222938458": {
+      "title": "상주시, 수출시장 공략…무역사절단 408만 달러 성과",
+      "summary": "경북 상주시가 베트남과 태국에 무역사절단을 파견해 지역 중소기업의 동남아 시장 진출과 해외 판로... 업무협약( MOU )을 체결했다. 특히 참여기업인 ㈜예스코리아는 베트남 현지에서 4000달러 규모의 샘플 판매에...",
+      "url": "https://view.asiae.co.kr/article/2026111011222938458",
+      "date": "Tue, 10 Nov 2026 11:39:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://daily.hankooki.com/news/articleView.html?idxno=1423565": {
+      "title": "상주 명실상감한우, UAE 유통업체와 100만달러 수출 협약",
+      "summary": "사진=상주축협 제공 경북 상주축산농협이 아랍에미리트(UAE) 한인 유통업체와 100만달러 규모의 수출... 업무협약( MOU )을 체결하고 홍보대사 위촉식을 열었다. 이번 협약은 상주축협이 2025년 K푸드 박람회에서 1004GOURMET와...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423565",
+      "date": "Tue, 10 Nov 2026 11:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbmaeil.com/article/20261110500180": {
+      "title": "상주시 무역사절단 배트남·태국서 408만달러 수출계약 체결",
+      "summary": "상주시와 경북 도경제진흥원이 수출마케팅 협력사업을 통해 해외 수출시장 확대에 적극 나서고 있다. 두... 총 73건의 수출 상담이 이뤄졌으며, 이 결과 계약추진액 408만달러, MOU 4건 140만달러의 성과를 거뒀다....",
+      "url": "https://www.kbmaeil.com/article/20261110500180",
+      "date": "Tue, 10 Nov 2026 11:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://view.asiae.co.kr/article/2026111011084675438": {
+      "title": "김천시, 베트남·태국서 수출길 넓혔다… MOU 체결",
+      "summary": "경북 김천시가 베트남과 태국에서 해외수출상담회를 열고 지역기업의 동남아 시장 진출 확대에 나섰다.... 업무협약( MOU ) 20건을 체결했다고 밝혔다. 체결된 MOU 규모는 총 2915만4900달러다. 참여기업들은 현지 바이어와...",
+      "url": "https://view.asiae.co.kr/article/2026111011084675438",
+      "date": "Tue, 10 Nov 2026 11:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbsm.net/news/view.php?idx=541084": {
+      "title": "안동 도청신도시에 목재문화체험장 건립",
+      "summary": "안동시가 경북 도청신도시에 59억6000만원을 투입해 목재문화체험장을 건립 한다.안동시는 6일 열린 ‘안동 목재문화체험장 건립 건축 설계공모 심사위원회’에서 최종 당선작을 선정하고 사업 추진에 나섰다....",
+      "url": "https://www.kbsm.net/news/view.php?idx=541084",
+      "date": "Tue, 10 Nov 2026 11:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4117582": {
+      "title": "안동시, 경북 도청신도시에 '목재문화체험장' 건립 ...총사업비 59억 투입",
+      "summary": "경북 도청신도시 주민들에게 자연친화적인 문화 휴식 공간을 제공하고 일상 속에서 목재문화를 누릴 수 있는 전문 체험 시설이 본격적으로 건립 됩니다. 안동시는 '안동 목재문화체험장 건립 건축 설계공모 심사위원회'를...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117582",
+      "date": "Tue, 10 Nov 2026 11:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100908128510319": {
+      "title": "경북 교육청, 98억 원 투입해 학교급식교육관 건립 … 경북 첫 체험형 식생...",
+      "summary": "경북 교육청은 10일 도교육청에서 학교급식교육관 건립 을 위한 설계협의회를 열고 교육관의 공간 구성과 시설 배치계획 등을 논의했다고 밝혔다. 학교급식교육관은 폐교된 옛 상주낙동동부초등학교를 리모델링하고 일부...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100908128510319",
+      "date": "Tue, 10 Nov 2026 11:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbsm.net/news/view.php?idx=541087": {
+      "title": "경북 국립의대 신설⋯북부 의료공백 해소 기대",
+      "summary": "전문의 양성에는 추가 수련기간이 필요하다.의대와 교육병원 건립 을 위한 재원 확보와 교수진 충원도 해결해야 한다. 경북 도는 2032년까지 전임교원 112명을 확보할 계획이며, 현재 10여명의 교원을 우선 확보했다고...",
+      "url": "https://www.kbsm.net/news/view.php?idx=541087",
+      "date": "Tue, 10 Nov 2026 11:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kpinews.kr/newsView/1065580193974224": {
+      "title": "박성현 광양시장, 포스코 노사에 호소…\"갈등 장기화는 지역경제 부담\"",
+      "summary": "포스코 임금협상 잠정합의안이 조합원 투표에서 부결되면서 노사 간 긴장이 이어지는 가운데 박성현... ▲ 박성현 광양시장이 10일 임금협상 잠정합의안 부결에 대해 ' 포스코 노사에 상생 호소문'을 발표하고 있다....",
+      "url": "https://www.kpinews.kr/newsView/1065580193974224",
+      "date": "Tue, 10 Nov 2026 11:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.bloter.net/news/articleView.html?idxno=678193": {
+      "title": "포스코 인터, 美 가스전 이익 확대 청사진… 포스코 투자 시너지 모색",
+      "summary": "포스코 연내 지분 참여 논의…그룹 시너지 확대 10일 포스코홀딩스 가 미국 증권거래위원회(SEC)에 제출한 6-K 보고서에 따르면 그룹은 포스코인터내셔널의 미국 셰일가스 자산 인수와 관련해 포스코의 연내 지분 참여...",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678193",
+      "date": "Tue, 10 Nov 2026 11:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.news1.kr/local/ulsan/6348892": {
+      "title": "동서발전, 현대엔지니어링· 포스코 이앤씨와 호남 복합발전소 계약 체결",
+      "summary": "현대엔지니어링· 포스코 이앤씨 공동수급체와 '호남 복합발전소 파워블럭 설치조건부 구매계약'을 체결했다고 10일 밝혔다. 계약체결식은 전날 울산 동서발전 본사에서 열렸다. 권명호 동서발전 사장과 송치영 포스코 이...",
+      "url": "https://www.news1.kr/local/ulsan/6348892",
+      "date": "Tue, 10 Nov 2026 11:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EMVZMNFVLejN2WjhzLUhReGlxd2FPNUZDZzVsRUZhWFNMYmYtVy1fckxvMWFzcTJ0Vy1QWDhtTmowanJSOG43ZUVWbGI0WGNyNmNuRWk0U2Zydmh0bC1QaF9Ndw?oc=5": {
+      "title": "산불 피해 딛고 다시 선 제이오푸드, 안동 풍산읍에 신공장 준공 - 안동뉴스",
+      "summary": "산불 피해 딛고 다시 선 제이오푸드, 안동 풍산읍에 신공장 준공 안동뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EMVZMNFVLejN2WjhzLUhReGlxd2FPNUZDZzVsRUZhWFNMYmYtVy1fckxvMWFzcTJ0Vy1QWDhtTmowanJSOG43ZUVWbGI0WGNyNmNuRWk0U2Zydmh0bC1QaF9Ndw?oc=5",
+      "date": "Tue, 10 Nov 2026 02:01:57 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VOXJHamM5THUxcFpxZDJqeXF0dVVXbWxMNzJFQ0l1R2JDaFBqT2hwSTFmeVczblRtc1FxVEhFazNIb3NQcHBGTmxqbw?oc=5": {
+      "title": "포스코 노조, 임금안 51.69% 반대로 부결…찬성보다 311표 많았다…새 파업 일정은 미정 : 경제 - 재경일보",
+      "summary": "포스코 노조, 임금안 51.69% 반대로 부결…찬성보다 311표 많았다…새 파업 일정은 미정 : 경제 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VOXJHamM5THUxcFpxZDJqeXF0dVVXbWxMNzJFQ0l1R2JDaFBqT2hwSTFmeVczblRtc1FxVEhFazNIb3NQcHBGTmxqbw?oc=5",
+      "date": "Tue, 10 Nov 2026 02:37:00 GMT",
       "channels": [
         "domestic"
       ],
@@ -8590,6 +8806,56 @@
       "url": "https://www.kukinews.com/article/view/kuk202611100034",
       "title": "45년 숙원 푼 경북 국립의대 신설…‘지역완결형 의료’ 띄운다 [기획]",
       "date": "Tue, 10 Nov 2026 10:06:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EMVZMNFVLejN2WjhzLUhReGlxd2FPNUZDZzVsRUZhWFNMYmYtVy1fckxvMWFzcTJ0Vy1QWDhtTmowanJSOG43ZUVWbGI0WGNyNmNuRWk0U2Zydmh0bC1QaF9Ndw?oc=5",
+      "title": "산불 피해 딛고 다시 선 제이오푸드, 안동 풍산읍에 신공장 준공 - 안동뉴스",
+      "date": "Tue, 10 Nov 2026 02:01:57 GMT"
+    },
+    {
+      "url": "https://www.kpinews.kr/newsView/1065580193974224",
+      "title": "박성현 광양시장, 포스코 노사에 호소…\"갈등 장기화는 지역경제 부담\"",
+      "date": "Tue, 10 Nov 2026 11:46:00 +0900"
+    },
+    {
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678193",
+      "title": "포스코 인터, 美 가스전 이익 확대 청사진… 포스코 투자 시너지 모색",
+      "date": "Tue, 10 Nov 2026 11:44:00 +0900"
+    },
+    {
+      "url": "https://view.asiae.co.kr/article/2026111011222938458",
+      "title": "상주시, 수출시장 공략…무역사절단 408만 달러 성과",
+      "date": "Tue, 10 Nov 2026 11:39:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/ulsan/6348892",
+      "title": "동서발전, 현대엔지니어링· 포스코 이앤씨와 호남 복합발전소 계약 체결",
+      "date": "Tue, 10 Nov 2026 11:38:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VOXJHamM5THUxcFpxZDJqeXF0dVVXbWxMNzJFQ0l1R2JDaFBqT2hwSTFmeVczblRtc1FxVEhFazNIb3NQcHBGTmxqbw?oc=5",
+      "title": "포스코 노조, 임금안 51.69% 반대로 부결…찬성보다 311표 많았다…새 파업 일정은 미정 : 경제 - 재경일보",
+      "date": "Tue, 10 Nov 2026 02:37:00 GMT"
+    },
+    {
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423565",
+      "title": "상주 명실상감한우, UAE 유통업체와 100만달러 수출 협약",
+      "date": "Tue, 10 Nov 2026 11:32:00 +0900"
+    },
+    {
+      "url": "https://www.kbsm.net/news/view.php?idx=541084",
+      "title": "안동 도청신도시에 목재문화체험장 건립",
+      "date": "Tue, 10 Nov 2026 11:30:00 +0900"
+    },
+    {
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117582",
+      "title": "안동시, 경북 도청신도시에 '목재문화체험장' 건립 ...총사업비 59억 투입",
+      "date": "Tue, 10 Nov 2026 11:28:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261110500180",
+      "title": "상주시 무역사절단 배트남·태국서 408만달러 수출계약 체결",
+      "date": "Tue, 10 Nov 2026 11:24:00 +0900"
     }
   ],
   "brief_articles": [
@@ -8697,7 +8963,7 @@
     "2026-11-07": 5,
     "2026-11-08": 2,
     "2026-11-09": 8,
-    "2026-11-10": 3
+    "2026-11-10": 4
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
