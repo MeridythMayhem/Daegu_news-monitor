@@ -1830,7 +1830,12 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PYkV4TGQ3VElQZkppMlNDLVo3M04yLXJnSy1TS19BNFducU8zYjFsNW8yckVwT0FESDJRcUxYZUl4TzRSY21sTk9zQ0JlNW5RaFRuemF3UTE3U19oSDZyU0REWTM3SjRmQXkyVzNOR1o?oc=5": "2026-11-10T19:02:00.126593+09:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVnYzbU04eGZzcFdyNVFwZk0tX0ZYSlBxUTZMTmx0bjQwc0RSWW5kbUp1T18xbUFoUFVWWGdpbk11dVlRNENEQWRpRTdSLTFFd0ZWLXpndEFpM0pPdnlRQw?oc=5": "2026-11-10T19:02:00.126593+09:00",
     "https://www.thepublic.kr/news/articleView.html?idxno=325954": "2026-11-10T19:02:00.126593+09:00",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYUsyUEFOaXhkYmh2QlRVWFl0YjkyZHk5STRJd2Jtc2FlOVh6ZW1jTlBsSXY2dksxTHdVNVNUQ1M4clZHYU15NkU0b0hlZDFiSkl0UXBxS3g4Z3Zmc1VXWmNNMDA?oc=5": "2026-11-10T19:02:00.126593+09:00"
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYUsyUEFOaXhkYmh2QlRVWFl0YjkyZHk5STRJd2Jtc2FlOVh6ZW1jTlBsSXY2dksxTHdVNVNUQ1M4clZHYU15NkU0b0hlZDFiSkl0UXBxS3g4Z3Zmc1VXWmNNMDA?oc=5": "2026-11-10T19:02:00.126593+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090357": "2026-11-10T20:02:00.542407+09:00",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBibUp6LWNnazd1cWV2M2NTRklpcEpxNFJsYnhNSnhsSEtXUzBncXBjTGd1S29pRkc4Q1dDdHNjcWtxTHUtMUszck14di1qSWdLRlFoOVYzd1hmQndPbTBqNGF0b1hQck5xZGt5OHh3QQ?oc=5": "2026-11-10T20:02:00.542407+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=629108": "2026-11-10T20:02:00.542407+09:00",
+    "http://www.e-platform.net/news/articleView.html?idxno=106860": "2026-11-10T20:02:00.542407+09:00",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708933&ref=A": "2026-11-10T20:02:00.542407+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3163,7 +3168,12 @@
     "c971180142f5d9cf03163b7ddcf6017e7e08eec46ddfe053b1a875cf297ba633": "2026-11-10T19:02:00.126593+09:00",
     "204452c6dd9083f2bcae12eff646a29ea55d9d42bf5073ef51d3cc84c48e8f32": "2026-11-10T19:02:00.126593+09:00",
     "385b1b71a423a2ee3ddfbcd07ed6cf22ec9f55de08c3981965e8f7ae73baa0d4": "2026-11-10T19:02:00.126593+09:00",
-    "641095dea428104a384d7ac36b608fe19f591f41595c161ac751d210aba513c5": "2026-11-10T19:02:00.126593+09:00"
+    "641095dea428104a384d7ac36b608fe19f591f41595c161ac751d210aba513c5": "2026-11-10T19:02:00.126593+09:00",
+    "d3a20553e6f8aa77d822e706eead20f9db8698f68ee5457091f8a27466c2f6a0": "2026-11-10T20:02:00.542407+09:00",
+    "c066f9c65bd8184f9ec17a64296d17bcf68c2bab547218566f338dfda41d6e8d": "2026-11-10T20:02:00.542407+09:00",
+    "4bf5f1249fe806399fca7a4a011dcde503e0ea86ea775e45cdc019ded39af008": "2026-11-10T20:02:00.542407+09:00",
+    "04fd27f3879edebe986ce65fe9f35eb32b508577cb14f98fada4c150bb3ee30c": "2026-11-10T20:02:00.542407+09:00",
+    "a8cea8ed9800f0fa7023ea3cacd580ec9762c28f1f4b6f2fb74b665426de1fcf": "2026-11-10T20:02:00.542407+09:00"
   },
   "pending": {},
   "ai": {
@@ -3174,23 +3184,10 @@
     "2026-11-07": 7,
     "2026-11-08": 3,
     "2026-11-09": 11,
-    "2026-11-10": 16
+    "2026-11-10": 17
   },
   "cursor": 0,
   "archive": {
-    "http://www.snmnews.com/news/articleView.html?idxno=577085": {
-      "title": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 \"교섭·쟁의 ...",
-      "summary": "사진은 포스코 포항제철소 전경. 포스코 잠정합의안에는 기본임금 2.6% 인상과 특별호봉 3호봉 부여, 자연승호분을 포함한 월평균 22만8,000원의 임금 인상 효과가 담겼다. 목표달성격려금과 노사화합 장려금 등을 포함한...",
-      "url": "http://www.snmnews.com/news/articleView.html?idxno=577085",
-      "date": "Sun, 08 Nov 2026 20:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.ksmnews.co.kr/news/view.php?idx=628791": {
       "title": "경북 의성, 첨단 푸드테크 산업 중심지로 도약…455억원 투자 유치",
       "summary": "있다. 경북 도는 지난 6일 의성바이오푸드밸리에서 미래 식품산업 발전 전략을 발표하고 산업단지 준공을 기념하는 행사를 가졌다. 이날 ㈜씨위드와 오그래 농업회사법인 등 2개 기업과 총 455억원 규모의 투자협약 도...",
@@ -7157,6 +7154,84 @@
       "category": "해외기업 동향",
       "priority": 50,
       "filter_version": 17
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090357": {
+      "title": "상주 폐교, 학교급식교육관으로 바뀐다… 경북 교육청 98억 들여 건립 추...",
+      "summary": "경북 교육청이 총사업비 98억4천만 원을 투입해 경북 최초의 체험형 학교급식교육관 건립 을 추진한다. 경북 교육청은 10일 도교육청에서 학교급식교육관 건립 을 위한 설계협의회를 열고 교육관의 공간 구성과 시설 배치계획...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090357",
+      "date": "Tue, 10 Nov 2026 19:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=629108": {
+      "title": "미분양관리지역 경산에 '리첼 에듀포레' 분양…공급 과잉 우려 확산",
+      "summary": "경북 경산시가 지난 5일 미분양관리지역으로 재지정된 가운데 6억원대 신규 아파트인 '리첼 에듀포레... 더블유 1단지는 청약 당시 높은 경쟁률을 기록했지만 실제 계약 에서는 다 수의 미 계약 물량이 발생했다....",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=629108",
+      "date": "Tue, 10 Nov 2026 19:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708933&ref=A": {
+      "title": "데이터센터 답보에 투자 철회 잇따라… 대구 시 투자 유치 ‘도마’",
+      "summary": "[권오섭/ 대구 시의원 : \" MOU 는 투자의 기초 단계일 뿐이고, 시민이 체감하는 것은, 눈으로 보이는 것은 사무실과 일자리입니다.\"] 대구 시는 전기차·이차전지 업황 악화로 투자 철회가 잇따랐다며, 사업 실현 가능성을 더...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708933&ref=A",
+      "date": "Tue, 10 Nov 2026 19:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.e-platform.net/news/articleView.html?idxno=106860": {
+      "title": "동서발전, 호남 복합화력 건설 '순항'…주요 기자재 공급·시공계약 체...",
+      "summary": "현대엔지니어링· 포스코 이앤씨 공동수급체와 '호남 복합발전소 파워블럭 설치조건부 구매계약'을 체결했다고 10일 밝혔다. 이날 계약체결식에는 동서발전 권명호 사장과 포스코 이앤씨 송치영 사장, 현대엔지니어링...",
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=106860",
+      "date": "Tue, 10 Nov 2026 19:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.srtimes.kr/news/articleView.html?idxno=217238": {
+      "title": "포스코 인터내셔널, '광양 제2 LNG터미널' 준공…'트리플 코어 공급망' 강...",
+      "summary": "포스코 인터내셔널이 약 9,500억원을 들여 전남 광양에 두 번째 액화천연가스(LNG) 터미널을 준공하고... 전 국민이 40일 동안 난방용으로 소비할 수 있는 초대형 가스 저장 인프라를 확보함에 따라, 포스코 그룹의 중장기...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=217238",
+      "date": "Tue, 10 Nov 2026 19:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBibUp6LWNnazd1cWV2M2NTRklpcEpxNFJsYnhNSnhsSEtXUzBncXBjTGd1S29pRkc4Q1dDdHNjcWtxTHUtMUszck14di1qSWdLRlFoOVYzd1hmQndPbTBqNGF0b1hQck5xZGt5OHh3QQ?oc=5": {
+      "title": "상주 폐교, 학교급식교육관으로 바뀐다…경북교육청 98억 들여 건립 추진 - 경북일보",
+      "summary": "상주 폐교, 학교급식교육관으로 바뀐다…경북교육청 98억 들여 건립 추진 경북일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBibUp6LWNnazd1cWV2M2NTRklpcEpxNFJsYnhNSnhsSEtXUzBncXBjTGd1S29pRkc4Q1dDdHNjcWtxTHUtMUszck14di1qSWdLRlFoOVYzd1hmQndPbTBqNGF0b1hQck5xZGt5OHh3QQ?oc=5",
+      "date": "Tue, 10 Nov 2026 10:50:51 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -10673,6 +10748,31 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYUsyUEFOaXhkYmh2QlRVWFl0YjkyZHk5STRJd2Jtc2FlOVh6ZW1jTlBsSXY2dksxTHdVNVNUQ1M4clZHYU15NkU0b0hlZDFiSkl0UXBxS3g4Z3Zmc1VXWmNNMDA?oc=5",
       "title": "EcoPro BM to Acquire Additional Shares in Investment Subsidiary for 627.1 Billion Won - 아시아경제",
       "date": "Tue, 10 Nov 2026 09:22:29 GMT"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090357",
+      "title": "상주 폐교, 학교급식교육관으로 바뀐다… 경북 교육청 98억 들여 건립 추...",
+      "date": "Tue, 10 Nov 2026 19:52:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBibUp6LWNnazd1cWV2M2NTRklpcEpxNFJsYnhNSnhsSEtXUzBncXBjTGd1S29pRkc4Q1dDdHNjcWtxTHUtMUszck14di1qSWdLRlFoOVYzd1hmQndPbTBqNGF0b1hQck5xZGt5OHh3QQ?oc=5",
+      "title": "상주 폐교, 학교급식교육관으로 바뀐다…경북교육청 98억 들여 건립 추진 - 경북일보",
+      "date": "Tue, 10 Nov 2026 10:50:51 GMT"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=629108",
+      "title": "미분양관리지역 경산에 '리첼 에듀포레' 분양…공급 과잉 우려 확산",
+      "date": "Tue, 10 Nov 2026 19:38:00 +0900"
+    },
+    {
+      "url": "http://www.e-platform.net/news/articleView.html?idxno=106860",
+      "title": "동서발전, 호남 복합화력 건설 '순항'…주요 기자재 공급·시공계약 체...",
+      "date": "Tue, 10 Nov 2026 19:22:00 +0900"
+    },
+    {
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708933&ref=A",
+      "title": "데이터센터 답보에 투자 철회 잇따라… 대구 시 투자 유치 ‘도마’",
+      "date": "Tue, 10 Nov 2026 19:05:00 +0900"
     }
   ],
   "brief_articles": [
@@ -10780,7 +10880,7 @@
     "2026-11-07": 5,
     "2026-11-08": 2,
     "2026-11-09": 8,
-    "2026-11-10": 10
+    "2026-11-10": 11
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
