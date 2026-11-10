@@ -1785,7 +1785,17 @@
     "http://www.biztribune.co.kr/news/articleView.html?idxno=362219": "2026-11-10T14:02:25.805802+09:00",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LWmVxWG9mMXpJeFdvRHVfeVI5Vl85WGJYd01ZY1lQSjAxV2Y0TlNsenN6aFcxUkFXdzJZb3NhclNuellqNmF4QnJ3MlFmTlBDbTlaWmtYclhocUNVNVQyanpPWUttZmlYUzZvWWIyS2J2cXM?oc=5": "2026-11-10T14:02:25.805802+09:00",
     "http://www.fsnews.co.kr/news/articleView.html?idxno=62620": "2026-11-10T14:02:25.805802+09:00",
-    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89115": "2026-11-10T14:02:25.805802+09:00"
+    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89115": "2026-11-10T14:02:25.805802+09:00",
+    "https://www.kbsm.net/news/view.php?idx=541099": "2026-11-10T15:02:10.086960+09:00",
+    "https://www.bloter.net/news/articleView.html?idxno=678221": "2026-11-10T15:02:10.086960+09:00",
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=229649": "2026-11-10T15:02:10.086960+09:00",
+    "https://www.newsway.co.kr/news/view?ud=2026111014502118891": "2026-11-10T15:02:10.086960+09:00",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285880": "2026-11-10T15:02:10.086960+09:00",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285903": "2026-11-10T15:02:10.086960+09:00",
+    "https://biz.sbs.co.kr/article_hub/20000345413?division=NAVER": "2026-11-10T15:02:10.086960+09:00",
+    "https://www.joongangenews.com/news/articleView.html?idxno=562649": "2026-11-10T15:02:10.086960+09:00",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=305343": "2026-11-10T15:02:10.086960+09:00",
+    "https://www.nspna.com/news/?mode=view&newsid=835418": "2026-11-10T15:02:10.086960+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3073,26 +3083,24 @@
     "bfebe2889c9e5c600b449bad72514eac098a9ffc41e91e503e9d32deb31019bf": "2026-11-10T14:02:25.805802+09:00",
     "4a663bd9a5dd21e5aee8d51fda4d60d215803db4b36a16bad9e9ee3561c459fb": "2026-11-10T14:02:25.805802+09:00",
     "306a69d197d10e4a321cafef5e5f4419562e1c160e2ca38a3b487d53c3b5fb68": "2026-11-10T14:02:25.805802+09:00",
-    "ea9160a7d7711ac00c8b5fafa8302eb35fc9eab978d84b7d88a4567cab81bb2c": "2026-11-10T14:02:25.805802+09:00"
+    "ea9160a7d7711ac00c8b5fafa8302eb35fc9eab978d84b7d88a4567cab81bb2c": "2026-11-10T14:02:25.805802+09:00",
+    "292ce5b005f2c7999cf05cd0d4d56a40e969a99f74b384b284b26aaa0aa38ab7": "2026-11-10T15:02:10.086960+09:00",
+    "34a80f60bea1aa1bd7a5bc25be4b04383a0b26efdbc44e8d9b26773e502d38ed": "2026-11-10T15:02:10.086960+09:00",
+    "d76d99fa168fb5e6d061c998617d8a3c831ebd4f0dc15c5063672d232c1daca4": "2026-11-10T15:02:10.086960+09:00",
+    "e4d4bcecb356655d40fbb34899287e4389d50a1505c0c147d58315925bcfb646": "2026-11-10T15:02:10.086960+09:00",
+    "3f5354e6fb18dcca25e994e782f48985fa33fb8ae5d3ee00436c6443c9bda657": "2026-11-10T15:02:10.086960+09:00",
+    "bd6e39d68fbabddccf1760b93674952e9ea4ba3b4567420136c25528570f74ad": "2026-11-10T15:02:10.086960+09:00",
+    "033942eee9e48709a462a417ae1dd164978e7d8a8d55126a088876bec7153f12": "2026-11-10T15:02:10.086960+09:00",
+    "0b19d2fa79d64bf6811e16a65f5b3db31672d5d7d0d474117ae2502e00347895": "2026-11-10T15:02:10.086960+09:00",
+    "a1400c68f6aa545833506502d1c576acce2f495bf9b96afe52aa8d974548cb99": "2026-11-10T15:02:10.086960+09:00",
+    "33f3e141fc9951d8a765e2eae41e593dc06133807dbae0289b9f1e22aa7e6a05": "2026-11-10T15:02:10.086960+09:00"
   },
-  "pending": {},
-  "ai": {
-    "2026-11-03": 3,
-    "2026-11-04": 15,
-    "2026-11-05": 31,
-    "2026-11-06": 18,
-    "2026-11-07": 7,
-    "2026-11-08": 3,
-    "2026-11-09": 11,
-    "2026-11-10": 7
-  },
-  "cursor": 0,
-  "archive": {
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080957": {
-      "title": "문경시, 국비 112억원 확보…160억원 규모 복합복지·문화시설 건립",
-      "summary": "경북 문경시가 국비 112억원을 투입해 시민 누구나 이용할 수 있는 복합복지·문화시설 조성에 나선다. 문경시는 국토교통부가 주관한 지역개발사업 공모에서 '행복1번지 커뮤니티센터 건립 사업'이 최종 선정됐다고 8일...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080957",
-      "date": "Sun, 08 Nov 2026 14:42:00 +0900",
+  "pending": {
+    "https://www.kbsm.net/news/view.php?idx=541055": {
+      "title": "경북 교육청, 학교급식교육관 건립 설계협의회 개최",
+      "summary": "경북 도교육청이 10일 도교육청에서 학교급식교육관 건립 을 위한 설계협의회를 열고 공간 구성과 배치계획을 검토했다.학교급식교육관은 폐교된 옛 상주낙동동부초를 리모델링하고 일부 증축해 조성하는 경북 최초의...",
+      "url": "https://www.kbsm.net/news/view.php?idx=541055",
+      "date": "Tue, 10 Nov 2026 14:26:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -3101,19 +3109,318 @@
       "priority": 70,
       "filter_version": 17
     },
-    "https://www.khan.co.kr/article/202611081456001": {
-      "title": "청와대 국정상황실장에 김태근 자치발전비서관 승진 기용…‘인재 풀 제...",
-      "summary": "경찰청장에는 김종철 현 경찰청 차장을, 국세청 장에 안덕수 현 서울지방 국세청 장을 각각 승진 발탁했다.... 대구 가 고향인 민주당 정치인, 특별한 족보나 유산도 없는 대선 주자라는 정체성 때문이다. 그를 상징하는...",
-      "url": "https://www.khan.co.kr/article/202611081456001",
-      "date": "Sun, 08 Nov 2026 14:56:00 +0900",
+    "https://www.nocutnews.co.kr/news/6604630": {
+      "title": "\" 대구 시 신청사 건립 , 신속히·주민과 함께\"…\"AI데이터센터 신중 유치...",
+      "summary": "이 의원은 \" 대구 신청사 건립 사업은 시민 참여 공론화로 부지를 선정한 사업이다. 시민이 참여한 만큼 짓는 과정도 시민과 함께 나누는 사업이 되기를 바란다\"며 대구 시가 추진 과정, 지연 이유 등을 시민들에게 적극...",
+      "url": "https://www.nocutnews.co.kr/news/6604630",
+      "date": "Tue, 10 Nov 2026 14:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.iminju.net/news/articleView.html?idxno=172223": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…장인화 \"에너지 안보에 기여\"",
+      "summary": "민주신문=승동엽 기자｜ 포스코 인터내셔널이 광양 제2 액화천연가스(LNG)터미널을 완공하며 에너지사업... 확대해 포스코 그룹의 핵심 성장축인 에너지자원 부문의 경쟁력을 높인다는 방침이다. 포스코 인터내셔널은...",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=172223",
+      "date": "Tue, 10 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280906": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…\"133만㎘ 저장 역량 확보\"",
+      "summary": "포스코 인터내셔널은 10일 전남광주통합특별시 광양시에서 광양 제2 LNG터미널 준공식을 열고 에너지 자원... 포스코 그룹은 2005년 민간 기업 최초로 상업운전을 시작한 이후 단계적으로 시설을 확충해 왔으며, 이번...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280906",
+      "date": "Tue, 10 Nov 2026 14:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.news2day.co.kr/article/20261110500221": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…에너지 밸류체인 강화",
+      "summary": "9492억원 투입해 준공 LNG 저장용량 133만㎘ 벙커링 등 연계사업 확대 상공에서 바라본 포스코 인터내셔널 광양 LNG터미널 전경. [사진= 포스코 인터내셔널] [뉴스투데이=이예주 기자] 포스코 인터내셔널이 광양 제2...",
+      "url": "https://www.news2day.co.kr/article/20261110500221",
+      "date": "Tue, 10 Nov 2026 14:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590436127812": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…저장능력 133만kL로 확대",
+      "summary": "포스코 인터내셔널이 광양 제2 액화천연가스(LNG) 터미널 건설을 마무리하면서 국내 에너지 공급 기반을... 포스코 그룹이 추진 중인 자원 중심의 '트리플 코어(Triple Core)' 전략에서도 에너지사업의 역할이 한층 커지게...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590436127812",
+      "date": "Tue, 10 Nov 2026 14:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=601966": {
+      "title": "현대건설, 중대재해 최다 오명⋯채 2년 안돼 무려 6명 숨져",
+      "summary": "6건으로 포스코 이앤씨와 함께 조사 대상 기업 가운데 가장 많았다. 이 기간 현대건설에서는 6명이 숨지고 1명이 다쳤고 포스코 이앤씨 역시 6건의 사고로 사망자 6명과 부상자 3명이 발생했다. 현대엔지니어링도 같은 기간...",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601966",
+      "date": "Tue, 10 Nov 2026 14:26:00 +0900",
       "channels": [
         "domestic"
       ],
       "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
+      "category": "산재·사업장 사고",
       "priority": 70,
       "filter_version": 17
     },
+    "http://www.e2news.com/news/articleView.html?idxno=335968": {
+      "title": "포스코 인터내셔널 광양 제2 LNG터미널 준공…핵심자원 클러스터 구축",
+      "summary": "포스코 인터내셔널(대표이사 사장 이계인)이 광양 제2 LNG터미널을 종합준공해 포스코 그룹 트리플 코어 전략의 한 축인 에너지자원의 핵심역량을 강화하며 그룹 미래성장의 거점을 확보하고 국가 에너지안보 기여에...",
+      "url": "http://www.e2news.com/news/articleView.html?idxno=335968",
+      "date": "Tue, 10 Nov 2026 14:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kukinews.com/article/view/kuk202611100121": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…총 133만㎘ 저장능력 확보",
+      "summary": "쿠키뉴스=김재민 기자 | 포스코 인터내셔널이 광양 제2 LNG터미널을 종합준공해 포스코 그룹 ‘트리플 코어’ 전략의 한 축인 에너지자원의 핵심역량을 강화하고 대한민국 에너지 안보 기여에 나선다....",
+      "url": "https://www.kukinews.com/article/view/kuk202611100121",
+      "date": "Tue, 10 Nov 2026 14:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.yna.co.kr/view/PYH20261110106300003?input=1196m": {
+      "title": "포스코 인터내셔널, 전남 광양에 제2 액화천연가스 터미널 준공",
+      "summary": "포스코 인터내셔널이 10일 전남 광양 제2 액화천연가스(LNG) 터미널을 종합 준공했다고 밝혔다. 사진은 포스코 인터내셔널 제2 광양 LNG 터미널 전경. 2026.11.10 [ 포스코 그룹 제공. 재판매 및 DB 금지]",
+      "url": "https://www.yna.co.kr/view/PYH20261110106300003?input=1196m",
+      "date": "Tue, 10 Nov 2026 14:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbmaeil.com/article/20261110500424": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공...국내 최대 민간 저장기지...",
+      "summary": "포스코 인터내셔널이 광양 제2 LNG터미널을 종합준공하고 포스코 그룹 트리플 코어 전략의 한 축인 에너지자원 분야 역량 강화와 대한민국 에너지 안보 확보에 나선다. 포스코 인터내셔널은 10일 전남광주통합특별시...",
+      "url": "https://www.kbmaeil.com/article/20261110500424",
+      "date": "Tue, 10 Nov 2026 14:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newstomato.com/ReadNews.aspx?no=1319828&inflow=N": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…에너지 안보 강화",
+      "summary": "뉴스토마토 = 안정훈 기자 | 포스코 인터내셔널(047050)이 광양 제2 LNG터미널을 종합 준공했습니다. 그룹... (사진= 포스코 인터내셔널) 10일 포스코 인터내셔널은 전남광주통합특별시 광양시의 광양 제2 LNG터미널에서...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1319828&inflow=N",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.etoday.co.kr/news/view/2646085": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…“그룹 미래성장 거점 될 것”",
+      "summary": "이투데이=김해욱 기자 | 터미널 저장용량 133만kl로 확대 에너지 안보·LNG 사업 경쟁력 강화 포스코 인터내... 10일 포스코 인터내셔널은 광양 제2 LNG터미널에서 종합준공식을 개최했다고 밝혔다. 이날 행사에는...",
+      "url": "https://www.etoday.co.kr/news/view/2646085",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ajunews.com/view/20261110081637960": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…민간기업 기준 국내 최대",
+      "summary": "com 포스코 인터내셔널 광양 제2 LNG터미널 저장탱크 전경 [사진= 포스코 인터내셔널] 포스코 인터내셔널이 약 9500억원을 투입한 광양 제2 액화천연가스(LNG)터미널을 준공하며 국내 최대 민간 LNG 저장시설을 확보했다....",
+      "url": "https://www.ajunews.com/view/20261110081637960",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.theguru.co.kr/news/article.html?no=109479": {
+      "title": "포스코 그룹, '트리플 코어' 전략 가속…광양 LNG 2터미널 준공으로 성장...",
+      "summary": "기자] 포스코 그룹이 철강과 이차전지소재, 에너지사업을 3대 성장축으로 삼는 '트리플 코어(Triple Core)' 전략... 10일 포스코 인터내셔널은 전남 광양국가산업단지에서 광양 LNG 제2터미널 종합준공식을 개최했다. LNG...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109479",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=04487046645644408&mediaCodeNo=257": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…장인화표 '에너지 안보' 구축",
+      "summary": "포스코 인터내셔널이 약 9500억원을 투입한 광양 제2 액화천연가스(LNG)터미널을 완공하며 국내 최대 규모의 민간 LNG 저장 인프라를 확보했다. LNG 저장·공급 역량을 확대해 국가 에너지 안보를 뒷받침하고, 포스코 그룹...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04487046645644408&mediaCodeNo=257",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443988": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…장인화 회장 \"에너지 안보 기여...",
+      "summary": "국가 에너지 안보 전초기지, 그룹 미래성장 거점 포스코 인터내셔널 광양 LNG터미널 전경[출처: 포스코 인터내셔널] 포스코 인터내셔널[047050]이 광양 제2 LNG(액화천연가스) 터미널을 종합준공해 그룹 전략의 한 축인...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443988",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.fnnews.com/news/202611101325244467": {
+      "title": "포스코 인터, 9492억 투입 광양 제2 LNG터미널 준공…저장능력 43% 확대",
+      "summary": "포스코 인터내셔널이 9492억원을 투입한 광양 제2 액화천연가스(LNG)터미널을 준공했다. 20만㎘급 저장탱크 2기가 추가되면서 광양 LNG터미널의 전체 저장능력은 기존 93만㎘에서 133만㎘로 약 43% 늘었다. 포스코 인터...",
+      "url": "https://www.fnnews.com/news/202611101325244467",
+      "date": "Tue, 10 Nov 2026 14:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.donga.com/news/Economy/article/all/20261109/134995880/1": {
+      "title": "포스코 , 광양 제2 LNG터미널 준공…2031년 에너지 매출 9조 원 목표",
+      "summary": "포스코 그룹이 전남 광양 제2 액화천연가스(LNG)터미널을 준공하고 저장능력을 기존 93만㎘에서 133만㎘로... 포스코 인터내셔널은 10일 광양 제2 LNG터미널을 준공했다. 총 9500억 원이 투입된 제2터미널에는 20만㎘급...",
+      "url": "https://www.donga.com/news/Economy/article/all/20261109/134995880/1",
+      "date": "Tue, 10 Nov 2026 14:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146910": {
+      "title": "대우건설 노조 \"체코 원전 재협상\" 촉구…한수원 \"특정 건설사 내정 없...",
+      "summary": "사진제공= 한국수력원자력 체코 두코바니 원전 시공계약 협상 결렬을 두고 대우건설 노조와 한국수력원자력 (한수원)이 대립하고 있다. 노조는 특정 건설사 밀어주기 의혹을 제기하며 정부 중재를 촉구했지만, 한수원은...",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=146910",
+      "date": "Tue, 10 Nov 2026 14:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589146847127": {
+      "title": "[메가이슈토픽] 한수원, 대우건설 노조 주장 정면 반박…\"91차례 협상에...",
+      "summary": "한국수력원자력 (한수원)이 체코 두코바니 원전 건설사업의 시공계약 협상 결렬을 둘러싼 대우건설 노동조합(노조)의 주장에 정면 반박했다. 약 15개월간 91차례 협상을 진행했지만 공사비와 계약조건에 대한 이견을...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589146847127",
+      "date": "Tue, 10 Nov 2026 14:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newswhoplus.com/news/articleView.html?idxno=73933": {
+      "title": "[전문] 한국수력원자력 , 대우건설 노조 기자회견에 대한 설명자료",
+      "summary": "24, 중앙일보] 2) \" 한국수력원자력 의 국격\"['26.4.7, 더벨 칼럼] 등 □ 한수원은 개별 건설사가 사업 참여를 위해 내부적으로 어떤 준비를 했는지, 협력업체에 연락했는지 파악하고 있지 않음 □ 개별 건설사의 협력업체 접촉...",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=73933",
+      "date": "Tue, 10 Nov 2026 14:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMlk4R1FxWDZlajR1cDd2R2JUZ183OGtxWjdrNlZHaC1WQXNadVNmZXlINFY3NTVfODJ3VXpnZTl0cFpVMWRUcHRxU2taOE1nOW4zN1JMRDMyQQ?oc=5": {
+      "title": "박성현 광양시장, 포스코 임금협상 부결에 따른 노사 교섭 재개 촉구…노동자 권익·지역경제 안정 강조 - 여성종합뉴스",
+      "summary": "박성현 광양시장, 포스코 임금협상 부결에 따른 노사 교섭 재개 촉구…노동자 권익·지역경제 안정 강조 여성종합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMlk4R1FxWDZlajR1cDd2R2JUZ183OGtxWjdrNlZHaC1WQXNadVNmZXlINFY3NTVfODJ3VXpnZTl0cFpVMWRUcHRxU2taOE1nOW4zN1JMRDMyQQ?oc=5",
+      "date": "Tue, 10 Nov 2026 05:15:55 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE40eFRoVlZTS2ppMTV5S09Zb0piLWxoN0xrTDExZ1lNSnpsUUR5alFRZEpXQmhwS2Q4eVlqWklDbEpyRWlsWWZfWjJ3NjQ5T0tlMnc2VnhXdm5CZ1lkYU9wQlY5NldKeG1NT2JwR1NISVNmUQ?oc=5": {
+      "title": "대우건설 노조 \"체코 원전 재협상\" 촉구…한수원 \"특정 건설사 내정 없어\" - 오피니언뉴스",
+      "summary": "대우건설 노조 \"체코 원전 재협상\" 촉구…한수원 \"특정 건설사 내정 없어\" 오피니언뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40eFRoVlZTS2ppMTV5S09Zb0piLWxoN0xrTDExZ1lNSnpsUUR5alFRZEpXQmhwS2Q4eVlqWklDbEpyRWlsWWZfWjJ3NjQ5T0tlMnc2VnhXdm5CZ1lkYU9wQlY5NldKeG1NT2JwR1NISVNmUQ?oc=5",
+      "date": "Tue, 10 Nov 2026 05:42:43 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    }
+  },
+  "ai": {
+    "2026-11-03": 3,
+    "2026-11-04": 15,
+    "2026-11-05": 31,
+    "2026-11-06": 18,
+    "2026-11-07": 7,
+    "2026-11-08": 3,
+    "2026-11-09": 11,
+    "2026-11-10": 9
+  },
+  "cursor": 0,
+  "archive": {
     "https://www.hidomin.com/news/articleView.html?idxno=728389": {
       "title": "의성, 미래 식품산업 중심지로 도약… 경북 첫 식품 전문 산업단지 준공...",
       "summary": "경북 북부권의 농업 중심지인 의성이 첨단 식품산업과 푸드테크를 결합한 미래 산업 거점으로 변화를... 이날 투자협약 에는 (주)씨위드와 (주)오그래 농업회사법인이 참여했다. 두 기업은 의성바이오푸드밸리에 총...",
@@ -5811,6 +6118,461 @@
       "summary": "한수원 \"15개월간 총 91회 시공 협상, 이견 못 좁혀 결렬\"⋯대우건설 노조 주장 반박 이투데이",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KbDAzSFJDOWNkYnE2ZU41LTdPWnpmZFR3VjR1dGpiQ0VucjU0TURoUDQyazZnTTJEc2hWZDBWWEtPTk1GTjN6VzFWOHhyN2JPUTY3Ng?oc=5",
       "date": "Tue, 10 Nov 2026 04:46:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://dealsite.co.kr/articles/172444": {
+      "title": "시노펙스, 영덕 산불피해지 '탄소중립 숲' 착공",
+      "summary": "이를 위해 시노펙스는 지난해 5월 경상북도, 영덕군과 업무협약( MOU )을 체결하고 3년간 총 15억 원을 지정... 사업 기간은 2025년 6월부터 2027년 6월까지이며, 설계·시공은 산림조합중앙회 대구 경북 지역본부가 맡는다....",
+      "url": "https://dealsite.co.kr/articles/172444",
+      "date": "Tue, 10 Nov 2026 14:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbsm.net/news/view.php?idx=541055": {
+      "title": "경북 교육청, 학교급식교육관 건립 설계협의회 개최",
+      "summary": "경북 도교육청이 10일 도교육청에서 학교급식교육관 건립 을 위한 설계협의회를 열고 공간 구성과 배치계획을 검토했다.학교급식교육관은 폐교된 옛 상주낙동동부초를 리모델링하고 일부 증축해 조성하는 경북 최초의...",
+      "url": "https://www.kbsm.net/news/view.php?idx=541055",
+      "date": "Tue, 10 Nov 2026 14:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6604630": {
+      "title": "\" 대구 시 신청사 건립 , 신속히·주민과 함께\"…\"AI데이터센터 신중 유치...",
+      "summary": "이 의원은 \" 대구 신청사 건립 사업은 시민 참여 공론화로 부지를 선정한 사업이다. 시민이 참여한 만큼 짓는 과정도 시민과 함께 나누는 사업이 되기를 바란다\"며 대구 시가 추진 과정, 지연 이유 등을 시민들에게 적극...",
+      "url": "https://www.nocutnews.co.kr/news/6604630",
+      "date": "Tue, 10 Nov 2026 14:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbsm.net/news/view.php?idx=541099": {
+      "title": "대구 경찰, 유령법인 명의 대포계좌 1천개 범죄조직에 넘어가…68명 송치",
+      "summary": "대구 경찰청은 이같은 혐의 로 A씨 등 대포계좌 유통조직원 26명을 공소청에 구속 송치했다고 10일 밝혔다.또 범행에 가담한 또 다른 조직원 38명과 유령 법인 설립 과정에 개입한 법무사 및 직원 4명 등 42명을...",
+      "url": "https://www.kbsm.net/news/view.php?idx=541099",
+      "date": "Tue, 10 Nov 2026 14:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.bloter.net/news/articleView.html?idxno=678221": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…장인화 '트리플 코어' 결실",
+      "summary": "포스코 인터내셔널이 광양 제2 액화천연가스(LNG)터미널을 종합준공하며 국내 LNG 저장·공급 역량을... 가스전 개발부터 LNG 트레이딩, 터미널, 발전으로 이어지는 밸류체인을 강화하는 동시에 포스코 그룹의 '트리플...",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678221",
+      "date": "Tue, 10 Nov 2026 15:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.energy-news.co.kr/news/articleView.html?idxno=229649": {
+      "title": "광양 제2 LNG터미널 준공… 포스코 그룹, '자원' 성장축 강화",
+      "summary": "포스코 인터내셔널의 광양 제2 LNG터미널 종합준공으로 포스코 그룹의 에너지자원 사업이 새로운 성장 기반을 확보했다. 기존 시설을 포함한 LNG 저장능력은 133만㎘로 단일 민간기업 기준 국내 최대 규모다....",
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229649",
+      "date": "Tue, 10 Nov 2026 14:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsway.co.kr/news/view?ud=2026111014502118891": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공",
+      "summary": "포스코 인터내셔널이 그룹의 핵심 사업 '트리플코어'의 한 축인 에너지자원 역량 강화에 한 발 더... 10일 포스코 인터내셔널은 전남광주통합특별시 광양에 위치한 광양 제2 LNG터미널에서 준공식을 개최했다고...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026111014502118891",
+      "date": "Tue, 10 Nov 2026 14:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285903": {
+      "title": "장인화 회장 \" 포스코 인터 광양 제2 LNG터미널 준공…국가 에너지 안보 기...",
+      "summary": "\"광양 제2 LNG터미널 준공으로 LNG 밸류체인의 완성도를 높이고 국가 에너지 안보에도 기여할 것이다.\" 장인화 포스코 그룹 회장이 10일 광양 제2 LNG터미널에서 준공식에서 한 발언이다. 포스코 인터내셔널은...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285903",
+      "date": "Tue, 10 Nov 2026 14:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.joongangenews.com/news/articleView.html?idxno=562649": {
+      "title": "포스코 인터내셔널, 9492억원 투입해 광양 제2 LNG터미널 준공...에너지 ...",
+      "summary": "|중앙이코노미뉴스 송태원 기자|상공에서 바라본 포스코 인터내셔널 광양 LNG터미널 전경.[사진= 포스코 인터내셔널] 포스코 인터내셔널이 약 9500억원을 투입한 광양 제2 액화천연가스(LNG)터미널을 준공하며 에너지...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=562649",
+      "date": "Tue, 10 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.todayenergy.kr/news/articleView.html?idxno=305343": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 종합준공",
+      "summary": "포스코 인터내셔널이 광양 제2 LNG터미널을 종합준공하며 대한민국 에너지 안보 강화를 위한 핵심 인프라를 완성했다. 포스코 인터내셔널은 10일 전남광주통합특별시 광양시에서 정부·지자체 관계자와 장인화...",
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305343",
+      "date": "Tue, 10 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.nspna.com/news/?mode=view&newsid=835418": {
+      "title": "[기자수첩] 포스코 노사, 뼈를 깎는 지혜로 광양지역 경제에 희망을",
+      "summary": "포스코 노사 임금협상이 잠정합의안 부결이라는 결과를 맞으면서 광양 지역사회에 우려의 목소리가 커지고... 지난 7일 실시된 포스코 임금 및 단체협약 잠정합의안 찬반투표에는 전체 조합원 9424명 중 9177명이 참여했다....",
+      "url": "https://www.nspna.com/news/?mode=view&newsid=835418",
+      "date": "Tue, 10 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.iminju.net/news/articleView.html?idxno=172223": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…장인화 \"에너지 안보에 기여\"",
+      "summary": "민주신문=승동엽 기자｜ 포스코 인터내셔널이 광양 제2 액화천연가스(LNG)터미널을 완공하며 에너지사업... 확대해 포스코 그룹의 핵심 성장축인 에너지자원 부문의 경쟁력을 높인다는 방침이다. 포스코 인터내셔널은...",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=172223",
+      "date": "Tue, 10 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=280906": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…\"133만㎘ 저장 역량 확보\"",
+      "summary": "포스코 인터내셔널은 10일 전남광주통합특별시 광양시에서 광양 제2 LNG터미널 준공식을 열고 에너지 자원... 포스코 그룹은 2005년 민간 기업 최초로 상업운전을 시작한 이후 단계적으로 시설을 확충해 왔으며, 이번...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280906",
+      "date": "Tue, 10 Nov 2026 14:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.news2day.co.kr/article/20261110500221": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…에너지 밸류체인 강화",
+      "summary": "9492억원 투입해 준공 LNG 저장용량 133만㎘ 벙커링 등 연계사업 확대 상공에서 바라본 포스코 인터내셔널 광양 LNG터미널 전경. [사진= 포스코 인터내셔널] [뉴스투데이=이예주 기자] 포스코 인터내셔널이 광양 제2...",
+      "url": "https://www.news2day.co.kr/article/20261110500221",
+      "date": "Tue, 10 Nov 2026 14:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590436127812": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…저장능력 133만kL로 확대",
+      "summary": "포스코 인터내셔널이 광양 제2 액화천연가스(LNG) 터미널 건설을 마무리하면서 국내 에너지 공급 기반을... 포스코 그룹이 추진 중인 자원 중심의 '트리플 코어(Triple Core)' 전략에서도 에너지사업의 역할이 한층 커지게...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590436127812",
+      "date": "Tue, 10 Nov 2026 14:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=601966": {
+      "title": "현대건설, 중대재해 최다 오명⋯채 2년 안돼 무려 6명 숨져",
+      "summary": "6건으로 포스코 이앤씨와 함께 조사 대상 기업 가운데 가장 많았다. 이 기간 현대건설에서는 6명이 숨지고 1명이 다쳤고 포스코 이앤씨 역시 6건의 사고로 사망자 6명과 부상자 3명이 발생했다. 현대엔지니어링도 같은 기간...",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601966",
+      "date": "Tue, 10 Nov 2026 14:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "산재·사업장 사고",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.e2news.com/news/articleView.html?idxno=335968": {
+      "title": "포스코 인터내셔널 광양 제2 LNG터미널 준공…핵심자원 클러스터 구축",
+      "summary": "포스코 인터내셔널(대표이사 사장 이계인)이 광양 제2 LNG터미널을 종합준공해 포스코 그룹 트리플 코어 전략의 한 축인 에너지자원의 핵심역량을 강화하며 그룹 미래성장의 거점을 확보하고 국가 에너지안보 기여에...",
+      "url": "http://www.e2news.com/news/articleView.html?idxno=335968",
+      "date": "Tue, 10 Nov 2026 14:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kukinews.com/article/view/kuk202611100121": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…총 133만㎘ 저장능력 확보",
+      "summary": "쿠키뉴스=김재민 기자 | 포스코 인터내셔널이 광양 제2 LNG터미널을 종합준공해 포스코 그룹 ‘트리플 코어’ 전략의 한 축인 에너지자원의 핵심역량을 강화하고 대한민국 에너지 안보 기여에 나선다....",
+      "url": "https://www.kukinews.com/article/view/kuk202611100121",
+      "date": "Tue, 10 Nov 2026 14:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.yna.co.kr/view/PYH20261110106300003?input=1196m": {
+      "title": "포스코 인터내셔널, 전남 광양에 제2 액화천연가스 터미널 준공",
+      "summary": "포스코 인터내셔널이 10일 전남 광양 제2 액화천연가스(LNG) 터미널을 종합 준공했다고 밝혔다. 사진은 포스코 인터내셔널 제2 광양 LNG 터미널 전경. 2026.11.10 [ 포스코 그룹 제공. 재판매 및 DB 금지]",
+      "url": "https://www.yna.co.kr/view/PYH20261110106300003?input=1196m",
+      "date": "Tue, 10 Nov 2026 14:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbmaeil.com/article/20261110500424": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공...국내 최대 민간 저장기지...",
+      "summary": "포스코 인터내셔널이 광양 제2 LNG터미널을 종합준공하고 포스코 그룹 트리플 코어 전략의 한 축인 에너지자원 분야 역량 강화와 대한민국 에너지 안보 확보에 나선다. 포스코 인터내셔널은 10일 전남광주통합특별시...",
+      "url": "https://www.kbmaeil.com/article/20261110500424",
+      "date": "Tue, 10 Nov 2026 14:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newstomato.com/ReadNews.aspx?no=1319828&inflow=N": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…에너지 안보 강화",
+      "summary": "뉴스토마토 = 안정훈 기자 | 포스코 인터내셔널(047050)이 광양 제2 LNG터미널을 종합 준공했습니다. 그룹... (사진= 포스코 인터내셔널) 10일 포스코 인터내셔널은 전남광주통합특별시 광양시의 광양 제2 LNG터미널에서...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1319828&inflow=N",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.etoday.co.kr/news/view/2646085": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…“그룹 미래성장 거점 될 것”",
+      "summary": "이투데이=김해욱 기자 | 터미널 저장용량 133만kl로 확대 에너지 안보·LNG 사업 경쟁력 강화 포스코 인터내... 10일 포스코 인터내셔널은 광양 제2 LNG터미널에서 종합준공식을 개최했다고 밝혔다. 이날 행사에는...",
+      "url": "https://www.etoday.co.kr/news/view/2646085",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ajunews.com/view/20261110081637960": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…민간기업 기준 국내 최대",
+      "summary": "com 포스코 인터내셔널 광양 제2 LNG터미널 저장탱크 전경 [사진= 포스코 인터내셔널] 포스코 인터내셔널이 약 9500억원을 투입한 광양 제2 액화천연가스(LNG)터미널을 준공하며 국내 최대 민간 LNG 저장시설을 확보했다....",
+      "url": "https://www.ajunews.com/view/20261110081637960",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.theguru.co.kr/news/article.html?no=109479": {
+      "title": "포스코 그룹, '트리플 코어' 전략 가속…광양 LNG 2터미널 준공으로 성장...",
+      "summary": "기자] 포스코 그룹이 철강과 이차전지소재, 에너지사업을 3대 성장축으로 삼는 '트리플 코어(Triple Core)' 전략... 10일 포스코 인터내셔널은 전남 광양국가산업단지에서 광양 LNG 제2터미널 종합준공식을 개최했다. LNG...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109479",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=04487046645644408&mediaCodeNo=257": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…장인화표 '에너지 안보' 구축",
+      "summary": "포스코 인터내셔널이 약 9500억원을 투입한 광양 제2 액화천연가스(LNG)터미널을 완공하며 국내 최대 규모의 민간 LNG 저장 인프라를 확보했다. LNG 저장·공급 역량을 확대해 국가 에너지 안보를 뒷받침하고, 포스코 그룹...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04487046645644408&mediaCodeNo=257",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443988": {
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…장인화 회장 \"에너지 안보 기여...",
+      "summary": "국가 에너지 안보 전초기지, 그룹 미래성장 거점 포스코 인터내셔널 광양 LNG터미널 전경[출처: 포스코 인터내셔널] 포스코 인터내셔널[047050]이 광양 제2 LNG(액화천연가스) 터미널을 종합준공해 그룹 전략의 한 축인...",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443988",
+      "date": "Tue, 10 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.fnnews.com/news/202611101325244467": {
+      "title": "포스코 인터, 9492억 투입 광양 제2 LNG터미널 준공…저장능력 43% 확대",
+      "summary": "포스코 인터내셔널이 9492억원을 투입한 광양 제2 액화천연가스(LNG)터미널을 준공했다. 20만㎘급 저장탱크 2기가 추가되면서 광양 LNG터미널의 전체 저장능력은 기존 93만㎘에서 133만㎘로 약 43% 늘었다. 포스코 인터...",
+      "url": "https://www.fnnews.com/news/202611101325244467",
+      "date": "Tue, 10 Nov 2026 14:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.donga.com/news/Economy/article/all/20261109/134995880/1": {
+      "title": "포스코 , 광양 제2 LNG터미널 준공…2031년 에너지 매출 9조 원 목표",
+      "summary": "포스코 그룹이 전남 광양 제2 액화천연가스(LNG)터미널을 준공하고 저장능력을 기존 93만㎘에서 133만㎘로... 포스코 인터내셔널은 10일 광양 제2 LNG터미널을 준공했다. 총 9500억 원이 투입된 제2터미널에는 20만㎘급...",
+      "url": "https://www.donga.com/news/Economy/article/all/20261109/134995880/1",
+      "date": "Tue, 10 Nov 2026 14:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=285880": {
+      "title": "한수원, 대우건설 노조 '의도적 결렬' 주장 반박… \"91차례 협의에도 이...",
+      "summary": "한국수력원자력 (이하 한수원)이 체코 두코바니 원전 시공 계약 협상 중단에 반발한 대우건설 노동조합의 주장에 정면으로 반박했다. 지난 15개월간 91차례 협의를 진행했지만 공사비와 공사 물량 정산 방식을 둘러싼...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285880",
+      "date": "Tue, 10 Nov 2026 14:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://biz.sbs.co.kr/article_hub/20000345413?division=NAVER": {
+      "title": "한수원, 대우건설 노조 주장 반박…\"추가 협상 기회 줬다\"",
+      "summary": "한국수력원자력 (한수원)은 체코 두코바니 원전 시공사 계약 협상을 일방적으로 결렬시켰다는 대우건설 노동조합의 주장에 대해 당초 체코 측 요구보다 시한을 연장하며 추가 협상 기회를 줬다고 반박했습니다. 한수원은...",
+      "url": "https://biz.sbs.co.kr/article_hub/20000345413?division=NAVER",
+      "date": "Tue, 10 Nov 2026 14:49:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.opinionnews.co.kr/news/articleView.html?idxno=146910": {
+      "title": "대우건설 노조 \"체코 원전 재협상\" 촉구…한수원 \"특정 건설사 내정 없...",
+      "summary": "사진제공= 한국수력원자력 체코 두코바니 원전 시공계약 협상 결렬을 두고 대우건설 노조와 한국수력원자력 (한수원)이 대립하고 있다. 노조는 특정 건설사 밀어주기 의혹을 제기하며 정부 중재를 촉구했지만, 한수원은...",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=146910",
+      "date": "Tue, 10 Nov 2026 14:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589146847127": {
+      "title": "[메가이슈토픽] 한수원, 대우건설 노조 주장 정면 반박…\"91차례 협상에...",
+      "summary": "한국수력원자력 (한수원)이 체코 두코바니 원전 건설사업의 시공계약 협상 결렬을 둘러싼 대우건설 노동조합(노조)의 주장에 정면 반박했다. 약 15개월간 91차례 협상을 진행했지만 공사비와 계약조건에 대한 이견을...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589146847127",
+      "date": "Tue, 10 Nov 2026 14:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newswhoplus.com/news/articleView.html?idxno=73933": {
+      "title": "[전문] 한국수력원자력 , 대우건설 노조 기자회견에 대한 설명자료",
+      "summary": "24, 중앙일보] 2) \" 한국수력원자력 의 국격\"['26.4.7, 더벨 칼럼] 등 □ 한수원은 개별 건설사가 사업 참여를 위해 내부적으로 어떤 준비를 했는지, 협력업체에 연락했는지 파악하고 있지 않음 □ 개별 건설사의 협력업체 접촉...",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=73933",
+      "date": "Tue, 10 Nov 2026 14:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMlk4R1FxWDZlajR1cDd2R2JUZ183OGtxWjdrNlZHaC1WQXNadVNmZXlINFY3NTVfODJ3VXpnZTl0cFpVMWRUcHRxU2taOE1nOW4zN1JMRDMyQQ?oc=5": {
+      "title": "박성현 광양시장, 포스코 임금협상 부결에 따른 노사 교섭 재개 촉구…노동자 권익·지역경제 안정 강조 - 여성종합뉴스",
+      "summary": "박성현 광양시장, 포스코 임금협상 부결에 따른 노사 교섭 재개 촉구…노동자 권익·지역경제 안정 강조 여성종합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fMlk4R1FxWDZlajR1cDd2R2JUZ183OGtxWjdrNlZHaC1WQXNadVNmZXlINFY3NTVfODJ3VXpnZTl0cFpVMWRUcHRxU2taOE1nOW4zN1JMRDMyQQ?oc=5",
+      "date": "Tue, 10 Nov 2026 05:15:55 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE40eFRoVlZTS2ppMTV5S09Zb0piLWxoN0xrTDExZ1lNSnpsUUR5alFRZEpXQmhwS2Q4eVlqWklDbEpyRWlsWWZfWjJ3NjQ5T0tlMnc2VnhXdm5CZ1lkYU9wQlY5NldKeG1NT2JwR1NISVNmUQ?oc=5": {
+      "title": "대우건설 노조 \"체코 원전 재협상\" 촉구…한수원 \"특정 건설사 내정 없어\" - 오피니언뉴스",
+      "summary": "대우건설 노조 \"체코 원전 재협상\" 촉구…한수원 \"특정 건설사 내정 없어\" 오피니언뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40eFRoVlZTS2ppMTV5S09Zb0piLWxoN0xrTDExZ1lNSnpsUUR5alFRZEpXQmhwS2Q4eVlqWklDbEpyRWlsWWZfWjJ3NjQ5T0tlMnc2VnhXdm5CZ1lkYU9wQlY5NldKeG1NT2JwR1NISVNmUQ?oc=5",
+      "date": "Tue, 10 Nov 2026 05:42:43 GMT",
       "channels": [
         "domestic"
       ],
@@ -9109,6 +9871,56 @@
       "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89115",
       "title": "동서발전, 현대엔지니어링· 포스코 이앤씨와 호남 복합발전 건설계약 체...",
       "date": "Tue, 10 Nov 2026 13:10:00 +0900"
+    },
+    {
+      "url": "https://www.kbsm.net/news/view.php?idx=541099",
+      "title": "대구 경찰, 유령법인 명의 대포계좌 1천개 범죄조직에 넘어가…68명 송치",
+      "date": "Tue, 10 Nov 2026 14:12:00 +0900"
+    },
+    {
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678221",
+      "title": "포스코 인터, 광양 제2 LNG터미널 준공…장인화 '트리플 코어' 결실",
+      "date": "Tue, 10 Nov 2026 15:00:00 +0900"
+    },
+    {
+      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229649",
+      "title": "광양 제2 LNG터미널 준공… 포스코 그룹, '자원' 성장축 강화",
+      "date": "Tue, 10 Nov 2026 14:58:00 +0900"
+    },
+    {
+      "url": "https://www.newsway.co.kr/news/view?ud=2026111014502118891",
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공",
+      "date": "Tue, 10 Nov 2026 14:54:00 +0900"
+    },
+    {
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285880",
+      "title": "한수원, 대우건설 노조 '의도적 결렬' 주장 반박… \"91차례 협의에도 이...",
+      "date": "Tue, 10 Nov 2026 14:54:00 +0900"
+    },
+    {
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285903",
+      "title": "장인화 회장 \" 포스코 인터 광양 제2 LNG터미널 준공…국가 에너지 안보 기...",
+      "date": "Tue, 10 Nov 2026 14:52:00 +0900"
+    },
+    {
+      "url": "https://biz.sbs.co.kr/article_hub/20000345413?division=NAVER",
+      "title": "한수원, 대우건설 노조 주장 반박…\"추가 협상 기회 줬다\"",
+      "date": "Tue, 10 Nov 2026 14:49:00 +0900"
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=562649",
+      "title": "포스코 인터내셔널, 9492억원 투입해 광양 제2 LNG터미널 준공...에너지 ...",
+      "date": "Tue, 10 Nov 2026 14:46:00 +0900"
+    },
+    {
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305343",
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 종합준공",
+      "date": "Tue, 10 Nov 2026 14:46:00 +0900"
+    },
+    {
+      "url": "https://www.nspna.com/news/?mode=view&newsid=835418",
+      "title": "[기자수첩] 포스코 노사, 뼈를 깎는 지혜로 광양지역 경제에 희망을",
+      "date": "Tue, 10 Nov 2026 14:46:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9216,7 +10028,7 @@
     "2026-11-07": 5,
     "2026-11-08": 2,
     "2026-11-09": 8,
-    "2026-11-10": 5
+    "2026-11-10": 6
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
