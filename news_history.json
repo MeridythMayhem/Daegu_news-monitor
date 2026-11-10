@@ -1825,7 +1825,12 @@
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=268638": "2026-11-10T18:02:16.232026+09:00",
     "https://www.kwnews.co.kr/article/20261110500476": "2026-11-10T18:02:16.232026+09:00",
     "https://www.namdonews.com/news/articleView.html?idxno=928840": "2026-11-10T18:02:16.232026+09:00",
-    "http://www.newsprime.co.kr/news/article.html?no=754394": "2026-11-10T18:02:16.232026+09:00"
+    "http://www.newsprime.co.kr/news/article.html?no=754394": "2026-11-10T18:02:16.232026+09:00",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55cUpPUXc0NXdkLXNaMUR0WnRrZ3JSR25MQV9oRUg0SDAzWGNDbkdtajZwTE1Rekg0c3J5XzVNR2RrVmV0MmtSeXoxQlNpTEY1LXBMOTRHajRiWkhhU19ic0d3bmVBbnM?oc=5": "2026-11-10T19:02:00.126593+09:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PYkV4TGQ3VElQZkppMlNDLVo3M04yLXJnSy1TS19BNFducU8zYjFsNW8yckVwT0FESDJRcUxYZUl4TzRSY21sTk9zQ0JlNW5RaFRuemF3UTE3U19oSDZyU0REWTM3SjRmQXkyVzNOR1o?oc=5": "2026-11-10T19:02:00.126593+09:00",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVnYzbU04eGZzcFdyNVFwZk0tX0ZYSlBxUTZMTmx0bjQwc0RSWW5kbUp1T18xbUFoUFVWWGdpbk11dVlRNENEQWRpRTdSLTFFd0ZWLXpndEFpM0pPdnlRQw?oc=5": "2026-11-10T19:02:00.126593+09:00",
+    "https://www.thepublic.kr/news/articleView.html?idxno=325954": "2026-11-10T19:02:00.126593+09:00",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYUsyUEFOaXhkYmh2QlRVWFl0YjkyZHk5STRJd2Jtc2FlOVh6ZW1jTlBsSXY2dksxTHdVNVNUQ1M4clZHYU15NkU0b0hlZDFiSkl0UXBxS3g4Z3Zmc1VXWmNNMDA?oc=5": "2026-11-10T19:02:00.126593+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3153,101 +3158,14 @@
     "fd323e4485b3324f0fb1f13161a2b5858e661fa44cc3ec801965ba7d179aba05": "2026-11-10T18:02:16.232026+09:00",
     "19d8d558a57bc02f4bce2a9b524f1fbd17963d266ad77b917a8aee9b1b141f9d": "2026-11-10T18:02:16.232026+09:00",
     "2785abca2c6f300c9ed511c0f041923236e973ead2595753d2516c4844b6735e": "2026-11-10T18:02:16.232026+09:00",
-    "2d8368a0afc2af4a30a6ea90980ebd3a36ca489b3175960bc670abd09a08536d": "2026-11-10T18:02:16.232026+09:00"
+    "2d8368a0afc2af4a30a6ea90980ebd3a36ca489b3175960bc670abd09a08536d": "2026-11-10T18:02:16.232026+09:00",
+    "df7e0634cdf956a2f2f7c629aa2f5e412b063d7f707a5073615e4612fdd99212": "2026-11-10T19:02:00.126593+09:00",
+    "c971180142f5d9cf03163b7ddcf6017e7e08eec46ddfe053b1a875cf297ba633": "2026-11-10T19:02:00.126593+09:00",
+    "204452c6dd9083f2bcae12eff646a29ea55d9d42bf5073ef51d3cc84c48e8f32": "2026-11-10T19:02:00.126593+09:00",
+    "385b1b71a423a2ee3ddfbcd07ed6cf22ec9f55de08c3981965e8f7ae73baa0d4": "2026-11-10T19:02:00.126593+09:00",
+    "641095dea428104a384d7ac36b608fe19f591f41595c161ac751d210aba513c5": "2026-11-10T19:02:00.126593+09:00"
   },
-  "pending": {
-    "http://www.inews24.com/view/2024672": {
-      "title": "SK AI데이터센터 투자 철회에 대구시 투자행정 도마…“유치보다 이행이...",
-      "summary": "권오섭 의원(남구1)은 투자유치 실적 급감과 투자협약( MOU ) 체결 기업의 착공 지연 문제를 지적했다. 권... 경북 대학교의 '서울대 10개 만들기' 사업 탈락 원인을 분석해 2차 공모를 적극 지원하고 도심캠퍼스타운 사업에서도...",
-      "url": "http://www.inews24.com/view/2024672",
-      "date": "Tue, 10 Nov 2026 17:15:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=367432": {
-      "title": "경북 교육청, 98억 투입 학교급식교육관 건립 본격화",
-      "summary": "10일 경북 교육청이 학교급식교육관 건립 을 위한 설계협의회를 열고 공간 구성과 시설 배치계획 등을 논의하고 있다.(사진/ 경북 교육청) 경북 교육청이 경북 최초의 체험형 학교급식교육관 조성에 나섰다. 경북 교육청은 10일...",
-      "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367432",
-      "date": "Tue, 10 Nov 2026 17:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://fpn119.co.kr/259231": {
-      "title": "대구 북부소방서, 민ㆍ관 합동 겨울철 산업단지 화재 예방 캠페인",
-      "summary": "= 대구 북부소방서(서장 이진우)는 10일 대구 북구 제3산업단지 일원에서 겨울철 대비 민ㆍ관 합동 산업단지... 소방서는 특히 공장 시설은 화재 발생 시 대형 피해로 이어질 수 있는 점을 상기하며 철저한 시설 점검과...",
-      "url": "http://fpn119.co.kr/259231",
-      "date": "Tue, 10 Nov 2026 17:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.fntimes.com/html/view.php?ud=2026111016590526797de3572ddd_18": {
-      "title": "영풍 대표 2명 구속 와중에 MBK와 계약…실질적 결정권자는 누구",
-      "summary": "대구 지검 안동지청은 2024년 9월 23일 박영민 당시 대표이사를 중대재해처벌법 위반 혐의 로, 배상윤 당시 대표이사 겸 석포제련소장을 산업안전보건법 위반 등 혐의 로 각각 구속기소했다. 이처럼 회사의 대표이사 2명이...",
-      "url": "https://www.fntimes.com/html/view.php?ud=2026111016590526797de3572ddd_18",
-      "date": "Tue, 10 Nov 2026 17:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.sentv.co.kr/article/view/sentv202611100209": {
-      "title": "포스코 인터내셔널 광양 제2 LNG터미널 준공…국가 에너지 안보 강화",
-      "summary": "포스코 인터내셔널은 광양 제2 LNG터미널을 종합준공해 포스코 그룹 트리플 코어 전략의 한 축인 에너지자원의 핵심역량을 강화하고 대한민국 에너지 안보 기여에 나선다고 10일 밝혔다. 포스코 인터내셔널은 이날...",
-      "url": "https://www.sentv.co.kr/article/view/sentv202611100209",
-      "date": "Tue, 10 Nov 2026 17:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/10/2026111000351.html": {
-      "title": "포스코 , 광양 제2 LNG터미널 준공 … 장인화 \"국가 에너지 안보에 기여\"",
-      "summary": "포스코 인터내셔널이 광양 제2 액화천연가스(LNG) 터미널을 준공하며 국내 최대 규모의 민간 LNG 저장 인프라를 확보했다. 이를 통해 LNG 사업 경쟁력을 강화하고 국가 에너지 안보에도 기여한다는 방침이다. 포스코 인...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/10/2026111000351.html",
-      "date": "Tue, 10 Nov 2026 17:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EamlWZExrdlJSbXNpUmtmUHpIcmM1LVlmV2RRM0VUai1PZERXa0J3MGZVdnU1aUM3b1IzMVRvWUlpdFZfZldmc3NqVHc?oc=5": {
-      "title": "SK AI데이터센터 투자 철회에 대구시 투자행정 도마…“유치보다 이행이 먼저” - 아이뉴스24",
-      "summary": "SK AI데이터센터 투자 철회에 대구시 투자행정 도마…“유치보다 이행이 먼저” 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EamlWZExrdlJSbXNpUmtmUHpIcmM1LVlmV2RRM0VUai1PZERXa0J3MGZVdnU1aUM3b1IzMVRvWUlpdFZfZldmc3NqVHc?oc=5",
-      "date": "Tue, 10 Nov 2026 08:13:58 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-11-03": 3,
     "2026-11-04": 15,
@@ -3256,36 +3174,10 @@
     "2026-11-07": 7,
     "2026-11-08": 3,
     "2026-11-09": 11,
-    "2026-11-10": 15
+    "2026-11-10": 16
   },
   "cursor": 0,
   "archive": {
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047": {
-      "title": "대구 시의회, 9일 행감 돌입…노후 건물 안전·미분양 대책 검증",
-      "summary": "하중도 국가정원 조성 준비와 침수 대책, 두류공원의 국가도시공원 지정 추진 과정에서 돔구장 건립 과의 연계 방안도 점검 목록에 포함됐다. 건설교통위원회에서는 대구 주택시장 침체와 노후 주거환경 개선 문제가 핵심...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047",
-      "date": "Sun, 08 Nov 2026 18:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090060": {
-      "title": "대구 서문시장 4지구 재건축, 토지 수용 절차 착수",
-      "summary": "2016년 대형 화재 로 소실된 이후 10년째 지연되고 있는 대구 서문시장 4지구 재건축 사업이 토지 수용을 위한 절차에 들어갔다. 8일 서문시장 4지구 재건축 조합에 따르면, 조합은 지난 6일 중구청에 토지 수용 절차 진행을...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090060",
-      "date": "Sun, 08 Nov 2026 18:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.snmnews.com/news/articleView.html?idxno=577085": {
       "title": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 \"교섭·쟁의 ...",
       "summary": "사진은 포스코 포항제철소 전경. 포스코 잠정합의안에는 기본임금 2.6% 인상과 특별호봉 3호봉 부여, 자연승호분을 포함한 월평균 22만8,000원의 임금 인상 효과가 담겼다. 목표달성격려금과 노사화합 장려금 등을 포함한...",
@@ -7096,6 +6988,175 @@
       "category": "세무 조사·혐의 관련",
       "priority": 100,
       "filter_version": 17
+    },
+    "https://www.newsworker.co.kr/news/articleView.html?idxno=513341": {
+      "title": "포스코 인터내셔널, '트리플 코어 완결'... 광양 제2 LNG터미널 준공",
+      "summary": "포스코 인터내셔널은 10일 광양시 일대에서 대규모 인프라인 '광양 제2 LNG터미널'의 종합준공식을 성공적으로... 포스코 인터내셔널 관계자는 \"광양 제2 LNG터미널 완공은 자원 개발에서 최종 소비 단계까지 아우르는 친환경...",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513341",
+      "date": "Tue, 10 Nov 2026 18:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090314": {
+      "title": "전 국민 40일 쓸 난방용 가스 저장… 포스코 인터, 광양 제2 LNG터미널 준공",
+      "summary": "포스코 인터내셔널(사장 이계인)이 광양 제2 LNG터미널을 종합준공해 포스코 그룹의 에너지자원 핵심역량 강호와 국가 에너지 안보 기여에 나선다. 포스코 인터내셔널은 10일 광양 제2 LNG터미널 현장에서 장인화...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090314",
+      "date": "Tue, 10 Nov 2026 18:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490750": {
+      "title": "포스코 인터, 광양 LNG 저장능력 133만㎘로 확대···제2터미널 준공",
+      "summary": "포스코 인터내셔널이 광양 제2 액화천연가스(LNG)터미널을 종합준공하면서 LNG 저장용량을 기존 93만㎘에서 133만㎘로 확대했다. 이를 통해 포스코 그룹의 에너지자원 사업 경쟁력을 높이고 국가 에너지 안보 강화에...",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490750",
+      "date": "Tue, 10 Nov 2026 18:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://kpenews.com/View.aspx?No=4306222": {
+      "title": "'전 국민 40일분 저장' 포스코 인터내셔널, 광양 제2 LNG터미널 준공..국...",
+      "summary": "한국정경신문 최창윤 기­자 desk0223@nate.com [한국정경신문=최창윤 기자] 포스코 인터내셔널이 광양 제2 LNG터미널을 종합준공했다. 포스코 그룹 트리플 코어 전략의 한 축인 에너지자원의 핵심역량을 강화하고 대한민국...",
+      "url": "https://kpenews.com/View.aspx?No=4306222",
+      "date": "Tue, 10 Nov 2026 18:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.thepublic.kr/news/articleView.html?idxno=325954": {
+      "title": "겨우 찾은 합의점마저 무산… 포스코 , 실적 회복에도 노사 갈등 '진통'",
+      "summary": "포스코 가 철강사업의 실적 회복에도 노사 갈등으로 다시 골머리를 앓게 됐다. 약 140일간의 교섭 끝에... 10일 철강업계에 따르면 한국노총 금속노련 포스코 노동조합이 지난 7일 실시한 임단협 잠정합의안 찬반투표에서...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=325954",
+      "date": "Tue, 10 Nov 2026 18:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.breaknews.com/1249945": {
+      "title": "포스코 인터내셔널 \"광양 제2 LNG터미널 준공…전 국민 40일분 에너지 저...",
+      "summary": "포스코 인터내셔널이 광양 제2 LNG터미널을 종합 준공하고 포스코 그룹 트리플 코어 전략의 한 축인 에너지자원의 핵심역량을 한층 강화하고 나섰다....",
+      "url": "http://www.breaknews.com/1249945",
+      "date": "Tue, 10 Nov 2026 18:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.pointdaily.co.kr/news/articleView.html?idxno=325476": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…저장능력 133만kL로 확대",
+      "summary": "상공에서 바라본 포스코 인터내셔널 광양 LNG터미널 전경. 사진= 포스코 인터내셔널 포스코 인터내셔널이 약 9500억원을 투입한 광양 제2 액화천연가스(LNG)터미널을 준공했다. 기존 제1터미널을 포함한 LNG 저장능력은...",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325476",
+      "date": "Tue, 10 Nov 2026 18:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ajunews.com/view/20261110110454780": {
+      "title": "포스코 인터 1조 추가 LNG터미널 준공...장인화 '트리플 코어' 승부수",
+      "summary": "com 10일 장인화 포스코 그룹 회장이 전남광양 제2 LNG터미널 준공식에서 기념사를 하고 있다. [사진= 포스코 그룹] 포스코 인터내셔널이 약 1조원을 투입해 광양 제2 액화천연가스(LNG)터미널을 준공했다. 철강 업황 부진...",
+      "url": "https://www.ajunews.com/view/20261110110454780",
+      "date": "Tue, 10 Nov 2026 18:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newscj.com/news/articleView.html?idxno=3447586": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공… '트리플 코어' 에너지축...",
+      "summary": "포스코 인터내셔널이 광양 제2 LNG터미널을 준공하며 포스코 그룹의 에너지 자원 사업 기반을 한층 넓혔다. 이번 준공은 단순한 저장시설 확충을 넘어 장인화 포스코 그룹 회장이 추진하는 '트리플 코어' 전략 가운데...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3447586",
+      "date": "Tue, 10 Nov 2026 18:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVnYzbU04eGZzcFdyNVFwZk0tX0ZYSlBxUTZMTmx0bjQwc0RSWW5kbUp1T18xbUFoUFVWWGdpbk11dVlRNENEQWRpRTdSLTFFd0ZWLXpndEFpM0pPdnlRQw?oc=5": {
+      "title": "경북 국립의과대학 신설 확정으로 북부지역 의료환경 변화 기대 - NSP통신",
+      "summary": "경북 국립의과대학 신설 확정으로 북부지역 의료환경 변화 기대 NSP통신",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVnYzbU04eGZzcFdyNVFwZk0tX0ZYSlBxUTZMTmx0bjQwc0RSWW5kbUp1T18xbUFoUFVWWGdpbk11dVlRNENEQWRpRTdSLTFFd0ZWLXpndEFpM0pPdnlRQw?oc=5",
+      "date": "Tue, 10 Nov 2026 09:24:24 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PYkV4TGQ3VElQZkppMlNDLVo3M04yLXJnSy1TS19BNFducU8zYjFsNW8yckVwT0FESDJRcUxYZUl4TzRSY21sTk9zQ0JlNW5RaFRuemF3UTE3U19oSDZyU0REWTM3SjRmQXkyVzNOR1o?oc=5": {
+      "title": "에코프로비엠, 인니 제련소 투자사에 6271억원 출자 - 리드경제",
+      "summary": "에코프로비엠, 인니 제련소 투자사에 6271억원 출자 리드경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PYkV4TGQ3VElQZkppMlNDLVo3M04yLXJnSy1TS19BNFducU8zYjFsNW8yckVwT0FESDJRcUxYZUl4TzRSY21sTk9zQ0JlNW5RaFRuemF3UTE3U19oSDZyU0REWTM3SjRmQXkyVzNOR1o?oc=5",
+      "date": "Tue, 10 Nov 2026 09:29:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55cUpPUXc0NXdkLXNaMUR0WnRrZ3JSR25MQV9oRUg0SDAzWGNDbkdtajZwTE1Rekg0c3J5XzVNR2RrVmV0MmtSeXoxQlNpTEY1LXBMOTRHajRiWkhhU19ic0d3bmVBbnM?oc=5": {
+      "title": "한국동서발전 '현대엔지니어링·포스코이앤씨와 호남 복합발전소 건설계약' 체결 - 전국구직노조신문",
+      "summary": "한국동서발전 '현대엔지니어링·포스코이앤씨와 호남 복합발전소 건설계약' 체결 전국구직노조신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55cUpPUXc0NXdkLXNaMUR0WnRrZ3JSR25MQV9oRUg0SDAzWGNDbkdtajZwTE1Rekg0c3J5XzVNR2RrVmV0MmtSeXoxQlNpTEY1LXBMOTRHajRiWkhhU19ic0d3bmVBbnM?oc=5",
+      "date": "Tue, 10 Nov 2026 09:43:52 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYUsyUEFOaXhkYmh2QlRVWFl0YjkyZHk5STRJd2Jtc2FlOVh6ZW1jTlBsSXY2dksxTHdVNVNUQ1M4clZHYU15NkU0b0hlZDFiSkl0UXBxS3g4Z3Zmc1VXWmNNMDA?oc=5": {
+      "title": "EcoPro BM to Acquire Additional Shares in Investment Subsidiary for 627.1 Billion Won - 아시아경제",
+      "summary": "EcoPro BM to Acquire Additional Shares in Investment Subsidiary for 627.1 Billion Won 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYUsyUEFOaXhkYmh2QlRVWFl0YjkyZHk5STRJd2Jtc2FlOVh6ZW1jTlBsSXY2dksxTHdVNVNUQ1M4clZHYU15NkU0b0hlZDFiSkl0UXBxS3g4Z3Zmc1VXWmNNMDA?oc=5",
+      "date": "Tue, 10 Nov 2026 09:22:29 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -10587,6 +10648,31 @@
       "url": "http://www.newsprime.co.kr/news/article.html?no=754394",
       "title": "'광양 제2 LNG터미널 준공' 포스코 인터, 그룹 에너지 밸류체인 완성도 높...",
       "date": "Tue, 10 Nov 2026 17:18:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55cUpPUXc0NXdkLXNaMUR0WnRrZ3JSR25MQV9oRUg0SDAzWGNDbkdtajZwTE1Rekg0c3J5XzVNR2RrVmV0MmtSeXoxQlNpTEY1LXBMOTRHajRiWkhhU19ic0d3bmVBbnM?oc=5",
+      "title": "한국동서발전 '현대엔지니어링·포스코이앤씨와 호남 복합발전소 건설계약' 체결 - 전국구직노조신문",
+      "date": "Tue, 10 Nov 2026 09:43:52 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PYkV4TGQ3VElQZkppMlNDLVo3M04yLXJnSy1TS19BNFducU8zYjFsNW8yckVwT0FESDJRcUxYZUl4TzRSY21sTk9zQ0JlNW5RaFRuemF3UTE3U19oSDZyU0REWTM3SjRmQXkyVzNOR1o?oc=5",
+      "title": "에코프로비엠, 인니 제련소 투자사에 6271억원 출자 - 리드경제",
+      "date": "Tue, 10 Nov 2026 09:29:00 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVnYzbU04eGZzcFdyNVFwZk0tX0ZYSlBxUTZMTmx0bjQwc0RSWW5kbUp1T18xbUFoUFVWWGdpbk11dVlRNENEQWRpRTdSLTFFd0ZWLXpndEFpM0pPdnlRQw?oc=5",
+      "title": "경북 국립의과대학 신설 확정으로 북부지역 의료환경 변화 기대 - NSP통신",
+      "date": "Tue, 10 Nov 2026 09:24:24 GMT"
+    },
+    {
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=325954",
+      "title": "겨우 찾은 합의점마저 무산… 포스코 , 실적 회복에도 노사 갈등 '진통'",
+      "date": "Tue, 10 Nov 2026 18:14:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYUsyUEFOaXhkYmh2QlRVWFl0YjkyZHk5STRJd2Jtc2FlOVh6ZW1jTlBsSXY2dksxTHdVNVNUQ1M4clZHYU15NkU0b0hlZDFiSkl0UXBxS3g4Z3Zmc1VXWmNNMDA?oc=5",
+      "title": "EcoPro BM to Acquire Additional Shares in Investment Subsidiary for 627.1 Billion Won - 아시아경제",
+      "date": "Tue, 10 Nov 2026 09:22:29 GMT"
     }
   ],
   "brief_articles": [
@@ -10694,7 +10780,7 @@
     "2026-11-07": 5,
     "2026-11-08": 2,
     "2026-11-09": 8,
-    "2026-11-10": 9
+    "2026-11-10": 10
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
