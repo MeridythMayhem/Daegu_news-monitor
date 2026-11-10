@@ -3197,121 +3197,17 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-03": 3,
     "2026-11-04": 15,
     "2026-11-05": 31,
     "2026-11-06": 18,
     "2026-11-07": 7,
     "2026-11-08": 3,
     "2026-11-09": 11,
-    "2026-11-10": 18
+    "2026-11-10": 18,
+    "2026-11-11": 1
   },
   "cursor": 0,
   "archive": {
-    "https://www.kpinews.kr/newsView/1065565496870891": {
-      "title": "에코프로 이노베이션, 아르헨 리튬 개발에 최대 546억 원 투자 추진",
-      "summary": "에코프로 이노베이션이 호주 자원개발업체 퍼슈트 미네랄스와 손잡고 아르헨티나 리튬 원료 확보에 나선다. 프로젝트 법인 지분 투자와 선급금 지원에 최대 4000만 달러(약 546억 원)를 투입하고, 1단계 생산물 전량을...",
-      "url": "https://www.kpinews.kr/newsView/1065565496870891",
-      "date": "Mon, 09 Nov 2026 07:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://thetracker.co.kr/View.aspx?No=4302984": {
-      "title": "[단독] 에코프로 이노베이션, 아르헨티나 리튬 광산에 지분투자",
-      "summary": "더트래커 백성진 기­자 press@thetracker.co.kr 더트래커 = 백성진 기자 에코프로 계열사 에코프로 이노베이션이 아르헨티나 광산에 지분을 투자한다. 9일 업계에 따르면 에코프로 이노베이션은 호주 광물개발업체인...",
-      "url": "https://thetracker.co.kr/View.aspx?No=4302984",
-      "date": "Mon, 09 Nov 2026 07:45:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.vegannews.co.kr/news/article.html?no=402272": {
-      "title": "에코프로 비엠 목표가 18만원…유진투자증권 10% 하향",
-      "summary": "매수 의견 유지…유상증자 희석 반영 유진투자증권은 지난 6일 에코프로 비엠(247540)에 대한 투자의견 ‘매수’를 유지하면서 목표주가를 기존 20만원에서 18만원으로 낮췄다. 하향 폭은 10%다. 해당 보고서에 관한...",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=402272",
-      "date": "Mon, 09 Nov 2026 04:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.investchosun.com/site/data/html_dir/2026/11/08/2026110880024.html": {
-      "title": "[Invest]장인화 포스코 그룹 회장 연임에 무게…'전 정권 인사' 꼬리표 넘...",
-      "summary": "장인화 포스코 그룹 회장의 연임에 무게가 실리는 분위기다. 전 정권에서 선임됐다는 점이 약점으로 꼽혔지만 현 정부와 관계를 무난하게 이어가고 있고 취임 이후 내리막을 걷던 포스코 그룹의 실적이 올해 들어...",
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/08/2026110880024.html",
-      "date": "Mon, 09 Nov 2026 07:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xYlFnenZNdk1HdG1pWThOaHI2VnV4SlFoTzQyTFM1UDZieVNVTnpCZnVjY293aGlFci1lNkgxMFBWU1FXaDduZmwzMFRRTTVDZFZLVkxxclF2MFc4YXdTQTd0YndMb2hEUFHSAWxBVV95cUxQSmZSaC1KaEdpNWwwT1NQVUdiSTV0YV9VMjFoVmpzelBtOXRUR2ppUDE5eFNmUzVVZmU0dkhWQ2xCbGF4VDZOYkxzS2lvamhhTUdOd2JaYkNpX3RzbHpVNnNhNWltQklUYzByS1o?oc=5": {
-      "title": "팔공산국립공원서부사무소-칠곡군, 가산산성야영장 활성화 MOU 체결 - 시사경제신문",
-      "summary": "팔공산국립공원서부사무소-칠곡군, 가산산성야영장 활성화 MOU 체결 시사경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xYlFnenZNdk1HdG1pWThOaHI2VnV4SlFoTzQyTFM1UDZieVNVTnpCZnVjY293aGlFci1lNkgxMFBWU1FXaDduZmwzMFRRTTVDZFZLVkxxclF2MFc4YXdTQTd0YndMb2hEUFHSAWxBVV95cUxQSmZSaC1KaEdpNWwwT1NQVUdiSTV0YV9VMjFoVmpzelBtOXRUR2ppUDE5eFNmUzVVZmU0dkhWQ2xCbGF4VDZOYkxzS2lvamhhTUdOd2JaYkNpX3RzbHpVNnNhNWltQklUYzByS1o?oc=5",
-      "date": "Sun, 08 Nov 2026 16:37:31 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kbC1kTVM4OEtNRElQZU1jcXB0dGpSdXZ1aVM0OEpYbXo1Qm9rZlRWc25DNVB5VWExOFE4dHhLa3phMU1GZklWY3l0WHZnT3NCOVNHd3I3V0JFa1JJVl9GZndtOFRHbF9PNlMzbHFR0gFzQVVfeXFMUDlCSGl6NGg4bDVzQ3M5anhsV0dXeTlITGJ4Rk1LRDltNW9XeEl3Ujc0blhsYlR6MVBQODdiN0Z1OGczZG1uemtBb21tMXdiT2U3Qkt5RzNENzBrUklQbEw1eFZ5ZUJLb0ladmM1WUdnSTJqNA?oc=5": {
-      "title": "네오에이아이클라우드, 포항 산업단지에 40MW AI 데이터센터 구축 - 한국일보",
-      "summary": "네오에이아이클라우드, 포항 산업단지에 40MW AI 데이터센터 구축 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kbC1kTVM4OEtNRElQZU1jcXB0dGpSdXZ1aVM0OEpYbXo1Qm9rZlRWc25DNVB5VWExOFE4dHhLa3phMU1GZklWY3l0WHZnT3NCOVNHd3I3V0JFa1JJVl9GZndtOFRHbF9PNlMzbHFR0gFzQVVfeXFMUDlCSGl6NGg4bDVzQ3M5anhsV0dXeTlITGJ4Rk1LRDltNW9XeEl3Ujc0blhsYlR6MVBQODdiN0Z1OGczZG1uemtBb21tMXdiT2U3Qkt5RzNENzBrUklQbEw1eFZ5ZUJLb0ladmM1WUdnSTJqNA?oc=5",
-      "date": "Sun, 08 Nov 2026 18:40:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CX3NXUDlvTDB0aWp3eGY0TmRubU1NaXBvWkQxNjRkbVMzc05zMU93bzU3Y2FnVFIxLWN5d1dnLTFDdlVEQXByTkdOYTFMRHg1?oc=5": {
-      "title": "대경경자청, 글로벌 투자기업 발굴 나서…포항 첨단바이오산업 적극 홍보 - 문화일보",
-      "summary": "대경경자청, 글로벌 투자기업 발굴 나서…포항 첨단바이오산업 적극 홍보 문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CX3NXUDlvTDB0aWp3eGY0TmRubU1NaXBvWkQxNjRkbVMzc05zMU93bzU3Y2FnVFIxLWN5d1dnLTFDdlVEQXByTkdOYTFMRHg1?oc=5",
-      "date": "Sun, 08 Nov 2026 21:55:59 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJZ3lFR3ljQjJBZVk3aWhqaTd2TWtHN1VLMVFiLWF1X0FGU25xT1NycmYtZ0ZTTldWNzd0R0dnT2l5dGNyR3JNZzFhWi1EdmRXOEhpNkkzNHh0SXlaV2hnUElqMi1xemg2UnJ0anBEdmluSjA?oc=5": {
-      "title": "보성 미력면-한수원 보성강수력발전소 MOU 체결 - 동방일보",
-      "summary": "보성 미력면-한수원 보성강수력발전소 MOU 체결 동방일보",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJZ3lFR3ljQjJBZVk3aWhqaTd2TWtHN1VLMVFiLWF1X0FGU25xT1NycmYtZ0ZTTldWNzd0R0dnT2l5dGNyR3JNZzFhWi1EdmRXOEhpNkkzNHh0SXlaV2hnUElqMi1xemg2UnJ0anBEdmluSjA?oc=5",
-      "date": "Sun, 08 Nov 2026 14:11:32 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234": {
       "title": "포스코 임금협상 잠정합의안 부결…노조, 9일 대책회의 개최",
       "summary": "포스코 노사가 약 140일간의 교섭 끝에 마련한 임금협상 잠정합의안이 노동조합 찬반투표에서 부결됐다. 노조는 9일 대책회의를 열고 향후 교섭 및 쟁의행위 대응 방안을 논의할 예정이다. 포스코 노조는 2026년도...",
@@ -7343,52 +7239,147 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "http://www.breaknews.com/1249996": {
+      "title": "상주시 무역사절단, 동남아 시장서 400만 달러 규모 수출 성과 거둬",
+      "summary": "양해각서( MOU ) 140만 달러 규모의 성과를 달성했다. 특히 ㈜예스코리아는 베트남... lead to concrete export contracts and increased revenue.” 원본 기사 보기:브레이크뉴스 대구 경북",
+      "url": "http://www.breaknews.com/1249996",
+      "date": "Wed, 11 Nov 2026 07:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newsfarm.co.kr/news/articleView.html?idxno=102914": {
+      "title": "대동 , 새만금 '로봇 팜 팩토리' 사업화 논의",
+      "summary": "원유현 대동 그룹 부회장, 박지원 더불어민주당 의원, 이원택 전북특별자치도지사, 정성주 김제시장 등이 간담회 후 기념 사진을 촬영하고 있다. 대동 (공동대표 김준식·원유현)이 전북특별자치도·김제시·현대차그룹...",
+      "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102914",
+      "date": "Wed, 11 Nov 2026 02:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=403283": {
+      "title": "에코프로 비엠, 인니 투자법인 지분 99.9% 확보 추진",
+      "summary": "에코프로 비엠(247540)이 인도네시아 종속회사 PT ECOPRO BNSI INVESTMENT에 6271억원을 출자해 지분율을 99.9%로 높이는 방안을 추진한다. 금융감독원 전자공시시스템(DART)에 10일 제출한 타법인 주식 및 출자증권...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=403283",
+      "date": "Wed, 11 Nov 2026 00:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsis.com/view/NISX20261110_0003862713": {
+      "title": "장인화 '트리플 코어' 결실… 포스코 그룹, 전남광주 대규모 투자로 에너...",
+      "summary": "포스코 그룹이 전남광주통합특별시(전남광주)에 국내 기업 가운데 최대 규모의 투자를 단행하며 핵심 자원 공급망을 지속 강화하고 있다. 장인화 포스코 그룹 회장이 주도해 온 트리플 코어(산업 자원, 전략 자원...",
+      "url": "https://www.newsis.com/view/NISX20261110_0003862713",
+      "date": "Wed, 11 Nov 2026 05:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newsbrite.net/news/articleView.html?idxno=201388": {
+      "title": "포스코 인터, 그룹 미래성장 거점 '광양 제2 LNG터미널' 준공",
+      "summary": "장인화 포스코 그룹 회장이 광양 제2 LNG터미널 준공식에서 기념사를 하고 있다.준공식에 참석한 이기연... 장인화 포스코 그룹 회장, 이계인 포스코 인터내셔널 사장, 김준 포스코 인터내셔널 노조위원장, 이희근 포스코 ...",
+      "url": "http://www.newsbrite.net/news/articleView.html?idxno=201388",
+      "date": "Tue, 10 Nov 2026 23:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc0t3ajBqMVotOGYyc2VSR2FEeTgtSzV5MzE2OVp5Zk9ETlJKbmlBTFNXWlNjRWtUenVHSEw2UC1pX200cnFWOTBWRklYaktEWlMyU3NONVQ3VVNiZ3RfZ3ZkZ3VDVjI4TTdQTF8tQQ?oc=5": {
+      "title": "경상북도, 산불 피해 \" 제이오푸드 \" , 595일 만에 안동 신공장 준공 밝혀 !! - 내외일보",
+      "summary": "경상북도, 산불 피해 \" 제이오푸드 \" , 595일 만에 안동 신공장 준공 밝혀 !! 내외일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc0t3ajBqMVotOGYyc2VSR2FEeTgtSzV5MzE2OVp5Zk9ETlJKbmlBTFNXWlNjRWtUenVHSEw2UC1pX200cnFWOTBWRklYaktEWlMyU3NONVQ3VVNiZ3RfZ3ZkZ3VDVjI4TTdQTF8tQQ?oc=5",
+      "date": "Tue, 10 Nov 2026 14:51:51 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SN3FLSGw0enprSUFwZVJ1dV9VTGVoWFZwSi1hMmpJUHhNMFRlaGVhMUF0bnZNQllxM2tlRmhINzZRUTZGTmZIY1VHMHF3dTVLU0dnQW5xWGZncXdjLWZkYXhscGVkM2lJ?oc=5": {
+      "title": "경북 학교급식교육관 상주에 건립..내후년 개관 - 안동MBC",
+      "summary": "경북 학교급식교육관 상주에 건립..내후년 개관 안동MBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SN3FLSGw0enprSUFwZVJ1dV9VTGVoWFZwSi1hMmpJUHhNMFRlaGVhMUF0bnZNQllxM2tlRmhINzZRUTZGTmZIY1VHMHF3dTVLU0dnQW5xWGZncXdjLWZkYXhscGVkM2lJ?oc=5",
+      "date": "Tue, 10 Nov 2026 16:03:57 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZQllJdjN6M2VVaXJsMG5EYkNfRFIycUpQajEyazlGR2k4UlVCVmVZVGZWeU1PaDZqQXhZMmxCRGlZaHpjOE1zb29sM0tQUzJTZEh1cTFZS0RBVENNbmRaRkV3TGtoR2xtd2Q00gFrQVVfeXFMT1lCWUl2M3ozZVVpcmwwbkRiQ19EUjJxSlBqMTJrOUZHaThSVUJWZVlUZlZ5TU9oNmpBeFkybEJEaVloemM4TXNvb2wzS1BTMlNkSHVxMVlLREFUQ01uZFpGRXdMa2hHbG13ZDQ?oc=5": {
+      "title": "산불 피해 딛고 다시 선 제이오푸드, 안동 풍산읍에 신공장 준공 - 서울매일신문",
+      "summary": "산불 피해 딛고 다시 선 제이오푸드, 안동 풍산읍에 신공장 준공 서울매일신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZQllJdjN6M2VVaXJsMG5EYkNfRFIycUpQajEyazlGR2k4UlVCVmVZVGZWeU1PaDZqQXhZMmxCRGlZaHpjOE1zb29sM0tQUzJTZEh1cTFZS0RBVENNbmRaRkV3TGtoR2xtd2Q00gFrQVVfeXFMT1lCWUl2M3ozZVVpcmwwbkRiQ19EUjJxSlBqMTJrOUZHaThSVUJWZVlUZlZ5TU9oNmpBeFkybEJEaVloemM4TXNvb2wzS1BTMlNkSHVxMVlLREFUQ01uZFpGRXdMa2hHbG13ZDQ?oc=5",
+      "date": "Tue, 10 Nov 2026 14:18:18 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a0wwX0x1Zk9OcXVSeW50S1NDcnYwbklqWWRmemp1b21XaERjbmRhRFVFbFFkNlZvSEhWZDhSMHJGZDNBV0IycUllNUIwQUN4MUVQNGh2MTZMLWJBb0sxZ1JYYlRpSXIzQ3RKcGw4dzFNaFZFOXR3aUdzRGtmUQ?oc=5": {
+      "title": "구미시, 박정희 생가 재단 설립·역사자료관 제2관 건립 추진 - 경북문화신문",
+      "summary": "구미시, 박정희 생가 재단 설립·역사자료관 제2관 건립 추진 경북문화신문",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a0wwX0x1Zk9OcXVSeW50S1NDcnYwbklqWWRmemp1b21XaERjbmRhRFVFbFFkNlZvSEhWZDhSMHJGZDNBV0IycUllNUIwQUN4MUVQNGh2MTZMLWJBb0sxZ1JYYlRpSXIzQ3RKcGw4dzFNaFZFOXR3aUdzRGtmUQ?oc=5",
+      "date": "Tue, 10 Nov 2026 18:41:21 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
-    "https://news.tvchosun.com/site/data/html_dir/2026/11/10/2026111090016.html": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.ajunews.com/view/20261110014728837": "2026-11-10T08:02:02.578233+09:00",
-    "http://www.srtimes.kr/news/articleView.html?idxno=217125": "2026-11-10T08:02:02.578233+09:00",
-    "https://biz.chosun.com/stock/stock_general/2026/11/10/3LJOXPKAP5EZJHT6POWFG32EGY/": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.hankyung.com/article/2026111062686": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.etoday.co.kr/news/view/2646013": "2026-11-10T08:02:02.578233+09:00",
-    "https://realty.chosun.com/site/data/html_dir/2026/11/10/2026111000429.html": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.fetv.co.kr/news/articleView.html?idxno=313362": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.huffingtonpost.kr/article/261903": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=237649": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.dailian.co.kr/news/view/1712786/?sc=Naver": "2026-11-10T08:02:02.578233+09:00",
-    "http://www.newskr.kr/news/articleView.html?idxno=107826": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.ajunews.com/view/20261110012443834": "2026-11-10T08:02:02.578233+09:00",
-    "https://www.g-enews.com/view.php?ud=202611091311091734e30fcb1ba8_1": "2026-11-10T08:02:02.578233+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wRENRS05FdEVPNGp0Nl9WOThvUWJaN0FEby1DclJ6eXBxX09nZVJRTDdsYUlDRnhCM1VSRGpQSFpwazhPeXlJS2ZJSWF1aUZ0MV9ORUl4WG9ZdGYtUWFYOURuM2VNUHpsZFl3?oc=5": "2026-11-10T08:02:02.578233+09:00",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BNGNLaXkxX0lFeGlEdmxyazkzeG1YVUNENHA0WHBWaFRVRElqVUR4ZS1NVnVRM3h0aWU1RW1iRkFBTkJueEczMFR6aXhkVmVzbjIwbDlDWjJEbG1ncUlmQ2Zrd3RrN0ZkNzU3ZFNxNmltbFE?oc=5": "2026-11-10T08:02:02.578233+09:00",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NVmRlUW9OMHpDNldpY2tybU9OTWRfVkZPVzMyR3ZvYm4ydVRHLWtJVDFnZkhRa0FPR2pPTHF0Mjc1dEJ3WEl0bWVSZE5vOVhKMmFkRHVVSldsN0REXzRzZ1NkUQ?oc=5": "2026-11-10T08:02:02.578233+09:00",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qSXBnTEZ4bmFiTFRocDNxRjhzMThwMTlWb1FJVzRmd1hhWFhGZzVRRU5jY1pUMjJvT0pjb1lPbVB2NHZrckRfU3U3MFlwM0hlbmlkc1QwWi1hR0NxWEFpUlJFa2duRGVRY3N6VQ?oc=5": "2026-11-10T08:02:02.578233+09:00",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQazhjXzNjYmtWd3dubmc2ZlFObGdjRzJJQmM0NkpDX3pjSzBQNlNrSWVqUXZSSDVBMUFGSHFnOGoza0VzTHROSXlFU0hjS09hdWFDdjRSbk44LWdkYTJCUnlUeHExS0NUdU5hZy1lNVRYNldadW5oY01XWENhekI3c9IBlAFBVV95cUxPbGJ6TkR3SEtSZGRiLW9qSWtXQkNCVk1FWnB0b3JRdlZ3UFNjV1Q1NS1KOU1VVzMydE1qM0ljaF9PRk9UUWVZOHRGNEVKRVFzX0R0Y1NwVDZYY2ljYm42RF8zODlLVWM2ZElub3VCOUhISDJ0ck15bGlDY2lMYlBzWTdYQnYzNVg2RmJLZGp3dGZpRksy?oc=5": "2026-11-10T08:02:02.578233+09:00"
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc0t3ajBqMVotOGYyc2VSR2FEeTgtSzV5MzE2OVp5Zk9ETlJKbmlBTFNXWlNjRWtUenVHSEw2UC1pX200cnFWOTBWRklYaktEWlMyU3NONVQ3VVNiZ3RfZ3ZkZ3VDVjI4TTdQTF8tQQ?oc=5": "2026-11-11T08:01:55.438524+09:00",
+    "http://www.breaknews.com/1249996": "2026-11-11T08:01:55.438524+09:00",
+    "https://www.newsis.com/view/NISX20261110_0003862713": "2026-11-11T08:01:55.438524+09:00",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a0wwX0x1Zk9OcXVSeW50S1NDcnYwbklqWWRmemp1b21XaERjbmRhRFVFbFFkNlZvSEhWZDhSMHJGZDNBV0IycUllNUIwQUN4MUVQNGh2MTZMLWJBb0sxZ1JYYlRpSXIzQ3RKcGw4dzFNaFZFOXR3aUdzRGtmUQ?oc=5": "2026-11-11T08:01:55.438524+09:00",
+    "http://www.newsfarm.co.kr/news/articleView.html?idxno=102914": "2026-11-11T08:01:55.438524+09:00",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SN3FLSGw0enprSUFwZVJ1dV9VTGVoWFZwSi1hMmpJUHhNMFRlaGVhMUF0bnZNQllxM2tlRmhINzZRUTZGTmZIY1VHMHF3dTVLU0dnQW5xWGZncXdjLWZkYXhscGVkM2lJ?oc=5": "2026-11-11T08:01:55.438524+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=403283": "2026-11-11T08:01:55.438524+09:00",
+    "http://www.newsbrite.net/news/articleView.html?idxno=201388": "2026-11-11T08:01:55.438524+09:00"
   },
   "brief_titles": {
-    "9a4edc35e617498ab7180bf6f9da5876f5e4ab2043f469650a1bbb5a777d334e": "2026-11-10T08:02:02.578233+09:00",
-    "d2bde10af4cd8cc5a367aed42ca6556d26237963ccfce18fd03cf71a19cb0acc": "2026-11-10T08:02:02.578233+09:00",
-    "cb06d11f343fbb4f50b256fb100a15f6abcb25a130e0f1e90f9495d51f36be89": "2026-11-10T08:02:02.578233+09:00",
-    "92047cae3c91049ed56f8b6d900b297eec72fdc6896b900f58f2e6ec4bb5328c": "2026-11-10T08:02:02.578233+09:00",
-    "ba3400a3e4a9e27f363940b11fa9950d090683d570367365601e91e0f00a5513": "2026-11-10T08:02:02.578233+09:00",
-    "de8ff568c03c32f78d785d0b343cc6aba3505986eb3b8801ba3470ada3dfe967": "2026-11-10T08:02:02.578233+09:00",
-    "729596c3ede385e05056e5617b4ffbc5ed456052aa3fd6513fcf28f3f2675da5": "2026-11-10T08:02:02.578233+09:00",
-    "7bee5d42ec15551b832b208b06204d9746cd229127418bbf80897fa0f05d23c6": "2026-11-10T08:02:02.578233+09:00",
-    "11a738ce0457d2fc0d96fc58429c64402b1e40c9717046e413986ed13f63a83b": "2026-11-10T08:02:02.578233+09:00",
-    "f689bc251c574cde3fdd092fae3b2a95165bae843669b0bfa2dbd256a2c634fc": "2026-11-10T08:02:02.578233+09:00",
-    "a56330bab5c9889289e2259926a31afece74e8e35eb9dfcc23aed2b0fb7d94ee": "2026-11-10T08:02:02.578233+09:00",
-    "4b3d8b4af923e70345c63b1c8244668eccf6ac5148eb68cf6f8efa52e057f09d": "2026-11-10T08:02:02.578233+09:00",
-    "2fd111ee0470c777d7ff75e42c0e63f3687a01021b379e89d1f14c85ac52bba6": "2026-11-10T08:02:02.578233+09:00",
-    "70978bfd03d182d42f8de824ad103d02de026a39de364465abd06f5eea22055c": "2026-11-10T08:02:02.578233+09:00",
-    "0206a8de91febddd8d8a29b0f6e792c2cb8489c8a28cdf8e54b00dfe1202cc92": "2026-11-10T08:02:02.578233+09:00",
-    "c225fadd762533292391266cd7ad55f45d4ddd5e4ff3df3ace7b0cd38349e523": "2026-11-10T08:02:02.578233+09:00",
-    "263da1949a4b19be0e1815141d1abaaa9b1fd933af1112bf15173f06eee7e8f0": "2026-11-10T08:02:02.578233+09:00",
-    "85932c4b312c30e77d82808471ff7b4ffd0746bfb10ecbb31e1c0ca452f5a051": "2026-11-10T08:02:02.578233+09:00",
-    "0413953560605c3b7acf1e81e5ce59bf01260753483d24bc05aafdadaae1691f": "2026-11-10T08:02:02.578233+09:00"
+    "fd4beaaef85cfbafdc8fe2989b3a04bbe995995f168eefd6b148ecf9b4be21a5": "2026-11-11T08:01:55.438524+09:00",
+    "98005e40594ec8b966cab0738e650ec4e6f03be9a33507b55ba07797332fad83": "2026-11-11T08:01:55.438524+09:00",
+    "73fc681cda11791554aac2a706ea584c093f5bb0f6c2fea2e76cd99d56f09b05": "2026-11-11T08:01:55.438524+09:00",
+    "372ff6ab7459fd648019c753d8b8736cafde21061919776a69d522cf530a415b": "2026-11-11T08:01:55.438524+09:00",
+    "5821d62844db5f7351b85cb8f5e3931d8591f87363d6e1c78a747000a3765779": "2026-11-11T08:01:55.438524+09:00",
+    "3b597e7b0ccc2b7a71e2436659ad6ad263b275485e9dcceb952d3be825b6f19c": "2026-11-11T08:01:55.438524+09:00",
+    "8f15104e207da7ff727cb64c70b7fa5de6beb922ba84f19c86c93f804b5adfae": "2026-11-11T08:01:55.438524+09:00",
+    "9808399c4fe491231f2cf767838e23e3c6a81f3ad159f5ecf3221e2d5a2c1fd2": "2026-11-11T08:01:55.438524+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-10",
+  "brief_date": "2026-11-11",
   "sent_articles": [
     {
       "url": "http://www.datanews.co.kr/news/article.html?no=147230",
@@ -10938,110 +10929,55 @@
   ],
   "brief_articles": [
     {
-      "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/10/2026111090016.html",
-      "title": "국감 증인채택 거래 의혹…한화· 포스코 서 기금 약속 받자 증인 철회",
-      "date": "Tue, 10 Nov 2026 07:52:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc0t3ajBqMVotOGYyc2VSR2FEeTgtSzV5MzE2OVp5Zk9ETlJKbmlBTFNXWlNjRWtUenVHSEw2UC1pX200cnFWOTBWRklYaktEWlMyU3NONVQ3VVNiZ3RfZ3ZkZ3VDVjI4TTdQTF8tQQ?oc=5",
+      "title": "경상북도, 산불 피해 \" 제이오푸드 \" , 595일 만에 안동 신공장 준공 밝혀 !! - 내외일보",
+      "date": "Tue, 10 Nov 2026 14:51:51 GMT"
     },
     {
-      "url": "https://www.ajunews.com/view/20261110014728837",
-      "title": "산불 피해 제이오푸드, 595일 만에 안동 신 공장 준공",
-      "date": "Tue, 10 Nov 2026 05:02:00 +0900"
+      "url": "http://www.breaknews.com/1249996",
+      "title": "상주시 무역사절단, 동남아 시장서 400만 달러 규모 수출 성과 거둬",
+      "date": "Wed, 11 Nov 2026 07:36:00 +0900"
     },
     {
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=217125",
-      "title": "\"잠정합의안 부결에 휘청\"…포스코 노조, 재교섭 실무 조율 착수",
-      "date": "Tue, 10 Nov 2026 07:50:00 +0900"
+      "url": "https://www.newsis.com/view/NISX20261110_0003862713",
+      "title": "장인화 '트리플 코어' 결실… 포스코 그룹, 전남광주 대규모 투자로 에너...",
+      "date": "Wed, 11 Nov 2026 05:00:00 +0900"
     },
     {
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/10/3LJOXPKAP5EZJHT6POWFG32EGY/",
-      "title": "하나證 “ 에코프로 비엠, 8개 분기 만에 적자 전망…목표가 27% 하향”",
-      "date": "Tue, 10 Nov 2026 07:35:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a0wwX0x1Zk9OcXVSeW50S1NDcnYwbklqWWRmemp1b21XaERjbmRhRFVFbFFkNlZvSEhWZDhSMHJGZDNBV0IycUllNUIwQUN4MUVQNGh2MTZMLWJBb0sxZ1JYYlRpSXIzQ3RKcGw4dzFNaFZFOXR3aUdzRGtmUQ?oc=5",
+      "title": "구미시, 박정희 생가 재단 설립·역사자료관 제2관 건립 추진 - 경북문화신문",
+      "date": "Tue, 10 Nov 2026 18:41:21 GMT"
     },
     {
-      "url": "https://www.hankyung.com/article/2026111062686",
-      "title": "\" 에코프로 비엠, 4분기 적자전환할 우려돼…목표가↓\"-하나",
-      "date": "Tue, 10 Nov 2026 07:28:00 +0900"
+      "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102914",
+      "title": "대동 , 새만금 '로봇 팜 팩토리' 사업화 논의",
+      "date": "Wed, 11 Nov 2026 02:06:00 +0900"
     },
     {
-      "url": "https://www.etoday.co.kr/news/view/2646013",
-      "title": "하나증권 \" 에코프로 비엠, 4분기 적자 전환 불가피…목표가 26%↓\"",
-      "date": "Tue, 10 Nov 2026 07:26:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SN3FLSGw0enprSUFwZVJ1dV9VTGVoWFZwSi1hMmpJUHhNMFRlaGVhMUF0bnZNQllxM2tlRmhINzZRUTZGTmZIY1VHMHF3dTVLU0dnQW5xWGZncXdjLWZkYXhscGVkM2lJ?oc=5",
+      "title": "경북 학교급식교육관 상주에 건립..내후년 개관 - 안동MBC",
+      "date": "Tue, 10 Nov 2026 16:03:57 GMT"
     },
     {
-      "url": "https://realty.chosun.com/site/data/html_dir/2026/11/10/2026111000429.html",
-      "title": "대기업대출 늘려도 순익 역성장…황병우號 iM 금융, 연임 앞두고 '수익성...",
-      "date": "Tue, 10 Nov 2026 07:08:00 +0900"
+      "url": "https://www.vegannews.co.kr/news/article.html?no=403283",
+      "title": "에코프로 비엠, 인니 투자법인 지분 99.9% 확보 추진",
+      "date": "Wed, 11 Nov 2026 00:46:00 +0900"
     },
     {
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=313362",
-      "title": "[인사 나침반] 천병규 iM금융 CFO, 자본관리 성과 힘입어 재신임 이어갈...",
-      "date": "Tue, 10 Nov 2026 07:00:00 +0900"
-    },
-    {
-      "url": "https://www.huffingtonpost.kr/article/261903",
-      "title": "[영상] 에코프로 유상증자·전고체 승부수 던졌다, '밸류 논란' 딛고 재...",
-      "date": "Tue, 10 Nov 2026 07:00:00 +0900"
-    },
-    {
-      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237649",
-      "title": "포스코 노조 잠정합의안 부결 '어닝 서프라이즈' 때문?",
-      "date": "Tue, 10 Nov 2026 06:34:00 +0900"
-    },
-    {
-      "url": "https://www.dailian.co.kr/news/view/1712786/?sc=Naver",
-      "title": "'수사권·공소취소 논란' 조작기소 특검에 민주당 휘청…여론 분열 조짐",
-      "date": "Tue, 10 Nov 2026 06:00:00 +0900"
-    },
-    {
-      "url": "http://www.newskr.kr/news/articleView.html?idxno=107826",
-      "title": "현대건설, 반복 사망사고 28건…전국 현장 감독 대상 오른 뒤에도 사망...",
-      "date": "Tue, 10 Nov 2026 06:00:00 +0900"
-    },
-    {
-      "url": "https://www.ajunews.com/view/20261110012443834",
-      "title": "포항 시, 미국 한남체인과 수출 협약…북미 유통망 확대",
-      "date": "Tue, 10 Nov 2026 05:02:00 +0900"
-    },
-    {
-      "url": "https://www.g-enews.com/view.php?ud=202611091311091734e30fcb1ba8_1",
-      "title": "[K금융 리더] iM금융 취임 2년 반 만에 전국구 은행 이끈 황병우… 연임...",
-      "date": "Tue, 10 Nov 2026 05:00:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wRENRS05FdEVPNGp0Nl9WOThvUWJaN0FEby1DclJ6eXBxX09nZVJRTDdsYUlDRnhCM1VSRGpQSFpwazhPeXlJS2ZJSWF1aUZ0MV9ORUl4WG9ZdGYtUWFYOURuM2VNUHpsZFl3?oc=5",
-      "title": "포스코이앤씨, 상계3구역 수주 앞두고 '더샵 상계원' 상표 출원 - 뉴스저널리즘",
-      "date": "Mon, 09 Nov 2026 17:15:28 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BNGNLaXkxX0lFeGlEdmxyazkzeG1YVUNENHA0WHBWaFRVRElqVUR4ZS1NVnVRM3h0aWU1RW1iRkFBTkJueEczMFR6aXhkVmVzbjIwbDlDWjJEbG1ncUlmQ2Zrd3RrN0ZkNzU3ZFNxNmltbFE?oc=5",
-      "title": "김천시, 베트남·태국 수출상담회 개최… 해외 판로 확대 - 동방일보",
-      "date": "Mon, 09 Nov 2026 15:22:07 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NVmRlUW9OMHpDNldpY2tybU9OTWRfVkZPVzMyR3ZvYm4ydVRHLWtJVDFnZkhRa0FPR2pPTHF0Mjc1dEJ3WEl0bWVSZE5vOVhKMmFkRHVVSldsN0REXzRzZ1NkUQ?oc=5",
-      "title": "포항시, 미국 유통업체 한남체인과 수출 협력 MOU…북미 시장 진출 확대 - 시사뉴스",
-      "date": "Mon, 09 Nov 2026 15:06:22 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qSXBnTEZ4bmFiTFRocDNxRjhzMThwMTlWb1FJVzRmd1hhWFhGZzVRRU5jY1pUMjJvT0pjb1lPbVB2NHZrckRfU3U3MFlwM0hlbmlkc1QwWi1hR0NxWEFpUlJFa2duRGVRY3N6VQ?oc=5",
-      "title": "[포스코 임단협⑱] 노조, 쟁의지침 재가동…10일 실무·11일 본교섭 - 페로타임즈",
-      "date": "Mon, 09 Nov 2026 15:00:00 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQazhjXzNjYmtWd3dubmc2ZlFObGdjRzJJQmM0NkpDX3pjSzBQNlNrSWVqUXZSSDVBMUFGSHFnOGoza0VzTHROSXlFU0hjS09hdWFDdjRSbk44LWdkYTJCUnlUeHExS0NUdU5hZy1lNVRYNldadW5oY01XWENhekI3c9IBlAFBVV95cUxPbGJ6TkR3SEtSZGRiLW9qSWtXQkNCVk1FWnB0b3JRdlZ3UFNjV1Q1NS1KOU1VVzMydE1qM0ljaF9PRk9UUWVZOHRGNEVKRVFzX0R0Y1NwVDZYY2ljYm42RF8zODlLVWM2ZElub3VCOUhISDJ0ck15bGlDY2lMYlBzWTdYQnYzNVg2RmJLZGp3dGZpRksy?oc=5",
-      "title": "Hana Securities sees EcoPro BM swing to loss, cuts target price 27% - Chosunbiz",
-      "date": "Mon, 09 Nov 2026 22:34:00 GMT"
+      "url": "http://www.newsbrite.net/news/articleView.html?idxno=201388",
+      "title": "포스코 인터, 그룹 미래성장 거점 '광양 제2 LNG터미널' 준공",
+      "date": "Tue, 10 Nov 2026 23:24:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-11-03": 37,
     "2026-11-04": 14,
     "2026-11-05": 11,
     "2026-11-06": 11,
     "2026-11-07": 5,
     "2026-11-08": 2,
     "2026-11-09": 8,
-    "2026-11-10": 12
+    "2026-11-10": 12,
+    "2026-11-11": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
