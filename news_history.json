@@ -1835,7 +1835,9 @@
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBibUp6LWNnazd1cWV2M2NTRklpcEpxNFJsYnhNSnhsSEtXUzBncXBjTGd1S29pRkc4Q1dDdHNjcWtxTHUtMUszck14di1qSWdLRlFoOVYzd1hmQndPbTBqNGF0b1hQck5xZGt5OHh3QQ?oc=5": "2026-11-10T20:02:00.542407+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=629108": "2026-11-10T20:02:00.542407+09:00",
     "http://www.e-platform.net/news/articleView.html?idxno=106860": "2026-11-10T20:02:00.542407+09:00",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708933&ref=A": "2026-11-10T20:02:00.542407+09:00"
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708933&ref=A": "2026-11-10T20:02:00.542407+09:00",
+    "https://www.starnewskorea.com/business-life/2026/11/10/2026111020340556963": "2026-11-10T21:02:04.950585+09:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNERoTmllcnVuRkJmVVZkblF1UVNINHZMVGpjVW5qZUMzU20xcFN1MHJxaEloUDB6QzIyVWtCSHBkdG9iakk0bDNwcHJDWXNqVHI2MDZWeTlwcnVBN2E1dWtNdk55R1FFS29XRGQ5VGU?oc=5": "2026-11-10T21:02:04.950585+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3173,7 +3175,9 @@
     "c066f9c65bd8184f9ec17a64296d17bcf68c2bab547218566f338dfda41d6e8d": "2026-11-10T20:02:00.542407+09:00",
     "4bf5f1249fe806399fca7a4a011dcde503e0ea86ea775e45cdc019ded39af008": "2026-11-10T20:02:00.542407+09:00",
     "04fd27f3879edebe986ce65fe9f35eb32b508577cb14f98fada4c150bb3ee30c": "2026-11-10T20:02:00.542407+09:00",
-    "a8cea8ed9800f0fa7023ea3cacd580ec9762c28f1f4b6f2fb74b665426de1fcf": "2026-11-10T20:02:00.542407+09:00"
+    "a8cea8ed9800f0fa7023ea3cacd580ec9762c28f1f4b6f2fb74b665426de1fcf": "2026-11-10T20:02:00.542407+09:00",
+    "63c4b0bcd024d665d18c50b0965ec68fcbeb6e2aa859b026d701b52691f8d246": "2026-11-10T21:02:04.950585+09:00",
+    "3b86f05192bed1a05cb10b325c6cc5274ff2722a3d2fb8a4ee35ea7ce653b0ed": "2026-11-10T21:02:04.950585+09:00"
   },
   "pending": {},
   "ai": {
@@ -3188,32 +3192,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.ksmnews.co.kr/news/view.php?idx=628791": {
-      "title": "경북 의성, 첨단 푸드테크 산업 중심지로 도약…455억원 투자 유치",
-      "summary": "있다. 경북 도는 지난 6일 의성바이오푸드밸리에서 미래 식품산업 발전 전략을 발표하고 산업단지 준공을 기념하는 행사를 가졌다. 이날 ㈜씨위드와 오그래 농업회사법인 등 2개 기업과 총 455억원 규모의 투자협약 도...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628791",
-      "date": "Sun, 08 Nov 2026 20:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.cstimes.com/news/articleView.html?idxno=727046": {
-      "title": "한수원, 청정수소 포럼 개최·합천양수 주민 현장견학 시행",
-      "summary": "한국수력원자력 (한수원)이 미국 전력연구소(EPRI) 저탄소자원계획(LCRI) 팀과 손잡고 일산 킨텍스에서 청정수소 국산화와 대용량 생산 방안을 논의하는 장을 마련했다. 이번 행사의 기술적 토대가 된 'EPRI LCRI(Low Carbon...",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=727046",
-      "date": "Sun, 08 Nov 2026 20:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564737": {
       "title": "경북 도, 의성에 식품산업 455억 투자 …신성장 비전 선포",
       "summary": "경북 도는 지난 6일 의성바이오푸드밸리에서 '미래 신성장 산업 비전 선포식'을 열고 도내 첫 식품 전문... 이번 투자협약 에는 ㈜씨위드와 ㈜오그래 농업회사법인이 참여했다. 두 기업은 총 455억원을 투자 해 83명의 신규...",
@@ -7232,6 +7210,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.starnewskorea.com/business-life/2026/11/10/2026111020340556963": {
+      "title": "구속된 대표이사·불리한 콜옵션 계약… 영풍-MBK 의사결정 과정 둘러싼...",
+      "summary": "대구 지검 안동지청은 2024년 9월 23일 박영민 당시 대표이사를 중대재해처벌법 위반 혐의 로, 배상윤 당시 대표이사 겸 석포제련소장을 산업안전보건법 위반 등 혐의 로 구속기소했다. 문제는 회사 경영을 책임지는...",
+      "url": "https://www.starnewskorea.com/business-life/2026/11/10/2026111020340556963",
+      "date": "Tue, 10 Nov 2026 20:39:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNERoTmllcnVuRkJmVVZkblF1UVNINHZMVGpjVW5qZUMzU20xcFN1MHJxaEloUDB6QzIyVWtCSHBkdG9iakk0bDNwcHJDWXNqVHI2MDZWeTlwcnVBN2E1dWtNdk55R1FFS29XRGQ5VGU?oc=5": {
+      "title": "에코프로비엠 3분기 영업이익 120억…전년比 76% 급감 - 리드경제",
+      "summary": "에코프로비엠 3분기 영업이익 120억…전년比 76% 급감 리드경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNERoTmllcnVuRkJmVVZkblF1UVNINHZMVGpjVW5qZUMzU20xcFN1MHJxaEloUDB6QzIyVWtCSHBkdG9iakk0bDNwcHJDWXNqVHI2MDZWeTlwcnVBN2E1dWtNdk55R1FFS29XRGQ5VGU?oc=5",
+      "date": "Tue, 10 Nov 2026 11:05:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -10773,6 +10777,16 @@
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708933&ref=A",
       "title": "데이터센터 답보에 투자 철회 잇따라… 대구 시 투자 유치 ‘도마’",
       "date": "Tue, 10 Nov 2026 19:05:00 +0900"
+    },
+    {
+      "url": "https://www.starnewskorea.com/business-life/2026/11/10/2026111020340556963",
+      "title": "구속된 대표이사·불리한 콜옵션 계약… 영풍-MBK 의사결정 과정 둘러싼...",
+      "date": "Tue, 10 Nov 2026 20:39:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNERoTmllcnVuRkJmVVZkblF1UVNINHZMVGpjVW5qZUMzU20xcFN1MHJxaEloUDB6QzIyVWtCSHBkdG9iakk0bDNwcHJDWXNqVHI2MDZWeTlwcnVBN2E1dWtNdk55R1FFS29XRGQ5VGU?oc=5",
+      "title": "에코프로비엠 3분기 영업이익 120억…전년比 76% 급감 - 리드경제",
+      "date": "Tue, 10 Nov 2026 11:05:00 GMT"
     }
   ],
   "brief_articles": [
