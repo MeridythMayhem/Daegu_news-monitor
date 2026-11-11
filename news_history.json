@@ -1854,7 +1854,12 @@
     "https://www.tjb.co.kr/news05/bodo/view/id/105937": "2026-11-11T09:02:03.403818+09:00",
     "https://www.safetynews.co.kr/news/articleView.html?idxno=251481": "2026-11-11T10:01:54.523680+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUR6TnFoMlp0M2NsQng3bjljdHU1dHRkS3R0cVFRZ0JyX09iM2ljN0lIZGp1UmhTZjFrS1BtMG5ZekVhM0EtdS1lbkIxX0ZvV0xva1FXRk1ZVnZJN3Q2d3pPMEl0WkQ1enpZ?oc=5": "2026-11-11T10:01:54.523680+09:00",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5": "2026-11-11T10:01:54.523680+09:00"
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5": "2026-11-11T10:01:54.523680+09:00",
+    "https://sateconomy.co.kr/news/view/1065576440304883": "2026-11-11T11:02:04.910437+09:00",
+    "https://www.hankyung.com/article/202611119564g": "2026-11-11T11:02:04.910437+09:00",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081998": "2026-11-11T11:02:04.910437+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNW1pTERYeGZnYXI0cV9EcUNKd0R5WEpWa1lXekVSVXBhc18tYlg3ZXVac19Zd0hib19Nc1pBOVVYcDl1RkIxRllmYzdTbGxab2tkN0dYQUZBbGtFcHpXbVE0T1ZZNFZ5Z0U0?oc=5": "2026-11-11T11:02:04.910437+09:00",
+    "https://www.klnews.co.kr/news/articleView.html?idxno=323452": "2026-11-11T11:02:04.910437+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3211,7 +3216,12 @@
     "7975bdeee87b1120655c9b68efd6e49f8ceba83882d8a5cde5f6f446137617c5": "2026-11-11T09:02:03.403818+09:00",
     "39eeac2aac70443e241bdeb55105faf66eeab6aea4cbac8957a07994b8501717": "2026-11-11T10:01:54.523680+09:00",
     "b8d4b5fe0e8c8e720d17da9ee850764427e80c7d4399e36816f6560f5cb785b1": "2026-11-11T10:01:54.523680+09:00",
-    "45c0b185808b79682873ce352392f26d1a6524ee7d61dfb7d8d0e21c39456a93": "2026-11-11T10:01:54.523680+09:00"
+    "45c0b185808b79682873ce352392f26d1a6524ee7d61dfb7d8d0e21c39456a93": "2026-11-11T10:01:54.523680+09:00",
+    "8739043d74d3d4d2c58e356d6cc15c26fd1476999dc0b36457e57a1f216f91d8": "2026-11-11T11:02:04.910437+09:00",
+    "e6ee32840083201a574eb6e2824c881ae3355bff0ee88ada6792bbc21b873aa2": "2026-11-11T11:02:04.910437+09:00",
+    "0209e3287977d65c1d71b91657ba3b56ef1f814bed7bee9a8b645622a08419a7": "2026-11-11T11:02:04.910437+09:00",
+    "74e504e6bb85dc03a89d0726940f2153afbf8d90035035e638b6265acedadda6": "2026-11-11T11:02:04.910437+09:00",
+    "84ae128b6b10b5170bf2a667ea3b451d1977f6177905e05967571f3709fd65d1": "2026-11-11T11:02:04.910437+09:00"
   },
   "pending": {},
   "ai": {
@@ -3222,153 +3232,10 @@
     "2026-11-08": 3,
     "2026-11-09": 11,
     "2026-11-10": 18,
-    "2026-11-11": 3
+    "2026-11-11": 4
   },
   "cursor": 0,
   "archive": {
-    "https://www.tbc.co.kr/news/view?pno=20261109083326AE08182&id=213080": {
-      "title": "경북 도의회, 경북 행복재단 대표 해임·특별감사 요구",
-      "summary": "더불어민주당 정용채 도의원은 지난 6일 도정질문에서 정재훈 대표이사의 직장 내 괴롭힘과 복무 관련 의혹 을 지적하며 경북 도의 관리·감독 책임을 물었습니다. 이에 대해 경상북도는 재단 이사회가 대표 징계를 법원...",
-      "url": "https://www.tbc.co.kr/news/view?pno=20261109083326AE08182&id=213080",
-      "date": "Mon, 09 Nov 2026 10:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://new.dailypharm.com/user/news/344326?REFERER=NP": {
-      "title": "씨위드, 의성에 생산기지 200억 투자 …한우 배양육 공장 추진",
-      "summary": "규모의 투자협약 을 체결했다고 밝혔다. 씨위드는 2030년까지 바이오푸드밸리 내 푸드테크연구지원센터와 산업시설용지에 생산시설을 조성할 계획이다. 경북 도와 의성군은 행정 절차와 재정 지원에 협조하고 연구개발...",
-      "url": "https://new.dailypharm.com/user/news/344326?REFERER=NP",
-      "date": "Mon, 09 Nov 2026 10:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.g-enews.com/view.php?ud=202611090914076219f7ba87f45b_1": {
-      "title": "영천 청년 스타트업 8곳 투자유치 도전…창업지원 성과는 매출·고용에...",
-      "summary": "경북 영천의 청년 스타트업 8곳이 투자유치 역량을 검증받기 위해 기업설명회 무대에 오른다. 영천시... 지난해 대회에서는 과일 나노분말을 활용한 제품 개발과 하천 생태계 보전시설, 농산물 가공식품, 화재 예방 솔루션...",
-      "url": "https://www.g-enews.com/view.php?ud=202611090914076219f7ba87f45b_1",
-      "date": "Mon, 09 Nov 2026 10:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.breaknews.com/1249296": {
-      "title": "포항 영일만3산단 바이오매스 발전소 논란…환경단체 “포항시, 계획 철...",
-      "summary": "포항시가 영일만3 일반 산업단지 에 대규모 목질계 바이오매스 발전시설 설치를... land for biomass power generation projects be denied. 원본 기사 보기:브레이크뉴스 대구경북",
-      "url": "http://www.breaknews.com/1249296",
-      "date": "Mon, 09 Nov 2026 10:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newspim.com/news/view/20261109000393": {
-      "title": "\"600만원 일시금도 부족\"…포스코 노조, 기본급 인상 고집에 협상 원점",
-      "summary": "교대 휴일수당 추가와 상주·정비수당 개선, 배우자와 자녀 를 포함한 의료제도 개선 등도 포함됐다. 노조는... 이를 위해 회사 도 경영여건과 직원들의 정서를 함께 고려해 합의점을 찾겠다는 입장이다. 포스코 관계자는...",
-      "url": "https://www.newspim.com/news/view/20261109000393",
-      "date": "Mon, 09 Nov 2026 10:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.upkoreanews.kr/news/articleView.html?idxno=101042": {
-      "title": "포스코 이앤씨, 2430억원 손익 개선·4.4조원 수주…실적 회복 넘어 성장...",
-      "summary": "3분기 영업손익 2430억원 개선…매출보다 이익 늘린 경영 효율화 포스코홀딩스 의 2026년 3분기 경영실적 발표 자료 등에 따르면 포스코이앤씨는 올해 3분기 연결 기준 매출액 1조7630억원, 영업이익 480억원을 기록했다....",
-      "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=101042",
-      "date": "Mon, 09 Nov 2026 10:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsway.co.kr/news/view?ud=2026110910270550545": {
-      "title": "대우건설 노조 \"체코 원전 시공협상 결렬 한수원 탓...시공권 이관 의혹...",
-      "summary": "한국수력원자력 의 체코 두코바니 신규 원전 시공협상 결렬을 둘러싸고 대우건설 노동조합의 반발이 거세지고 있다. 대우건설이 수천억원의 손실까지 감수하는 최종 수정안을 제시했지만 한수원이 충분한 검토 없이...",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026110910270550545",
-      "date": "Mon, 09 Nov 2026 10:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.tf.co.kr/read/economy/2386295.htm": {
-      "title": "대우건설 노조 \"체코 원전 시공사 교체 미리 계획했나\"…한수원에 의혹...",
-      "summary": "대우건설 노조는 한국수력원자력 이 시공사 교체를 미리 염두에 두고 협상을 진행한 것 아니냐며 해명을 요구하고, 정부 차원의 중재와 재협상을 촉구했다. 심상철 대우건설 노조위원장은 9일 서울 여의도 국회 소통관에서...",
-      "url": "https://news.tf.co.kr/read/economy/2386295.htm",
-      "date": "Mon, 09 Nov 2026 10:35:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFFCcldUcDNjd05Gb191QTQyak43SW9YeF9iZjdwS0Z2WHNOODNTREhlVUVZZG50SEJFd0VEWkJRcXJRYzIwY1o2TFF0c0xRUWhwUDhZUWVXbFBKQTg4R2Z0MTFHWVFIbjliNWxXVUE2OTJ3MUhXbFZ3bDUyVUtvag?oc=5": {
-      "title": "포항시, 미국 유통업체 한남체인과 수출 협력 업무협약 체결 `북미 시장 진출 확대` - CBN뉴스",
-      "summary": "포항시, 미국 유통업체 한남체인과 수출 협력 업무협약 체결 `북미 시장 진출 확대` CBN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFFCcldUcDNjd05Gb191QTQyak43SW9YeF9iZjdwS0Z2WHNOODNTREhlVUVZZG50SEJFd0VEWkJRcXJRYzIwY1o2TFF0c0xRUWhwUDhZUWVXbFBKQTg4R2Z0MTFHWVFIbjliNWxXVUE2OTJ3MUhXbFZ3bDUyVUtvag?oc=5",
-      "date": "Mon, 09 Nov 2026 01:52:39 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XSGlEOVpOeHU3b0EwcDFKQnk3aTlyTFR5STV6azZPYXoybUJBVTJJb1dhaW1VMnc5TW4yQjR6bldQdzd5eVNiamRCV2NDWEIxNzdrN25HV0Z6aEc4RVZQd0ZZNWw3amlSUUE?oc=5": {
-      "title": "대우건설 노조 \"체코 원전 시공협상 결렬 한수원 탓...시공권 이관 의혹도\" - 뉴스웨이",
-      "summary": "대우건설 노조 \"체코 원전 시공협상 결렬 한수원 탓...시공권 이관 의혹도\" 뉴스웨이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XSGlEOVpOeHU3b0EwcDFKQnk3aTlyTFR5STV6azZPYXoybUJBVTJJb1dhaW1VMnc5TW4yQjR6bldQdzd5eVNiamRCV2NDWEIxNzdrN25HV0Z6aEc4RVZQd0ZZNWw3amlSUUE?oc=5",
-      "date": "Mon, 09 Nov 2026 01:39:27 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa1k3UHRzQU5DNG5hczlJYUx4QUhJOHJZaS1wOEF4akpGSzJBeldXM3hfNTU4ZThEaVI2Q2dTWXMzWEo3cUtHRWdrazVSdTIzZU14LS1idUpnaC1zQ3NjTmI5dDI1N0lpRWttUGlkMGVuZURvaHNGNWFRVnZvaHEtQ3dwbC1velFKSjdsRjQ1NlJ2ZTlyclNNWmw4N29kV1BCT0dkeVUtdjIzV2RDLWU1ckZlcGJsbnRaYl9tRE51VWlqQ1lnVHNOdDlkVDZBQUZkckJleGw4SG83UkI3YXRCRjVBZ2RVMVBod3h6UGJBaXhmdlU?oc=5": {
-      "title": "Pursuit Minerals Executes Strategic MOU With Ecopro Innovation For US$40 Million Investment - TradingView",
-      "summary": "Pursuit Minerals Executes Strategic MOU With Ecopro Innovation For US$40 Million Investment TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa1k3UHRzQU5DNG5hczlJYUx4QUhJOHJZaS1wOEF4akpGSzJBeldXM3hfNTU4ZThEaVI2Q2dTWXMzWEo3cUtHRWdrazVSdTIzZU14LS1idUpnaC1zQ3NjTmI5dDI1N0lpRWttUGlkMGVuZURvaHNGNWFRVnZvaHEtQ3dwbC1velFKSjdsRjQ1NlJ2ZTlyclNNWmw4N29kV1BCT0dkeVUtdjIzV2RDLWU1ckZlcGJsbnRaYl9tRE51VWlqQ1lnVHNOdDlkVDZBQUZkckJleGw4SG83UkI3YXRCRjVBZ2RVMVBod3h6UGJBaXhmdlU?oc=5",
-      "date": "Mon, 09 Nov 2026 01:22:00 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.kpinews.kr/newsView/1065579013767692": {
       "title": "포항시, 미국 유통업체 한남체인 USA와 수출 협력 MOU 체결…북미 시장...",
       "summary": "경북 포항시가 캐나다에 이어 미국 서부 대형 유통업체와 손잡고 지역 농수산특산품의 북미 시장 진출... 업무협약( MOU )을 체결했다. [포항시 제공] 포항시는 지난 6일(현지시간) 미국 서부 지역의 대표적인 한인...",
@@ -7452,6 +7319,97 @@
       "category": "해외기업 동향",
       "priority": 50,
       "filter_version": 17
+    },
+    "https://www.klnews.co.kr/news/articleView.html?idxno=323452": {
+      "title": "경산4일반산업단지, 마지막 물류용지…납부조건 대폭 완화해 분양",
+      "summary": "한국산업단지공단(이사장 김대자)이 경북 경산시 진량읍 경산4일반산업단지 물류지원용지 잔여 2필지(약... 건폐율 70%, 용적률 300%가 적용돼 최대 연면적 약 8만9천㎡의 물류시설 건립 이 가능하다. 경산4산단 부지의...",
+      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323452",
+      "date": "Wed, 11 Nov 2026 10:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081998": {
+      "title": "금오공대, 구미 창업 기업 3곳 태국 투자유치 지원",
+      "summary": "국립금오공과대학교가 경북 구미 강소연구개발특구 내 유망 창업 기업 의 해외 투자유치와 글로벌 시장... 확대할 수 있도록 기업 투자유치부터 해외사업화 연계까지 실질적인 지원을 아끼지 않고 있다\"고 말했다. [신아 일보 ]",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081998",
+      "date": "Wed, 11 Nov 2026 10:38:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.hankyung.com/article/202611119564g": {
+      "title": "대표 불참했는데 계약 체결?…고려아연 지분 좌우 '영풍·MBK 계약' 물음...",
+      "summary": "대구 지검 안동지청은 2024년 9월 23일 박 전 대표를 중대재해처벌법 위반 혐의 로, 배 전 대표를 산업안전보건법 위반 등 혐의 로 각각 구속기소했다. 대표이사 2명이 경영활동에 제약을 받던 상황에서 계약 조건을...",
+      "url": "https://www.hankyung.com/article/202611119564g",
+      "date": "Wed, 11 Nov 2026 10:55:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://sateconomy.co.kr/news/view/1065576440304883": {
+      "title": "현대엔지니어링· 포스코 이앤씨, 여수 LNG 복합발전소 핵심설비 계약",
+      "summary": "송치영 포스코 이앤씨 사장, 권명호 한국동서발전 사장, 이승원 현대엔지니어링 에너지사업부장 등이 참석했다. [한국동서발전] 현대엔지니어링과 포스코 이앤씨가 전남 여수 액화천연가스(LNG) 복합발전소 건설을 위한...",
+      "url": "https://sateconomy.co.kr/news/view/1065576440304883",
+      "date": "Wed, 11 Nov 2026 10:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.getnews.co.kr/news/articleView.html?idxno=886729": {
+      "title": "포스코 인터내셔널 광양 제2 LNG터미널 준공‥장인화 회장 \"그룹 미래성...",
+      "summary": "포스코 인터내셔널이 광양 제2 LNG터미널을 지은 것과 관련 장인화 포스코 그룹 회장이 LNG 밸류체인의 완성도 강화를 통한 그룹 미래성장 거점으로 키우겠다는 의지를 나타냈다. 장인화 회장은 포스코 인터내셔널이...",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886729",
+      "date": "Wed, 11 Nov 2026 10:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.gasnews.com/news/articleView.html?idxno=127631": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공···국가 에너지 안보 전초...",
+      "summary": "상공에서 바라본 포스코 인터내셔널 광양 LNG터미널 전경 포스코 인터내셔널(대표 이계인)이 광양 제2 LNG터미널을 종합준공해 포스코 그룹 트리플 코어 전략의 한 축인 에너지자원의 핵심역량을 강화하고 대한민국...",
+      "url": "https://www.gasnews.com/news/articleView.html?idxno=127631",
+      "date": "Wed, 11 Nov 2026 10:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNW1pTERYeGZnYXI0cV9EcUNKd0R5WEpWa1lXekVSVXBhc18tYlg3ZXVac19Zd0hib19Nc1pBOVVYcDl1RkIxRllmYzdTbGxab2tkN0dYQUZBbGtFcHpXbVE0T1ZZNFZ5Z0U0?oc=5": {
+      "title": "포스코퓨처엠, 현대자동차그룹과 ‘맞손’… 베트남 투자 - 광양경제신문",
+      "summary": "포스코퓨처엠, 현대자동차그룹과 ‘맞손’… 베트남 투자 광양경제신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNW1pTERYeGZnYXI0cV9EcUNKd0R5WEpWa1lXekVSVXBhc18tYlg3ZXVac19Zd0hib19Nc1pBOVVYcDl1RkIxRllmYzdTbGxab2tkN0dYQUZBbGtFcHpXbVE0T1ZZNFZ5Z0U0?oc=5",
+      "date": "Wed, 11 Nov 2026 01:20:23 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -11066,6 +11024,31 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5",
       "title": "POSCO DX stock in focus as Q3 operating profit falls 22.2% - ad-hoc-news.de",
       "date": "Wed, 11 Nov 2026 00:39:42 GMT"
+    },
+    {
+      "url": "https://sateconomy.co.kr/news/view/1065576440304883",
+      "title": "현대엔지니어링· 포스코 이앤씨, 여수 LNG 복합발전소 핵심설비 계약",
+      "date": "Wed, 11 Nov 2026 10:56:00 +0900"
+    },
+    {
+      "url": "https://www.hankyung.com/article/202611119564g",
+      "title": "대표 불참했는데 계약 체결?…고려아연 지분 좌우 '영풍·MBK 계약' 물음...",
+      "date": "Wed, 11 Nov 2026 10:55:00 +0900"
+    },
+    {
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081998",
+      "title": "금오공대, 구미 창업 기업 3곳 태국 투자유치 지원",
+      "date": "Wed, 11 Nov 2026 10:38:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNW1pTERYeGZnYXI0cV9EcUNKd0R5WEpWa1lXekVSVXBhc18tYlg3ZXVac19Zd0hib19Nc1pBOVVYcDl1RkIxRllmYzdTbGxab2tkN0dYQUZBbGtFcHpXbVE0T1ZZNFZ5Z0U0?oc=5",
+      "title": "포스코퓨처엠, 현대자동차그룹과 ‘맞손’… 베트남 투자 - 광양경제신문",
+      "date": "Wed, 11 Nov 2026 01:20:23 GMT"
+    },
+    {
+      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323452",
+      "title": "경산4일반산업단지, 마지막 물류용지…납부조건 대폭 완화해 분양",
+      "date": "Wed, 11 Nov 2026 10:16:00 +0900"
     }
   ],
   "brief_articles": [
@@ -11118,7 +11101,7 @@
     "2026-11-08": 2,
     "2026-11-09": 8,
     "2026-11-10": 12,
-    "2026-11-11": 3
+    "2026-11-11": 4
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
