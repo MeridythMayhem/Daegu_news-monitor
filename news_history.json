@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://www.newspim.com/news/view/20261028000894": "2026-10-28T19:02:29.936134+09:00",
-    "https://www.sentv.co.kr/article/view/sentv202610280114": "2026-10-28T19:02:29.936134+09:00",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=246934": "2026-10-28T21:02:03.675150+09:00",
     "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800392.html": "2026-10-28T21:02:03.675150+09:00",
     "https://www.viva100.com/article/20261028501156": "2026-10-29T06:36:58.332937+09:00",
@@ -1081,11 +1079,11 @@
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nNk5CaE9uNDRzMzlqZXdmaXNjZTlsTDdvcFFHUmVmbzdUTV9mbEtNNVlkTkVjWFpBdTRPY250eENHQkUybkdOVHBET0lDVHQxcWQwcWtOTWpkSG42QUZxbA?oc=5": "2026-11-11T19:02:01.931559+09:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSVNkZ0pqOTFYaVJ4aENaaXBfbzlyX3NRRHVRMURpVVZ3aTY2VW5BV2ZMQ0tuWmZNd2RxZ1BUc1Q3RDVHTmluc3c1SURGU1hwWVV1eVV0MWc3NEtVbk1tRg?oc=5": "2026-11-11T19:02:01.931559+09:00",
     "https://www.etoday.co.kr/news/view/2647047": "2026-11-11T19:02:01.931559+09:00",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWFc4ZXhkSzJtdU1aVGpPcExxTGE2eEphT0J6VFdrQkxnREJpZjBNc3Y1cmdJOXhjTjRZX29CLVlHZURZaUJCZjZ5U3hXWHBYaHZMdUpmSzJESjFyRGgwblBnNXo?oc=5": "2026-11-11T19:02:01.931559+09:00"
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWFc4ZXhkSzJtdU1aVGpPcExxTGE2eEphT0J6VFdrQkxnREJpZjBNc3Y1cmdJOXhjTjRZX29CLVlHZURZaUJCZjZ5U3hXWHBYaHZMdUpmSzJESjFyRGgwblBnNXo?oc=5": "2026-11-11T19:02:01.931559+09:00",
+    "http://www.kjdaily.com/article.php?aid=1794393254691982005": "2026-11-11T20:02:00.014501+09:00",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5": "2026-11-11T20:02:00.014501+09:00"
   },
   "titles": {
-    "eccecf9efc3bb816217bab08eb0459d1844ec52f68046ad75fbac5a0a9989f2f": "2026-10-28T19:02:29.936134+09:00",
-    "c3336eca548ced8a570554e5725bbc49048bf3b294bc6f819b33b352b179b1fd": "2026-10-28T19:02:29.936134+09:00",
     "162706ce70ba9139dd6d51bcdcc3910b22259bfd3915b587e516f067a3d69c0b": "2026-10-28T21:02:03.675150+09:00",
     "45b1240566aea0daa85e0049aa6aae2b209d82c1fbfca853b57d727294b3e761": "2026-10-28T21:02:03.675150+09:00",
     "9f08b74fdd99d2b78613a8b340ec187175fd9c682d3757422e43188fedffd7f7": "2026-10-29T06:36:58.332937+09:00",
@@ -2165,7 +2163,9 @@
     "a77e63cc647c5de5c79235474597743f80038de7064830624940947a3d7121ce": "2026-11-11T19:02:01.931559+09:00",
     "4601a67380d71cd3ccf087f478848e5d2cb32acbc655e1318f7a417fef77438e": "2026-11-11T19:02:01.931559+09:00",
     "d6c3a4fd7d9e461f54f701de816ef4817957cc98b5da9742084aa506554883b8": "2026-11-11T19:02:01.931559+09:00",
-    "e4103109a95782ad981230512579b81570bc39c47e8b87c4caf0b1785ded31ed": "2026-11-11T19:02:01.931559+09:00"
+    "e4103109a95782ad981230512579b81570bc39c47e8b87c4caf0b1785ded31ed": "2026-11-11T19:02:01.931559+09:00",
+    "32e7850c36aacc77265d602d7f0fd4a05cbce1c970a0ea7f07daa0d77ba0d81d": "2026-11-11T20:02:00.014501+09:00",
+    "d8d5cadfdb0c48dd79b4e3337e0af10f69939aea3221146aa48821bcdd4c3d8c": "2026-11-11T20:02:00.014501+09:00"
   },
   "pending": {},
   "ai": {
@@ -2189,45 +2189,6 @@
         "domestic"
       ],
       "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090213": {
-      "title": "포항 농수산식품, 미국 대형 유통망 뚫었다…북미 수출 교두보 확보",
-      "summary": "미국으로 이어진 이번 북미 릴레이 MOU 를 통해 포항 농수산물의 우수성을 세계에 알리고, 다각적인 수출 지원을 통해 실질적인 수출계약 확대와 지속적인 수출 성과 창출을 이끌어 내겠다\"고 강한 자신감을 보였다.",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090213",
-      "date": "Mon, 09 Nov 2026 19:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWXU5N3lIYzFmM09NVk5naWJnaW9VRmNFdkpQT3lFdjJybnU0aTZ2VDh4bkN0Wm5YWENJdnJRdnpjXzA2NDJTYmx4MWE1QjBPdUhZcUdPNVlXcmFCaS1VZ3gzc2Y?oc=5": {
-      "title": "김천 기업들 동남아 시장 문 두드렸다…수출협력 20건 성사 - 경북TV",
-      "summary": "김천 기업들 동남아 시장 문 두드렸다…수출협력 20건 성사 경북TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWXU5N3lIYzFmM09NVk5naWJnaW9VRmNFdkpQT3lFdjJybnU0aTZ2VDh4bkN0Wm5YWENJdnJRdnpjXzA2NDJTYmx4MWE1QjBPdUhZcUdPNVlXcmFCaS1VZ3gzc2Y?oc=5",
-      "date": "Mon, 09 Nov 2026 10:42:27 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTZQYXhETHZYQ0tldG81X3JaQTIxTFNYS2JWRTJ4YmNja0M0MU1YQ2VMWVBPekV5UW01M3A2MWotSS1FMEJrTzVJOWNRNzJFaDk3X1FTQzVwX18walVOUEUwQ3Z2WE9mNk5GNl9YQjNZMlFYanZHa2xLMm9lREY3TmRPLWxGcVVwcXFOdDFsUXFPV0VfY0s4Ni1iZkJlbHVzc2J5UkpZTGtQSFFB?oc=5": {
-      "title": "Pursuit Minerals, EcoPro Innovation Sign $40M Rio Grande Sur Lithium MoU - News and Statistics - IndexBox",
-      "summary": "Pursuit Minerals, EcoPro Innovation Sign $40M Rio Grande Sur Lithium MoU - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTZQYXhETHZYQ0tldG81X3JaQTIxTFNYS2JWRTJ4YmNja0M0MU1YQ2VMWVBPekV5UW01M3A2MWotSS1FMEJrTzVJOWNRNzJFaDk3X1FTQzVwX18walVOUEUwQ3Z2WE9mNk5GNl9YQjNZMlFYanZHa2xLMm9lREY3TmRPLWxGcVVwcXFOdDFsUXFPV0VfY0s4Ni1iZkJlbHVzc2J5UkpZTGtQSFFB?oc=5",
-      "date": "Mon, 09 Nov 2026 10:40:58 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 에코프로",
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
@@ -6979,6 +6940,32 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
+    },
+    "http://www.kjdaily.com/article.php?aid=1794393254691982005": {
+      "title": "한수원 “한빛원전 저장시설 건립 정보 공개 강화”",
+      "summary": "한빛원자력발전소 내 사용후핵연료 건식저장시설 건립을 둘러싸고 안전성과 영구화 우려가 이어지는 가운데 한국수력원자력 이 영광에서 주민 공청회를 열었다. 한국수력원자력 은 11일 오후 3시 전남광주통합특별시...",
+      "url": "http://www.kjdaily.com/article.php?aid=1794393254691982005",
+      "date": "Wed, 11 Nov 2026 19:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5": {
+      "title": "에코프로비엠, LFP 본격 참전…수주 속도·캐파 확대 관건 - 지디넷코리아",
+      "summary": "에코프로비엠, LFP 본격 참전…수주 속도·캐파 확대 관건 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5",
+      "date": "Wed, 11 Nov 2026 10:12:14 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -10953,6 +10940,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWFc4ZXhkSzJtdU1aVGpPcExxTGE2eEphT0J6VFdrQkxnREJpZjBNc3Y1cmdJOXhjTjRZX29CLVlHZURZaUJCZjZ5U3hXWHBYaHZMdUpmSzJESjFyRGgwblBnNXo?oc=5",
       "title": "대우건설 노조 \"한수원, 물량 25% 늘리면서 단가는 낮춰…적자 시공 강요\" - 이투데이",
       "date": "Wed, 11 Nov 2026 09:21:00 GMT"
+    },
+    {
+      "url": "http://www.kjdaily.com/article.php?aid=1794393254691982005",
+      "title": "한수원 “한빛원전 저장시설 건립 정보 공개 강화”",
+      "date": "Wed, 11 Nov 2026 19:40:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5",
+      "title": "에코프로비엠, LFP 본격 참전…수주 속도·캐파 확대 관건 - 지디넷코리아",
+      "date": "Wed, 11 Nov 2026 10:12:14 GMT"
     }
   ],
   "brief_articles": [
