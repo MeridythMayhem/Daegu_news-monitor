@@ -1081,7 +1081,12 @@
     "https://www.etoday.co.kr/news/view/2647047": "2026-11-11T19:02:01.931559+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWFc4ZXhkSzJtdU1aVGpPcExxTGE2eEphT0J6VFdrQkxnREJpZjBNc3Y1cmdJOXhjTjRZX29CLVlHZURZaUJCZjZ5U3hXWHBYaHZMdUpmSzJESjFyRGgwblBnNXo?oc=5": "2026-11-11T19:02:01.931559+09:00",
     "http://www.kjdaily.com/article.php?aid=1794393254691982005": "2026-11-11T20:02:00.014501+09:00",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5": "2026-11-11T20:02:00.014501+09:00"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5": "2026-11-11T20:02:00.014501+09:00",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205405&mode=view": "2026-11-11T21:01:42.456708+09:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TGs5UEw4Sl9aTkllaW9Ta1NHQmxnN0NZRC01RklHWDdzWlZFeC1leVhHVDFHbnFiNndjYXZVdEpqUEN3YlZ3Vml4VlZBeXBScGZpRWowVFIyRjI4NUpEcGtMNXdvMjdJLWpKNlln?oc=5": "2026-11-11T21:01:42.456708+09:00",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=748277": "2026-11-11T21:01:42.456708+09:00",
+    "https://www.imaeil.com/page/view/2026111120193758504": "2026-11-11T21:01:42.456708+09:00",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ya1pHc0F3UTRTMm9rRW9RTGtFYWlPMTFBZFViZVBvZXQ5Yk4yYWhScFBkdktxaUgyMmlaSkE0LVdQX2VLc3I1RHN5NERfbHVZUU43VVl6cGZwWlZCdzgxODNB?oc=5": "2026-11-11T21:01:42.456708+09:00"
   },
   "titles": {
     "162706ce70ba9139dd6d51bcdcc3910b22259bfd3915b587e516f067a3d69c0b": "2026-10-28T21:02:03.675150+09:00",
@@ -2165,7 +2170,12 @@
     "d6c3a4fd7d9e461f54f701de816ef4817957cc98b5da9742084aa506554883b8": "2026-11-11T19:02:01.931559+09:00",
     "e4103109a95782ad981230512579b81570bc39c47e8b87c4caf0b1785ded31ed": "2026-11-11T19:02:01.931559+09:00",
     "32e7850c36aacc77265d602d7f0fd4a05cbce1c970a0ea7f07daa0d77ba0d81d": "2026-11-11T20:02:00.014501+09:00",
-    "d8d5cadfdb0c48dd79b4e3337e0af10f69939aea3221146aa48821bcdd4c3d8c": "2026-11-11T20:02:00.014501+09:00"
+    "d8d5cadfdb0c48dd79b4e3337e0af10f69939aea3221146aa48821bcdd4c3d8c": "2026-11-11T20:02:00.014501+09:00",
+    "4a75dba9cdb53e9971be5962fc60516005182e1416fe19a880132b6e58cd8de3": "2026-11-11T21:01:42.456708+09:00",
+    "296ce6bb38f4bd0ed41c1308e0c7a008994e85c0f86eac5ffb4df6d2f209170e": "2026-11-11T21:01:42.456708+09:00",
+    "f5930d5cd9f474134b38e9fa52f5aa2c9807f589cf30a7d761f023492f688327": "2026-11-11T21:01:42.456708+09:00",
+    "23ce865de1a71cd846561338c09ba20cad60bd78c1004b2848d96bc4f1a82cd6": "2026-11-11T21:01:42.456708+09:00",
+    "ca85d773ed05a78f7c6332da16e6ab98622b5a0eb76be5b1cac79f1b8aaf6ebc": "2026-11-11T21:01:42.456708+09:00"
   },
   "pending": {},
   "ai": {
@@ -2191,58 +2201,6 @@
       "basis": "관심기업: 포스코이앤씨",
       "category": "경제·투자",
       "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.yeongnam.com/web/view.php?key=20261109020469378": {
-      "title": "부동산 공실이 되레 호재로…대구 2차 공공기관 이전 ‘임시청사’가 막...",
-      "summary": "영남일보 DB> 정부의 2차 공공기관 지방이전이 초읽기에 접어들면서 이전기관의 임시청사 수용 능력이... 부동산 침체로 부담이었던 공실이 되레 호재로 작용하고 있는 셈이다. 9일 대구시 등에 따르면, 정부는 2차...",
-      "url": "https://www.yeongnam.com/web/view.php?key=20261109020469378",
-      "date": "Mon, 09 Nov 2026 20:36:00 +0900",
-      "channels": [
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
-      "filter_version": 17
-    },
-    "https://www.dkilbo.com/news/articleView.html?idxno=560152": {
-      "title": "포항 시, 미국 한남체인과 맞손…농수산특산품 수출 확대",
-      "summary": "▲ 포항 시는 지난 6일(현지시간) 미국 서부 지역의 대표적인 한인 유통업체인 한남체인 USA와 포항 농수산특산품의 미주 시장 진출 확대를 위한 업무협약( MOU )을 체결했다. 포항 시 제공 포항 시가 캐나다에 이어 미국 대형...",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=560152",
-      "date": "Mon, 09 Nov 2026 20:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRXRQMV81QTMyVzZOWHVLbW9FVnprLTVITWNkTl9uXzJSUEtlRmlCS1hnQkZVWWU4SlRjOXoxRFlxcEZBaDFubXZ1aDdISFU0ZC16ZGx3Zy1oQmtSeXZNSlFtSlU?oc=5": {
-      "title": "수년째 빈집·공터...대구, 장기 미착공 '재개발·재건축' 77곳 '안전' 사각지대 - 평화뉴스",
-      "summary": "수년째 빈집·공터...대구, 장기 미착공 '재개발·재건축' 77곳 '안전' 사각지대 평화뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRXRQMV81QTMyVzZOWHVLbW9FVnprLTVITWNkTl9uXzJSUEtlRmlCS1hnQkZVWWU4SlRjOXoxRFlxcEZBaDFubXZ1aDdISFU0ZC16ZGx3Zy1oQmtSeXZNSlFtSlU?oc=5",
-      "date": "Mon, 09 Nov 2026 11:51:57 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE80eW5DWXpMdHdaQmRGRDhFdXlGZ1pfNTkzaWVkUTYzbDVBVEI0ZHpjRkxMR1VaS0paTmVZd3piRGRIM0ZPQ0dISTJaQjJLY2xyQkdXUUlyVTFLTzI0anpSbEpDMDlFdkZtcFRXSl9tZWhQc2Zf?oc=5": {
-      "title": "POSCO Union Rejects Wage Deal with Re-strike Looming - Businesskorea",
-      "summary": "POSCO Union Rejects Wage Deal with Re-strike Looming Businesskorea",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80eW5DWXpMdHdaQmRGRDhFdXlGZ1pfNTkzaWVkUTYzbDVBVEI0ZHpjRkxMR1VaS0paTmVZd3piRGRIM0ZPQ0dISTJaQjJLY2xyQkdXUUlyVTFLTzI0anpSbEpDMDlFdkZtcFRXSl9tZWhQc2Zf?oc=5",
-      "date": "Mon, 09 Nov 2026 11:15:21 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
       "filter_version": 17
     },
     "http://www.newstown.co.kr/news/articleView.html?idxno=721298": {
@@ -6966,6 +6924,71 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.imaeil.com/page/view/2026111120193758504": {
+      "title": "대구 경북녹색연합 \"신공항 초기 재원 확보 난항... 대구 시 신청사 건립 ,...",
+      "summary": "대구 경북녹색연합은 대구 시가 신청사 건립 사업을 원점에서 재검토할 것을 촉구했다. 대경녹색연합은 11일 \" 대구 시는 2027년 지방채 1천680억 원을 신규 발행할 계획\"이라면서 \"법정·의무경비와 지방비 부담까지 늘어나는...",
+      "url": "https://www.imaeil.com/page/view/2026111120193758504",
+      "date": "Wed, 11 Nov 2026 20:21:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205405&mode=view": {
+      "title": "포스코 노사 재교섭 파행..노조 집회 예고",
+      "summary": "포스코 노사가 임금협상 잠정 합의안 부결 이후 다시 교섭에 나섰지만 합의점을 찾지 못했습니다. 노사는... 노조는 내일(12일)부터 이틀간 포항과 광양제철소에서 출근 선전전을 벌이고, 오는 17일 서울 포스코 센터에서...",
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205405&mode=view",
+      "date": "Wed, 11 Nov 2026 20:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.polinews.co.kr/news/articleView.html?idxno=748277": {
+      "title": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 ...",
+      "summary": "박용선 포항 시장은 11일 POEX 건립 현장을 찾아 공사 진행 상황과 주변 정비현황을 점검했다. 이번 방문은 두호동 '공감소통 간담회' 일정과 연계해 진행됐으며 박문태 정책특보와 이상현 관광컨벤션도시추진본부장...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748277",
+      "date": "Wed, 11 Nov 2026 20:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ya1pHc0F3UTRTMm9rRW9RTGtFYWlPMTFBZFViZVBvZXQ5Yk4yYWhScFBkdktxaUgyMmlaSkE0LVdQX2VLc3I1RHN5NERfbHVZUU43VVl6cGZwWlZCdzgxODNB?oc=5": {
+      "title": "대구경북녹색연합 \"신공항 초기 재원 확보 난항...대구시 신청사 건립, 재검토해야\" - 매일신문",
+      "summary": "대구경북녹색연합 \"신공항 초기 재원 확보 난항...대구시 신청사 건립, 재검토해야\" 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ya1pHc0F3UTRTMm9rRW9RTGtFYWlPMTFBZFViZVBvZXQ5Yk4yYWhScFBkdktxaUgyMmlaSkE0LVdQX2VLc3I1RHN5NERfbHVZUU43VVl6cGZwWlZCdzgxODNB?oc=5",
+      "date": "Wed, 11 Nov 2026 11:20:46 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TGs5UEw4Sl9aTkllaW9Ta1NHQmxnN0NZRC01RklHWDdzWlZFeC1leVhHVDFHbnFiNndjYXZVdEpqUEN3YlZ3Vml4VlZBeXBScGZpRWowVFIyRjI4NUpEcGtMNXdvMjdJLWpKNlln?oc=5": {
+      "title": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 현장 점검 - 폴리뉴스 Polinews",
+      "summary": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 현장 점검 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TGs5UEw4Sl9aTkllaW9Ta1NHQmxnN0NZRC01RklHWDdzWlZFeC1leVhHVDFHbnFiNndjYXZVdEpqUEN3YlZ3Vml4VlZBeXBScGZpRWowVFIyRjI4NUpEcGtMNXdvMjdJLWpKNlln?oc=5",
+      "date": "Wed, 11 Nov 2026 11:32:16 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -10950,6 +10973,31 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5",
       "title": "에코프로비엠, LFP 본격 참전…수주 속도·캐파 확대 관건 - 지디넷코리아",
       "date": "Wed, 11 Nov 2026 10:12:14 GMT"
+    },
+    {
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205405&mode=view",
+      "title": "포스코 노사 재교섭 파행..노조 집회 예고",
+      "date": "Wed, 11 Nov 2026 20:42:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TGs5UEw4Sl9aTkllaW9Ta1NHQmxnN0NZRC01RklHWDdzWlZFeC1leVhHVDFHbnFiNndjYXZVdEpqUEN3YlZ3Vml4VlZBeXBScGZpRWowVFIyRjI4NUpEcGtMNXdvMjdJLWpKNlln?oc=5",
+      "title": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 현장 점검 - 폴리뉴스 Polinews",
+      "date": "Wed, 11 Nov 2026 11:32:16 GMT"
+    },
+    {
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748277",
+      "title": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 ...",
+      "date": "Wed, 11 Nov 2026 20:32:00 +0900"
+    },
+    {
+      "url": "https://www.imaeil.com/page/view/2026111120193758504",
+      "title": "대구 경북녹색연합 \"신공항 초기 재원 확보 난항... 대구 시 신청사 건립 ,...",
+      "date": "Wed, 11 Nov 2026 20:21:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ya1pHc0F3UTRTMm9rRW9RTGtFYWlPMTFBZFViZVBvZXQ5Yk4yYWhScFBkdktxaUgyMmlaSkE0LVdQX2VLc3I1RHN5NERfbHVZUU43VVl6cGZwWlZCdzgxODNB?oc=5",
+      "title": "대구경북녹색연합 \"신공항 초기 재원 확보 난항...대구시 신청사 건립, 재검토해야\" - 매일신문",
+      "date": "Wed, 11 Nov 2026 11:20:46 GMT"
     }
   ],
   "brief_articles": [
