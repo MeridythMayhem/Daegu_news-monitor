@@ -1851,7 +1851,10 @@
     "https://www.etoday.co.kr/news/view/2646554": "2026-11-11T09:02:03.403818+09:00",
     "https://www.greened.kr/news/articleView.html?idxno=354315": "2026-11-11T09:02:03.403818+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZVJPcFh0aGRtM0pYbEVQUTl4N2R6V05tSUw5MGkyQ2dOUkRwYm4zcmhWeUhzYUFlczlVOGxNQTljQWpzc3JaMnF6VGNyanRuVHFJay10WTNSMmN4TlJPUlQ0blg?oc=5": "2026-11-11T09:02:03.403818+09:00",
-    "https://www.tjb.co.kr/news05/bodo/view/id/105937": "2026-11-11T09:02:03.403818+09:00"
+    "https://www.tjb.co.kr/news05/bodo/view/id/105937": "2026-11-11T09:02:03.403818+09:00",
+    "https://www.safetynews.co.kr/news/articleView.html?idxno=251481": "2026-11-11T10:01:54.523680+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUR6TnFoMlp0M2NsQng3bjljdHU1dHRkS3R0cVFRZ0JyX09iM2ljN0lIZGp1UmhTZjFrS1BtMG5ZekVhM0EtdS1lbkIxX0ZvV0xva1FXRk1ZVnZJN3Q2d3pPMEl0WkQ1enpZ?oc=5": "2026-11-11T10:01:54.523680+09:00",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5": "2026-11-11T10:01:54.523680+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3205,7 +3208,10 @@
     "1d1c882d108ac6d68d00248c3046228d918621c46d2d282190dc0ba7a6eb837f": "2026-11-11T09:02:03.403818+09:00",
     "6965b6efb67d0a57ce334276bcebb9ae6bcab3f2e5c1c280dc33134660e31899": "2026-11-11T09:02:03.403818+09:00",
     "613d278b27df0939227fd1253da6c499b649d6b516cb143d17e0da6697fc8015": "2026-11-11T09:02:03.403818+09:00",
-    "7975bdeee87b1120655c9b68efd6e49f8ceba83882d8a5cde5f6f446137617c5": "2026-11-11T09:02:03.403818+09:00"
+    "7975bdeee87b1120655c9b68efd6e49f8ceba83882d8a5cde5f6f446137617c5": "2026-11-11T09:02:03.403818+09:00",
+    "39eeac2aac70443e241bdeb55105faf66eeab6aea4cbac8957a07994b8501717": "2026-11-11T10:01:54.523680+09:00",
+    "b8d4b5fe0e8c8e720d17da9ee850764427e80c7d4399e36816f6560f5cb785b1": "2026-11-11T10:01:54.523680+09:00",
+    "45c0b185808b79682873ce352392f26d1a6524ee7d61dfb7d8d0e21c39456a93": "2026-11-11T10:01:54.523680+09:00"
   },
   "pending": {},
   "ai": {
@@ -3216,62 +3222,10 @@
     "2026-11-08": 3,
     "2026-11-09": 11,
     "2026-11-10": 18,
-    "2026-11-11": 2
+    "2026-11-11": 3
   },
   "cursor": 0,
   "archive": {
-    "http://www.inews24.com/view/2023832": {
-      "title": "세계 투자 자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자 유...",
-      "summary": "실제 투자 와 기업 협력으로 연결하는 것이 앞으로의 과제다. 대구 경북경제자유구역청(DGFEZ·청장 정해용)은... 다만 이번 방문에서 구체적인 투자협약 이나 투자 금액이 확정됐는지는 제시되지 않았다. 해외 투자 자들의...",
-      "url": "http://www.inews24.com/view/2023832",
-      "date": "Mon, 09 Nov 2026 09:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.aflnews.co.kr/news/articleView.html?idxno=331304": {
-      "title": "농협사료· 포스코 인터네셔널, 5년 연속 수입 사료원료 공급망 MOU",
-      "summary": "불확실한 글로벌 환경 속 국내 축산농가의 생산비 절감과 경쟁력 강화를 위한 농협사료와 포스코 인터네셔널의 업무협약(MOU)이 5년 연속으로 이뤄져 이목이 집중된다. 농협사료는 지난달 28일 서울 포스코 센터에서 최강필...",
-      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331304",
-      "date": "Mon, 09 Nov 2026 09:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5": {
-      "title": "의성군, 바이오푸드밸리 455억 원 투자유치…신규 일자리 83개 창출 - 열린뉴스통신",
-      "summary": "의성군, 바이오푸드밸리 455억 원 투자유치…신규 일자리 83개 창출 열린뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5",
-      "date": "Mon, 09 Nov 2026 00:39:46 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMVlXVEk4UlZlQ21vQ2Y4aFBIdUtJZGxyMHp0NjN1NVlMSmx1ZmFWY0xya3JqQkExeXZvTDRSdGxmdmxtdElUcFM0TDA?oc=5": {
-      "title": "세계 투자자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자유치 시험대 - 아이뉴스24",
-      "summary": "세계 투자자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자유치 시험대 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMVlXVEk4UlZlQ21vQ2Y4aFBIdUtJZGxyMHp0NjN1NVlMSmx1ZmFWY0xya3JqQkExeXZvTDRSdGxmdmxtdElUcFM0TDA?oc=5",
-      "date": "Mon, 09 Nov 2026 00:21:12 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.tbc.co.kr/news/view?pno=20261109083326AE08182&id=213080": {
       "title": "경북 도의회, 경북 행복재단 대표 해임·특별감사 요구",
       "summary": "더불어민주당 정용채 도의원은 지난 6일 도정질문에서 정재훈 대표이사의 직장 내 괴롭힘과 복무 관련 의혹 을 지적하며 경북 도의 관리·감독 책임을 물었습니다. 이에 대해 경상북도는 재단 이사회가 대표 징계를 법원...",
@@ -7433,6 +7387,71 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.safetynews.co.kr/news/articleView.html?idxno=251481": {
+      "title": "포항 4대 철강사, 협력업체 안전관리 강화·작업중지권 확대 추진",
+      "summary": "/사진 = 노동부 포항 지청 제공 포항 지역 4대 철강사가 중대재해 예방을 위해 협력업체에 대한 안전관리 책임을 강화하고 현장 노동자의 작업중지권을 실질적으로 보장하는 방안을 추진한다. 고용노동부 포항 지청은 10일...",
+      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251481",
+      "date": "Wed, 11 Nov 2026 09:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://daily.hankooki.com/news/articleView.html?idxno=1423863": {
+      "title": "포스코 인터, 9492억원 투입 광양 LNG터미널 준공",
+      "summary": "최동영 포스코홀딩스 경영전략실장은 지난 2일 광양에서 열린 전략 브리핑에서 그룹 매출액의 약 50%, 영업이익의 70%가 철강에서 발생한다고 설명했다. 최 실장은 \"2035년에는 산업·전략·에너지자원이 영업이익에...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423863",
+      "date": "Wed, 11 Nov 2026 09:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3748320": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…저장용량 133만㎘로 확대",
+      "summary": "포스코 인터내셔널은 10일 전남광주통합특별시 광양시에 위치한 광양 제2 LNG터미널의 준공식을 개최했다. 포스코 인터내셔널은 10일 전남광주통합특별시 광양시에 위치한 광양 제2 LNG터미널의 준공식을 개최했다....",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748320",
+      "date": "Wed, 11 Nov 2026 09:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUR6TnFoMlp0M2NsQng3bjljdHU1dHRkS3R0cVFRZ0JyX09iM2ljN0lIZGp1UmhTZjFrS1BtMG5ZekVhM0EtdS1lbkIxX0ZvV0xva1FXRk1ZVnZJN3Q2d3pPMEl0WkQ1enpZ?oc=5": {
+      "title": "한수원, 대우건설 노조 주장에 \"후속 일정 위한 불가피한 협상 종료\" - 일간투데이",
+      "summary": "한수원, 대우건설 노조 주장에 \"후속 일정 위한 불가피한 협상 종료\" 일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUR6TnFoMlp0M2NsQng3bjljdHU1dHRkS3R0cVFRZ0JyX09iM2ljN0lIZGp1UmhTZjFrS1BtMG5ZekVhM0EtdS1lbkIxX0ZvV0xva1FXRk1ZVnZJN3Q2d3pPMEl0WkQ1enpZ?oc=5",
+      "date": "Wed, 11 Nov 2026 00:38:13 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5": {
+      "title": "POSCO DX stock in focus as Q3 operating profit falls 22.2% - ad-hoc-news.de",
+      "summary": "POSCO DX stock in focus as Q3 operating profit falls 22.2% ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5",
+      "date": "Wed, 11 Nov 2026 00:39:42 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -11032,6 +11051,21 @@
       "url": "https://www.tjb.co.kr/news05/bodo/view/id/105937",
       "title": "\"다 쓴 배터리도 화재 위험\"…전압따라 열폭주 확인",
       "date": "Wed, 11 Nov 2026 08:14:00 +0900"
+    },
+    {
+      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251481",
+      "title": "포항 4대 철강사, 협력업체 안전관리 강화·작업중지권 확대 추진",
+      "date": "Wed, 11 Nov 2026 09:16:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUR6TnFoMlp0M2NsQng3bjljdHU1dHRkS3R0cVFRZ0JyX09iM2ljN0lIZGp1UmhTZjFrS1BtMG5ZekVhM0EtdS1lbkIxX0ZvV0xva1FXRk1ZVnZJN3Q2d3pPMEl0WkQ1enpZ?oc=5",
+      "title": "한수원, 대우건설 노조 주장에 \"후속 일정 위한 불가피한 협상 종료\" - 일간투데이",
+      "date": "Wed, 11 Nov 2026 00:38:13 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5",
+      "title": "POSCO DX stock in focus as Q3 operating profit falls 22.2% - ad-hoc-news.de",
+      "date": "Wed, 11 Nov 2026 00:39:42 GMT"
     }
   ],
   "brief_articles": [
@@ -11084,7 +11118,7 @@
     "2026-11-08": 2,
     "2026-11-09": 8,
     "2026-11-10": 12,
-    "2026-11-11": 2
+    "2026-11-11": 3
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
