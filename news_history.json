@@ -1876,7 +1876,17 @@
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082142": "2026-11-11T14:01:48.926119+09:00",
     "https://www.newspim.com/news/view/20261111000837": "2026-11-11T14:01:48.926119+09:00",
     "https://www.busan.com/view/busan/view.php?code=2026111113255522845": "2026-11-11T14:01:48.926119+09:00",
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1731239": "2026-11-11T14:01:48.926119+09:00"
+    "https://www.ebn.co.kr/news/articleView.html?idxno=1731239": "2026-11-11T14:01:48.926119+09:00",
+    "https://www.hidomin.com/news/articleView.html?idxno=728911": "2026-11-11T15:02:27.232299+09:00",
+    "https://www.news1.kr/photos/8208864": "2026-11-11T15:02:27.232299+09:00",
+    "https://biz.heraldcorp.com/article/10933883?ref=naver": "2026-11-11T15:02:27.232299+09:00",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rR2dnZVNRSk5xRmVtWjNIVnVYTHhqYnpQc3A2bHcwWms3TWVkYlBLMWtBQ0YwekFCLTNDVFBvRjBlSWVyNVNjTDY2UENCUWlnek5HSA?oc=5": "2026-11-11T15:02:27.232299+09:00",
+    "https://www.etnews.com/20261111000359": "2026-11-11T15:02:27.232299+09:00",
+    "https://www.joongangenews.com/news/articleView.html?idxno=563039": "2026-11-11T15:02:27.232299+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUVN3YmY1WkpYZ1NibU02SUJsaDVXVmtrSXdkc3lqOVFqakF0WEo0dFlocWJ2eW92S29Cazd0YUxUOHhOdjByVEU4YUlOQ0pPRFQ4Q053NFIyNGY3V2dHQVpRekdzakhPbng0?oc=5": "2026-11-11T15:02:27.232299+09:00",
+    "http://www.breaknews.com/1250212": "2026-11-11T15:02:27.232299+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2017290": "2026-11-11T15:02:27.232299+09:00",
+    "https://www.sedaily.com/article/20112991?ref=naver": "2026-11-11T15:02:27.232299+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3255,79 +3265,63 @@
     "589237ae3d14cb5042ce96cd3b558d03263509a748a895ed9cd4311ccf4266e0": "2026-11-11T14:01:48.926119+09:00",
     "046872a05e9c3560a12e24c68e5a95e87021e2e4551fa795513eb26d3ba50ded": "2026-11-11T14:01:48.926119+09:00",
     "c8ebf38aa94f0bf7174776325b072b8e6916b665a19c7d4c61db910f1ebb184a": "2026-11-11T14:01:48.926119+09:00",
-    "d57dc531c69a9f295e68439a225b2087d2c360aeaa862a0e914996c833fc81a2": "2026-11-11T14:01:48.926119+09:00"
+    "d57dc531c69a9f295e68439a225b2087d2c360aeaa862a0e914996c833fc81a2": "2026-11-11T14:01:48.926119+09:00",
+    "e9a9100bcc5941ecdaef2daa550a1df972e3dbf497a13887dce1cdf5ca8a3ddc": "2026-11-11T15:02:27.232299+09:00",
+    "77343c36fbf87a80ebfa5924365d117ab4693a462759b098f49a5c91b87d3a35": "2026-11-11T15:02:27.232299+09:00",
+    "949aeff2dd31d5d48da99abdfdc2dda9f8d532e76d19e4d6ad941f93a8811da5": "2026-11-11T15:02:27.232299+09:00",
+    "179fc4b0fb2537b78bfec8b03dc8cdef1e11a2acbc4dc7254242ddb945295e7e": "2026-11-11T15:02:27.232299+09:00",
+    "50a05d3358e45da67afee235d20bf5ab1554a1b2a14b2fca12b059bfaa26c38d": "2026-11-11T15:02:27.232299+09:00",
+    "91ec5e0b310727e5f17d528864877674cca55604723e76f7fcfdffbcd47a89cb": "2026-11-11T15:02:27.232299+09:00",
+    "190ae4cc12914c1300d7e3cc58bbc85fbc35d2352091fe5deb7eb783c0d0f62b": "2026-11-11T15:02:27.232299+09:00",
+    "d6dd1f90c52d27e0392ecda81802b627ea5a8201fb3d35221e60deea5bed3dad": "2026-11-11T15:02:27.232299+09:00",
+    "91d5b071f38c3c85f57b8c87f4504bae63b3b26defa3c9253d902944f6db9bb8": "2026-11-11T15:02:27.232299+09:00",
+    "1654d8eb1ee744e2dc42de2de46f3eff615240b45deeafad8dc4f8b1374331fe": "2026-11-11T15:02:27.232299+09:00"
   },
-  "pending": {},
-  "ai": {
-    "2026-11-04": 15,
-    "2026-11-05": 31,
-    "2026-11-06": 18,
-    "2026-11-07": 7,
-    "2026-11-08": 3,
-    "2026-11-09": 11,
-    "2026-11-10": 18,
-    "2026-11-11": 6
-  },
-  "cursor": 0,
-  "archive": {
-    "https://www.kmib.co.kr/article/20261109500826": {
-      "title": "대형 산불로 공장 잃은 식품업체, 595일만에 안동에 새 공장 준공",
-      "summary": "지난 2025년 3월 경북 에서 발생한 대형 산불로 공장 을 잃은 제이오푸드가 595일 만에 안동에 새 공장 을... 제이오푸드 전현준 대표는 “ 화재 에도 불구하고 고객사들이 보내준 변함없는 신뢰와 경북 도 및 안동시의 지원에...",
-      "url": "https://www.kmib.co.kr/article/20261109500826",
-      "date": "Mon, 09 Nov 2026 14:51:00 +0900",
+  "pending": {
+    "http://www.finomy.com/news/articleView.html?idxno=266331": {
+      "title": "구미, 첨단산업 투자 확대에 주택시장도 상승세",
+      "summary": "올해 9월에는 대구· 포항 과 함께 로봇 분야 국가첨단전략산업 특화단지로 지정됐다. 이로써 구미는 반도체... 등을 건립 하는 방식이다. 태영건설은 구미시 도량동 일대에 약 55만㎡ 규모의 꽃동산공원을 조성하고, 공원...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=266331",
+      "date": "Wed, 11 Nov 2026 14:08:00 +0900",
       "channels": [
         "domestic"
       ],
       "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081285": {
-      "title": "제이오푸드, 산불 피해 595일 만에 안동 신공장 준공…생산능력 5배 확대",
-      "summary": "다시 투자 하기로 결정했다. 새 생산거점으로 경북 바이오2차일반산업단지를 선택한 것이다. 지난해 7월 3일... 앞으로도 K-푸드와 푸드테크 등 미래 식품산업의 투자 유치와 기업 성장을 적극 지원하겠다\"고 밝혔다. [신아 일보 ]",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081285",
-      "date": "Mon, 09 Nov 2026 14:34:00 +0900",
-      "channels": [
-        "domestic",
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.yna.co.kr/view/AKR20261109061400053?input=1195m": {
-      "title": "대형 산불로 공장 잃은 식품업체 595일만에 안동에 새 공장 준공",
-      "summary": "제이오푸드는 9일 안동시 풍산읍 경북 바이오 2차일반산업단지에서 신 공장 준공식을 열었다. 2014년 설립된... 제이오푸드 전현준 대표는 \" 화재 에도 불구하고 고객사들이 보내준 변함없는 신뢰와 경북 도 및 안동시의...",
-      "url": "https://www.yna.co.kr/view/AKR20261109061400053?input=1195m",
-      "date": "Mon, 09 Nov 2026 14:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.dealsitetv.com/articles/178273": {
-      "title": "드림 씨아이에스 , ‘2026 한-중 바이오 투자·기술협력 포럼’ 성황리 마...",
-      "summary": "한국 바이오 11개사, 중화권 판권·플랫폼 파트너십 구축 추진 드림 씨아이에스 는 모기업인 타이거메드... 드림 씨아이에스 ·신약조합, 전주기 사후 관리로 가시적 성과 창출 조력 포럼 주최 측인 드림 씨아이에스 와...",
-      "url": "https://news.dealsitetv.com/articles/178273",
-      "date": "Mon, 09 Nov 2026 14:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 씨아이에스",
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
     },
-    "https://www.newsworker.co.kr/news/articleView.html?idxno=513003": {
-      "title": "포스코 임금 잠정합의안, 노조 투표서 부결...노사 의견차에 길어지는 ...",
-      "summary": "두 차례 부분파업 끝에 가까스로 마련된 포스코 임금교섭 잠정합의안이 조합원 찬반투표에서 311표 차이로... 9일 업계에 따르면 한국노총 금속노련 포스코 노동조합이 지난 7일 실시한 임금교섭 잠정합의안...",
-      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513003",
-      "date": "Mon, 09 Nov 2026 14:02:00 +0900",
+    "https://www.imaeil.com/page/view/2026111114292099591": {
+      "title": "경주시, 미국 진출 일지테크와 경주 후속 투자 협력 논의",
+      "summary": "경북 경주시가 미국에 진출한 자동차 부품기업인 일지테크와 전략적 파트너십 업무 협약 을 체결하고 현지의 사업 성과를 경주지역 후속 투자 로 연결하기 위한 협력에 나섰다. 경주시는 미국 투자 유치대표단이 9일...",
+      "url": "https://www.imaeil.com/page/view/2026111114292099591",
+      "date": "Wed, 11 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.seoul.co.kr/news/society/2026/11/11/20261111500215?wlog_tag3=naver": {
+      "title": "경주시, 미국 현지서 기업 투자 유치전 펼쳐…“일자리 창출”",
+      "summary": "경북 경주시가 미국 현지를 직접 찾아 기업 투자 유치에 나섰다. 시는 최근 미국 앨라배마주 루번에 있는... 앞서 시와 일지테크는 2019년부터 세 차례에 걸쳐 총 1865억원 규모의 투자협약 을 체결하며 협력관계를 이어왔다....",
+      "url": "https://www.seoul.co.kr/news/society/2026/11/11/20261111500215?wlog_tag3=naver",
+      "date": "Wed, 11 Nov 2026 14:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.4th.kr/news/articleView.html?idxno=2121617": {
+      "title": "포스코 임금협상 재교섭도 결렬…노조, 17일 상경투쟁",
+      "summary": "포쓰저널 박소연 기자 한국노총 금속노련 포스코 노동조합이 2026년 9월 9일 오전 7시부터 포항제철소 2전기강판공장 3ZRM 라인과 광양제철소 산세공장 전 라인에서 48시간 부분파업을 시작했다./ 포스코 노조 포스코 노사의...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2121617",
+      "date": "Wed, 11 Nov 2026 14:46:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -3336,32 +3330,84 @@
       "priority": 70,
       "filter_version": 17
     },
-    "https://www.viva100.com/article/20261109500803": {
-      "title": "대우건설 노조 “체코 원전 협상 30분 만에 결렬”…한수원 규탄·재협...",
-      "summary": "전국건설기업노동조합 대우건설지부(대우건설 노조)가 체코 원전 시공협상을 중단한 한국수력원자력 (한수원)을 규탄하며 정부의 중재를 촉구하고 나섰다. 노조는 한수원과 대우건설 간 재협상을 요구하는 한편, 협상 결렬...",
-      "url": "https://www.viva100.com/article/20261109500803",
-      "date": "Mon, 09 Nov 2026 14:02:00 +0900",
+    "https://www.ddaily.co.kr/page/view/2026111114180545067": {
+      "title": "포스코 노사, 파업 위기 속 교섭 또 불발…노조, 17일 상경투쟁",
+      "summary": "12~13일 포항 ·광양 제철소 에서 출근 선전전을 진행한 후 16일부터 조합원 전체를 대상으로 평일 퇴근 후 무기한 선전전에 나선다. 앞서 포스코 노사는 지난 10월30일 기본급 2.6% 인상과 일시금 600만원 지급, 특별승호...",
+      "url": "https://www.ddaily.co.kr/page/view/2026111114180545067",
+      "date": "Wed, 11 Nov 2026 14:38:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "관심기업: 한국수력원자력",
+      "basis": "관심기업: 포스코",
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
     },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUEk4b3VtYng0RjNpWWtlV3I4VnQxMUdkMXBaN09LLXdETWpTem1WX2RlOE45WXhkVFItc3pSdkpld1k4dWJsR19VbE9RQ3JoVTA1UHhKUDJJNGEzQ3FqOVhKZGlKNl9XR2xEeUtn?oc=5": {
-      "title": "산불 피해 ‘제이오푸드’, 595일 만에 안동 신공장 준공 - 안동인터넷신문",
-      "summary": "산불 피해 ‘제이오푸드’, 595일 만에 안동 신공장 준공 안동인터넷신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUEk4b3VtYng0RjNpWWtlV3I4VnQxMUdkMXBaN09LLXdETWpTem1WX2RlOE45WXhkVFItc3pSdkpld1k4dWJsR19VbE9RQ3JoVTA1UHhKUDJJNGEzQ3FqOVhKZGlKNl9XR2xEeUtn?oc=5",
-      "date": "Mon, 09 Nov 2026 05:55:11 GMT",
+    "https://www.yna.co.kr/view/AKR20261111115300053?input=1195m": {
+      "title": "임금협상 다시 막힌 포스코…노조 17일 서울 본사 앞 집회 예고",
+      "summary": "노조 간부와 대의원은 12일과 13일 포항제철소 와 광양제철소에서 노조의 입장을 알리는 출근 선전전을 하기로 했다. 또 16일부터 평일 퇴근 후에 전 조합원이 참여하는 선전전을 벌이기로 했다. 포스코 노사는 지난달 30일...",
+      "url": "https://www.yna.co.kr/view/AKR20261111115300053?input=1195m",
+      "date": "Wed, 11 Nov 2026 14:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsworker.co.kr/news/articleView.html?idxno=513477": {
+      "title": "15개월 협상 물거품 대우건설...체코 원전 시공사 사전 내정 의혹에 한...",
+      "summary": "대우건설과 한국수력원자력 의 체코 두코바니 원전 시공계약 협상이 결렬된 가운데, 대우건설 노동조합이 다른 건설사의 사전 내정 의혹을 제기했다. 협상이 끝나기 전부터 특정 대형 건설사가 협력업체들과 접촉했다는...",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513477",
+      "date": "Wed, 11 Nov 2026 14:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hZjRvcVVia0xQd0g4bGh6ckR3VzFJeVhMZ2FLWGpMZEpobGdfRXFmc3hxeW5xZmFKUHpiQ0FQY0hxbkx6TFZhMV9Kb1NJejIwMVBJQVRrbngtX2g4VE16UGh3WWNnem9O?oc=5": {
+      "title": "대규모 첨단산업 투자에 날개 단 구미… 주택시장도 상승세 - 대경일보",
+      "summary": "대규모 첨단산업 투자에 날개 단 구미… 주택시장도 상승세 대경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hZjRvcVVia0xQd0g4bGh6ckR3VzFJeVhMZ2FLWGpMZEpobGdfRXFmc3hxeW5xZmFKUHpiQ0FQY0hxbkx6TFZhMV9Kb1NJejIwMVBJQVRrbngtX2g4VE16UGh3WWNnem9O?oc=5",
+      "date": "Wed, 11 Nov 2026 05:07:43 GMT",
       "channels": [
         "domestic"
       ],
       "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
+      "category": "경제·투자",
+      "priority": 70,
       "filter_version": 17
     },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oU21KRExUUTJqYUdjZVhrX0kwU2dmY3ZwSVhQSzJTMmZIdGhEWFBLTWJKNkwxcGVZX2t0cHlqMmFlaENMLXNURVV5VlRMb1Z3b3FhZkJ1N0JseGprWnVBTjBObXhzSGV5MGc?oc=5": {
+      "title": "임금협상 부결 포스코…노조 17일 서울 본사 앞 집회 예고 - 전파신문",
+      "summary": "임금협상 부결 포스코…노조 17일 서울 본사 앞 집회 예고 전파신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oU21KRExUUTJqYUdjZVhrX0kwU2dmY3ZwSVhQSzJTMmZIdGhEWFBLTWJKNkwxcGVZX2t0cHlqMmFlaENMLXNURVV5VlRMb1Z3b3FhZkJ1N0JseGprWnVBTjBObXhzSGV5MGc?oc=5",
+      "date": "Wed, 11 Nov 2026 05:33:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    }
+  },
+  "ai": {
+    "2026-11-04": 15,
+    "2026-11-05": 31,
+    "2026-11-06": 18,
+    "2026-11-07": 7,
+    "2026-11-08": 3,
+    "2026-11-09": 11,
+    "2026-11-10": 18,
+    "2026-11-11": 9
+  },
+  "cursor": 0,
+  "archive": {
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wRENRS05FdEVPNGp0Nl9WOThvUWJaN0FEby1DclJ6eXBxX09nZVJRTDdsYUlDRnhCM1VSRGpQSFpwazhPeXlJS2ZJSWF1aUZ0MV9ORUl4WG9ZdGYtUWFYOURuM2VNUHpsZFl3?oc=5": {
       "title": "포스코이앤씨, 상계3구역 수주 앞두고 '더샵 상계원' 상표 출원 - 뉴스저널리즘",
       "summary": "포스코이앤씨, 상계3구역 수주 앞두고 '더샵 상계원' 상표 출원 뉴스저널리즘",
@@ -3371,19 +3417,6 @@
         "domestic"
       ],
       "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYlIzaFZtTnBOWkg0WUpibVIwSkkzd2s2bjhHblZJQ2RMdVJLSUFpNnBveExYTWRlazBnbW1LaUJ0UFNPdThQUEJBVUpCbXd4WTJiNmtadTlnbGFQT2F6WUYwRHBmcDVBRXQ2aHRKZkpMSHIzUFpjZHNHUmNXY1ZQN0hIeTNsRm5OVG12Q3IwT0JRSzdUbXNBSVFJeENlNXVWY1JwODR0MndLUjI4R2dWcTRIajdMcjk1UjVEZzROZHV6X3pHZGNIdGNzZnE1UTZWUVl6T1c4VlVMUWxoS2VJNThUQXZiVDQ?oc=5": {
-      "title": "Pursuit Minerals Signs US$40 Million MoU with South Korea's EcoPro Innovation for Rio Grande Sur Lithium Project - Kalkine",
-      "summary": "Pursuit Minerals Signs US$40 Million MoU with South Korea's EcoPro Innovation for Rio Grande Sur Lithium Project Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYlIzaFZtTnBOWkg0WUpibVIwSkkzd2s2bjhHblZJQ2RMdVJLSUFpNnBveExYTWRlazBnbW1LaUJ0UFNPdThQUEJBVUpCbXd4WTJiNmtadTlnbGFQT2F6WUYwRHBmcDVBRXQ2aHRKZkpMSHIzUFpjZHNHUmNXY1ZQN0hIeTNsRm5OVG12Q3IwT0JRSzdUbXNBSVFJeENlNXVWY1JwODR0MndLUjI4R2dWcTRIajdMcjk1UjVEZzROZHV6X3pHZGNIdGNzZnE1UTZWUVl6T1c4VlVMUWxoS2VJNThUQXZiVDQ?oc=5",
-      "date": "Mon, 09 Nov 2026 05:34:32 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 에코프로",
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
@@ -7485,6 +7518,318 @@
       "category": "관심기업 동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "http://www.breaknews.com/1250212": {
+      "title": "대구 시의회, 신산업·지역경제 현안 집중 점검…투자유치 사후관리 강화...",
+      "summary": "대구 시의회 경제환경위원회가 인공지능(AI)과 미래 신산업 육성, 기업 투자유치... 업무협약( MOU )을 체결한 기업의 투자가 실제 사업으로 이어지도록 원스톱...",
+      "url": "http://www.breaknews.com/1250212",
+      "date": "Wed, 11 Nov 2026 14:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.finomy.com/news/articleView.html?idxno=266331": {
+      "title": "구미, 첨단산업 투자 확대에 주택시장도 상승세",
+      "summary": "올해 9월에는 대구· 포항 과 함께 로봇 분야 국가첨단전략산업 특화단지로 지정됐다. 이로써 구미는 반도체... 등을 건립 하는 방식이다. 태영건설은 구미시 도량동 일대에 약 55만㎡ 규모의 꽃동산공원을 조성하고, 공원...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=266331",
+      "date": "Wed, 11 Nov 2026 14:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=728911": {
+      "title": "경북 행복재단 특정감사 촉구…박채아 경북 도의원, 대표이사 복무 의혹 ...",
+      "summary": "제기되면서 경북 도 차원의 진상 규명이 요구 되고 있다. 재단 자체 확인만으로는 도민들의 의문을 해소하기... 이어 재단 내부의 해명 이나 자체 조사만으로는 의혹을 충분히 해소하고 도민 신뢰를 회복하는 데 한계가 있다며...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=728911",
+      "date": "Wed, 11 Nov 2026 14:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.etoday.co.kr/news/view/2646897": {
+      "title": "박채아 경북 도의원 “ 경북 행복재단 의혹 규명해야”…특정감사 촉구",
+      "summary": "이투데이=대구 경북 취재본부 이용호 기자 | 경북 행복재단 행정사무감사서 문제제기 정재훈 대표 복무 논란·도민 제보 언급…“감사관실 직접 조사해야” 박채아 경북 도의회 의원(경산)이 경북 행복재단을 둘러싼 각종 의혹 ...",
+      "url": "https://www.etoday.co.kr/news/view/2646897",
+      "date": "Wed, 11 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.eroun.net/news/articleView.html?idxno=95118": {
+      "title": "박채아 경북 도의원, 경북 행복재단 대표 의혹 불거져…\"도청 감사관실 특...",
+      "summary": "공식 요구 했다. 박채아 도의원은 지난 10일 경북 행복재단 대상 행정사무감사에서 정재훈 대표이사를 둘러싼... 끊이지 않는 구설수… \"자체 해명 한계, 도 감사관실 직접 나서야\" 박 의원은 이날 도민 복리 증진을 위해...",
+      "url": "https://www.eroun.net/news/articleView.html?idxno=95118",
+      "date": "Wed, 11 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.imaeil.com/page/view/2026111114292099591": {
+      "title": "경주시, 미국 진출 일지테크와 경주 후속 투자 협력 논의",
+      "summary": "경북 경주시가 미국에 진출한 자동차 부품기업인 일지테크와 전략적 파트너십 업무 협약 을 체결하고 현지의 사업 성과를 경주지역 후속 투자 로 연결하기 위한 협력에 나섰다. 경주시는 미국 투자 유치대표단이 9일...",
+      "url": "https://www.imaeil.com/page/view/2026111114292099591",
+      "date": "Wed, 11 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.seoul.co.kr/news/society/2026/11/11/20261111500215?wlog_tag3=naver": {
+      "title": "경주시, 미국 현지서 기업 투자 유치전 펼쳐…“일자리 창출”",
+      "summary": "경북 경주시가 미국 현지를 직접 찾아 기업 투자 유치에 나섰다. 시는 최근 미국 앨라배마주 루번에 있는... 앞서 시와 일지테크는 2019년부터 세 차례에 걸쳐 총 1865억원 규모의 투자협약 을 체결하며 협력관계를 이어왔다....",
+      "url": "https://www.seoul.co.kr/news/society/2026/11/11/20261111500215?wlog_tag3=naver",
+      "date": "Wed, 11 Nov 2026 14:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.news1.kr/photos/8208864": {
+      "title": "국세청 장 인사 청문회 일정 등 논의하는 재경위 여야 간사",
+      "summary": "국회 재정경제기획위원회 더불어민주당 오기형, 국민의힘 배준영 간사가 11일 서울 여의도 국회에서 열린 제439회 국회(정기회) 재정경제기획위원회 제9차 전체회의 산회 후 대화하고 있다. 2026.11.11/뉴스1",
+      "url": "https://www.news1.kr/photos/8208864",
+      "date": "Wed, 11 Nov 2026 14:19:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://biz.heraldcorp.com/article/10933883?ref=naver": {
+      "title": "포스코 재교섭도 22분 만에 파행…노조, 17일 ‘상경투쟁’ 예고",
+      "summary": "노조는 우선 12~13일 이틀간 포항 ·광양 제철소 에서 출근 전 선전전을 진행한다. 노조 간부와 대의원들이 참여 대상이다. 오는 16일부터는 쟁의 범위를 전체 조합원으로 넓힌다. 평일 퇴근 이후 포항 ·광양 양 제철소 에서...",
+      "url": "https://biz.heraldcorp.com/article/10933883?ref=naver",
+      "date": "Wed, 11 Nov 2026 14:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.etnews.com/20261111000359": {
+      "title": "포스코 노사, 임단협 두고 갈등 고조…노조 투쟁 예고",
+      "summary": "노조 간부와 대의원은 12일과 13일 포항제철소 와 광양제철소에서 노조의 입장을 알리는 출근 선전전을 하기로 했다. 또 16일부터 평일 퇴근 후에 전 조합원이 참여하는 선전전을 벌이기로 했다. 앞서 노사는 지난달 30일...",
+      "url": "https://www.etnews.com/20261111000359",
+      "date": "Wed, 11 Nov 2026 14:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.joongangenews.com/news/articleView.html?idxno=563039": {
+      "title": "포스코 노사, 임금협상 재교섭도 결렬...노조 17일 상경투쟁 예고",
+      "summary": "이에 앞서 12일과 13일에는 포항 ·광양 제철소 에서 출근 선전전을 진행하고 16일부터는 평일 퇴근 시간에 전 조합원이 참여하는 선전전을 이어갈 방침이다. 포스코 노사는 지난달 30일 기본급 2.6% 인상 등을 골자로 한...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563039",
+      "date": "Wed, 11 Nov 2026 14:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2017290": {
+      "title": "포스코 노사, 평행선…노조 상경투쟁 예고",
+      "summary": "매일일보 = 이강민 기자 | 포스코 노사가 임금·단체협약 잠정합의안 부결 이후 다시 교섭에 나섰지만 접점을 찾지 못했다. 짧은 본교섭을 마친 노조는 상경 집회를 예고하며 쟁의 수위를 높이기로 했다. 포스코 노동조...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2017290",
+      "date": "Wed, 11 Nov 2026 14:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.sedaily.com/article/20112991?ref=naver": {
+      "title": "포스코 임단협 재교섭 22분 만에 결렬…“추가안 없다”에 노조 퇴장",
+      "summary": "포스코 노사의 임금·단체협약(임단협) 교섭이 노조 측의 중도 퇴장으로 결렬됐다. 지난 7일 잠정합의안이... 11일 포스코 와 포스코 노동조합에 따르면 양측은 이날 오전 전남 광양 Park 1538 교육관에서 30차 본교섭을...",
+      "url": "https://www.sedaily.com/article/20112991?ref=naver",
+      "date": "Wed, 11 Nov 2026 14:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.4th.kr/news/articleView.html?idxno=2121617": {
+      "title": "포스코 임금협상 재교섭도 결렬…노조, 17일 상경투쟁",
+      "summary": "포쓰저널 박소연 기자 한국노총 금속노련 포스코 노동조합이 2026년 9월 9일 오전 7시부터 포항제철소 2전기강판공장 3ZRM 라인과 광양제철소 산세공장 전 라인에서 48시간 부분파업을 시작했다./ 포스코 노조 포스코 노사의...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2121617",
+      "date": "Wed, 11 Nov 2026 14:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ddaily.co.kr/page/view/2026111114180545067": {
+      "title": "포스코 노사, 파업 위기 속 교섭 또 불발…노조, 17일 상경투쟁",
+      "summary": "12~13일 포항 ·광양 제철소 에서 출근 선전전을 진행한 후 16일부터 조합원 전체를 대상으로 평일 퇴근 후 무기한 선전전에 나선다. 앞서 포스코 노사는 지난 10월30일 기본급 2.6% 인상과 일시금 600만원 지급, 특별승호...",
+      "url": "https://www.ddaily.co.kr/page/view/2026111114180545067",
+      "date": "Wed, 11 Nov 2026 14:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.yna.co.kr/view/AKR20261111115300053?input=1195m": {
+      "title": "임금협상 다시 막힌 포스코…노조 17일 서울 본사 앞 집회 예고",
+      "summary": "노조 간부와 대의원은 12일과 13일 포항제철소 와 광양제철소에서 노조의 입장을 알리는 출근 선전전을 하기로 했다. 또 16일부터 평일 퇴근 후에 전 조합원이 참여하는 선전전을 벌이기로 했다. 포스코 노사는 지난달 30일...",
+      "url": "https://www.yna.co.kr/view/AKR20261111115300053?input=1195m",
+      "date": "Wed, 11 Nov 2026 14:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newswatch.kr/news/articleView.html?idxno=81858": {
+      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…국내 민간 최대",
+      "summary": "지난 10일 광양 제2 LNG터미널 준공식에서 포스코 그룹 경영진과 주요 내빈들이 기념촬영을 하고 있다. 사진= 포스코 인터내셔널 | 뉴스워치= 김영식 기자 | 포스코 인터내셔널이 광양 제2 액화천연가스(LNG)터미널을...",
+      "url": "http://www.newswatch.kr/news/articleView.html?idxno=81858",
+      "date": "Wed, 11 Nov 2026 14:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89140": {
+      "title": "포스코 장인화 회장 \"광양 제2 LNG터미널 준공으로 에너지 안보에 기여...",
+      "summary": "포스코 인터내셔널이 9492억원을 들여 광양 제2 액화천연가스(LNG) 터미널을 준공했다. 기존 시설을 합친 저장능력은 133만㎘로, 단일 민간기업 기준 국내 최대다. 포스코 그룹은 광양을 해외에서 들여온 LNG의 저장...",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89140",
+      "date": "Wed, 11 Nov 2026 14:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsworker.co.kr/news/articleView.html?idxno=513477": {
+      "title": "15개월 협상 물거품 대우건설...체코 원전 시공사 사전 내정 의혹에 한...",
+      "summary": "대우건설과 한국수력원자력 의 체코 두코바니 원전 시공계약 협상이 결렬된 가운데, 대우건설 노동조합이 다른 건설사의 사전 내정 의혹을 제기했다. 협상이 끝나기 전부터 특정 대형 건설사가 협력업체들과 접촉했다는...",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513477",
+      "date": "Wed, 11 Nov 2026 14:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUVN3YmY1WkpYZ1NibU02SUJsaDVXVmtrSXdkc3lqOVFqakF0WEo0dFlocWJ2eW92S29Cazd0YUxUOHhOdjByVEU4YUlOQ0pPRFQ4Q053NFIyNGY3V2dHQVpRekdzakhPbng0?oc=5": {
+      "title": "상주시 무역사절단, 해외 수출시장 확대 가능성 확인 - 내외경제TV",
+      "summary": "상주시 무역사절단, 해외 수출시장 확대 가능성 확인 내외경제TV",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUVN3YmY1WkpYZ1NibU02SUJsaDVXVmtrSXdkc3lqOVFqakF0WEo0dFlocWJ2eW92S29Cazd0YUxUOHhOdjByVEU4YUlOQ0pPRFQ4Q053NFIyNGY3V2dHQVpRekdzakhPbng0?oc=5",
+      "date": "Wed, 11 Nov 2026 05:51:39 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rR2dnZVNRSk5xRmVtWjNIVnVYTHhqYnpQc3A2bHcwWms3TWVkYlBLMWtBQ0YwekFCLTNDVFBvRjBlSWVyNVNjTDY2UENCUWlnek5HSA?oc=5": {
+      "title": "경북교육청, 김천 율빛유치원 학교복합시설 건립 본격화 - 김천신문",
+      "summary": "경북교육청, 김천 율빛유치원 학교복합시설 건립 본격화 김천신문",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rR2dnZVNRSk5xRmVtWjNIVnVYTHhqYnpQc3A2bHcwWms3TWVkYlBLMWtBQ0YwekFCLTNDVFBvRjBlSWVyNVNjTDY2UENCUWlnek5HSA?oc=5",
+      "date": "Wed, 11 Nov 2026 05:57:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hZjRvcVVia0xQd0g4bGh6ckR3VzFJeVhMZ2FLWGpMZEpobGdfRXFmc3hxeW5xZmFKUHpiQ0FQY0hxbkx6TFZhMV9Kb1NJejIwMVBJQVRrbngtX2g4VE16UGh3WWNnem9O?oc=5": {
+      "title": "대규모 첨단산업 투자에 날개 단 구미… 주택시장도 상승세 - 대경일보",
+      "summary": "대규모 첨단산업 투자에 날개 단 구미… 주택시장도 상승세 대경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hZjRvcVVia0xQd0g4bGh6ckR3VzFJeVhMZ2FLWGpMZEpobGdfRXFmc3hxeW5xZmFKUHpiQ0FQY0hxbkx6TFZhMV9Kb1NJejIwMVBJQVRrbngtX2g4VE16UGh3WWNnem9O?oc=5",
+      "date": "Wed, 11 Nov 2026 05:07:43 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oU21KRExUUTJqYUdjZVhrX0kwU2dmY3ZwSVhQSzJTMmZIdGhEWFBLTWJKNkwxcGVZX2t0cHlqMmFlaENMLXNURVV5VlRMb1Z3b3FhZkJ1N0JseGprWnVBTjBObXhzSGV5MGc?oc=5": {
+      "title": "임금협상 부결 포스코…노조 17일 서울 본사 앞 집회 예고 - 전파신문",
+      "summary": "임금협상 부결 포스코…노조 17일 서울 본사 앞 집회 예고 전파신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oU21KRExUUTJqYUdjZVhrX0kwU2dmY3ZwSVhQSzJTMmZIdGhEWFBLTWJKNkwxcGVZX2t0cHlqMmFlaENMLXNURVV5VlRMb1Z3b3FhZkJ1N0JseGprWnVBTjBObXhzSGV5MGc?oc=5",
+      "date": "Wed, 11 Nov 2026 05:33:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxWVFqc2pzRlFPTTZ4eVpnNjAxV2ZaNExNZXJ3WERtZU84bE1ReURka3dxcXdTLVFkX1FJLW5LQmdXUlJES2psOGY5bEZfN3BIZGFyVEFDclAxVWhIZzFQV3o1NGVUek5vNGtrQnhEbw?oc=5": {
+      "title": "포스코 장인화 회장 \"광양 제2 LNG터미널 준공으로 에너지 안보에 기여\" - 이코리아",
+      "summary": "포스코 장인화 회장 \"광양 제2 LNG터미널 준공으로 에너지 안보에 기여\" 이코리아",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxWVFqc2pzRlFPTTZ4eVpnNjAxV2ZaNExNZXJ3WERtZU84bE1ReURka3dxcXdTLVFkX1FJLW5LQmdXUlJES2psOGY5bEZfN3BIZGFyVEFDclAxVWhIZzFQV3o1NGVUek5vNGtrQnhEbw?oc=5",
+      "date": "Wed, 11 Nov 2026 05:07:33 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -11209,6 +11554,56 @@
       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731239",
       "title": "철강값 올린 포스코 ·현대제철...4분기 실적 반등 이어갈까",
       "date": "Wed, 11 Nov 2026 13:18:00 +0900"
+    },
+    {
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=728911",
+      "title": "경북 행복재단 특정감사 촉구…박채아 경북 도의원, 대표이사 복무 의혹 ...",
+      "date": "Wed, 11 Nov 2026 14:48:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/photos/8208864",
+      "title": "국세청 장 인사 청문회 일정 등 논의하는 재경위 여야 간사",
+      "date": "Wed, 11 Nov 2026 14:19:00 +0900"
+    },
+    {
+      "url": "https://biz.heraldcorp.com/article/10933883?ref=naver",
+      "title": "포스코 재교섭도 22분 만에 파행…노조, 17일 ‘상경투쟁’ 예고",
+      "date": "Wed, 11 Nov 2026 14:58:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rR2dnZVNRSk5xRmVtWjNIVnVYTHhqYnpQc3A2bHcwWms3TWVkYlBLMWtBQ0YwekFCLTNDVFBvRjBlSWVyNVNjTDY2UENCUWlnek5HSA?oc=5",
+      "title": "경북교육청, 김천 율빛유치원 학교복합시설 건립 본격화 - 김천신문",
+      "date": "Wed, 11 Nov 2026 05:57:00 GMT"
+    },
+    {
+      "url": "https://www.etnews.com/20261111000359",
+      "title": "포스코 노사, 임단협 두고 갈등 고조…노조 투쟁 예고",
+      "date": "Wed, 11 Nov 2026 14:56:00 +0900"
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563039",
+      "title": "포스코 노사, 임금협상 재교섭도 결렬...노조 17일 상경투쟁 예고",
+      "date": "Wed, 11 Nov 2026 14:54:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUVN3YmY1WkpYZ1NibU02SUJsaDVXVmtrSXdkc3lqOVFqakF0WEo0dFlocWJ2eW92S29Cazd0YUxUOHhOdjByVEU4YUlOQ0pPRFQ4Q053NFIyNGY3V2dHQVpRekdzakhPbng0?oc=5",
+      "title": "상주시 무역사절단, 해외 수출시장 확대 가능성 확인 - 내외경제TV",
+      "date": "Wed, 11 Nov 2026 05:51:39 GMT"
+    },
+    {
+      "url": "http://www.breaknews.com/1250212",
+      "title": "대구 시의회, 신산업·지역경제 현안 집중 점검…투자유치 사후관리 강화...",
+      "date": "Wed, 11 Nov 2026 14:50:00 +0900"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2017290",
+      "title": "포스코 노사, 평행선…노조 상경투쟁 예고",
+      "date": "Wed, 11 Nov 2026 14:50:00 +0900"
+    },
+    {
+      "url": "https://www.sedaily.com/article/20112991?ref=naver",
+      "title": "포스코 임단협 재교섭 22분 만에 결렬…“추가안 없다”에 노조 퇴장",
+      "date": "Wed, 11 Nov 2026 14:48:00 +0900"
     }
   ],
   "brief_articles": [
@@ -11261,7 +11656,7 @@
     "2026-11-08": 2,
     "2026-11-09": 8,
     "2026-11-10": 12,
-    "2026-11-11": 6
+    "2026-11-11": 7
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
