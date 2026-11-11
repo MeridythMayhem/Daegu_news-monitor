@@ -1089,7 +1089,9 @@
     "http://andongmbc.co.kr/adboard/NewsView85715": "2026-11-11T22:01:59.759098+09:00",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HYk92ZDVDeG92cEVUREw5ZTFyaWkwenlFSTBmQV80bkV5SDc2cEQ3bVBXRDVqOExIVmtYSl9ieDVXbzRRMlN3d19oVHNlRkxjeGxEc0tUWFZGYzMzdkJhQjdYTUlqeGpT0gFuQVVfeXFMTXFtTWZObzQ2X2JKUlQ5M3A4WDY0YlI4TFZqYTJGRHF1SkRnbndzSFA3a0M4Vk5HRnltcGdvT19CaGhPaVlVYzMtOEczQktPQTdKRUhGVjBvQnNWaDVEdkgxbGRIeE5pUEx3QXc3M2c?oc=5": "2026-11-11T22:01:59.759098+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=565118": "2026-11-11T22:01:59.759098+09:00",
-    "https://ysmbc.co.kr/NewsArticle/1545290": "2026-11-11T22:01:59.759098+09:00"
+    "https://ysmbc.co.kr/NewsArticle/1545290": "2026-11-11T22:01:59.759098+09:00",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlVrbWcwcFlfRURfNkg1ZUFHN09Ncy1yN1R2bFVmankzVFNBNU9aWGpjeHA0YndHU2dCcUhiWktXd2JNQVZTQ0xlUkx5VlhIYlMwMHYwT051X0ZndFdOWF9sMTJMamxxLUJqSW5mRVRPWlptdkxWcjNKUGtocHlZaUJTX1laNWVQemRqblZ0Zw?oc=5": "2026-11-11T23:02:24.867643+09:00",
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710451&ref=A": "2026-11-11T23:02:24.867643+09:00"
   },
   "titles": {
     "9f08b74fdd99d2b78613a8b340ec187175fd9c682d3757422e43188fedffd7f7": "2026-10-29T06:36:58.332937+09:00",
@@ -2181,7 +2183,9 @@
     "46c7a7b0fd89f24cd0920551feb98d4611d52e5db93f08e9871a1dade7ac719a": "2026-11-11T22:01:59.759098+09:00",
     "0dfd1d4a6bbd119226c46d8af0206e70f052995c6c80cb35914a89a484fedb15": "2026-11-11T22:01:59.759098+09:00",
     "fead19fcd960edf62f1c4ecd9d354f526c7544dcccdbe15cb69af6f0d35fd7cd": "2026-11-11T22:01:59.759098+09:00",
-    "ce9ba8e05b27bf0d27fcb6f900e21acf0022db234d901e07a17c0bd2105a5be8": "2026-11-11T22:01:59.759098+09:00"
+    "ce9ba8e05b27bf0d27fcb6f900e21acf0022db234d901e07a17c0bd2105a5be8": "2026-11-11T22:01:59.759098+09:00",
+    "a3e91e20e74dcbe98af53471023116c6fba84c8adc6da2acab0672dc3919dea3": "2026-11-11T23:02:24.867643+09:00",
+    "cbafb2c89ed6d7db738c5ff2eb2b46f3902d918f96f741b65b8679b2a2dcda04": "2026-11-11T23:02:24.867643+09:00"
   },
   "pending": {},
   "ai": {
@@ -2192,7 +2196,7 @@
     "2026-11-08": 3,
     "2026-11-09": 11,
     "2026-11-10": 18,
-    "2026-11-11": 13
+    "2026-11-11": 15
   },
   "cursor": 0,
   "archive": {
@@ -7021,6 +7025,71 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710451&ref=A": {
+      "title": "“대구시 신청사 건립 사업 원점 재검토해야”",
+      "summary": "대구 경북 녹색연합이 사업 원점 재검토를 촉구했습니다. 녹색연합은 재정난으로 입주 5년도 안 된 광교청사 매각을 검토하는 경기도 사례를 들며 같은 재정난을 겪는 대구시가 4천5백억 원 규모의 신청사 건립 을 서둘러야...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710451&ref=A",
+      "date": "Wed, 11 Nov 2026 22:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newstown.co.kr/news/articleView.html?idxno=721594": {
+      "title": "경주시, 미국 일지테크 현지법인과 투자협약 …자동차부품 공급망 협력 ...",
+      "summary": "일지테크는 경북 경산에 본사를 둔 자동차 차체부품 전문 제조기업으로, 경주지역에서 4개 공장을 운영하고... 양측은 2019년부터 세 차례에 걸쳐 총 1,865억 원 규모의 투자협약 을 체결했으며, 이를 바탕으로 경주지역...",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721594",
+      "date": "Wed, 11 Nov 2026 22:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newstown.co.kr/news/articleView.html?idxno=721588": {
+      "title": "포항 시, 국제전시컨벤션센터 건립 현장 점검…2027년 4월 준공 목표",
+      "summary": "11일 포항 국제전시컨벤션센터 건립 현장을 찾아 공사 진행 상황과 주변 정비 현황을 점검하는 박용선 포항 시장 (사진 / 포항 시 제공) 포항 시는 11일 박용선 시장이 포항 국제전시컨벤션센터 건립 현장을 방문해 주요 시설의...",
+      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721588",
+      "date": "Wed, 11 Nov 2026 22:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlVrbWcwcFlfRURfNkg1ZUFHN09Ncy1yN1R2bFVmankzVFNBNU9aWGpjeHA0YndHU2dCcUhiWktXd2JNQVZTQ0xlUkx5VlhIYlMwMHYwT051X0ZndFdOWF9sMTJMamxxLUJqSW5mRVRPWlptdkxWcjNKUGtocHlZaUJTX1laNWVQemRqblZ0Zw?oc=5": {
+      "title": "시노펙스, 영덕 산불피해지 '탄소중립 숲' 착공 : 네이버 블로그 - Naver Blog",
+      "summary": "시노펙스, 영덕 산불피해지 '탄소중립 숲' 착공 : 네이버 블로그 Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlVrbWcwcFlfRURfNkg1ZUFHN09Ncy1yN1R2bFVmankzVFNBNU9aWGpjeHA0YndHU2dCcUhiWktXd2JNQVZTQ0xlUkx5VlhIYlMwMHYwT051X0ZndFdOWF9sMTJMamxxLUJqSW5mRVRPWlptdkxWcjNKUGtocHlZaUJTX1laNWVQemRqblZ0Zw?oc=5",
+      "date": "Wed, 11 Nov 2026 13:39:42 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMcnhFM01yeGV3WURvMzVqUjFMR2ZiNlFiSjZKdlQtaTVsN1RFc1hVYnhlV0sxeUxCSlhJMmx1dVMxcklqVVdtLTR2VjlZeUY1UlJfZXl6NDE1U3BKVW5NTkwyLVJDU3FCTXFzUk1R?oc=5": {
+      "title": "경주시, 미국 일지테크 현지법인과 투자협약…자동차부품 공급망 협력 확대 - 뉴스타운",
+      "summary": "경주시, 미국 일지테크 현지법인과 투자협약…자동차부품 공급망 협력 확대 뉴스타운",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMcnhFM01yeGV3WURvMzVqUjFMR2ZiNlFiSjZKdlQtaTVsN1RFc1hVYnhlV0sxeUxCSlhJMmx1dVMxcklqVVdtLTR2VjlZeUY1UlJfZXl6NDE1U3BKVW5NTkwyLVJDU3FCTXFzUk1R?oc=5",
+      "date": "Wed, 11 Nov 2026 13:12:35 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -11055,6 +11124,16 @@
       "url": "https://ysmbc.co.kr/NewsArticle/1545290",
       "title": "포스코 노사 협상 난항...노조 쟁의 행위 강화",
       "date": "Wed, 11 Nov 2026 21:22:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlVrbWcwcFlfRURfNkg1ZUFHN09Ncy1yN1R2bFVmankzVFNBNU9aWGpjeHA0YndHU2dCcUhiWktXd2JNQVZTQ0xlUkx5VlhIYlMwMHYwT051X0ZndFdOWF9sMTJMamxxLUJqSW5mRVRPWlptdkxWcjNKUGtocHlZaUJTX1laNWVQemRqblZ0Zw?oc=5",
+      "title": "시노펙스, 영덕 산불피해지 '탄소중립 숲' 착공 : 네이버 블로그 - Naver Blog",
+      "date": "Wed, 11 Nov 2026 13:39:42 GMT"
+    },
+    {
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710451&ref=A",
+      "title": "“대구시 신청사 건립 사업 원점 재검토해야”",
+      "date": "Wed, 11 Nov 2026 22:05:00 +0900"
     }
   ],
   "brief_articles": [
@@ -11107,7 +11186,7 @@
     "2026-11-08": 2,
     "2026-11-09": 8,
     "2026-11-10": 12,
-    "2026-11-11": 10
+    "2026-11-11": 11
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
