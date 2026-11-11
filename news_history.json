@@ -1868,7 +1868,8 @@
     "https://sports.donga.com/region/article/all/20261111/135005066/1": "2026-11-11T12:02:11.239841+09:00",
     "https://www.ajunews.com/view/20261111111158811": "2026-11-11T12:02:11.239841+09:00",
     "https://www.ngonews.kr/news/articleView.html?idxno=242821": "2026-11-11T12:02:11.239841+09:00",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRSUYwVmduLWhMX1pHRWRUdkJRM2RkLVQtTzlvSExRU3dSSi0tZ1BBOWVoRk5uWElJYjdKQnR6dGJJQzFYWG9kQkFaeTBFbFdMcUxtSVEtVHh1M0c2RS1YeUZhemVzRTNJ?oc=5": "2026-11-11T12:02:11.239841+09:00"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRSUYwVmduLWhMX1pHRWRUdkJRM2RkLVQtTzlvSExRU3dSSi0tZ1BBOWVoRk5uWElJYjdKQnR6dGJJQzFYWG9kQkFaeTBFbFdMcUxtSVEtVHh1M0c2RS1YeUZhemVzRTNJ?oc=5": "2026-11-11T12:02:11.239841+09:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNldJdkNXSW5tamp2VU5TV3JSdFBBaGVINlRqSEpCc1N5bHJnMXBOQTM3RGtIY0FUOEp3bkQxQ0lnUFVZaERvV2NIZm1SWWhFZ0UyMmkxLTRWaExhcnJiQWN5TVQyTjB0ZEdxeg?oc=5": "2026-11-11T13:01:46.503146+09:00"
   },
   "titles": {
     "aeaa6c85d3a83df2db5268b6c4ba8863d2bedeab61d13741db25ff130e1b60e4": "2026-10-28T15:01:50.428627+09:00",
@@ -3239,7 +3240,8 @@
     "09bf50af93d6e896637112c448282ba4ee44d7108eb394bae9001b03c181bec6": "2026-11-11T12:02:11.239841+09:00",
     "c5479a49b50cc155f276b275f4d42f2a993a4376632ab324c7ca4fb6129ee798": "2026-11-11T12:02:11.239841+09:00",
     "fed49ebf7de017566b3113f501bcf940c1a1b835ab6ad5eadd80f12619745060": "2026-11-11T12:02:11.239841+09:00",
-    "2907fb18c0da9f028feab104c513dd33e96fe4b1363f8513fe160d2d6b51f053": "2026-11-11T12:02:11.239841+09:00"
+    "2907fb18c0da9f028feab104c513dd33e96fe4b1363f8513fe160d2d6b51f053": "2026-11-11T12:02:11.239841+09:00",
+    "beda1eafa538a31a3a48f5d54ba4761874a93a43fe8c98ea93839e77daa2f22a": "2026-11-11T13:01:46.503146+09:00"
   },
   "pending": {},
   "ai": {
@@ -3254,19 +3256,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.ppss.kr/news/articleView.html?idxno=319804": {
-      "title": "[PPSS 기업해부 포스코 ⑥] 매출 69조에도 영업이익률 2.6%… 포스코 , 실...",
-      "summary": "포스코홀딩스 의 2025년 연결 매출액은 69조955억원, 영업이익은 1조8,270억원, 당기순이익은 5,040억원을 기록했다. 2024년 매출액 72조6,680억원, 영업이익 2조1,730억원과 비교하면 매출은 약 4.9%, 영업이익은 약 15.9...",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=319804",
-      "date": "Mon, 09 Nov 2026 13:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.getnews.co.kr/news/articleView.html?idxno=886485": {
       "title": "포항 시, 미국 유통 거점 '한남체인'과 수출 MOU 체결… 북미 시장 진출 ...",
       "summary": "포항 시는 지난 6일(현지시간) 미국 서부 지역의 대표적인 대형 한인 유통 기업인 '한남체인 USA'와 포항 시 우수 농수산특산품의 미주 시장 진출 본격화를 위한 전략적 업무협약( MOU )을 체결했다고 밝혔다. 이번에 손을 잡은...",
@@ -7454,6 +7443,19 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNldJdkNXSW5tamp2VU5TV3JSdFBBaGVINlRqSEpCc1N5bHJnMXBOQTM3RGtIY0FUOEp3bkQxQ0lnUFVZaERvV2NIZm1SWWhFZ0UyMmkxLTRWaExhcnJiQWN5TVQyTjB0ZEdxeg?oc=5": {
+      "title": "[포스코 임단협⑲] 11일 본교섭 '무기한 파업' 갈림길…노조, 특별조합비 총회 추진 - 페로타임즈",
+      "summary": "[포스코 임단협⑲] 11일 본교섭 '무기한 파업' 갈림길…노조, 특별조합비 총회 추진 페로타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNldJdkNXSW5tamp2VU5TV3JSdFBBaGVINlRqSEpCc1N5bHJnMXBOQTM3RGtIY0FUOEp3bkQxQ0lnUFVZaERvV2NIZm1SWWhFZ0UyMmkxLTRWaExhcnJiQWN5TVQyTjB0ZEdxeg?oc=5",
+      "date": "Wed, 11 Nov 2026 03:33:01 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -11138,6 +11140,11 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRSUYwVmduLWhMX1pHRWRUdkJRM2RkLVQtTzlvSExRU3dSSi0tZ1BBOWVoRk5uWElJYjdKQnR6dGJJQzFYWG9kQkFaeTBFbFdMcUxtSVEtVHh1M0c2RS1YeUZhemVzRTNJ?oc=5",
       "title": "포스코 '광양 제2고로' 개수 논란…청년들 “탄소 배출 미래까지 결정할 권리 없다” - 한국NGO신문",
       "date": "Wed, 11 Nov 2026 02:02:55 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNldJdkNXSW5tamp2VU5TV3JSdFBBaGVINlRqSEpCc1N5bHJnMXBOQTM3RGtIY0FUOEp3bkQxQ0lnUFVZaERvV2NIZm1SWWhFZ0UyMmkxLTRWaExhcnJiQWN5TVQyTjB0ZEdxeg?oc=5",
+      "title": "[포스코 임단협⑲] 11일 본교섭 '무기한 파업' 갈림길…노조, 특별조합비 총회 추진 - 페로타임즈",
+      "date": "Wed, 11 Nov 2026 03:33:01 GMT"
     }
   ],
   "brief_articles": [
