@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5": "2026-10-29T22:02:30.153316+09:00",
     "http://www.breaknews.com/1246970": "2026-10-30T09:02:46.508680+09:00",
     "http://www.breaknews.com/1246983": "2026-10-30T09:02:46.508680+09:00",
     "http://www.wsobi.com/news/articleView.html?idxno=320686": "2026-10-30T09:02:46.508680+09:00",
@@ -886,7 +885,6 @@
     "https://www.ksmnews.co.kr/news/view.php?idx=629456": "2026-11-12T22:01:55.678387+09:00"
   },
   "titles": {
-    "7037c2d8d3399c50e9a38492c9f10093a729250eb8a74910d8cb59d4a8de22b3": "2026-10-29T22:02:30.153316+09:00",
     "3610e3d9aeb69be4528e21c5177d68d83129b67724eaabc341ae1de3800ff6f5": "2026-10-30T09:02:46.508680+09:00",
     "005e15f5de3d5a10b8efbafed1ff33a147fe1207f6b694b93f206d2fa8bf96eb": "2026-10-30T09:02:46.508680+09:00",
     "298906e9551bc787edfda14c71654fc451f2a5bb5473dfdbc1e96dfbbe271251": "2026-10-30T09:02:46.508680+09:00",
@@ -1784,32 +1782,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.energy-news.co.kr/news/articleView.html?idxno=229663": {
-      "title": "당진 석탄발전 대체할 '호남복합', 핵심설비 건설계약",
-      "summary": "동서발전은 9일 울산 본사에서 현대엔지니어링· 포스코 이앤씨 공동수급체와 '호남 복합발전소 파워블럭 설치조건부 구매계약'을 체결했다. 체결식에는 권명호 동서발전 사장과 송치영 포스코 이앤씨 사장, 이승원...",
-      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229663",
-      "date": "Tue, 10 Nov 2026 22:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.geconomy.co.kr/news/article.html?no=325504": {
-      "title": "포스코 인터내셔널, 광양에 9,492억 LNG터미널 준공…133만㎘ 에너지 저장...",
-      "summary": "- 국내 단일 민간기업 최대 저장능력 확보…전 국민 40일분 난방용 가스 저장 규모 - 광양제철소·이차전지 소재·LNG 잇는 산업 기반… 포스코 그룹 미래 성장축 광양에 집결 지이코노미 김정훈 기자 | 포스코 인터내셔널이...",
-      "url": "https://www.geconomy.co.kr/news/article.html?no=325504",
-      "date": "Tue, 10 Nov 2026 22:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.breaknews.com/1249996": {
       "title": "상주시 무역사절단, 동남아 시장서 400만 달러 규모 수출 성과 거둬",
       "summary": "양해각서( MOU ) 140만 달러 규모의 성과를 달성했다. 특히 ㈜예스코리아는 베트남... lead to concrete export contracts and increased revenue.” 원본 기사 보기:브레이크뉴스 대구 경북",
