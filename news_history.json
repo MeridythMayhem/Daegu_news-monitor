@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBydmZCOWp6UHJ3U0JwdlVvY3Q0NENYcWdoNzJxLUtNM0FYZVo2VUVKZkliZDZwZlFISmtjd3g3NVJ2bXQwQVVpSTZ0U3Q4N2FFZTBMdEc5UEMyQ3o3TGZZUkhwdENBVTQ?oc=5": "2026-10-29T20:02:39.876584+09:00",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": "2026-10-29T21:02:35.661481+09:00",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5": "2026-10-29T22:02:30.153316+09:00",
     "http://www.breaknews.com/1246970": "2026-10-30T09:02:46.508680+09:00",
@@ -879,10 +878,11 @@
     "https://www.mt.co.kr/stock/2026/11/12/2026111218003954579": "2026-11-12T19:02:24.508757+09:00",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2313392": "2026-11-12T20:02:05.932343+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRlMwUFdnd3F0ZFVUMUltSmxLaTN0RFoyV3NfYkxRU3ZiOTlSNGpPS1RnZ1BwU1ZHZ2xKRWwxU1N0anZWcFlyTlMzcm9FT2tTdE95YkpkeFhhbXpHNUpFMlVUamJyZ09YVkFV?oc=5": "2026-11-12T20:02:05.932343+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698": "2026-11-12T20:02:05.932343+09:00"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698": "2026-11-12T20:02:05.932343+09:00",
+    "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m": "2026-11-12T21:02:27.440071+09:00",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5": "2026-11-12T21:02:27.440071+09:00"
   },
   "titles": {
-    "6e284bff603adf59b35484b98a311cbeaaec53d949bb74bb6a2c3a39d7bbb79c": "2026-10-29T20:02:39.876584+09:00",
     "2e8f09264a2982b1b94c6f877acd37e7d6516770540f47d1a31c60a7e271705e": "2026-10-29T21:02:35.661481+09:00",
     "7037c2d8d3399c50e9a38492c9f10093a729250eb8a74910d8cb59d4a8de22b3": "2026-10-29T22:02:30.153316+09:00",
     "3610e3d9aeb69be4528e21c5177d68d83129b67724eaabc341ae1de3800ff6f5": "2026-10-30T09:02:46.508680+09:00",
@@ -1761,7 +1761,9 @@
     "2ed9b6d1dd7262845199cd229dc1e3a4b80f76153dd85345246ddd58b02a5d21": "2026-11-12T19:02:24.508757+09:00",
     "d5c1636f377c2353b96eebf1ef2a253ab006095b14f43096e13f9a621fc2b872": "2026-11-12T20:02:05.932343+09:00",
     "aaf5459f9d4ab06ccdf8a522ee5b676610919012291e0f89832929ca987117c1": "2026-11-12T20:02:05.932343+09:00",
-    "4427bf1b2f1b48f0cb0c20e9cf4e9d193a336c2601197512dc48589eada8921e": "2026-11-12T20:02:05.932343+09:00"
+    "4427bf1b2f1b48f0cb0c20e9cf4e9d193a336c2601197512dc48589eada8921e": "2026-11-12T20:02:05.932343+09:00",
+    "bd502d13acd8313f83ad07608f628b2e2241b2ff69fd5631a37369ac173faaac": "2026-11-12T21:02:27.440071+09:00",
+    "408246a77c8a5fea97492d68a96208dfc5884841ad08f15bf099131e145bfcb9": "2026-11-12T21:02:27.440071+09:00"
   },
   "pending": {},
   "ai": {
@@ -1772,36 +1774,10 @@
     "2026-11-09": 11,
     "2026-11-10": 18,
     "2026-11-11": 15,
-    "2026-11-12": 17
+    "2026-11-12": 19
   },
   "cursor": 0,
   "archive": {
-    "https://www.starnewskorea.com/business-life/2026/11/10/2026111020340556963": {
-      "title": "구속된 대표이사·불리한 콜옵션 계약… 영풍-MBK 의사결정 과정 둘러싼...",
-      "summary": "대구 지검 안동지청은 2024년 9월 23일 박영민 당시 대표이사를 중대재해처벌법 위반 혐의 로, 배상윤 당시 대표이사 겸 석포제련소장을 산업안전보건법 위반 등 혐의 로 구속기소했다. 문제는 회사 경영을 책임지는...",
-      "url": "https://www.starnewskorea.com/business-life/2026/11/10/2026111020340556963",
-      "date": "Tue, 10 Nov 2026 20:39:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNERoTmllcnVuRkJmVVZkblF1UVNINHZMVGpjVW5qZUMzU20xcFN1MHJxaEloUDB6QzIyVWtCSHBkdG9iakk0bDNwcHJDWXNqVHI2MDZWeTlwcnVBN2E1dWtNdk55R1FFS29XRGQ5VGU?oc=5": {
-      "title": "에코프로비엠 3분기 영업이익 120억…전년比 76% 급감 - 리드경제",
-      "summary": "에코프로비엠 3분기 영업이익 120억…전년比 76% 급감 리드경제",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNERoTmllcnVuRkJmVVZkblF1UVNINHZMVGpjVW5qZUMzU20xcFN1MHJxaEloUDB6QzIyVWtCSHBkdG9iakk0bDNwcHJDWXNqVHI2MDZWeTlwcnVBN2E1dWtNdk55R1FFS29XRGQ5VGU?oc=5",
-      "date": "Tue, 10 Nov 2026 11:05:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564983": {
       "title": "신보· iM뱅크 ·대구신보재단 '내부통제 역량 강화' MOU",
       "summary": "신용보증기금과 iM뱅크 , 대구신용보증재단이 감사 전문성 제고와 내부통제 역량 강화를 위해 맞손을 잡았다. 신보는 대구 본사에서 iM뱅크 , 대구신용보증재단과 '감사 전문성 제고 및 내부통제 역량 강화를 위한 업무협약...",
@@ -6574,6 +6550,58 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m": {
+      "title": "경산시 공장 서 화재 …소방 당국, 진화 중",
+      "summary": "12일 오후 8시 1분께 경북 경산시 진량읍 선화리 한 공장 에서 화재 가 발생했다. 소방 당국은 관할 소방서 인력이 전체가 출동하는 대응 1단계를 발령하고 불을 끄고 있다. 경산시는 ' 화재 가 발생했으니 인근 주민들은 연기...",
+      "url": "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m",
+      "date": "Thu, 12 Nov 2026 20:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3750518": {
+      "title": "[속보] 경산 진량읍 골판지 제조 업체서 화재 … \"불 피해 주의\"",
+      "summary": "경북 경산시 진량읍의 한 사업장에서 화재 가 발생해 지자체가 인근 주민들에게 안전 주의를 당부했다. 경산시에 따르면 12일 오후 8시 1분경 경상북도 경산시 진량읍 선화리에 위치한 골판지상자 제조 업체에서 불이...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750518",
+      "date": "Thu, 12 Nov 2026 20:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.khan.co.kr/article/202611122031025": {
+      "title": "포스코 이앤씨, 고창에 ‘해상풍력’ 착공",
+      "summary": "포스코 이앤씨가 전북 고창군 앞바다에 76.2㎿(메가와트) 규모의 해상풍력발전소를 짓는다. 투입되는 총공사비는 약 2974억원이다. 포스코 이앤씨는 ‘고창 해상풍력 프로젝트’ 공사 계약을 맺고 이달 착공한다고 12일...",
+      "url": "https://www.khan.co.kr/article/202611122031025",
+      "date": "Thu, 12 Nov 2026 20:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5": {
+      "title": "Uzbekistan's TMK, South Korea's POSCO discuss lithium, graphite investments - Trend News Agency",
+      "summary": "Uzbekistan's TMK, South Korea's POSCO discuss lithium, graphite investments Trend News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5",
+      "date": "Thu, 12 Nov 2026 11:27:59 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -6597,11 +6625,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-12",
   "sent_articles": [
-    {
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view",
-      "title": "포스코 노사, 무기한 파업 앞두고 실무교섭 진행",
-      "date": "Thu, 29 Oct 2026 20:42:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5",
       "title": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\" - www.ebn.co.kr",
@@ -10991,6 +11014,16 @@
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698",
       "title": "AI바이오·메디시티 대구 협의회, 16일 중국 시안 방문…의료 수출 타진",
       "date": "Thu, 12 Nov 2026 19:16:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m",
+      "title": "경산시 공장 서 화재 …소방 당국, 진화 중",
+      "date": "Thu, 12 Nov 2026 20:54:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5",
+      "title": "Uzbekistan's TMK, South Korea's POSCO discuss lithium, graphite investments - Trend News Agency",
+      "date": "Thu, 12 Nov 2026 11:27:59 GMT"
     }
   ],
   "brief_articles": [
@@ -11038,7 +11071,7 @@
     "2026-11-09": 8,
     "2026-11-10": 12,
     "2026-11-11": 11,
-    "2026-11-12": 11
+    "2026-11-12": 12
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
