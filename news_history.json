@@ -1771,134 +1771,17 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-05": 31,
     "2026-11-06": 18,
     "2026-11-07": 7,
     "2026-11-08": 3,
     "2026-11-09": 11,
     "2026-11-10": 18,
     "2026-11-11": 15,
-    "2026-11-12": 20
+    "2026-11-12": 20,
+    "2026-11-13": 2
   },
   "cursor": 0,
   "archive": {
-    "http://www.breaknews.com/1249996": {
-      "title": "상주시 무역사절단, 동남아 시장서 400만 달러 규모 수출 성과 거둬",
-      "summary": "양해각서( MOU ) 140만 달러 규모의 성과를 달성했다. 특히 ㈜예스코리아는 베트남... lead to concrete export contracts and increased revenue.” 원본 기사 보기:브레이크뉴스 대구 경북",
-      "url": "http://www.breaknews.com/1249996",
-      "date": "Wed, 11 Nov 2026 07:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.newsfarm.co.kr/news/articleView.html?idxno=102914": {
-      "title": "대동 , 새만금 '로봇 팜 팩토리' 사업화 논의",
-      "summary": "원유현 대동 그룹 부회장, 박지원 더불어민주당 의원, 이원택 전북특별자치도지사, 정성주 김제시장 등이 간담회 후 기념 사진을 촬영하고 있다. 대동 (공동대표 김준식·원유현)이 전북특별자치도·김제시·현대차그룹...",
-      "url": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102914",
-      "date": "Wed, 11 Nov 2026 02:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.vegannews.co.kr/news/article.html?no=403283": {
-      "title": "에코프로 비엠, 인니 투자법인 지분 99.9% 확보 추진",
-      "summary": "에코프로 비엠(247540)이 인도네시아 종속회사 PT ECOPRO BNSI INVESTMENT에 6271억원을 출자해 지분율을 99.9%로 높이는 방안을 추진한다. 금융감독원 전자공시시스템(DART)에 10일 제출한 타법인 주식 및 출자증권...",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=403283",
-      "date": "Wed, 11 Nov 2026 00:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsis.com/view/NISX20261110_0003862713": {
-      "title": "장인화 '트리플 코어' 결실… 포스코 그룹, 전남광주 대규모 투자로 에너...",
-      "summary": "포스코 그룹이 전남광주통합특별시(전남광주)에 국내 기업 가운데 최대 규모의 투자를 단행하며 핵심 자원 공급망을 지속 강화하고 있다. 장인화 포스코 그룹 회장이 주도해 온 트리플 코어(산업 자원, 전략 자원...",
-      "url": "https://www.newsis.com/view/NISX20261110_0003862713",
-      "date": "Wed, 11 Nov 2026 05:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.newsbrite.net/news/articleView.html?idxno=201388": {
-      "title": "포스코 인터, 그룹 미래성장 거점 '광양 제2 LNG터미널' 준공",
-      "summary": "장인화 포스코 그룹 회장이 광양 제2 LNG터미널 준공식에서 기념사를 하고 있다.준공식에 참석한 이기연... 장인화 포스코 그룹 회장, 이계인 포스코 인터내셔널 사장, 김준 포스코 인터내셔널 노조위원장, 이희근 포스코 ...",
-      "url": "http://www.newsbrite.net/news/articleView.html?idxno=201388",
-      "date": "Tue, 10 Nov 2026 23:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc0t3ajBqMVotOGYyc2VSR2FEeTgtSzV5MzE2OVp5Zk9ETlJKbmlBTFNXWlNjRWtUenVHSEw2UC1pX200cnFWOTBWRklYaktEWlMyU3NONVQ3VVNiZ3RfZ3ZkZ3VDVjI4TTdQTF8tQQ?oc=5": {
-      "title": "경상북도, 산불 피해 \" 제이오푸드 \" , 595일 만에 안동 신공장 준공 밝혀 !! - 내외일보",
-      "summary": "경상북도, 산불 피해 \" 제이오푸드 \" , 595일 만에 안동 신공장 준공 밝혀 !! 내외일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc0t3ajBqMVotOGYyc2VSR2FEeTgtSzV5MzE2OVp5Zk9ETlJKbmlBTFNXWlNjRWtUenVHSEw2UC1pX200cnFWOTBWRklYaktEWlMyU3NONVQ3VVNiZ3RfZ3ZkZ3VDVjI4TTdQTF8tQQ?oc=5",
-      "date": "Tue, 10 Nov 2026 14:51:51 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SN3FLSGw0enprSUFwZVJ1dV9VTGVoWFZwSi1hMmpJUHhNMFRlaGVhMUF0bnZNQllxM2tlRmhINzZRUTZGTmZIY1VHMHF3dTVLU0dnQW5xWGZncXdjLWZkYXhscGVkM2lJ?oc=5": {
-      "title": "경북 학교급식교육관 상주에 건립..내후년 개관 - 안동MBC",
-      "summary": "경북 학교급식교육관 상주에 건립..내후년 개관 안동MBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SN3FLSGw0enprSUFwZVJ1dV9VTGVoWFZwSi1hMmpJUHhNMFRlaGVhMUF0bnZNQllxM2tlRmhINzZRUTZGTmZIY1VHMHF3dTVLU0dnQW5xWGZncXdjLWZkYXhscGVkM2lJ?oc=5",
-      "date": "Tue, 10 Nov 2026 16:03:57 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZQllJdjN6M2VVaXJsMG5EYkNfRFIycUpQajEyazlGR2k4UlVCVmVZVGZWeU1PaDZqQXhZMmxCRGlZaHpjOE1zb29sM0tQUzJTZEh1cTFZS0RBVENNbmRaRkV3TGtoR2xtd2Q00gFrQVVfeXFMT1lCWUl2M3ozZVVpcmwwbkRiQ19EUjJxSlBqMTJrOUZHaThSVUJWZVlUZlZ5TU9oNmpBeFkybEJEaVloemM4TXNvb2wzS1BTMlNkSHVxMVlLREFUQ01uZFpGRXdMa2hHbG13ZDQ?oc=5": {
-      "title": "산불 피해 딛고 다시 선 제이오푸드, 안동 풍산읍에 신공장 준공 - 서울매일신문",
-      "summary": "산불 피해 딛고 다시 선 제이오푸드, 안동 풍산읍에 신공장 준공 서울매일신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZQllJdjN6M2VVaXJsMG5EYkNfRFIycUpQajEyazlGR2k4UlVCVmVZVGZWeU1PaDZqQXhZMmxCRGlZaHpjOE1zb29sM0tQUzJTZEh1cTFZS0RBVENNbmRaRkV3TGtoR2xtd2Q00gFrQVVfeXFMT1lCWUl2M3ozZVVpcmwwbkRiQ19EUjJxSlBqMTJrOUZHaThSVUJWZVlUZlZ5TU9oNmpBeFkybEJEaVloemM4TXNvb2wzS1BTMlNkSHVxMVlLREFUQ01uZFpGRXdMa2hHbG13ZDQ?oc=5",
-      "date": "Tue, 10 Nov 2026 14:18:18 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a0wwX0x1Zk9OcXVSeW50S1NDcnYwbklqWWRmemp1b21XaERjbmRhRFVFbFFkNlZvSEhWZDhSMHJGZDNBV0IycUllNUIwQUN4MUVQNGh2MTZMLWJBb0sxZ1JYYlRpSXIzQ3RKcGw4dzFNaFZFOXR3aUdzRGtmUQ?oc=5": {
-      "title": "구미시, 박정희 생가 재단 설립·역사자료관 제2관 건립 추진 - 경북문화신문",
-      "summary": "구미시, 박정희 생가 재단 설립·역사자료관 제2관 건립 추진 경북문화신문",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90a0wwX0x1Zk9OcXVSeW50S1NDcnYwbklqWWRmemp1b21XaERjbmRhRFVFbFFkNlZvSEhWZDhSMHJGZDNBV0IycUllNUIwQUN4MUVQNGh2MTZMLWJBb0sxZ1JYYlRpSXIzQ3RKcGw4dzFNaFZFOXR3aUdzRGtmUQ?oc=5",
-      "date": "Tue, 10 Nov 2026 18:41:21 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.etoday.co.kr/news/view/2646554": {
       "title": "대구 시의회, 투자유치기업 사후관리 부실 등 지적",
       "summary": "이투데이= 대구 경북취재본부 이종팔 기자 | 박종필 위원장 “SK AI 데이터센터 투자 철회 경위” 따져 권오섭 위원 “ MOU 체결기업의 실질적 투자이행” 촉구 대구 시의회 경제환경위원회는 10일 대구 시 인공지능혁신성장실...",
@@ -6632,28 +6515,236 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.newsis.com/view/NISX20261113_0003866447": {
+      "title": "경북 경산 골판지 공장 화재 11시간 30여분 만에 완진",
+      "summary": "12일 오후 8시 1분께 경북 경산시 진량읍 골판지 제조 공장 에서 큰 불이 나 11시간 30여분 만에 꺼졌다. 13일 경북 소방본부에 따르면 전날 오후 8시 1분께 발생한 이 화재 를 이날 오전 7시 35분께 완진했다고 밝혔다. 이...",
+      "url": "https://www.newsis.com/view/NISX20261113_0003866447",
+      "date": "Fri, 13 Nov 2026 07:59:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6352681": {
+      "title": "경산 골판지 공장 화재 11시간여 만에 완진…인접 공장 까지 피해",
+      "summary": "경북 경산시 진량읍의 한 골판지 제조 공장 에서 발생한 불이 11시간 34분 만에 완전히 꺼졌다. 13일... 소방 당국은 분전반에서 전기적 요인으로 불이 시작된 것으로 추정하고 정확한 화재 원인과 피해 규모 등을...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6352681",
+      "date": "Fri, 13 Nov 2026 07:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.newspim.com/news/view/20261113000024": {
+      "title": "경산 골판지 공장 화재 큰 불길잡고 밤샘 진화 중...인명피해 없어",
+      "summary": "경북 경산의 한 골판지 공장 에서 화재 가 발생해 소방당국이 발화 2시간40여 분 만에 큰 불길을 잡고 밤샘 진화하고 있다. 다행히 현재까지 인명피해는 발생하지 않았다. 13일 경북 소방본부에 따르면 전날 오후 8시...",
+      "url": "https://www.newspim.com/news/view/20261113000024",
+      "date": "Fri, 13 Nov 2026 07:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.newsis.com/view/NISX20261113_0003866378": {
+      "title": "경산 골판지 공장 화재 큰 불길 잡았다…인명피해 없어(종합)",
+      "summary": "12일 오후 8시 1분께 경북 경산시 진량읍 골판지 제조 공장 에서 불이 났다. 소방 당국은 불이 주변으로 번질 우려가 있다고 보고 대응 1단계를 발령 후 진화에 나서 화재 발생 2시간 40여 분 만인 오후 10시 40분께 큰 불길을...",
+      "url": "https://www.newsis.com/view/NISX20261113_0003866378",
+      "date": "Fri, 13 Nov 2026 06:19:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.tbc.co.kr/news/view?pno=20261113010129AE08466&id=213275": {
+      "title": "[속보]경산 골판지상자 공장 화재 , 2시간 40분 만에 큰 불길 잡아",
+      "summary": "제조 공장 에서 난 불은 2시간 40분 만에 큰 불길이 잡혔습니다. 경북 소방본부는 관할 소방서 인력 전체가... 것으로 파악됐는데 경찰과 소방 당국은 진화 작업을 마친 뒤 정확한 화재 원인과 피해 규모를 조사할 계획입니다.",
+      "url": "https://www.tbc.co.kr/news/view?pno=20261113010129AE08466&id=213275",
+      "date": "Fri, 13 Nov 2026 01:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6606297": {
+      "title": "경산 골판지 공장 화재 2시간 40여 분 만에 초진",
+      "summary": "12일 경북 소방본부에 따르면 이날 오후 8시 1분쯤 경북 경산시 진량읍 선화리의 한 골판지 공장 에서 불이... 이 불로 공장 건물 4개 동이 전소됐고, 인명피해는 없었다. 앞서 소방 당국은 화재 발생 10여 분 만에 대응...",
+      "url": "https://www.nocutnews.co.kr/news/6606297",
+      "date": "Thu, 12 Nov 2026 23:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6352626": {
+      "title": "경산 골판지 제조 공장 화재 2시간 43분 만에 초진…인명피해 없어(종합...",
+      "summary": "12일 오후 8시 1분쯤 경북 경산시 진량읍 선화리의 한 골판지 상자 제조 공장 에서 불이 났다. 소방 당국은... 소방 당국은 잔불을 정리하는 한편 진화가 완료되는 대로 정확한 화재 원인과 피해 규모를 조사할...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6352626",
+      "date": "Thu, 12 Nov 2026 23:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.kpinews.kr/newsView/1065562528098318": {
+      "title": "포스코 인터내셔널, 우즈베키스탄 측과 리튬·흑연 투자 논의",
+      "summary": "포스코 인터내셔널이 우즈베키스탄 국영 기업과 리튬·흑연 투자에 대해 논의했다. ▲ 포스코 인터내셔널과 우즈베키스탄 기술금속콤비나트의 리튬·흑연 투자 논의 소식을 전한 '트렌드 뉴스 에이전시' 기사....",
+      "url": "https://www.kpinews.kr/newsView/1065562528098318",
+      "date": "Fri, 13 Nov 2026 06:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.segye.com/newsView/20261112515634?OutUrl=naver": {
+      "title": "[경제 단신] 포스코 이앤씨, 고창 해상풍력발전 착공 외",
+      "summary": "포스코 이앤씨, 고창 해상풍력발전 착공 포스코 이앤씨는 전북 고창 앞바다에 조성되는 76.2㎿(메가와트) 규모 ‘고창 해상풍력 프로젝트’ 공사 계약을 체결하고 이달 착공한다고 12일 밝혔다. 고창 해상풍력발전이...",
+      "url": "https://www.segye.com/newsView/20261112515634?OutUrl=naver",
+      "date": "Fri, 13 Nov 2026 05:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.donga.com/news/Economy/article/all/20261112/135016693/2": {
+      "title": "포스코 이앤씨, 고창 해상풍력발전 착공",
+      "summary": "포스코 이앤씨가 전북 고창 앞바다에 재생에너지를 생산하는 해상풍력발전 공사에 착수한다. 포스코 이앤씨는 76.2MW(메가와트) 규모의 고창 해상풍력 프로젝트 공사 계약을 체결하고 이달 착공한다고 12일 밝혔다....",
+      "url": "https://www.donga.com/news/Economy/article/all/20261112/135016693/2",
+      "date": "Fri, 13 Nov 2026 00:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.businesspost.co.kr/BP?command=article_view&num=450849": {
+      "title": "[Who Is ?] 유진수 STX엔진 대표이사",
+      "summary": "△'시험성적서 조작' 패소, 2년간 공공기관 입찰 제한 STX엔진이 2024년 한국수력원자력 (한수원)으로부터 받은 공공입찰 제한 행정처분에 대한 취소소송에서 최종 패소해 2년간 공공기관 입찰을 할 수 없게 됐다....",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450849",
+      "date": "Fri, 13 Nov 2026 07:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uZFdnS0E0ck1OZGQ4cWJsQ1hRaWh1a3g1OVN1VHFXWVlCbE9SZi1xU3FnLWZidk9YR0w0WExONk9Da2gyeUVUVGJVSXQzMTAtQlo4R3VycVRqdjFuYkowczNKUk9MWnlVTjVRaVhOX2NtOWt6eWfSAXZBVV95cUxNbmRXZ0tBNHJNTmRkOHFibENYUWlodWt4NTlTdVRxV1lZQmxPUmYtcVNxZy1mYnZPWEdMNFhMTjZPQ2toMnlFVFRiVUl0MzEwLUJaOEd1cnFUanYxbmJKMHMzSlJPTFp5VU41UWlYTl9jbTlrenln?oc=5": {
+      "title": "경산 진량읍 공장 화재…인명피해는 없어 - LG헬로비전",
+      "summary": "경산 진량읍 공장 화재…인명피해는 없어 LG헬로비전",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uZFdnS0E0ck1OZGQ4cWJsQ1hRaWh1a3g1OVN1VHFXWVlCbE9SZi1xU3FnLWZidk9YR0w0WExONk9Da2gyeUVUVGJVSXQzMTAtQlo4R3VycVRqdjFuYkowczNKUk9MWnlVTjVRaVhOX2NtOWt6eWfSAXZBVV95cUxNbmRXZ0tBNHJNTmRkOHFibENYUWlodWt4NTlTdVRxV1lZQmxPUmYtcVNxZy1mYnZPWEdMNFhMTjZPQ2toMnlFVFRiVUl0MzEwLUJaOEd1cnFUanYxbmJKMHMzSlJPTFp5VU41UWlYTl9jbTlrenln?oc=5",
+      "date": "Thu, 12 Nov 2026 21:55:45 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96TmRMb0R2b1oyOFJ6b21IR01vMl81SFNSdmZhZXlkcUUxN3pGYXhQTnpWdlVndTJlYkpWWlUzOHl3TDBNRmtiX1c2b0d2UVY2ZHRtemIxcHFneGdwbWJj?oc=5": {
+      "title": "경산 골판지 제조공장 화재 2시간 43분 만에 초진…인명피해 없어(종합) - 뉴스1",
+      "summary": "경산 골판지 제조공장 화재 2시간 43분 만에 초진…인명피해 없어(종합) 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96TmRMb0R2b1oyOFJ6b21IR01vMl81SFNSdmZhZXlkcUUxN3pGYXhQTnpWdlVndTJlYkpWWlUzOHl3TDBNRmtiX1c2b0d2UVY2ZHRtemIxcHFneGdwbWJj?oc=5",
+      "date": "Thu, 12 Nov 2026 14:05:34 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9maG5VQk9KQnFzeFRyS3NUbjZjRWJEV09TVW5aOEthTWlmWlRlQTZIdy1Ha0lUNUZxX3BrQ0gzMlJJb0JFSks4ZWY4bw?oc=5": {
+      "title": "경산 골판지 제조공장 화재…2시간 43분 만에 초진 : 사회 - 재경일보",
+      "summary": "경산 골판지 제조공장 화재…2시간 43분 만에 초진 : 사회 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9maG5VQk9KQnFzeFRyS3NUbjZjRWJEV09TVW5aOEthTWlmWlRlQTZIdy1Ha0lUNUZxX3BrQ0gzMlJJb0JFSks4ZWY4bw?oc=5",
+      "date": "Thu, 12 Nov 2026 15:58:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YYng5TFM2RjB1eHd3ajlIbUVoelBjM2Z4OElSYU8tVmFaNzRTNzNqaEt6Z1BHeHRGS3pSWVNMc252YktOUnJYaWUySEdFU1ZISXo2ZFRva1FRU1hXblZzajB0cmo1MWt5RXpqYnJ3QzdmVTQ?oc=5": {
+      "title": "경산 골판지상자 공장 화재, 인명피해 없이 2시간 43분 만에 초기 진화 - 스페셜타임스",
+      "summary": "경산 골판지상자 공장 화재, 인명피해 없이 2시간 43분 만에 초기 진화 스페셜타임스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YYng5TFM2RjB1eHd3ajlIbUVoelBjM2Z4OElSYU8tVmFaNzRTNzNqaEt6Z1BHeHRGS3pSWVNMc252YktOUnJYaWUySEdFU1ZISXo2ZFRva1FRU1hXblZzajB0cmo1MWt5RXpqYnJ3QzdmVTQ?oc=5",
+      "date": "Thu, 12 Nov 2026 14:12:36 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY1haYVA5cVRPUEFqemFVcERRUS11SjRKVGFub2lUN09keEZXTDVYZ1FQbFRFTnVCOWtQSXpRLVpXVVE2WjQ2UXp5Nk1oVDAxUld5RF9qYzNGYmJWeTU4MlVLYjl0Zw?oc=5": {
+      "title": "구미 5산단에 또 하나의 성장엔진…도레이첨단소재 신규 라인 준공 - 포커스데일리",
+      "summary": "구미 5산단에 또 하나의 성장엔진…도레이첨단소재 신규 라인 준공 포커스데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY1haYVA5cVRPUEFqemFVcERRUS11SjRKVGFub2lUN09keEZXTDVYZ1FQbFRFTnVCOWtQSXpRLVpXVVE2WjQ2UXp5Nk1oVDAxUld5RF9qYzNGYmJWeTU4MlVLYjl0Zw?oc=5",
+      "date": "Thu, 12 Nov 2026 20:01:51 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
-    "https://www.gukjenews.com/news/articleView.html?idxno=3749396": "2026-11-12T08:02:02.449391+09:00",
-    "http://www.newsmaker.or.kr/news/articleView.html?idxno=185665": "2026-11-12T08:02:02.449391+09:00",
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=237702": "2026-11-12T08:02:02.449391+09:00",
-    "https://www.newspim.com/news/view/20261111001417": "2026-11-12T08:02:02.449391+09:00",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE42UlQ0Q3ZYMF9Rc3VsOFNodE5BX1E5NXFVVURnNjQ5RDczdXhqRmxqZE5wTTJSWmE2RUFfYlJMOW1kYUh4N1JxZnpLQzllLUV5YUlNWDROeU8xdTRpbnRacHFWWFhqR2ticFJkamZ0LTRPQjZL0gF0QVVfeXFMTjZSVDRDdlgwX1FzdWw4U2h0TkFfUTk1cVVVRGc2NDlENzN1eGpGbGpkTnBNMlJaYTZFQV9iUkw5bWRhSHg3UnFmektDOWUtRXlhSU1YNE55TzF1NGludFpwcVZYWGpHa2JwUmRqZnQtNE9CNks?oc=5": "2026-11-12T08:02:02.449391+09:00",
-    "https://www.joongang.co.kr/article/25477858": "2026-11-12T08:02:02.449391+09:00",
-    "https://www.segye.com/newsView/20261111518905?OutUrl=naver": "2026-11-12T08:02:02.449391+09:00"
+    "https://www.newsis.com/view/NISX20261113_0003866447": "2026-11-13T08:02:30.739743+09:00",
+    "https://www.newsis.com/view/NISX20261113_0003866378": "2026-11-13T08:02:30.739743+09:00",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=450849": "2026-11-13T08:02:30.739743+09:00",
+    "https://www.kpinews.kr/newsView/1065562528098318": "2026-11-13T08:02:30.739743+09:00",
+    "https://www.segye.com/newsView/20261112515634?OutUrl=naver": "2026-11-13T08:02:30.739743+09:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY1haYVA5cVRPUEFqemFVcERRUS11SjRKVGFub2lUN09keEZXTDVYZ1FQbFRFTnVCOWtQSXpRLVpXVVE2WjQ2UXp5Nk1oVDAxUld5RF9qYzNGYmJWeTU4MlVLYjl0Zw?oc=5": "2026-11-13T08:02:30.739743+09:00",
+    "https://www.donga.com/news/Economy/article/all/20261112/135016693/2": "2026-11-13T08:02:30.739743+09:00"
   },
   "brief_titles": {
-    "911386ad84fd2fb113cc8d92be58670e9a58f7a83b257835f7e97e6798944904": "2026-11-12T08:02:02.449391+09:00",
-    "98cc57adfd1a91317220ae7fcf66b819ed36884505bf83d8b9865c5d8f84798e": "2026-11-12T08:02:02.449391+09:00",
-    "ee5954fe4572543634168f094cca9ec38ce63c86da1b344b68f47fb40e480670": "2026-11-12T08:02:02.449391+09:00",
-    "96d1342a240b1e0339189ccbad44d3cdcffab1a4b49bc5f87106191beefbd6e5": "2026-11-12T08:02:02.449391+09:00",
-    "ae56afaf8475c9b7f0dc6c25a4fa0156783b3421d67bf4c3bfca3481007aed21": "2026-11-12T08:02:02.449391+09:00",
-    "747417c1bed84c4af1eb34c977faa5e82134a3508bdb47b77419394e1e49cdd3": "2026-11-12T08:02:02.449391+09:00",
-    "fd4e04510c82ea30bc4db8265d87da7d96b8b77f102c7ad94cbc5f6a2573b535": "2026-11-12T08:02:02.449391+09:00"
+    "c7d40d7cbd4898cf244a512cd8157ea0b046c560787399b25eba98495b98d9bd": "2026-11-13T08:02:30.739743+09:00",
+    "d6b78c677dd0f7c09ac8481bf0a10b1579c3fda3d063819dec9e8196675f8442": "2026-11-13T08:02:30.739743+09:00",
+    "528a7beffb410911d75b91fb710a63c180f2a57ec6a961e7fb5c065a6521cd88": "2026-11-13T08:02:30.739743+09:00",
+    "99fd060130fd250a3ba39410ae91affb727d0475ee286eb9e54d810816c53962": "2026-11-13T08:02:30.739743+09:00",
+    "4e8f059319d6805b3a89b0141f028cb2f4fe7d12faec539fa4b1f66b705c06f2": "2026-11-13T08:02:30.739743+09:00",
+    "708d2df12bcd06f05d787842912a37cf3c2d76277210b4aaba880fa83ced5af6": "2026-11-13T08:02:30.739743+09:00",
+    "324e873f26523b5afc6c2a33341d557dcccd2d216aea37d8e63f2fa7b4c153e8": "2026-11-13T08:02:30.739743+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-12",
+  "brief_date": "2026-11-13",
   "sent_articles": [
     {
       "url": "http://www.breaknews.com/1246970",
@@ -11073,50 +11164,50 @@
   ],
   "brief_articles": [
     {
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749396",
-      "title": "\" 경북 행복재단 대표 의혹 , 특정감사로 밝혀라\"…박채아 도의원, 송곳 점...",
-      "date": "Wed, 11 Nov 2026 23:26:00 +0900"
+      "url": "https://www.newsis.com/view/NISX20261113_0003866447",
+      "title": "경북 경산 골판지 공장 화재 11시간 30여분 만에 완진",
+      "date": "Fri, 13 Nov 2026 07:59:00 +0900"
     },
     {
-      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=185665",
-      "title": "박성현 광양시장 \" 포스코 노사, 지역경제 위해 상생의 지혜 모아야\"",
-      "date": "Thu, 12 Nov 2026 07:22:00 +0900"
+      "url": "https://www.newsis.com/view/NISX20261113_0003866378",
+      "title": "경산 골판지 공장 화재 큰 불길 잡았다…인명피해 없어(종합)",
+      "date": "Fri, 13 Nov 2026 06:19:00 +0900"
     },
     {
-      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237702",
-      "title": "포스코 노사 임금협상 결렬, 노조 17일 '상경투쟁'",
-      "date": "Thu, 12 Nov 2026 06:34:00 +0900"
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450849",
+      "title": "[Who Is ?] 유진수 STX엔진 대표이사",
+      "date": "Fri, 13 Nov 2026 07:00:00 +0900"
     },
     {
-      "url": "https://www.newspim.com/news/view/20261111001417",
-      "title": "체코 원전 '사전 접촉 의혹'에 현대건설 선 긋기…\"수익성 없으면 수주...",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0900"
+      "url": "https://www.kpinews.kr/newsView/1065562528098318",
+      "title": "포스코 인터내셔널, 우즈베키스탄 측과 리튬·흑연 투자 논의",
+      "date": "Fri, 13 Nov 2026 06:40:00 +0900"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42UlQ0Q3ZYMF9Rc3VsOFNodE5BX1E5NXFVVURnNjQ5RDczdXhqRmxqZE5wTTJSWmE2RUFfYlJMOW1kYUh4N1JxZnpLQzllLUV5YUlNWDROeU8xdTRpbnRacHFWWFhqR2ticFJkamZ0LTRPQjZL0gF0QVVfeXFMTjZSVDRDdlgwX1FzdWw4U2h0TkFfUTk1cVVVRGc2NDlENzN1eGpGbGpkTnBNMlJaYTZFQV9iUkw5bWRhSHg3UnFmektDOWUtRXlhSU1YNE55TzF1NGludFpwcVZYWGpHa2JwUmRqZnQtNE9CNks?oc=5",
-      "title": "[철강살롱①] 포스코, 32만톤 더 팔고도…영업이익 1300억 줄었다 - 스틸데일리",
-      "date": "Wed, 11 Nov 2026 20:11:34 GMT"
+      "url": "https://www.segye.com/newsView/20261112515634?OutUrl=naver",
+      "title": "[경제 단신] 포스코 이앤씨, 고창 해상풍력발전 착공 외",
+      "date": "Fri, 13 Nov 2026 05:02:00 +0900"
     },
     {
-      "url": "https://www.joongang.co.kr/article/25477858",
-      "title": "1.5% 금리 막는다?…“X같네” 삼성맨 뒤집힌 사내대출 규제",
-      "date": "Thu, 12 Nov 2026 05:00:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY1haYVA5cVRPUEFqemFVcERRUS11SjRKVGFub2lUN09keEZXTDVYZ1FQbFRFTnVCOWtQSXpRLVpXVVE2WjQ2UXp5Nk1oVDAxUld5RF9qYzNGYmJWeTU4MlVLYjl0Zw?oc=5",
+      "title": "구미 5산단에 또 하나의 성장엔진…도레이첨단소재 신규 라인 준공 - 포커스데일리",
+      "date": "Thu, 12 Nov 2026 20:01:51 GMT"
     },
     {
-      "url": "https://www.segye.com/newsView/20261111518905?OutUrl=naver",
-      "title": "경주시, 미국 진출 일지테크와 투자 협력 속도",
-      "date": "Wed, 11 Nov 2026 23:57:00 +0900"
+      "url": "https://www.donga.com/news/Economy/article/all/20261112/135016693/2",
+      "title": "포스코 이앤씨, 고창 해상풍력발전 착공",
+      "date": "Fri, 13 Nov 2026 00:31:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-11-05": 11,
     "2026-11-06": 11,
     "2026-11-07": 5,
     "2026-11-08": 2,
     "2026-11-09": 8,
     "2026-11-10": 12,
     "2026-11-11": 11,
-    "2026-11-12": 13
+    "2026-11-12": 13,
+    "2026-11-13": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
