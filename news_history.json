@@ -1,6 +1,5 @@
 {
   "sent": {
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205214&mode=view": "2026-10-29T21:02:35.661481+09:00",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5": "2026-10-29T22:02:30.153316+09:00",
     "http://www.breaknews.com/1246970": "2026-10-30T09:02:46.508680+09:00",
     "http://www.breaknews.com/1246983": "2026-10-30T09:02:46.508680+09:00",
@@ -880,10 +879,13 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRlMwUFdnd3F0ZFVUMUltSmxLaTN0RFoyV3NfYkxRU3ZiOTlSNGpPS1RnZ1BwU1ZHZ2xKRWwxU1N0anZWcFlyTlMzcm9FT2tTdE95YkpkeFhhbXpHNUpFMlVUamJyZ09YVkFV?oc=5": "2026-11-12T20:02:05.932343+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698": "2026-11-12T20:02:05.932343+09:00",
     "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m": "2026-11-12T21:02:27.440071+09:00",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5": "2026-11-12T21:02:27.440071+09:00"
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5": "2026-11-12T21:02:27.440071+09:00",
+    "https://www.mt.co.kr/society/2026/11/12/2026111221102797955": "2026-11-12T22:01:55.678387+09:00",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=565225": "2026-11-12T22:01:55.678387+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FMTR4NzBXRHZnQkttWHFRdGRMalBha2ZDeXFDVXNvSkZLVXg4V0FJOFdSVTdJU2p2SFoxYWs4VmhCVXJSeFE2MVVLREJyUGx3OGZBdWpYbXFoQm5teVpiY2ZRTVhRR0N4M05J?oc=5": "2026-11-12T22:01:55.678387+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=629456": "2026-11-12T22:01:55.678387+09:00"
   },
   "titles": {
-    "2e8f09264a2982b1b94c6f877acd37e7d6516770540f47d1a31c60a7e271705e": "2026-10-29T21:02:35.661481+09:00",
     "7037c2d8d3399c50e9a38492c9f10093a729250eb8a74910d8cb59d4a8de22b3": "2026-10-29T22:02:30.153316+09:00",
     "3610e3d9aeb69be4528e21c5177d68d83129b67724eaabc341ae1de3800ff6f5": "2026-10-30T09:02:46.508680+09:00",
     "005e15f5de3d5a10b8efbafed1ff33a147fe1207f6b694b93f206d2fa8bf96eb": "2026-10-30T09:02:46.508680+09:00",
@@ -1763,7 +1765,11 @@
     "aaf5459f9d4ab06ccdf8a522ee5b676610919012291e0f89832929ca987117c1": "2026-11-12T20:02:05.932343+09:00",
     "4427bf1b2f1b48f0cb0c20e9cf4e9d193a336c2601197512dc48589eada8921e": "2026-11-12T20:02:05.932343+09:00",
     "bd502d13acd8313f83ad07608f628b2e2241b2ff69fd5631a37369ac173faaac": "2026-11-12T21:02:27.440071+09:00",
-    "408246a77c8a5fea97492d68a96208dfc5884841ad08f15bf099131e145bfcb9": "2026-11-12T21:02:27.440071+09:00"
+    "408246a77c8a5fea97492d68a96208dfc5884841ad08f15bf099131e145bfcb9": "2026-11-12T21:02:27.440071+09:00",
+    "5fee38bd24d3249ad0e093cafd0d78d43721765b07fca1a4afe7c06d8239e000": "2026-11-12T22:01:55.678387+09:00",
+    "6b26077442820059a95add20309ab81873b9cefa79c4653409383f4c655e3417": "2026-11-12T22:01:55.678387+09:00",
+    "73aa8119f30e1dd45dc43ea1ddaf93dc6cd7218e78a1bdd224ecbb4eb81684e1": "2026-11-12T22:01:55.678387+09:00",
+    "a92d83ef6baccece16fb08cab848428b21838c30977b9d53395c6d523a90a8b3": "2026-11-12T22:01:55.678387+09:00"
   },
   "pending": {},
   "ai": {
@@ -1774,101 +1780,10 @@
     "2026-11-09": 11,
     "2026-11-10": 18,
     "2026-11-11": 15,
-    "2026-11-12": 19
+    "2026-11-12": 20
   },
   "cursor": 0,
   "archive": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564983": {
-      "title": "신보· iM뱅크 ·대구신보재단 '내부통제 역량 강화' MOU",
-      "summary": "신용보증기금과 iM뱅크 , 대구신용보증재단이 감사 전문성 제고와 내부통제 역량 강화를 위해 맞손을 잡았다. 신보는 대구 본사에서 iM뱅크 , 대구신용보증재단과 '감사 전문성 제고 및 내부통제 역량 강화를 위한 업무협약...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564983",
-      "date": "Tue, 10 Nov 2026 21:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.hankyung.com/article/202611108623h": {
-      "title": "대구시의회 경제환경위, 대구 투자유치 실적 급감과 착공 지연 문제 지...",
-      "summary": "경북 대의 ‘서울대 10개 만들기’ 탈락 원인 분석을 통한 2차 공모 총력 지원 및 도심캠퍼스타운의 실질적 성과 창출을 강조했다. 권오섭 위원(남구1)은 투자유치 실적 급감과 착공 지연 문제를 지적하며, MOU 체결 기업의...",
-      "url": "https://www.hankyung.com/article/202611108623h",
-      "date": "Tue, 10 Nov 2026 21:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564967": {
-      "title": "경북 체육회-울릉크루즈, 체육인 복지 증진 MOU",
-      "summary": "업무협약( MOU )을 체결했다. 협약식에는 김점두 경상북도체육회장과 조현덕 울릉크루즈 대표이사 등 양 기관 관계자들이 참석했다. 이번 협약에 따라 양 기관은 경북 체육회 회원단체 임직원의 직무연수와 종목별 전지훈련에...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564967",
-      "date": "Tue, 10 Nov 2026 21:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.gukjenews.com/news/articleView.html?idxno=3747428": {
-      "title": "경주시 복합문화도서관 건립 속도…2028년 9월 개관 목표",
-      "summary": "경북 경주시가 2028년 9월 개관을 목표로 추진 중인 복합문화도서관의 공간 구성과 운영계획을 확정하고 건립 준비에 속도를 내고 있다. 경주시 복합문화도서관(가칭) 조감도 경주시는 11월 9일 '경주시 복합문화도서관...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747428",
-      "date": "Tue, 10 Nov 2026 21:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://andongmbc.co.kr/adboard/NewsView85691": {
-      "title": "경북 학교급식교육관 상주에 건립 ..내후년 개관",
-      "summary": "경북 교육청은 98억여 원을 들여 낙동 동부초등학교를 리모델링해 학교급식교육관을 건립 하기로 하고 설계에 들어갔습니다. 학교급식교육관은 내년 8월 착공해서 내후년 3월 개관할 계획입니다. 이곳에서는 급식 종사자와...",
-      "url": "http://andongmbc.co.kr/adboard/NewsView85691",
-      "date": "Tue, 10 Nov 2026 21:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.tbc.co.kr/news/view?pno=20261110085804AE08250&id=213148": {
-      "title": "유령법인 명의 대포계좌 유통 64명 검거...26명 구속",
-      "summary": "대구 경찰청은 유령법인을 설립한 뒤 법인 명의 대포 통장을 만들어 범죄조직에 유통한 혐의로 대구 지역 조직폭력배 총책 A 씨 등 64명을 검거하고 이 가운데 26명을 구속 했습니다. 이들은 지난 2021년 10월부터 올해...",
-      "url": "https://www.tbc.co.kr/news/view?pno=20261110085804AE08250&id=213148",
-      "date": "Tue, 10 Nov 2026 21:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ma0I5RFd5eWFyWmNaWDhCSGMtS3YyZEctZ3diazhUS0QxUy0xUWMyTk0yTU5zX0tSSXN3aXVQak9yVlcxT0MyQ2VqWVF0QnRQTXFBQkNXdklJMXR4LWlYSmtIZw?oc=5": {
-      "title": "대구 서구, 골목상권에 활력 더한 원대명물가구거리 가구쇼 개최 - 시사뉴스",
-      "summary": "대구 서구, 골목상권에 활력 더한 원대명물가구거리 가구쇼 개최 시사뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ma0I5RFd5eWFyWmNaWDhCSGMtS3YyZEctZ3diazhUS0QxUy0xUWMyTk0yTU5zX0tSSXN3aXVQak9yVlcxT0MyQ2VqWVF0QnRQTXFBQkNXdklJMXR4LWlYSmtIZw?oc=5",
-      "date": "Tue, 10 Nov 2026 12:42:56 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.energy-news.co.kr/news/articleView.html?idxno=229663": {
       "title": "당진 석탄발전 대체할 '호남복합', 핵심설비 건설계약",
       "summary": "동서발전은 9일 울산 본사에서 현대엔지니어링· 포스코 이앤씨 공동수급체와 '호남 복합발전소 파워블럭 설치조건부 구매계약'을 체결했다. 체결식에는 권명호 동서발전 사장과 송치영 포스코 이앤씨 사장, 이승원...",
@@ -6602,6 +6517,149 @@
       "category": "해외기업 동향",
       "priority": 50,
       "filter_version": 17
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=629456": {
+      "title": "대구 경북 녹색연합, 신청사 건립 사업 재검증 요구…“재정 우선순위부터...",
+      "summary": "사단법인 대구 경북 녹색연합은 지난 11일 성명을 발표하고 대구시 신청사 건립 사업의 필요성과 사업비, 추진 일정, 재원 확보 방식을 종합적으로 재검증해야 한다고 주장했다. 특히 객관적인 대안 검토가 완료될 때까지...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=629456",
+      "date": "Thu, 12 Nov 2026 21:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843822&plink=ORI&cooper=NAVER": {
+      "title": "경산 박스 공장 서 화재 …인명 피해 없어",
+      "summary": "▲ 경산 공장 화재 현장 오늘(12일) 저녁 8시쯤 경북 경산시 진량읍 선화리에 있는 박스 제조 공장 에서 불이 났습니다. 소방 당국은 관할 소방서 인력이 전체가 출동하는 대응 1단계를 발령하고 불을 끄고 있습니다. 다행히...",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843822&plink=ORI&cooper=NAVER",
+      "date": "Thu, 12 Nov 2026 21:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.mt.co.kr/society/2026/11/12/2026111221102797955": {
+      "title": "경북 골판지 공장 서 화재 발생…소방, 대응 1단계 발령",
+      "summary": "경북 의 한 골판지 공장 에서 화재 가 발생해 소방 당국이 진화에 나섰다. 12일 뉴스1에 따르면 이날 오후 8시1분쯤 경북 경산시 진량읍 선화리에 위치한 골판지 공장 에서 불이 났다. 신고를 받고 현장에 출동한 소방 당국은...",
+      "url": "https://www.mt.co.kr/society/2026/11/12/2026111221102797955",
+      "date": "Thu, 12 Nov 2026 21:21:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711465&ref=A": {
+      "title": "경북 경산 공장 서 화재 …대응 1단계 발령",
+      "summary": "오늘 저녁 8시쯤 경북 경산시 진량읍 선화리의 한 공장 에서 불이 났습니다. 소방 당국은 불이 주변으로 번질 우려가 있다고 보고 8시 18분 대응 1단계를 발령해 진화 작업을 벌이고 있습니다. 경북 경산시는...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711465&ref=A",
+      "date": "Thu, 12 Nov 2026 21:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.chosun.com/national/national_general/2026/11/12/ZG26IUYWONGQXKPKW76C5E67HA/": {
+      "title": "경북 경산 공장 에서 화재 … 소방당국, 대응 1단계 발령",
+      "summary": "12일 경북 소방본부에 따르면 이날 오후 8시 1분쯤 경산시 진량읍 선화리의 한 공장 에서 화재 가 발생했다. 소방 당국은 관할 소방서 인력이 모두 출동하는 대응 1단계를 발령하고 불을 끄고 있다. 경산시는 인근 주민들에게...",
+      "url": "https://www.chosun.com/national/national_general/2026/11/12/ZG26IUYWONGQXKPKW76C5E67HA/",
+      "date": "Thu, 12 Nov 2026 21:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.newsis.com/view/NISX20261112_0003866287": {
+      "title": "경산 진량읍 공장 서 화재 …소방당국 대응 1단계 발령",
+      "summary": "12일 오후 8시1분께 경북 경산시 진량읍 선화리 한 공장 에서 불이 나 소방당국이 진화 작업을 벌이고 있다. 경북 소방본부는 연소 확대 우려에 따라 오후 8시18분 대응 1단계를 발령했다. 현재까지 인명피해와 재산피해...",
+      "url": "https://www.newsis.com/view/NISX20261112_0003866287",
+      "date": "Thu, 12 Nov 2026 21:13:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://dgmbc.com/NewsArticle/873129": {
+      "title": "경북 경산 골판지 공장 서 화재 ···대응 1단계 발령",
+      "summary": "경북 경산의 한 골판지 공장 에서 불이 나 소방 당국이 대응 1단계를 발령했습니다. 경북 소방본부에 따르면, 11월 12일 오후 8시쯤 경북 경산시 진량읍 골판지 제조 공장 에서 불이 났습니다. 소방 당국은 진화에 나서는...",
+      "url": "https://dgmbc.com/NewsArticle/873129",
+      "date": "Thu, 12 Nov 2026 21:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=565225": {
+      "title": "구미, 투자 훈풍에 주택시장 '회복세'",
+      "summary": "올해 9월에는 대구· 포항 과 함께 로봇 분야 국가첨단전략산업 특화단지에도 선정됐다. 이를 바탕으로... 아파트를 건립 하는 사업이다. 전체 부지의 약 70%를 공원으로 조성해 기부채납할 예정으로, 시민 녹지 공간...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565225",
+      "date": "Thu, 12 Nov 2026 21:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XeWpTZ0ZsSlZSYk1qLUlWYTZXRDkxSk40SG5sdFhuSHhNRnZYcFFnY2NQZFRDSDN0RTNMdWp3MzM2bTRzWldHNjk5NDN4dnhEQlBueEJ6VkliTVA3eEFPeUF6LTR1U3NQQ2800gFwQVVfeXFMT1N6dnoxZHR6OXIwU0dIM1phQUY3YUhGU1k3NGdHblh4Ny02Y1BVd1VFbXRHVTJfQjRpVFpaRVh3V0RyUU9CbGJ0Zml5VS01RXRtNElfUEZxQUdsZm5OZDEtaGtIQ0czam1odWFGa0t2eA?oc=5": {
+      "title": "경북 골판지 공장서 화재 발생…소방, 대응 1단계 발령 - 머니투데이 - 머니투데이",
+      "summary": "경북 골판지 공장서 화재 발생…소방, 대응 1단계 발령 - 머니투데이 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XeWpTZ0ZsSlZSYk1qLUlWYTZXRDkxSk40SG5sdFhuSHhNRnZYcFFnY2NQZFRDSDN0RTNMdWp3MzM2bTRzWldHNjk5NDN4dnhEQlBueEJ6VkliTVA3eEFPeUF6LTR1U3NQQ2800gFwQVVfeXFMT1N6dnoxZHR6OXIwU0dIM1phQUY3YUhGU1k3NGdHblh4Ny02Y1BVd1VFbXRHVTJfQjRpVFpaRVh3V0RyUU9CbGJ0Zml5VS01RXRtNElfUEZxQUdsZm5OZDEtaGtIQ0czam1odWFGa0t2eA?oc=5",
+      "date": "Thu, 12 Nov 2026 12:21:09 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT052ZjZ2bUtWYkkzTXdOVTd1QjFfSnlVOGQ4QlYtZ1JkZDN2NXFNRDdrQUVLcURlN1BHQjFoNE01VmE0R29Dc0VRZjVzdkUzckVfS3ZoN1ExbXdQSXc0WFBpWXF5RzZmWWk5QV9UazhXTkdOUVVXc2tIUmlNSS0zZHlWLUw4Zw?oc=5": {
+      "title": "경산 진량읍 공장 화재...대응 1단계 발령 '진화 중' - Tbc.co.kr",
+      "summary": "경산 진량읍 공장 화재...대응 1단계 발령 '진화 중' Tbc.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT052ZjZ2bUtWYkkzTXdOVTd1QjFfSnlVOGQ4QlYtZ1JkZDN2NXFNRDdrQUVLcURlN1BHQjFoNE01VmE0R29Dc0VRZjVzdkUzckVfS3ZoN1ExbXdQSXc0WFBpWXF5RzZmWWk5QV9UazhXTkdOUVVXc2tIUmlNSS0zZHlWLUw4Zw?oc=5",
+      "date": "Thu, 12 Nov 2026 12:27:04 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FMTR4NzBXRHZnQkttWHFRdGRMalBha2ZDeXFDVXNvSkZLVXg4V0FJOFdSVTdJU2p2SFoxYWs4VmhCVXJSeFE2MVVLREJyUGx3OGZBdWpYbXFoQm5teVpiY2ZRTVhRR0N4M05J?oc=5": {
+      "title": "구미, 투자 훈풍에 주택시장 ‘회복세’ - 대구신문",
+      "summary": "구미, 투자 훈풍에 주택시장 ‘회복세’ 대구신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FMTR4NzBXRHZnQkttWHFRdGRMalBha2ZDeXFDVXNvSkZLVXg4V0FJOFdSVTdJU2p2SFoxYWs4VmhCVXJSeFE2MVVLREJyUGx3OGZBdWpYbXFoQm5teVpiY2ZRTVhRR0N4M05J?oc=5",
+      "date": "Thu, 12 Nov 2026 12:25:45 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -6625,11 +6683,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-12",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ZWp2RXJKWmlLdldvZ2xkbG4xZzl5dWhDZlc1QkYxUUMxOHRWOUFCZ0V1SzlRblZudV8zSTZfVlkwWW5yNWFadENZZzRWd0tOZTE1NnZuX3NoMHpoSFRsQWZPMnNKbmpH?oc=5",
-      "title": "엄기천 포스코퓨처엠 사장 \"연말까지 양극재 수주 270만톤 전망\" - www.ebn.co.kr",
-      "date": "Thu, 29 Oct 2026 12:10:03 GMT"
-    },
     {
       "url": "http://www.breaknews.com/1246970",
       "title": "iM뱅크 ·한국가스공사, 지역 상생펀드 600억원…대구·경북 기업 지원",
@@ -11024,6 +11077,26 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5",
       "title": "Uzbekistan's TMK, South Korea's POSCO discuss lithium, graphite investments - Trend News Agency",
       "date": "Thu, 12 Nov 2026 11:27:59 GMT"
+    },
+    {
+      "url": "https://www.mt.co.kr/society/2026/11/12/2026111221102797955",
+      "title": "경북 골판지 공장 서 화재 발생…소방, 대응 1단계 발령",
+      "date": "Thu, 12 Nov 2026 21:21:00 +0900"
+    },
+    {
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565225",
+      "title": "구미, 투자 훈풍에 주택시장 '회복세'",
+      "date": "Thu, 12 Nov 2026 21:34:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FMTR4NzBXRHZnQkttWHFRdGRMalBha2ZDeXFDVXNvSkZLVXg4V0FJOFdSVTdJU2p2SFoxYWs4VmhCVXJSeFE2MVVLREJyUGx3OGZBdWpYbXFoQm5teVpiY2ZRTVhRR0N4M05J?oc=5",
+      "title": "구미, 투자 훈풍에 주택시장 ‘회복세’ - 대구신문",
+      "date": "Thu, 12 Nov 2026 12:25:45 GMT"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=629456",
+      "title": "대구 경북 녹색연합, 신청사 건립 사업 재검증 요구…“재정 우선순위부터...",
+      "date": "Thu, 12 Nov 2026 21:06:00 +0900"
     }
   ],
   "brief_articles": [
@@ -11071,7 +11144,7 @@
     "2026-11-09": 8,
     "2026-11-10": 12,
     "2026-11-11": 11,
-    "2026-11-12": 12
+    "2026-11-12": 13
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
