@@ -933,7 +933,10 @@
     "https://www.news1.kr/industry/general-industry/6353808": "2026-11-13T19:01:50.117076+09:00",
     "http://www.weeklytoday.com/news/articleView.html?idxno=802077": "2026-11-13T19:01:50.117076+09:00",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5": "2026-11-13T20:02:17.609529+09:00",
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view": "2026-11-13T21:01:58.569641+09:00"
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view": "2026-11-13T21:01:58.569641+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721": "2026-11-13T22:01:50.947318+09:00",
+    "https://www.kbsm.net/news/view.php?idx=541629": "2026-11-13T22:01:50.947318+09:00",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5": "2026-11-13T22:01:50.947318+09:00"
   },
   "titles": {
     "7a657fbaba36f4d45e373f12035309ab94521592b4566994972975c3d86f0854": "2026-10-31T12:02:39.066436+09:00",
@@ -1869,7 +1872,10 @@
     "bad20b24abd64ed9c41093230ecfac2c3e8f63f337c6b5f08013a4e2af99991c": "2026-11-13T19:01:50.117076+09:00",
     "43206500390da1a205d4effe0eeccc21a931e17f9f2b979257277c43f0830cba": "2026-11-13T19:01:50.117076+09:00",
     "d160c408e71f1edd8bfa7df23366b1a11db111a52911c845f9a72fa1294896f5": "2026-11-13T20:02:17.609529+09:00",
-    "35259da290f3e8495151350469b2b5954b3ba7c18a7086738613a718fbb63e84": "2026-11-13T21:01:58.569641+09:00"
+    "35259da290f3e8495151350469b2b5954b3ba7c18a7086738613a718fbb63e84": "2026-11-13T21:01:58.569641+09:00",
+    "a6e91bb9993279706ed1712a8437552097975bf423cb536b3e14f53d2a923bcb": "2026-11-13T22:01:50.947318+09:00",
+    "fabb837a30d808d3c293623ccb15a8042d81b4293e12b5d7775b705906c1785b": "2026-11-13T22:01:50.947318+09:00",
+    "fd7339cf477dfcaaffb53d367c9a99fde07b0e1e8e0910b503b19cf91e2ddeb9": "2026-11-13T22:01:50.947318+09:00"
   },
   "pending": {},
   "ai": {
@@ -1884,71 +1890,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://andongmbc.co.kr/adboard/NewsView85715": {
-      "title": "상주 무역사절단 성과..수출 73건·408만 달러 계약",
-      "summary": "상주시가 경북 경제진흥원과 함께 무역사절단을 베트남과 태국에 파견해 지역기업의 해외 판로 개척활동을... 달러 , MOU 체결 4건 140만 달러의 성과를 거두었습니다. 상주시는 성장 잠재력이 높은 동남아 지역으로...",
-      "url": "http://andongmbc.co.kr/adboard/NewsView85715",
-      "date": "Wed, 11 Nov 2026 21:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565118": {
-      "title": "구미 산학연 손잡고 실질적 기업 지원 총력",
-      "summary": "이날 회의에는 정성현 구미시 부시장을 비롯해 경상북도 경제자문관, 한국 산업단지 공단 경북 지역본부장, KOTRA 대구경북 지역본부장 등 16개 기관 관계자와 외부 전문가 20여 명이 참석했다. 경북 대 경제통상학부 서재현...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565118",
-      "date": "Wed, 11 Nov 2026 21:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.geconomy.co.kr/news/article.html?no=325573": {
-      "title": "포스코 ·GS, AI 데이터센터 사업 손잡아…GS 동해 15조 원 투자사업 추진",
-      "summary": "- GS, 동해에 2.4GW 규모 조성 추진…첫 100MW 건축허가 마쳐 - 포스코 , 설계 단계부터 맞춤형 철강 기술 적용…북미·아시아 시장 공동 진출 모색 지이코노미 김정훈 기자 | 포스코 가 GS그룹과 손잡고 인공지능(AI)...",
-      "url": "https://www.geconomy.co.kr/news/article.html?no=325573",
-      "date": "Wed, 11 Nov 2026 21:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://ysmbc.co.kr/NewsArticle/1545290": {
-      "title": "포스코 노사 협상 난항...노조 쟁의 행위 강화",
-      "summary": "포스코 노사가 임금 협상을 재개했지만 사측의 추가 협상 안 제시 불가 입장에 노사 갈등이 다시 고조되고 있습니다. 포스코 노조는 사측과의 잠정합의안이 조합원 투표에서 부결된 이후 가진 오늘(11) 임금협상...",
-      "url": "https://ysmbc.co.kr/NewsArticle/1545290",
-      "date": "Wed, 11 Nov 2026 21:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HYk92ZDVDeG92cEVUREw5ZTFyaWkwenlFSTBmQV80bkV5SDc2cEQ3bVBXRDVqOExIVmtYSl9ieDVXbzRRMlN3d19oVHNlRkxjeGxEc0tUWFZGYzMzdkJhQjdYTUlqeGpT0gFuQVVfeXFMTXFtTWZObzQ2X2JKUlQ5M3A4WDY0YlI4TFZqYTJGRHF1SkRnbndzSFA3a0M4Vk5HRnltcGdvT19CaGhPaVlVYzMtOEczQktPQTdKRUhGVjBvQnNWaDVEdkgxbGRIeE5pUEx3QXc3M2c?oc=5": {
-      "title": "[여의도 투자본부 1부] '대한광통신, 이수페타시스' 명예의 전당 - 머니투데이 - 머니투데이",
-      "summary": "[여의도 투자본부 1부] '대한광통신, 이수페타시스' 명예의 전당 - 머니투데이 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HYk92ZDVDeG92cEVUREw5ZTFyaWkwenlFSTBmQV80bkV5SDc2cEQ3bVBXRDVqOExIVmtYSl9ieDVXbzRRMlN3d19oVHNlRkxjeGxEc0tUWFZGYzMzdkJhQjdYTUlqeGpT0gFuQVVfeXFMTXFtTWZObzQ2X2JKUlQ5M3A4WDY0YlI4TFZqYTJGRHF1SkRnbndzSFA3a0M4Vk5HRnltcGdvT19CaGhPaVlVYzMtOEczQktPQTdKRUhGVjBvQnNWaDVEdkgxbGRIeE5pUEx3QXc3M2c?oc=5",
-      "date": "Wed, 11 Nov 2026 12:33:55 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710451&ref=A": {
       "title": "“대구시 신청사 건립 사업 원점 재검토해야”",
       "summary": "대구 경북 녹색연합이 사업 원점 재검토를 촉구했습니다. 녹색연합은 재정난으로 입주 5년도 안 된 광교청사 매각을 검토하는 경기도 사례를 들며 같은 재정난을 겪는 대구시가 4천5백억 원 규모의 신청사 건립 을 서둘러야...",
@@ -6029,6 +5970,45 @@
       "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
       "category": "산재·사업장 사고",
       "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721": {
+      "title": "경북 행복재단 연구원 사망 산재 인정…노조, 책임자 처벌 촉구",
+      "summary": "경북 도에는 재단에 대한 특별감사를 통해 관리·감독 책임을 규명하고 관련 책임자를 문책할 것을 촉구했다. 아울러 산재 은폐 시도 의혹 에 대한 조사와 유족에 대한 공식 사과, 정당한 보상 및 노동조합과 유족이 참여하는...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721",
+      "date": "Fri, 13 Nov 2026 21:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.kbsm.net/news/view.php?idx=541629": {
+      "title": "구미시, 지역경제협의회 출범",
+      "summary": "이날 회의에는 정성현 구미시 부시장을 비롯해 경북 도 경제자문관, 한국 산업단지 공단 경북 지역본부장, KOTRA 대구경북 지역본부장 등 16개 기관 관계자와 전문가 20여 명이 참석했다. 경북 대 경제통상학부 서재현 교수는...",
+      "url": "https://www.kbsm.net/news/view.php?idx=541629",
+      "date": "Fri, 13 Nov 2026 21:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5": {
+      "title": "Hyundai explores investment in Posco graphite project in Vietnam - electrive.com",
+      "summary": "Hyundai explores investment in Posco graphite project in Vietnam electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5",
+      "date": "Fri, 13 Nov 2026 12:12:37 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
       "filter_version": 17
     }
   },
@@ -10722,6 +10702,21 @@
       "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view",
       "title": "건설현장 추락 사망 사고 증가..안전관리 강화",
       "date": "Fri, 13 Nov 2026 20:42:00 +0900"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721",
+      "title": "경북 행복재단 연구원 사망 산재 인정…노조, 책임자 처벌 촉구",
+      "date": "Fri, 13 Nov 2026 21:02:00 +0900"
+    },
+    {
+      "url": "https://www.kbsm.net/news/view.php?idx=541629",
+      "title": "구미시, 지역경제협의회 출범",
+      "date": "Fri, 13 Nov 2026 21:38:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5",
+      "title": "Hyundai explores investment in Posco graphite project in Vietnam - electrive.com",
+      "date": "Fri, 13 Nov 2026 12:12:37 GMT"
     }
   ],
   "brief_articles": [
