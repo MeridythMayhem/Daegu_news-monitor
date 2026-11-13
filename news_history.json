@@ -1,8 +1,5 @@
 {
   "sent": {
-    "http://www.breaknews.com/1246970": "2026-10-30T09:02:46.508680+09:00",
-    "http://www.breaknews.com/1246983": "2026-10-30T09:02:46.508680+09:00",
-    "http://www.wsobi.com/news/articleView.html?idxno=320686": "2026-10-30T09:02:46.508680+09:00",
     "http://www.newsdream.kr/news/articleView.html?idxno=121173": "2026-10-30T10:03:46.701562+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=727169": "2026-10-30T11:04:06.786798+09:00",
     "https://www.etoday.co.kr/news/view/2642292": "2026-10-30T14:02:43.585396+09:00",
@@ -891,12 +888,15 @@
     "https://www.yna.co.kr/view/AKR20261113025500053?input=1195m": "2026-11-13T09:02:46.635062+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbDYweEpwdkJ5Q1R4VS14bGxjMGk0RmR4MDNucVNBYWJ6UGgxWWVTU0ViQWpBNFMxZDJuME9qSFE3Z3BxQlVidV9HTWstMnZFNTJ1SURPQ29JM0dFdGR2VmtOUEY?oc=5": "2026-11-13T09:02:46.635062+09:00",
     "https://biz.chosun.com/stock/stock_general/2026/11/13/ULNX22BLC5HTTMZDY7DBVC2QIY/": "2026-11-13T09:02:46.635062+09:00",
-    "https://www.newspim.com/news/view/20261113000048": "2026-11-13T09:02:46.635062+09:00"
+    "https://www.newspim.com/news/view/20261113000048": "2026-11-13T09:02:46.635062+09:00",
+    "https://idsn.co.kr/news/view/1065572713876733": "2026-11-13T10:03:04.266703+09:00",
+    "https://www.etoday.co.kr/news/view/2647752": "2026-11-13T10:03:04.266703+09:00",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBCd1E4NUdwLUNMZi0xOVhkQURqMWtRREhJTnBxUU5PY3BXNkh5SkFGS3NndTJjZ2UyVm9WYTQwY3pQenBGQU91SDJzWjRtZ0hfOEphdVRvbHJiT0dNN2s1VlhuUjJjSl9QM01CSi1yMWFmdw?oc=5": "2026-11-13T10:03:04.266703+09:00",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304935": "2026-11-13T10:03:04.266703+09:00",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZHQldaTFZaNTRzSTVRSFJuQmNjZC13M3Z5MkV1T3VoZEVvOEFJOExRVFJVNWp5UVpDaFQ1Qjlia2NhS01xV3BqTE9JaE1xc0t6ci1PX3VYVG5sU0pjc0RCRjhRX0hJVVBmS3REbTBLYUxIRTJYZWhadTRHbTFSMkU0cnFoQQ?oc=5": "2026-11-13T10:03:04.266703+09:00",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE94MnpQRU4xcXJpQmJFTjhFTzdFOXZxTVJOOUk3Mzh1aVdodU5LZ2JNVGE0TndWWVo2ZFlFcG9mYjVuaVh4amk0eExpcDhNUFVaSWFiUlNWb1h6Q3E1cXMxVnFaS0RNcGlqWktlQnl6WDdPblnSAXdBVV95cUxNT2puX1czUTZoUHdYU3hXd2NyMlRzV0tXcWFvak5oZzk3emsyMEZCYVlVRnVPTUJKdW1RdHdfUndnY2FnWFR5Rld6ZEU0VWlZX2dqZEtocU5peXdGV3hLbUZDU1NSUVRmRjBSbjk1MHhWSnYxbk1qbw?oc=5": "2026-11-13T10:03:04.266703+09:00"
   },
   "titles": {
-    "3610e3d9aeb69be4528e21c5177d68d83129b67724eaabc341ae1de3800ff6f5": "2026-10-30T09:02:46.508680+09:00",
-    "005e15f5de3d5a10b8efbafed1ff33a147fe1207f6b694b93f206d2fa8bf96eb": "2026-10-30T09:02:46.508680+09:00",
-    "298906e9551bc787edfda14c71654fc451f2a5bb5473dfdbc1e96dfbbe271251": "2026-10-30T09:02:46.508680+09:00",
     "0ad2cb21f5199e8c5e6bfafde5e298ffafbc9d43819c91f48f2f8814bba038fb": "2026-10-30T10:03:46.701562+09:00",
     "add1d3c2ffc7399091944e92589e435b9d0a1c677ef84a9d422c6e63a43bcdb2": "2026-10-30T11:04:06.786798+09:00",
     "5a385a083a1fcc1435f2e7c1cd43f68c50945ef139711367217b416c2c208667": "2026-10-30T14:02:43.585396+09:00",
@@ -1785,7 +1785,13 @@
     "a81b5dacd3cd2b7c1ffa9715bb723d82e14f130abeb2388ad02ec912e0fe7556": "2026-11-13T09:02:46.635062+09:00",
     "97ee7897539f149663ba1f196ae885e0758120a429a058a5dc77f65f068dfc07": "2026-11-13T09:02:46.635062+09:00",
     "4477766399704109f0e71e25d9272a70a24c853ec5652aaf63f223c61a48a309": "2026-11-13T09:02:46.635062+09:00",
-    "39d58b6d91dc0046d851c0ed68c0982297c7141c08ccb9e02f40d68bd81584ac": "2026-11-13T09:02:46.635062+09:00"
+    "39d58b6d91dc0046d851c0ed68c0982297c7141c08ccb9e02f40d68bd81584ac": "2026-11-13T09:02:46.635062+09:00",
+    "882ae3a4be084b786261781b03adbbf7f363b6f50601414feaef9c6f9ceda20c": "2026-11-13T10:03:04.266703+09:00",
+    "e6de487dd67ae9115f680392c6525523c9ef1d93d507f49668a8fa06dbcaa335": "2026-11-13T10:03:04.266703+09:00",
+    "cb9d99884b1774c3e845d715fa32865720c714cf3fd0d16e1dd1abb6910d08d9": "2026-11-13T10:03:04.266703+09:00",
+    "0f75e0a664652a50395a373660221a6e9e16376d983af76c02e503489f32728d": "2026-11-13T10:03:04.266703+09:00",
+    "a0e3ec01c9b1e68c17ca4e1d865d12b14aabc27416831266be2be06b94c711f0": "2026-11-13T10:03:04.266703+09:00",
+    "640a514c06a0d6ae77f47e561210f5e13b248a6144c3f1a6c7296695c86ffdc7": "2026-11-13T10:03:04.266703+09:00"
   },
   "pending": {},
   "ai": {
@@ -1796,75 +1802,10 @@
     "2026-11-10": 18,
     "2026-11-11": 15,
     "2026-11-12": 20,
-    "2026-11-13": 4
+    "2026-11-13": 8
   },
   "cursor": 0,
   "archive": {
-    "https://www.safetynews.co.kr/news/articleView.html?idxno=251481": {
-      "title": "포항 4대 철강사, 협력업체 안전관리 강화·작업중지권 확대 추진",
-      "summary": "/사진 = 노동부 포항 지청 제공 포항 지역 4대 철강사가 중대재해 예방을 위해 협력업체에 대한 안전관리 책임을 강화하고 현장 노동자의 작업중지권을 실질적으로 보장하는 방안을 추진한다. 고용노동부 포항 지청은 10일...",
-      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251481",
-      "date": "Wed, 11 Nov 2026 09:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://daily.hankooki.com/news/articleView.html?idxno=1423863": {
-      "title": "포스코 인터, 9492억원 투입 광양 LNG터미널 준공",
-      "summary": "최동영 포스코홀딩스 경영전략실장은 지난 2일 광양에서 열린 전략 브리핑에서 그룹 매출액의 약 50%, 영업이익의 70%가 철강에서 발생한다고 설명했다. 최 실장은 \"2035년에는 산업·전략·에너지자원이 영업이익에...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423863",
-      "date": "Wed, 11 Nov 2026 09:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.gukjenews.com/news/articleView.html?idxno=3748320": {
-      "title": "포스코 인터내셔널, 광양 제2 LNG터미널 준공…저장용량 133만㎘로 확대",
-      "summary": "포스코 인터내셔널은 10일 전남광주통합특별시 광양시에 위치한 광양 제2 LNG터미널의 준공식을 개최했다. 포스코 인터내셔널은 10일 전남광주통합특별시 광양시에 위치한 광양 제2 LNG터미널의 준공식을 개최했다....",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748320",
-      "date": "Wed, 11 Nov 2026 09:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUR6TnFoMlp0M2NsQng3bjljdHU1dHRkS3R0cVFRZ0JyX09iM2ljN0lIZGp1UmhTZjFrS1BtMG5ZekVhM0EtdS1lbkIxX0ZvV0xva1FXRk1ZVnZJN3Q2d3pPMEl0WkQ1enpZ?oc=5": {
-      "title": "한수원, 대우건설 노조 주장에 \"후속 일정 위한 불가피한 협상 종료\" - 일간투데이",
-      "summary": "한수원, 대우건설 노조 주장에 \"후속 일정 위한 불가피한 협상 종료\" 일간투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUR6TnFoMlp0M2NsQng3bjljdHU1dHRkS3R0cVFRZ0JyX09iM2ljN0lIZGp1UmhTZjFrS1BtMG5ZekVhM0EtdS1lbkIxX0ZvV0xva1FXRk1ZVnZJN3Q2d3pPMEl0WkQ1enpZ?oc=5",
-      "date": "Wed, 11 Nov 2026 00:38:13 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5": {
-      "title": "POSCO DX stock in focus as Q3 operating profit falls 22.2% - ad-hoc-news.de",
-      "summary": "POSCO DX stock in focus as Q3 operating profit falls 22.2% ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5",
-      "date": "Wed, 11 Nov 2026 00:39:42 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
     "https://www.klnews.co.kr/news/articleView.html?idxno=323452": {
       "title": "경산4일반산업단지, 마지막 물류용지…납부조건 대폭 완화해 분양",
       "summary": "한국산업단지공단(이사장 김대자)이 경북 경산시 진량읍 경산4일반산업단지 물류지원용지 잔여 2필지(약... 건폐율 70%, 용적률 300%가 적용돼 최대 연면적 약 8만9천㎡의 물류시설 건립 이 가능하다. 경산4산단 부지의...",
@@ -6793,6 +6734,110 @@
       "category": "산재·사업장 사고",
       "priority": 100,
       "filter_version": 17
+    },
+    "https://idsn.co.kr/news/view/1065572713876733": {
+      "title": "경산 골판지 제조 공장 서 화재 …대응 1단계 발령해 진화",
+      "summary": "▲ 경북 경산시 진량읍 선화리의 한 골판지상자 제조 공장 에서 화재 가 발생했다.(사진= 경북 소방본부 제공) 12일 오후 8시 1분께 경북 경산시 진량읍 선화리의 한 골판지상자 제조 공장 에서 불이 나 소방당국이 진화 작업을...",
+      "url": "https://idsn.co.kr/news/view/1065572713876733",
+      "date": "Fri, 13 Nov 2026 09:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.etoday.co.kr/news/view/2647752": {
+      "title": "이정현 31점 폭발…소노, 한국가스공사 에 88-87 역전승·2연승",
+      "summary": "이투데이=장영준 기자 | 프로농구 고양 소노가 이정현의 31점 활약을 앞세워 대구 한국가스공사 에 짜릿한 역전승을 거뒀다. 4쿼터 한때 10점 차까지 벌어진 경기를 뒤집으며 2연승을 달렸다. 소노는 12일...",
+      "url": "https://www.etoday.co.kr/news/view/2647752",
+      "date": "Fri, 13 Nov 2026 09:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281200": {
+      "title": "한수원, 체코 두코바니 원전 2029년 착공 가시화",
+      "summary": "한국수력원자력 은 지난 9일부터 12일까지 서울 한수원 방사선보건원에서 발주사인 EDU II와 프로젝트 합동 점검회의를 개최해 사업 전반의 이행 현황을 확인했다. 이번 회의에는 페트르 자보드스키 EDU II 사장을...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281200",
+      "date": "Fri, 13 Nov 2026 09:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=304935": {
+      "title": "한수원, 체코 원전 시공사 갈등에도 \"2029년 착공 차질 없이 추진\"",
+      "summary": "한국수력원자력 이 체코 두코바니 원전사업 발주사와 합동 점검회의를 열고 2027년 4월 건설허가 신청과 2029년 11월 착공 등 주요 사업 일정을 예정대로 추진하기로 했다. 최근 국내 시공사와의 계약 협상이 결렬된...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304935",
+      "date": "Fri, 13 Nov 2026 09:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE94MnpQRU4xcXJpQmJFTjhFTzdFOXZxTVJOOUk3Mzh1aVdodU5LZ2JNVGE0TndWWVo2ZFlFcG9mYjVuaVh4amk0eExpcDhNUFVaSWFiUlNWb1h6Q3E1cXMxVnFaS0RNcGlqWktlQnl6WDdPblnSAXdBVV95cUxNT2puX1czUTZoUHdYU3hXd2NyMlRzV0tXcWFvak5oZzk3emsyMEZCYVlVRnVPTUJKdW1RdHdfUndnY2FnWFR5Rld6ZEU0VWlZX2dqZEtocU5peXdGV3hLbUZDU1NSUVRmRjBSbjk1MHhWSnYxbk1qbw?oc=5": {
+      "title": "청송군-일본 무로토시, 유네스코 세계지질공원 상호협력 업무협약(MOU) 체결 - 뉴스프리존",
+      "summary": "청송군-일본 무로토시, 유네스코 세계지질공원 상호협력 업무협약(MOU) 체결 뉴스프리존",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94MnpQRU4xcXJpQmJFTjhFTzdFOXZxTVJOOUk3Mzh1aVdodU5LZ2JNVGE0TndWWVo2ZFlFcG9mYjVuaVh4amk0eExpcDhNUFVaSWFiUlNWb1h6Q3E1cXMxVnFaS0RNcGlqWktlQnl6WDdPblnSAXdBVV95cUxNT2puX1czUTZoUHdYU3hXd2NyMlRzV0tXcWFvak5oZzk3emsyMEZCYVlVRnVPTUJKdW1RdHdfUndnY2FnWFR5Rld6ZEU0VWlZX2dqZEtocU5peXdGV3hLbUZDU1NSUVRmRjBSbjk1MHhWSnYxbk1qbw?oc=5",
+      "date": "Fri, 13 Nov 2026 00:14:06 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBCd1E4NUdwLUNMZi0xOVhkQURqMWtRREhJTnBxUU5PY3BXNkh5SkFGS3NndTJjZ2UyVm9WYTQwY3pQenBGQU91SDJzWjRtZ0hfOEphdVRvbHJiT0dNN2s1VlhuUjJjSl9QM01CSi1yMWFmdw?oc=5": {
+      "title": "대구시, 중소기업 옴부즈만과 ‘규제혁신 업무협약’ 체결… 중앙·지방 공조로 지역경제 활력 제고(Daegu City Signs 'Regulatory Innovation MOU' with SME Ombudsman to Boost Local Economy Through Central-Local Cooperation) - 글로벌휴먼타임즈",
+      "summary": "대구시, 중소기업 옴부즈만과 ‘규제혁신 업무협약’ 체결… 중앙·지방 공조로 지역경제 활력 제고(Daegu City Signs 'Regulatory Innovation MOU' with SME Ombudsman to Boost Local Economy Through Central-Local Cooperation) 글로벌휴먼타임즈",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCd1E4NUdwLUNMZi0xOVhkQURqMWtRREhJTnBxUU5PY3BXNkh5SkFGS3NndTJjZ2UyVm9WYTQwY3pQenBGQU91SDJzWjRtZ0hfOEphdVRvbHJiT0dNN2s1VlhuUjJjSl9QM01CSi1yMWFmdw?oc=5",
+      "date": "Fri, 13 Nov 2026 00:38:40 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fM1JMNlJISHlFSTVEeGx1UkFxZFc3ZkExLTU3bURicjNTclZRWll2U2tFSW8td3A0V3oyQUpORU5kRkJrQndSMk9SanVRTFVBYUdrR0xvakh5RnpGNE1fdDZYNUptRzRWS2lIaWNBVndIbTDSAXdBVV95cUxNOWlKTHp3M2pKNUFzbXpSQ0pHbEVKYk9PckFDbVpIQ0lCTlBVbHExbS0xWDJ1aF9BdlRfMkIxUEwzMUxlcURJb2p6LURJS18wZmNMVjNleVFzNmVTS08yT2dybUplS0FPdjc2b3J6M1RnaW4yRm5POA?oc=5": {
+      "title": "구미 5산단에 또 하나의 성장엔진..도레이첨단소재 신규 라인 준공 - 뉴스프리존",
+      "summary": "구미 5산단에 또 하나의 성장엔진..도레이첨단소재 신규 라인 준공 뉴스프리존",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fM1JMNlJISHlFSTVEeGx1UkFxZFc3ZkExLTU3bURicjNTclZRWll2U2tFSW8td3A0V3oyQUpORU5kRkJrQndSMk9SanVRTFVBYUdrR0xvakh5RnpGNE1fdDZYNUptRzRWS2lIaWNBVndIbTDSAXdBVV95cUxNOWlKTHp3M2pKNUFzbXpSQ0pHbEVKYk9PckFDbVpIQ0lCTlBVbHExbS0xWDJ1aF9BdlRfMkIxUEwzMUxlcURJb2p6LURJS18wZmNMVjNleVFzNmVTS08yT2dybUplS0FPdjc2b3J6M1RnaW4yRm5POA?oc=5",
+      "date": "Fri, 13 Nov 2026 00:17:23 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZHQldaTFZaNTRzSTVRSFJuQmNjZC13M3Z5MkV1T3VoZEVvOEFJOExRVFJVNWp5UVpDaFQ1Qjlia2NhS01xV3BqTE9JaE1xc0t6ci1PX3VYVG5sU0pjc0RCRjhRX0hJVVBmS3REbTBLYUxIRTJYZWhadTRHbTFSMkU0cnFoQQ?oc=5": {
+      "title": "캐나다 LNG 기여 본격화로 해외 사업 실적 이 개선!AI가 분석해주는 한국가스공사 (036460) 상승확률은? - 네이버 프리미엄콘텐츠",
+      "summary": "캐나다 LNG 기여 본격화로 해외 사업 실적 이 개선!AI가 분석해주는 한국가스공사 (036460) 상승확률은? 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZHQldaTFZaNTRzSTVRSFJuQmNjZC13M3Z5MkV1T3VoZEVvOEFJOExRVFJVNWp5UVpDaFQ1Qjlia2NhS01xV3BqTE9JaE1xc0t6ci1PX3VYVG5sU0pjc0RCRjhRX0hJVVBmS3REbTBLYUxIRTJYZWhadTRHbTFSMkU0cnFoQQ?oc=5",
+      "date": "Fri, 13 Nov 2026 00:21:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -6816,11 +6861,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-13",
   "sent_articles": [
-    {
-      "url": "http://www.newsdream.kr/news/articleView.html?idxno=121173",
-      "title": "LS전선, 구미 에 국내 최대 규모 희토류 영구자석 공장 건립… 비중국 공...",
-      "date": "Fri, 30 Oct 2026 09:34:00 +0900"
-    },
     {
       "url": "https://www.hidomin.com/news/articleView.html?idxno=727169",
       "title": "이슬람 국가서 반려견 시장 개척…칠곡군 하이비오, 9만 달러 MOU 체결",
@@ -11260,6 +11300,36 @@
       "url": "https://www.newspim.com/news/view/20261113000048",
       "title": "[모닝 리포트] \" 엘앤에프 , 3분기 적자에도 NCM·LFP 출하 성장 지속\"",
       "date": "Fri, 13 Nov 2026 08:17:00 +0900"
+    },
+    {
+      "url": "https://idsn.co.kr/news/view/1065572713876733",
+      "title": "경산 골판지 제조 공장 서 화재 …대응 1단계 발령해 진화",
+      "date": "Fri, 13 Nov 2026 09:30:00 +0900"
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2647752",
+      "title": "이정현 31점 폭발…소노, 한국가스공사 에 88-87 역전승·2연승",
+      "date": "Fri, 13 Nov 2026 09:28:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCd1E4NUdwLUNMZi0xOVhkQURqMWtRREhJTnBxUU5PY3BXNkh5SkFGS3NndTJjZ2UyVm9WYTQwY3pQenBGQU91SDJzWjRtZ0hfOEphdVRvbHJiT0dNN2s1VlhuUjJjSl9QM01CSi1yMWFmdw?oc=5",
+      "title": "대구시, 중소기업 옴부즈만과 ‘규제혁신 업무협약’ 체결… 중앙·지방 공조로 지역경제 활력 제고(Daegu City Signs 'Regulatory Innovation MOU' with SME Ombudsman to Boost Local Economy Through Central-Local Cooperation) - 글로벌휴먼타임즈",
+      "date": "Fri, 13 Nov 2026 00:38:40 GMT"
+    },
+    {
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304935",
+      "title": "한수원, 체코 원전 시공사 갈등에도 \"2029년 착공 차질 없이 추진\"",
+      "date": "Fri, 13 Nov 2026 09:24:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZHQldaTFZaNTRzSTVRSFJuQmNjZC13M3Z5MkV1T3VoZEVvOEFJOExRVFJVNWp5UVpDaFQ1Qjlia2NhS01xV3BqTE9JaE1xc0t6ci1PX3VYVG5sU0pjc0RCRjhRX0hJVVBmS3REbTBLYUxIRTJYZWhadTRHbTFSMkU0cnFoQQ?oc=5",
+      "title": "캐나다 LNG 기여 본격화로 해외 사업 실적 이 개선!AI가 분석해주는 한국가스공사 (036460) 상승확률은? - 네이버 프리미엄콘텐츠",
+      "date": "Fri, 13 Nov 2026 00:21:00 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94MnpQRU4xcXJpQmJFTjhFTzdFOXZxTVJOOUk3Mzh1aVdodU5LZ2JNVGE0TndWWVo2ZFlFcG9mYjVuaVh4amk0eExpcDhNUFVaSWFiUlNWb1h6Q3E1cXMxVnFaS0RNcGlqWktlQnl6WDdPblnSAXdBVV95cUxNT2puX1czUTZoUHdYU3hXd2NyMlRzV0tXcWFvak5oZzk3emsyMEZCYVlVRnVPTUJKdW1RdHdfUndnY2FnWFR5Rld6ZEU0VWlZX2dqZEtocU5peXdGV3hLbUZDU1NSUVRmRjBSbjk1MHhWSnYxbk1qbw?oc=5",
+      "title": "청송군-일본 무로토시, 유네스코 세계지질공원 상호협력 업무협약(MOU) 체결 - 뉴스프리존",
+      "date": "Fri, 13 Nov 2026 00:14:06 GMT"
     }
   ],
   "brief_articles": [
@@ -11307,7 +11377,7 @@
     "2026-11-10": 12,
     "2026-11-11": 11,
     "2026-11-12": 13,
-    "2026-11-13": 2
+    "2026-11-13": 3
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
