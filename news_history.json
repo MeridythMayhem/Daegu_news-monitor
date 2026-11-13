@@ -1,6 +1,5 @@
 {
   "sent": {
-    "http://www.metroseoul.co.kr/article/20261030500212": "2026-10-30T17:04:32.240519+09:00",
     "http://www.breaknews.com/1247282": "2026-10-30T18:03:04.208310+09:00",
     "https://www.ajunews.com/view/20261030171729346": "2026-10-30T18:03:04.208310+09:00",
     "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524414": "2026-10-30T18:03:04.208310+09:00",
@@ -928,10 +927,15 @@
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PQ0pGSHB1S3RBd3lGVUdpVVpHUDAwV2FOTmh3UE1rclhrUEZ6c1ZzOFhrTnBpUkJHUVpGMnMzU1owT3NoTHY2dURrdVBpUWdNeWpDVw?oc=5": "2026-11-13T17:02:22.915250+09:00",
     "https://www.wolyo.co.kr/news/articleView.html?idxno=320477": "2026-11-13T17:02:22.915250+09:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVjN0enZTbzBVNUtMUExncVE1cmt0cnpXQ3FYdHh3SUlTWDdhei16OTM5LTQwdHJNVmtFRlN6Um1ERW9NV3NvTXdHQU9aYkpmcnFfSGFvTWU1OFRCS01VcUx6VGFyaGJKN3c?oc=5": "2026-11-13T17:02:22.915250+09:00",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RWXZsMkV2QUFGUS1HTzZ2VTBla0xzVzNYdWNUZ0FTbEdqTlhOX1RpUWxQd25YamdFbnN2TGFqYlM4bDktU3k0RkVSUlhER1BsWnp5em40eHJQczRGdi1MR05nTVBFUQ?oc=5": "2026-11-13T17:02:22.915250+09:00"
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RWXZsMkV2QUFGUS1HTzZ2VTBla0xzVzNYdWNUZ0FTbEdqTlhOX1RpUWxQd25YamdFbnN2TGFqYlM4bDktU3k0RkVSUlhER1BsWnp5em40eHJQczRGdi1MR05nTVBFUQ?oc=5": "2026-11-13T17:02:22.915250+09:00",
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194624": "2026-11-13T18:01:51.522814+09:00",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768265": "2026-11-13T18:01:51.522814+09:00",
+    "https://www.bloter.net/news/articleView.html?idxno=678519": "2026-11-13T18:01:51.522814+09:00",
+    "https://www.joongang.co.kr/article/25478435": "2026-11-13T18:01:51.522814+09:00",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1425088": "2026-11-13T18:01:51.522814+09:00",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=451978": "2026-11-13T18:01:51.522814+09:00"
   },
   "titles": {
-    "ee2e5a3e3a9ca696b08b0672f0168dfdc0233fe2f17a86f1d32cbb77253798cb": "2026-10-30T17:04:32.240519+09:00",
     "8ddfa13c6050903bfa5582320b6e943a0352563c5bd42fff59366abde2aa58f5": "2026-10-30T18:03:04.208310+09:00",
     "d9eb8efca1c46592035141fd23837592c62e3203856cdc7afa0b3b90e7763a09": "2026-10-30T18:03:04.208310+09:00",
     "c90aaee244ea25e57d9b3f5e4a463815666a6d6faaacad5536788454b2988046": "2026-10-30T18:03:04.208310+09:00",
@@ -1859,7 +1863,13 @@
     "a006143ff25d0555fc6865b03b9ac7d3aa4037592975ef6da4633a6d8d7aa934": "2026-11-13T17:02:22.915250+09:00",
     "01e1e263e64068a44df861ac2c3bf8ee0f8d62adc1198f3d2b42fe83ef3bbbc3": "2026-11-13T17:02:22.915250+09:00",
     "5ba4c7058727c8f2af48ea30cd2d9f6c3b924c42da6fb07c4c8bc0e065412fa0": "2026-11-13T17:02:22.915250+09:00",
-    "d10bd41d5822dde1562ccbfdb6206ca5856ac873257f8883298fe271df9a714d": "2026-11-13T17:02:22.915250+09:00"
+    "d10bd41d5822dde1562ccbfdb6206ca5856ac873257f8883298fe271df9a714d": "2026-11-13T17:02:22.915250+09:00",
+    "db426e8177c1831d159ccc2e9517967afaafcdca208171ec10cf67103261d24f": "2026-11-13T18:01:51.522814+09:00",
+    "fff19132de48549d4d35f3819e8a71a54cf69c41cc17d32f8db9872d64b45fb6": "2026-11-13T18:01:51.522814+09:00",
+    "74c463ee53c5952d07548d1a64b2b2f3ead4e4bb2a15ae818415aafb47e80c79": "2026-11-13T18:01:51.522814+09:00",
+    "95d06d0eb1674f27e5a97dd7fe5a1f80d93a984e80f310f4a0f6a151faa514f6": "2026-11-13T18:01:51.522814+09:00",
+    "c2b484f207d65207d51f60f117e52a50d8b62433e72b968d9163d7230caa4056": "2026-11-13T18:01:51.522814+09:00",
+    "f81ca0fdbdfaf36966bd59d67713bff6e48f69060cc559cb2c70d0a56c9d3625": "2026-11-13T18:01:51.522814+09:00"
   },
   "pending": {},
   "ai": {
@@ -1870,283 +1880,10 @@
     "2026-11-10": 18,
     "2026-11-11": 15,
     "2026-11-12": 20,
-    "2026-11-13": 21
+    "2026-11-13": 22
   },
   "cursor": 0,
   "archive": {
-    "https://www.kukinews.com/article/view/kuk202611110171": {
-      "title": "박용선 포항 시장 “POEX, 지역경제 이끌 복합문화공간으로 키울 것”",
-      "summary": "하는 포항 국제전시컨벤션센터(POEX) 운영 방향을 제시했다. POEX를 지역 MICE(회의·포상관광·컨벤션·전시회) 산업 중심이자 공연장 기능을 갖춘 복합문화공간으로 활용한다는 구상이다. 박 시장은 11일 POEX 건립 현장을...",
-      "url": "https://www.kukinews.com/article/view/kuk202611110171",
-      "date": "Wed, 11 Nov 2026 17:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565076": {
-      "title": "대구 경북 녹색연합 \"재정난 속 신청사 건립 원점 재검토해야\"",
-      "summary": "기존 동인·산격청사 활용과 신청사 규모 축소, 단계별 건립 등을 비교하고 대구· 경북 행정통합에 따른 청사 수요도 검토해야 한다고 강조했다. 또 대안 검증이 끝날 때까지 신규 본공사 발주와 관련 공사비 집행을...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565076",
-      "date": "Wed, 11 Nov 2026 17:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6350981": {
-      "title": "경북 도의회, '기관장 C등급·청렴도 4등급' 경북 문화재단 질타",
-      "summary": "괴롭힘·성희롱 의혹 처리가 불분명하다\"고 지적했고, 장명수 의원은 \"인력 배분과 교육훈련, 내부 관리체계를 정비해 경영평가와 청렴도 개선으로 이어지도록 성과를 내라\"고 촉구했다. 김재수 경북 문화재단 대표이사는...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6350981",
-      "date": "Wed, 11 Nov 2026 17:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ceoscoredaily.com/page/view/2026111117184218062": {
-      "title": "에코프로 , 인니 BNSI에 6271억 투자 ‘승부수’… 이승환, 2세 경영승계...",
-      "summary": "에코프로 비엠이 인도네시아 니켈 제련 사업을 위한 투자에 본격 착수한다. 현지 종속회사에 대규모 자금을 출자해 제련소 지분 취득과 주주대여금 확보에 나섰다. 특히 이 과정에서 이동채 창업주의 장남...",
-      "url": "https://www.ceoscoredaily.com/page/view/2026111117184218062",
-      "date": "Wed, 11 Nov 2026 17:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.tfmedia.co.kr/news/article.html?no=208819": {
-      "title": "포스코, 임금협상 본교섭 결렬…노조 \"17일 서울 상경 집회 개최\"",
-      "summary": "그 이전인 12일부터 13일까지 노조 간부 및 대의원은 포항 ·광양 제철소 에서 출근 선전활동에 나설 예정이다. 또한 노조 집행부는 전 조합원이 16일부터 평일 퇴근 후 무기한 선전활동에 참석할 것을 요청했다. 노조의...",
-      "url": "https://www.tfmedia.co.kr/news/article.html?no=208819",
-      "date": "Wed, 11 Nov 2026 17:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.koreastocknews.com/news/articleView.html?idxno=122225": {
-      "title": "자재 조달부터 글로벌 수주까지··· 포스코 ·GS, AIDC 밸류체인 공동 구...",
-      "summary": "한편, 포스코그룹 지주사인 포스코홀딩스 는 올해 3분기 ▲매출은 19조1410억원 ▲영업이익은 9450억원을 기록했다. 영업이익은 전년동기대비 47.9% 증가해 시장에서 예상했던 8000억원대 초반 수준을 크게 뛰어넘었다. 실적...",
-      "url": "http://www.koreastocknews.com/news/articleView.html?idxno=122225",
-      "date": "Wed, 11 Nov 2026 17:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.fetv.co.kr/news/articleView.html?idxno=313534": {
-      "title": "포스코, 임단협 재교섭 22분만에 파행…노조 17일 상경투쟁",
-      "summary": "노조는 먼저 12~13일 이틀간 포항 ·광양 제철소 에서 출근 전 선전전을 진행할 예정이다. 대상은 노조 간부와 대의원이다. 오는 16일부터는 쟁의 범위를 전체 조합원으로 확대한다. 평일 퇴근 후 무기한 선전전을 진행할...",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=313534",
-      "date": "Wed, 11 Nov 2026 17:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://ysmbc.co.kr/NewsArticle/1545236": {
-      "title": "포스코 노사 협상 난항...노조 쟁의 행위 강화",
-      "summary": "포스코 노사가 임금 협상을 재개했지만 사측의 추가 협상 안 제시 불가 입장에 노사 갈등이 다시 고조되고 있습니다. 포스코 노조는 사측과의 잠정합의안이 조합원 투표에서 부결된 이후 가진 오늘(11) 임금협상...",
-      "url": "https://ysmbc.co.kr/NewsArticle/1545236",
-      "date": "Wed, 11 Nov 2026 17:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.eroun.net/news/articleView.html?idxno=95119": {
-      "title": "포스코 노사, 30차 교섭 22분 만에 결렬… 노조, 17일 서울서 대규모 상...",
-      "summary": "기자 포스코 노동조합이 11일 전남 광양에서 열린 사측과의 단체 교섭에서 이견을 좁히지 못하고 협상장을 중도 퇴장했다. 한국노총 소속 포스코 노조 교섭위원들은 이날 오전 10시 5분 광양 Park 1538 교육관에서 열린...",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=95119",
-      "date": "Wed, 11 Nov 2026 17:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.dt.co.kr/article/12094643?ref=naver": {
-      "title": "포스코 노사협상 다시 원점으로…노조는 17일 서울서 집회 예고",
-      "summary": "포스코 노사가 임금교섭 잠정합의안 부결 후 재교섭에 나섰으나 노조가 20분 만에 자리를 뜨며 노사 협상이 원점으로 돌아갔다. 노조는 오는 17일 서울서 집회를 열기로 했다. 11일 포스코 노사에 따르면 노사는 이날 전남...",
-      "url": "https://www.dt.co.kr/article/12094643?ref=naver",
-      "date": "Wed, 11 Nov 2026 17:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886817": {
-      "title": "박용선 포항 시장, 포항 국제전시컨벤션센터(POEX) 건립 현장 전격 점검",
-      "summary": "박용선 포항 시장은 지난 11일 포항 국제전시컨벤션센터 건립 공사 현장을 전격 방문해 전체적인 공사 진행 상황과 주변 기반 정비 현황을 세밀하게 점검하고, 구슬땀을 흘리고 있는 현장 관계자 및 근로자들을 따뜻하게...",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886817",
-      "date": "Wed, 11 Nov 2026 17:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=882357": {
-      "title": "포항 시, 2027년 4월 컨벤션센터 준공 목표… 주변 정비사업 박차",
-      "summary": "박용선 포항 시장은 11일 건립 현장을 방문해 공사 상황과 주변 정비 현황을 점검했다. 이번 현장 점검은 두호동 공감소통 간담회와 연계해 이뤄졌다. 박 시장은 박문태 정책특보, 이상현 관광컨벤션도시추진본부장...",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882357",
-      "date": "Wed, 11 Nov 2026 17:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565077": {
-      "title": "포항 기계면에 김유신 장군 세거비 건립 …이달 말 준공",
-      "summary": "포항 기계면에 김유신 장군 세거비 건립 …이달 말 준공 김유신 장군 가문의 포항 기계면 세거 역사를 기리는 비석이 건립 된다. 김유신장군 기계세거지 복원사업 추진위원회는 11일 포항 시 북구 기계면...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565077",
-      "date": "Wed, 11 Nov 2026 17:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.dailian.co.kr/news/view/1713853/?sc=Naver": {
-      "title": "대우건설 노조 “한수원, 총액 고정한 채 물량 25% 늘려”",
-      "summary": "대우건설 노동조합이 체코 신규 원전 건설사업 계약 협상 결렬과 관련해 한국수력원자력 (한수원)이 공사 물량을 늘리면서도 계약금액을 고정해 민간 시공사에 손실을 전가하려 했다고 주장했다. 전국건설기업노동조합...",
-      "url": "https://www.dailian.co.kr/news/view/1713853/?sc=Naver",
-      "date": "Wed, 11 Nov 2026 17:59:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.sisaon.co.kr/news/articleView.html?idxno=206002": {
-      "title": "대우건설 노조 \"한수원, 공사비 증액 아닌 단가 인하 요구\"",
-      "summary": "대우건설 노동조합이 체코 두코바니 신규 원전 시공계약 협상과 관련한 한국수력원자력 의 해명을 재반박했다. 한수원이 제시한 조건은 공사비 증액이 아니라 계약금액을 고정한 채 기준물량을 늘리고 단가를 낮추도록 한...",
-      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206002",
-      "date": "Wed, 11 Nov 2026 17:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newswhoplus.com/news/articleView.html?idxno=74106": {
-      "title": "대우건설 노조, 한수원 해명 반박…\"총액 고정한 채 물량 늘리고 단가 ...",
-      "summary": "전국건설기업노동조합 대우건설지부는 지난 10일 한국수력원자력 (이하 한수원)이 발표한 10개 항목의 '대우건설 노조 기자회견 관련 설명자료'(입장문)에 대해 정면 재반박에 나섰다. 11일 전국건설기업노동조합...",
-      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=74106",
-      "date": "Wed, 11 Nov 2026 17:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xWENnaTZ4ZTdtamg5c1FndXdGM19QYU5KZ1JJcjZjVkk4em1QczMtNXdSYkU5dVhmSHozSEh6bzFTaDFCYVdFb1dhOGdtUy1mUTFmVW1SYTZsZ2F1Zmw2cW5PU3lyaHRuQk10bVVsc9IBc0FVX3lxTE1RRkc4ay0zVE5EYWJMaTdUdkszSVBFZ21ZekcxUHBsaVN0NmJDS093UnNYS0dOamJ0THBmaU1vYmxZc25HeDY4b3RUZWxpYlhrSExJLUphZHQ2a00zRERuNmpsSHh5N3VJX0ZYN0pqRjR5TWM?oc=5": {
-      "title": "[경북교육 소식] 2027년도 예산안 5조8447억 편성·수능 스마트안경 부정행위 대응체계 강화·김천 율빛유치원 학교복합시설 건립 본격화 - 뉴스웍스",
-      "summary": "[경북교육 소식] 2027년도 예산안 5조8447억 편성·수능 스마트안경 부정행위 대응체계 강화·김천 율빛유치원 학교복합시설 건립 본격화 뉴스웍스",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xWENnaTZ4ZTdtamg5c1FndXdGM19QYU5KZ1JJcjZjVkk4em1QczMtNXdSYkU5dVhmSHozSEh6bzFTaDFCYVdFb1dhOGdtUy1mUTFmVW1SYTZsZ2F1Zmw2cW5PU3lyaHRuQk10bVVsc9IBc0FVX3lxTE1RRkc4ay0zVE5EYWJMaTdUdkszSVBFZ21ZekcxUHBsaVN0NmJDS093UnNYS0dOamJ0THBmaU1vYmxZc25HeDY4b3RUZWxpYlhrSExJLUphZHQ2a00zRERuNmpsSHh5N3VJX0ZYN0pqRjR5TWM?oc=5",
-      "date": "Wed, 11 Nov 2026 08:17:20 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUGFRTExpT25vWTJzZG0taG9vRkM1VUhCdVBMZ2NnRmtoREppM3lvSDg3TXllcUIwS2pqVWZRMEh0Z3FzVjVyRHE0Qk56VC1kV2JIcDh0QlZCbG5TZ2lvTnp2SHVsZw?oc=5": {
-      "title": "경주시, 일지테크 미국법인과 투자협약…경주공장 협력 확대 - 이로운넷",
-      "summary": "경주시, 일지테크 미국법인과 투자협약…경주공장 협력 확대 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUGFRTExpT25vWTJzZG0taG9vRkM1VUhCdVBMZ2NnRmtoREppM3lvSDg3TXllcUIwS2pqVWZRMEh0Z3FzVjVyRHE0Qk56VC1kV2JIcDh0QlZCbG5TZ2lvTnp2SHVsZw?oc=5",
-      "date": "Wed, 11 Nov 2026 08:47:04 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jVEtzWGhQODc4cWFtMWZhQkxSTWdOMVVoQm1IV3d6SGNUcUNkSk8wQkVfWW9xVkRpSnVpNTFkdzNrUVhZN24yZncyeGtDX1VBNnFYc2NENjJ4UW45N09pSlZoZ19Za184?oc=5": {
-      "title": "에코프로, 인니 BNSI에 6271억 투자 ‘승부수’… 이승환, 2세 경영승계 ‘시험대’ - CEO스코어데일리",
-      "summary": "에코프로, 인니 BNSI에 6271억 투자 ‘승부수’… 이승환, 2세 경영승계 ‘시험대’ CEO스코어데일리",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jVEtzWGhQODc4cWFtMWZhQkxSTWdOMVVoQm1IV3d6SGNUcUNkSk8wQkVfWW9xVkRpSnVpNTFkdzNrUVhZN24yZncyeGtDX1VBNnFYc2NENjJ4UW45N09pSlZoZ19Za184?oc=5",
-      "date": "Wed, 11 Nov 2026 08:45:41 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5USTBmN1dOVkNvMXhwRmhyazZ0MVZ4Q2gtanZCaldyempoQ2pwbjI5UWpCOHVBSERTemVWNnU5c3g4eFVKUGpLNk11bUR4am9qRy1tZm9MOXlSVVhadDJSUlpwV3R4QQ?oc=5": {
-      "title": "[속보]포스코 노사 30차 교섭 22분 만에 결렬… 노조, 17일 서울서 대규모 상경 투쟁 - 이로운넷",
-      "summary": "[속보]포스코 노사 30차 교섭 22분 만에 결렬… 노조, 17일 서울서 대규모 상경 투쟁 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5USTBmN1dOVkNvMXhwRmhyazZ0MVZ4Q2gtanZCaldyempoQ2pwbjI5UWpCOHVBSERTemVWNnU5c3g4eFVKUGpLNk11bUR4am9qRy1tZm9MOXlSVVhadDJSUlpwV3R4QQ?oc=5",
-      "date": "Wed, 11 Nov 2026 08:14:09 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE42bUl5YlY3am5QY0F2dXFYRE9hSS1Qa3kwVE5nb203VGZpUGZUYmtQT3dfLUUwa2R6MnM2cHh2T0hXcmltclRWTUlDdkJnM2VFNTFQUFh0MExMTG16bUpKcUFDaktaUmNJaGoyY1NR?oc=5": {
-      "title": "대우건설 노조, 한수원 해명 반박…\"총액 고정한 채 물량 늘리고 단가 삭감\" - 뉴스후플러스",
-      "summary": "대우건설 노조, 한수원 해명 반박…\"총액 고정한 채 물량 늘리고 단가 삭감\" 뉴스후플러스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42bUl5YlY3am5QY0F2dXFYRE9hSS1Qa3kwVE5nb203VGZpUGZUYmtQT3dfLUUwa2R6MnM2cHh2T0hXcmltclRWTUlDdkJnM2VFNTFQUFh0MExMTG16bUpKcUFDaktaUmNJaGoyY1NR?oc=5",
-      "date": "Wed, 11 Nov 2026 08:34:29 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.kmib.co.kr/article/20261111501813": {
       "title": "권오을 “대통령 결단으로 이룬 국립 의대 신설…안동에 감사 현수막 걸...",
       "summary": "경북은 1981년 대구 와 행정구역이 분리된 이후 도내에 국립 의대와 상급종합병원이 없는 상황이 이어져... 대학병원 건립 도 추진된다. 다만 실제 개교까지는 재정 확보와 교수진 충원, 교육병원 건립 등의 과제가 남아...",
@@ -6358,6 +6095,84 @@
       "category": "세무 조사·혐의 관련",
       "priority": 100,
       "filter_version": 17
+    },
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194624": {
+      "title": "포스코 DX, 대형 DX 사업 매출 확대로 4분기 수익성 개선 노린다",
+      "summary": "포스코 DX가 인공지능(AI)과 로봇 자동화 사업을 중심으로 신규 수주를 늘리고 있다. 3분기 IT 부문의... 13일 금융감독원 전자공시시스템에 따르면 포스코 DX의 올해 3분기 연결 기준 매출은 2652억원으로 전년 동기 대비...",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194624",
+      "date": "Fri, 13 Nov 2026 17:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.bloter.net/news/articleView.html?idxno=678519": {
+      "title": "CJ제일제당 전분당 매각 '공회전'… 담합 과징금에 본입찰 일정 표류",
+      "summary": "공정위는 4개사가 2016년 9월부터 지난해 6월까지 8년9개월간 포스코 등 7개 대형 실수요처가 발주한 전분·전분당 구매 입찰에서 △낙찰 예정자 △투찰 가격 △물량 등을 사전에 합의해 낙찰물량을 배분한 혐의를...",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678519",
+      "date": "Fri, 13 Nov 2026 17:25:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768265": {
+      "title": "한수원, 체코 두코바니 원전 사업 점검...\"2029년 11월 착공 계획대로\"",
+      "summary": "한국수력원자력 (사장 김회천, 이하 한수원)이 체코 두코바니 신규 원전 건설 사업의 진행 상황을 점검하기 위해 발주사 측과 머리를 맞댔다. 한수원은 지난 9일부터 12일까지 서울 한수원 방사선보건원에서 체코...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768265",
+      "date": "Fri, 13 Nov 2026 17:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.joongang.co.kr/article/25478435": {
+      "title": "‘체코 원전 시공사 교체 논란’ 지속...한수원 청문회 열리나",
+      "summary": "한국수력원자력 (한수원)이 체코 두코바니 신규 원전 건설사업의 시공사 교체를 추진하면서 ‘특정 업체 밀어주기’ 아니냐는 의혹이 불거지자, 청문회를 통해 진상을 밝혀야 한다는 목소리가 나온다. 13일 국회...",
+      "url": "https://www.joongang.co.kr/article/25478435",
+      "date": "Fri, 13 Nov 2026 17:19:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://daily.hankooki.com/news/articleView.html?idxno=1425088": {
+      "title": "한수원 \"체코 원전 프로젝트, 2029년 11월 착공 이상 무\"",
+      "summary": "한국수력원자력 은 지난 9일부터 12일까지 서울 중림동 방사선보건원에서 체코 발주사인 EDU II와 프로젝트 합동 점검회의를 개최했다. ⓒ 한국수력원자력 제공 시공을 맡았던 대우건설과의 갈등으로 프로젝트 순항...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425088",
+      "date": "Fri, 13 Nov 2026 17:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.businesspost.co.kr/BP?command=article_view&num=451978": {
+      "title": "한수원 체코 두코바니 원전 진행 상황 발주사와 합동 점검, 2029년 착공 ...",
+      "summary": "체코 측 관계자 30여 명과 팀코리아 관계자 70여 명이 11일 서울 중구 한국수력원자력 방사선보건원에서 체코 두코바니 원전 사업 합동 프로젝트 점검 회의에 참석한 뒤 기념사진을 찍고 있다. 한국수력원자력 ...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451978",
+      "date": "Fri, 13 Nov 2026 17:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -6381,31 +6196,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-13",
   "sent_articles": [
-    {
-      "url": "http://www.breaknews.com/1247282",
-      "title": "경북도·구미시, KMW와 3,500억 원 투자협약…희토류 영구자석 생산기지...",
-      "date": "Fri, 30 Oct 2026 17:56:00 +0900"
-    },
-    {
-      "url": "https://www.ajunews.com/view/20261030171729346",
-      "title": "[속보] 포스코 노사, 임단협 잠정합의 도출...파업 위기 해소",
-      "date": "Fri, 30 Oct 2026 17:20:00 +0900"
-    },
-    {
-      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524414",
-      "title": "대동 , 자회사 지분 571억 원 인수 연기… 실적 호조에도 자금 부담?",
-      "date": "Fri, 30 Oct 2026 17:16:00 +0900"
-    },
-    {
-      "url": "https://www.viva100.com/article/20261030500884",
-      "title": "경북 경산시-카르마코스메틱, 39억 원 MOU 체결",
-      "date": "Fri, 30 Oct 2026 17:14:00 +0900"
-    },
-    {
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037",
-      "title": "영천시, 지역 정주형 로봇 인재' 양성 본격화…한국폴리텍대와 MOU",
-      "date": "Fri, 30 Oct 2026 17:08:00 +0900"
-    },
     {
       "url": "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257",
       "title": "경북도, 반도체·드론 투자 유치 나서…서울 상담 이어 김천· 구미 현장...",
@@ -11020,6 +10810,36 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RWXZsMkV2QUFGUS1HTzZ2VTBla0xzVzNYdWNUZ0FTbEdqTlhOX1RpUWxQd25YamdFbnN2TGFqYlM4bDktU3k0RkVSUlhER1BsWnp5em40eHJQczRGdi1MR05nTVBFUQ?oc=5",
       "title": "영천시 한울 농업회사법인㈜ 박규섭 대표, 2026년 경상북도 농업인대상 농산물 가공‧유통 부문 수상 - 데일리대구경북뉴스",
       "date": "Fri, 13 Nov 2026 07:03:52 GMT"
+    },
+    {
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194624",
+      "title": "포스코 DX, 대형 DX 사업 매출 확대로 4분기 수익성 개선 노린다",
+      "date": "Fri, 13 Nov 2026 17:58:00 +0900"
+    },
+    {
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768265",
+      "title": "한수원, 체코 두코바니 원전 사업 점검...\"2029년 11월 착공 계획대로\"",
+      "date": "Fri, 13 Nov 2026 17:42:00 +0900"
+    },
+    {
+      "url": "https://www.bloter.net/news/articleView.html?idxno=678519",
+      "title": "CJ제일제당 전분당 매각 '공회전'… 담합 과징금에 본입찰 일정 표류",
+      "date": "Fri, 13 Nov 2026 17:25:00 +0900"
+    },
+    {
+      "url": "https://www.joongang.co.kr/article/25478435",
+      "title": "‘체코 원전 시공사 교체 논란’ 지속...한수원 청문회 열리나",
+      "date": "Fri, 13 Nov 2026 17:19:00 +0900"
+    },
+    {
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425088",
+      "title": "한수원 \"체코 원전 프로젝트, 2029년 11월 착공 이상 무\"",
+      "date": "Fri, 13 Nov 2026 17:16:00 +0900"
+    },
+    {
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451978",
+      "title": "한수원 체코 두코바니 원전 진행 상황 발주사와 합동 점검, 2029년 착공 ...",
+      "date": "Fri, 13 Nov 2026 17:12:00 +0900"
     }
   ],
   "brief_articles": [
@@ -11067,7 +10887,7 @@
     "2026-11-10": 12,
     "2026-11-11": 11,
     "2026-11-12": 13,
-    "2026-11-13": 10
+    "2026-11-13": 11
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
