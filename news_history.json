@@ -931,7 +931,8 @@
     "https://www.businesspost.co.kr/BP?command=article_view&num=451978": "2026-11-13T18:01:51.522814+09:00",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177": "2026-11-13T19:01:50.117076+09:00",
     "https://www.news1.kr/industry/general-industry/6353808": "2026-11-13T19:01:50.117076+09:00",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=802077": "2026-11-13T19:01:50.117076+09:00"
+    "http://www.weeklytoday.com/news/articleView.html?idxno=802077": "2026-11-13T19:01:50.117076+09:00",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5": "2026-11-13T20:02:17.609529+09:00"
   },
   "titles": {
     "7a657fbaba36f4d45e373f12035309ab94521592b4566994972975c3d86f0854": "2026-10-31T12:02:39.066436+09:00",
@@ -1865,7 +1866,8 @@
     "f81ca0fdbdfaf36966bd59d67713bff6e48f69060cc559cb2c70d0a56c9d3625": "2026-11-13T18:01:51.522814+09:00",
     "ca8c72e1ad8b8a4f18bc42d7cb6105b66bb86f91ab86fe79a8e9f05e70f5f8a3": "2026-11-13T19:01:50.117076+09:00",
     "bad20b24abd64ed9c41093230ecfac2c3e8f63f337c6b5f08013a4e2af99991c": "2026-11-13T19:01:50.117076+09:00",
-    "43206500390da1a205d4effe0eeccc21a931e17f9f2b979257277c43f0830cba": "2026-11-13T19:01:50.117076+09:00"
+    "43206500390da1a205d4effe0eeccc21a931e17f9f2b979257277c43f0830cba": "2026-11-13T19:01:50.117076+09:00",
+    "d160c408e71f1edd8bfa7df23366b1a11db111a52911c845f9a72fa1294896f5": "2026-11-13T20:02:17.609529+09:00"
   },
   "pending": {},
   "ai": {
@@ -1876,36 +1878,10 @@
     "2026-11-10": 18,
     "2026-11-11": 15,
     "2026-11-12": 20,
-    "2026-11-13": 23
+    "2026-11-13": 24
   },
   "cursor": 0,
   "archive": {
-    "http://www.kjdaily.com/article.php?aid=1794393254691982005": {
-      "title": "한수원 “한빛원전 저장시설 건립 정보 공개 강화”",
-      "summary": "한빛원자력발전소 내 사용후핵연료 건식저장시설 건립을 둘러싸고 안전성과 영구화 우려가 이어지는 가운데 한국수력원자력 이 영광에서 주민 공청회를 열었다. 한국수력원자력 은 11일 오후 3시 전남광주통합특별시...",
-      "url": "http://www.kjdaily.com/article.php?aid=1794393254691982005",
-      "date": "Wed, 11 Nov 2026 19:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5": {
-      "title": "에코프로비엠, LFP 본격 참전…수주 속도·캐파 확대 관건 - 지디넷코리아",
-      "summary": "에코프로비엠, LFP 본격 참전…수주 속도·캐파 확대 관건 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5",
-      "date": "Wed, 11 Nov 2026 10:12:14 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.imaeil.com/page/view/2026111120193758504": {
       "title": "대구 경북녹색연합 \"신공항 초기 재원 확보 난항... 대구 시 신청사 건립 ,...",
       "summary": "대구 경북녹색연합은 대구 시가 신청사 건립 사업을 원점에서 재검토할 것을 촉구했다. 대경녹색연합은 11일 \" 대구 시는 2027년 지방채 1천680억 원을 신규 발행할 계획\"이라면서 \"법정·의무경비와 지방비 부담까지 늘어나는...",
@@ -6076,6 +6052,32 @@
       ],
       "basis": "관심기업: 대동",
       "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.biztribune.co.kr/news/articleView.html?idxno=362522": {
+      "title": "한수원, 체코 두코바니 원전 이행 속도… 2029년 착공 목표",
+      "summary": "한국수력원자력 은 지난 11월 9일부터 12일까지 서울 방사선보건원에서 체코 두코바니 원전 발주사 EDU II와 프로젝트 합동 점검회의를 열었다. ㅣ 한국수력원자력 한국수력원자력 (한수원)이 체코 두코바니 원전...",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362522",
+      "date": "Fri, 13 Nov 2026 19:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5": {
+      "title": "[위클리오늘] 영천시 소식(11.13)... 박규섭, 경북 농산물 가공‧유통 수상-영천시, 경북 시군 농정평가 우수상 - 위클리오늘",
+      "summary": "[위클리오늘] 영천시 소식(11.13)... 박규섭, 경북 농산물 가공‧유통 수상-영천시, 경북 시군 농정평가 우수상 위클리오늘",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5",
+      "date": "Fri, 13 Nov 2026 10:23:04 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 17
     }
@@ -10760,6 +10762,11 @@
       "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802077",
       "title": "[위클리오늘] 경북 TP, ODA 사업 2건 연속 수주…국제개발협력 역량 입증",
       "date": "Fri, 13 Nov 2026 18:22:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5",
+      "title": "[위클리오늘] 영천시 소식(11.13)... 박규섭, 경북 농산물 가공‧유통 수상-영천시, 경북 시군 농정평가 우수상 - 위클리오늘",
+      "date": "Fri, 13 Nov 2026 10:23:04 GMT"
     }
   ],
   "brief_articles": [
@@ -10807,7 +10814,7 @@
     "2026-11-10": 12,
     "2026-11-11": 11,
     "2026-11-12": 13,
-    "2026-11-13": 12
+    "2026-11-13": 13
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
