@@ -912,7 +912,9 @@
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=268755": "2026-11-13T13:01:52.573568+09:00",
     "https://www.sisajournal.com/news/articleView.html?idxno=393935": "2026-11-13T13:01:52.573568+09:00",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE85c0RMeGRBLUZJT2VUR2c5Y2o4azJGbmgzMTVjZ2U2T0g0eUJkSEoxWlBNcGMtN0NCTnhQRWlGY2dUWEVfbi1IQktrNW03Snh2djlGOU9yOGo5cktlc1kzbFM5TmduTHFvNW9GNDQ1Y9IBc0FVX3lxTE5HTk5HSkJ5UUdnemVhc1pTUGM4TFVoOFN4TmQta2N1c2JnbmpnTTA5bWQ0aXVpa00wS2tqcFRzd1d0VnNraGNMMFlwQXhENFMwa2VLVGc1ZjBURkZNUnB2V00tMG5JQnJsb3FLaDBaRVBTT0k?oc=5": "2026-11-13T13:01:52.573568+09:00",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KYnNiV254aWY0ejgtNnBYa3I2dlcxOTdxc09ocXdiVUFEZUpBRS1aWEJfNWtLZmJfcUNXYmdIT3RkNUJ0MFY2bktJblo?oc=5": "2026-11-13T13:01:52.573568+09:00"
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KYnNiV254aWY0ejgtNnBYa3I2dlcxOTdxc09ocXdiVUFEZUpBRS1aWEJfNWtLZmJfcUNXYmdIT3RkNUJ0MFY2bktJblo?oc=5": "2026-11-13T13:01:52.573568+09:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUEhBWnpnMkdkbkZqaWdTOUNpaTZkWms1dGU2dXVVMkExZk9zT0RJb3lQS0E3MEI0TXNSTHo2ZnhEaWktRlZra1JTUDFjanZqYXVlcWp0OHFaX1VPRU1MQU92eVFXWUNlem5EONIBcEFVX3lxTE1HaXI4aWhTVHZUVThPcUJqeDhiY1BHeFJ0MVBaQUQ3dmwxaURCV1pPYzJwaVV2XzNSQXhvUERaWVFvSlFRMXZKSDBvdXp2MjZwam5GN01tQXFXc1JaNFh3UnlKRWNjQjRWN0hwUC1DcW8?oc=5": "2026-11-13T14:02:41.390491+09:00",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586388370718": "2026-11-13T14:02:41.390491+09:00"
   },
   "titles": {
     "5a385a083a1fcc1435f2e7c1cd43f68c50945ef139711367217b416c2c208667": "2026-10-30T14:02:43.585396+09:00",
@@ -1827,7 +1829,9 @@
     "49d8cf500128586d95f10ed812699d1bb849c411a1e789904e5804d918b44c64": "2026-11-13T13:01:52.573568+09:00",
     "8a0b3f42d7f6519261148276e06a18074f4b591b75644a7763e1b746a45984f0": "2026-11-13T13:01:52.573568+09:00",
     "ad862722e0c78b310f56938343689014c8ed249f7968fbf7f33a9b771e0c6d13": "2026-11-13T13:01:52.573568+09:00",
-    "76689ea25af05050256ed4a630720dbf8e45f88595eebfc8dbcf48f1e35b7866": "2026-11-13T13:01:52.573568+09:00"
+    "76689ea25af05050256ed4a630720dbf8e45f88595eebfc8dbcf48f1e35b7866": "2026-11-13T13:01:52.573568+09:00",
+    "268ae1a49937438c17e0ef69c91f41a69835786f83851bb4c6c023b47488afc0": "2026-11-13T14:02:41.390491+09:00",
+    "17673f3ecd6e8825c99e7455e63a58b2862291288ad3a2bd7dd30199998cfa91": "2026-11-13T14:02:41.390491+09:00"
   },
   "pending": {},
   "ai": {
@@ -1838,103 +1842,10 @@
     "2026-11-10": 18,
     "2026-11-11": 15,
     "2026-11-12": 20,
-    "2026-11-13": 13
+    "2026-11-13": 16
   },
   "cursor": 0,
   "archive": {
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082142": {
-      "title": "경주시, 일지테크 미국법인과 전략적 협력…지역 후속 투자 유치 나서",
-      "summary": "경북 경주시가 자동차 차체부품 제조기업 일지테크의 미국 현지 생산거점과 협력체계를 구축하고 지역 내... 양측은 2019년부터 세 차례에 걸쳐 총 1865억원 규모의 투자협약 을 체결한 바 있다. 경주시는 이번 협약 을 계기로...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082142",
-      "date": "Wed, 11 Nov 2026 13:42:00 +0900",
-      "channels": [
-        "domestic",
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.m-i.kr/news/articleView.html?idxno=2017218": {
-      "title": "경주시, 일지테크 미국법인과 경주지역 후속 투자·공급망 협력 협약",
-      "summary": "매일 일보 = 김태호 기자 | 경북 경주시가 지난 9일(현지시간) 일지테크의 미국 현지 생산시설을 방문해... 경주 상공회의소 회장, 주광일 일지테크 본부장, 황찬권 ITAC 법인장 등이 참석했다. 경산에 본사를 둔 자동차부품...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2017218",
-      "date": "Wed, 11 Nov 2026 13:48:00 +0900",
-      "channels": [
-        "domestic",
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.busan.com/view/busan/view.php?code=2026111113255522845": {
-      "title": "영풍, 대표 구속 중 MBK 계약 의결…누가 결정했나?",
-      "summary": "두 대표이사는 2023년 12월 석포제련소에서 근로자 1명이 아르신 급성중독으로 숨진 사고로 구속 된 상태였다. 대구 지검 안동지청은 2024년 9월 23일 박영민 당시 대표를 중대재해처벌법 위반 혐의로, 석포제련소장을 겸한...",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026111113255522845",
-      "date": "Wed, 11 Nov 2026 13:27:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newspim.com/news/view/20261111000837": {
-      "title": "광양시, 포스코 인터 LNG 투자로 후속 사업 발굴",
-      "summary": "11일 광양시에 따르면 전날 국가산업단지에서 정부·지자체와 유관기관 및 기업 관계자 등 100여 명이 참석한 가운데 포스코 인터내셔널의 제2 LNG터미널 준공식이 열렸다. 포스코 인터내셔널 광양 제2 LNG터미널...",
-      "url": "https://www.newspim.com/news/view/20261111000837",
-      "date": "Wed, 11 Nov 2026 13:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ebn.co.kr/news/articleView.html?idxno=1731239": {
-      "title": "철강값 올린 포스코 ·현대제철...4분기 실적 반등 이어갈까",
-      "summary": "포스코 와 현대제철이 철강재 가격 인상 효과를 누리며 3분기 실적 반등에 성공했다. 양사 모두 영업이익이... 포스코 역시 주요 수요처를 대상으로 추가 가격 인상 협상을 진행하고 있다. ◆ 3분기 가격 인상 효과 확인.....",
-      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731239",
-      "date": "Wed, 11 Nov 2026 13:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fS1VDcFVZVzJ4SXNvZVFwY2s3cFVRMk8tSXZyLUp1UHpIN0NuNTQ1UXljWDI5aXR6VlZITThkc18ySFVXbXZHR09FQkV2b1JFUXZMRjVZcXY?oc=5": {
-      "title": "산불 피해 제이오푸드, 595일 만에 안동 신공장 준공 - 경북신문",
-      "summary": "산불 피해 제이오푸드, 595일 만에 안동 신공장 준공 경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fS1VDcFVZVzJ4SXNvZVFwY2s3cFVRMk8tSXZyLUp1UHpIN0NuNTQ1UXljWDI5aXR6VlZITThkc18ySFVXbXZHR09FQkV2b1JFUXZMRjVZcXY?oc=5",
-      "date": "Wed, 11 Nov 2026 04:14:49 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zRHoxbGNJQjVzMnhoT01OQlhBZEdhVEZxdmwydFY0RFYzNjROUGZyTmZTN1lVZG9wY01sSWdnaVBqM2p2M0RmYWlMNnpOZ3hEaFVLSmdpb0g4bWFhU2tGOExycWRhZ0Z0S24wNExVSmc?oc=5": {
-      "title": "철강값 올린 포스코·현대제철...4분기 실적 반등 이어갈까 By EBN - Investing.com 한국어",
-      "summary": "철강값 올린 포스코·현대제철...4분기 실적 반등 이어갈까 By EBN Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zRHoxbGNJQjVzMnhoT01OQlhBZEdhVEZxdmwydFY0RFYzNjROUGZyTmZTN1lVZG9wY01sSWdnaVBqM2p2M0RmYWlMNnpOZ3hEaFVLSmdpb0g4bWFhU2tGOExycWRhZ0Z0S24wNExVSmc?oc=5",
-      "date": "Wed, 11 Nov 2026 04:43:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.breaknews.com/1250212": {
       "title": "대구 시의회, 신산업·지역경제 현안 집중 점검…투자유치 사후관리 강화...",
       "summary": "대구 시의회 경제환경위원회가 인공지능(AI)과 미래 신산업 육성, 기업 투자유치... 업무협약( MOU )을 체결한 기업의 투자가 실제 사업으로 이어지도록 원스톱...",
@@ -6939,6 +6850,58 @@
       "category": "해외기업 동향",
       "priority": 50,
       "filter_version": 17
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083036": {
+      "title": "도레이첨단소재, 구미5산단 MLCC 필름 생산설비 증설…연산 9억㎡ 확보",
+      "summary": "양금희 경북 도 경제 부지사, 정성현 구미부시장 등 관계자 150여명이 참석했다. 이번에 완공된 MLCC 필름 13... 이어가고 있으며, 구미시는 첨단산업을 중심으로 한 기업 투자와 산업단지 활성화에 힘쓰고 있다. [신아 일보 ]",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083036",
+      "date": "Fri, 13 Nov 2026 13:30:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관 · 시설 투자/계약",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=238236": {
+      "title": "포스코 이앤씨, 2974억 원 규모 '고창 해상풍력발전' 착공",
+      "summary": "포스코 이앤씨가 전북 고창 앞바다에 76.2MW 규모의 해상풍력발전단지 조성 공사에 본격 돌입한다. 포스코 이앤씨는 '고창 해상풍력 프로젝트' 공사 계약을 체결하고 이달 착공에 들어간다고 밝혔다. 총 공사비 약 2974억...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=238236",
+      "date": "Fri, 13 Nov 2026 13:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586388370718": {
+      "title": "한수원, 체코 원전 '2029년 착공' 청신호…200개 품목 입찰도 본격화",
+      "summary": "한국수력원자력 (한수원)이 체코 두코바니 신규 원전 건설사업의 주요 추진 일정을 재확인하고 발주사와 협력 강화에 나섰다. 오는 2027년 4월 건설허가 신청과 2029년 11월 착공을 목표로 설계·인허가 등 후속 절차를...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586388370718",
+      "date": "Fri, 13 Nov 2026 13:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUEhBWnpnMkdkbkZqaWdTOUNpaTZkWms1dGU2dXVVMkExZk9zT0RJb3lQS0E3MEI0TXNSTHo2ZnhEaWktRlZra1JTUDFjanZqYXVlcWp0OHFaX1VPRU1MQU92eVFXWUNlem5EONIBcEFVX3lxTE1HaXI4aWhTVHZUVThPcUJqeDhiY1BHeFJ0MVBaQUQ3dmwxaURCV1pPYzJwaVV2XzNSQXhvUERaWVFvSlFRMXZKSDBvdXp2MjZwam5GN01tQXFXc1JaNFh3UnlKRWNjQjRWN0hwUC1DcW8?oc=5": {
+      "title": "국회, 한수원 ‘체코 원전’ 시공사 교체 논란 청문회 연다…산자위원장 \"의혹 철저히 밝혀야\" - 남도일보",
+      "summary": "국회, 한수원 ‘체코 원전’ 시공사 교체 논란 청문회 연다…산자위원장 \"의혹 철저히 밝혀야\" 남도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUEhBWnpnMkdkbkZqaWdTOUNpaTZkWms1dGU2dXVVMkExZk9zT0RJb3lQS0E3MEI0TXNSTHo2ZnhEaWktRlZra1JTUDFjanZqYXVlcWp0OHFaX1VPRU1MQU92eVFXWUNlem5EONIBcEFVX3lxTE1HaXI4aWhTVHZUVThPcUJqeDhiY1BHeFJ0MVBaQUQ3dmwxaURCV1pPYzJwaVV2XzNSQXhvUERaWVFvSlFRMXZKSDBvdXp2MjZwam5GN01tQXFXc1JaNFh3UnlKRWNjQjRWN0hwUC1DcW8?oc=5",
+      "date": "Fri, 13 Nov 2026 04:04:19 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -6962,11 +6925,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-13",
   "sent_articles": [
-    {
-      "url": "https://www.etoday.co.kr/news/view/2642292",
-      "title": "대우건설 노조 \"체코 원전 협상 결렬은 한수원 책임⋯재협상 촉구\"",
-      "date": "Fri, 30 Oct 2026 13:58:00 +0900"
-    },
     {
       "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54135",
       "title": "에코프로 부사장 3명, 상무 11명 승진 인사",
@@ -11526,6 +11484,16 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KYnNiV254aWY0ejgtNnBYa3I2dlcxOTdxc09ocXdiVUFEZUpBRS1aWEJfNWtLZmJfcUNXYmdIT3RkNUJ0MFY2bktJblo?oc=5",
       "title": "Bando Engineering & Construction Reports Seven Consecutive Years Without Serious Industrial Accidents, Contrasting With Repeated Fatalities at Hyundai Engineering and POSCO E&C - 뉴스필드",
       "date": "Fri, 13 Nov 2026 03:23:16 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUEhBWnpnMkdkbkZqaWdTOUNpaTZkWms1dGU2dXVVMkExZk9zT0RJb3lQS0E3MEI0TXNSTHo2ZnhEaWktRlZra1JTUDFjanZqYXVlcWp0OHFaX1VPRU1MQU92eVFXWUNlem5EONIBcEFVX3lxTE1HaXI4aWhTVHZUVThPcUJqeDhiY1BHeFJ0MVBaQUQ3dmwxaURCV1pPYzJwaVV2XzNSQXhvUERaWVFvSlFRMXZKSDBvdXp2MjZwam5GN01tQXFXc1JaNFh3UnlKRWNjQjRWN0hwUC1DcW8?oc=5",
+      "title": "국회, 한수원 ‘체코 원전’ 시공사 교체 논란 청문회 연다…산자위원장 \"의혹 철저히 밝혀야\" - 남도일보",
+      "date": "Fri, 13 Nov 2026 04:04:19 GMT"
+    },
+    {
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586388370718",
+      "title": "한수원, 체코 원전 '2029년 착공' 청신호…200개 품목 입찰도 본격화",
+      "date": "Fri, 13 Nov 2026 13:20:00 +0900"
     }
   ],
   "brief_articles": [
@@ -11573,7 +11541,7 @@
     "2026-11-10": 12,
     "2026-11-11": 11,
     "2026-11-12": 13,
-    "2026-11-13": 6
+    "2026-11-13": 7
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
