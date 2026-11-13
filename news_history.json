@@ -932,7 +932,8 @@
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177": "2026-11-13T19:01:50.117076+09:00",
     "https://www.news1.kr/industry/general-industry/6353808": "2026-11-13T19:01:50.117076+09:00",
     "http://www.weeklytoday.com/news/articleView.html?idxno=802077": "2026-11-13T19:01:50.117076+09:00",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5": "2026-11-13T20:02:17.609529+09:00"
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5": "2026-11-13T20:02:17.609529+09:00",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view": "2026-11-13T21:01:58.569641+09:00"
   },
   "titles": {
     "7a657fbaba36f4d45e373f12035309ab94521592b4566994972975c3d86f0854": "2026-10-31T12:02:39.066436+09:00",
@@ -1867,7 +1868,8 @@
     "ca8c72e1ad8b8a4f18bc42d7cb6105b66bb86f91ab86fe79a8e9f05e70f5f8a3": "2026-11-13T19:01:50.117076+09:00",
     "bad20b24abd64ed9c41093230ecfac2c3e8f63f337c6b5f08013a4e2af99991c": "2026-11-13T19:01:50.117076+09:00",
     "43206500390da1a205d4effe0eeccc21a931e17f9f2b979257277c43f0830cba": "2026-11-13T19:01:50.117076+09:00",
-    "d160c408e71f1edd8bfa7df23366b1a11db111a52911c845f9a72fa1294896f5": "2026-11-13T20:02:17.609529+09:00"
+    "d160c408e71f1edd8bfa7df23366b1a11db111a52911c845f9a72fa1294896f5": "2026-11-13T20:02:17.609529+09:00",
+    "35259da290f3e8495151350469b2b5954b3ba7c18a7086738613a718fbb63e84": "2026-11-13T21:01:58.569641+09:00"
   },
   "pending": {},
   "ai": {
@@ -1882,71 +1884,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.imaeil.com/page/view/2026111120193758504": {
-      "title": "대구 경북녹색연합 \"신공항 초기 재원 확보 난항... 대구 시 신청사 건립 ,...",
-      "summary": "대구 경북녹색연합은 대구 시가 신청사 건립 사업을 원점에서 재검토할 것을 촉구했다. 대경녹색연합은 11일 \" 대구 시는 2027년 지방채 1천680억 원을 신규 발행할 계획\"이라면서 \"법정·의무경비와 지방비 부담까지 늘어나는...",
-      "url": "https://www.imaeil.com/page/view/2026111120193758504",
-      "date": "Wed, 11 Nov 2026 20:21:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205405&mode=view": {
-      "title": "포스코 노사 재교섭 파행..노조 집회 예고",
-      "summary": "포스코 노사가 임금협상 잠정 합의안 부결 이후 다시 교섭에 나섰지만 합의점을 찾지 못했습니다. 노사는... 노조는 내일(12일)부터 이틀간 포항과 광양제철소에서 출근 선전전을 벌이고, 오는 17일 서울 포스코 센터에서...",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205405&mode=view",
-      "date": "Wed, 11 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.polinews.co.kr/news/articleView.html?idxno=748277": {
-      "title": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 ...",
-      "summary": "박용선 포항 시장은 11일 POEX 건립 현장을 찾아 공사 진행 상황과 주변 정비현황을 점검했다. 이번 방문은 두호동 '공감소통 간담회' 일정과 연계해 진행됐으며 박문태 정책특보와 이상현 관광컨벤션도시추진본부장...",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748277",
-      "date": "Wed, 11 Nov 2026 20:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ya1pHc0F3UTRTMm9rRW9RTGtFYWlPMTFBZFViZVBvZXQ5Yk4yYWhScFBkdktxaUgyMmlaSkE0LVdQX2VLc3I1RHN5NERfbHVZUU43VVl6cGZwWlZCdzgxODNB?oc=5": {
-      "title": "대구경북녹색연합 \"신공항 초기 재원 확보 난항...대구시 신청사 건립, 재검토해야\" - 매일신문",
-      "summary": "대구경북녹색연합 \"신공항 초기 재원 확보 난항...대구시 신청사 건립, 재검토해야\" 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ya1pHc0F3UTRTMm9rRW9RTGtFYWlPMTFBZFViZVBvZXQ5Yk4yYWhScFBkdktxaUgyMmlaSkE0LVdQX2VLc3I1RHN5NERfbHVZUU43VVl6cGZwWlZCdzgxODNB?oc=5",
-      "date": "Wed, 11 Nov 2026 11:20:46 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TGs5UEw4Sl9aTkllaW9Ta1NHQmxnN0NZRC01RklHWDdzWlZFeC1leVhHVDFHbnFiNndjYXZVdEpqUEN3YlZ3Vml4VlZBeXBScGZpRWowVFIyRjI4NUpEcGtMNXdvMjdJLWpKNlln?oc=5": {
-      "title": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 현장 점검 - 폴리뉴스 Polinews",
-      "summary": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 현장 점검 폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TGs5UEw4Sl9aTkllaW9Ta1NHQmxnN0NZRC01RklHWDdzWlZFeC1leVhHVDFHbnFiNndjYXZVdEpqUEN3YlZ3Vml4VlZBeXBScGZpRWowVFIyRjI4NUpEcGtMNXdvMjdJLWpKNlln?oc=5",
-      "date": "Wed, 11 Nov 2026 11:32:16 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://andongmbc.co.kr/adboard/NewsView85715": {
       "title": "상주 무역사절단 성과..수출 73건·408만 달러 계약",
       "summary": "상주시가 경북 경제진흥원과 함께 무역사절단을 베트남과 태국에 파견해 지역기업의 해외 판로 개척활동을... 달러 , MOU 체결 4건 140만 달러의 성과를 거두었습니다. 상주시는 성장 잠재력이 높은 동남아 지역으로...",
@@ -6078,6 +6015,19 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view": {
+      "title": "건설현장 추락 사망 사고 증가..안전관리 강화",
+      "summary": "경북 동해안 지역 건설현장의 추락 사망 사고 가 지난해보다 크게 늘어나면서 노동 당국이 안전관리 강화에 나섰습니다. 고용노동부 포항지청에 따르면 포항과 경주 등 경북 동부 5개 시·군의 건설현장 추락 사망 사고 는...",
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view",
+      "date": "Fri, 13 Nov 2026 20:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "산재·사업장 사고",
       "priority": 70,
       "filter_version": 17
     }
@@ -10767,6 +10717,11 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5",
       "title": "[위클리오늘] 영천시 소식(11.13)... 박규섭, 경북 농산물 가공‧유통 수상-영천시, 경북 시군 농정평가 우수상 - 위클리오늘",
       "date": "Fri, 13 Nov 2026 10:23:04 GMT"
+    },
+    {
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view",
+      "title": "건설현장 추락 사망 사고 증가..안전관리 강화",
+      "date": "Fri, 13 Nov 2026 20:42:00 +0900"
     }
   ],
   "brief_articles": [
