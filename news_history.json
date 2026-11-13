@@ -1,10 +1,5 @@
 {
   "sent": {
-    "http://www.breaknews.com/1247282": "2026-10-30T18:03:04.208310+09:00",
-    "https://www.ajunews.com/view/20261030171729346": "2026-10-30T18:03:04.208310+09:00",
-    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524414": "2026-10-30T18:03:04.208310+09:00",
-    "https://www.viva100.com/article/20261030500884": "2026-10-30T18:03:04.208310+09:00",
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261030010011037": "2026-10-30T18:03:04.208310+09:00",
     "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257": "2026-10-31T12:02:39.066436+09:00",
     "https://dgmbc.com/NewsArticle/870638": "2026-10-31T12:02:39.066436+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5": "2026-10-31T18:02:14.424955+09:00",
@@ -933,14 +928,12 @@
     "https://www.bloter.net/news/articleView.html?idxno=678519": "2026-11-13T18:01:51.522814+09:00",
     "https://www.joongang.co.kr/article/25478435": "2026-11-13T18:01:51.522814+09:00",
     "https://daily.hankooki.com/news/articleView.html?idxno=1425088": "2026-11-13T18:01:51.522814+09:00",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451978": "2026-11-13T18:01:51.522814+09:00"
+    "https://www.businesspost.co.kr/BP?command=article_view&num=451978": "2026-11-13T18:01:51.522814+09:00",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177": "2026-11-13T19:01:50.117076+09:00",
+    "https://www.news1.kr/industry/general-industry/6353808": "2026-11-13T19:01:50.117076+09:00",
+    "http://www.weeklytoday.com/news/articleView.html?idxno=802077": "2026-11-13T19:01:50.117076+09:00"
   },
   "titles": {
-    "8ddfa13c6050903bfa5582320b6e943a0352563c5bd42fff59366abde2aa58f5": "2026-10-30T18:03:04.208310+09:00",
-    "d9eb8efca1c46592035141fd23837592c62e3203856cdc7afa0b3b90e7763a09": "2026-10-30T18:03:04.208310+09:00",
-    "c90aaee244ea25e57d9b3f5e4a463815666a6d6faaacad5536788454b2988046": "2026-10-30T18:03:04.208310+09:00",
-    "fb9495b3768d9cdf9ad5de311272774567dbdb63f239f46e6646d1ac8c73f90d": "2026-10-30T18:03:04.208310+09:00",
-    "889b643edc025563eaa8b3db98cd908aa47d65cd5c1eb3653406477407931999": "2026-10-30T18:03:04.208310+09:00",
     "7a657fbaba36f4d45e373f12035309ab94521592b4566994972975c3d86f0854": "2026-10-31T12:02:39.066436+09:00",
     "6439219f37d97cdde6070761f5a068549a08b8340b6388801d81e3fcddaaca6a": "2026-10-31T12:02:39.066436+09:00",
     "f026b47ad0afa1ff5167e7050e25f0223ca4ec6cd083fcd5261ae8c20bc8c9ea": "2026-10-31T18:02:14.424955+09:00",
@@ -1869,7 +1862,10 @@
     "74c463ee53c5952d07548d1a64b2b2f3ead4e4bb2a15ae818415aafb47e80c79": "2026-11-13T18:01:51.522814+09:00",
     "95d06d0eb1674f27e5a97dd7fe5a1f80d93a984e80f310f4a0f6a151faa514f6": "2026-11-13T18:01:51.522814+09:00",
     "c2b484f207d65207d51f60f117e52a50d8b62433e72b968d9163d7230caa4056": "2026-11-13T18:01:51.522814+09:00",
-    "f81ca0fdbdfaf36966bd59d67713bff6e48f69060cc559cb2c70d0a56c9d3625": "2026-11-13T18:01:51.522814+09:00"
+    "f81ca0fdbdfaf36966bd59d67713bff6e48f69060cc559cb2c70d0a56c9d3625": "2026-11-13T18:01:51.522814+09:00",
+    "ca8c72e1ad8b8a4f18bc42d7cb6105b66bb86f91ab86fe79a8e9f05e70f5f8a3": "2026-11-13T19:01:50.117076+09:00",
+    "bad20b24abd64ed9c41093230ecfac2c3e8f63f337c6b5f08013a4e2af99991c": "2026-11-13T19:01:50.117076+09:00",
+    "43206500390da1a205d4effe0eeccc21a931e17f9f2b979257277c43f0830cba": "2026-11-13T19:01:50.117076+09:00"
   },
   "pending": {},
   "ai": {
@@ -1880,140 +1876,10 @@
     "2026-11-10": 18,
     "2026-11-11": 15,
     "2026-11-12": 20,
-    "2026-11-13": 22
+    "2026-11-13": 23
   },
   "cursor": 0,
   "archive": {
-    "https://www.kmib.co.kr/article/20261111501813": {
-      "title": "권오을 “대통령 결단으로 이룬 국립 의대 신설…안동에 감사 현수막 걸...",
-      "summary": "경북은 1981년 대구 와 행정구역이 분리된 이후 도내에 국립 의대와 상급종합병원이 없는 상황이 이어져... 대학병원 건립 도 추진된다. 다만 실제 개교까지는 재정 확보와 교수진 충원, 교육병원 건립 등의 과제가 남아...",
-      "url": "https://www.kmib.co.kr/article/20261111501813",
-      "date": "Wed, 11 Nov 2026 18:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kbmaeil.com/article/20261111500374": {
-      "title": "구미시, ‘지역경제 협의회’ 첫 회의 개최…유관기관과 경제 현안 공동...",
-      "summary": "이날 회의에는 정성현 구미시 부시장을 비롯해 경상북도 경제자문관, 한국 산업단지 공단 경북 지역본부, KOTRA 대구경북 지역본부, 주요 금융기관 및 대학 등 16개 기관 관계자와 전문가 20여 명이 참석했다. 참가 기관들은...",
-      "url": "https://www.kbmaeil.com/article/20261111500374",
-      "date": "Wed, 11 Nov 2026 18:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://sateconomy.co.kr/news/view/1065607004147500": {
-      "title": "대우건설 노조, 한수원 체코 원전 해명 재반박…\"물량 늘리고 단가 낮춰...",
-      "summary": "한수원 \"공사비 증액 제안\"…노조 \"물량 25% 늘리고 단가 20% 인하\" 외부 검증 기준·협상 종료 절차 놓고 공방…정부 중재 재차 촉구 ▲ 체코 신규 원전 예정 부지 두코바니 전경 [ 한국수력원자력 ] 대우건설 노동조합이 체코...",
-      "url": "https://sateconomy.co.kr/news/view/1065607004147500",
-      "date": "Wed, 11 Nov 2026 19:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611110159&t=NN": {
-      "title": "대우건설 노조 \"한수원, 시공사 교체 논의 시점 투명하게 설명해야\"",
-      "summary": "대우건설에 추가 협상의 기회를 줬다는 한국수력원자력 의 해명에 대해 대우건설 노동조합이 이를 다시 반박했다. 대우건설 노조는 11일 \"기업의 존립이 걸린 가혹한 변경 조건을 일방적으로 제시하며 이전의 모든 협상...",
-      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611110159&t=NN",
-      "date": "Wed, 11 Nov 2026 18:43:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.sentv.co.kr/article/view/sentv202611110173": {
-      "title": "대우건설 노조, 한수원 해명 재반박…\"공사비 증액은 착시\"",
-      "summary": "대우건설 노동조합이 한국수력원자력 (한수원)의 체코 두코바니 원전 시공계약 협상 관련 해명에 대해 공사비 증액이 아닌 사실상의 단가 인하를 요구한 것이라며 정면 반박했다. 전국건설기업노동조합 대우건설지부는...",
-      "url": "https://www.sentv.co.kr/article/view/sentv202611110173",
-      "date": "Wed, 11 Nov 2026 18:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.etoday.co.kr/news/view/2647047": {
-      "title": "대우건설 노조 \"한수원, 물량 25% 늘리면서 단가는 낮춰…적자 시공 강...",
-      "summary": "이투데이=천상우 기자 | 대우건설 노조가 체코 두코바니 원전 시공계약 협상 과정에서 한국수력원자력 (한수원)이 공사 물량을 늘리면서도 계약금액은 유지해 민간 시공사에 과도한 손실 부담을 떠넘겼다고 주장했다....",
-      "url": "https://www.etoday.co.kr/news/view/2647047",
-      "date": "Wed, 11 Nov 2026 18:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nNk5CaE9uNDRzMzlqZXdmaXNjZTlsTDdvcFFHUmVmbzdUTV9mbEtNNVlkTkVjWFpBdTRPY250eENHQkUybkdOVHBET0lDVHQxcWQwcWtOTWpkSG42QUZxbA?oc=5": {
-      "title": "경주시, 일지테크 미국법인과 투자협력 협약…지역 후속 투자 유도 - NSP통신",
-      "summary": "경주시, 일지테크 미국법인과 투자협력 협약…지역 후속 투자 유도 NSP통신",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nNk5CaE9uNDRzMzlqZXdmaXNjZTlsTDdvcFFHUmVmbzdUTV9mbEtNNVlkTkVjWFpBdTRPY250eENHQkUybkdOVHBET0lDVHQxcWQwcWtOTWpkSG42QUZxbA?oc=5",
-      "date": "Wed, 11 Nov 2026 09:23:53 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKVjdCdTVoTEdRTmdSVWd0dGhkZVBUU3pQRUJFSU1KMkw4RC1GRGZmUmJGNk9PODBIUEFRcTRhU1YxMWN1UUFxeFNjOWoycTBiT0lNM29VZTZRQQ?oc=5": {
-      "title": "구미시, ‘지역경제 협의회’ 첫 회의 개최…유관기관과 경제 현안 공동 대응 - 경북매일",
-      "summary": "구미시, ‘지역경제 협의회’ 첫 회의 개최…유관기관과 경제 현안 공동 대응 경북매일",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKVjdCdTVoTEdRTmdSVWd0dGhkZVBUU3pQRUJFSU1KMkw4RC1GRGZmUmJGNk9PODBIUEFRcTRhU1YxMWN1UUFxeFNjOWoycTBiT0lNM29VZTZRQQ?oc=5",
-      "date": "Wed, 11 Nov 2026 09:41:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSVNkZ0pqOTFYaVJ4aENaaXBfbzlyX3NRRHVRMURpVVZ3aTY2VW5BV2ZMQ0tuWmZNd2RxZ1BUc1Q3RDVHTmluc3c1SURGU1hwWVV1eVV0MWc3NEtVbk1tRg?oc=5": {
-      "title": "구미시, 지역경제 협의회 출범…글로벌 경제변화 공동 대응 - NSP통신",
-      "summary": "구미시, 지역경제 협의회 출범…글로벌 경제변화 공동 대응 NSP통신",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSVNkZ0pqOTFYaVJ4aENaaXBfbzlyX3NRRHVRMURpVVZ3aTY2VW5BV2ZMQ0tuWmZNd2RxZ1BUc1Q3RDVHTmluc3c1SURGU1hwWVV1eVV0MWc3NEtVbk1tRg?oc=5",
-      "date": "Wed, 11 Nov 2026 09:22:18 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWFc4ZXhkSzJtdU1aVGpPcExxTGE2eEphT0J6VFdrQkxnREJpZjBNc3Y1cmdJOXhjTjRZX29CLVlHZURZaUJCZjZ5U3hXWHBYaHZMdUpmSzJESjFyRGgwblBnNXo?oc=5": {
-      "title": "대우건설 노조 \"한수원, 물량 25% 늘리면서 단가는 낮춰…적자 시공 강요\" - 이투데이",
-      "summary": "대우건설 노조 \"한수원, 물량 25% 늘리면서 단가는 낮춰…적자 시공 강요\" 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoWFc4ZXhkSzJtdU1aVGpPcExxTGE2eEphT0J6VFdrQkxnREJpZjBNc3Y1cmdJOXhjTjRZX29CLVlHZURZaUJCZjZ5U3hXWHBYaHZMdUpmSzJESjFyRGgwblBnNXo?oc=5",
-      "date": "Wed, 11 Nov 2026 09:21:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.kjdaily.com/article.php?aid=1794393254691982005": {
       "title": "한수원 “한빛원전 저장시설 건립 정보 공개 강화”",
       "summary": "한빛원자력발전소 내 사용후핵연료 건식저장시설 건립을 둘러싸고 안전성과 영구화 우려가 이어지는 가운데 한국수력원자력 이 영광에서 주민 공청회를 열었다. 한국수력원자력 은 11일 오후 3시 전남광주통합특별시...",
@@ -6171,6 +6037,45 @@
       ],
       "basis": "관심기업: 한국수력원자력",
       "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177": {
+      "title": "경북 테크노파크, 코이카 공적개발원조 사업 2건 연속 수주 및 수행",
+      "summary": "경북 TP 우즈베키스탄 IT Park MoU 체결 기념사진. 사진= 경북 테크노파크 제공 | 경산=한스경제 조필국 | 경북 테크노파크가 코이카(KOICA·한국국제협력단)의 공적개발원조(ODA) 사업 2건을 수주했다. 이번에 확보한 사업비는...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177",
+      "date": "Fri, 13 Nov 2026 18:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.weeklytoday.com/news/articleView.html?idxno=802077": {
+      "title": "[위클리오늘] 경북 TP, ODA 사업 2건 연속 수주…국제개발협력 역량 입증",
+      "summary": "2024년 경북 TP와 우즈베키스탄 IT Park MoU 체결 ( 경북 TP 정책기획단 글로벌협력실 제공) ] 경북 테크노파크( 경북 TP)가 공적개발원조(ODA) 사업 2건을 연이어 수주하며 국제개발협력 분야에서 사업 수행 역량을 입증했다....",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802077",
+      "date": "Fri, 13 Nov 2026 18:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.news1.kr/industry/general-industry/6353808": {
+      "title": "대동 , 3분기 393억 영업적자…원가 부담 여파",
+      "summary": "농기계 전문기업 대동 이 올해 3분기 393억 원의 영업손실을 기록하며 적자 전환했다. 북미와 유럽 등... 13일 금융감독원 전자공시시스템에 따르면 대동 의 올해 3분기 연결 기준 매출액은 3524억 원으로 전년 동기...",
+      "url": "https://www.news1.kr/industry/general-industry/6353808",
+      "date": "Fri, 13 Nov 2026 18:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
     }
@@ -10840,6 +10745,21 @@
       "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451978",
       "title": "한수원 체코 두코바니 원전 진행 상황 발주사와 합동 점검, 2029년 착공 ...",
       "date": "Fri, 13 Nov 2026 17:12:00 +0900"
+    },
+    {
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177",
+      "title": "경북 테크노파크, 코이카 공적개발원조 사업 2건 연속 수주 및 수행",
+      "date": "Fri, 13 Nov 2026 18:46:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/industry/general-industry/6353808",
+      "title": "대동 , 3분기 393억 영업적자…원가 부담 여파",
+      "date": "Fri, 13 Nov 2026 18:38:00 +0900"
+    },
+    {
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802077",
+      "title": "[위클리오늘] 경북 TP, ODA 사업 2건 연속 수주…국제개발협력 역량 입증",
+      "date": "Fri, 13 Nov 2026 18:22:00 +0900"
     }
   ],
   "brief_articles": [
@@ -10887,7 +10807,7 @@
     "2026-11-10": 12,
     "2026-11-11": 11,
     "2026-11-12": 13,
-    "2026-11-13": 11
+    "2026-11-13": 12
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
