@@ -1881,7 +1881,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-06": 18,
     "2026-11-07": 7,
     "2026-11-08": 3,
     "2026-11-09": 11,
@@ -1892,97 +1891,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.gukjenews.com/news/articleView.html?idxno=3749396": {
-      "title": "\" 경북 행복재단 대표 의혹 , 특정감사로 밝혀라\"…박채아 도의원, 송곳 점...",
-      "summary": "박채아 경북 도의원(경산3, 국민의힘)이 정재훈 경북 행복재단 대표이사의 복무 관련 의혹 과 도민 제보 사항에 대한 경북 도 차원의 특정감사를 촉구했다. 박채아 의원, 행정사무감사 박 의원은 11월 10일 경북 행복재단을...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749396",
-      "date": "Wed, 11 Nov 2026 23:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.segye.com/newsView/20261111518905?OutUrl=naver": {
-      "title": "경주시, 미국 진출 일지테크와 투자 협력 속도",
-      "summary": "주낙영 시장 등 경주 투자 유치대표단, ITAC 방문해 업무 협약 체결 경주·앨라배마 생산거점 교류 확대 및 글로벌 공급망 협력 추진 경북 경주시가 미국에 생산거점을 둔 자동차부품 기업 일지테크와 전략적 투자 ...",
-      "url": "https://www.segye.com/newsView/20261111518905?OutUrl=naver",
-      "date": "Wed, 11 Nov 2026 23:57:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.newsmaker.or.kr/news/articleView.html?idxno=185665": {
-      "title": "박성현 광양시장 \" 포스코 노사, 지역경제 위해 상생의 지혜 모아야\"",
-      "summary": "포스코 임금·단체협약 잠정합의안이 조합원 투표에서 부결되자 박성현 광양시장이 노사 양측에 조속한... 앞서 포스코 노동조합은 지난 7일 임금 및 단체협약 잠정합의안에 대한 조합원 찬반투표를 진행했다. 전체...",
-      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=185665",
-      "date": "Thu, 12 Nov 2026 07:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.labortoday.co.kr/news/articleView.html?idxno=237702": {
-      "title": "포스코 노사 임금협상 결렬, 노조 17일 '상경투쟁'",
-      "summary": "▲ 잠정합의안이 결렬된 후 처음 열린 포스코 노사 임금협상에서 사측이 부결된 잠정합의안을 또다시 들고 나왔다. 노조는 집회를 준비한다는 방침이다. 포스코 노사는 11일 오전 전남광주통합특별시 광양시...",
-      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237702",
-      "date": "Thu, 12 Nov 2026 06:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.joongang.co.kr/article/25477858": {
-      "title": "1.5% 금리 막는다?…“X같네” 삼성맨 뒤집힌 사내대출 규제",
-      "summary": "포스코 ·SK하이닉스 등 대출 제도를 운용 중인 또 다른 대기업 커뮤니티의 분위기도 심상치 않다.... 공정거래위원회가 이달 송언석 국민의힘 의원에게 제출한 ‘7개 대기업(현대차·SK· 포스코 ·한화·롯데·LG·GS...",
-      "url": "https://www.joongang.co.kr/article/25477858",
-      "date": "Thu, 12 Nov 2026 05:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newspim.com/news/view/20261111001417": {
-      "title": "체코 원전 '사전 접촉 의혹'에 현대건설 선 긋기…\"수익성 없으면 수주...",
-      "summary": "한국수력원자력 과 대우건설의 체코 두코바니 신규 원전 시공계약이 결렬되면서 사전 내정 및 이른바 템퍼링(사전 접촉) 의혹으로 논란이 확산하는 가운데, 당사자로 지목된 현대건설이 해명에 나섰다. 현대건설은 입찰...",
-      "url": "https://www.newspim.com/news/view/20261111001417",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE42UlQ0Q3ZYMF9Rc3VsOFNodE5BX1E5NXFVVURnNjQ5RDczdXhqRmxqZE5wTTJSWmE2RUFfYlJMOW1kYUh4N1JxZnpLQzllLUV5YUlNWDROeU8xdTRpbnRacHFWWFhqR2ticFJkamZ0LTRPQjZL0gF0QVVfeXFMTjZSVDRDdlgwX1FzdWw4U2h0TkFfUTk1cVVVRGc2NDlENzN1eGpGbGpkTnBNMlJaYTZFQV9iUkw5bWRhSHg3UnFmektDOWUtRXlhSU1YNE55TzF1NGludFpwcVZYWGpHa2JwUmRqZnQtNE9CNks?oc=5": {
-      "title": "[철강살롱①] 포스코, 32만톤 더 팔고도…영업이익 1300억 줄었다 - 스틸데일리",
-      "summary": "[철강살롱①] 포스코, 32만톤 더 팔고도…영업이익 1300억 줄었다 스틸데일리",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42UlQ0Q3ZYMF9Rc3VsOFNodE5BX1E5NXFVVURnNjQ5RDczdXhqRmxqZE5wTTJSWmE2RUFfYlJMOW1kYUh4N1JxZnpLQzllLUV5YUlNWDROeU8xdTRpbnRacHFWWFhqR2ticFJkamZ0LTRPQjZL0gF0QVVfeXFMTjZSVDRDdlgwX1FzdWw4U2h0TkFfUTk1cVVVRGc2NDlENzN1eGpGbGpkTnBNMlJaYTZFQV9iUkw5bWRhSHg3UnFmektDOWUtRXlhSU1YNE55TzF1NGludFpwcVZYWGpHa2JwUmRqZnQtNE9CNks?oc=5",
-      "date": "Wed, 11 Nov 2026 20:11:34 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.metroseoul.co.kr/article/20261111500653": {
       "title": "경북 도의회 박채아 의원, 경북 행복재단 대표이사 의혹 특정감사 촉구",
       "summary": "또한 경북 도 감사관실이 의혹 과 제보 사항을 종합적으로 조사하고, 위법·부당한 사항이 확인되면 그에 상응하는 책임을 물어야 한다고 촉구했다. 박 의원은 \"특정감사는 누군가의 잘못을 미리 단정하기 위한 것이 아니라...",
@@ -5973,28 +5881,89 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503983": {
+      "title": "엘앤에프 , 3분기 적자 전환…재고손실 빼면 4분기 연속 흑자",
+      "summary": "엘앤에프 가 3분기 재고평가손실과 환율 하락에 따른 손실이 겹치면서 영업적자로 돌아섰다. 하나증권은... 엘앤에프 의 3분기 매출액은 8744억원으로 전년 동기 대비 34% 증가했지만 전 분기보다는 1% 감소했다. 영업손실은...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503983",
+      "date": "Sat, 14 Nov 2026 00:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503971": {
+      "title": "JKM 뛰자 한국가스공사 실적도 날았다…배당 확대 기대 커지나",
+      "summary": "한국가스공사 가 아시아 액화천연가스(LNG) 현물 가격 상승에 힘입어 3분기 시장 기대치를 웃도는 실적을 거뒀다. 하나증권은 최근 보고서에서 국제유가와 LNG 가격 강세가 해외 사업의 수익성을 끌어올린 데다 환율 하락에...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503971",
+      "date": "Sat, 14 Nov 2026 00:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MUW16SXhvczU3TVo4WV9mWGJKZ2RuSjA3UGNCU0V5TU5rV1JxWk9qclZlWjBoTzZkamVHZTJud0lTTnk5Q2dOYzVoSTk2d1Z3a3haZTVJU2JfcFp6THdYRA?oc=5": {
+      "title": "도레이첨단소재, 구미 5공장 MLCC 필름 13·14호기 생산설비 준공 - 구미일보",
+      "summary": "도레이첨단소재, 구미 5공장 MLCC 필름 13·14호기 생산설비 준공 구미일보",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MUW16SXhvczU3TVo4WV9mWGJKZ2RuSjA3UGNCU0V5TU5rV1JxWk9qclZlWjBoTzZkamVHZTJud0lTTnk5Q2dOYzVoSTk2d1Z3a3haZTVJU2JfcFp6THdYRA?oc=5",
+      "date": "Fri, 13 Nov 2026 14:11:13 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczdpb1pXaUVXcHdkNDFHczhOblVhcFdIaWxJbmlRVHJqLWJIMXJSejUyU3VVY0JmVEFpa1ZkbC0wMnVid2ppTVRKVnJWNDhSM1RMeHR2bFdDWmxpMEprTUhTWmRLcUptbThFZVB6U05zWDRKMDc5ZDFyZTYxNlYxbzNnWm5rUnR0YnVKRE42SFlodnZST19ySDdDMWFTVGc4RXZXVDlWVEdRYnZCY3VLX1JWenRJV0ZrbjRiRTBMM1dobi00YzJ3TU52b1h6TE8wS3c?oc=5": {
+      "title": "EU Commission clears acquisition of Saffron and PMH by POSCO and JSW - INSIGHT EU MONITORING",
+      "summary": "EU Commission clears acquisition of Saffron and PMH by POSCO and JSW INSIGHT EU MONITORING",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczdpb1pXaUVXcHdkNDFHczhOblVhcFdIaWxJbmlRVHJqLWJIMXJSejUyU3VVY0JmVEFpa1ZkbC0wMnVid2ppTVRKVnJWNDhSM1RMeHR2bFdDWmxpMEprTUhTWmRLcUptbThFZVB6U05zWDRKMDc5ZDFyZTYxNlYxbzNnWm5rUnR0YnVKRE42SFlodnZST19ySDdDMWFTVGc4RXZXVDlWVEdRYnZCY3VLX1JWenRJV0ZrbjRiRTBMM1dobi00YzJ3TU52b1h6TE8wS3c?oc=5",
+      "date": "Fri, 13 Nov 2026 21:21:54 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnRhYkwzR01SUzBFaEt0TkdFUXJ4d1RfdW1INUt2VHFvZDFRVXZhZ1EteWtfYW05MEZmbks2QVBpU082VlFBZFpScjBCZkg5dXhsS1hzaExlcGRJMGNKV2JxeDY5ZzQ0YV94OGFzZjMwaEdmY3JaOUJYSXZRZkpYLThLcGJHWkFlVjFPSHBjLUpPTkFMdk9WUjYyelo0Q05Sd0s3aWYxdTlSak1BT0J6QURmVjFHYzlybHdlM0xqUlZOODJFVk4yZTZoVWhDcVQtTU0tSWxGa2c?oc=5": {
+      "title": "Final Thoughts: Do Mesabi Metallics and Hyundai-POSCO signal more foreign steel investment in US? - Steel Market Update",
+      "summary": "Final Thoughts: Do Mesabi Metallics and Hyundai-POSCO signal more foreign steel investment in US? Steel Market Update",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnRhYkwzR01SUzBFaEt0TkdFUXJ4d1RfdW1INUt2VHFvZDFRVXZhZ1EteWtfYW05MEZmbks2QVBpU082VlFBZFpScjBCZkg5dXhsS1hzaExlcGRJMGNKV2JxeDY5ZzQ0YV94OGFzZjMwaEdmY3JaOUJYSXZRZkpYLThLcGJHWkFlVjFPSHBjLUpPTkFMdk9WUjYyelo0Q05Sd0s3aWYxdTlSak1BT0J6QURmVjFHYzlybHdlM0xqUlZOODJFVk4yZTZoVWhDcVQtTU0tSWxGa2c?oc=5",
+      "date": "Fri, 13 Nov 2026 16:01:04 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 17
     }
   },
   "brief_sent": {
-    "https://www.newsis.com/view/NISX20261113_0003866447": "2026-11-13T08:02:30.739743+09:00",
-    "https://www.newsis.com/view/NISX20261113_0003866378": "2026-11-13T08:02:30.739743+09:00",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=450849": "2026-11-13T08:02:30.739743+09:00",
-    "https://www.kpinews.kr/newsView/1065562528098318": "2026-11-13T08:02:30.739743+09:00",
-    "https://www.segye.com/newsView/20261112515634?OutUrl=naver": "2026-11-13T08:02:30.739743+09:00",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY1haYVA5cVRPUEFqemFVcERRUS11SjRKVGFub2lUN09keEZXTDVYZ1FQbFRFTnVCOWtQSXpRLVpXVVE2WjQ2UXp5Nk1oVDAxUld5RF9qYzNGYmJWeTU4MlVLYjl0Zw?oc=5": "2026-11-13T08:02:30.739743+09:00",
-    "https://www.donga.com/news/Economy/article/all/20261112/135016693/2": "2026-11-13T08:02:30.739743+09:00"
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503983": "2026-11-14T08:02:14.638164+09:00",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503971": "2026-11-14T08:02:14.638164+09:00",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MUW16SXhvczU3TVo4WV9mWGJKZ2RuSjA3UGNCU0V5TU5rV1JxWk9qclZlWjBoTzZkamVHZTJud0lTTnk5Q2dOYzVoSTk2d1Z3a3haZTVJU2JfcFp6THdYRA?oc=5": "2026-11-14T08:02:14.638164+09:00",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczdpb1pXaUVXcHdkNDFHczhOblVhcFdIaWxJbmlRVHJqLWJIMXJSejUyU3VVY0JmVEFpa1ZkbC0wMnVid2ppTVRKVnJWNDhSM1RMeHR2bFdDWmxpMEprTUhTWmRLcUptbThFZVB6U05zWDRKMDc5ZDFyZTYxNlYxbzNnWm5rUnR0YnVKRE42SFlodnZST19ySDdDMWFTVGc4RXZXVDlWVEdRYnZCY3VLX1JWenRJV0ZrbjRiRTBMM1dobi00YzJ3TU52b1h6TE8wS3c?oc=5": "2026-11-14T08:02:14.638164+09:00",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnRhYkwzR01SUzBFaEt0TkdFUXJ4d1RfdW1INUt2VHFvZDFRVXZhZ1EteWtfYW05MEZmbks2QVBpU082VlFBZFpScjBCZkg5dXhsS1hzaExlcGRJMGNKV2JxeDY5ZzQ0YV94OGFzZjMwaEdmY3JaOUJYSXZRZkpYLThLcGJHWkFlVjFPSHBjLUpPTkFMdk9WUjYyelo0Q05Sd0s3aWYxdTlSak1BT0J6QURmVjFHYzlybHdlM0xqUlZOODJFVk4yZTZoVWhDcVQtTU0tSWxGa2c?oc=5": "2026-11-14T08:02:14.638164+09:00"
   },
   "brief_titles": {
-    "c7d40d7cbd4898cf244a512cd8157ea0b046c560787399b25eba98495b98d9bd": "2026-11-13T08:02:30.739743+09:00",
-    "d6b78c677dd0f7c09ac8481bf0a10b1579c3fda3d063819dec9e8196675f8442": "2026-11-13T08:02:30.739743+09:00",
-    "528a7beffb410911d75b91fb710a63c180f2a57ec6a961e7fb5c065a6521cd88": "2026-11-13T08:02:30.739743+09:00",
-    "99fd060130fd250a3ba39410ae91affb727d0475ee286eb9e54d810816c53962": "2026-11-13T08:02:30.739743+09:00",
-    "4e8f059319d6805b3a89b0141f028cb2f4fe7d12faec539fa4b1f66b705c06f2": "2026-11-13T08:02:30.739743+09:00",
-    "708d2df12bcd06f05d787842912a37cf3c2d76277210b4aaba880fa83ced5af6": "2026-11-13T08:02:30.739743+09:00",
-    "324e873f26523b5afc6c2a33341d557dcccd2d216aea37d8e63f2fa7b4c153e8": "2026-11-13T08:02:30.739743+09:00"
+    "fdc54042e03f2b141a41b9c556f5e00934abfdcbb12f4638bc30956a564f4002": "2026-11-14T08:02:14.638164+09:00",
+    "649581ca00495ae4dc3c3c89ff5e46c5326401e4db7b609780dbf0a6dc0f845f": "2026-11-14T08:02:14.638164+09:00",
+    "1fe72ef798f839402bb5aef90f3e7cf8ccdd5fded6346a491792749116b20c08": "2026-11-14T08:02:14.638164+09:00",
+    "285029c6679fcc01908c0d5cab5af0287dd3cc1a4ba7dbc73a7de7742b4798f9": "2026-11-14T08:02:14.638164+09:00",
+    "758f1ab5dfb7e090bae456d00edab1f4e548d94bc4b65faf9ea08fe580f28ee7": "2026-11-14T08:02:14.638164+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-13",
+  "brief_date": "2026-11-14",
   "sent_articles": [
     {
       "url": "https://www.edaily.co.kr/News/Read?newsId=02027046645618496&mediaCodeNo=257",
@@ -10689,43 +10658,32 @@
   ],
   "brief_articles": [
     {
-      "url": "https://www.newsis.com/view/NISX20261113_0003866447",
-      "title": "경북 경산 골판지 공장 화재 11시간 30여분 만에 완진",
-      "date": "Fri, 13 Nov 2026 07:59:00 +0900"
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503983",
+      "title": "엘앤에프 , 3분기 적자 전환…재고손실 빼면 4분기 연속 흑자",
+      "date": "Sat, 14 Nov 2026 00:16:00 +0900"
     },
     {
-      "url": "https://www.newsis.com/view/NISX20261113_0003866378",
-      "title": "경산 골판지 공장 화재 큰 불길 잡았다…인명피해 없어(종합)",
-      "date": "Fri, 13 Nov 2026 06:19:00 +0900"
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503971",
+      "title": "JKM 뛰자 한국가스공사 실적도 날았다…배당 확대 기대 커지나",
+      "date": "Sat, 14 Nov 2026 00:10:00 +0900"
     },
     {
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450849",
-      "title": "[Who Is ?] 유진수 STX엔진 대표이사",
-      "date": "Fri, 13 Nov 2026 07:00:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MUW16SXhvczU3TVo4WV9mWGJKZ2RuSjA3UGNCU0V5TU5rV1JxWk9qclZlWjBoTzZkamVHZTJud0lTTnk5Q2dOYzVoSTk2d1Z3a3haZTVJU2JfcFp6THdYRA?oc=5",
+      "title": "도레이첨단소재, 구미 5공장 MLCC 필름 13·14호기 생산설비 준공 - 구미일보",
+      "date": "Fri, 13 Nov 2026 14:11:13 GMT"
     },
     {
-      "url": "https://www.kpinews.kr/newsView/1065562528098318",
-      "title": "포스코 인터내셔널, 우즈베키스탄 측과 리튬·흑연 투자 논의",
-      "date": "Fri, 13 Nov 2026 06:40:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczdpb1pXaUVXcHdkNDFHczhOblVhcFdIaWxJbmlRVHJqLWJIMXJSejUyU3VVY0JmVEFpa1ZkbC0wMnVid2ppTVRKVnJWNDhSM1RMeHR2bFdDWmxpMEprTUhTWmRLcUptbThFZVB6U05zWDRKMDc5ZDFyZTYxNlYxbzNnWm5rUnR0YnVKRE42SFlodnZST19ySDdDMWFTVGc4RXZXVDlWVEdRYnZCY3VLX1JWenRJV0ZrbjRiRTBMM1dobi00YzJ3TU52b1h6TE8wS3c?oc=5",
+      "title": "EU Commission clears acquisition of Saffron and PMH by POSCO and JSW - INSIGHT EU MONITORING",
+      "date": "Fri, 13 Nov 2026 21:21:54 GMT"
     },
     {
-      "url": "https://www.segye.com/newsView/20261112515634?OutUrl=naver",
-      "title": "[경제 단신] 포스코 이앤씨, 고창 해상풍력발전 착공 외",
-      "date": "Fri, 13 Nov 2026 05:02:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY1haYVA5cVRPUEFqemFVcERRUS11SjRKVGFub2lUN09keEZXTDVYZ1FQbFRFTnVCOWtQSXpRLVpXVVE2WjQ2UXp5Nk1oVDAxUld5RF9qYzNGYmJWeTU4MlVLYjl0Zw?oc=5",
-      "title": "구미 5산단에 또 하나의 성장엔진…도레이첨단소재 신규 라인 준공 - 포커스데일리",
-      "date": "Thu, 12 Nov 2026 20:01:51 GMT"
-    },
-    {
-      "url": "https://www.donga.com/news/Economy/article/all/20261112/135016693/2",
-      "title": "포스코 이앤씨, 고창 해상풍력발전 착공",
-      "date": "Fri, 13 Nov 2026 00:31:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnRhYkwzR01SUzBFaEt0TkdFUXJ4d1RfdW1INUt2VHFvZDFRVXZhZ1EteWtfYW05MEZmbks2QVBpU082VlFBZFpScjBCZkg5dXhsS1hzaExlcGRJMGNKV2JxeDY5ZzQ0YV94OGFzZjMwaEdmY3JaOUJYSXZRZkpYLThLcGJHWkFlVjFPSHBjLUpPTkFMdk9WUjYyelo0Q05Sd0s3aWYxdTlSak1BT0J6QURmVjFHYzlybHdlM0xqUlZOODJFVk4yZTZoVWhDcVQtTU0tSWxGa2c?oc=5",
+      "title": "Final Thoughts: Do Mesabi Metallics and Hyundai-POSCO signal more foreign steel investment in US? - Steel Market Update",
+      "date": "Fri, 13 Nov 2026 16:01:04 GMT"
     }
   ],
   "gemini_ai": {
-    "2026-11-06": 11,
     "2026-11-07": 5,
     "2026-11-08": 2,
     "2026-11-09": 8,
