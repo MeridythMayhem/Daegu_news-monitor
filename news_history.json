@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3anBWdlMtTF9OYk1naXRLb0VjaGpWbDhFWkhCZ3lSTFpPLXUwUFpQNVZPbC1GTzI1RVc2NENsRmw0NGN1UVF3Tmp6bjRIZjh2aVVoYWJNRlYyZFFPZll1SjBEY0pBa2hkZlRF?oc=5": "2026-10-31T18:02:14.424955+09:00",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mc3FJNTAzaW9jVEMtTUhoTHhNTVpZTklJSk5Ic1BBQ3ZUb3djQ1lkX2lHRzBlbm5YblF4X1B3MGF0VkJtSjZxVFZDZHB3bjRfd2hpU0lwRE9DdVNMQ2pMRGdfZzIyVDB1cHhZWA?oc=5": "2026-10-31T19:02:43.793195+09:00",
     "https://www.kbmaeil.com/article/20261101500094": "2026-11-01T10:02:25.835088+09:00",
     "https://www.newsis.com/view/NISX20261101_0003849634": "2026-11-01T11:02:20.481473+09:00",
@@ -944,7 +943,6 @@
     "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00"
   },
   "titles": {
-    "f026b47ad0afa1ff5167e7050e25f0223ca4ec6cd083fcd5261ae8c20bc8c9ea": "2026-10-31T18:02:14.424955+09:00",
     "578e2592bdd2965b09a2dc2b2dffc58100518bc8c0ed5601eee3e0dd36399dd2": "2026-10-31T19:02:43.793195+09:00",
     "e7e0ef02149f02962f50369aeab96d5cfe6eb907c3342e1b1d7f925fbdc7e1e9": "2026-11-01T10:02:25.835088+09:00",
     "89d403bd41b8c942b7dca1146c06910df3225784591d4f27441ec04deb71f93f": "2026-11-01T11:02:20.481473+09:00",
@@ -1900,110 +1898,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.joongang.co.kr/article/25478114": {
-      "title": "정치자금법 위반 혐의 홍준표 대선 경선 캠프 관계자 6명 기소",
-      "summary": "대구 지방공소청은 정치자금법 위반 혐의로 선거용역업체 대표 박모씨와 당시 홍 전 시장 캠프 회계담당자 김모씨 등 6명을 불구속기소했다고 12일 밝혔다. 이들은 2021년 국민의힘 대선 경선 과정에서 이른바 ‘ 가공거래 ’...",
-      "url": "https://www.joongang.co.kr/article/25478114",
-      "date": "Thu, 12 Nov 2026 18:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.edaily.co.kr/News/Read?newsId=04719926645645064&mediaCodeNo=257": {
-      "title": "사업자 못 찾은 서 대구 역 환승센터… 대구 시의회 “투자 의향부터 확인”",
-      "summary": "최완식 위원은 서 대구 역 복합환승센터 지정이 해제된 경위를 짚고, 특별계획구역 도입 이후 민간 투자 가능성을 확인하라고 했다. 배창규 위원은 환승센터 건립 이 늦어지는 만큼 옛 LH 부지를 계속 터미널 예정지로 둘...",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04719926645645064&mediaCodeNo=257",
-      "date": "Thu, 12 Nov 2026 18:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.yeongnam.com/web/view.php?key=20261112021410516": {
-      "title": "“신기술 개발해도 인증·실적 장벽에 발목”… 대구 스타트업의 ‘한숨...",
-      "summary": "소액 수의계약 이 어렵고, 일반 입찰에서는 납품 실적을 요구해 시장 진입 자체가 쉽지 않다는 것이다. 천 소장은 신생 기술기업도 공공조달에 참여할 수 있도록 기술력 중심의 보완평가 도입을 요청했다.한인국 대구 창조...",
-      "url": "https://www.yeongnam.com/web/view.php?key=20261112021410516",
-      "date": "Thu, 12 Nov 2026 18:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mt.co.kr/stock/2026/11/12/2026111218003954579": {
-      "title": "에스엘 에너지, 3분기 누적 영업이익 11억원… 부채비율 5.4%p↓",
-      "summary": "에스엘 에너지가 석유화학 업황 부진 속에서도 3분기 누적 기준 영업이익 11억원, 당기순이익... 에스엘 에너지는 석유화학 공정 부산물인 열분해연료유(PFO)를 감압증류해 산업용 중유(B-C유)를 생산하는 에너지...",
-      "url": "https://www.mt.co.kr/stock/2026/11/12/2026111218003954579",
-      "date": "Thu, 12 Nov 2026 18:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에스엘 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090680": {
-      "title": "포스코 이앤씨, 76.2MW 고창 해상풍력 이달 착공…공사비 2974억원",
-      "summary": "포스코 이앤씨가 전북 고창 '해상풍력발전' 공사에 본격 진행한다. 포스코 이앤씨는 76.2MW(메가와트) 규모의 '고창 해상풍력 프로젝트' 공사 계약을 체결하고, 11월 중 착공에 들어간다고 12일 밝혔다. 총 공사비 약 2천974억...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090680",
-      "date": "Thu, 12 Nov 2026 18:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.jjn.co.kr/news/articleView.html?idxno=1057168": {
-      "title": "포스코 이앤씨, 76.2W 고창 해상풍력사업 이달 착공",
-      "summary": "포스코 이앤씨는 고창군 앞바다에 조성되는 76.2㎿(메가와트) 규모 '고창 해상풍력 프로젝트' 공사 계약을... 있다고 포스코 이앤씨는 설명했다. 아울러 공사 기간 약 1만1천800개 일자리가 창출돼 지역경제 활성화에도...",
-      "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1057168",
-      "date": "Thu, 12 Nov 2026 18:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=668031": {
-      "title": "포스코 이앤씨, 2974억 규모 고창 해상풍력 착공",
-      "summary": "사진= 포스코 이앤씨 한국금융경제신문=조희경 기자 | 포스코 이앤씨가 전북 고창 앞바다에서 약 3000억원 규모의 해상풍력발전 사업에 착수한다. 포스코 이앤씨는 76.2MW(메가와트) 규모의 '고창 해상풍력 프로젝트' 공사...",
-      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668031",
-      "date": "Thu, 12 Nov 2026 18:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNHR1eHVEaEZwNS1LYmlTM3N3blU3ZjgzbHc0MjJDeS02NTFyLVNEQWhHRVJfNC02NGZtU3hUeEtwSzhOV2FnWVRKeURia2UwZjJpMjk2eU9ZT3RuZEtkOWFOZUF0NnlVeGc?oc=5": {
-      "title": "“신기술 개발해도 인증·실적 장벽에 발목”…대구 스타트업의 ‘한숨’ - 영남일보",
-      "summary": "“신기술 개발해도 인증·실적 장벽에 발목”…대구 스타트업의 ‘한숨’ 영남일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNHR1eHVEaEZwNS1LYmlTM3N3blU3ZjgzbHc0MjJDeS02NTFyLVNEQWhHRVJfNC02NGZtU3hUeEtwSzhOV2FnWVRKeURia2UwZjJpMjk2eU9ZT3RuZEtkOWFOZUF0NnlVeGc?oc=5",
-      "date": "Thu, 12 Nov 2026 09:04:39 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.daejonilbo.com/news/articleView.html?idxno=2313392": {
       "title": "'정치 자금 부정 지출 의혹' 홍준표 대선 캠프 관계자 등 6명 기소",
       "summary": "대구 지방공소청은 정치자금법 위반 혐의로 선거용역업체 대표 박 모 씨와 당시 홍 전 시장 캠프 회계담당자 김 모 씨 등 6명을 불구속 기소했다. 이들은 2021년 국민의힘 대선 경선 과정에서 이른바 ' 가공거래 '를 통해 캠프...",
@@ -3699,11 +3593,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-14",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mc3FJNTAzaW9jVEMtTUhoTHhNTVpZTklJSk5Ic1BBQ3ZUb3djQ1lkX2lHRzBlbm5YblF4X1B3MGF0VkJtSjZxVFZDZHB3bjRfd2hpU0lwRE9DdVNMQ2pMRGdfZzIyVDB1cHhZWA?oc=5",
-      "title": "[포스코 임단협⑮] 무기한 파업 앞두고 잠정 합의…140일 교섭 마침표 - 페로타임즈",
-      "date": "Sat, 31 Oct 2026 09:23:32 GMT"
-    },
     {
       "url": "https://www.kbmaeil.com/article/20261101500094",
       "title": "에코프로 , 정기 임원 인사 단행...부사장 3명·상무 11명 승진",
