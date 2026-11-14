@@ -1887,88 +1887,11 @@
     "2026-11-10": 18,
     "2026-11-11": 15,
     "2026-11-12": 20,
-    "2026-11-13": 26
+    "2026-11-13": 26,
+    "2026-11-14": 1
   },
   "cursor": 0,
   "archive": {
-    "http://www.metroseoul.co.kr/article/20261111500653": {
-      "title": "경북 도의회 박채아 의원, 경북 행복재단 대표이사 의혹 특정감사 촉구",
-      "summary": "또한 경북 도 감사관실이 의혹 과 제보 사항을 종합적으로 조사하고, 위법·부당한 사항이 확인되면 그에 상응하는 책임을 물어야 한다고 촉구했다. 박 의원은 \"특정감사는 누군가의 잘못을 미리 단정하기 위한 것이 아니라...",
-      "url": "http://www.metroseoul.co.kr/article/20261111500653",
-      "date": "Thu, 12 Nov 2026 08:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.newsis.com/view/NISX20261112_0003864698": {
-      "title": "다산디엠씨, 포스코 인터·아이비씨티와 산업 데이터 생태계 MOU",
-      "summary": "다산디엠씨는 포스코 인터내셔널, 아이비씨티(IBCT)와 카테나-X 사업협력을 위한 업무협약(MOU)을 체결했다고... 김민석 다산디엠씨 오토사업부 부사장은 \" 포스코 인터내셔널의 글로벌 영업망, 아이비씨티의 카테나-X...",
-      "url": "https://www.newsis.com/view/NISX20261112_0003864698",
-      "date": "Thu, 12 Nov 2026 08:17:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://kpenews.com/View.aspx?No=4308845": {
-      "title": "포스코 , AI 인프라용 'K-철강' 솔루션 선도..GS그룹과 MOU",
-      "summary": "한국정경신문 최창윤 기­자 desk0223@nate.com [한국정경신문=최창윤 기자] 포스코 가 AX(AI Transformation) 관련 미래 신수요 시장을 선점하고 새로운 성장동력 확보에 나섰다. 포스코 (대표이사 이희근)가 GS그룹과 협력해...",
-      "url": "https://kpenews.com/View.aspx?No=4308845",
-      "date": "Thu, 12 Nov 2026 08:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.fnnews.com/news/202611120756458580": {
-      "title": "논란의 체코원전...\"한수원 물량 늘리고 단가 낮춰, 정부 재협상 중재해...",
-      "summary": "대우건설 노동조합이 한국수력원자력 (한수원)의 체코 두코바니 원전 시공계약 협상 관련 해명에 대해 공사비 증액이 아닌 사실상의 단가 인하를 요구한 것이라며 정면 반박했다. 12일 대우건설 노동조합은 보도자료를...",
-      "url": "https://www.fnnews.com/news/202611120756458580",
-      "date": "Thu, 12 Nov 2026 08:13:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NT3dscVpaWm5YWVZ0WnV2Qkh0Nm5FdGtmTlJxLXpFYUdsemNYX2YtWWVnQ0VOaEk0VFZWc1pqaVpJbzMtUHd2UGtORzZWb1k1NUgzaXNaWTczTkU3M25GMUhpMzRkZW5OVDY4NWh3?oc=5": {
-      "title": "한국가스공사 자회사, 승인된 직원 산재마저 \"취소하라\"…동료 회유까지 '도 넘은 갑질' - 알파경제",
-      "summary": "한국가스공사 자회사, 승인된 직원 산재마저 \"취소하라\"…동료 회유까지 '도 넘은 갑질' 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NT3dscVpaWm5YWVZ0WnV2Qkh0Nm5FdGtmTlJxLXpFYUdsemNYX2YtWWVnQ0VOaEk0VFZWc1pqaVpJbzMtUHd2UGtORzZWb1k1NUgzaXNaWTczTkU3M25GMUhpMzRkZW5OVDY4NWh3?oc=5",
-      "date": "Wed, 11 Nov 2026 23:31:19 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZXB6OVF6T0NwejRvWmY3cmdlRndYTXNnUm1DWXRKQU9xZHVsX3ZyZXlrUEJnTDMxRmVWaUdSdzV6OG9sTEp1Zi1lTkdrSXpoeU83VmZmT00tdw?oc=5": {
-      "title": "논란의 체코원전...\"한수원 물량 늘리고 단가 낮춰, 정부 재협상 중재해야\" - 파이낸셜뉴스",
-      "summary": "논란의 체코원전...\"한수원 물량 늘리고 단가 낮춰, 정부 재협상 중재해야\" 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZXB6OVF6T0NwejRvWmY3cmdlRndYTXNnUm1DWXRKQU9xZHVsX3ZyZXlrUEJnTDMxRmVWaUdSdzV6OG9sTEp1Zi1lTkdrSXpoeU83VmZmT00tdw?oc=5",
-      "date": "Wed, 11 Nov 2026 23:12:58 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4118132": {
       "title": "경북 연구원, 한국원자력학회 등 3개 기관과 SMR 분야 연구협력 MOU 체결",
       "summary": "미래 청정에너지로 주목받는 소형모듈원자로(SMR) 산업의 경쟁력을 높이고 경북 도를 글로벌 원자력 연구 생태계의 중심지로 도약시키기 위한 전문 기관 간 강력한 공조 체계가 구축됐습니다. 경북 연구원은 어제(11일)...",
@@ -5945,6 +5868,19 @@
       "basis": "관심기업: 포스코",
       "category": "해외기업 동향",
       "priority": 50,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jN2dnbFNYY2NwVXU4amxxbW5JQmgwQUMtYjhwR01qYVU0VWtpcl8yekRYSU5YQmVoZEVPQnJKUm0xdC0tc1pDeV8xWnlGdw?oc=5": {
+      "title": "경북TP, 81억 규모 우즈벡 IT 교육 등 코이카 ODA 2건 연속 수주 - 전자신문",
+      "summary": "경북TP, 81억 규모 우즈벡 IT 교육 등 코이카 ODA 2건 연속 수주 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jN2dnbFNYY2NwVXU4amxxbW5JQmgwQUMtYjhwR01qYVU0VWtpcl8yekRYSU5YQmVoZEVPQnJKUm0xdC0tc1pDeV8xWnlGdw?oc=5",
+      "date": "Fri, 13 Nov 2026 23:46:12 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
       "filter_version": 17
     }
   },
@@ -10690,7 +10626,8 @@
     "2026-11-10": 12,
     "2026-11-11": 11,
     "2026-11-12": 13,
-    "2026-11-13": 14
+    "2026-11-13": 14,
+    "2026-11-14": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
