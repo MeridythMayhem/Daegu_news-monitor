@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mc3FJNTAzaW9jVEMtTUhoTHhNTVpZTklJSk5Ic1BBQ3ZUb3djQ1lkX2lHRzBlbm5YblF4X1B3MGF0VkJtSjZxVFZDZHB3bjRfd2hpU0lwRE9DdVNMQ2pMRGdfZzIyVDB1cHhZWA?oc=5": "2026-10-31T19:02:43.793195+09:00",
     "https://www.kbmaeil.com/article/20261101500094": "2026-11-01T10:02:25.835088+09:00",
     "https://www.newsis.com/view/NISX20261101_0003849634": "2026-11-01T11:02:20.481473+09:00",
     "https://www.idaegu.com/news/articleView.html?idxno=666627": "2026-11-01T14:02:29.775272+09:00",
@@ -940,10 +939,10 @@
     "https://www.news1.kr/local/daegu-gyeongbuk/6353987": "2026-11-14T12:01:46.528688+09:00",
     "http://www.4th.kr/news/articleView.html?idxno=2121872": "2026-11-14T13:02:11.767402+09:00",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=902971": "2026-11-14T14:01:54.949103+09:00",
-    "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00"
+    "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": "2026-11-14T20:01:51.941407+09:00"
   },
   "titles": {
-    "578e2592bdd2965b09a2dc2b2dffc58100518bc8c0ed5601eee3e0dd36399dd2": "2026-10-31T19:02:43.793195+09:00",
     "e7e0ef02149f02962f50369aeab96d5cfe6eb907c3342e1b1d7f925fbdc7e1e9": "2026-11-01T10:02:25.835088+09:00",
     "89d403bd41b8c942b7dca1146c06910df3225784591d4f27441ec04deb71f93f": "2026-11-01T11:02:20.481473+09:00",
     "8f5d5a9e8223e6a68f5e73da8f021301e3739264ad1c002358828d831f667401": "2026-11-01T14:02:29.775272+09:00",
@@ -1883,7 +1882,8 @@
     "f1d05f941faa5dd18c5f8bfcff38d10a6b2cc32b73f1b308e77b80dfd04bddb5": "2026-11-14T12:01:46.528688+09:00",
     "7f8f243128eeef6dc87b4c895494ac7e363157d96baadb4d073c564d6735681f": "2026-11-14T13:02:11.767402+09:00",
     "a0fabe6360d949fc33238ae9270d9e8f4f5298fdbb440297639197dc07278a59": "2026-11-14T14:01:54.949103+09:00",
-    "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00"
+    "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00",
+    "d99ef91d456f101939c631c14e5c9b653ec76cd86449808f0f9a18ae60f45348": "2026-11-14T20:01:51.941407+09:00"
   },
   "pending": {},
   "ai": {
@@ -1898,45 +1898,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2313392": {
-      "title": "'정치 자금 부정 지출 의혹' 홍준표 대선 캠프 관계자 등 6명 기소",
-      "summary": "대구 지방공소청은 정치자금법 위반 혐의로 선거용역업체 대표 박 모 씨와 당시 홍 전 시장 캠프 회계담당자 김 모 씨 등 6명을 불구속 기소했다. 이들은 2021년 국민의힘 대선 경선 과정에서 이른바 ' 가공거래 '를 통해 캠프...",
-      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2313392",
-      "date": "Thu, 12 Nov 2026 19:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698": {
-      "title": "AI바이오·메디시티 대구 협의회, 16일 중국 시안 방문…의료 수출 타진",
-      "summary": "베이징에서는 중의약 산업단지 와 펑타이구 정부청사 등을 상대로 AI 의료와 바이오헬스케어, 웰니스 분야 협력을 모색한다. 대구 시 의료 산업 과와 경북 도 보건정책과, 경북 문화관광공사, 대구 의료관광진흥원이 공동...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698",
-      "date": "Thu, 12 Nov 2026 19:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRlMwUFdnd3F0ZFVUMUltSmxLaTN0RFoyV3NfYkxRU3ZiOTlSNGpPS1RnZ1BwU1ZHZ2xKRWwxU1N0anZWcFlyTlMzcm9FT2tTdE95YkpkeFhhbXpHNUpFMlVUamJyZ09YVkFV?oc=5": {
-      "title": "포스코, ‘광양 제2 LNG터미널’ 종합준공… 동북아 에너지 허브 도약 - 광양경제신문",
-      "summary": "포스코, ‘광양 제2 LNG터미널’ 종합준공… 동북아 에너지 허브 도약 광양경제신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRlMwUFdnd3F0ZFVUMUltSmxLaTN0RFoyV3NfYkxRU3ZiOTlSNGpPS1RnZ1BwU1ZHZ2xKRWwxU1N0anZWcFlyTlMzcm9FT2tTdE95YkpkeFhhbXpHNUpFMlVUamJyZ09YVkFV?oc=5",
-      "date": "Thu, 12 Nov 2026 10:39:07 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m": {
       "title": "경산시 공장 서 화재 …소방 당국, 진화 중",
       "summary": "12일 오후 8시 1분께 경북 경산시 진량읍 선화리 한 공장 에서 화재 가 발생했다. 소방 당국은 관할 소방서 인력이 전체가 출동하는 대응 1단계를 발령하고 불을 끄고 있다. 경산시는 ' 화재 가 발생했으니 인근 주민들은 연기...",
@@ -3572,6 +3533,19 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": {
+      "title": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 - 헤럴드경제",
+      "summary": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5",
+      "date": "Sat, 14 Nov 2026 10:28:16 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 17
     }
@@ -8292,6 +8266,11 @@
       "url": "https://www.etoday.co.kr/news/view/2647768",
       "title": "지방 산업 투자 확대⋯영주·구미·천안서 신규 아파트 분양",
       "date": "Sat, 14 Nov 2026 16:02:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5",
+      "title": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 - 헤럴드경제",
+      "date": "Sat, 14 Nov 2026 10:28:16 GMT"
     }
   ],
   "brief_articles": [
