@@ -938,7 +938,8 @@
     "https://www.kbsm.net/news/view.php?idx=541629": "2026-11-13T22:01:50.947318+09:00",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5": "2026-11-13T22:01:50.947318+09:00",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712669&ref=A": "2026-11-13T23:02:30.052062+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5": "2026-11-14T10:02:08.701843+09:00"
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5": "2026-11-14T10:02:08.701843+09:00",
+    "https://sateconomy.co.kr/news/view/1065574560150425": "2026-11-14T11:01:54.666304+09:00"
   },
   "titles": {
     "7a657fbaba36f4d45e373f12035309ab94521592b4566994972975c3d86f0854": "2026-10-31T12:02:39.066436+09:00",
@@ -1879,7 +1880,8 @@
     "fabb837a30d808d3c293623ccb15a8042d81b4293e12b5d7775b705906c1785b": "2026-11-13T22:01:50.947318+09:00",
     "fd7339cf477dfcaaffb53d367c9a99fde07b0e1e8e0910b503b19cf91e2ddeb9": "2026-11-13T22:01:50.947318+09:00",
     "3ceacc2678987f1d9eb0dd1626b3cf996dda83103f9c76cff44b8da79634b222": "2026-11-13T23:02:30.052062+09:00",
-    "22f1bd6443f9898a9c871c3726f203a32ec034d66365945b7c7dd3c6eaf7f43c": "2026-11-14T10:02:08.701843+09:00"
+    "22f1bd6443f9898a9c871c3726f203a32ec034d66365945b7c7dd3c6eaf7f43c": "2026-11-14T10:02:08.701843+09:00",
+    "ffa7eae88c7e5a62fcbef3d7566d131c05b1ed8b2d217ed297d4ea645934efac": "2026-11-14T11:01:54.666304+09:00"
   },
   "pending": {},
   "ai": {
@@ -1894,331 +1896,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004617": {
-      "title": "안동시, 국립경국대 의대 신설 맞춰 330실 규모 주거시설 검토",
-      "summary": "안동에는 경북 바이오산업연구원과 바이오기업 등 관련 산업 기반이 형성돼 있다. 여기에 국가첨단백신개발센터 건립 과 바이오생명 국가산업단지 조성도 추진되고 있어 의과대학과 교육병원의 교육·연구·임상 기능이...",
-      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004617",
-      "date": "Thu, 12 Nov 2026 10:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://daily.hankooki.com/news/articleView.html?idxno=1424424": {
-      "title": "안동시, 국립의대 신설 후속 대책 본격화…정착 여건·바이오 연계 추진",
-      "summary": "안동시청 직원들이 지난 9일 경북 국립의과대학 신설 확정의 기쁨을 함께 나누며 지역 의료의 새로운 출발을... 도청 신도시 내 복합커뮤니티센터 건립 과 신도시·원도심 간 접근성 개선 등 생활 기반 확충도 병행한다....",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1424424",
-      "date": "Thu, 12 Nov 2026 10:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.pressian.com/pages/articles/2026111209552426799": {
-      "title": "안동시, 국립경국대 의대 신설 후속 과제 본격화…의료·바이오산업 동...",
-      "summary": "안동에는 경북 바이오산업연구원과 관련 기업들이 자리 잡고 있으며, 국가첨단백신개발센터 건립 과 바이오생명 국가산업단지 조성도 추진되고 있다. 여기에 국립의과대학과 교육병원의 교육·연구·임상 기능이 더해지면...",
-      "url": "https://www.pressian.com/pages/articles/2026111209552426799",
-      "date": "Thu, 12 Nov 2026 10:39:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082504": {
-      "title": "경북 도, 내년 예산 14조8535억 원 편성…AI·민생경제에 집중 투자",
-      "summary": "6억 원 △ 경북 로봇산업 선도 기업 육성 4.5억 원을 편성해 전략산업의 기술 경쟁력을 높이기로 했다.... 이철우 경북 도지사는 \"지방재정 여건이 갈수록 어려워지고 있지만, 도민 의 삶을 지키고 경북 의 미래를 준비하기...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082504",
-      "date": "Thu, 12 Nov 2026 10:06:00 +0900",
-      "channels": [
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.lcnews.co.kr/news/articleView.html?idxno=211256": {
-      "title": "[건설 Pick] 포스코 이앤씨·㈜한화 건설부문·롯데건설, 해상풍력 착공...",
-      "summary": "라이센스뉴스 = 박창배 기자 | 포스코 이앤씨·㈜한화 건설부문·롯데건설이 해상풍력 인프라 구축, 현장... 포스코 이앤씨는 총사업비 약 3000억 원 규모의 전북 고창 해상풍력발전 공사에 본격 착수해 포스코 그룹의 특수...",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211256",
-      "date": "Thu, 12 Nov 2026 11:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.betanews.net/article/view/beta202611120112": {
-      "title": "포스코 이앤씨, 2974억 원 규모 고창 해상풍력발전 착공",
-      "summary": "포스코 이앤씨가 전북 고창 앞바다에 76.2MW 규모의 '고창 해상풍력 프로젝트' 공사 계약을 체결하고 이달... 포스코 이앤씨는 설계부터 자재 조달, 시공까지 공사 전 과정을 총괄한다. 발전소가 준공되면 연간 약 146GWh의...",
-      "url": "https://www.betanews.net/article/view/beta202611120112",
-      "date": "Thu, 12 Nov 2026 10:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451804": {
-      "title": "포스코 이앤씨 고창 앞바다 해상풍력발전 11월 착공, 2029년 8월 준공 목...",
-      "summary": "포스코 이앤씨> 포스코 이앤씨가 전북 고창 앞바다에서 대규모 해상풍력 발전소 건립 공사를 시작한다. 포스코 이앤씨는 76.2MW 규모의 고창 해상풍력 프로젝트 공사 계약을 맺고 11월 안에 착공에 들어간다고 12일 밝혔다....",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451804",
-      "date": "Thu, 12 Nov 2026 10:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.newstomato.com/ReadNews.aspx?no=1320186&inflow=N": {
-      "title": "포스코 이앤씨, 고창 해상풍력발전 착공…서남권 첨단산업에 재생에너지...",
-      "summary": "(자료= 포스코 이앤씨) 포스코 이앤씨가 전북 고창 앞바다에 바닷바람으로 재생에너지를 생산하는 '해상풍력발전' 공사에 본격 착수합니다. 포스코 이앤씨는 76.2MW(메가와트) 규모의 '고창 해상풍력 프로젝트' 공사 계약을...",
-      "url": "http://www.newstomato.com/ReadNews.aspx?no=1320186&inflow=N",
-      "date": "Thu, 12 Nov 2026 10:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.edaily.co.kr/News/Read?newsId=02896246645645064&mediaCodeNo=257": {
-      "title": "포스코 이앤씨, 고창 해상풍력 착공…서남권 재생에너지 공급",
-      "summary": "포스코 이앤씨가 전북 고창 앞바다에 약 3000억원을 투입하는 해상풍력발전시설 건설에 나선다. 오는 2029년... 고창 해상풍력발전 조감도.(사진= 포스코 이앤씨) 포스코 이앤씨는 발전용량 76.2메가와트(MW) 규모의 ‘고창...",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02896246645645064&mediaCodeNo=257",
-      "date": "Thu, 12 Nov 2026 10:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.sedaily.com/article/20113356?ref=naver": {
-      "title": "포스코 이앤씨, 고창 해상풍력발전소 이달 착공…2029년 상업발전 목표",
-      "summary": "포스코 이앤씨가 전북 고창 앞바다에서 76.2메가와트(㎿) 규모의 해상풍력발전소 공사에 들어간다. 설계·조달·시공(EPC) 전 과정을 맡고 해상 구조물에는 포스코 철강재를 쓴다. 해상풍력 진출을 준비하는 포스코 그룹이...",
-      "url": "https://www.sedaily.com/article/20113356?ref=naver",
-      "date": "Thu, 12 Nov 2026 10:43:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.techholic.co.kr/news/articleView.html?idxno=223646": {
-      "title": "포스코 이앤씨, 고창 해상풍력발전 착공-서남권 첨단산업에 재생에너지...",
-      "summary": "포스코 이앤씨가 76.2MW(메가와트) 규모의 '고창 해상풍력 프로젝트' 공사 계약을 체결하고, 전북 고창... 과정을 포스코 이앤씨가 총괄한다. 고창 해상풍력발전이 준공되면, 연간 약 146GWh의 전력이 생산된다. 이는 일반 가정...",
-      "url": "http://www.techholic.co.kr/news/articleView.html?idxno=223646",
-      "date": "Thu, 12 Nov 2026 10:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ziksir.com/news/articleView.html?idxno=153015": {
-      "title": "서남권 첨단산업 전력 수요 겨냥… 포스코 이앤씨, 고창 해상풍력 착공",
-      "summary": "[ 포스코 이앤씨] 포스코 이앤씨가 전북 고창 앞바다에 해상풍력발전소를 건설해 반도체와 데이터센터 등 서남권 첨단산업의 재생에너지 전력 수요에 대응한다. 포스코 의 내식성 철강재와 해상 시공 기술을 활용해...",
-      "url": "https://www.ziksir.com/news/articleView.html?idxno=153015",
-      "date": "Thu, 12 Nov 2026 10:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsinside.kr/news/articleView.html?idxno=5046147": {
-      "title": "포스코 이앤씨, 2974억 규모 '고창 해상풍력' 착공",
-      "summary": "포스코 이앤씨가 전북 고창 앞바다에 76.2㎿(메가와트) 규모의 해상풍력발전단지를 조성하는 사업에 착수한다. 포스코 이앤씨는 고창 해상풍력 프로젝트 공사 계약을 체결하고 이달 중 착공한다고 12일 밝혔다. 이번...",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5046147",
-      "date": "Thu, 12 Nov 2026 10:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.public25.com/news/articleView.html?idxno=58358": {
-      "title": "포스코 이앤씨, 고창 해상풍력발전 곧 착공",
-      "summary": "퍼블릭타임스= 포스코 그룹은 올 7월 '자원'을 중심으로 한 트리플 코어 전략을 선언하고, '에너지 자원'에... 포스코 이앤씨는 전북 고창군 앞바다에 76.2MW 규모의 '해상풍력 프로젝트' 공사 계약을 체결하고, 11월 착공에...",
-      "url": "https://www.public25.com/news/articleView.html?idxno=58358",
-      "date": "Thu, 12 Nov 2026 10:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.sisacast.kr/news/articleView.html?idxno=101864": {
-      "title": "포스코 이앤씨, 76.2MW 규모 '고창 해상풍력발전' 착공",
-      "summary": "사진= 포스코 이앤씨 포스코 이앤씨는 76.2MW(메가와트) 규모의 '고창 해상풍력 프로젝트' 공사 계약을 체결하고, 이달 착공에 들어가는 것으로, 반도체 클러스터와 데이터센터 등이 들어설 예정인 전북·전남 등 서남권의...",
-      "url": "http://www.sisacast.kr/news/articleView.html?idxno=101864",
-      "date": "Thu, 12 Nov 2026 10:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=304841": {
-      "title": "포스코 이앤씨, 고창 해상풍력발전 76.2㎿ 공사 착수…2029년 8월 준공 목...",
-      "summary": "포스코 이앤씨가 전북 고창 앞바다에서 76.2㎿ 규모의 해상풍력발전 프로젝트 공사 계약을 체결하고, 오는... 포스코 이앤씨는 설계, 자재 조달, 시공 등 모든 공정에서 주도적인 역할을 맡는다. 고창 해상풍력발전이...",
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304841",
-      "date": "Thu, 12 Nov 2026 10:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082323": {
-      "title": "포스코 이앤씨 2974억 원 규모 고창 해상풍력 착공",
-      "summary": "포스코 이앤씨 고창 해상풍력발전 조감도. 포스코 이앤씨 제공 포스코 이앤씨(대표 송치영)가 76.2MW 규모의 '고창 해상풍력 프로젝트' 공사 계약을 체결하고 11월 착공에 들어간다고 12일 밝혔습니다. 총 공사비 약 2974억...",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082323",
-      "date": "Thu, 12 Nov 2026 10:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.popcornnews.net/news/articleView.html?idxno=139755": {
-      "title": "포스코 이앤씨, 2974억 원 규모 '고창 해상풍력 프로젝트' 착공",
-      "summary": "포스코 이앤씨는 76.2MW(메가와트) 규모의 '고창 해상풍력 프로젝트' 공사 계약을 체결하고 이달 착공에... 포스코 이앤씨는 해상 환경에서의 부식을 방지하기 위해 바닷물에 강한 포스코 의 내부식성 특수 철강재를...",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=139755",
-      "date": "Thu, 12 Nov 2026 10:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yaUVjNE52Q3gtcmQ5NV9WY0JqMTJ1SjJ2MkloZE9SazZWWXAyV1l3aF9wb0dXY2huazhudHFaMnZOYXRtYkZV?oc=5": {
-      "title": "구미시, 지역경제 협의회 킥오프 회의 개최 - 코리아투데이뉴스",
-      "summary": "구미시, 지역경제 협의회 킥오프 회의 개최 코리아투데이뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yaUVjNE52Q3gtcmQ5NV9WY0JqMTJ1SjJ2MkloZE9SazZWWXAyV1l3aF9wb0dXY2huazhudHFaMnZOYXRtYkZV?oc=5",
-      "date": "Thu, 12 Nov 2026 01:10:26 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82bkhOdGtvb25xMUx4TUdwaWFYVzRBUE1ETlpkTmFXZ3Nlc0lvOTljNkFpbkRZa2ljUkdsNFQxcEUyY2FXbElmOFBpVEJMUTBablAtc09NdWFSejktY2wwbA?oc=5": {
-      "title": "포스코이앤씨, 고창 해상풍력발전 착공…서남권 첨단산업에 재생에너지 전력 공급 - 뉴스토마토",
-      "summary": "포스코이앤씨, 고창 해상풍력발전 착공…서남권 첨단산업에 재생에너지 전력 공급 뉴스토마토",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82bkhOdGtvb25xMUx4TUdwaWFYVzRBUE1ETlpkTmFXZ3Nlc0lvOTljNkFpbkRZa2ljUkdsNFQxcEUyY2FXbElmOFBpVEJMUTBablAtc09NdWFSejktY2wwbA?oc=5",
-      "date": "Thu, 12 Nov 2026 01:50:36 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaTh5elpiWkFPajJTR1NhbUwtRzNfUDRLYnlKX3YwZlFYQWlEcG1Ea2hUQ0ZGMldCMXBYTzZjbUFjR0pBdjNfUG5PNkJrdENWSVNXbUJGZzRzM19QVlFwM19pdHllb0RlMG13UjlqWTc?oc=5": {
-      "title": "포스코이앤씨, 2974억원 규모 고창 해상풍력발전 착공…2029년 준공 By EBN - Investing.com 한국어",
-      "summary": "포스코이앤씨, 2974억원 규모 고창 해상풍력발전 착공…2029년 준공 By EBN Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaTh5elpiWkFPajJTR1NhbUwtRzNfUDRLYnlKX3YwZlFYQWlEcG1Ea2hUQ0ZGMldCMXBYTzZjbUFjR0pBdjNfUG5PNkJrdENWSVNXbUJGZzRzM19QVlFwM19pdHllb0RlMG13UjlqWTc?oc=5",
-      "date": "Thu, 12 Nov 2026 01:41:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pbmpQeXFlZE1mVUxFc3NKMk85dTBYSGp0c2ZzNTlNOS0xUlpGcUl2MXhnQWVkY1Nsem4wZmxCWlp5M1dHSWF5YTlrODRaaXM4MHdHck1lWkVaZC1yX1J0YkNtUkU4YV9CNXVlOQ?oc=5": {
-      "title": "포스코이앤씨, 2974억 고창 해상풍력 착공…2029년 발전 목표 - 중소기업신문",
-      "summary": "포스코이앤씨, 2974억 고창 해상풍력 착공…2029년 발전 목표 중소기업신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pbmpQeXFlZE1mVUxFc3NKMk85dTBYSGp0c2ZzNTlNOS0xUlpGcUl2MXhnQWVkY1Nsem4wZmxCWlp5M1dHSWF5YTlrODRaaXM4MHdHck1lWkVaZC1yX1J0YkNtUkU4YV9CNXVlOQ?oc=5",
-      "date": "Thu, 12 Nov 2026 01:48:50 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE40a2FSMHNza3NZSGEwTXBoanZ3NUFkT1ZuNzEyWWJ4cnEtWW11MzdNS0JMTnRudXhERkFnZk5NdlFyV2pDTzVxanZNak9MNG4xSzJyMHJUbFVzZzBIdDFtX2FmOVdSOWl2OEtUY1Rn?oc=5": {
-      "title": "포스코이앤씨, 2974억 ‘고창 해상풍력’ 착공…서남권 첨단산업 전력 공급 - 아시아투데이",
-      "summary": "포스코이앤씨, 2974억 ‘고창 해상풍력’ 착공…서남권 첨단산업 전력 공급 아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40a2FSMHNza3NZSGEwTXBoanZ3NUFkT1ZuNzEyWWJ4cnEtWW11MzdNS0JMTnRudXhERkFnZk5NdlFyV2pDTzVxanZNak9MNG4xSzJyMHJUbFVzZzBIdDFtX2FmOVdSOWl2OEtUY1Rn?oc=5",
-      "date": "Thu, 12 Nov 2026 01:08:21 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sXzhTN0JMOE5OaVRoUXBLdnprY0E3Tl9paWYyOE5fZkk1SkpYbk5hT2NqcGNNYnJoRVJLdUdONU5JNVBCaEtaeVhFZWpVelZwazVuMnM4RS1INndid2Nob1MtNWI3ZWFh?oc=5": {
-      "title": "포스코이앤씨, 76.2MW 규모 ‘고창 해상풍력발전’ 착공 - 시사캐스트",
-      "summary": "포스코이앤씨, 76.2MW 규모 ‘고창 해상풍력발전’ 착공 시사캐스트",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sXzhTN0JMOE5OaVRoUXBLdnprY0E3Tl9paWYyOE5fZkk1SkpYbk5hT2NqcGNNYnJoRVJLdUdONU5JNVBCaEtaeVhFZWpVelZwazVuMnM4RS1INndid2Nob1MtNWI3ZWFh?oc=5",
-      "date": "Thu, 12 Nov 2026 01:09:58 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5saWhOQTI0YVJqSDR2TDJ1Wk4xZUJrbWhiZWdRd2M3X0dEeFd6UFpVR2lvc0dHYXdsaWptNUMtMllIcmJuampFMTI1TlYwYW1ObDhWclZvdlYzWWVSeVdEVnVSWUlfYmtXZkZVZW9wUQ?oc=5": {
-      "title": "포스코이앤씨, 고창 해상풍력발전 76.2㎿ 공사 착수…2029년 8월 준공 목표 - 뉴스퀘스트",
-      "summary": "포스코이앤씨, 고창 해상풍력발전 76.2㎿ 공사 착수…2029년 8월 준공 목표 뉴스퀘스트",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5saWhOQTI0YVJqSDR2TDJ1Wk4xZUJrbWhiZWdRd2M3X0dEeFd6UFpVR2lvc0dHYXdsaWptNUMtMllIcmJuampFMTI1TlYwYW1ObDhWclZvdlYzWWVSeVdEVnVSWUlfYmtXZkZVZW9wUQ?oc=5",
-      "date": "Thu, 12 Nov 2026 01:06:56 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.worktoday.co.kr/news/articleView.html?idxno=91893": {
       "title": "대규모 기업 투자에 지방 부동산시장 '온기' … 익산· 구미 ·부산 신규 ...",
       "summary": "금호건설은 경북 구미 시 형곡3주공아파트 재건축을 통해 '형곡센트럴 아테라'를 분양하고 있다. 지하 2층... 해양수산부 신청사 건립 과 HMM 본사 이전 계획 등이 맞물리면서 업무·산업 기능 확대에 따른 주거 수요...",
@@ -5518,6 +5195,19 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://sateconomy.co.kr/news/view/1065574560150425": {
+      "title": "[단독] 포스코 , 카자흐서 2500만달러 중재판정 집행 항소 기각",
+      "summary": "포스코는 포스코홀딩스 의 철강사업 자회사다. 이번 분쟁은 2013년 7월 체결된 2500만달러 규모의 대여계약에서 비롯됐다. 채무 상환을 둘러싼 분쟁 끝에 2022년 10월 스위스 취리히에서 진행된 국제상업회의소(ICC)...",
+      "url": "https://sateconomy.co.kr/news/view/1065574560150425",
+      "date": "Sat, 14 Nov 2026 10:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
     }
@@ -10233,6 +9923,11 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5",
       "title": "[‘대구의 미래’ 혁신도시 공공기관③] 산업단지 혁신 넘어 지역사회에 온기 나누는 한국산업단지공단 - 영남일보",
       "date": "Sat, 14 Nov 2026 00:39:55 GMT"
+    },
+    {
+      "url": "https://sateconomy.co.kr/news/view/1065574560150425",
+      "title": "[단독] 포스코 , 카자흐서 2500만달러 중재판정 집행 항소 기각",
+      "date": "Sat, 14 Nov 2026 10:06:00 +0900"
     }
   ],
   "brief_articles": [
