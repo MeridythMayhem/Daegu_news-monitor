@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.idaegu.com/news/articleView.html?idxno=666627": "2026-11-01T14:02:29.775272+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=563940": "2026-11-01T15:02:18.772051+09:00",
     "https://www.dkilbo.com/news/articleView.html?idxno=559171": "2026-11-01T16:02:16.094984+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089156": "2026-11-01T16:02:16.094984+09:00",
@@ -955,10 +954,11 @@
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315394": "2026-11-15T14:02:10.953087+09:00",
     "https://www.kbmaeil.com/article/20261115500356": "2026-11-15T14:02:10.953087+09:00",
     "https://www.wikitree.co.kr/articles/1174730": "2026-11-15T14:02:10.953087+09:00",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5": "2026-11-15T14:02:10.953087+09:00"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5": "2026-11-15T14:02:10.953087+09:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWpIY0RVcy1LcG55MGdJRGRwT0Y2emRwV3V2Y05NdlFUREVkMVdSclI4MlYwQVY3RXI3YWhJd19QSndqbmlva0E1XzVUMGlXTmw4ejRjaTBFdzJjYUtkMUdxSUF2TzZUX0tVcVI0SGc?oc=5": "2026-11-15T15:01:45.227004+09:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHZ0LXdiWkRJN2NrQjU1TmZNekktcjVYTGlQdGtIU0JyclF6QmRnZzZLY29hdkVXMkNpQW5jWnFmQmhGc1daVk5jWUlGS29reV9GalJXWi1qX183VEVjVjdsVlZIdw?oc=5": "2026-11-15T15:01:45.227004+09:00"
   },
   "titles": {
-    "8f5d5a9e8223e6a68f5e73da8f021301e3739264ad1c002358828d831f667401": "2026-11-01T14:02:29.775272+09:00",
     "55ee3bee117ce322b59ac1cd123130ac3127c4e574809f59023ecdcbe9148248": "2026-11-01T15:02:18.772051+09:00",
     "f84dda66f7de91a36a24acadd214b78bef6904d46a0f6db86807902a447679c3": "2026-11-01T16:02:16.094984+09:00",
     "6ba1c25c21152de07d138ee68248cbc226edf10ade33e87a59bea1cce9abee6d": "2026-11-01T16:02:16.094984+09:00",
@@ -1913,7 +1913,9 @@
     "0459e528845d5767e896223455a7f8246e6119ac75798b061b330f9cf333b9a7": "2026-11-15T14:02:10.953087+09:00",
     "82e1ea1d10f080b4c2625d54d7f6698f99917400f2dd138fad92fde61da94ab3": "2026-11-15T14:02:10.953087+09:00",
     "295ce80cb0bbece1aafd28a5c61d5747a2bb77877049e9c8f47a3b647e47a2e9": "2026-11-15T14:02:10.953087+09:00",
-    "2819b83c5f72cee386403a4d510877f0d26d1d28117bc9e5a4fda2c5a745af52": "2026-11-15T14:02:10.953087+09:00"
+    "2819b83c5f72cee386403a4d510877f0d26d1d28117bc9e5a4fda2c5a745af52": "2026-11-15T14:02:10.953087+09:00",
+    "1c64573603165bdce8208a456f417dcd8d82c1d9392c5210c94020b21f38deb5": "2026-11-15T15:01:45.227004+09:00",
+    "d6f1f1abbded7cc96e8b30f975a5d1021fd839e15f3ec62e9a487c046f1d1755": "2026-11-15T15:01:45.227004+09:00"
   },
   "pending": {},
   "ai": {
@@ -1928,32 +1930,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kbsm.net/news/view.php?idx=541621": {
-      "title": "경산 진량읍 골판지 제조 공장 서 화재 … 소방당국 대응 1단계 발령",
-      "summary": "화재 이후 작업자들이 신속히 대피해 인명 피해는 없으나, 공장 설비와 다량의 종이 원지가 불에 타 수억 원대의 재산 피해가 발생했다. 13일 경북 소방본부 등에 따르면 전날 오후 8시 1분께 선화리 한 골판지와 골판지 상자...",
-      "url": "https://www.kbsm.net/news/view.php?idx=541621",
-      "date": "Fri, 13 Nov 2026 14:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284757&CMPT_CD=P0010": {
-      "title": "'유류비 과다 지출, 현금 수입 누락' 의혹... 김천버스 논란 확산",
-      "summary": "김천 세무서 의 조사 과정도 논란이 되고 있다. 김천 세무서 는 관련 민원을 접수하고 올해 중순 세무조사에... 대구 KBS는 김천버스의 한 달 현금 운송 수입과 매출 장부 사이에서 약 2천만 원의 차이가 확인됐다고 보도했다....",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284757&CMPT_CD=P0010",
-      "date": "Fri, 13 Nov 2026 14:51:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.pressian.com/pages/articles/2026111314194586889": {
       "title": "[영주 골프장 표류①·이산면 지동리] MOU는 맺었지만…과도한 규제로 ...",
       "summary": "투자 하겠나” 경북 영주에서 추진 중인 골프장 3개 사업은 모두 난항을 겪고 있는 와중에 최근 인근 지역 봉화군에는 골프장 조성 소식이 전해지면서 영주시의 행정 대응이 도마에 올랐다. 특히 영주시와 투자 업무 협약 을...",
@@ -2863,6 +2839,32 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWpIY0RVcy1LcG55MGdJRGRwT0Y2emRwV3V2Y05NdlFUREVkMVdSclI4MlYwQVY3RXI3YWhJd19QSndqbmlva0E1XzVUMGlXTmw4ejRjaTBFdzJjYUtkMUdxSUF2TzZUX0tVcVI0SGc?oc=5": {
+      "title": "경주 선박부품 공장서 크레인 고리 빠져…60대 작업자 사망 - 비즈중앙",
+      "summary": "경주 선박부품 공장서 크레인 고리 빠져…60대 작업자 사망 비즈중앙",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWpIY0RVcy1LcG55MGdJRGRwT0Y2emRwV3V2Y05NdlFUREVkMVdSclI4MlYwQVY3RXI3YWhJd19QSndqbmlva0E1XzVUMGlXTmw4ejRjaTBFdzJjYUtkMUdxSUF2TzZUX0tVcVI0SGc?oc=5",
+      "date": "Sun, 15 Nov 2026 05:12:17 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHZ0LXdiWkRJN2NrQjU1TmZNekktcjVYTGlQdGtIU0JyclF6QmRnZzZLY29hdkVXMkNpQW5jWnFmQmhGc1daVk5jWUlGS29reV9GalJXWi1qX183VEVjVjdsVlZIdw?oc=5": {
+      "title": "박형수 의원, 대구경북 통합신공항 ‘조기 착공’ 해법 모색 - 데일리대구경북뉴스",
+      "summary": "박형수 의원, 대구경북 통합신공항 ‘조기 착공’ 해법 모색 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHZ0LXdiWkRJN2NrQjU1TmZNekktcjVYTGlQdGtIU0JyclF6QmRnZzZLY29hdkVXMkNpQW5jWnFmQmhGc1daVk5jWUlGS29reV9GalJXWi1qX183VEVjVjdsVlZIdw?oc=5",
+      "date": "Sun, 15 Nov 2026 05:30:05 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -2876,11 +2878,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-15",
   "sent_articles": [
-    {
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563940",
-      "title": "대구 북부경찰서 신청사 건립 순항…임시청사 후보지 2곳 압축",
-      "date": "Sun, 01 Nov 2026 14:44:00 +0900"
-    },
     {
       "url": "https://www.dkilbo.com/news/articleView.html?idxno=559171",
       "title": "24 조원대 투자 유치' 구미시… 반도체·로봇,이차전지등 첨단산업 경제...",
@@ -7650,6 +7647,16 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5",
       "title": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약 등 - 위키트리",
       "date": "Sun, 15 Nov 2026 04:08:00 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWpIY0RVcy1LcG55MGdJRGRwT0Y2emRwV3V2Y05NdlFUREVkMVdSclI4MlYwQVY3RXI3YWhJd19QSndqbmlva0E1XzVUMGlXTmw4ejRjaTBFdzJjYUtkMUdxSUF2TzZUX0tVcVI0SGc?oc=5",
+      "title": "경주 선박부품 공장서 크레인 고리 빠져…60대 작업자 사망 - 비즈중앙",
+      "date": "Sun, 15 Nov 2026 05:12:17 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHZ0LXdiWkRJN2NrQjU1TmZNekktcjVYTGlQdGtIU0JyclF6QmRnZzZLY29hdkVXMkNpQW5jWnFmQmhGc1daVk5jWUlGS29reV9GalJXWi1qX183VEVjVjdsVlZIdw?oc=5",
+      "title": "박형수 의원, 대구경북 통합신공항 ‘조기 착공’ 해법 모색 - 데일리대구경북뉴스",
+      "date": "Sun, 15 Nov 2026 05:30:05 GMT"
     }
   ],
   "brief_articles": [
