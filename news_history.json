@@ -967,7 +967,8 @@
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13RV9STWxQRTIybFdWaFoyeVdfNzBUR0liLWhjcDcyalpQNW5SYWxhYk5UN1lpMzladEQwVGoxc004WEZRRkhWeC1rVGl0OS1LSmowTEdPcng?oc=5": "2026-11-15T18:01:57.200096+09:00",
     "https://www.dkilbo.com/news/articleView.html?idxno=560799": "2026-11-15T18:01:57.200096+09:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBzUzJVYm4yOHFFcWkyTzNESm1KcUxydk1IZzFzaDc3YS01OGkxcktNNnBsMlQ5Q3hpdzdYNUZSeUdwY3Q2QjJaWUNJc1RIYnA0dzJvS19rb3k4cU9jclRlQnhVMzRrUmd4NXFNODcwSk1Qdw?oc=5": "2026-11-15T19:02:01.214787+09:00",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzblFQNENPV1FaOEJuQVloOWxkTlNnVE1BRnVyS3laUE56b2tFSk5ST2swcmVJQV9HNnNRTktRMWZkdzBqQ1RNUzlGa0ZWZ19qNVpwM1ZLNzdyeFp2NnRJMFRB?oc=5": "2026-11-15T20:01:45.992816+09:00"
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzblFQNENPV1FaOEJuQVloOWxkTlNnVE1BRnVyS3laUE56b2tFSk5ST2swcmVJQV9HNnNRTktRMWZkdzBqQ1RNUzlGa0ZWZ19qNVpwM1ZLNzdyeFp2NnRJMFRB?oc=5": "2026-11-15T20:01:45.992816+09:00",
+    "https://www.cstimes.com/news/articleView.html?idxno=727925": "2026-11-15T21:01:44.929001+09:00"
   },
   "titles": {
     "2cbc00e3c1e63521466849a835e469ba3fc1e27e1a4db4be0f812bbcb4338677": "2026-11-01T21:02:16.179304+09:00",
@@ -1937,7 +1938,8 @@
     "8655ba3dd5bc886d0c1b980f2d5273632fe0986b081fcb73d5703d08ad87e7db": "2026-11-15T18:01:57.200096+09:00",
     "322c083cbe3f9a7b02a7af7485a02d6a325d26c0877b79694527dab2bed12a7a": "2026-11-15T18:01:57.200096+09:00",
     "9f1a5ca93a36528988a719a77e4fb2d1fee72427009f28725e8987485fc16d74": "2026-11-15T19:02:01.214787+09:00",
-    "2f1489b9652f14109ab01dbf5925f9b263d0153b8b3d0f77f98650581922f98b": "2026-11-15T20:01:45.992816+09:00"
+    "2f1489b9652f14109ab01dbf5925f9b263d0153b8b3d0f77f98650581922f98b": "2026-11-15T20:01:45.992816+09:00",
+    "2c572734ac757e214ba5e6081d74f6637fcff2adcec0af8289c3b3d96a7ca0ad": "2026-11-15T21:01:44.929001+09:00"
   },
   "pending": {},
   "ai": {
@@ -1952,19 +1954,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view": {
-      "title": "건설현장 추락 사망 사고 증가..안전관리 강화",
-      "summary": "경북 동해안 지역 건설현장의 추락 사망 사고 가 지난해보다 크게 늘어나면서 노동 당국이 안전관리 강화에 나섰습니다. 고용노동부 포항지청에 따르면 포항과 경주 등 경북 동부 5개 시·군의 건설현장 추락 사망 사고 는...",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view",
-      "date": "Fri, 13 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721": {
       "title": "경북 행복재단 연구원 사망 산재 인정…노조, 책임자 처벌 촉구",
       "summary": "경북 도에는 재단에 대한 특별감사를 통해 관리·감독 책임을 규명하고 관련 책임자를 문책할 것을 촉구했다. 아울러 산재 은폐 시도 의혹 에 대한 조사와 유족에 대한 공식 사과, 정당한 보상 및 노동조합과 유족이 참여하는...",
@@ -2692,6 +2681,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.cstimes.com/news/articleView.html?idxno=727925": {
+      "title": "2029년 11월 착공 목표…한수원, 두코바니 원전 프로젝트 이행 현황 점검",
+      "summary": "컨슈머타임스=안성렬 기자 | 한국수력원자력 (한수원)과 체코 발주사 EDU II가 지난 9일부터 12일까지 서울 방사선보건원에서 두코바니 원전 건설사업 이행 현황을 점검하기 위한 프로젝트 합동 점검회의를 개최했다....",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=727925",
+      "date": "Sun, 15 Nov 2026 20:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -2705,11 +2707,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-15",
   "sent_articles": [
-    {
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=627862",
-      "title": "달서구· 대구 지속가능발전협 MOU",
-      "date": "Sun, 01 Nov 2026 20:54:00 +0900"
-    },
     {
       "url": "https://www.news1.kr/photos/8190951",
       "title": "무기한 파업 모면한 포스코",
@@ -7544,6 +7541,11 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzblFQNENPV1FaOEJuQVloOWxkTlNnVE1BRnVyS3laUE56b2tFSk5ST2swcmVJQV9HNnNRTktRMWZkdzBqQ1RNUzlGa0ZWZ19qNVpwM1ZLNzdyeFp2NnRJMFRB?oc=5",
       "title": "AI·로봇 19조 통큰 투자…구미에 다시 부는 `삼성 르네상스` - 매일신문",
       "date": "Sun, 15 Nov 2026 10:45:10 GMT"
+    },
+    {
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=727925",
+      "title": "2029년 11월 착공 목표…한수원, 두코바니 원전 프로젝트 이행 현황 점검",
+      "date": "Sun, 15 Nov 2026 20:26:00 +0900"
     }
   ],
   "brief_articles": [
