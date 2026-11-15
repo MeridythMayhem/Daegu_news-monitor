@@ -942,7 +942,11 @@
     "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": "2026-11-14T20:01:51.941407+09:00",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5": "2026-11-15T09:01:48.258374+09:00",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5": "2026-11-15T09:01:48.258374+09:00"
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5": "2026-11-15T09:01:48.258374+09:00",
+    "https://news.tf.co.kr/read/national/2388868.htm": "2026-11-15T10:01:53.879261+09:00",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=731400": "2026-11-15T10:01:53.879261+09:00",
+    "http://www.metroseoul.co.kr/article/20261115500020": "2026-11-15T10:01:53.879261+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTlFDMTlJNVNfZ19ob2RaUzFUZkRNVEFUUEdxZXlMQWVoWnh4YVc4Qzc3NTZDeUlxNGh4MUdTVFVrQm9TVDFDLXVaTXhHQ3h1aDJORUJLLV82aExNVzJpR3ZSeXp0SEtXSnFN?oc=5": "2026-11-15T10:01:53.879261+09:00"
   },
   "titles": {
     "e7e0ef02149f02962f50369aeab96d5cfe6eb907c3342e1b1d7f925fbdc7e1e9": "2026-11-01T10:02:25.835088+09:00",
@@ -1887,7 +1891,11 @@
     "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00",
     "d99ef91d456f101939c631c14e5c9b653ec76cd86449808f0f9a18ae60f45348": "2026-11-14T20:01:51.941407+09:00",
     "e200f4eeb1121f981486ba71e3b7b43f760212914d4eea1f15b82cb5e89f7364": "2026-11-15T09:01:48.258374+09:00",
-    "c4fe0ff9c88bc8a3097be896e7f5e00cac9cb561cf715a2b8520178e0b449213": "2026-11-15T09:01:48.258374+09:00"
+    "c4fe0ff9c88bc8a3097be896e7f5e00cac9cb561cf715a2b8520178e0b449213": "2026-11-15T09:01:48.258374+09:00",
+    "d7aa800e4fde58ff76b922ee69ee4085634750a5e5f49d406ecc47e1ff0ab5ad": "2026-11-15T10:01:53.879261+09:00",
+    "e4ae41771584d056cf33a122c36884e9f7727edb90856959a6d27ac12cf54ada": "2026-11-15T10:01:53.879261+09:00",
+    "61c000562d9600b7cc0d7fa7b234afbdbaa66e50d6b4057ce507876ef52af590": "2026-11-15T10:01:53.879261+09:00",
+    "52b13a8a6f443adf1b7b8470c40e403d9949fad61370b528c6c0ca2e45a8233a": "2026-11-15T10:01:53.879261+09:00"
   },
   "pending": {},
   "ai": {
@@ -1897,114 +1905,11 @@
     "2026-11-11": 15,
     "2026-11-12": 20,
     "2026-11-13": 26,
-    "2026-11-14": 1
+    "2026-11-14": 1,
+    "2026-11-15": 1
   },
   "cursor": 0,
   "archive": {
-    "https://idsn.co.kr/news/view/1065572713876733": {
-      "title": "경산 골판지 제조 공장 서 화재 …대응 1단계 발령해 진화",
-      "summary": "▲ 경북 경산시 진량읍 선화리의 한 골판지상자 제조 공장 에서 화재 가 발생했다.(사진= 경북 소방본부 제공) 12일 오후 8시 1분께 경북 경산시 진량읍 선화리의 한 골판지상자 제조 공장 에서 불이 나 소방당국이 진화 작업을...",
-      "url": "https://idsn.co.kr/news/view/1065572713876733",
-      "date": "Fri, 13 Nov 2026 09:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.etoday.co.kr/news/view/2647752": {
-      "title": "이정현 31점 폭발…소노, 한국가스공사 에 88-87 역전승·2연승",
-      "summary": "이투데이=장영준 기자 | 프로농구 고양 소노가 이정현의 31점 활약을 앞세워 대구 한국가스공사 에 짜릿한 역전승을 거뒀다. 4쿼터 한때 10점 차까지 벌어진 경기를 뒤집으며 2연승을 달렸다. 소노는 12일...",
-      "url": "https://www.etoday.co.kr/news/view/2647752",
-      "date": "Fri, 13 Nov 2026 09:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281200": {
-      "title": "한수원, 체코 두코바니 원전 2029년 착공 가시화",
-      "summary": "한국수력원자력 은 지난 9일부터 12일까지 서울 한수원 방사선보건원에서 발주사인 EDU II와 프로젝트 합동 점검회의를 개최해 사업 전반의 이행 현황을 확인했다. 이번 회의에는 페트르 자보드스키 EDU II 사장을...",
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281200",
-      "date": "Fri, 13 Nov 2026 09:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=304935": {
-      "title": "한수원, 체코 원전 시공사 갈등에도 \"2029년 착공 차질 없이 추진\"",
-      "summary": "한국수력원자력 이 체코 두코바니 원전사업 발주사와 합동 점검회의를 열고 2027년 4월 건설허가 신청과 2029년 11월 착공 등 주요 사업 일정을 예정대로 추진하기로 했다. 최근 국내 시공사와의 계약 협상이 결렬된...",
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304935",
-      "date": "Fri, 13 Nov 2026 09:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE94MnpQRU4xcXJpQmJFTjhFTzdFOXZxTVJOOUk3Mzh1aVdodU5LZ2JNVGE0TndWWVo2ZFlFcG9mYjVuaVh4amk0eExpcDhNUFVaSWFiUlNWb1h6Q3E1cXMxVnFaS0RNcGlqWktlQnl6WDdPblnSAXdBVV95cUxNT2puX1czUTZoUHdYU3hXd2NyMlRzV0tXcWFvak5oZzk3emsyMEZCYVlVRnVPTUJKdW1RdHdfUndnY2FnWFR5Rld6ZEU0VWlZX2dqZEtocU5peXdGV3hLbUZDU1NSUVRmRjBSbjk1MHhWSnYxbk1qbw?oc=5": {
-      "title": "청송군-일본 무로토시, 유네스코 세계지질공원 상호협력 업무협약(MOU) 체결 - 뉴스프리존",
-      "summary": "청송군-일본 무로토시, 유네스코 세계지질공원 상호협력 업무협약(MOU) 체결 뉴스프리존",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94MnpQRU4xcXJpQmJFTjhFTzdFOXZxTVJOOUk3Mzh1aVdodU5LZ2JNVGE0TndWWVo2ZFlFcG9mYjVuaVh4amk0eExpcDhNUFVaSWFiUlNWb1h6Q3E1cXMxVnFaS0RNcGlqWktlQnl6WDdPblnSAXdBVV95cUxNT2puX1czUTZoUHdYU3hXd2NyMlRzV0tXcWFvak5oZzk3emsyMEZCYVlVRnVPTUJKdW1RdHdfUndnY2FnWFR5Rld6ZEU0VWlZX2dqZEtocU5peXdGV3hLbUZDU1NSUVRmRjBSbjk1MHhWSnYxbk1qbw?oc=5",
-      "date": "Fri, 13 Nov 2026 00:14:06 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBCd1E4NUdwLUNMZi0xOVhkQURqMWtRREhJTnBxUU5PY3BXNkh5SkFGS3NndTJjZ2UyVm9WYTQwY3pQenBGQU91SDJzWjRtZ0hfOEphdVRvbHJiT0dNN2s1VlhuUjJjSl9QM01CSi1yMWFmdw?oc=5": {
-      "title": "대구시, 중소기업 옴부즈만과 ‘규제혁신 업무협약’ 체결… 중앙·지방 공조로 지역경제 활력 제고(Daegu City Signs 'Regulatory Innovation MOU' with SME Ombudsman to Boost Local Economy Through Central-Local Cooperation) - 글로벌휴먼타임즈",
-      "summary": "대구시, 중소기업 옴부즈만과 ‘규제혁신 업무협약’ 체결… 중앙·지방 공조로 지역경제 활력 제고(Daegu City Signs 'Regulatory Innovation MOU' with SME Ombudsman to Boost Local Economy Through Central-Local Cooperation) 글로벌휴먼타임즈",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCd1E4NUdwLUNMZi0xOVhkQURqMWtRREhJTnBxUU5PY3BXNkh5SkFGS3NndTJjZ2UyVm9WYTQwY3pQenBGQU91SDJzWjRtZ0hfOEphdVRvbHJiT0dNN2s1VlhuUjJjSl9QM01CSi1yMWFmdw?oc=5",
-      "date": "Fri, 13 Nov 2026 00:38:40 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fM1JMNlJISHlFSTVEeGx1UkFxZFc3ZkExLTU3bURicjNTclZRWll2U2tFSW8td3A0V3oyQUpORU5kRkJrQndSMk9SanVRTFVBYUdrR0xvakh5RnpGNE1fdDZYNUptRzRWS2lIaWNBVndIbTDSAXdBVV95cUxNOWlKTHp3M2pKNUFzbXpSQ0pHbEVKYk9PckFDbVpIQ0lCTlBVbHExbS0xWDJ1aF9BdlRfMkIxUEwzMUxlcURJb2p6LURJS18wZmNMVjNleVFzNmVTS08yT2dybUplS0FPdjc2b3J6M1RnaW4yRm5POA?oc=5": {
-      "title": "구미 5산단에 또 하나의 성장엔진..도레이첨단소재 신규 라인 준공 - 뉴스프리존",
-      "summary": "구미 5산단에 또 하나의 성장엔진..도레이첨단소재 신규 라인 준공 뉴스프리존",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fM1JMNlJISHlFSTVEeGx1UkFxZFc3ZkExLTU3bURicjNTclZRWll2U2tFSW8td3A0V3oyQUpORU5kRkJrQndSMk9SanVRTFVBYUdrR0xvakh5RnpGNE1fdDZYNUptRzRWS2lIaWNBVndIbTDSAXdBVV95cUxNOWlKTHp3M2pKNUFzbXpSQ0pHbEVKYk9PckFDbVpIQ0lCTlBVbHExbS0xWDJ1aF9BdlRfMkIxUEwzMUxlcURJb2p6LURJS18wZmNMVjNleVFzNmVTS08yT2dybUplS0FPdjc2b3J6M1RnaW4yRm5POA?oc=5",
-      "date": "Fri, 13 Nov 2026 00:17:23 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZHQldaTFZaNTRzSTVRSFJuQmNjZC13M3Z5MkV1T3VoZEVvOEFJOExRVFJVNWp5UVpDaFQ1Qjlia2NhS01xV3BqTE9JaE1xc0t6ci1PX3VYVG5sU0pjc0RCRjhRX0hJVVBmS3REbTBLYUxIRTJYZWhadTRHbTFSMkU0cnFoQQ?oc=5": {
-      "title": "캐나다 LNG 기여 본격화로 해외 사업 실적 이 개선!AI가 분석해주는 한국가스공사 (036460) 상승확률은? - 네이버 프리미엄콘텐츠",
-      "summary": "캐나다 LNG 기여 본격화로 해외 사업 실적 이 개선!AI가 분석해주는 한국가스공사 (036460) 상승확률은? 네이버 프리미엄콘텐츠",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkZHQldaTFZaNTRzSTVRSFJuQmNjZC13M3Z5MkV1T3VoZEVvOEFJOExRVFJVNWp5UVpDaFQ1Qjlia2NhS01xV3BqTE9JaE1xc0t6ci1PX3VYVG5sU0pjc0RCRjhRX0hJVVBmS3REbTBLYUxIRTJYZWhadTRHbTFSMkU0cnFoQQ?oc=5",
-      "date": "Fri, 13 Nov 2026 00:21:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://daily.hankooki.com/news/articleView.html?idxno=1424869": {
       "title": "예천군, 국립의대 신설 효과 키운다…도청신도시 활성화 총력",
       "summary": "예천군이 13일 중회의실에서 ' 경북 도청신도시 활성화 행정 실무협의체 실무팀장 회의'를 갖고 있다. 사진... 군은 국립의대 신설을 계기로 대학병원 건립 과 의료 인프라 확충을 뒷받침하고, 주거·문화·체육시설 등 정주...",
@@ -3070,6 +2975,71 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "http://www.metroseoul.co.kr/article/20261115500020": {
+      "title": "경북 도, 울릉군·한국공항공사·주민과 협의…진입로 200m 신설에 30억 원...",
+      "summary": "경북 도는 울릉공항 직원사택 진입로를 길이 200m, 폭 6m 규모로 신설하기로 주민들과 합의했다고 밝혔다. 사업비는 약 30억 원이며, 120세대 규모의 직원사택은 공항 개항 일정에 맞춰 건립 한다. 도는 12일 울릉군청에서...",
+      "url": "http://www.metroseoul.co.kr/article/20261115500020",
+      "date": "Sun, 15 Nov 2026 09:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.tf.co.kr/read/national/2388868.htm": {
+      "title": "경주시 공장 서 크레인 작업 중 60대 근로자 심정지…김천서는 주택 화재 ...",
+      "summary": "경주 외동읍 쇳덩이 운반 작업 중 크레인 고리에 맞아…전문소생술 후 병원 이송 김천 구성면 단독주택 보일러실 화재 경북 경주시와 김천시에서 산업 현장 안전사고와 주택 화재 가 잇따라 발생했다. 15일 소방당국에...",
+      "url": "https://news.tf.co.kr/read/national/2388868.htm",
+      "date": "Sun, 15 Nov 2026 09:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=731400": {
+      "title": "[Biz&Law] 에코프로 비엠, 日 양극재 특허 취소 불복소송 패소",
+      "summary": "에코프로 비엠이 일본 양극재 특허의 취소 결정에 불복한 소송에서 패소했다. 현지 법원은 관련 발명이 기존 기술에 포함된다며 6개 청구항에 대한 취소 결정을 유지했다. 지난달 8일(현지시간) 일본...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731400",
+      "date": "Sun, 15 Nov 2026 10:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRll2VmdYRHd5TzRGZ1NrLXVCUHdRUmJrZERkU2VneWRpRDkzU1d5RGpnM3FCUzJuS19vb05ZWjNMYjZhaGFJYU03R1JYaWtYWWRYZ2hSbmVTU2fSAVZBVV95cUxOTlRtQmVtV1dyQjVYTDFOcU9yejZpVlBRODBrSHdaR1BjaVh6NDA2TXBTN0E5UVduX1pSZmRsem9SbkdmX3VZYnBrVGhGVnBwNmFtLUpKZw?oc=5": {
+      "title": "경주시 공장서 크레인 작업 중 60대 근로자 심정지…김천서는 주택 화재로 1동 전소 - 더팩트",
+      "summary": "경주시 공장서 크레인 작업 중 60대 근로자 심정지…김천서는 주택 화재로 1동 전소 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRll2VmdYRHd5TzRGZ1NrLXVCUHdRUmJrZERkU2VneWRpRDkzU1d5RGpnM3FCUzJuS19vb05ZWjNMYjZhaGFJYU03R1JYaWtYWWRYZ2hSbmVTU2fSAVZBVV95cUxOTlRtQmVtV1dyQjVYTDFOcU9yejZpVlBRODBrSHdaR1BjaVh6NDA2TXBTN0E5UVduX1pSZmRsem9SbkdmX3VZYnBrVGhGVnBwNmFtLUpKZw?oc=5",
+      "date": "Sun, 15 Nov 2026 00:23:43 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTlFDMTlJNVNfZ19ob2RaUzFUZkRNVEFUUEdxZXlMQWVoWnh4YVc4Qzc3NTZDeUlxNGh4MUdTVFVrQm9TVDFDLXVaTXhHQ3h1aDJORUJLLV82aExNVzJpR3ZSeXp0SEtXSnFN?oc=5": {
+      "title": "영천 스타트업 8개사, 투자유치 발표 나선다 - CNB뉴스",
+      "summary": "영천 스타트업 8개사, 투자유치 발표 나선다 CNB뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTlFDMTlJNVNfZ19ob2RaUzFUZkRNVEFUUEdxZXlMQWVoWnh4YVc4Qzc3NTZDeUlxNGh4MUdTVFVrQm9TVDFDLXVaTXhHQ3h1aDJORUJLLV82aExNVzJpR3ZSeXp0SEtXSnFN?oc=5",
+      "date": "Sun, 15 Nov 2026 00:13:38 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -3083,11 +3053,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-15",
   "sent_articles": [
-    {
-      "url": "https://www.kbmaeil.com/article/20261101500094",
-      "title": "에코프로 , 정기 임원 인사 단행...부사장 3명·상무 11명 승진",
-      "date": "Sun, 01 Nov 2026 09:22:00 +0900"
-    },
     {
       "url": "https://www.newsis.com/view/NISX20261101_0003849634",
       "title": "포스코 노조, 7일 임금교섭 잠정합의안 찬반투표",
@@ -7797,6 +7762,26 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5",
       "title": "경상북도, 울릉공항 직원사택 진입로 신설 합의 `개항 준비 협력 강화` - CBN뉴스",
       "date": "Sat, 14 Nov 2026 23:15:40 GMT"
+    },
+    {
+      "url": "https://news.tf.co.kr/read/national/2388868.htm",
+      "title": "경주시 공장 서 크레인 작업 중 60대 근로자 심정지…김천서는 주택 화재 ...",
+      "date": "Sun, 15 Nov 2026 09:24:00 +0900"
+    },
+    {
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731400",
+      "title": "[Biz&Law] 에코프로 비엠, 日 양극재 특허 취소 불복소송 패소",
+      "date": "Sun, 15 Nov 2026 10:00:00 +0900"
+    },
+    {
+      "url": "http://www.metroseoul.co.kr/article/20261115500020",
+      "title": "경북 도, 울릉군·한국공항공사·주민과 협의…진입로 200m 신설에 30억 원...",
+      "date": "Sun, 15 Nov 2026 09:24:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTlFDMTlJNVNfZ19ob2RaUzFUZkRNVEFUUEdxZXlMQWVoWnh4YVc4Qzc3NTZDeUlxNGh4MUdTVFVrQm9TVDFDLXVaTXhHQ3h1aDJORUJLLV82aExNVzJpR3ZSeXp0SEtXSnFN?oc=5",
+      "title": "영천 스타트업 8개사, 투자유치 발표 나선다 - CNB뉴스",
+      "date": "Sun, 15 Nov 2026 00:13:38 GMT"
     }
   ],
   "brief_articles": [
@@ -7818,7 +7803,8 @@
     "2026-11-11": 11,
     "2026-11-12": 13,
     "2026-11-13": 14,
-    "2026-11-14": 1
+    "2026-11-14": 1,
+    "2026-11-15": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
