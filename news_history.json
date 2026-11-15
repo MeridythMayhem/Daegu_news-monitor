@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=563940": "2026-11-01T15:02:18.772051+09:00",
     "https://www.dkilbo.com/news/articleView.html?idxno=559171": "2026-11-01T16:02:16.094984+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089156": "2026-11-01T16:02:16.094984+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=727401": "2026-11-01T16:02:16.094984+09:00",
@@ -956,10 +955,14 @@
     "https://www.wikitree.co.kr/articles/1174730": "2026-11-15T14:02:10.953087+09:00",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5": "2026-11-15T14:02:10.953087+09:00",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWpIY0RVcy1LcG55MGdJRGRwT0Y2emRwV3V2Y05NdlFUREVkMVdSclI4MlYwQVY3RXI3YWhJd19QSndqbmlva0E1XzVUMGlXTmw4ejRjaTBFdzJjYUtkMUdxSUF2TzZUX0tVcVI0SGc?oc=5": "2026-11-15T15:01:45.227004+09:00",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHZ0LXdiWkRJN2NrQjU1TmZNekktcjVYTGlQdGtIU0JyclF6QmRnZzZLY29hdkVXMkNpQW5jWnFmQmhGc1daVk5jWUlGS29reV9GalJXWi1qX183VEVjVjdsVlZIdw?oc=5": "2026-11-15T15:01:45.227004+09:00"
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHZ0LXdiWkRJN2NrQjU1TmZNekktcjVYTGlQdGtIU0JyclF6QmRnZzZLY29hdkVXMkNpQW5jWnFmQmhGc1daVk5jWUlGS29reV9GalJXWi1qX183VEVjVjdsVlZIdw?oc=5": "2026-11-15T15:01:45.227004+09:00",
+    "https://www.g-enews.com/view.php?ud=202611151533415537fbbec65dfb_1": "2026-11-15T16:01:58.537010+09:00",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2VrNlZpVHVqNEN5andxY2cwSXBsTG5jYm1UX08yczhqcGxaV0xuOHpOYl95QWd4MW1ZeEh6OEFvblhjbjBseERwamduRFJEZVc0R2JKVGNsM2ZMMlBiOWJIbGdZM18xcndPZ2d1NmhMVUpnZmctNXozeGd0TlA5UExHODRKU21K?oc=5": "2026-11-15T16:01:58.537010+09:00",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=903122": "2026-11-15T16:01:58.537010+09:00",
+    "https://www.hidomin.com/news/articleView.html?idxno=729348": "2026-11-15T16:01:58.537010+09:00",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083527": "2026-11-15T16:01:58.537010+09:00"
   },
   "titles": {
-    "55ee3bee117ce322b59ac1cd123130ac3127c4e574809f59023ecdcbe9148248": "2026-11-01T15:02:18.772051+09:00",
     "f84dda66f7de91a36a24acadd214b78bef6904d46a0f6db86807902a447679c3": "2026-11-01T16:02:16.094984+09:00",
     "6ba1c25c21152de07d138ee68248cbc226edf10ade33e87a59bea1cce9abee6d": "2026-11-01T16:02:16.094984+09:00",
     "7587717e9dd6da2fa9ed918c24d79262cdae8b761d0fa4a196269eb536ddf61f": "2026-11-01T16:02:16.094984+09:00",
@@ -1915,7 +1918,12 @@
     "295ce80cb0bbece1aafd28a5c61d5747a2bb77877049e9c8f47a3b647e47a2e9": "2026-11-15T14:02:10.953087+09:00",
     "2819b83c5f72cee386403a4d510877f0d26d1d28117bc9e5a4fda2c5a745af52": "2026-11-15T14:02:10.953087+09:00",
     "1c64573603165bdce8208a456f417dcd8d82c1d9392c5210c94020b21f38deb5": "2026-11-15T15:01:45.227004+09:00",
-    "d6f1f1abbded7cc96e8b30f975a5d1021fd839e15f3ec62e9a487c046f1d1755": "2026-11-15T15:01:45.227004+09:00"
+    "d6f1f1abbded7cc96e8b30f975a5d1021fd839e15f3ec62e9a487c046f1d1755": "2026-11-15T15:01:45.227004+09:00",
+    "287ae75608db417742c1d64a8a6c7e14e95c14b26e08cbbcbf37f4c0c23e6fc5": "2026-11-15T16:01:58.537010+09:00",
+    "c57cce2b61c5a6b9735d99dcae1e8eb57713fd075120a04b920875620e5b81be": "2026-11-15T16:01:58.537010+09:00",
+    "e4e9d83065fcadf05c853f45efa65bd98b847228f94484cb53bd9e0c6335fc82": "2026-11-15T16:01:58.537010+09:00",
+    "ae87c790135b02d5397f8ff51e8f1ebab27e3e9d4a0c603d4a23e8dbd09992b6": "2026-11-15T16:01:58.537010+09:00",
+    "3d2d16f2bd8cf52a035ddb50a44522ce01af2147403aa0cbf807fe77cc71bc92": "2026-11-15T16:01:58.537010+09:00"
   },
   "pending": {},
   "ai": {
@@ -1930,136 +1938,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.pressian.com/pages/articles/2026111314194586889": {
-      "title": "[영주 골프장 표류①·이산면 지동리] MOU는 맺었지만…과도한 규제로 ...",
-      "summary": "투자 하겠나” 경북 영주에서 추진 중인 골프장 3개 사업은 모두 난항을 겪고 있는 와중에 최근 인근 지역 봉화군에는 골프장 조성 소식이 전해지면서 영주시의 행정 대응이 도마에 올랐다. 특히 영주시와 투자 업무 협약 을...",
-      "url": "https://www.pressian.com/pages/articles/2026111314194586889",
-      "date": "Fri, 13 Nov 2026 15:43:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.breaknews.com/1250811": {
-      "title": "경북과학대·칠곡군, 수출형 참외 재배 시범단지 조성",
-      "summary": "On the 11th, Gyeongbuk Science College announced that it had signed a memorandum of understanding ( MOU ) at... technologies that provide tangible benefits to farmers.\" 원본 기사 보기:브레이크뉴스 대구 경북",
-      "url": "http://www.breaknews.com/1250811",
-      "date": "Fri, 13 Nov 2026 15:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://fpn119.co.kr/259428": {
-      "title": "대구 동부소방서, 겨울철 이시아폴리스 산업단지 화재 예방 캠페인",
-      "summary": "곽시영 대구 동부소방서장은 “겨울철에는 난방기기 사용이 늘면서 공장 화재 위험도 함께 높아지는 만큼 산업단지 관계자와 근로자 모두가 화재 예방 경각심을 갖는 게 중요하다”며 “앞으로도 산업단지 현장을 직접...",
-      "url": "http://fpn119.co.kr/259428",
-      "date": "Fri, 13 Nov 2026 15:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mediapen.com/news/view/1137372": {
-      "title": "체코 원전 시공사 교체 후폭풍…국회 청문회서 '템퍼링 의혹' 따지나",
-      "summary": "한국수력원자력 (한수원)과 대우건설 컨소시엄 간 시공계약 협상이 결렬된 배경을 놓고 의혹과 반박이 맞서는 가운데 국회 산업통상자원중소벤처기업위원회에서 청문회 개최 필요성이 제기됐다. 청문회가 성사되면 계약...",
-      "url": "https://www.mediapen.com/news/view/1137372",
-      "date": "Fri, 13 Nov 2026 15:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.segye.com/newsView/20261113510891?OutUrl=naver": {
-      "title": "“특정 업체 밀어주기 의혹”… 국회, ‘체코 원전 시공사 교체 논란’...",
-      "summary": "26조원 규모 원전사업 협상 결렬 경위 특정 업체 밀어주기 의혹 도마 위 대우건설 “수천억원 손실 감수” 한수원 “계약조건 이견” 한국수력원자력 이 체코 두코바니 신규 원전 건설사업의 시공사를 교체하기로 한...",
-      "url": "https://www.segye.com/newsView/20261113510891?OutUrl=naver",
-      "date": "Fri, 13 Nov 2026 15:37:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.huffingtonpost.kr/article/262064": {
-      "title": "한수원 체코 발주사 만나 두코바니 원전 '2029년 착공' 일정 재확인, 국...",
-      "summary": "한국수력원자력 (한수원)이 체코 발주사 경영진과의 회의 사실을 알리며 팀코리아의 두코바니 원전사업 일정이 차질 없이 진행되고 있다고 강조했다. 시공사 교체를 둘러싼 공방은 여전히 이어지고 있다. 대우건설과...",
-      "url": "https://www.huffingtonpost.kr/article/262064",
-      "date": "Fri, 13 Nov 2026 15:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.iminju.net/news/articleView.html?idxno=172458": {
-      "title": "체코 원전 시공사 교체 논란 국회로…'밀어주기' 의혹 청문회 추진",
-      "summary": "민주신문=이한호 기자｜ 한국수력원자력 의 체코 두코바니 신규 원전 시공사 교체를 둘러싼 논란이 국회로 확대되고 있다. 기존 시공사와의 계약 협상이 결렬된 배경에 특정 건설사를 밀어주려는 의도가 있었다는 의혹이...",
-      "url": "http://www.iminju.net/news/articleView.html?idxno=172458",
-      "date": "Fri, 13 Nov 2026 15:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://biz.heraldcorp.com/article/10936501?ref=naver": {
-      "title": "‘체코 원전’ 시공사 교체 논란, 청문회 가나…템퍼링 의혹·공사비 쟁...",
-      "summary": "한국수력원자력 (한수원)이 특정 업체로 시공사를 교체하기 위해 시공계약 협상을 의도적으로 결렬시켰다는 의혹이 제기된 만큼 청문회가 개최될 경우, 이른바 ‘템퍼링’ 여부가 핵심 쟁점으로 떠오를 전망이다. 13일...",
-      "url": "https://biz.heraldcorp.com/article/10936501?ref=naver",
-      "date": "Fri, 13 Nov 2026 15:13:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE50VUMwUG1LRkJyVV9zWVZlUFUwR2dNSTlkMkljRUU0VndiVVRtUmxhYlhPUkNMVFpQS3NoeW8tdDlBR1oyWTdZell3TGw2UmRhbHpyelphdGZDSVp1VXpTdkFrM0pwNEhtSmpR?oc=5": {
-      "title": "[영주 골프장 표류①·이산면 지동리] MOU는 맺었지만…과도한 규제로 입안도 못해 - 프레시안",
-      "summary": "[영주 골프장 표류①·이산면 지동리] MOU는 맺었지만…과도한 규제로 입안도 못해 프레시안",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50VUMwUG1LRkJyVV9zWVZlUFUwR2dNSTlkMkljRUU0VndiVVRtUmxhYlhPUkNMVFpQS3NoeW8tdDlBR1oyWTdZell3TGw2UmRhbHpyelphdGZDSVp1VXpTdkFrM0pwNEhtSmpR?oc=5",
-      "date": "Fri, 13 Nov 2026 06:42:37 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLWk5ncFJhaEItVDRvblJ2VFBrWDUyWHhwOXQ4MmNCR1FFdkZYRGJSN2pha2tQNXZWNTJGMGYyT0RmR21XOElCaVg5NUlIeWxSLW5lLW5jN05qSUlpVnVLUHNqOFJGZw?oc=5": {
-      "title": "김천시, 공무원 법률 AI 활용으로 행정소송 대응능력 강화 - 데일리대구경북뉴스",
-      "summary": "김천시, 공무원 법률 AI 활용으로 행정소송 대응능력 강화 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLWk5ncFJhaEItVDRvblJ2VFBrWDUyWHhwOXQ4MmNCR1FFdkZYRGJSN2pha2tQNXZWNTJGMGYyT0RmR21XOElCaVg5NUlIeWxSLW5lLW5jN05qSUlpVnVLUHNqOFJGZw?oc=5",
-      "date": "Fri, 13 Nov 2026 06:16:11 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=565299": {
       "title": "대구 동부소방서, 이시아폴리스 산업단지서 겨울철 화재 예방 캠페인",
       "summary": "대구 동부소방서는 13일 동구 이시아폴리스 산업단지 일원에서 겨울철 화재 예방 캠페인을 실시했다. 동부소방 제공 대구 동부소방서는 13일 동구 이시아폴리스 산업단지 일원에서 겨울철 화재 예방 캠페인을 실시했다. 이번...",
@@ -2865,6 +2743,71 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=729348": {
+      "title": "김천상공회의소 창립 120주년…지역경제 도약·상생 다짐",
+      "summary": "이날 행사에는 안용우 김천상공회의소 회장을 비롯해 조현애 김천시 부시장, 박근혜 김천시의회 부의장과 시의원, 강민성 김천 세무서 장, 윤옥현 김천대학교 총장, 이은직 경북 보건대학교 총장 등 지역 기관·단체장과...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=729348",
+      "date": "Sun, 15 Nov 2026 15:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083527": {
+      "title": "상주 공성농협, 햅쌀 '미소진품' 호주 수출 …누적 1억2200만원",
+      "summary": "경북 상주에서 생산된 고품질 쌀이 호주 시장에서 꾸준히 판매되며 해외 판로를 넓혀가고 있다. 상주시... 해외시장 개척과 수출 경로 다변화를 지원하고 지역 농산물의 브랜드 가치를 높여나갈 방침이다. [신아 일보 ] 상주",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083527",
+      "date": "Sun, 15 Nov 2026 15:16:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
+      "filter_version": 17
+    },
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=903122": {
+      "title": "에코프로 , 포항에 3.3조 투자…배터리 소재 생산·재활용 체계 공개",
+      "summary": "에코프로 가 약 3조3000억원을 들여 포항에 구축한 배터리 소재 생산·재활용 체계를 공개했다. 주력인 하이니켈 양극재와 함께 중저가 시장을 겨냥한 소재, 전고체 배터리용 고체 전해질 등 차세대 기술도 소개했다....",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903122",
+      "date": "Sun, 15 Nov 2026 15:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.g-enews.com/view.php?ud=202611151533415537fbbec65dfb_1": {
+      "title": "1520억 부채 놓고 파산한 포스코 브라질 건설 법인, 모회사 책임 소송전...",
+      "summary": "브라질 현지 건설 법인 포스코 엔지니어링 & 건설 브라질이 2025년 약 6억 4400만 헤알(약 1520억 원)의 부채를... 세아라주 법원이 2026년 9월 글로벌 모회사 포스코 홀딩스를 관련 소송 절차에 포함하도록 명령하면서...",
+      "url": "https://www.g-enews.com/view.php?ud=202611151533415537fbbec65dfb_1",
+      "date": "Sun, 15 Nov 2026 15:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2VrNlZpVHVqNEN5andxY2cwSXBsTG5jYm1UX08yczhqcGxaV0xuOHpOYl95QWd4MW1ZeEh6OEFvblhjbjBseERwamduRFJEZVc0R2JKVGNsM2ZMMlBiOWJIbGdZM18xcndPZ2d1NmhMVUpnZmctNXozeGd0TlA5UExHODRKU21K?oc=5": {
+      "title": "1520억 부채 놓고 파산한 포스코 브라질 건설 법인, 모회사 책임 소송전으로 번진 속사정 - 글로벌이코노믹",
+      "summary": "1520억 부채 놓고 파산한 포스코 브라질 건설 법인, 모회사 책임 소송전으로 번진 속사정 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2VrNlZpVHVqNEN5andxY2cwSXBsTG5jYm1UX08yczhqcGxaV0xuOHpOYl95QWd4MW1ZeEh6OEFvblhjbjBseERwamduRFJEZVc0R2JKVGNsM2ZMMlBiOWJIbGdZM18xcndPZ2d1NmhMVUpnZmctNXozeGd0TlA5UExHODRKU21K?oc=5",
+      "date": "Sun, 15 Nov 2026 06:35:55 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -2878,21 +2821,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-15",
   "sent_articles": [
-    {
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=559171",
-      "title": "24 조원대 투자 유치' 구미시… 반도체·로봇,이차전지등 첨단산업 경제...",
-      "date": "Sun, 01 Nov 2026 15:56:00 +0900"
-    },
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089156",
-      "title": "의성, 바이오·푸드테크 거점 시동…416억 원 산업단지 준공",
-      "date": "Sun, 01 Nov 2026 15:50:00 +0900"
-    },
-    {
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=727401",
-      "title": "정원석 포항 시의원 \"포엑스 건립 보다 운영이 중요… 포항 형 전략 서둘러...",
-      "date": "Sun, 01 Nov 2026 15:02:00 +0900"
-    },
     {
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089183",
       "title": "경북 , 미래산업 투자망 넓힌다…구미 3500억 영구자석 투자협약",
@@ -7657,6 +7585,31 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHZ0LXdiWkRJN2NrQjU1TmZNekktcjVYTGlQdGtIU0JyclF6QmRnZzZLY29hdkVXMkNpQW5jWnFmQmhGc1daVk5jWUlGS29reV9GalJXWi1qX183VEVjVjdsVlZIdw?oc=5",
       "title": "박형수 의원, 대구경북 통합신공항 ‘조기 착공’ 해법 모색 - 데일리대구경북뉴스",
       "date": "Sun, 15 Nov 2026 05:30:05 GMT"
+    },
+    {
+      "url": "https://www.g-enews.com/view.php?ud=202611151533415537fbbec65dfb_1",
+      "title": "1520억 부채 놓고 파산한 포스코 브라질 건설 법인, 모회사 책임 소송전...",
+      "date": "Sun, 15 Nov 2026 15:36:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2VrNlZpVHVqNEN5andxY2cwSXBsTG5jYm1UX08yczhqcGxaV0xuOHpOYl95QWd4MW1ZeEh6OEFvblhjbjBseERwamduRFJEZVc0R2JKVGNsM2ZMMlBiOWJIbGdZM18xcndPZ2d1NmhMVUpnZmctNXozeGd0TlA5UExHODRKU21K?oc=5",
+      "title": "1520억 부채 놓고 파산한 포스코 브라질 건설 법인, 모회사 책임 소송전으로 번진 속사정 - 글로벌이코노믹",
+      "date": "Sun, 15 Nov 2026 06:35:55 GMT"
+    },
+    {
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903122",
+      "title": "에코프로 , 포항에 3.3조 투자…배터리 소재 생산·재활용 체계 공개",
+      "date": "Sun, 15 Nov 2026 15:26:00 +0900"
+    },
+    {
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=729348",
+      "title": "김천상공회의소 창립 120주년…지역경제 도약·상생 다짐",
+      "date": "Sun, 15 Nov 2026 15:18:00 +0900"
+    },
+    {
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083527",
+      "title": "상주 공성농협, 햅쌀 '미소진품' 호주 수출 …누적 1억2200만원",
+      "date": "Sun, 15 Nov 2026 15:16:00 +0900"
     }
   ],
   "brief_articles": [
