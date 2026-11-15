@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.ksmnews.co.kr/news/view.php?idx=627862": "2026-11-01T21:02:16.179304+09:00",
     "https://www.news1.kr/photos/8190951": "2026-11-02T09:02:42.907352+09:00",
     "https://news.tf.co.kr/read/national/2383508.htm": "2026-11-02T10:03:02.674354+09:00",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078490": "2026-11-02T10:03:02.674354+09:00",
@@ -968,10 +967,10 @@
     "https://www.dkilbo.com/news/articleView.html?idxno=560799": "2026-11-15T18:01:57.200096+09:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBzUzJVYm4yOHFFcWkyTzNESm1KcUxydk1IZzFzaDc3YS01OGkxcktNNnBsMlQ5Q3hpdzdYNUZSeUdwY3Q2QjJaWUNJc1RIYnA0dzJvS19rb3k4cU9jclRlQnhVMzRrUmd4NXFNODcwSk1Qdw?oc=5": "2026-11-15T19:02:01.214787+09:00",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzblFQNENPV1FaOEJuQVloOWxkTlNnVE1BRnVyS3laUE56b2tFSk5ST2swcmVJQV9HNnNRTktRMWZkdzBqQ1RNUzlGa0ZWZ19qNVpwM1ZLNzdyeFp2NnRJMFRB?oc=5": "2026-11-15T20:01:45.992816+09:00",
-    "https://www.cstimes.com/news/articleView.html?idxno=727925": "2026-11-15T21:01:44.929001+09:00"
+    "https://www.cstimes.com/news/articleView.html?idxno=727925": "2026-11-15T21:01:44.929001+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2018610": "2026-11-15T22:02:13.096493+09:00"
   },
   "titles": {
-    "2cbc00e3c1e63521466849a835e469ba3fc1e27e1a4db4be0f812bbcb4338677": "2026-11-01T21:02:16.179304+09:00",
     "8bd78970b2a93357bf3eecb89c71ca72ec68955f67b7476b9c404ec3afba7251": "2026-11-02T09:02:42.907352+09:00",
     "cfd314725a056027c31a7917f751444b69bbceafefcdcfda40e695ae64d04ddd": "2026-11-02T10:03:02.674354+09:00",
     "4fbe6879738ef16440ebfc408e83436cea5943543b73373c5499bc45ba104129": "2026-11-02T10:03:02.674354+09:00",
@@ -1939,7 +1938,8 @@
     "322c083cbe3f9a7b02a7af7485a02d6a325d26c0877b79694527dab2bed12a7a": "2026-11-15T18:01:57.200096+09:00",
     "9f1a5ca93a36528988a719a77e4fb2d1fee72427009f28725e8987485fc16d74": "2026-11-15T19:02:01.214787+09:00",
     "2f1489b9652f14109ab01dbf5925f9b263d0153b8b3d0f77f98650581922f98b": "2026-11-15T20:01:45.992816+09:00",
-    "2c572734ac757e214ba5e6081d74f6637fcff2adcec0af8289c3b3d96a7ca0ad": "2026-11-15T21:01:44.929001+09:00"
+    "2c572734ac757e214ba5e6081d74f6637fcff2adcec0af8289c3b3d96a7ca0ad": "2026-11-15T21:01:44.929001+09:00",
+    "d22f19cf83415a85f9ad9861f7f8cf8dae2dc076b7df94a6ec03131436633dbe": "2026-11-15T22:02:13.096493+09:00"
   },
   "pending": {},
   "ai": {
@@ -1954,45 +1954,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721": {
-      "title": "경북 행복재단 연구원 사망 산재 인정…노조, 책임자 처벌 촉구",
-      "summary": "경북 도에는 재단에 대한 특별감사를 통해 관리·감독 책임을 규명하고 관련 책임자를 문책할 것을 촉구했다. 아울러 산재 은폐 시도 의혹 에 대한 조사와 유족에 대한 공식 사과, 정당한 보상 및 노동조합과 유족이 참여하는...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721",
-      "date": "Fri, 13 Nov 2026 21:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.kbsm.net/news/view.php?idx=541629": {
-      "title": "구미시, 지역경제협의회 출범",
-      "summary": "이날 회의에는 정성현 구미시 부시장을 비롯해 경북 도 경제자문관, 한국 산업단지 공단 경북 지역본부장, KOTRA 대구경북 지역본부장 등 16개 기관 관계자와 전문가 20여 명이 참석했다. 경북 대 경제통상학부 서재현 교수는...",
-      "url": "https://www.kbsm.net/news/view.php?idx=541629",
-      "date": "Fri, 13 Nov 2026 21:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5": {
-      "title": "Hyundai explores investment in Posco graphite project in Vietnam - electrive.com",
-      "summary": "Hyundai explores investment in Posco graphite project in Vietnam electrive.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5",
-      "date": "Fri, 13 Nov 2026 12:12:37 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712669&ref=A": {
       "title": "경북 동부 건설현장 추락 사망 늘어…올해 8건",
       "summary": "경북 동부지역 공사장에서 추락으로 인한 중대재해 사망사고가 지난해보다 늘었습니다. 고용노동부 포항 지청에 따르면 포항 과 경주, 영덕 등 경북 동부 5개 시군의 공사장 추락 사망사고는' 지난해 5건에서 올해 8건으로...",
@@ -2693,6 +2654,19 @@
       "basis": "관심기업: 한국수력원자력",
       "category": "경제·투자",
       "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2018610": {
+      "title": "대구 서구, 산업단지 대기·폐수 배출사업장 불시 점검해 3곳 적발",
+      "summary": "매일 일보 = 이인수 기자 | 대구 서구청이 대구 시와 산업단지 내 대기오염물질·폐수 배출사업장 30곳을 불시 합동점검해 환경 관련 법규 위반 사업장 3곳을 적발했다. 합동점검은 지난 10일부터 11일까지 이틀간...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2018610",
+      "date": "Sun, 15 Nov 2026 21:24:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
       "filter_version": 17
     }
   },
@@ -7546,6 +7520,11 @@
       "url": "https://www.cstimes.com/news/articleView.html?idxno=727925",
       "title": "2029년 11월 착공 목표…한수원, 두코바니 원전 프로젝트 이행 현황 점검",
       "date": "Sun, 15 Nov 2026 20:26:00 +0900"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2018610",
+      "title": "대구 서구, 산업단지 대기·폐수 배출사업장 불시 점검해 3곳 적발",
+      "date": "Sun, 15 Nov 2026 21:24:00 +0900"
     }
   ],
   "brief_articles": [
