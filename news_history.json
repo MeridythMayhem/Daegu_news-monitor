@@ -962,7 +962,11 @@
     "https://www.joongang.co.kr/article/25478761": "2026-11-15T17:01:53.307022+09:00",
     "https://www.seoul.co.kr/news/society/2026/11/15/20261115500083?wlog_tag3=naver": "2026-11-15T17:01:53.307022+09:00",
     "https://www.g-enews.com/view.php?ud=202611151006514496112616b072_1": "2026-11-15T17:01:53.307022+09:00",
-    "https://www.mk.co.kr/article/12209235": "2026-11-15T17:01:53.307022+09:00"
+    "https://www.mk.co.kr/article/12209235": "2026-11-15T17:01:53.307022+09:00",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005656": "2026-11-15T18:01:57.200096+09:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHV1UwTTF5MHZVbHZEdEJ2TUh1VnRxa0Jzc21JZW92ZjFENk5EX0pmWTNRb1hUTHZmUEF6eHV0TWVoS01FejhidXBGclZIYU9XMGlzYm1jV0I2UVRhd0tRblBfbDVPN2hKS2VzSml3?oc=5": "2026-11-15T18:01:57.200096+09:00",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13RV9STWxQRTIybFdWaFoyeVdfNzBUR0liLWhjcDcyalpQNW5SYWxhYk5UN1lpMzladEQwVGoxc004WEZRRkhWeC1rVGl0OS1LSmowTEdPcng?oc=5": "2026-11-15T18:01:57.200096+09:00",
+    "https://www.dkilbo.com/news/articleView.html?idxno=560799": "2026-11-15T18:01:57.200096+09:00"
   },
   "titles": {
     "d9b7f06ca06f05dbde9b1dca7effed02e8ed729c61d0263015ed4a03a787c1f6": "2026-11-01T18:02:15.081818+09:00",
@@ -1927,7 +1931,11 @@
     "80d1bb0f719361bd352f00626b5d132b6411ef8ef3cc86b6b782e3a851f7d30d": "2026-11-15T17:01:53.307022+09:00",
     "1498da4018424098359c814cf42743e8f95d381aff20718088a711331aaa0621": "2026-11-15T17:01:53.307022+09:00",
     "7d989a8cc8e9a2268e3122ae36936a57ade68199ecea284491fa878e8ec55faf": "2026-11-15T17:01:53.307022+09:00",
-    "27ba227742411781d97bb5d807c87c866fe938aef7a8cd9df1edbd8a4ea10863": "2026-11-15T17:01:53.307022+09:00"
+    "27ba227742411781d97bb5d807c87c866fe938aef7a8cd9df1edbd8a4ea10863": "2026-11-15T17:01:53.307022+09:00",
+    "e78d9490718e84a7c527ba9baa34ff8f6def0cd3686e4a0ed63714576798646f": "2026-11-15T18:01:57.200096+09:00",
+    "d166c429c2e77b22adec549eb80a4a4ec957d47dd65522040290a3e13c93e62b": "2026-11-15T18:01:57.200096+09:00",
+    "8655ba3dd5bc886d0c1b980f2d5273632fe0986b081fcb73d5703d08ad87e7db": "2026-11-15T18:01:57.200096+09:00",
+    "322c083cbe3f9a7b02a7af7485a02d6a325d26c0877b79694527dab2bed12a7a": "2026-11-15T18:01:57.200096+09:00"
   },
   "pending": {},
   "ai": {
@@ -1938,88 +1946,10 @@
     "2026-11-12": 20,
     "2026-11-13": 26,
     "2026-11-14": 1,
-    "2026-11-15": 2
+    "2026-11-15": 3
   },
   "cursor": 0,
   "archive": {
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194624": {
-      "title": "포스코 DX, 대형 DX 사업 매출 확대로 4분기 수익성 개선 노린다",
-      "summary": "포스코 DX가 인공지능(AI)과 로봇 자동화 사업을 중심으로 신규 수주를 늘리고 있다. 3분기 IT 부문의... 13일 금융감독원 전자공시시스템에 따르면 포스코 DX의 올해 3분기 연결 기준 매출은 2652억원으로 전년 동기 대비...",
-      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194624",
-      "date": "Fri, 13 Nov 2026 17:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.bloter.net/news/articleView.html?idxno=678519": {
-      "title": "CJ제일제당 전분당 매각 '공회전'… 담합 과징금에 본입찰 일정 표류",
-      "summary": "공정위는 4개사가 2016년 9월부터 지난해 6월까지 8년9개월간 포스코 등 7개 대형 실수요처가 발주한 전분·전분당 구매 입찰에서 △낙찰 예정자 △투찰 가격 △물량 등을 사전에 합의해 낙찰물량을 배분한 혐의를...",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=678519",
-      "date": "Fri, 13 Nov 2026 17:25:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=768265": {
-      "title": "한수원, 체코 두코바니 원전 사업 점검...\"2029년 11월 착공 계획대로\"",
-      "summary": "한국수력원자력 (사장 김회천, 이하 한수원)이 체코 두코바니 신규 원전 건설 사업의 진행 상황을 점검하기 위해 발주사 측과 머리를 맞댔다. 한수원은 지난 9일부터 12일까지 서울 한수원 방사선보건원에서 체코...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768265",
-      "date": "Fri, 13 Nov 2026 17:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.joongang.co.kr/article/25478435": {
-      "title": "‘체코 원전 시공사 교체 논란’ 지속...한수원 청문회 열리나",
-      "summary": "한국수력원자력 (한수원)이 체코 두코바니 신규 원전 건설사업의 시공사 교체를 추진하면서 ‘특정 업체 밀어주기’ 아니냐는 의혹이 불거지자, 청문회를 통해 진상을 밝혀야 한다는 목소리가 나온다. 13일 국회...",
-      "url": "https://www.joongang.co.kr/article/25478435",
-      "date": "Fri, 13 Nov 2026 17:19:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://daily.hankooki.com/news/articleView.html?idxno=1425088": {
-      "title": "한수원 \"체코 원전 프로젝트, 2029년 11월 착공 이상 무\"",
-      "summary": "한국수력원자력 은 지난 9일부터 12일까지 서울 중림동 방사선보건원에서 체코 발주사인 EDU II와 프로젝트 합동 점검회의를 개최했다. ⓒ 한국수력원자력 제공 시공을 맡았던 대우건설과의 갈등으로 프로젝트 순항...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425088",
-      "date": "Fri, 13 Nov 2026 17:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451978": {
-      "title": "한수원 체코 두코바니 원전 진행 상황 발주사와 합동 점검, 2029년 착공 ...",
-      "summary": "체코 측 관계자 30여 명과 팀코리아 관계자 70여 명이 11일 서울 중구 한국수력원자력 방사선보건원에서 체코 두코바니 원전 사업 합동 프로젝트 점검 회의에 참석한 뒤 기념사진을 찍고 있다. 한국수력원자력 ...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451978",
-      "date": "Fri, 13 Nov 2026 17:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177": {
       "title": "경북 테크노파크, 코이카 공적개발원조 사업 2건 연속 수주 및 수행",
       "summary": "경북 TP 우즈베키스탄 IT Park MoU 체결 기념사진. 사진= 경북 테크노파크 제공 | 경산=한스경제 조필국 | 경북 테크노파크가 코이카(KOICA·한국국제협력단)의 공적개발원조(ODA) 사업 2건을 수주했다. 이번에 확보한 사업비는...",
@@ -2747,6 +2677,58 @@
       "category": "세무 조사·혐의 관련",
       "priority": 100,
       "filter_version": 17
+    },
+    "https://www.dkilbo.com/news/articleView.html?idxno=560799": {
+      "title": "대구경북 통합신공항 조기 착공 해법 찾는다…국가 재정지원이 관건",
+      "summary": "포스코 이앤씨와 현대건설 관계자들은 건설경기 침체와 금융기관의 프로젝트파이낸싱(PF) 한계 등을 고려할 때 현재 여건에서 SPC 구성이 사실상 어렵다는 진단을 내놨다. 대구시 역시 기부 대 양여 방식의 한계를 지적하며...",
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=560799",
+      "date": "Sun, 15 Nov 2026 17:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005656": {
+      "title": "'원팀 수출' 맞춰 전략 손보는 한수원…2040 경영계획 수립 착수",
+      "summary": "아시아투데이 배석원 기자 = 한국수력원자력 이 원전 수출부터 양수·재생에너지까지 주요 사업의 중장기 전략을 재정비한다. 기존 한국전력과 한수원이 대상국을 나눠 맡던 원전 수출 국가분담제에서 '원팀 수출체계'로...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005656",
+      "date": "Sun, 15 Nov 2026 17:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13RV9STWxQRTIybFdWaFoyeVdfNzBUR0liLWhjcDcyalpQNW5SYWxhYk5UN1lpMzladEQwVGoxc004WEZRRkhWeC1rVGl0OS1LSmowTEdPcng?oc=5": {
+      "title": "울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약(MOU)체결 - 신경북뉴스",
+      "summary": "울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약(MOU)체결 신경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13RV9STWxQRTIybFdWaFoyeVdfNzBUR0liLWhjcDcyalpQNW5SYWxhYk5UN1lpMzladEQwVGoxc004WEZRRkhWeC1rVGl0OS1LSmowTEdPcng?oc=5",
+      "date": "Sun, 15 Nov 2026 08:10:41 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHV1UwTTF5MHZVbHZEdEJ2TUh1VnRxa0Jzc21JZW92ZjFENk5EX0pmWTNRb1hUTHZmUEF6eHV0TWVoS01FejhidXBGclZIYU9XMGlzYm1jV0I2UVRhd0tRblBfbDVPN2hKS2VzSml3?oc=5": {
+      "title": "‘원팀 수출’ 맞춰 전략 손보는 한수원…2040 경영계획 수립 착수 - 아시아투데이",
+      "summary": "‘원팀 수출’ 맞춰 전략 손보는 한수원…2040 경영계획 수립 착수 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHV1UwTTF5MHZVbHZEdEJ2TUh1VnRxa0Jzc21JZW92ZjFENk5EX0pmWTNRb1hUTHZmUEF6eHV0TWVoS01FejhidXBGclZIYU9XMGlzYm1jV0I2UVRhd0tRblBfbDVPN2hKS2VzSml3?oc=5",
+      "date": "Sun, 15 Nov 2026 08:23:08 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -2760,11 +2742,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-15",
   "sent_articles": [
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089183",
-      "title": "경북 , 미래산업 투자망 넓힌다…구미 3500억 영구자석 투자협약",
-      "date": "Sun, 01 Nov 2026 17:06:00 +0900"
-    },
     {
       "url": "https://www.ksmnews.co.kr/news/view.php?idx=627862",
       "title": "달서구· 대구 지속가능발전협 MOU",
@@ -7574,6 +7551,26 @@
       "url": "https://www.mk.co.kr/article/12209235",
       "title": "포스코 이앤씨, 삼성SDI·천안일반산업단지 '직주근접'",
       "date": "Sun, 15 Nov 2026 16:03:00 +0900"
+    },
+    {
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005656",
+      "title": "'원팀 수출' 맞춰 전략 손보는 한수원…2040 경영계획 수립 착수",
+      "date": "Sun, 15 Nov 2026 17:24:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHV1UwTTF5MHZVbHZEdEJ2TUh1VnRxa0Jzc21JZW92ZjFENk5EX0pmWTNRb1hUTHZmUEF6eHV0TWVoS01FejhidXBGclZIYU9XMGlzYm1jV0I2UVRhd0tRblBfbDVPN2hKS2VzSml3?oc=5",
+      "title": "‘원팀 수출’ 맞춰 전략 손보는 한수원…2040 경영계획 수립 착수 - 아시아투데이",
+      "date": "Sun, 15 Nov 2026 08:23:08 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13RV9STWxQRTIybFdWaFoyeVdfNzBUR0liLWhjcDcyalpQNW5SYWxhYk5UN1lpMzladEQwVGoxc004WEZRRkhWeC1rVGl0OS1LSmowTEdPcng?oc=5",
+      "title": "울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약(MOU)체결 - 신경북뉴스",
+      "date": "Sun, 15 Nov 2026 08:10:41 GMT"
+    },
+    {
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=560799",
+      "title": "대구경북 통합신공항 조기 착공 해법 찾는다…국가 재정지원이 관건",
+      "date": "Sun, 15 Nov 2026 17:06:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7596,7 +7593,7 @@
     "2026-11-12": 13,
     "2026-11-13": 14,
     "2026-11-14": 1,
-    "2026-11-15": 2
+    "2026-11-15": 3
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
