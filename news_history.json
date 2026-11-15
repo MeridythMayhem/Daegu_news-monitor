@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.newsis.com/view/NISX20261101_0003849634": "2026-11-01T11:02:20.481473+09:00",
     "https://www.idaegu.com/news/articleView.html?idxno=666627": "2026-11-01T14:02:29.775272+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=563940": "2026-11-01T15:02:18.772051+09:00",
     "https://www.dkilbo.com/news/articleView.html?idxno=559171": "2026-11-01T16:02:16.094984+09:00",
@@ -948,10 +947,13 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTlFDMTlJNVNfZ19ob2RaUzFUZkRNVEFUUEdxZXlMQWVoWnh4YVc4Qzc3NTZDeUlxNGh4MUdTVFVrQm9TVDFDLXVaTXhHQ3h1aDJORUJLLV82aExNVzJpR3ZSeXp0SEtXSnFN?oc=5": "2026-11-15T10:01:53.879261+09:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyVlU4d2E4d3Npd01FUHZKbGRJM2Znc1NEZnNiMFcwWVNkY0gxdGJWQ3U4WVc4U2lnQklKVG5RMFhpRWRnS0xYN1hSTmF2MUN3NEZ5U0dRblMtM0pUSEVPc2R5dEJoSUhXRE5SU3R3?oc=5": "2026-11-15T11:02:02.639669+09:00",
     "https://www.etoday.co.kr/news/view/2648253": "2026-11-15T11:02:02.639669+09:00",
-    "https://www.kbmaeil.com/article/20261115500056": "2026-11-15T11:02:02.639669+09:00"
+    "https://www.kbmaeil.com/article/20261115500056": "2026-11-15T11:02:02.639669+09:00",
+    "https://dgmbc.com/NewsArticle/873376": "2026-11-15T12:01:58.661916+09:00",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LSnRWMGxkSlpfVnZHNE4wdUZhWE9wbkpuaHIxWmloUUF1dTJZSmhmaFVxS29PdTJwSzVvdU00cHJQV1hQMmtpbDl5Y3Y?oc=5": "2026-11-15T12:01:58.661916+09:00",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3752276": "2026-11-15T12:01:58.661916+09:00",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByN0RzMjFHdlF0cHlWM2VHaXVZUzFUNWRnVjVnTzFVT0ZWTEJjVXc4ZTBUS1JqMWFiSUdKcXh0NU95cU1vVVpsOFJKdG5HNVRoa052Z3J5YXJYMGFrZkVtX0NZRXo4X1VK?oc=5": "2026-11-15T12:01:58.661916+09:00"
   },
   "titles": {
-    "89d403bd41b8c942b7dca1146c06910df3225784591d4f27441ec04deb71f93f": "2026-11-01T11:02:20.481473+09:00",
     "8f5d5a9e8223e6a68f5e73da8f021301e3739264ad1c002358828d831f667401": "2026-11-01T14:02:29.775272+09:00",
     "55ee3bee117ce322b59ac1cd123130ac3127c4e574809f59023ecdcbe9148248": "2026-11-01T15:02:18.772051+09:00",
     "f84dda66f7de91a36a24acadd214b78bef6904d46a0f6db86807902a447679c3": "2026-11-01T16:02:16.094984+09:00",
@@ -1899,7 +1901,11 @@
     "52b13a8a6f443adf1b7b8470c40e403d9949fad61370b528c6c0ca2e45a8233a": "2026-11-15T10:01:53.879261+09:00",
     "849baf6df8ee0c413afbfb26e6efa35dd64e8e386a2ade2d8afa68fb0ae1271b": "2026-11-15T11:02:02.639669+09:00",
     "d0cba95b06caae6f149a35ab772116e1002be2527bc545ee1879988a18430f3b": "2026-11-15T11:02:02.639669+09:00",
-    "3e51c2a42bf457e39e33b257a15753c312c719edf7fc0290700460d63e6b0f30": "2026-11-15T11:02:02.639669+09:00"
+    "3e51c2a42bf457e39e33b257a15753c312c719edf7fc0290700460d63e6b0f30": "2026-11-15T11:02:02.639669+09:00",
+    "dffb88f97c9f104dcbff92964569d25ae1bee8447f89351ad84b827b1931802d": "2026-11-15T12:01:58.661916+09:00",
+    "5e3d7c6d69fa90e1aec1ce8e5542ffd9e918f6fc99a351888e85245e58fce232": "2026-11-15T12:01:58.661916+09:00",
+    "b401b932a9d10c118ae2082668b20de0e4bf81d11d35f6bb9e54171dd9253288": "2026-11-15T12:01:58.661916+09:00",
+    "c387d91fa9cb9513a7ce89ed2d4c6bf4442e7207c6e1a16ea4df833f4c20cbfd": "2026-11-15T12:01:58.661916+09:00"
   },
   "pending": {},
   "ai": {
@@ -1910,140 +1916,10 @@
     "2026-11-12": 20,
     "2026-11-13": 26,
     "2026-11-14": 1,
-    "2026-11-15": 1
+    "2026-11-15": 2
   },
   "cursor": 0,
   "archive": {
-    "http://www.weeklytoday.com/news/articleView.html?idxno=801981": {
-      "title": "[위클리오늘] 경북 경산 진량읍 골판지 제조 공장 화재 11시간여 만에 완...",
-      "summary": "12일 오후 8시 01분께 발생한 경산시 진량읍 선화리 한 골판지 제조 공장 화재 는 13일 오전 7시 35분께 완진됐다. ( 경북 소방본부 제공)12일 오후 8시 01분께 발생한 경산시 진량읍 선화리 한 골판지 제조 공장 화재 는 13일...",
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=801981",
-      "date": "Fri, 13 Nov 2026 11:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.thepublic.kr/news/articleView.html?idxno=326483": {
-      "title": "포스코 이앤씨, 2974억원 규모 고창 해상풍력 공사 수주…이달 착공",
-      "summary": "포스코 이앤씨가 전북 고창 앞바다에 들어서는 약 3000억원 규모의 해상풍력발전소 건설공사를 맡는다. 포스코 이앤씨는 76.2MW(메가와트) 규모의 '고창 해상풍력 프로젝트' 공사 계약을 체결하고 이달 착공에 들어간다고...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=326483",
-      "date": "Fri, 13 Nov 2026 11:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mdtoday.co.kr/news/articleView.html?idxno=625049": {
-      "title": "한국가스공사 , 2200억 원대 손해배상 소송 항소심 패소",
-      "summary": "한국형 액화천연가스(LNG) 화물창 국산화 과정에서 발생한 결함 책임을 두고, 선주사인 SK해운이 한국가스공사 를 상대로 제기한 손해배상 청구 소송 항소심에서 2200억 원대 배상 판결이 내려졌다. 서울고법 민사37-1부...",
-      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625049",
-      "date": "Fri, 13 Nov 2026 11:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492188": {
-      "title": "한수원·체코 발주사, 두코바니 원전 일정 점검···'2029년 착공 재확...",
-      "summary": "한국수력원자력 이 체코 두코바니 원전사업 발주사와 합동 점검회의를 열고 주요 사업 일정을 재확인하며 프로젝트 이행 상황을 점검했다. 한국수력원자력 은 지난 9일부터 12일까지 서울 방사선보건원에서 체코 발주사...",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492188",
-      "date": "Fri, 13 Nov 2026 11:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261058": {
-      "title": "체코 원전 시계 '정상 작동'···한수원, 2029년 착공 향해 조달 본격화",
-      "summary": "한국수력원자력 (한수원)이 내년 4월 체코 두코바니 원전 건설허가 신청을 준비하는 가운데 냉각탑 건설과 보조기기 조달 일정도 구체화되고 있다. 지난달 냉각탑 건설 입찰을 시작한 데 이어 올해 말부터 2030년까지...",
-      "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261058",
-      "date": "Fri, 13 Nov 2026 11:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mMEVQWUwtekR2ZjJud0hXV0todXlkTEp2blY1T29LZmtmRjJ3VFBpME1zNkpJaEJQWFpUT2xMdFdVM2o4N21BNnFtc2J2TUVETXhPd0k4eUlYZkk1eHhNeDJHSUt4ZkVQTEJHakl3?oc=5": {
-      "title": "[위클리오늘] 경북 경산 진량읍 골판지 제조공장 화재 11시간여 만에 완진…밤샘 진화작업 - 위클리오늘",
-      "summary": "[위클리오늘] 경북 경산 진량읍 골판지 제조공장 화재 11시간여 만에 완진…밤샘 진화작업 위클리오늘",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mMEVQWUwtekR2ZjJud0hXV0todXlkTEp2blY1T29LZmtmRjJ3VFBpME1zNkpJaEJQWFpUT2xMdFdVM2o4N21BNnFtc2J2TUVETXhPd0k4eUlYZkk1eHhNeDJHSUt4ZkVQTEJHakl3?oc=5",
-      "date": "Fri, 13 Nov 2026 02:22:10 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DWHR0Y1pEMnd6ZGdYaHN0UkZZQ25naUhUQUJxaHRiek56S1pLUWpYWm04bkUzczl1emVCVkFMSnZya1ZyRUduWURtZTJzbTBxWTg4bUZOZ1lSdFduamdRTGozTEJHN1ZGc2h0ag?oc=5": {
-      "title": "[포스코 임단협㉑] 노조, 특별조합비 하루 35만 원 의결…보상기금 30만→10만 원 - 페로타임즈",
-      "summary": "[포스코 임단협㉑] 노조, 특별조합비 하루 35만 원 의결…보상기금 30만→10만 원 페로타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DWHR0Y1pEMnd6ZGdYaHN0UkZZQ25naUhUQUJxaHRiek56S1pLUWpYWm04bkUzczl1emVCVkFMSnZya1ZyRUduWURtZTJzbTBxWTg4bUZOZ1lSdFduamdRTGozTEJHN1ZGc2h0ag?oc=5",
-      "date": "Fri, 13 Nov 2026 02:48:56 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5obXpwYjhHa3pzTTF4RGxSUjRaUTRvREV4Z0pmU1dIYzZOTGJRUDl0RlRDV3NXZlh6bmd6aFdETVZXNWZaNkY4c0w3YlhQekpJNW9uMWJzTlVWTnF1NVlsTnhJcnc?oc=5": {
-      "title": "한국수력원자력, 체코 발주사와 두코바니 원전사업 합동 점검…2029년 착공 - 에너지안전신문",
-      "summary": "한국수력원자력, 체코 발주사와 두코바니 원전사업 합동 점검…2029년 착공 에너지안전신문",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5obXpwYjhHa3pzTTF4RGxSUjRaUTRvREV4Z0pmU1dIYzZOTGJRUDl0RlRDV3NXZlh6bmd6aFdETVZXNWZaNkY4c0w3YlhQekpJNW9uMWJzTlVWTnF1NVlsTnhJcnc?oc=5",
-      "date": "Fri, 13 Nov 2026 02:33:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSkJaLWF6WFVYVkdXQU16WmcwZmVZdmdScWozY2p6QkMxcndQWUxVUHRiTDRiVEV5MVlkQnlvMXJJbVNjZnh0Sm83SW1MeW1FQWNlbFd0X3FTOThpcEljSlRoV1p2azRQakl6UnpvVnrSAXRBVV95cUxNc0RlYl9DN3V5LUUxcFdBYmZLdjdzQ0JlcnFkNTU2YUxwRU80bzlMZ3g4RURHaVhtTndJaUFreTQ4MWt1blQ4UndVUUJ6aGs0dTZFT0FzU3BYaVdkalhBWllDVFlsbVpSS2NkajdhVlNKamxGcw?oc=5": {
-      "title": "한수원·체코 발주사, 두코바니 원전 일정 점검···‘2029년 착공 재확인’ - 이뉴스투데이",
-      "summary": "한수원·체코 발주사, 두코바니 원전 일정 점검···‘2029년 착공 재확인’ 이뉴스투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSkJaLWF6WFVYVkdXQU16WmcwZmVZdmdScWozY2p6QkMxcndQWUxVUHRiTDRiVEV5MVlkQnlvMXJJbVNjZnh0Sm83SW1MeW1FQWNlbFd0X3FTOThpcEljSlRoV1p2azRQakl6UnpvVnrSAXRBVV95cUxNc0RlYl9DN3V5LUUxcFdBYmZLdjdzQ0JlcnFkNTU2YUxwRU80bzlMZ3g4RURHaVhtTndJaUFreTQ4MWt1blQ4UndVUUJ6aGs0dTZFT0FzU3BYaVdkalhBWllDVFlsbVpSS2NkajdhVlNKamxGcw?oc=5",
-      "date": "Fri, 13 Nov 2026 02:40:33 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5scmZfV044TkR6MnRxSERrdVN4TmVkVkxqaF9SSXlIbDFfem1idXBoUXU1SDVPdjVFaWo5bzhaZkJQT2E0UzVzcFFJNWV6eDlKSTAzX3d3bVpNS2l2LTliZDhTNWY2UWwzNlE?oc=5": {
-      "title": "한수원 \"체코 두코바니 원전 시공사 재선정에도 공정 차질 없어…2029년 11월 예정대로 착공\" - https://www.sisaworld.kr/",
-      "summary": "한수원 \"체코 두코바니 원전 시공사 재선정에도 공정 차질 없어…2029년 11월 예정대로 착공\" https://www.sisaworld.kr/",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5scmZfV044TkR6MnRxSERrdVN4TmVkVkxqaF9SSXlIbDFfem1idXBoUXU1SDVPdjVFaWo5bzhaZkJQT2E0UzVzcFFJNWV6eDlKSTAzX3d3bVpNS2l2LTliZDhTNWY2UWwzNlE?oc=5",
-      "date": "Fri, 13 Nov 2026 02:31:43 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=268755": {
       "title": "한수원 \"체코 원전사업, 내년 4월 허가신청\" 2029년 11월 착공 목표",
       "summary": "화이트페이퍼, WHITEPAPER 한국수력원자력 이 체코 EDU Ⅱ와 두코바니 프로젝트 합동 점검회의를 개최하고 있다. (사진= 한국수력원자력 ) 한국수력원자력 (한수원)이 체코 원전 발주사와 두코바니 신규 원전 건설사업의 주요...",
@@ -2989,6 +2865,58 @@
         "domestic"
       ],
       "basis": "관심기업: 에코프로",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3752276": {
+      "title": "경북 도, 울릉공항 직원사택 진입로 신설 합의…개항 가속 속도",
+      "summary": "직원사택은 120세대 규모로 개항 일정에 맞춰 건립 할 계획이다. (제공= 경북 도) 울릉공항 회의 울릉공항은 지난 10일 기준 공정률 83%를 기록했으며, 경북 도는 랜드사이드 공사의 조기 착공을 위해 지난 8월 실시계획을...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752276",
+      "date": "Sun, 15 Nov 2026 11:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://dgmbc.com/NewsArticle/873376": {
+      "title": "경북 김천 단독주택에서 화재 ···경주 크레인 작업 중 사고, 상주서는...",
+      "summary": "11월 14일 오전 11시 15분쯤 김천시 구성면의 한 단독주택 보일러실에서 불이 나 4시간여 만에 꺼졌습니다. 이 불로 다친 사람은 없었지만, 주택 1동과 가재도구 등이 불에 탔습니다. 앞서 14일 오전 9시쯤에는 경주시...",
+      "url": "https://dgmbc.com/NewsArticle/873376",
+      "date": "Sun, 15 Nov 2026 11:45:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LSnRWMGxkSlpfVnZHNE4wdUZhWE9wbkpuaHIxWmloUUF1dTJZSmhmaFVxS29PdTJwSzVvdU00cHJQV1hQMmtpbDl5Y3Y?oc=5": {
+      "title": "경북 김천 단독주택에서 화재···경주 크레인 작업 중 사고, 상주서는 주택에서 80대 남녀 심정지 - 대구MBC",
+      "summary": "경북 김천 단독주택에서 화재···경주 크레인 작업 중 사고, 상주서는 주택에서 80대 남녀 심정지 대구MBC",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LSnRWMGxkSlpfVnZHNE4wdUZhWE9wbkpuaHIxWmloUUF1dTJZSmhmaFVxS29PdTJwSzVvdU00cHJQV1hQMmtpbDl5Y3Y?oc=5",
+      "date": "Sun, 15 Nov 2026 02:19:48 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByN0RzMjFHdlF0cHlWM2VHaXVZUzFUNWRnVjVnTzFVT0ZWTEJjVXc4ZTBUS1JqMWFiSUdKcXh0NU95cU1vVVpsOFJKdG5HNVRoa052Z3J5YXJYMGFrZkVtX0NZRXo4X1VK?oc=5": {
+      "title": "포스코이앤씨, 서남권 첨단산업에 재생에너지 전력 공급…고창 해상풍력발전 착공 - 부동산신문",
+      "summary": "포스코이앤씨, 서남권 첨단산업에 재생에너지 전력 공급…고창 해상풍력발전 착공 부동산신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByN0RzMjFHdlF0cHlWM2VHaXVZUzFUNWRnVjVnTzFVT0ZWTEJjVXc4ZTBUS1JqMWFiSUdKcXh0NU95cU1vVVpsOFJKdG5HNVRoa052Z3J5YXJYMGFrZkVtX0NZRXo4X1VK?oc=5",
+      "date": "Sun, 15 Nov 2026 02:39:50 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
@@ -7744,6 +7672,26 @@
       "url": "https://www.kbmaeil.com/article/20261115500056",
       "title": "영덕 신규원전 2기 발전사업 허가안 원안 의결…2037년 첫 준공 목표",
       "date": "Sun, 15 Nov 2026 10:28:00 +0900"
+    },
+    {
+      "url": "https://dgmbc.com/NewsArticle/873376",
+      "title": "경북 김천 단독주택에서 화재 ···경주 크레인 작업 중 사고, 상주서는...",
+      "date": "Sun, 15 Nov 2026 11:45:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LSnRWMGxkSlpfVnZHNE4wdUZhWE9wbkpuaHIxWmloUUF1dTJZSmhmaFVxS29PdTJwSzVvdU00cHJQV1hQMmtpbDl5Y3Y?oc=5",
+      "title": "경북 김천 단독주택에서 화재···경주 크레인 작업 중 사고, 상주서는 주택에서 80대 남녀 심정지 - 대구MBC",
+      "date": "Sun, 15 Nov 2026 02:19:48 GMT"
+    },
+    {
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752276",
+      "title": "경북 도, 울릉공항 직원사택 진입로 신설 합의…개항 가속 속도",
+      "date": "Sun, 15 Nov 2026 11:52:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByN0RzMjFHdlF0cHlWM2VHaXVZUzFUNWRnVjVnTzFVT0ZWTEJjVXc4ZTBUS1JqMWFiSUdKcXh0NU95cU1vVVpsOFJKdG5HNVRoa052Z3J5YXJYMGFrZkVtX0NZRXo4X1VK?oc=5",
+      "title": "포스코이앤씨, 서남권 첨단산업에 재생에너지 전력 공급…고창 해상풍력발전 착공 - 부동산신문",
+      "date": "Sun, 15 Nov 2026 02:39:50 GMT"
     }
   ],
   "brief_articles": [
@@ -7766,7 +7714,7 @@
     "2026-11-12": 13,
     "2026-11-13": 14,
     "2026-11-14": 1,
-    "2026-11-15": 1
+    "2026-11-15": 2
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
