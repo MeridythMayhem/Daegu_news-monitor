@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://www.dkilbo.com/news/articleView.html?idxno=559171": "2026-11-01T16:02:16.094984+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089156": "2026-11-01T16:02:16.094984+09:00",
-    "https://www.hidomin.com/news/articleView.html?idxno=727401": "2026-11-01T16:02:16.094984+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089183": "2026-11-01T18:02:15.081818+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=627862": "2026-11-01T21:02:16.179304+09:00",
     "https://www.news1.kr/photos/8190951": "2026-11-02T09:02:42.907352+09:00",
@@ -960,12 +957,14 @@
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2VrNlZpVHVqNEN5andxY2cwSXBsTG5jYm1UX08yczhqcGxaV0xuOHpOYl95QWd4MW1ZeEh6OEFvblhjbjBseERwamduRFJEZVc0R2JKVGNsM2ZMMlBiOWJIbGdZM18xcndPZ2d1NmhMVUpnZmctNXozeGd0TlA5UExHODRKU21K?oc=5": "2026-11-15T16:01:58.537010+09:00",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=903122": "2026-11-15T16:01:58.537010+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=729348": "2026-11-15T16:01:58.537010+09:00",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083527": "2026-11-15T16:01:58.537010+09:00"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083527": "2026-11-15T16:01:58.537010+09:00",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SUMzeVM4a1dPbUtGRHBhRXN0VTlpUkVqb0l2cHJIQThNclo2bTlDUFhySFlwLTAtTTdhMDM0WEgtZHE5S1kxLTFoWVZZS3l4b0d2RGpR?oc=5": "2026-11-15T17:01:53.307022+09:00",
+    "https://www.joongang.co.kr/article/25478761": "2026-11-15T17:01:53.307022+09:00",
+    "https://www.seoul.co.kr/news/society/2026/11/15/20261115500083?wlog_tag3=naver": "2026-11-15T17:01:53.307022+09:00",
+    "https://www.g-enews.com/view.php?ud=202611151006514496112616b072_1": "2026-11-15T17:01:53.307022+09:00",
+    "https://www.mk.co.kr/article/12209235": "2026-11-15T17:01:53.307022+09:00"
   },
   "titles": {
-    "f84dda66f7de91a36a24acadd214b78bef6904d46a0f6db86807902a447679c3": "2026-11-01T16:02:16.094984+09:00",
-    "6ba1c25c21152de07d138ee68248cbc226edf10ade33e87a59bea1cce9abee6d": "2026-11-01T16:02:16.094984+09:00",
-    "7587717e9dd6da2fa9ed918c24d79262cdae8b761d0fa4a196269eb536ddf61f": "2026-11-01T16:02:16.094984+09:00",
     "d9b7f06ca06f05dbde9b1dca7effed02e8ed729c61d0263015ed4a03a787c1f6": "2026-11-01T18:02:15.081818+09:00",
     "2cbc00e3c1e63521466849a835e469ba3fc1e27e1a4db4be0f812bbcb4338677": "2026-11-01T21:02:16.179304+09:00",
     "8bd78970b2a93357bf3eecb89c71ca72ec68955f67b7476b9c404ec3afba7251": "2026-11-02T09:02:42.907352+09:00",
@@ -1923,7 +1922,12 @@
     "c57cce2b61c5a6b9735d99dcae1e8eb57713fd075120a04b920875620e5b81be": "2026-11-15T16:01:58.537010+09:00",
     "e4e9d83065fcadf05c853f45efa65bd98b847228f94484cb53bd9e0c6335fc82": "2026-11-15T16:01:58.537010+09:00",
     "ae87c790135b02d5397f8ff51e8f1ebab27e3e9d4a0c603d4a23e8dbd09992b6": "2026-11-15T16:01:58.537010+09:00",
-    "3d2d16f2bd8cf52a035ddb50a44522ce01af2147403aa0cbf807fe77cc71bc92": "2026-11-15T16:01:58.537010+09:00"
+    "3d2d16f2bd8cf52a035ddb50a44522ce01af2147403aa0cbf807fe77cc71bc92": "2026-11-15T16:01:58.537010+09:00",
+    "ba89027b8407152ef81782bbba1175d45e09c23c1fbc996c625812a9eb13d368": "2026-11-15T17:01:53.307022+09:00",
+    "80d1bb0f719361bd352f00626b5d132b6411ef8ef3cc86b6b782e3a851f7d30d": "2026-11-15T17:01:53.307022+09:00",
+    "1498da4018424098359c814cf42743e8f95d381aff20718088a711331aaa0621": "2026-11-15T17:01:53.307022+09:00",
+    "7d989a8cc8e9a2268e3122ae36936a57ade68199ecea284491fa878e8ec55faf": "2026-11-15T17:01:53.307022+09:00",
+    "27ba227742411781d97bb5d807c87c866fe938aef7a8cd9df1edbd8a4ea10863": "2026-11-15T17:01:53.307022+09:00"
   },
   "pending": {},
   "ai": {
@@ -1938,136 +1942,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565299": {
-      "title": "대구 동부소방서, 이시아폴리스 산업단지서 겨울철 화재 예방 캠페인",
-      "summary": "대구 동부소방서는 13일 동구 이시아폴리스 산업단지 일원에서 겨울철 화재 예방 캠페인을 실시했다. 동부소방 제공 대구 동부소방서는 13일 동구 이시아폴리스 산업단지 일원에서 겨울철 화재 예방 캠페인을 실시했다. 이번...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565299",
-      "date": "Fri, 13 Nov 2026 16:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130106&t=NN": {
-      "title": "드림 씨아이에스 , 3분기 누적 매출 549억…역대 최대",
-      "summary": "국내 1위 임상시험수탁기관(CRO) 드림 씨아이에스 가 올해 3분기 누적 매출 549억원을 기록하며 사상 최대 실적을 경신했다. 5년 연속 가파른 성장세다. 13일 드림 씨아이에스 는 분기보고서를 통해 3분기 누적매출 549억...",
-      "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130106&t=NN",
-      "date": "Fri, 13 Nov 2026 16:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 씨아이에스 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.wikitree.co.kr/articles/1174341": {
-      "title": "'국제 배터리 엑스포 2026 포항' 개막...투자상담회·취업상담회도 열려",
-      "summary": "에코프로, 포스코 퓨처엠 등 지역 대표 이차전지 기업을 중심으로 양·음극재 등 핵심 소재와 배터리 제조... 노호섭 포스코 퓨처엠 에너지 소재생산본부장 등 산·학·연·관 관계자 500여 명이 참석했다. 박용선 포항시장은...",
-      "url": "https://www.wikitree.co.kr/articles/1174341",
-      "date": "Fri, 13 Nov 2026 16:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.etoday.co.kr/news/view/2648043": {
-      "title": "“ 에코프로 그룹, 내년 1분기 실적 회복·3분기 본격 반등 전망” [찐코...",
-      "summary": "윤석천 경제평론가는 12일 공개된 유튜브 채널 이투데이TV ‘찐코노미’(연출 이은지)에 출연해 에코프로비엠 의 실적과 해외 생산시설 가동 계획 등을 짚으며 이같이 전망했다. 에코프로비엠 은 3분기 연결 기준 영업이익...",
-      "url": "https://www.etoday.co.kr/news/view/2648043",
-      "date": "Fri, 13 Nov 2026 16:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.wolyo.co.kr/news/articleView.html?idxno=320477": {
-      "title": "한수원, 체코 원전 시공사 재선정…\"착공 일정 유지\"",
-      "summary": "한국수력원자력 (한수원)이 체코 두코바니 원전 시공사를 다시 선정하는 상황에서도 건설허가 신청과 착공 일정은 유지하겠다는 입장이다. 한수원은 13일 체코 발주사 EDUⅡ와 9∼12일 합동 점검회의를 열고 2027년 4월...",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320477",
-      "date": "Fri, 13 Nov 2026 16:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://www.segyebiz.com/newsView/20261113511738?OutUrl=naver": {
-      "title": "한수원의 체코 두코바니 신규 원전 시공사 교체 의혹, 결국 국회 청문회...",
-      "summary": "한국수력원자력 이 체코 두코바니 신규 원전 건설사업 시공사를 교체하기로 하면서 논란이 커지자 국회가 청문회를 추진한다. 특히 한수원이 특정 회사를 시공사로 뽑기 위해 기존 시공계약 협상을 결렬시켰다는...",
-      "url": "http://www.segyebiz.com/newsView/20261113511738?OutUrl=naver",
-      "date": "Fri, 13 Nov 2026 16:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RWXZsMkV2QUFGUS1HTzZ2VTBla0xzVzNYdWNUZ0FTbEdqTlhOX1RpUWxQd25YamdFbnN2TGFqYlM4bDktU3k0RkVSUlhER1BsWnp5em40eHJQczRGdi1MR05nTVBFUQ?oc=5": {
-      "title": "영천시 한울 농업회사법인㈜ 박규섭 대표, 2026년 경상북도 농업인대상 농산물 가공‧유통 부문 수상 - 데일리대구경북뉴스",
-      "summary": "영천시 한울 농업회사법인㈜ 박규섭 대표, 2026년 경상북도 농업인대상 농산물 가공‧유통 부문 수상 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RWXZsMkV2QUFGUS1HTzZ2VTBla0xzVzNYdWNUZ0FTbEdqTlhOX1RpUWxQd25YamdFbnN2TGFqYlM4bDktU3k0RkVSUlhER1BsWnp5em40eHJQczRGdi1MR05nTVBFUQ?oc=5",
-      "date": "Fri, 13 Nov 2026 07:03:52 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PQ0pGSHB1S3RBd3lGVUdpVVpHUDAwV2FOTmh3UE1rclhrUEZ6c1ZzOFhrTnBpUkJHUVpGMnMzU1owT3NoTHY2dURrdVBpUWdNeWpDVw?oc=5": {
-      "title": "“에코프로 그룹, 내년 1분기 실적 회복·3분기 본격 반등 전망” [찐코노미] - 이투데이",
-      "summary": "“에코프로 그룹, 내년 1분기 실적 회복·3분기 본격 반등 전망” [찐코노미] 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PQ0pGSHB1S3RBd3lGVUdpVVpHUDAwV2FOTmh3UE1rclhrUEZ6c1ZzOFhrTnBpUkJHUVpGMnMzU1owT3NoTHY2dURrdVBpUWdNeWpDVw?oc=5",
-      "date": "Fri, 13 Nov 2026 07:38:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVjN0enZTbzBVNUtMUExncVE1cmt0cnpXQ3FYdHh3SUlTWDdhei16OTM5LTQwdHJNVmtFRlN6Um1ERW9NV3NvTXdHQU9aYkpmcnFfSGFvTWU1OFRCS01VcUx6VGFyaGJKN3c?oc=5": {
-      "title": "한수원, 체코 원전 시공사 재선정…”착공 일정 유지\" - 월요신문",
-      "summary": "한수원, 체코 원전 시공사 재선정…”착공 일정 유지\" 월요신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVjN0enZTbzBVNUtMUExncVE1cmt0cnpXQ3FYdHh3SUlTWDdhei16OTM5LTQwdHJNVmtFRlN6Um1ERW9NV3NvTXdHQU9aYkpmcnFfSGFvTWU1OFRCS01VcUx6VGFyaGJKN3c?oc=5",
-      "date": "Fri, 13 Nov 2026 07:23:03 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wVS1scnlweDl2X1dYdUFfSngwdU1xTjh0aXpuLTFUYVRoQkJneVppTDFnYW9MeFpQWWFiOXFxWXFKM1hoWks3NVNkQnBVcDVTNl80a3lzQQ?oc=5": {
-      "title": "한수원의 체코 두코바니 신규 원전 시공사 교체 의혹, 결국 국회 청문회로 가나 - 세계비즈",
-      "summary": "한수원의 체코 두코바니 신규 원전 시공사 교체 의혹, 결국 국회 청문회로 가나 세계비즈",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wVS1scnlweDl2X1dYdUFfSngwdU1xTjh0aXpuLTFUYVRoQkJneVppTDFnYW9MeFpQWWFiOXFxWXFKM1hoWks3NVNkQnBVcDVTNl80a3lzQQ?oc=5",
-      "date": "Fri, 13 Nov 2026 07:13:37 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
     "https://www.wikileaks-kr.org/news/articleView.html?idxno=194624": {
       "title": "포스코 DX, 대형 DX 사업 매출 확대로 4분기 수익성 개선 노린다",
       "summary": "포스코 DX가 인공지능(AI)과 로봇 자동화 사업을 중심으로 신규 수주를 늘리고 있다. 3분기 IT 부문의... 13일 금융감독원 전자공시시스템에 따르면 포스코 DX의 올해 3분기 연결 기준 매출은 2652억원으로 전년 동기 대비...",
@@ -2807,6 +2681,71 @@
       "basis": "관심기업: 포스코",
       "category": "경영·갈등",
       "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.joongang.co.kr/article/25478761": {
+      "title": "BBQ ‘바르셀로나’ 초대권, 경찰· 국세청 제공 논란…“수백억 배임·횡...",
+      "summary": "국세청 역시 내부 인사 들에 대한 감찰을 통해 티켓 수령 여부를 확인 중이다. 당사자들은 관련 의혹을 부인하는 것으로 전해졌다. BBQ 측은 “회사 소속 세무사들이 있는 만큼 지인이나 거래처에 줬을 순 있지만 세무...",
+      "url": "https://www.joongang.co.kr/article/25478761",
+      "date": "Sun, 15 Nov 2026 16:41:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.seoul.co.kr/news/society/2026/11/15/20261115500083?wlog_tag3=naver": {
+      "title": "‘ 중대재해 ·기획통’ 노선균 전 대구 지검 차장검사, 법무법인 선운 합...",
+      "summary": "올해 2월 대구 지검 2차장검사로 부임한 후 지난달 검찰을 떠났다. 그는 검찰 재직 시절 중대재해 를 포함해 대표적인 공안·노동 전문가로 분류됐다. 울산지검 형사5부장 재직 당시 경남 양산의 자동차부품 제조공장에서...",
+      "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500083?wlog_tag3=naver",
+      "date": "Sun, 15 Nov 2026 16:37:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.g-enews.com/view.php?ud=202611151006514496112616b072_1": {
+      "title": "하대룡 전 포스코 강판 사장 \"철강 위기, 버티기 아닌 체질 전환이 해법...",
+      "summary": "터널에서 벗어나기를 기다리기보다 그 안에서 새로운 경쟁력을 찾아야 한다.\" 15일 하대룡 전 포스코 강판(현 포스코 스틸리온) 사장은 글로벌이코노믹과의 인터뷰에서 철강산업의 어려움이 일시적인 경기침체를 넘어...",
+      "url": "https://www.g-enews.com/view.php?ud=202611151006514496112616b072_1",
+      "date": "Sun, 15 Nov 2026 17:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.mk.co.kr/article/12209235": {
+      "title": "포스코 이앤씨, 삼성SDI·천안일반산업단지 '직주근접'",
+      "summary": "더샵 천안라크원 포스코 이앤씨가 충남 천안 성성호수공원 일대에 조성하는 '더샵 천안라크원'을 이달 분양한다. 성성호수공원과 인접한 입지에 삼성의 대규모 투자에 따른 배후 주거 수요까지 기대되는 단지다....",
+      "url": "https://www.mk.co.kr/article/12209235",
+      "date": "Sun, 15 Nov 2026 16:03:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SUMzeVM4a1dPbUtGRHBhRXN0VTlpUkVqb0l2cHJIQThNclo2bTlDUFhySFlwLTAtTTdhMDM0WEgtZHE5S1kxLTFoWVZZS3l4b0d2RGpR?oc=5": {
+      "title": "BBQ ‘바르셀로나’ 초대권, 경찰·국세청 제공 논란…“수백억 배임·횡령 前 임원이 협박” - 중앙일보",
+      "summary": "BBQ ‘바르셀로나’ 초대권, 경찰·국세청 제공 논란…“수백억 배임·횡령 前 임원이 협박” 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SUMzeVM4a1dPbUtGRHBhRXN0VTlpUkVqb0l2cHJIQThNclo2bTlDUFhySFlwLTAtTTdhMDM0WEgtZHE5S1kxLTFoWVZZS3l4b0d2RGpR?oc=5",
+      "date": "Sun, 15 Nov 2026 07:41:43 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
       "filter_version": 17
     }
   },
@@ -7610,6 +7549,31 @@
       "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083527",
       "title": "상주 공성농협, 햅쌀 '미소진품' 호주 수출 …누적 1억2200만원",
       "date": "Sun, 15 Nov 2026 15:16:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SUMzeVM4a1dPbUtGRHBhRXN0VTlpUkVqb0l2cHJIQThNclo2bTlDUFhySFlwLTAtTTdhMDM0WEgtZHE5S1kxLTFoWVZZS3l4b0d2RGpR?oc=5",
+      "title": "BBQ ‘바르셀로나’ 초대권, 경찰·국세청 제공 논란…“수백억 배임·횡령 前 임원이 협박” - 중앙일보",
+      "date": "Sun, 15 Nov 2026 07:41:43 GMT"
+    },
+    {
+      "url": "https://www.joongang.co.kr/article/25478761",
+      "title": "BBQ ‘바르셀로나’ 초대권, 경찰· 국세청 제공 논란…“수백억 배임·횡...",
+      "date": "Sun, 15 Nov 2026 16:41:00 +0900"
+    },
+    {
+      "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500083?wlog_tag3=naver",
+      "title": "‘ 중대재해 ·기획통’ 노선균 전 대구 지검 차장검사, 법무법인 선운 합...",
+      "date": "Sun, 15 Nov 2026 16:37:00 +0900"
+    },
+    {
+      "url": "https://www.g-enews.com/view.php?ud=202611151006514496112616b072_1",
+      "title": "하대룡 전 포스코 강판 사장 \"철강 위기, 버티기 아닌 체질 전환이 해법...",
+      "date": "Sun, 15 Nov 2026 17:00:00 +0900"
+    },
+    {
+      "url": "https://www.mk.co.kr/article/12209235",
+      "title": "포스코 이앤씨, 삼성SDI·천안일반산업단지 '직주근접'",
+      "date": "Sun, 15 Nov 2026 16:03:00 +0900"
     }
   ],
   "brief_articles": [
