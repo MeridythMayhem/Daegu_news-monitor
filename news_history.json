@@ -940,7 +940,9 @@
     "http://www.4th.kr/news/articleView.html?idxno=2121872": "2026-11-14T13:02:11.767402+09:00",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=902971": "2026-11-14T14:01:54.949103+09:00",
     "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": "2026-11-14T20:01:51.941407+09:00"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": "2026-11-14T20:01:51.941407+09:00",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5": "2026-11-15T09:01:48.258374+09:00",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5": "2026-11-15T09:01:48.258374+09:00"
   },
   "titles": {
     "e7e0ef02149f02962f50369aeab96d5cfe6eb907c3342e1b1d7f925fbdc7e1e9": "2026-11-01T10:02:25.835088+09:00",
@@ -1883,7 +1885,9 @@
     "7f8f243128eeef6dc87b4c895494ac7e363157d96baadb4d073c564d6735681f": "2026-11-14T13:02:11.767402+09:00",
     "a0fabe6360d949fc33238ae9270d9e8f4f5298fdbb440297639197dc07278a59": "2026-11-14T14:01:54.949103+09:00",
     "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00",
-    "d99ef91d456f101939c631c14e5c9b653ec76cd86449808f0f9a18ae60f45348": "2026-11-14T20:01:51.941407+09:00"
+    "d99ef91d456f101939c631c14e5c9b653ec76cd86449808f0f9a18ae60f45348": "2026-11-14T20:01:51.941407+09:00",
+    "e200f4eeb1121f981486ba71e3b7b43f760212914d4eea1f15b82cb5e89f7364": "2026-11-15T09:01:48.258374+09:00",
+    "c4fe0ff9c88bc8a3097be896e7f5e00cac9cb561cf715a2b8520178e0b449213": "2026-11-15T09:01:48.258374+09:00"
   },
   "pending": {},
   "ai": {
@@ -1897,136 +1901,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://imnews.imbc.com/news/2026/society/article/6865363_36918.html": {
-      "title": "경북 경산 골판지 공장 화재 11시간 만에 완진",
-      "summary": "어제저녁 8시쯤, 경북 경산시 진량읍의 한 골판지 제조 공장 에서 큰불이 나 11시간 반 만에 진화됐습니다. 이... 경찰과 소방당국은 전기적 요인 때문에 불이 시작된 것으로 보고 정확한 화재 원인과 피해 규모를 조사하고...",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6865363_36918.html",
-      "date": "Fri, 13 Nov 2026 08:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.ajunews.com/view/20261113081347896": {
-      "title": "경북 경산 골판지공장 화재 11시간여 만에 완진…인명피해 없어",
-      "summary": "13일 연합뉴스에 따르면 경북 소방본부는 전날 오후 8시 1분께 발생한 이 화재 를 이날 오전 7시 35분께 진화 작업을 완료했다고 전했다. 이 불로 창고 2개동(각각 625㎡, 1546㎡)이 전소됐고 인접한 공장의 벽면 일부가...",
-      "url": "https://www.ajunews.com/view/20261113081347896",
-      "date": "Fri, 13 Nov 2026 08:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://dgmbc.com/NewsArticle/873190": {
-      "title": "경산 골판지 제조 공장 화재 , 11시간 30여 분 만에 완진",
-      "summary": "이 불로 2천 715제곱미터 규모의 철골조 창고 2동과 지게차와 골판지 등 물품이 탔고, 인접 공장 도 일부 피해를 입었습니다. 경북 소방본부는 전기적인 요인으로 불이 난 것으로 보고 정확한 화재 원인 등을 조사하고...",
-      "url": "https://dgmbc.com/NewsArticle/873190",
-      "date": "Fri, 13 Nov 2026 08:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.kbmaeil.com/article/20261113500033": {
-      "title": "경산 골판지상자 공장 화재 …2시간 43분 만에 초진",
-      "summary": "12일 오후 8시 1분께 경북 경산시 진량읍 선화리의 한 골판지상자 제조 공장 에서 불이 나 소방 당국이 2시간... 경산시는 화재 발생 후 인근 주민들에게 연기 흡입과 안전사고에 주의해 달라는 안전안내문자를 발송했다....",
-      "url": "https://www.kbmaeil.com/article/20261113500033",
-      "date": "Fri, 13 Nov 2026 08:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.yna.co.kr/view/AKR20261113025500053?input=1195m": {
-      "title": "경산 골판지 공장 화재 11시간여 만에 완진…8억여원 피해",
-      "summary": "건물 2개 동 전소·골판지 등 물품 소실, 전기적 요인이 원인으로 추정 경북 경산시 골판지 제조 공장 화재 가 11시간여 만에 완전 진화됐다. 13일 경북 소방본부 등에 따르면 전날 오후 8시 1분께 경산시 진량읍 선화리 한...",
-      "url": "https://www.yna.co.kr/view/AKR20261113025500053?input=1195m",
-      "date": "Fri, 13 Nov 2026 08:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.newspim.com/news/view/20261113000048": {
-      "title": "[모닝 리포트] \" 엘앤에프 , 3분기 적자에도 NCM·LFP 출하 성장 지속\"",
-      "summary": "하나증권은 13일 이차전지 양극재 전문기업 ' 엘앤에프 '에 대해 3분기 재고평가손실과 환율 하락... 엘앤에프 의 3분기 매출은 8744억원으로 전년 동기 대비 34% 증가했지만 전분기 대비 1% 감소했다. 영업손실은...",
-      "url": "https://www.newspim.com/news/view/20261113000048",
-      "date": "Fri, 13 Nov 2026 08:17:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://biz.chosun.com/stock/stock_general/2026/11/13/ULNX22BLC5HTTMZDY7DBVC2QIY/": {
-      "title": "LS證 “ 한국가스공사 , 중동發 유가 상승에 3분기 실적 호조… 목표가 7%...",
-      "summary": "LS증권은 13일 한국가스공사 에 대해 국내 본업의 미수금 악화에도 중동발 유가 상승에 따른 해외 사업 영업이익 호조에 힘입어 시장 전망치에 부합하는 실적을 기록했다고 평가했다. 투자의견 ‘매수’(BUY)를...",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/13/ULNX22BLC5HTTMZDY7DBVC2QIY/",
-      "date": "Fri, 13 Nov 2026 08:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbDYweEpwdkJ5Q1R4VS14bGxjMGk0RmR4MDNucVNBYWJ6UGgxWWVTU0ViQWpBNFMxZDJuME9qSFE3Z3BxQlVidV9HTWstMnZFNTJ1SURPQ29JM0dFdGR2VmtOUEY?oc=5": {
-      "title": "도레이첨단소재, 구미 5공장 MLCC 필름 13·14호기 준공 - 매일일보",
-      "summary": "도레이첨단소재, 구미 5공장 MLCC 필름 13·14호기 준공 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbDYweEpwdkJ5Q1R4VS14bGxjMGk0RmR4MDNucVNBYWJ6UGgxWWVTU0ViQWpBNFMxZDJuME9qSFE3Z3BxQlVidV9HTWstMnZFNTJ1SURPQ29JM0dFdGR2VmtOUEY?oc=5",
-      "date": "Thu, 12 Nov 2026 23:52:33 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYS1PUHlWeDFGT1NNZUhNSHJpd3FGc3FSaHZsSll3OWRMWEpvYldoQjZqLU0xT2l1MnhpcUp4NHNkTTRyNU81azhmdEdDRGhySjUydVl3RlM0bWZ2cVFneHJvYzVQYzVkeFl1WU5NSEw3a1dLdVZsUUdLSV9GRVpqN1BsdXU2MFdp0gGcAUFVX3lxTE1qX3U1WGZqTnVROGhzcjhMS2JSc2tQVndMbGhNNlR3T1JEOFN2bzRneWlHMTNic1hEQUc3bWJkMGhOVjU2RmN4QlJsZEhvZ3RqVDB6UTJkMVpHeG5QeEdtUWRwVExSNlhJbVZhM3lTejgzLXFjZkt1dmQ2eHZMc09vZ2pSMUxOdFN6T19FbWwxYUdQTFM2R0wwZk9sOQ?oc=5": {
-      "title": "LS證 “한국가스공사, 중동發 유가 상승에 3분기 실적 호조… 목표가 7%↑” - Chosunbiz",
-      "summary": "LS證 “한국가스공사, 중동發 유가 상승에 3분기 실적 호조… 목표가 7%↑” Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYS1PUHlWeDFGT1NNZUhNSHJpd3FGc3FSaHZsSll3OWRMWEpvYldoQjZqLU0xT2l1MnhpcUp4NHNkTTRyNU81azhmdEdDRGhySjUydVl3RlM0bWZ2cVFneHJvYzVQYzVkeFl1WU5NSEw3a1dLdVZsUUdLSV9GRVpqN1BsdXU2MFdp0gGcAUFVX3lxTE1qX3U1WGZqTnVROGhzcjhMS2JSc2tQVndMbGhNNlR3T1JEOFN2bzRneWlHMTNic1hEQUc3bWJkMGhOVjU2RmN4QlJsZEhvZ3RqVDB6UTJkMVpHeG5QeEdtUWRwVExSNlhJbVZhM3lTejgzLXFjZkt1dmQ2eHZMc09vZ2pSMUxOdFN6T19FbWwxYUdQTFM2R0wwZk9sOQ?oc=5",
-      "date": "Thu, 12 Nov 2026 23:39:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KcTNNU09BbDZzeWNqc1lHakpDdFJxc0duc3U5VGpza29VbnVMWmRKb2hXYWZJN2oyQ1hiWWpoVmxGRDZ0VTJuSlBrXzZqbkVmTHZfOUNLazZvUQ?oc=5": {
-      "title": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등 - 한국경제",
-      "summary": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KcTNNU09BbDZzeWNqc1lHakpDdFJxc0duc3U5VGpza29VbnVMWmRKb2hXYWZJN2oyQ1hiWWpoVmxGRDZ0VTJuSlBrXzZqbkVmTHZfOUNLazZvUQ?oc=5",
-      "date": "Thu, 12 Nov 2026 23:32:12 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
     "https://idsn.co.kr/news/view/1065572713876733": {
       "title": "경산 골판지 제조 공장 서 화재 …대응 1단계 발령해 진화",
       "summary": "▲ 경북 경산시 진량읍 선화리의 한 골판지상자 제조 공장 에서 화재 가 발생했다.(사진= 경북 소방본부 제공) 12일 오후 8시 1분께 경북 경산시 진량읍 선화리의 한 골판지상자 제조 공장 에서 불이 나 소방당국이 진화 작업을...",
@@ -3163,6 +3037,32 @@
       "summary": "구미시, 지역경제협의회 출범...'경제 현안 공동 대응 나선다' 경북신문",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WakRTazRqZ3BOczkzc21jVkMxQXNQUmRYaWppaEpFSUxHeTc4R2dybGptZUx6aFl6eHNDbVg0clRkU2xkZjlubUQ0SHAzN3pZV09uOTJlMWc?oc=5",
       "date": "Sat, 14 Nov 2026 22:29:51 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5": {
+      "title": "경상북도, 울릉공항 직원사택 진입로 신설 합의 `개항 준비 협력 강화` - CBN뉴스",
+      "summary": "경상북도, 울릉공항 직원사택 진입로 신설 합의 `개항 준비 협력 강화` CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5",
+      "date": "Sat, 14 Nov 2026 23:15:40 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5": {
+      "title": "대구 서구, 산업단지 환경오염 배출업소 3곳 적발 - 경북신문",
+      "summary": "대구 서구, 산업단지 환경오염 배출업소 3곳 적발 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5",
+      "date": "Sat, 14 Nov 2026 23:25:47 GMT",
       "channels": [
         "domestic"
       ],
@@ -7887,6 +7787,16 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5",
       "title": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 - 헤럴드경제",
       "date": "Sat, 14 Nov 2026 10:28:16 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5",
+      "title": "대구 서구, 산업단지 환경오염 배출업소 3곳 적발 - 경북신문",
+      "date": "Sat, 14 Nov 2026 23:25:47 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5",
+      "title": "경상북도, 울릉공항 직원사택 진입로 신설 합의 `개항 준비 협력 강화` - CBN뉴스",
+      "date": "Sat, 14 Nov 2026 23:15:40 GMT"
     }
   ],
   "brief_articles": [
