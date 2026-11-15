@@ -1943,82 +1943,17 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-08": 3,
     "2026-11-09": 11,
     "2026-11-10": 18,
     "2026-11-11": 15,
     "2026-11-12": 20,
     "2026-11-13": 26,
     "2026-11-14": 1,
-    "2026-11-15": 3
+    "2026-11-15": 3,
+    "2026-11-16": 1
   },
   "cursor": 0,
   "archive": {
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503983": {
-      "title": "엘앤에프 , 3분기 적자 전환…재고손실 빼면 4분기 연속 흑자",
-      "summary": "엘앤에프 가 3분기 재고평가손실과 환율 하락에 따른 손실이 겹치면서 영업적자로 돌아섰다. 하나증권은... 엘앤에프 의 3분기 매출액은 8744억원으로 전년 동기 대비 34% 증가했지만 전 분기보다는 1% 감소했다. 영업손실은...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503983",
-      "date": "Sat, 14 Nov 2026 00:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503971": {
-      "title": "JKM 뛰자 한국가스공사 실적도 날았다…배당 확대 기대 커지나",
-      "summary": "한국가스공사 가 아시아 액화천연가스(LNG) 현물 가격 상승에 힘입어 3분기 시장 기대치를 웃도는 실적을 거뒀다. 하나증권은 최근 보고서에서 국제유가와 LNG 가격 강세가 해외 사업의 수익성을 끌어올린 데다 환율 하락에...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503971",
-      "date": "Sat, 14 Nov 2026 00:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MUW16SXhvczU3TVo4WV9mWGJKZ2RuSjA3UGNCU0V5TU5rV1JxWk9qclZlWjBoTzZkamVHZTJud0lTTnk5Q2dOYzVoSTk2d1Z3a3haZTVJU2JfcFp6THdYRA?oc=5": {
-      "title": "도레이첨단소재, 구미 5공장 MLCC 필름 13·14호기 생산설비 준공 - 구미일보",
-      "summary": "도레이첨단소재, 구미 5공장 MLCC 필름 13·14호기 생산설비 준공 구미일보",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MUW16SXhvczU3TVo4WV9mWGJKZ2RuSjA3UGNCU0V5TU5rV1JxWk9qclZlWjBoTzZkamVHZTJud0lTTnk5Q2dOYzVoSTk2d1Z3a3haZTVJU2JfcFp6THdYRA?oc=5",
-      "date": "Fri, 13 Nov 2026 14:11:13 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczdpb1pXaUVXcHdkNDFHczhOblVhcFdIaWxJbmlRVHJqLWJIMXJSejUyU3VVY0JmVEFpa1ZkbC0wMnVid2ppTVRKVnJWNDhSM1RMeHR2bFdDWmxpMEprTUhTWmRLcUptbThFZVB6U05zWDRKMDc5ZDFyZTYxNlYxbzNnWm5rUnR0YnVKRE42SFlodnZST19ySDdDMWFTVGc4RXZXVDlWVEdRYnZCY3VLX1JWenRJV0ZrbjRiRTBMM1dobi00YzJ3TU52b1h6TE8wS3c?oc=5": {
-      "title": "EU Commission clears acquisition of Saffron and PMH by POSCO and JSW - INSIGHT EU MONITORING",
-      "summary": "EU Commission clears acquisition of Saffron and PMH by POSCO and JSW INSIGHT EU MONITORING",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczdpb1pXaUVXcHdkNDFHczhOblVhcFdIaWxJbmlRVHJqLWJIMXJSejUyU3VVY0JmVEFpa1ZkbC0wMnVid2ppTVRKVnJWNDhSM1RMeHR2bFdDWmxpMEprTUhTWmRLcUptbThFZVB6U05zWDRKMDc5ZDFyZTYxNlYxbzNnWm5rUnR0YnVKRE42SFlodnZST19ySDdDMWFTVGc4RXZXVDlWVEdRYnZCY3VLX1JWenRJV0ZrbjRiRTBMM1dobi00YzJ3TU52b1h6TE8wS3c?oc=5",
-      "date": "Fri, 13 Nov 2026 21:21:54 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnRhYkwzR01SUzBFaEt0TkdFUXJ4d1RfdW1INUt2VHFvZDFRVXZhZ1EteWtfYW05MEZmbks2QVBpU082VlFBZFpScjBCZkg5dXhsS1hzaExlcGRJMGNKV2JxeDY5ZzQ0YV94OGFzZjMwaEdmY3JaOUJYSXZRZkpYLThLcGJHWkFlVjFPSHBjLUpPTkFMdk9WUjYyelo0Q05Sd0s3aWYxdTlSak1BT0J6QURmVjFHYzlybHdlM0xqUlZOODJFVk4yZTZoVWhDcVQtTU0tSWxGa2c?oc=5": {
-      "title": "Final Thoughts: Do Mesabi Metallics and Hyundai-POSCO signal more foreign steel investment in US? - Steel Market Update",
-      "summary": "Final Thoughts: Do Mesabi Metallics and Hyundai-POSCO signal more foreign steel investment in US? Steel Market Update",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnRhYkwzR01SUzBFaEt0TkdFUXJ4d1RfdW1INUt2VHFvZDFRVXZhZ1EteWtfYW05MEZmbks2QVBpU082VlFBZFpScjBCZkg5dXhsS1hzaExlcGRJMGNKV2JxeDY5ZzQ0YV94OGFzZjMwaEdmY3JaOUJYSXZRZkpYLThLcGJHWkFlVjFPSHBjLUpPTkFMdk9WUjYyelo0Q05Sd0s3aWYxdTlSak1BT0J6QURmVjFHYzlybHdlM0xqUlZOODJFVk4yZTZoVWhDcVQtTU0tSWxGa2c?oc=5",
-      "date": "Fri, 13 Nov 2026 16:01:04 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    },
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jN2dnbFNYY2NwVXU4amxxbW5JQmgwQUMtYjhwR01qYVU0VWtpcl8yekRYSU5YQmVoZEVPQnJKUm0xdC0tc1pDeV8xWnlGdw?oc=5": {
       "title": "경북TP, 81억 규모 우즈벡 IT 교육 등 코이카 ODA 2건 연속 수주 - 전자신문",
       "summary": "경북TP, 81억 규모 우즈벡 IT 교육 등 코이카 ODA 2건 연속 수주 전자신문",
@@ -2642,18 +2577,102 @@
       "category": "지역언론 경제·정책",
       "priority": 65,
       "filter_version": 17
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=405691": {
+      "title": "대동 3분기 매출 0.5% 감소…영업적자 전환",
+      "summary": "733억원 대동 (000490)이 2026년 3분기 연결 기준 영업손실 393억원을 기록했다. 전년 동기 4억원의 영업이익에서 적자로 전환했고, 매출은 3524억원으로 0.5% 감소했다. 대동 이 지난 13일 제출한 3분기 분기보고서에...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=405691",
+      "date": "Mon, 16 Nov 2026 07:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=405537": {
+      "title": "드림 씨아이에스 3분기 영업이익 4억6916만원…83.2% 감소",
+      "summary": "드림 씨아이에스 (223250)의 2026년 3분기 연결 기준 영업이익은 4억6916만원으로 집계됐다. 2025년 같은 분기 27억8800만원보다 83.2% 줄었다. 지난 13일 제출된 3분기 보고서 기준 매출은 175억원으로 전년 동기보다 6.1...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=405537",
+      "date": "Mon, 16 Nov 2026 01:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 씨아이에스 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768270": {
+      "title": "포스코 홀딩스 해외 리튬 기업 3사 일제히 적자 축소...매출도 두배 이상...",
+      "summary": "포스코 홀딩스(대표 장인화·이주태)의 리튬 종속기업 3곳이 올해 좋은 성적표를 받아 들었다. 3분기 적자 폭이 2500억 원 이상 축소됐고 매출도 두 배 이상 늘었다. 포스코 아르헨티나와 포스코 필바라리튬솔루션은 생산...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768270",
+      "date": "Mon, 16 Nov 2026 06:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6607075": {
+      "title": "포스코 노사, 잠정합의안 부결 후 진통 계속…파업 긴장 고조",
+      "summary": "포스코 임금단체협약(임단협) 잠정합의안이 노동조합 찬반투표에서 부결되면서 노사 긴장이 다시 고조되고... 한국노총 금속노련 포스코 노동조합은 16일부터 가두행진과 선전전이 포함된 무기한 투쟁에 돌입한다고...",
+      "url": "https://www.nocutnews.co.kr/news/6607075",
+      "date": "Mon, 16 Nov 2026 05:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=01282486645646376&mediaCodeNo=257": {
+      "title": "한국가스공사 , 3분기 깜짝 실적에도 미수금 13.8조 부담-KB",
+      "summary": "KB증권은 한국가스공사 에 대해 해외 광구 자회사들의 실적 개선에 힘입어 올해 3분기 시장 기대치를 웃도는 실적을 거뒀다고 평가했다. 높아진 유가와 해외 광구 생산성 개선을 반영해 목표주가를 4만5000원으로 상향...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01282486645646376&mediaCodeNo=257",
+      "date": "Mon, 16 Nov 2026 07:45:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IYW14SGhWTEdLRXk0amhId1lGM0Fvb0JXcmI4NkZESi1aUWUwQjRkZjZ0STZCTDkyYzlndEhObTF6R0ZiLTR4UmpHNTZXVUlSVmdRUDAyZDNFZVNWSUYwV09uSTN0cGFEdG5BNHNzZnl4OGM?oc=5": {
+      "title": "포스코홀딩스 해외 리튬 기업 3사 일제히 적자 축소...매출도 두배 이상 '쑥' - 소비자가 만드는 신문",
+      "summary": "포스코홀딩스 해외 리튬 기업 3사 일제히 적자 축소...매출도 두배 이상 '쑥' 소비자가 만드는 신문",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IYW14SGhWTEdLRXk0amhId1lGM0Fvb0JXcmI4NkZESi1aUWUwQjRkZjZ0STZCTDkyYzlndEhObTF6R0ZiLTR4UmpHNTZXVUlSVmdRUDAyZDNFZVNWSUYwV09uSTN0cGFEdG5BNHNzZnl4OGM?oc=5",
+      "date": "Sun, 15 Nov 2026 21:10:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WakRTazRqZ3BOczkzc21jVkMxQXNQUmRYaWppaEpFSUxHeTc4R2dybGptZUx6aFl6eHNDbVg0clRkU2xkZjlubUQ0SHAzN3pZV09uOTJlMWc?oc=5": "2026-11-15T08:01:39.309738+09:00",
-    "https://www.kukinews.com/article/view/kuk202611140038": "2026-11-15T08:01:39.309738+09:00"
+    "https://www.edaily.co.kr/News/Read?newsId=01282486645646376&mediaCodeNo=257": "2026-11-16T08:02:00.018903+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=405691": "2026-11-16T08:02:00.018903+09:00",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768270": "2026-11-16T08:02:00.018903+09:00",
+    "https://www.nocutnews.co.kr/news/6607075": "2026-11-16T08:02:00.018903+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=405537": "2026-11-16T08:02:00.018903+09:00"
   },
   "brief_titles": {
-    "44d631cae095bf883b69e684b1a8d362e909dde697d6b73762368b6e6ca5c462": "2026-11-15T08:01:39.309738+09:00",
-    "57ea1324565bbf36c4f7b3fc89b5b1642c5ada002a3684ae7bef4db3be081e7b": "2026-11-15T08:01:39.309738+09:00"
+    "743b45e0d2f3beb5f482aa85bff0913a60483acee1ab55c41314b5a4b41edc1c": "2026-11-16T08:02:00.018903+09:00",
+    "6ba3e466447d16d8e079e62cc9cd56704d560101d0b06f52cc818c5c3597ed5e": "2026-11-16T08:02:00.018903+09:00",
+    "e1192ca945044724a40879e5676a33875b5a84620c462e2318bc222e793b8aaa": "2026-11-16T08:02:00.018903+09:00",
+    "c0461be339af8db61877a14f44dfdff90cda6121d93956cdae79e559cab7cc42": "2026-11-16T08:02:00.018903+09:00",
+    "7f1e8c6acc59864d33cf89faabfb15cd6fd8d8e5b516bf7bd7cec227788234dc": "2026-11-16T08:02:00.018903+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-15",
+  "brief_date": "2026-11-16",
   "sent_articles": [
     {
       "url": "https://www.news1.kr/photos/8190951",
@@ -7503,25 +7522,40 @@
   ],
   "brief_articles": [
     {
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WakRTazRqZ3BOczkzc21jVkMxQXNQUmRYaWppaEpFSUxHeTc4R2dybGptZUx6aFl6eHNDbVg0clRkU2xkZjlubUQ0SHAzN3pZV09uOTJlMWc?oc=5",
-      "title": "구미시, 지역경제협의회 출범...'경제 현안 공동 대응 나선다' - 경북신문",
-      "date": "Sat, 14 Nov 2026 22:29:51 GMT"
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01282486645646376&mediaCodeNo=257",
+      "title": "한국가스공사 , 3분기 깜짝 실적에도 미수금 13.8조 부담-KB",
+      "date": "Mon, 16 Nov 2026 07:45:00 +0900"
     },
     {
-      "url": "https://www.kukinews.com/article/view/kuk202611140038",
-      "title": "김장호 구미 시장 “박정희 정신 계승해 수출·미래산업 거점 도약”",
-      "date": "Sat, 14 Nov 2026 23:28:00 +0900"
+      "url": "https://www.vegannews.co.kr/news/article.html?no=405691",
+      "title": "대동 3분기 매출 0.5% 감소…영업적자 전환",
+      "date": "Mon, 16 Nov 2026 07:42:00 +0900"
+    },
+    {
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768270",
+      "title": "포스코 홀딩스 해외 리튬 기업 3사 일제히 적자 축소...매출도 두배 이상...",
+      "date": "Mon, 16 Nov 2026 06:10:00 +0900"
+    },
+    {
+      "url": "https://www.nocutnews.co.kr/news/6607075",
+      "title": "포스코 노사, 잠정합의안 부결 후 진통 계속…파업 긴장 고조",
+      "date": "Mon, 16 Nov 2026 05:01:00 +0900"
+    },
+    {
+      "url": "https://www.vegannews.co.kr/news/article.html?no=405537",
+      "title": "드림 씨아이에스 3분기 영업이익 4억6916만원…83.2% 감소",
+      "date": "Mon, 16 Nov 2026 01:36:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-11-08": 2,
     "2026-11-09": 8,
     "2026-11-10": 12,
     "2026-11-11": 11,
     "2026-11-12": 13,
     "2026-11-13": 14,
     "2026-11-14": 1,
-    "2026-11-15": 3
+    "2026-11-15": 3,
+    "2026-11-16": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
