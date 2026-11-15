@@ -951,7 +951,11 @@
     "https://dgmbc.com/NewsArticle/873376": "2026-11-15T12:01:58.661916+09:00",
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LSnRWMGxkSlpfVnZHNE4wdUZhWE9wbkpuaHIxWmloUUF1dTJZSmhmaFVxS29PdTJwSzVvdU00cHJQV1hQMmtpbDl5Y3Y?oc=5": "2026-11-15T12:01:58.661916+09:00",
     "https://www.gukjenews.com/news/articleView.html?idxno=3752276": "2026-11-15T12:01:58.661916+09:00",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByN0RzMjFHdlF0cHlWM2VHaXVZUzFUNWRnVjVnTzFVT0ZWTEJjVXc4ZTBUS1JqMWFiSUdKcXh0NU95cU1vVVpsOFJKdG5HNVRoa052Z3J5YXJYMGFrZkVtX0NZRXo4X1VK?oc=5": "2026-11-15T12:01:58.661916+09:00"
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByN0RzMjFHdlF0cHlWM2VHaXVZUzFUNWRnVjVnTzFVT0ZWTEJjVXc4ZTBUS1JqMWFiSUdKcXh0NU95cU1vVVpsOFJKdG5HNVRoa052Z3J5YXJYMGFrZkVtX0NZRXo4X1VK?oc=5": "2026-11-15T12:01:58.661916+09:00",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=315394": "2026-11-15T14:02:10.953087+09:00",
+    "https://www.kbmaeil.com/article/20261115500356": "2026-11-15T14:02:10.953087+09:00",
+    "https://www.wikitree.co.kr/articles/1174730": "2026-11-15T14:02:10.953087+09:00",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5": "2026-11-15T14:02:10.953087+09:00"
   },
   "titles": {
     "8f5d5a9e8223e6a68f5e73da8f021301e3739264ad1c002358828d831f667401": "2026-11-01T14:02:29.775272+09:00",
@@ -1905,7 +1909,11 @@
     "dffb88f97c9f104dcbff92964569d25ae1bee8447f89351ad84b827b1931802d": "2026-11-15T12:01:58.661916+09:00",
     "5e3d7c6d69fa90e1aec1ce8e5542ffd9e918f6fc99a351888e85245e58fce232": "2026-11-15T12:01:58.661916+09:00",
     "b401b932a9d10c118ae2082668b20de0e4bf81d11d35f6bb9e54171dd9253288": "2026-11-15T12:01:58.661916+09:00",
-    "c387d91fa9cb9513a7ce89ed2d4c6bf4442e7207c6e1a16ea4df833f4c20cbfd": "2026-11-15T12:01:58.661916+09:00"
+    "c387d91fa9cb9513a7ce89ed2d4c6bf4442e7207c6e1a16ea4df833f4c20cbfd": "2026-11-15T12:01:58.661916+09:00",
+    "0459e528845d5767e896223455a7f8246e6119ac75798b061b330f9cf333b9a7": "2026-11-15T14:02:10.953087+09:00",
+    "82e1ea1d10f080b4c2625d54d7f6698f99917400f2dd138fad92fde61da94ab3": "2026-11-15T14:02:10.953087+09:00",
+    "295ce80cb0bbece1aafd28a5c61d5747a2bb77877049e9c8f47a3b647e47a2e9": "2026-11-15T14:02:10.953087+09:00",
+    "2819b83c5f72cee386403a4d510877f0d26d1d28117bc9e5a4fda2c5a745af52": "2026-11-15T14:02:10.953087+09:00"
   },
   "pending": {},
   "ai": {
@@ -1920,58 +1928,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083036": {
-      "title": "도레이첨단소재, 구미5산단 MLCC 필름 생산설비 증설…연산 9억㎡ 확보",
-      "summary": "양금희 경북 도 경제 부지사, 정성현 구미부시장 등 관계자 150여명이 참석했다. 이번에 완공된 MLCC 필름 13... 이어가고 있으며, 구미시는 첨단산업을 중심으로 한 기업 투자와 산업단지 활성화에 힘쓰고 있다. [신아 일보 ]",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083036",
-      "date": "Fri, 13 Nov 2026 13:30:00 +0900",
-      "channels": [
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관 · 시설 투자/계약",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.job-post.co.kr/news/articleView.html?idxno=238236": {
-      "title": "포스코 이앤씨, 2974억 원 규모 '고창 해상풍력발전' 착공",
-      "summary": "포스코 이앤씨가 전북 고창 앞바다에 76.2MW 규모의 해상풍력발전단지 조성 공사에 본격 돌입한다. 포스코 이앤씨는 '고창 해상풍력 프로젝트' 공사 계약을 체결하고 이달 착공에 들어간다고 밝혔다. 총 공사비 약 2974억...",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=238236",
-      "date": "Fri, 13 Nov 2026 13:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586388370718": {
-      "title": "한수원, 체코 원전 '2029년 착공' 청신호…200개 품목 입찰도 본격화",
-      "summary": "한국수력원자력 (한수원)이 체코 두코바니 신규 원전 건설사업의 주요 추진 일정을 재확인하고 발주사와 협력 강화에 나섰다. 오는 2027년 4월 건설허가 신청과 2029년 11월 착공을 목표로 설계·인허가 등 후속 절차를...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586388370718",
-      "date": "Fri, 13 Nov 2026 13:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUEhBWnpnMkdkbkZqaWdTOUNpaTZkWms1dGU2dXVVMkExZk9zT0RJb3lQS0E3MEI0TXNSTHo2ZnhEaWktRlZra1JTUDFjanZqYXVlcWp0OHFaX1VPRU1MQU92eVFXWUNlem5EONIBcEFVX3lxTE1HaXI4aWhTVHZUVThPcUJqeDhiY1BHeFJ0MVBaQUQ3dmwxaURCV1pPYzJwaVV2XzNSQXhvUERaWVFvSlFRMXZKSDBvdXp2MjZwam5GN01tQXFXc1JaNFh3UnlKRWNjQjRWN0hwUC1DcW8?oc=5": {
-      "title": "국회, 한수원 ‘체코 원전’ 시공사 교체 논란 청문회 연다…산자위원장 \"의혹 철저히 밝혀야\" - 남도일보",
-      "summary": "국회, 한수원 ‘체코 원전’ 시공사 교체 논란 청문회 연다…산자위원장 \"의혹 철저히 밝혀야\" 남도일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUEhBWnpnMkdkbkZqaWdTOUNpaTZkWms1dGU2dXVVMkExZk9zT0RJb3lQS0E3MEI0TXNSTHo2ZnhEaWktRlZra1JTUDFjanZqYXVlcWp0OHFaX1VPRU1MQU92eVFXWUNlem5EONIBcEFVX3lxTE1HaXI4aWhTVHZUVThPcUJqeDhiY1BHeFJ0MVBaQUQ3dmwxaURCV1pPYzJwaVV2XzNSQXhvUERaWVFvSlFRMXZKSDBvdXp2MjZwam5GN01tQXFXc1JaNFh3UnlKRWNjQjRWN0hwUC1DcW8?oc=5",
-      "date": "Fri, 13 Nov 2026 04:04:19 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
     "https://www.kbsm.net/news/view.php?idx=541621": {
       "title": "경산 진량읍 골판지 제조 공장 서 화재 … 소방당국 대응 1단계 발령",
       "summary": "화재 이후 작업자들이 신속히 대피해 인명 피해는 없으나, 공장 설비와 다량의 종이 원지가 불에 타 수억 원대의 재산 피해가 발생했다. 13일 경북 소방본부 등에 따르면 전날 오후 8시 1분께 선화리 한 골판지와 골판지 상자...",
@@ -2855,6 +2811,58 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=315394": {
+      "title": "경북 도, 울릉공항 직원사택 진입로 200m 신설 추진···사업비 30억 투입",
+      "summary": "[사진= 경북 도] 경상북도는 울릉공항 직원사택 진입로를 연장 200m, 폭 6m 규모로 새롭게 개설하는 사업에 약 30억을 투입한다고 밝혔다. 직원사택은 120세대 규모로 공항 개항 일정에 맞춰 건립 될 예정이다. 지난 12일...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315394",
+      "date": "Sun, 15 Nov 2026 13:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbmaeil.com/article/20261115500356": {
+      "title": "경북 도 “울릉공항 사택 진입로 30억 투입 신설”... 예산·병목 해소 ‘...",
+      "summary": "보도>이 경북 도의 신규 도로 개설 결정으로 돌파구를 찾고 있다. 그러나 경북 도가 내놓은 해결책의 실효성을... 편입 대상 필지 수와 소유주 전원으로부터 법적 구속 력을 갖춘 매매 동의서를 확보했는지도 검증이 필요한...",
+      "url": "https://www.kbmaeil.com/article/20261115500356",
+      "date": "Sun, 15 Nov 2026 13:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.wikitree.co.kr/articles/1174730": {
+      "title": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’...",
+      "summary": "둘째 날에는 ▲스페이스워크 ▲포항시립미술관 ▲ 포스코 Park1538 ▲생활폐기물에너지화시설(SRF) ▲철길숲 상생숲길 등을 차례로 둘러보며 포항의 문화관광 자원을 체험하고, 포스코 전시관에서 철강산업의 역사와 발전...",
+      "url": "https://www.wikitree.co.kr/articles/1174730",
+      "date": "Sun, 15 Nov 2026 13:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5": {
+      "title": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약 등 - 위키트리",
+      "summary": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약 등 위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5",
+      "date": "Sun, 15 Nov 2026 04:08:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -2868,11 +2876,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-15",
   "sent_articles": [
-    {
-      "url": "https://www.idaegu.com/news/articleView.html?idxno=666627",
-      "title": "대구 백화점 본점 매각 또 차질…경영권 소송도 부담",
-      "date": "Sun, 01 Nov 2026 13:56:00 +0900"
-    },
     {
       "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563940",
       "title": "대구 북부경찰서 신청사 건립 순항…임시청사 후보지 2곳 압축",
@@ -7627,6 +7630,26 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByN0RzMjFHdlF0cHlWM2VHaXVZUzFUNWRnVjVnTzFVT0ZWTEJjVXc4ZTBUS1JqMWFiSUdKcXh0NU95cU1vVVpsOFJKdG5HNVRoa052Z3J5YXJYMGFrZkVtX0NZRXo4X1VK?oc=5",
       "title": "포스코이앤씨, 서남권 첨단산업에 재생에너지 전력 공급…고창 해상풍력발전 착공 - 부동산신문",
       "date": "Sun, 15 Nov 2026 02:39:50 GMT"
+    },
+    {
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315394",
+      "title": "경북 도, 울릉공항 직원사택 진입로 200m 신설 추진···사업비 30억 투입",
+      "date": "Sun, 15 Nov 2026 13:46:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261115500356",
+      "title": "경북 도 “울릉공항 사택 진입로 30억 투입 신설”... 예산·병목 해소 ‘...",
+      "date": "Sun, 15 Nov 2026 13:24:00 +0900"
+    },
+    {
+      "url": "https://www.wikitree.co.kr/articles/1174730",
+      "title": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’...",
+      "date": "Sun, 15 Nov 2026 13:10:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5",
+      "title": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약 등 - 위키트리",
+      "date": "Sun, 15 Nov 2026 04:08:00 GMT"
     }
   ],
   "brief_articles": [
