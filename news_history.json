@@ -1954,32 +1954,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712669&ref=A": {
-      "title": "경북 동부 건설현장 추락 사망 늘어…올해 8건",
-      "summary": "경북 동부지역 공사장에서 추락으로 인한 중대재해 사망사고가 지난해보다 늘었습니다. 고용노동부 포항 지청에 따르면 포항 과 경주, 영덕 등 경북 동부 5개 시군의 공사장 추락 사망사고는' 지난해 5건에서 올해 8건으로...",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712669&ref=A",
-      "date": "Fri, 13 Nov 2026 22:21:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vQ2lBd2FTQ0JKQUhIYVFEVmV3bWJSLU9qX2RGaEhiVGs3VFNESlRaaTMtUkR5ZFZYUmRPcC11LXk4WVJWZTFJdlRTcU03NVpmOGVjbnk5NGhKMWpncVFpSFZkYWExMFhjZmc?oc=5": {
-      "title": "도레이첨단소재, 구미 하이테크밸리에 신규라인 준공 - 경북구미신문",
-      "summary": "도레이첨단소재, 구미 하이테크밸리에 신규라인 준공 경북구미신문",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vQ2lBd2FTQ0JKQUhIYVFEVmV3bWJSLU9qX2RGaEhiVGs3VFNESlRaaTMtUkR5ZFZYUmRPcC11LXk4WVJWZTFJdlRTcU03NVpmOGVjbnk5NGhKMWpncVFpSFZkYWExMFhjZmc?oc=5",
-      "date": "Fri, 13 Nov 2026 13:02:32 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503983": {
       "title": "엘앤에프 , 3분기 적자 전환…재고손실 빼면 4분기 연속 흑자",
       "summary": "엘앤에프 가 3분기 재고평가손실과 환율 하락에 따른 손실이 겹치면서 영업적자로 돌아섰다. 하나증권은... 엘앤에프 의 3분기 매출액은 8744억원으로 전년 동기 대비 34% 증가했지만 전 분기보다는 1% 감소했다. 영업손실은...",
