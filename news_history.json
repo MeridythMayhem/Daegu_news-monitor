@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.kukinews.com/article/view/kuk202611020093": "2026-11-02T13:02:30.999731+09:00",
     "https://www.jbnews.com/news/articleView.html?idxno=1514911": "2026-11-02T14:02:45.991689+09:00",
     "https://biz.sbs.co.kr/article_hub/20000343643?division=NAVER": "2026-11-02T14:02:45.991689+09:00",
     "https://www.slist.kr/news/articleView.html?idxno=778352": "2026-11-02T14:02:45.991689+09:00",
@@ -968,10 +967,12 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93MEJZVFV2UGlpc2dncnNPXzVadmljdjJybC1kNW5hYWMxRkgtMy1HbFotbVk3U2JaUEJVdGpLVjVEaDRuQjNhWk1wRXlTZjNtTndjRDFyYmc2ci1pQ2ZTSFVSbENhUdIBa0FVX3lxTFA0eG00Tzg0TFVnaWQzM2NqR1BFWUx5elg0d3RmUUg5cmoxNmtUeTRVeU9vRTlQMUFxbFhvMGpMeFdmWTU0R0g2aVhyV1Jnb19ZWGNLaUJGandRNmwxbTBCU0o0bzdGSHJJMEo4?oc=5": "2026-11-16T12:02:13.553918+09:00",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083748": "2026-11-16T12:02:13.553918+09:00",
     "https://www.kbmaeil.com/article/20261116500241": "2026-11-16T12:02:13.553918+09:00",
-    "https://www.kmib.co.kr/article/20261116500254": "2026-11-16T12:02:13.553918+09:00"
+    "https://www.kmib.co.kr/article/20261116500254": "2026-11-16T12:02:13.553918+09:00",
+    "https://view.asiae.co.kr/article/2026111613280152825": "2026-11-16T14:01:58.976978+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2018967": "2026-11-16T14:01:58.976978+09:00",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE91dExmT3VsZFRsLXc2WEJuREFiZWtveXdGUEJnZkN4ci14MlBCelJ5LURRd2t3RTNRbjBjVW40WkZKemdJcXlvM0RUUGgzYlhXY3BkemFDVjdsZDVOQnpyS2VKX2Jmb0xrclFPY0h0QkRDSTQ?oc=5": "2026-11-16T14:01:58.976978+09:00"
   },
   "titles": {
-    "da83631924fe227e3d5d3e5e1fea33fa8e3930da9890e0abbb86dac4c15806d9": "2026-11-02T13:02:30.999731+09:00",
     "a09645b6e928d1e8b9d43b8af2c93d84f9f46c28570c2e1a0cdad86a70787bdd": "2026-11-02T14:02:45.991689+09:00",
     "2f5f3dd753c5d7abf6c53468df82796aca829a43998709af61daad640416f1fc": "2026-11-02T14:02:45.991689+09:00",
     "6105a23c71431f8880271eff24457f553d568ab449e53cbc7a4bdf5d239803ac": "2026-11-02T14:02:45.991689+09:00",
@@ -1939,7 +1940,10 @@
     "503ef0030466921ab3505e4caa4cad0944276a5d9054e018e7331dab986fd0a8": "2026-11-16T12:02:13.553918+09:00",
     "5b55ec7099c858ccb8f1075f2ef164cfb6f7b99eb2fa4a5bd802f4c372a9d7a5": "2026-11-16T12:02:13.553918+09:00",
     "720971d79bd658aab66bfd5fab2837714bb92bc5de532d43f5a6b501bed4531a": "2026-11-16T12:02:13.553918+09:00",
-    "0c93679524ce72f82beda3f7fdb063d6fc5928501175d7b0694e4f04ea410a02": "2026-11-16T12:02:13.553918+09:00"
+    "0c93679524ce72f82beda3f7fdb063d6fc5928501175d7b0694e4f04ea410a02": "2026-11-16T12:02:13.553918+09:00",
+    "83ed3a2624a353bfbdb07bbbec0bb3eb9d4dc8e7578157158c2f8ec314e5058b": "2026-11-16T14:01:58.976978+09:00",
+    "02e08a71fecb7c75810c68b895cdda0accd8044156cec16be7759a04390b4536": "2026-11-16T14:01:58.976978+09:00",
+    "e11be897554cc42d2af1dbff874716dd85bf93a5eb58ea0575e64350a0098639": "2026-11-16T14:01:58.976978+09:00"
   },
   "pending": {},
   "ai": {
@@ -1954,19 +1958,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=902971": {
-      "title": "민영화 26년 포스코 , CEO 승계 흑역사…내달 인선 착수 '투명성' 시험대",
-      "summary": "포스코 그룹이 오는 12월 초 차기 최고경영자(CEO) 인선을 앞두고 거버넌스 전면 개편 시험대에 올랐다. 현 장인화 회장의 임기는 내년 3월까지다. 포스코 는 완전 민영화 원년인 2000년 이후 정권 교체기마다 CEO 선임...",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902971",
-      "date": "Sat, 14 Nov 2026 14:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.etoday.co.kr/news/view/2647768": {
       "title": "지방 산업 투자 확대⋯영주·구미·천안서 신규 아파트 분양",
       "summary": "두산에너빌리티·금호건설· 포스코 이앤씨 신규 분양 예정 정부가 지방 기업 투자 지원을 확대하는 가운데... 충남 천안시에서는 포스코 이앤씨가 '더샵 천안라크원'을 분양할 예정이다. 지하 2층~지상 37층, 10개 동, 총...",
@@ -2851,6 +2842,46 @@
       "category": "산재·사업장 사고",
       "priority": 100,
       "filter_version": 17
+    },
+    "https://view.asiae.co.kr/article/2026111613280152825": {
+      "title": "청도 세계음악회·경산 가족공연·영천 경로당 준공으로 지역사회에 '활...",
+      "summary": "경북 청도군, 경산시, 영천시가 주민 화합과 문화 소통을 위한 다채로운 행사를 개최하며 지역사회에... 총사업비 4억3500만 원이 투입돼 연면적 71.06㎡, 지상 1층 규모로 건립 된 어릿골 경로당은 장애물 없는 생활환경(BF)...",
+      "url": "https://view.asiae.co.kr/article/2026111613280152825",
+      "date": "Mon, 16 Nov 2026 13:37:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2018967": {
+      "title": "경주시, 뉴욕한인회·H마트와 협약…미국 투자·수출 협력 추진",
+      "summary": "매일 일보 = 김태호 기자 | 경북 경주시가 미국 현지 기업·기관과 업무협약을 맺고 투자유치와 수출, 관광... 방문해 경제 ·관광 분야 협력 방안을 논의했다고 16일 밝혔다. 대표단은 지난 12일 뉴욕에서 KOTRA 뉴욕무역관과...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2018967",
+      "date": "Mon, 16 Nov 2026 13:30:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE91dExmT3VsZFRsLXc2WEJuREFiZWtveXdGUEJnZkN4ci14MlBCelJ5LURRd2t3RTNRbjBjVW40WkZKemdJcXlvM0RUUGgzYlhXY3BkemFDVjdsZDVOQnpyS2VKX2Jmb0xrclFPY0h0QkRDSTQ?oc=5": {
+      "title": "경북 이전기업도 투자 대상…대구한의대, 160억 펀드 추진 - 오늘경제",
+      "summary": "경북 이전기업도 투자 대상…대구한의대, 160억 펀드 추진 오늘경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91dExmT3VsZFRsLXc2WEJuREFiZWtveXdGUEJnZkN4ci14MlBCelJ5LURRd2t3RTNRbjBjVW40WkZKemdJcXlvM0RUUGgzYlhXY3BkemFDVjdsZDVOQnpyS2VKX2Jmb0xrclFPY0h0QkRDSTQ?oc=5",
+      "date": "Mon, 16 Nov 2026 04:06:18 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -2870,31 +2901,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-16",
   "sent_articles": [
-    {
-      "url": "https://www.jbnews.com/news/articleView.html?idxno=1514911",
-      "title": "공소청, ' 에코프로 비엠 오창공장 사망 화재' 전 대표 징역 1년 6개월 구...",
-      "date": "Mon, 02 Nov 2026 13:42:00 +0900"
-    },
-    {
-      "url": "https://biz.sbs.co.kr/article_hub/20000343643?division=NAVER",
-      "title": "'4명 사상' 폭발 사고 에코프로 비엠 전 대표 징역 1년6개월 구형",
-      "date": "Mon, 02 Nov 2026 13:53:00 +0900"
-    },
-    {
-      "url": "https://www.slist.kr/news/articleView.html?idxno=778352",
-      "title": "'4명 사상' 에코프로 비엠 공장 폭발 사고…검찰, 전 대표에 징역 1년 6개...",
-      "date": "Mon, 02 Nov 2026 13:46:00 +0900"
-    },
-    {
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=139089",
-      "title": "엘앤에프 플러스, 현대제철과 산화철 공급 MOU 체결",
-      "date": "Mon, 02 Nov 2026 13:36:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FTV9kTnNlU0duTUh1dmlCRllmNUxpZjhMWV9NaGRJX0sybjBuY0FYcEFHbjB3a3ZHQVBSMURuQVdDRWgzY3kwVGlNTXV3SlNsSDNDQkRQWHU?oc=5",
-      "title": "POSCO Future M posts Q3 operating profit of 82.1 billion won, up 23.2% year on year - 파이낸셜뉴스",
-      "date": "Mon, 02 Nov 2026 04:17:07 GMT"
-    },
     {
       "url": "https://www.newsis.com/view/NISX20261102_0003851167",
       "title": "대구 ·경북, 올 상반기 화재·폭발 사망자 32명, 전년비 2배↑",
@@ -7709,6 +7715,21 @@
       "url": "https://www.kmib.co.kr/article/20261116500254",
       "title": "경주시, 미국 기업·기관과 잇단 협약 … 투자 ·수출 교두보 확대",
       "date": "Mon, 16 Nov 2026 11:06:00 +0900"
+    },
+    {
+      "url": "https://view.asiae.co.kr/article/2026111613280152825",
+      "title": "청도 세계음악회·경산 가족공연·영천 경로당 준공으로 지역사회에 '활...",
+      "date": "Mon, 16 Nov 2026 13:37:00 +0900"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2018967",
+      "title": "경주시, 뉴욕한인회·H마트와 협약…미국 투자·수출 협력 추진",
+      "date": "Mon, 16 Nov 2026 13:30:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91dExmT3VsZFRsLXc2WEJuREFiZWtveXdGUEJnZkN4ci14MlBCelJ5LURRd2t3RTNRbjBjVW40WkZKemdJcXlvM0RUUGgzYlhXY3BkemFDVjdsZDVOQnpyS2VKX2Jmb0xrclFPY0h0QkRDSTQ?oc=5",
+      "title": "경북 이전기업도 투자 대상…대구한의대, 160억 펀드 추진 - 오늘경제",
+      "date": "Mon, 16 Nov 2026 04:06:18 GMT"
     }
   ],
   "brief_articles": [
