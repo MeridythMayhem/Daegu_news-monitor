@@ -1,12 +1,5 @@
 {
   "sent": {
-    "https://www.newsis.com/view/NISX20261102_0003851167": "2026-11-02T15:03:27.608078+09:00",
-    "http://www.4th.kr/news/articleView.html?idxno=2120941": "2026-11-02T15:03:27.608078+09:00",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nRnhWY0hTdTRsaExGS0R0aHRHRS1IVW13b0gyVGh3U0lNV0YxQzlOWFpGVHBZc21yUk9JZWVoMHY0V2E4YklXRlVwaHFKaTRMd3BvSjBPdl9vMzk5endNT1NNc2llQzBSSk9RSjY1UQ?oc=5": "2026-11-02T15:03:27.608078+09:00",
-    "https://biz.sbs.co.kr/article_hub/20000343539?division=NAVER": "2026-11-02T15:03:27.608078+09:00",
-    "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020085&t=NNv": "2026-11-02T15:03:27.608078+09:00",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4442541": "2026-11-02T15:03:27.608078+09:00",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWExrcWVESEo0blkwMklGcmpaV1hMU2w1VVJsRXFDYWNGYVRHMk1RdUhQNTMyUzNJNmNKWVJQT0hkWHUxdUpSdzgzVHZWc0p4bDJoaldVY0J6UDlxQmt5TGVjbGROdlRqeEl0QzFRQ2lZLUVkRGhSNG84bV9MQ2hHVVhB0gGWAUFVX3lxTE5lbFpIb24yRVpOalZGampsX0kzT2RSbDltV2NEajFGMkV5ZDhfZlVrOHYtN1F4NHB5QnVYb1IzdTNSejc3Szg2LWRZdFN4cnAtNkVDTl9FQ3Via29zUzlPeDhLS2RTWk9hLWE2c21sZ0NiU0F5bHpBbWp2R25uNTZwbUliRUJtckJfTW1ZbmtuZm55bGwxUQ?oc=5": "2026-11-02T15:03:27.608078+09:00",
     "https://www.eroun.net/news/articleView.html?idxno=94121": "2026-11-02T16:03:50.888722+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089311": "2026-11-02T16:03:50.888722+09:00",
     "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200306.html": "2026-11-02T16:03:50.888722+09:00",
@@ -973,16 +966,17 @@
     "https://www.nocutnews.co.kr/news/6607457": "2026-11-16T15:02:06.561661+09:00",
     "https://www.kmib.co.kr/article/20261116500492": "2026-11-16T15:02:06.561661+09:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5SzNIN2NSYzBlSU90Nm9iRkhwVzdyOFFHaWRyUG5zV0lBdkVzVGNiN3R4bkQ0NkY5MW00RnJrZVVDVWVtZ0ozdnpnUFo5NWRqbVNTUVpZTWM3eFJmSWZxYlFBdmpldFZjcGc?oc=5": "2026-11-16T15:02:06.561661+09:00",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMWM3YS1scXd0azFTQXcwYl9QbFVoS1hSMHpuZHBwUUxJeS1ER0VHWDk5aHA0OEk1TzF6bHVOWXVzWEh3dkw3Z2FJa2VjT1kxck5TcmNzU1JiMHV2blF1Q2I1aExaNGU2Z3c?oc=5": "2026-11-16T15:02:06.561661+09:00"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMWM3YS1scXd0azFTQXcwYl9QbFVoS1hSMHpuZHBwUUxJeS1ER0VHWDk5aHA0OEk1TzF6bHVOWXVzWEh3dkw3Z2FJa2VjT1kxck5TcmNzU1JiMHV2blF1Q2I1aExaNGU2Z3c?oc=5": "2026-11-16T15:02:06.561661+09:00",
+    "http://www.inews24.com/view/2026673": "2026-11-16T16:10:21.165015+09:00",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006056": "2026-11-16T16:10:21.165015+09:00",
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082843": "2026-11-16T16:10:21.165015+09:00",
+    "http://www.newstomato.com/ReadNews.aspx?no=1320580&inflow=N": "2026-11-16T16:10:21.165015+09:00",
+    "https://www.kbsm.net/news/view.php?idx=541950": "2026-11-16T16:10:21.165015+09:00",
+    "https://www.pressian.com/pages/articles/2026111614483265769": "2026-11-16T16:10:21.165015+09:00",
+    "https://www.imaeil.com/page/view/2026111514490026356": "2026-11-16T16:10:21.165015+09:00",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3753327": "2026-11-16T16:10:21.165015+09:00"
   },
   "titles": {
-    "cb0b16bd0a04ce5ada79ab82541512f81056908e42ad2fa3b31bb18712a79d4a": "2026-11-02T15:03:27.608078+09:00",
-    "e717e3374cbe358436333daa379d8690e86a6a5fdbb806ea181b3db9e9eeaf59": "2026-11-02T15:03:27.608078+09:00",
-    "7c8ac402bea95cdf09000676e7fd2eed09a1cb75a67d190843dd4fea2071464a": "2026-11-02T15:03:27.608078+09:00",
-    "51e915458236143f798b49ac1dff17ddc7845ba7e2b03d25e1d61514196332f3": "2026-11-02T15:03:27.608078+09:00",
-    "54d5ecf0d61ec401b87901b00dfd63f13e2cf690042b941a8922fdc069b93e13": "2026-11-02T15:03:27.608078+09:00",
-    "b33934ae080b43cdf65b0f7f0994d0df16dbbc43791adc64ffca30ff79c8d9d7": "2026-11-02T15:03:27.608078+09:00",
-    "f28ef093fc919ea8ded9102b45f70db5e995d27b441ef7be1f708ce6e931772e": "2026-11-02T15:03:27.608078+09:00",
     "881a55c85fdb65aefeec81413d28be3a566154e53ad614c35044080e65aae2ad": "2026-11-02T16:03:50.888722+09:00",
     "77d5d7c41318c72798594c5980d54b493a568532f8a40021748a6c4d6444bf31": "2026-11-02T16:03:50.888722+09:00",
     "a1a0dd2757b8277d4aebe7659b29e9715f0b17bdbac0de7498357ca344669122": "2026-11-02T16:03:50.888722+09:00",
@@ -1949,7 +1943,15 @@
     "c76b4cde37ba2afc1414fff313cc38e0b1b5339cd18c2ecbf1d720ed02f39b9e": "2026-11-16T15:02:06.561661+09:00",
     "e1b8028cfb6596699bb30143cfdb903bbc4e0aec6bef8578ca1a1beb0a170252": "2026-11-16T15:02:06.561661+09:00",
     "bfaa3168d94fc3981f763c60447dfa26b759918ebc9bce4065bb4123b42223c7": "2026-11-16T15:02:06.561661+09:00",
-    "3a07e6a2ff0eac81326912d10b5bc7cf1f3635822c4a9012313fac87312ad452": "2026-11-16T15:02:06.561661+09:00"
+    "3a07e6a2ff0eac81326912d10b5bc7cf1f3635822c4a9012313fac87312ad452": "2026-11-16T15:02:06.561661+09:00",
+    "3abc6b6fb9e434be1ed74613320e8b9ff22fabf8bbd10dd5947584f28269f2b5": "2026-11-16T16:10:21.165015+09:00",
+    "dde404ca831264fe68191b56c750abc4fbdb255a62115737a093743ee10b5052": "2026-11-16T16:10:21.165015+09:00",
+    "3abd7c17febb3dae2a169d86aada5d79405a5141ae40e703906e4301b7300e41": "2026-11-16T16:10:21.165015+09:00",
+    "338808fa4c6f14d36f7c2eda489d4ad93d3eba218866c5a9563290ecd0f0b7af": "2026-11-16T16:10:21.165015+09:00",
+    "28b8eed81a3fd30c96e61042c5364e5fb8dd8e491b543b75e8a0e499f97fe8f0": "2026-11-16T16:10:21.165015+09:00",
+    "d7b9fe69a6a3ad5e866cdb070aa074055cc3091ba8e5c9d87efa4c6af511f503": "2026-11-16T16:10:21.165015+09:00",
+    "f8329e0bc8bac5b96606731ebbe3d07ed2a5700c8cd8faa3bae11ef432c98d3f": "2026-11-16T16:10:21.165015+09:00",
+    "550b7ba3ecf8dc86a2ee7fcf72a15b682e776931e60cd614d65800fad26cadbc": "2026-11-16T16:10:21.165015+09:00"
   },
   "pending": {},
   "ai": {
@@ -2992,6 +2994,110 @@
       "category": "세무 조사·혐의 관련",
       "priority": 100,
       "filter_version": 17
+    },
+    "http://www.inews24.com/view/2026673": {
+      "title": "경산시, 중국·인도 시장 뚫었다…8490만 달러 수출상담 성과",
+      "summary": "경북 경산시(시장 조현일)가 세계적인 거대 소비시장인 중국과 인도 공략에 나서 지역 중소기업의 해외 판로... 업무협약( MOU ) 체결 성과를 거뒀다고 16일 밝혔다. 상반기 태국·인도네시아에 이어 하반기 중국과 인도로...",
+      "url": "http://www.inews24.com/view/2026673",
+      "date": "Mon, 16 Nov 2026 15:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006056": {
+      "title": "경산시 무역사절단 , 지역 중소기업의 해외 판로 확대 발판 마련",
+      "summary": "아시아투데이 장경국 기자 = 경북 경산시 무역사절단이 중국 상하이와 인도 뉴델리에서 기계·자동차 부품... 업무협약( MOU ) 총 13건 282만 달러의 실적을 거두며 지역 중소기업의 해외 판로 확대의 발판을 마련했다. 상반기...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006056",
+      "date": "Mon, 16 Nov 2026 15:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082843": {
+      "title": "대구 한의대 160억 투자펀드 조성… 경북 K-메디산업 글로벌 진출 지원",
+      "summary": "대구 한의대학교는 지난 10일 에트리홀딩스㈜, ㈲트라이앵글파트너스와 'GPT&K-MW 펀드' 조성을 위한 다자간 업무협약( MOU )을 체결했다. 이번 펀드에는 대학을 비롯해 경상북도와 포스코 등 민·관·산·학 주체들이 참여한다....",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082843",
+      "date": "Mon, 16 Nov 2026 15:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.pressian.com/pages/articles/2026111614483265769": {
+      "title": "감사원 ‘지역 토착비리’ 공직감찰 착수 … 경찰 2차 특별단속과 점검...",
+      "summary": "착수하면서 경북 안동시의 수의 계약 특혜 의혹 등이 다시 주목받고 있다. 16일 〈프레시안〉 취재를... 자 안동시 ‘수의 계약 총량제’ 무력화 논란…시장 측근 업체 ‘ 쪼개기 특혜’ 의혹)한 바 있다. 일부 조경·풀베기...",
+      "url": "https://www.pressian.com/pages/articles/2026111614483265769",
+      "date": "Mon, 16 Nov 2026 15:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3753327": {
+      "title": "대구 광역시, KTC와 섬유기업 해외 상담 1111건...908만 달러 실적",
+      "summary": "이러한 성과는 대구 광역시와 한국섬유마케팅센터(KTC) 가 공 동으로 추진한 '2026년 글로벌 섬유패션... KTC의 거래 정보 시스템인 MDCS(Marketing Data Curation System)에는 10년 이상 축적된 국내 섬유기업 130개사, 글로벌...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753327",
+      "date": "Mon, 16 Nov 2026 15:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.newstomato.com/ReadNews.aspx?no=1320580&inflow=N": {
+      "title": "TYM 흑자 VS 대동 적자…북미 한파 속 드러난 수익성 격차",
+      "summary": "올해 3분기 대동 (000490)은 393억원의 영업손실을 기록한 반면 TYM(002900)은 358억원의 영업이익을 내면서 양사의 영업손익 격차가 751억원까지 벌어졌습니다. 미국 관세 환급금의 반영 시점이 달랐던 데다 대동 은 원가...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1320580&inflow=N",
+      "date": "Mon, 16 Nov 2026 15:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kbsm.net/news/view.php?idx=541950": {
+      "title": "포항시·시의회·상의 “ 포스코 노사, 지역경제 위해 대화와 상생의 대...",
+      "summary": "포스코 임금협상 잠정합의안 부결과 재교섭 결렬에 따른 노사 갈등이 장기화 조짐을 보이자, 포항시와... 열고 ‘ 포스코 노사의 상생과 포항의 미래를 위한 공동 호소문’을 공식 발표했다.이번 공동 호소문 발표는 지난 7일...",
+      "url": "https://www.kbsm.net/news/view.php?idx=541950",
+      "date": "Mon, 16 Nov 2026 15:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.imaeil.com/page/view/2026111514490026356": {
+      "title": "포스코 임금교섭, 부결 이후 출구는 어디에?…17일 노조, 상경 집회 예고",
+      "summary": "포스코 노사의 임금교섭 잠정 합의안이 노조원 찬반투표에서 부결된 이후 재교섭에 대한 실마리를 찾지 못하고 있다. 노조 대표진은 17일 서울 포스코 센터에서 현장목소리를 전하기 위한 집회를 예고했지만 합의점을...",
+      "url": "https://www.imaeil.com/page/view/2026111514490026356",
+      "date": "Mon, 16 Nov 2026 15:11:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -3011,36 +3117,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-16",
   "sent_articles": [
-    {
-      "url": "https://www.eroun.net/news/articleView.html?idxno=94121",
-      "title": "대구 시·달성군·㈜이수페타시스, 5000억 원 규모 투자협약 체결...민선...",
-      "date": "Mon, 02 Nov 2026 16:00:00 +0900"
-    },
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089311",
-      "title": "안동 , 해외 인맥으로 관광·수출·유학생 유치 길 넓힌다",
-      "date": "Mon, 02 Nov 2026 15:48:00 +0900"
-    },
-    {
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200306.html",
-      "title": "포스코 이앤씨, 3분기 영업이익 480억원 … 전년비 '흑자 전환'",
-      "date": "Mon, 02 Nov 2026 15:42:00 +0900"
-    },
-    {
-      "url": "https://www.g-enews.com/view.php?ud=2026110214345956033084322ec9_1",
-      "title": "포스코 퓨처엠, 실적 반등 속 LFP 전환 확대…가동률 높인다",
-      "date": "Mon, 02 Nov 2026 15:28:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiQk5aSFpLck1yQjFkNVdPLXg2M0NXeEFadmZzNTN4LTIzZGZiZXZsRXctZHlFbHR4X21yVXlVSEdkcGo5alZPOEZSdU9SVjg0Zjk2UlJYTUswTEMx?oc=5",
-      "title": "포스코홀딩스, 中 진출기업 지원 나선다…베이징 'K-마루' 출범 - 뉴스핌",
-      "date": "Mon, 02 Nov 2026 06:25:00 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mV1F5QXBtVTNSNUNhaE1ranlvM0VOZFQ1V1ROZ2hKWDVnLWF5T2RWZGNWYUVPSzRSclBHS1dPUTBNUUdPZVNtSTQ5VnMtQWdGWkJ4QmczTkQ?oc=5",
-      "title": "POSCO Holdings Inc.'s Q3 operating profit jumps 48% year on year ... Steel recovery brings cheer - 파이낸셜뉴스",
-      "date": "Mon, 02 Nov 2026 06:07:06 GMT"
-    },
     {
       "url": "https://www.pn.or.kr/news/articleView.html?idxno=34307",
       "title": "화재·폭발로 숨진 노동자들...대구경북, 1년새 산재 사망 2배↑ \"참사 없...",
@@ -7845,6 +7921,46 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMWM3YS1scXd0azFTQXcwYl9QbFVoS1hSMHpuZHBwUUxJeS1ER0VHWDk5aHA0OEk1TzF6bHVOWXVzWEh3dkw3Z2FJa2VjT1kxck5TcmNzU1JiMHV2blF1Q2I1aExaNGU2Z3c?oc=5",
       "title": "포스코 광양제철소, 제품부두 스마트물류 전환 속도…하역사 4곳 설비투자 지원 - 철강금속신문",
       "date": "Mon, 16 Nov 2026 05:18:42 GMT"
+    },
+    {
+      "url": "http://www.inews24.com/view/2026673",
+      "title": "경산시, 중국·인도 시장 뚫었다…8490만 달러 수출상담 성과",
+      "date": "Mon, 16 Nov 2026 15:44:00 +0900"
+    },
+    {
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006056",
+      "title": "경산시 무역사절단 , 지역 중소기업의 해외 판로 확대 발판 마련",
+      "date": "Mon, 16 Nov 2026 15:40:00 +0900"
+    },
+    {
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082843",
+      "title": "대구 한의대 160억 투자펀드 조성… 경북 K-메디산업 글로벌 진출 지원",
+      "date": "Mon, 16 Nov 2026 15:28:00 +0900"
+    },
+    {
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1320580&inflow=N",
+      "title": "TYM 흑자 VS 대동 적자…북미 한파 속 드러난 수익성 격차",
+      "date": "Mon, 16 Nov 2026 15:20:00 +0900"
+    },
+    {
+      "url": "https://www.kbsm.net/news/view.php?idx=541950",
+      "title": "포항시·시의회·상의 “ 포스코 노사, 지역경제 위해 대화와 상생의 대...",
+      "date": "Mon, 16 Nov 2026 15:20:00 +0900"
+    },
+    {
+      "url": "https://www.pressian.com/pages/articles/2026111614483265769",
+      "title": "감사원 ‘지역 토착비리’ 공직감찰 착수 … 경찰 2차 특별단속과 점검...",
+      "date": "Mon, 16 Nov 2026 15:14:00 +0900"
+    },
+    {
+      "url": "https://www.imaeil.com/page/view/2026111514490026356",
+      "title": "포스코 임금교섭, 부결 이후 출구는 어디에?…17일 노조, 상경 집회 예고",
+      "date": "Mon, 16 Nov 2026 15:11:00 +0900"
+    },
+    {
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753327",
+      "title": "대구 광역시, KTC와 섬유기업 해외 상담 1111건...908만 달러 실적",
+      "date": "Mon, 16 Nov 2026 15:02:00 +0900"
     }
   ],
   "brief_articles": [
