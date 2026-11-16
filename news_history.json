@@ -1,12 +1,5 @@
 {
   "sent": {
-    "https://dgmbc.com/NewsArticle/870801": "2026-11-02T12:03:04.909975+09:00",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHVHpIeE9XenAyYlVjQTllaXdSb1BQcVZTRFBNS2M2RXJyMEZlZGFxZzk5b2VRQXJFdGtuaVVyeEZiR3hTZVR1Rld6OHlwS2tWNHU4bTZsbGUxeWpwRjdPWE9oMnVlQUhfOHRvNdIBckFVX3lxTE1ySGMxVWpLc013RkJXMWVpUHdzTU04cVBSLXE2bV9Qbm1PV2VaRlhHMWpzQkFxb1BQNlRGR1NULXNmdF9oNG5EaGZzOGJYdktuNmN4RlQtbl92RWV0bG9GLVRQRExGQTRkZTFWbEVRMTdWZw?oc=5": "2026-11-02T12:03:04.909975+09:00",
-    "https://news.einfomax.co.kr/news/articleView.html?idxno=4442510": "2026-11-02T12:03:04.909975+09:00",
-    "https://www.newsis.com/view/NISX20261102_0003850791": "2026-11-02T12:03:04.909975+09:00",
-    "https://www.etoday.co.kr/news/view/2642963": "2026-11-02T12:03:04.909975+09:00",
-    "https://www.etoday.co.kr/news/view/2642961": "2026-11-02T12:03:04.909975+09:00",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BMlZyNWRiZkc1a0Fia0s5anpVa3BtRGVoMXlmRWY0TlNBWXZpR1c0QkJLMjk5V2FDUzY0dnZUMGxLak9lbjNGV2VuOXhKMGhZeGMzV2VBbVZEZVVwYlhHaXc2cjRUTkxoSDItaA?oc=5": "2026-11-02T12:03:04.909975+09:00",
     "https://www.kukinews.com/article/view/kuk202611020093": "2026-11-02T13:02:30.999731+09:00",
     "https://www.jbnews.com/news/articleView.html?idxno=1514911": "2026-11-02T14:02:45.991689+09:00",
     "https://biz.sbs.co.kr/article_hub/20000343643?division=NAVER": "2026-11-02T14:02:45.991689+09:00",
@@ -978,13 +971,6 @@
     "https://www.kmib.co.kr/article/20261116500254": "2026-11-16T12:02:13.553918+09:00"
   },
   "titles": {
-    "e56bc33659d4200dc1ce2861150ba26560a46b8759a97db79f245ab43b069bbb": "2026-11-02T12:03:04.909975+09:00",
-    "bfeade047db3108851ebd243b3a48abad02ef15b8ad5a3ed8a21222ee3628db1": "2026-11-02T12:03:04.909975+09:00",
-    "21657cd7352b45bfee29aba6c9d5aa740b7809feee12463abedec17b96c9e4cd": "2026-11-02T12:03:04.909975+09:00",
-    "491d3e3c7f8d895c64e6272db69953ed43881691d18f5b581feeb9060b11da10": "2026-11-02T12:03:04.909975+09:00",
-    "ebb41136bf813aa2f58fa21a279fd86f700e111203510b40d6ebbbae023125cb": "2026-11-02T12:03:04.909975+09:00",
-    "5920aeaa02d4c0bebbf2313cacef0a94801396c41ac01a61c8b28f268042a8e1": "2026-11-02T12:03:04.909975+09:00",
-    "2fe2e89a819ef4b76ff31b3312a0c867b7900ede14fe4b7cdf8aa1dfb7f4c336": "2026-11-02T12:03:04.909975+09:00",
     "da83631924fe227e3d5d3e5e1fea33fa8e3930da9890e0abbb86dac4c15806d9": "2026-11-02T13:02:30.999731+09:00",
     "a09645b6e928d1e8b9d43b8af2c93d84f9f46c28570c2e1a0cdad86a70787bdd": "2026-11-02T14:02:45.991689+09:00",
     "2f5f3dd753c5d7abf6c53468df82796aca829a43998709af61daad640416f1fc": "2026-11-02T14:02:45.991689+09:00",
@@ -1968,19 +1954,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.4th.kr/news/articleView.html?idxno=2121872": {
-      "title": "포스코이앤씨, 겨우 적자 벗었지만…곳곳에 재무 부실 뇌관",
-      "summary": "지난해 대규모 적자에서는 벗어났지만 재무구조 정상화까지는 갈 길이 멀다. PF 보증 1.8조원…9개월 새... 대구 MBC부지 주상복합 개발사업의 매출채권도 2007억원에 달한다. 해당 사업장의 공사 진행률은 98.66%다....",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2121872",
-      "date": "Sat, 14 Nov 2026 12:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.newsworks.co.kr/news/articleView.html?idxno=902971": {
       "title": "민영화 26년 포스코 , CEO 승계 흑역사…내달 인선 착수 '투명성' 시험대",
       "summary": "포스코 그룹이 오는 12월 초 차기 최고경영자(CEO) 인선을 앞두고 거버넌스 전면 개편 시험대에 올랐다. 현 장인화 회장의 임기는 내년 3월까지다. 포스코 는 완전 민영화 원년인 2000년 이후 정권 교체기마다 CEO 선임...",
@@ -2897,11 +2870,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-16",
   "sent_articles": [
-    {
-      "url": "https://www.kukinews.com/article/view/kuk202611020093",
-      "title": "포스코 퓨처엠, 3Q 매출 감소에도 영업익 전년比 23.2% ↑",
-      "date": "Mon, 02 Nov 2026 12:12:00 +0900"
-    },
     {
       "url": "https://www.jbnews.com/news/articleView.html?idxno=1514911",
       "title": "공소청, ' 에코프로 비엠 오창공장 사망 화재' 전 대표 징역 1년 6개월 구...",
