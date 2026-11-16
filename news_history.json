@@ -1,12 +1,5 @@
 {
   "sent": {
-    "https://www.pn.or.kr/news/articleView.html?idxno=34307": "2026-11-02T17:04:07.354192+09:00",
-    "http://www.snmnews.com/news/articleView.html?idxno=576782": "2026-11-02T17:04:07.354192+09:00",
-    "https://www.kukinews.com/article/view/kuk202611020173": "2026-11-02T17:04:07.354192+09:00",
-    "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717233": "2026-11-02T17:04:07.354192+09:00",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVVpRl9aWTgxaUNsZGplemtkSlhRRTJzZjZTYVZrWXNtaEtWLTIxeTN4NUwxVUlxaWNVcW9UbmU4aVhNbEhiTWlTdF9RREpSbG45SXZnNmtUczZRTHhNMEZlamJTekoteWZvZEhyMG5nUnN6R3VselFOdFpFOXlBSXFrY1RHbE1EazhqNVhKcEdMYmdHOEZIZHpfZ2hXZlhWbGlSZlY1QmxxZ0VRSDhhMFdyUXJCbUlTcERMQmZOMWk1S3hSVnNJ?oc=5": "2026-11-02T17:04:07.354192+09:00",
-    "https://www.ngetnews.com/news/articleView.html?idxno=555420": "2026-11-02T17:04:07.354192+09:00",
-    "https://www.fnnews.com/news/202611021432210524": "2026-11-02T17:04:07.354192+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089382": "2026-11-02T18:03:21.936107+09:00",
     "https://www.sedaily.com/article/20109253?ref=naver": "2026-11-02T18:03:21.936107+09:00",
     "https://www.econovill.com/news/articleView.html?idxno=755724": "2026-11-02T18:03:21.936107+09:00",
@@ -978,16 +971,19 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SXRMTkkzMm1SZUs0RGpVOXB6Y0c4SnpLR1lLb3RoWEkyRnhJSlhVeWRJZ1l6UklpQWVObDlqeXhZUDE2bmR4VlhUWW0yVkNzRjBwZUVKQUZ4SVZBSkxiLW85a3NHOHl3S0FN?oc=5": "2026-11-16T17:02:15.349144+09:00",
     "http://www.iminju.net/news/articleView.html?idxno=172540": "2026-11-16T17:02:15.349144+09:00",
     "https://www.thebk.co.kr/news/articleView.html?idxno=312845": "2026-11-16T17:02:15.349144+09:00",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qOGhWT2h1bkk0aTBLcnYtSW9xRkFJT1p5VERKbVdsc2lGY1BVSjFNVzZVdnBvbkFSNjJVaW5oLV9VbUdfa3RRVlp5TUhSVklQQVB0a2Rzc0VIV0ZoNUJGeTdmUDhOYy1mREE?oc=5": "2026-11-16T17:02:15.349144+09:00"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qOGhWT2h1bkk0aTBLcnYtSW9xRkFJT1p5VERKbVdsc2lGY1BVSjFNVzZVdnBvbkFSNjJVaW5oLV9VbUdfa3RRVlp5TUhSVklQQVB0a2Rzc0VIV0ZoNUJGeTdmUDhOYy1mREE?oc=5": "2026-11-16T17:02:15.349144+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090967": "2026-11-16T18:02:42.061578+09:00",
+    "https://www.ezyeconomy.com/news/articleView.html?idxno=241903": "2026-11-16T18:02:42.061578+09:00",
+    "http://www.popcornnews.net/news/articleView.html?idxno=140238": "2026-11-16T18:02:42.061578+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ITlNpZTZpd1dpRE1FT2JGU0hiWFhqdmEtWWVFeF9NTGNzdDhFQ0xpemkyMEg2MW81d0t6V3BWbzd3dC05MTE0T2hmRFloRWpKbWVMNGJHSHdnN1VuT3BUNmp5V0g5ZDE1c0Vr?oc=5": "2026-11-16T18:02:42.061578+09:00",
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312292": "2026-11-16T18:02:42.061578+09:00",
+    "https://www.mt.co.kr/stock/2026/11/16/2026111616592365464": "2026-11-16T18:02:42.061578+09:00",
+    "https://www.newsis.com/view/NISX20261116_0003870347": "2026-11-16T18:02:42.061578+09:00",
+    "https://www.cbci.co.kr/news/articleView.html?idxno=627388": "2026-11-16T18:02:42.061578+09:00",
+    "https://www.joongang.co.kr/article/25479062": "2026-11-16T18:02:42.061578+09:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1cHlmM1JEMlpzQ3J5dmlxcHV5TG9oc1BuaWNOQlpUYkkzY09McWlYTVhDN2d2OEx3MEpPLVJpVzhaV3F5NnRZUHhYTFl1ck1mdVBXSFF2b1JSX002M1N6alRGend4dw?oc=5": "2026-11-16T18:02:42.061578+09:00"
   },
   "titles": {
-    "2895054fec5ea5d0cb1eb96c280c6ab6fe24b59ad51d4ef771da08fe2ae9d5a3": "2026-11-02T17:04:07.354192+09:00",
-    "26dd1d1ff54d72e22785f140fd3cbce517d1c919d79749316a0830a0c34ee6cb": "2026-11-02T17:04:07.354192+09:00",
-    "7a080f51e52b0ab8086d04e7330ad02a46146c532678e7d1175799aa70cce8b7": "2026-11-02T17:04:07.354192+09:00",
-    "b1fad005397f5507266f2dc4c958695ad8cebb07e092dccdf0c2998037fb62bd": "2026-11-02T17:04:07.354192+09:00",
-    "79a6d6f1cf128c38c052652161b08f65f6db7e4b04581fd54363543727c73e5d": "2026-11-02T17:04:07.354192+09:00",
-    "21d4ca678b1b89f62abd52d716d80c9df96cd7f34057b5053cce5b824c77c3ec": "2026-11-02T17:04:07.354192+09:00",
-    "c65fff7d74d31a4ff881f1e5ea02bdbfd516b85d517ff1835039e60909a0b42e": "2026-11-02T17:04:07.354192+09:00",
     "be1433cc72a36c1d46a3630a19f4a0505942612fc1be48ca0324634eb3d3819f": "2026-11-02T18:03:21.936107+09:00",
     "1910fb59701d602c84e39ba0afbed017a47e5b113325e7abebe5b6a6949cbfcb": "2026-11-02T18:03:21.936107+09:00",
     "92af17f8beb542a8e6426514ed5ec94f0be4edd20249a166e083ad5727296404": "2026-11-02T18:03:21.936107+09:00",
@@ -1959,84 +1955,42 @@
     "24227d44520dd27644ca16625370ea415f873ef42201e4918e40d1bd3152c41d": "2026-11-16T17:02:15.349144+09:00",
     "0684b640bac43ff17314ebc6f43d170ef2e8b623103fa8a00028aed30e4290cf": "2026-11-16T17:02:15.349144+09:00",
     "f4f633e1776811ca73ae7ff8199a64f7d30a6cb06205612747223cb4fef099b2": "2026-11-16T17:02:15.349144+09:00",
-    "913692371e14c670b184822df186be654ce0a53b36026306428e02c69140011f": "2026-11-16T17:02:15.349144+09:00"
+    "913692371e14c670b184822df186be654ce0a53b36026306428e02c69140011f": "2026-11-16T17:02:15.349144+09:00",
+    "a31053813ee994055f00848daf7035f7b1c31b7110fd260d5f782a0d68169b14": "2026-11-16T18:02:42.061578+09:00",
+    "97f1c10cc2710d52650e189cb92b18d7cd6d82aee020bc0289e7253242c6e8b2": "2026-11-16T18:02:42.061578+09:00",
+    "138ef5f612bab784edc347344af555dbea99f56809f326992131b9d947116496": "2026-11-16T18:02:42.061578+09:00",
+    "7b70c691abc7f10779b1600c6853e690ae83211ac7bd94b12e7cabdf8e7ed7b1": "2026-11-16T18:02:42.061578+09:00",
+    "0952a8481d9ea5e0fbe9df716457603222fd36ef262f7a20ee5f2b81cbd3f539": "2026-11-16T18:02:42.061578+09:00",
+    "78935de4d3d94dc14db6f843268aec905ffc38f20aff9270f0b28bd12b08ca11": "2026-11-16T18:02:42.061578+09:00",
+    "a4c9aa6f7df770bec702bb94d924d1f83875db6b72e8f085eaeb156d257a9c48": "2026-11-16T18:02:42.061578+09:00",
+    "efc8344d81db65c497e4ac0ef6242cacb83289078bd4c664d7e4ee265821189c": "2026-11-16T18:02:42.061578+09:00",
+    "001a6713f5afd895352fb595817565167b4cac5f9177c6b11734dbce264bc745": "2026-11-16T18:02:42.061578+09:00",
+    "8688e5f5433252971c0896f3b93ec08af05ef91189974024081dd725a26dd649": "2026-11-16T18:02:42.061578+09:00"
   },
   "pending": {
-    "http://www.breaknews.com/1251270": {
-      "title": "에코프로 , 국제배터리엑스포서 포항 투자 성과·차세대 소재 기술 공개",
-      "summary": "에코프로 가 포항에 조성한 이차전지 소재 산업 기반과 글로벌 공급망 경쟁력, 차세대 배터리 소재 기술을 국내외에 알렸다. 에코프로 는 지난 13일부터 15일까지 포항...",
-      "url": "http://www.breaknews.com/1251270",
-      "date": "Mon, 16 Nov 2026 16:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.polinews.co.kr/news/articleView.html?idxno=748536": {
-      "title": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대...",
-      "summary": "포스코 임금협상 잠정합의안 부결과 재교섭 결렬로 노사 갈등이 장기화할 조짐을 보이면서 포항 지역사회가... 브리핑룸에서 ' 포스코 노사의 상생과 포항의 미래를 위한 공동 호소문'을 발표하고 노사 간 신뢰 회복과 갈등...",
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748536",
-      "date": "Mon, 16 Nov 2026 16:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.asiatime.co.kr/article/20261116500375": {
-      "title": "포항 경제 ' 포스코 발 한파' 직면⋯ 시민·소상공인 “노조, 대화로 돌아...",
-      "summary": "포항 3대 기관장, 포스코 노사에 공동 호소문… 조속 타협 촉구 교섭 장기화에 협력업체·소상공인 생계 위협... (사진=경북기자회) [아시아타임즈 영남취재본부=구진홍 기자] 포스코 임금교섭이 사실상 표류하면서 포항...",
-      "url": "https://www.asiatime.co.kr/article/20261116500375",
-      "date": "Mon, 16 Nov 2026 16:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Md1Uxd3FqOWVySDVlUDNBU0RDMlpuSFpraEpzczM1RlNzMmdGZEx3TTQ4Vnd0M1JJQUxSU204V2hWak5NT3RiOGlVSzdTeFZhTUtzUThIdDlxMU1DcWYwZzBlX1E?oc=5": {
-      "title": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 - 매일일보",
-      "summary": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Md1Uxd3FqOWVySDVlUDNBU0RDMlpuSFpraEpzczM1RlNzMmdGZEx3TTQ4Vnd0M1JJQUxSU204V2hWak5NT3RiOGlVSzdTeFZhTUtzUThIdDlxMU1DcWYwZzBlX1E?oc=5",
-      "date": "Mon, 16 Nov 2026 07:05:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiowJBVV95cUxPaEJqaUpiWjRCLTcwUURVclQ3d1VtZHVONzh4djlDeTVLX1lXN3lHYkgtUUhTUW5UdHFzOWZDbFpwNzBacWl0dGJwUU85SWV3UThyYmNjMWdIWFA2Y1RWRW43UVhlSm1mbXA3YVNRQ1R6cmNFb1dyLUNVQ2dkdDR4bWg0WDJLbXh6VzlkbEYxY2J3djcyQjgxcnRJRHFfZ05BTk5fSnUxZkMwQWZaOV9mWE1iWUptbnhqLXJZTFZRVXh4ck9PQ09pbFNabEpVT1IwQTdUTHBqWkV4R0JYTXNoaE1Rdm5ZYk5KcDVYUENud1c5alMtQXhwbFh4WUQ3SEwyMldSaE45RDVhZmZIY2g4Z2QybDhEZXNybXNKbVQ3TUNiQUU?oc=5": {
-      "title": "이철우, 경북 조합장 특강서...\"농식품 수출 전기기지 만들자\" - 데일리안",
-      "summary": "이철우, 경북 조합장 특강서...\"농식품 수출 전기기지 만들자\" 데일리안",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPaEJqaUpiWjRCLTcwUURVclQ3d1VtZHVONzh4djlDeTVLX1lXN3lHYkgtUUhTUW5UdHFzOWZDbFpwNzBacWl0dGJwUU85SWV3UThyYmNjMWdIWFA2Y1RWRW43UVhlSm1mbXA3YVNRQ1R6cmNFb1dyLUNVQ2dkdDR4bWg0WDJLbXh6VzlkbEYxY2J3djcyQjgxcnRJRHFfZ05BTk5fSnUxZkMwQWZaOV9mWE1iWUptbnhqLXJZTFZRVXh4ck9PQ09pbFNabEpVT1IwQTdUTHBqWkV4R0JYTXNoaE1Rdm5ZYk5KcDVYUENud1c5alMtQXhwbFh4WUQ3SEwyMldSaE45RDVhZmZIY2g4Z2QybDhEZXNybXNKbVQ3TUNiQUU?oc=5",
-      "date": "Mon, 16 Nov 2026 07:15:00 GMT",
+    "https://www.thebk.co.kr/news/articleView.html?idxno=312851": {
+      "title": "경주시 투자유치대표단, 美 4개 주 돌며 투자·수출 영토 확장… H마트·...",
+      "summary": "경북 경주시가 미국 현지 유력 유통기업과 한인 경제계, 글로벌 금융기관과 잇따라 손을 잡으며 자동차부품... 업무협약( MOU )을 체결했다. 시는 미 전역에 뻗어 있는 H마트의 탄탄한 유통망을 활용해 지역 우수 농특산물과...",
+      "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312851",
+      "date": "Mon, 16 Nov 2026 17:04:00 +0900",
       "channels": [
         "domestic"
       ],
       "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
+      "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
     },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yX1F3cExWYkZ5dWVvaEhLNUN5dEpQaU0yOGxiZ1k4Q0JUNHBPX0poWkk2N3lCTllXNm5KRHlPR0dvdGtxdmtPQ2tpZTlzWlpFRGh6eXpEUVRITDFFNGFPV1RjR0ZILS0yeHdIYm9R?oc=5": {
-      "title": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대승적 결단\" 촉구 - 폴리뉴스 Polinews",
-      "summary": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대승적 결단\" 촉구 폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yX1F3cExWYkZ5dWVvaEhLNUN5dEpQaU0yOGxiZ1k4Q0JUNHBPX0poWkk2N3lCTllXNm5KRHlPR0dvdGtxdmtPQ2tpZTlzWlpFRGh6eXpEUVRITDFFNGFPV1RjR0ZILS0yeHdIYm9R?oc=5",
-      "date": "Mon, 16 Nov 2026 07:24:50 GMT",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LR2dadktDTlZEZGVQc2UzRjFvYV9oZk11ODRUcU10NXdSNXQxZWFiTnZ0ekloSDB1N05tSUV1UndyXzZ0amdURWlIWFhyR2k2ZmdOMkFFNmpMeEZDYnpIWnFSUGZlWVJKOUE?oc=5": {
+      "title": "경주시 투자유치대표단, 美 4개 주 돌며 투자·수출 영토 확장… H마트·뉴욕한인회와 잇단 협약 - 뷰티경제",
+      "summary": "경주시 투자유치대표단, 美 4개 주 돌며 투자·수출 영토 확장… H마트·뉴욕한인회와 잇단 협약 뷰티경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LR2dadktDTlZEZGVQc2UzRjFvYV9oZk11ODRUcU10NXdSNXQxZWFiTnZ0ekloSDB1N05tSUV1UndyXzZ0amdURWlIWFhyR2k2ZmdOMkFFNmpMeEZDYnpIWnFSUGZlWVJKOUE?oc=5",
+      "date": "Mon, 16 Nov 2026 08:02:10 GMT",
       "channels": [
         "domestic"
       ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
     }
@@ -2049,7 +2003,7 @@
     "2026-11-13": 26,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 4
+    "2026-11-16": 7
   },
   "cursor": 0,
   "archive": {
@@ -3380,6 +3334,162 @@
       "category": "관심기업 동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.thebk.co.kr/news/articleView.html?idxno=312851": {
+      "title": "경주시 투자유치대표단, 美 4개 주 돌며 투자·수출 영토 확장… H마트·...",
+      "summary": "경북 경주시가 미국 현지 유력 유통기업과 한인 경제계, 글로벌 금융기관과 잇따라 손을 잡으며 자동차부품... 업무협약( MOU )을 체결했다. 시는 미 전역에 뻗어 있는 H마트의 탄탄한 유통망을 활용해 지역 우수 농특산물과...",
+      "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312851",
+      "date": "Mon, 16 Nov 2026 17:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312292": {
+      "title": "영천시, 신녕면 어릿골 경로당 준공",
+      "summary": "경북 영천시는 지난 15일 신녕면 매양리에서 어릿골 경로당 준공식을 열고 지역 어르신과 주민들을 위한... 어릿골 경로당은 총 4억3천500만원의 사업비를 전액 시비로 투입해 지상 1층, 연면적 71.06㎡ 규모로 건립 됐다. 시는...",
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312292",
+      "date": "Mon, 16 Nov 2026 17:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsis.com/view/NISX20261116_0003870347": {
+      "title": "경주 투자 유치단, 美 수출·관광 협력망 확대…성과 연계",
+      "summary": "경북 경주시는 주낙영 시장을 단장으로 한 투자 유치대표단이 5박8일간의 일정을 마치고 귀국했다고 16일... 주낙영 경주시장은 \"미국 현지에서 맺은 업무 협약 이 투자 ·수출·관광 분야 실질적 성과로 이어질 수 있게...",
+      "url": "https://www.newsis.com/view/NISX20261116_0003870347",
+      "date": "Mon, 16 Nov 2026 17:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.joongang.co.kr/article/25479062": {
+      "title": "대구 한의대, 160억원 규모 ‘지역 투자 펀드’ 조성 협약",
+      "summary": "업무 협약 을 체결했다. 이번 펀드는 경북 지역 기업의 기술사업화와 해외시장 진출 등을 지원하기 위해... 기업에 투자 할 계획이다. 대구 한의대는 펀드에 10억원을 출자하고, 글로컬대학30 사업의 핵심 분야인 K-MEDI...",
+      "url": "https://www.joongang.co.kr/article/25479062",
+      "date": "Mon, 16 Nov 2026 17:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.mt.co.kr/stock/2026/11/16/2026111616592365464": {
+      "title": "코벤 비중 맞춰라…연말 코스닥 사모CB 한 달 새 6200억 '봇물'",
+      "summary": "또 코스피 상장사가 CB를 발행한 경우는 대동 (60억원), 금호건설(500억원) 등 2개사에 그쳤다. 스몰딜이 많아진 것은 코벤펀드의 투자 수요 때문이다. 정책자금인 코벤펀드는 설정 후 일정 기간(사모펀드 6개월...",
+      "url": "https://www.mt.co.kr/stock/2026/11/16/2026111616592365464",
+      "date": "Mon, 16 Nov 2026 17:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "자본이동",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.cbci.co.kr/news/articleView.html?idxno=627388": {
+      "title": "이수페타시스 , 8만3100원 6.10% 급락…다올투자증권 다중적층 비중 70% 전...",
+      "summary": "이수페타시스 로고 이수페타시스 가 16일 큰 폭으로 하락하고 있다. 다올투자증권이 지난 10월 20일 다중적층 제품 비중 확대와 기판 판가 상승 가능성을 제시한 가운데 주가는 8만원대로 내려섰다. 16일 애프터마켓에서...",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=627388",
+      "date": "Mon, 16 Nov 2026 17:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090967": {
+      "title": "포스코 노조, 17일 상경집회 예고…실질적 재교섭 촉구",
+      "summary": "포스코 노동조합(위원장 김성호)이 지난 7일 잠정합의안에 대한 조합원 투표에서 부결된 뒤 지난 주 사측과의 본교섭이 결렬되자 17일 상경투쟁을 결정했다. 포스코 노조는 17일 낮 12시 서울 포스코 센터 앞에서 사측의...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090967",
+      "date": "Mon, 16 Nov 2026 17:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ezyeconomy.com/news/articleView.html?idxno=241903": {
+      "title": "[EZ 해부] 철강이 살린 포스코 실적…장인화號 29조 투자, 성적표는 아직",
+      "summary": "16일 업계에 따르면 포스코홀딩스 의 올해 3분기 연결 영업이익은 9450억원으로 전년 동기보다 47.9% 증가했다. 1분기 7068억원, 2분기 8190억원에 이어 세 분기 연속 개선됐다. 특히 포스코 철강 부문이 판매가격 상승과...",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241903",
+      "date": "Mon, 16 Nov 2026 17:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.popcornnews.net/news/articleView.html?idxno=140238": {
+      "title": "포스코 DX, 그룹사 일감 의존의 한계…자동화 수주 늘어도 이익은 뒷걸음",
+      "summary": "포스코 DX가 포스코 그룹을 중심으로 자동화 사업 일감을 늘리고 있지만, 정작 수익성은 악화하는 것으로 나타났다. 그룹사 의존도가 높은 사업 구조에서 수주 확대가 이익 성장으로 이어지지 않으면서 사업 다변화와...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=140238",
+      "date": "Mon, 16 Nov 2026 17:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1cHlmM1JEMlpzQ3J5dmlxcHV5TG9oc1BuaWNOQlpUYkkzY09McWlYTVhDN2d2OEx3MEpPLVJpVzhaV3F5NnRZUHhYTFl1ck1mdVBXSFF2b1JSX002M1N6alRGend4dw?oc=5": {
+      "title": "경주시, 미국 기업·기관과 투자·수출 협력 확대…현지 업무협약 체결 - 이로운넷",
+      "summary": "경주시, 미국 기업·기관과 투자·수출 협력 확대…현지 업무협약 체결 이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1cHlmM1JEMlpzQ3J5dmlxcHV5TG9oc1BuaWNOQlpUYkkzY09McWlYTVhDN2d2OEx3MEpPLVJpVzhaV3F5NnRZUHhYTFl1ck1mdVBXSFF2b1JSX002M1N6alRGend4dw?oc=5",
+      "date": "Mon, 16 Nov 2026 08:10:09 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LR2dadktDTlZEZGVQc2UzRjFvYV9oZk11ODRUcU10NXdSNXQxZWFiTnZ0ekloSDB1N05tSUV1UndyXzZ0amdURWlIWFhyR2k2ZmdOMkFFNmpMeEZDYnpIWnFSUGZlWVJKOUE?oc=5": {
+      "title": "경주시 투자유치대표단, 美 4개 주 돌며 투자·수출 영토 확장… H마트·뉴욕한인회와 잇단 협약 - 뷰티경제",
+      "summary": "경주시 투자유치대표단, 美 4개 주 돌며 투자·수출 영토 확장… H마트·뉴욕한인회와 잇단 협약 뷰티경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LR2dadktDTlZEZGVQc2UzRjFvYV9oZk11ODRUcU10NXdSNXQxZWFiTnZ0ekloSDB1N05tSUV1UndyXzZ0amdURWlIWFhyR2k2ZmdOMkFFNmpMeEZDYnpIWnFSUGZlWVJKOUE?oc=5",
+      "date": "Mon, 16 Nov 2026 08:02:10 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ITlNpZTZpd1dpRE1FT2JGU0hiWFhqdmEtWWVFeF9NTGNzdDhFQ0xpemkyMEg2MW81d0t6V3BWbzd3dC05MTE0T2hmRFloRWpKbWVMNGJHSHdnN1VuT3BUNmp5V0g5ZDE1c0Vr?oc=5": {
+      "title": "김희천 한수원 사장, 노조와 함께 월성본부에서 ʻ안전챙김 현장경영ʼ - 프레시안",
+      "summary": "김희천 한수원 사장, 노조와 함께 월성본부에서 ʻ안전챙김 현장경영ʼ 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ITlNpZTZpd1dpRE1FT2JGU0hiWFhqdmEtWWVFeF9NTGNzdDhFQ0xpemkyMEg2MW81d0t6V3BWbzd3dC05MTE0T2hmRFloRWpKbWVMNGJHSHdnN1VuT3BUNmp5V0g5ZDE1c0Vr?oc=5",
+      "date": "Mon, 16 Nov 2026 08:37:06 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -3399,31 +3509,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-16",
   "sent_articles": [
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089382",
-      "title": "화재·폭발 사망 사고 잇따라…대구노동청, 위험 사업장 불시점검",
-      "date": "Mon, 02 Nov 2026 17:28:00 +0900"
-    },
-    {
-      "url": "https://www.sedaily.com/article/20109253?ref=naver",
-      "title": "CES서 맺은 투자협약 10달 만에 결실…삼성SDS 구미 데이터센터 첫 삽",
-      "date": "Mon, 02 Nov 2026 17:46:00 +0900"
-    },
-    {
-      "url": "https://www.econovill.com/news/articleView.html?idxno=755724",
-      "title": "포스코 \"리튬 2공장, 1년 후 흑자 기대\"…철강 부문 실적은 '고로 개보수...",
-      "date": "Mon, 02 Nov 2026 17:28:00 +0900"
-    },
-    {
-      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361762",
-      "title": "포스코 홀딩스, 철강 본업 살아나며 실적 개선… 리튬·LNG 성장동력 강화",
-      "date": "Mon, 02 Nov 2026 17:08:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jck9nUF9Bc2xsQmUzdGZZNUowZFgwSVpLdzZ3SEFRc1IyTndmWmh4Uzdud3VrTmFlTlVNTnJrUU1QODFHUENRMnhoWUNXRFpYVmg2cjJGN2UzZw?oc=5",
-      "title": "(2nd LD) POSCO Holdings Q3 net falls 1.8 pct on one-off losses - Yonhap News Agency",
-      "date": "Mon, 02 Nov 2026 08:03:46 GMT"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qa2xtcEsyWWhuam93dFhsNjh0UFFvUHBHT2JVSFZHZWU5QlhnWldpb1owYS12clRCN0JJQzYxY3NCSGl4M3E3SGpfeXBOX0RoTTlET2E2TExwSlVnaWNET1RiVnQ5VU0?oc=5",
       "title": "Isu Petasys Plans Seventh Plant in Daegu - www.thelec.net",
@@ -8258,6 +8343,56 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qOGhWT2h1bkk0aTBLcnYtSW9xRkFJT1p5VERKbVdsc2lGY1BVSjFNVzZVdnBvbkFSNjJVaW5oLV9VbUdfa3RRVlp5TUhSVklQQVB0a2Rzc0VIV0ZoNUJGeTdmUDhOYy1mREE?oc=5",
       "title": "경산시, 중국·인도 무역사절단 ‘거대 시장’ 중국·인도 뚫었다… 1180억 규모 수출길 활짝 - 뷰티경제",
       "date": "Mon, 16 Nov 2026 07:32:29 GMT"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090967",
+      "title": "포스코 노조, 17일 상경집회 예고…실질적 재교섭 촉구",
+      "date": "Mon, 16 Nov 2026 17:50:00 +0900"
+    },
+    {
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241903",
+      "title": "[EZ 해부] 철강이 살린 포스코 실적…장인화號 29조 투자, 성적표는 아직",
+      "date": "Mon, 16 Nov 2026 17:42:00 +0900"
+    },
+    {
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=140238",
+      "title": "포스코 DX, 그룹사 일감 의존의 한계…자동화 수주 늘어도 이익은 뒷걸음",
+      "date": "Mon, 16 Nov 2026 17:40:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ITlNpZTZpd1dpRE1FT2JGU0hiWFhqdmEtWWVFeF9NTGNzdDhFQ0xpemkyMEg2MW81d0t6V3BWbzd3dC05MTE0T2hmRFloRWpKbWVMNGJHSHdnN1VuT3BUNmp5V0g5ZDE1c0Vr?oc=5",
+      "title": "김희천 한수원 사장, 노조와 함께 월성본부에서 ʻ안전챙김 현장경영ʼ - 프레시안",
+      "date": "Mon, 16 Nov 2026 08:37:06 GMT"
+    },
+    {
+      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312292",
+      "title": "영천시, 신녕면 어릿골 경로당 준공",
+      "date": "Mon, 16 Nov 2026 17:36:00 +0900"
+    },
+    {
+      "url": "https://www.mt.co.kr/stock/2026/11/16/2026111616592365464",
+      "title": "코벤 비중 맞춰라…연말 코스닥 사모CB 한 달 새 6200억 '봇물'",
+      "date": "Mon, 16 Nov 2026 17:29:00 +0900"
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261116_0003870347",
+      "title": "경주 투자 유치단, 美 수출·관광 협력망 확대…성과 연계",
+      "date": "Mon, 16 Nov 2026 17:28:00 +0900"
+    },
+    {
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=627388",
+      "title": "이수페타시스 , 8만3100원 6.10% 급락…다올투자증권 다중적층 비중 70% 전...",
+      "date": "Mon, 16 Nov 2026 17:26:00 +0900"
+    },
+    {
+      "url": "https://www.joongang.co.kr/article/25479062",
+      "title": "대구 한의대, 160억원 규모 ‘지역 투자 펀드’ 조성 협약",
+      "date": "Mon, 16 Nov 2026 17:15:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1cHlmM1JEMlpzQ3J5dmlxcHV5TG9oc1BuaWNOQlpUYkkzY09McWlYTVhDN2d2OEx3MEpPLVJpVzhaV3F5NnRZUHhYTFl1ck1mdVBXSFF2b1JSX002M1N6alRGend4dw?oc=5",
+      "title": "경주시, 미국 기업·기관과 투자·수출 협력 확대…현지 업무협약 체결 - 이로운넷",
+      "date": "Mon, 16 Nov 2026 08:10:09 GMT"
     }
   ],
   "brief_articles": [
@@ -8295,7 +8430,7 @@
     "2026-11-13": 14,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 4
+    "2026-11-16": 5
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
