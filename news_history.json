@@ -968,7 +968,9 @@
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBzUzJVYm4yOHFFcWkyTzNESm1KcUxydk1IZzFzaDc3YS01OGkxcktNNnBsMlQ5Q3hpdzdYNUZSeUdwY3Q2QjJaWUNJc1RIYnA0dzJvS19rb3k4cU9jclRlQnhVMzRrUmd4NXFNODcwSk1Qdw?oc=5": "2026-11-15T19:02:01.214787+09:00",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzblFQNENPV1FaOEJuQVloOWxkTlNnVE1BRnVyS3laUE56b2tFSk5ST2swcmVJQV9HNnNRTktRMWZkdzBqQ1RNUzlGa0ZWZ19qNVpwM1ZLNzdyeFp2NnRJMFRB?oc=5": "2026-11-15T20:01:45.992816+09:00",
     "https://www.cstimes.com/news/articleView.html?idxno=727925": "2026-11-15T21:01:44.929001+09:00",
-    "https://www.m-i.kr/news/articleView.html?idxno=2018610": "2026-11-15T22:02:13.096493+09:00"
+    "https://www.m-i.kr/news/articleView.html?idxno=2018610": "2026-11-15T22:02:13.096493+09:00",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMkRObUVya3pOS2tCajI3cGs2YlM3d3lfTkxOaUZaeEMxcFRBZ0FXQi0yRkxSUnVGQm8ycmdVZFBvWmRibFFKZm1JZDBvMHdHT1FWMUZoenZqNGVq?oc=5": "2026-11-16T09:01:57.808367+09:00",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607174962770": "2026-11-16T09:01:57.808367+09:00"
   },
   "titles": {
     "8bd78970b2a93357bf3eecb89c71ca72ec68955f67b7476b9c404ec3afba7251": "2026-11-02T09:02:42.907352+09:00",
@@ -1939,7 +1941,9 @@
     "9f1a5ca93a36528988a719a77e4fb2d1fee72427009f28725e8987485fc16d74": "2026-11-15T19:02:01.214787+09:00",
     "2f1489b9652f14109ab01dbf5925f9b263d0153b8b3d0f77f98650581922f98b": "2026-11-15T20:01:45.992816+09:00",
     "2c572734ac757e214ba5e6081d74f6637fcff2adcec0af8289c3b3d96a7ca0ad": "2026-11-15T21:01:44.929001+09:00",
-    "d22f19cf83415a85f9ad9861f7f8cf8dae2dc076b7df94a6ec03131436633dbe": "2026-11-15T22:02:13.096493+09:00"
+    "d22f19cf83415a85f9ad9861f7f8cf8dae2dc076b7df94a6ec03131436633dbe": "2026-11-15T22:02:13.096493+09:00",
+    "7664de5e03a01a441c6c7280900d34047657a23d756d350a91ba1f0d7c08b595": "2026-11-16T09:01:57.808367+09:00",
+    "6342cddc53c934f52cce9d4d5851a77e1006b90d1a92ca2c4e532d143430272c": "2026-11-16T09:01:57.808367+09:00"
   },
   "pending": {},
   "ai": {
@@ -1954,19 +1958,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jN2dnbFNYY2NwVXU4amxxbW5JQmgwQUMtYjhwR01qYVU0VWtpcl8yekRYSU5YQmVoZEVPQnJKUm0xdC0tc1pDeV8xWnlGdw?oc=5": {
-      "title": "경북TP, 81억 규모 우즈벡 IT 교육 등 코이카 ODA 2건 연속 수주 - 전자신문",
-      "summary": "경북TP, 81억 규모 우즈벡 IT 교육 등 코이카 ODA 2건 연속 수주 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jN2dnbFNYY2NwVXU4amxxbW5JQmgwQUMtYjhwR01qYVU0VWtpcl8yekRYSU5YQmVoZEVPQnJKUm0xdC0tc1pDeV8xWnlGdw?oc=5",
-      "date": "Fri, 13 Nov 2026 23:46:12 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5": {
       "title": "[‘대구의 미래’ 혁신도시 공공기관③] 산업단지 혁신 넘어 지역사회에 온기 나누는 한국산업단지공단 - 영남일보",
       "summary": "[‘대구의 미래’ 혁신도시 공공기관③] 산업단지 혁신 넘어 지역사회에 온기 나누는 한국산업단지공단 영남일보",
@@ -2655,6 +2646,32 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607174962770": {
+      "title": "에코프로 , 포항에 3.3조 투자 성과 공개…차세대 배터리 소재 경쟁력 강...",
+      "summary": "에코프로 가 경북 포항에 3조3000억원을 투자해 구축한 이차전지 소재 생산 생태계와 차세대 배터리 소재 기술력을 공개했다. 기존 하이니켈 양극재를 넘어 중저가·차세대 배터리 소재로 사업 영역을 확대한다는...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607174962770",
+      "date": "Mon, 16 Nov 2026 08:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMkRObUVya3pOS2tCajI3cGs2YlM3d3lfTkxOaUZaeEMxcFRBZ0FXQi0yRkxSUnVGQm8ycmdVZFBvWmRibFFKZm1JZDBvMHdHT1FWMUZoenZqNGVq?oc=5": {
+      "title": "[리포트 브리핑]한국가스공사, '해외 자회사 실적 개선에 힘입어 시장 기대치 상회' 목표가 45,000원 - KB증권 - 뉴스핌",
+      "summary": "[리포트 브리핑]한국가스공사, '해외 자회사 실적 개선에 힘입어 시장 기대치 상회' 목표가 45,000원 - KB증권 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMkRObUVya3pOS2tCajI3cGs2YlM3d3lfTkxOaUZaeEMxcFRBZ0FXQi0yRkxSUnVGQm8ycmdVZFBvWmRibFFKZm1JZDBvMHdHT1FWMUZoenZqNGVq?oc=5",
+      "date": "Sun, 15 Nov 2026 23:34:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -2674,11 +2691,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-16",
   "sent_articles": [
-    {
-      "url": "https://www.news1.kr/photos/8190951",
-      "title": "무기한 파업 모면한 포스코",
-      "date": "Mon, 02 Nov 2026 08:29:00 +0900"
-    },
     {
       "url": "https://news.tf.co.kr/read/national/2383508.htm",
       "title": "경북 곳곳 화재·교통 사고 잇따라…주택· 공장 전소, 보행자 중상",
@@ -7518,6 +7530,16 @@
       "url": "https://www.m-i.kr/news/articleView.html?idxno=2018610",
       "title": "대구 서구, 산업단지 대기·폐수 배출사업장 불시 점검해 3곳 적발",
       "date": "Sun, 15 Nov 2026 21:24:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMkRObUVya3pOS2tCajI3cGs2YlM3d3lfTkxOaUZaeEMxcFRBZ0FXQi0yRkxSUnVGQm8ycmdVZFBvWmRibFFKZm1JZDBvMHdHT1FWMUZoenZqNGVq?oc=5",
+      "title": "[리포트 브리핑]한국가스공사, '해외 자회사 실적 개선에 힘입어 시장 기대치 상회' 목표가 45,000원 - KB증권 - 뉴스핌",
+      "date": "Sun, 15 Nov 2026 23:34:00 GMT"
+    },
+    {
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607174962770",
+      "title": "에코프로 , 포항에 3.3조 투자 성과 공개…차세대 배터리 소재 경쟁력 강...",
+      "date": "Mon, 16 Nov 2026 08:16:00 +0900"
     }
   ],
   "brief_articles": [
