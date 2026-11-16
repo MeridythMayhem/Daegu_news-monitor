@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Qa2xtcEsyWWhuam93dFhsNjh0UFFvUHBHT2JVSFZHZWU5QlhnWldpb1owYS12clRCN0JJQzYxY3NCSGl4M3E3SGpfeXBOX0RoTTlET2E2TExwSlVnaWNET1RiVnQ5VU0?oc=5": "2026-11-02T19:03:29.123772+09:00",
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2357773": "2026-11-02T21:02:41.172892+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628084": "2026-11-02T21:02:41.172892+09:00",
     "https://www.segye.com/newsView/20261103503141?OutUrl=naver": "2026-11-03T09:02:36.210472+09:00",
@@ -980,10 +979,11 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTRhSFBQZmY3Ujl4NXExMkVTUUlpMFhkRzhjWGMzRWt6RTA3c0E3V2o5aDdWUi1Zai16a0I0Y2g3VkJpdnZORFdqeC1yUXZDLTJjWlExVmxxMUdpQ2lHbVJacXBLRlhnRzhNMWF5ZEQ0Ny1vdm1SOVc0dzRENXduYg?oc=5": "2026-11-16T19:02:10.878196+09:00",
     "https://www.ajunews.com/view/20261116150301515": "2026-11-16T19:02:10.878196+09:00",
     "http://fpn119.co.kr/259526": "2026-11-16T19:02:10.878196+09:00",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PSWVJcnF0R0YzaVlsd0J4MDhSX0w3YVZoendsMTBXMEZ1a2JxdWQzOTVIZ0pUWU5vYUJMZ19SSEdYNlB6LVFfNVVlMVJtT0JGNnRPMi1JLU4tUUE1NEdOYkVjTkd0VG5IM2c?oc=5": "2026-11-16T19:02:10.878196+09:00"
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PSWVJcnF0R0YzaVlsd0J4MDhSX0w3YVZoendsMTBXMEZ1a2JxdWQzOTVIZ0pUWU5vYUJMZ19SSEdYNlB6LVFfNVVlMVJtT0JGNnRPMi1JLU4tUUE1NEdOYkVjTkd0VG5IM2c?oc=5": "2026-11-16T19:02:10.878196+09:00",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMEdNa1dULTY3aTdKY1QwRDJFV1Vka0lKVWlmdEFVZFkyUnVBZF90YjlyRHFrZ0hiRUI3MzN5ZXVUemwzRzFXRlh0dFduOUxxdEd5N0xFQTJFM2FBT3RwRG00bHUwRVJteVR5dTlIcw?oc=5": "2026-11-16T20:02:12.104193+09:00",
+    "https://www.nocutnews.co.kr/news/6607753": "2026-11-16T20:02:12.104193+09:00"
   },
   "titles": {
-    "001c9ab683491cea25c61cc37edb426de52149a6b547d1792f7abb37da7ee57c": "2026-11-02T19:03:29.123772+09:00",
     "e631de1a1c3ddab28157989490a1933941f6639c52e4d868204d7593102185b1": "2026-11-02T21:02:41.172892+09:00",
     "4ed9dcc88b9bca566232a6e6ad540b2203a8593ef8c9fb1c91c2078802e5a097": "2026-11-02T21:02:41.172892+09:00",
     "19484f3c3e82ef8938dd5383202d6cb90216f33639be65fed3529408af3327ae": "2026-11-03T09:02:36.210472+09:00",
@@ -1963,7 +1963,9 @@
     "ac04728062a9ffb1f04cf2d8ffeaed3556cd4f25c75265cf998e11970bad33af": "2026-11-16T19:02:10.878196+09:00",
     "b65ccaff5025008918d64a27abec8c8222f123fc48f0febd8f921683956fef97": "2026-11-16T19:02:10.878196+09:00",
     "c4317ea0d82cdd9eb50d5a45861933f96e2e7a7faec1e7c454f6c6ea4bcab91e": "2026-11-16T19:02:10.878196+09:00",
-    "70e2acf2c2900bd12930406d42dda750cf0b8c05575730ab24ae169f357771ee": "2026-11-16T19:02:10.878196+09:00"
+    "70e2acf2c2900bd12930406d42dda750cf0b8c05575730ab24ae169f357771ee": "2026-11-16T19:02:10.878196+09:00",
+    "5532b91498adb0dad07922faff75d0fb38aebcc0c1ee49a21f18a8ebae9b0623": "2026-11-16T20:02:12.104193+09:00",
+    "39ab737240f05288bd6e2a6ae832b091f973b38627cdf3c894829f4dcaf90b7e": "2026-11-16T20:02:12.104193+09:00"
   },
   "pending": {},
   "ai": {
@@ -1978,19 +1980,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": {
-      "title": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 - 헤럴드경제",
-      "summary": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5",
-      "date": "Sat, 14 Nov 2026 10:28:16 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.kukinews.com/article/view/kuk202611140038": {
       "title": "김장호 구미 시장 “박정희 정신 계승해 수출·미래산업 거점 도약”",
       "summary": "쿠키뉴스=최태욱 기자 | 김장호 구미 시장이 박정희 전 대통령 탄신 109돌을 맞아 반도체 등 미래산업 육성과... 김 시장은 “생가보존재단 설립과 역사자료관 2관 건립 을 추진해 관련 내용을 국민과 미래세대에 체계적으로...",
@@ -3525,6 +3514,32 @@
       "basis": "관심기업: 한국가스공사",
       "category": "관심기업 동향",
       "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6607753": {
+      "title": "경주시, 美 투자 ·수출 협력망 구축…북미 시장 진출 '속도'",
+      "summary": "경북 경주시가 미국 앨라배마와 조지아, 뉴욕, 뉴저지를 잇달아 방문해 현지 기업·기관과 투자 ·수출·관광... 주낙영 경주시장은 \"이번 출장으로 미국 현지 협력 기반을 넓혔다\"며 \"업무 협약 이 투자 ·수출·관광 분야의...",
+      "url": "https://www.nocutnews.co.kr/news/6607753",
+      "date": "Mon, 16 Nov 2026 19:03:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMEdNa1dULTY3aTdKY1QwRDJFV1Vka0lKVWlmdEFVZFkyUnVBZF90YjlyRHFrZ0hiRUI3MzN5ZXVUemwzRzFXRlh0dFduOUxxdEd5N0xFQTJFM2FBT3RwRG00bHUwRVJteVR5dTlIcw?oc=5": {
+      "title": "경주 선박 부품공장서 천장크레인 고리 빠져 60대 작업자 사망 - 세이프티퍼스트닷뉴스",
+      "summary": "경주 선박 부품공장서 천장크레인 고리 빠져 60대 작업자 사망 세이프티퍼스트닷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMEdNa1dULTY3aTdKY1QwRDJFV1Vka0lKVWlmdEFVZFkyUnVBZF90YjlyRHFrZ0hiRUI3MzN5ZXVUemwzRzFXRlh0dFduOUxxdEd5N0xFQTJFM2FBT3RwRG00bHUwRVJteVR5dTlIcw?oc=5",
+      "date": "Mon, 16 Nov 2026 10:13:57 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
       "filter_version": 17
     }
   },
@@ -8444,6 +8459,16 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PSWVJcnF0R0YzaVlsd0J4MDhSX0w3YVZoendsMTBXMEZ1a2JxdWQzOTVIZ0pUWU5vYUJMZ19SSEdYNlB6LVFfNVVlMVJtT0JGNnRPMi1JLU4tUUE1NEdOYkVjTkd0VG5IM2c?oc=5",
       "title": "이철우 지사 “경북, K-푸드 수출 전진기지로” - 천지일보",
       "date": "Mon, 16 Nov 2026 09:02:44 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMEdNa1dULTY3aTdKY1QwRDJFV1Vka0lKVWlmdEFVZFkyUnVBZF90YjlyRHFrZ0hiRUI3MzN5ZXVUemwzRzFXRlh0dFduOUxxdEd5N0xFQTJFM2FBT3RwRG00bHUwRVJteVR5dTlIcw?oc=5",
+      "title": "경주 선박 부품공장서 천장크레인 고리 빠져 60대 작업자 사망 - 세이프티퍼스트닷뉴스",
+      "date": "Mon, 16 Nov 2026 10:13:57 GMT"
+    },
+    {
+      "url": "https://www.nocutnews.co.kr/news/6607753",
+      "title": "경주시, 美 투자 ·수출 협력망 구축…북미 시장 진출 '속도'",
+      "date": "Mon, 16 Nov 2026 19:03:00 +0900"
     }
   ],
   "brief_articles": [
