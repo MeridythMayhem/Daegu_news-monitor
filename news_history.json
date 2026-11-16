@@ -981,7 +981,12 @@
     "http://fpn119.co.kr/259526": "2026-11-16T19:02:10.878196+09:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PSWVJcnF0R0YzaVlsd0J4MDhSX0w3YVZoendsMTBXMEZ1a2JxdWQzOTVIZ0pUWU5vYUJMZ19SSEdYNlB6LVFfNVVlMVJtT0JGNnRPMi1JLU4tUUE1NEdOYkVjTkd0VG5IM2c?oc=5": "2026-11-16T19:02:10.878196+09:00",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMEdNa1dULTY3aTdKY1QwRDJFV1Vka0lKVWlmdEFVZFkyUnVBZF90YjlyRHFrZ0hiRUI3MzN5ZXVUemwzRzFXRlh0dFduOUxxdEd5N0xFQTJFM2FBT3RwRG00bHUwRVJteVR5dTlIcw?oc=5": "2026-11-16T20:02:12.104193+09:00",
-    "https://www.nocutnews.co.kr/news/6607753": "2026-11-16T20:02:12.104193+09:00"
+    "https://www.nocutnews.co.kr/news/6607753": "2026-11-16T20:02:12.104193+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=629932": "2026-11-16T21:02:05.137797+09:00",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205456&mode=view": "2026-11-16T21:02:05.137797+09:00",
+    "https://m.skyedaily.com/news_view.html?ID=314725": "2026-11-16T21:02:05.137797+09:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBanhVcUJ0NzBUQmFtQ3Q4YWxhZGFCVW9uSmJ5aDhjUldqUTNSUk1wVUJFbjB6bXdyN2k0LWNQOTdFZFRpZEtDdVNhRlpTaDdjTjBVQ3lLN0M0Z21ZaGh6QW1LSm5Vd2JYR2hmdmpB?oc=5": "2026-11-16T21:02:05.137797+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcWV0dldlTjEyaTBoR05rdjZvZTd1THlPMndHU3dQZ01IakpfQ2VtcVNrNXFycGQzWFFXUnh5NDNsVzFlUlgybXNoTEI4N3Y0M0xaTmZKb3o2cnZuTkpyeFFMdTE0R0g2U1E?oc=5": "2026-11-16T21:02:05.137797+09:00"
   },
   "titles": {
     "e631de1a1c3ddab28157989490a1933941f6639c52e4d868204d7593102185b1": "2026-11-02T21:02:41.172892+09:00",
@@ -1965,7 +1970,12 @@
     "c4317ea0d82cdd9eb50d5a45861933f96e2e7a7faec1e7c454f6c6ea4bcab91e": "2026-11-16T19:02:10.878196+09:00",
     "70e2acf2c2900bd12930406d42dda750cf0b8c05575730ab24ae169f357771ee": "2026-11-16T19:02:10.878196+09:00",
     "5532b91498adb0dad07922faff75d0fb38aebcc0c1ee49a21f18a8ebae9b0623": "2026-11-16T20:02:12.104193+09:00",
-    "39ab737240f05288bd6e2a6ae832b091f973b38627cdf3c894829f4dcaf90b7e": "2026-11-16T20:02:12.104193+09:00"
+    "39ab737240f05288bd6e2a6ae832b091f973b38627cdf3c894829f4dcaf90b7e": "2026-11-16T20:02:12.104193+09:00",
+    "f3c6c452e39142325a007500bec59fd82d1054fa70c1fc2993dcf3a759663cd9": "2026-11-16T21:02:05.137797+09:00",
+    "587ce633c5bc3ce54dca32c04679ad500a95fa313910bfa7459a23e0ad64f74c": "2026-11-16T21:02:05.137797+09:00",
+    "18860a213856789e38d26e929e2a2a060e44a275b1bc2669bf3d7ab4d3e5adbd": "2026-11-16T21:02:05.137797+09:00",
+    "c6932d4612b9b6772356820bee56f431978c1702dd2585fc74e70e8a3e55cb6f": "2026-11-16T21:02:05.137797+09:00",
+    "302e65831be1d8aabba55e266700e6648c189a9419fbf5eb8d397468cbba342d": "2026-11-16T21:02:05.137797+09:00"
   },
   "pending": {},
   "ai": {
@@ -1976,7 +1986,7 @@
     "2026-11-13": 26,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 8
+    "2026-11-16": 9
   },
   "cursor": 0,
   "archive": {
@@ -3541,6 +3551,71 @@
       "category": "산재·사업장 사고",
       "priority": 100,
       "filter_version": 17
+    },
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205456&mode=view": {
+      "title": "울릉군·공항공사, 울릉공항 직원사택 진입로 신설 합의",
+      "summary": "5억원으로, 경북 도는 행정지원, 울릉군은 토지매입비, 한국공항공사는 공사비를 맡기로 했습니다. 공항공사는 오는 2029년 공항 개항에 맞춰 울릉읍 사동리에 120가구 규모의 직원사택을 건립 할 예정이었지만, 부지와...",
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205456&mode=view",
+      "date": "Mon, 16 Nov 2026 20:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=629932": {
+      "title": "포스코 노조, 포항의 미래와 기업의 생존도 생각해야",
+      "summary": "포스코 노사 갈등이 장기화 조짐을 보이면서 포항 지역사회에 위기감이 커지고 있다. 임금협상 잠정합의안이... 지역경제의 버팀목인 포스코 의 노사 갈등을 더 이상 기업 내부의 문제로만 방치할 수 없다는 절박함...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=629932",
+      "date": "Mon, 16 Nov 2026 20:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://m.skyedaily.com/news_view.html?ID=314725": {
+      "title": "배임죄 폐지된다면, 한화 김승현·CJ 이재현·롯데 신동빈 모두 '처벌 피...",
+      "summary": "MP, 포스코 등 11개 기업 및 기업집단 수장들의 배임 사건을 살펴보고, 배임죄 폐지 주장의 타당성을 검토하는... 최정우 포스코 전 회장 사건(계열사 명의 차량을 사적으로 유용하거나 회사 운전기사에게 배우자의 수행을...",
+      "url": "https://m.skyedaily.com/news_view.html?ID=314725",
+      "date": "Mon, 16 Nov 2026 20:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBanhVcUJ0NzBUQmFtQ3Q4YWxhZGFCVW9uSmJ5aDhjUldqUTNSUk1wVUJFbjB6bXdyN2k0LWNQOTdFZFRpZEtDdVNhRlpTaDdjTjBVQ3lLN0M0Z21ZaGh6QW1LSm5Vd2JYR2hmdmpB?oc=5": {
+      "title": "경산시 무역사절단, 중국·인도서 8,490만 달러 수출상담…해외시장 공략 성과 - 폴리뉴스 Polinews",
+      "summary": "경산시 무역사절단, 중국·인도서 8,490만 달러 수출상담…해외시장 공략 성과 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBanhVcUJ0NzBUQmFtQ3Q4YWxhZGFCVW9uSmJ5aDhjUldqUTNSUk1wVUJFbjB6bXdyN2k0LWNQOTdFZFRpZEtDdVNhRlpTaDdjTjBVQ3lLN0M0Z21ZaGh6QW1LSm5Vd2JYR2hmdmpB?oc=5",
+      "date": "Mon, 16 Nov 2026 11:10:44 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcWV0dldlTjEyaTBoR05rdjZvZTd1THlPMndHU3dQZ01IakpfQ2VtcVNrNXFycGQzWFFXUnh5NDNsVzFlUlgybXNoTEI4N3Y0M0xaTmZKb3o2cnZuTkpyeFFMdTE0R0g2U1E?oc=5": {
+      "title": "“대구 노후 상수도관 정비 실적 지지부진” - www.hidomin.com",
+      "summary": "“대구 노후 상수도관 정비 실적 지지부진” www.hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcWV0dldlTjEyaTBoR05rdjZvZTd1THlPMndHU3dQZ01IakpfQ2VtcVNrNXFycGQzWFFXUnh5NDNsVzFlUlgybXNoTEI4N3Y0M0xaTmZKb3o2cnZuTkpyeFFMdTE0R0g2U1E?oc=5",
+      "date": "Mon, 16 Nov 2026 11:05:57 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -3560,16 +3635,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-16",
   "sent_articles": [
-    {
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2357773",
-      "title": "삼성SDS, 구미에 4,273억원 투입 AI 데이터센터 건립 …2028년 말 준공",
-      "date": "Mon, 02 Nov 2026 20:42:00 +0900"
-    },
-    {
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628084",
-      "title": "이수페타시스, 달성 국가산단에 5천억 투자…7공장 건립 추진",
-      "date": "Mon, 02 Nov 2026 20:40:00 +0900"
-    },
     {
       "url": "https://www.segye.com/newsView/20261103503141?OutUrl=naver",
       "title": "대구 달성군 금속 공장 서 희토류 분쇄기 폭발…20대 작업자 2명 화상",
@@ -8469,6 +8534,31 @@
       "url": "https://www.nocutnews.co.kr/news/6607753",
       "title": "경주시, 美 투자 ·수출 협력망 구축…북미 시장 진출 '속도'",
       "date": "Mon, 16 Nov 2026 19:03:00 +0900"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=629932",
+      "title": "포스코 노조, 포항의 미래와 기업의 생존도 생각해야",
+      "date": "Mon, 16 Nov 2026 20:58:00 +0900"
+    },
+    {
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205456&mode=view",
+      "title": "울릉군·공항공사, 울릉공항 직원사택 진입로 신설 합의",
+      "date": "Mon, 16 Nov 2026 20:42:00 +0900"
+    },
+    {
+      "url": "https://m.skyedaily.com/news_view.html?ID=314725",
+      "title": "배임죄 폐지된다면, 한화 김승현·CJ 이재현·롯데 신동빈 모두 '처벌 피...",
+      "date": "Mon, 16 Nov 2026 20:40:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBanhVcUJ0NzBUQmFtQ3Q4YWxhZGFCVW9uSmJ5aDhjUldqUTNSUk1wVUJFbjB6bXdyN2k0LWNQOTdFZFRpZEtDdVNhRlpTaDdjTjBVQ3lLN0M0Z21ZaGh6QW1LSm5Vd2JYR2hmdmpB?oc=5",
+      "title": "경산시 무역사절단, 중국·인도서 8,490만 달러 수출상담…해외시장 공략 성과 - 폴리뉴스 Polinews",
+      "date": "Mon, 16 Nov 2026 11:10:44 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcWV0dldlTjEyaTBoR05rdjZvZTd1THlPMndHU3dQZ01IakpfQ2VtcVNrNXFycGQzWFFXUnh5NDNsVzFlUlgybXNoTEI4N3Y0M0xaTmZKb3o2cnZuTkpyeFFMdTE0R0g2U1E?oc=5",
+      "title": "“대구 노후 상수도관 정비 실적 지지부진” - www.hidomin.com",
+      "date": "Mon, 16 Nov 2026 11:05:57 GMT"
     }
   ],
   "brief_articles": [
@@ -8506,7 +8596,7 @@
     "2026-11-13": 14,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 6
+    "2026-11-16": 7
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
