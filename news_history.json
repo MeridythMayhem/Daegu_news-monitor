@@ -1,11 +1,5 @@
 {
   "sent": {
-    "https://www.eroun.net/news/articleView.html?idxno=94121": "2026-11-02T16:03:50.888722+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089311": "2026-11-02T16:03:50.888722+09:00",
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200306.html": "2026-11-02T16:03:50.888722+09:00",
-    "https://www.g-enews.com/view.php?ud=2026110214345956033084322ec9_1": "2026-11-02T16:03:50.888722+09:00",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiQk5aSFpLck1yQjFkNVdPLXg2M0NXeEFadmZzNTN4LTIzZGZiZXZsRXctZHlFbHR4X21yVXlVSEdkcGo5alZPOEZSdU9SVjg0Zjk2UlJYTUswTEMx?oc=5": "2026-11-02T16:03:50.888722+09:00",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mV1F5QXBtVTNSNUNhaE1ranlvM0VOZFQ1V1ROZ2hKWDVnLWF5T2RWZGNWYUVPSzRSclBHS1dPUTBNUUdPZVNtSTQ5VnMtQWdGWkJ4QmczTkQ?oc=5": "2026-11-02T16:03:50.888722+09:00",
     "https://www.pn.or.kr/news/articleView.html?idxno=34307": "2026-11-02T17:04:07.354192+09:00",
     "http://www.snmnews.com/news/articleView.html?idxno=576782": "2026-11-02T17:04:07.354192+09:00",
     "https://www.kukinews.com/article/view/kuk202611020173": "2026-11-02T17:04:07.354192+09:00",
@@ -974,15 +968,19 @@
     "https://www.kbsm.net/news/view.php?idx=541950": "2026-11-16T16:10:21.165015+09:00",
     "https://www.pressian.com/pages/articles/2026111614483265769": "2026-11-16T16:10:21.165015+09:00",
     "https://www.imaeil.com/page/view/2026111514490026356": "2026-11-16T16:10:21.165015+09:00",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3753327": "2026-11-16T16:10:21.165015+09:00"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3753327": "2026-11-16T16:10:21.165015+09:00",
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=903248": "2026-11-16T17:02:15.349144+09:00",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaM29wcWRGT0RFVFloTHlvWnFEWDBlMTQ1VzV5VDBpMnpPY0NhaVJ1Sk5HVEs0dzM5QzdvTDBXRDlmbWlGS25vOHctOTVHMjZfamNnbDhaOEVVdlZyUGlsdkEtNTA5VVMyd24ybA?oc=5": "2026-11-16T17:02:15.349144+09:00",
+    "https://www.dkilbo.com/news/articleView.html?idxno=560947": "2026-11-16T17:02:15.349144+09:00",
+    "https://www.topstarnews.net/news/articleView.html?idxno=16277890": "2026-11-16T17:02:15.349144+09:00",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DZjRoNnNVYlVXWWpUTXhaVHRtay1nWHVhMFA2OWdDV3MwdTRMN1NvQWY4S0hMZzZDUG5na0FEeU94NVRvZUpWcFowZHExa2FwNU5UQ1ZkWk9yNktPU3d6Qg?oc=5": "2026-11-16T17:02:15.349144+09:00",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMXlDdFpQUXRiZVhrOThZaVFleURmVjBONnNwRFltbGVxaDJwclNEb2dvNi1nbHByY04yamdwcWpFdEZ1eWM0dnJpcHR4MTJPYmxxcjlnU2p2V05oUFRxd01HVklUbmNtQ1JMRXozeml3bEk?oc=5": "2026-11-16T17:02:15.349144+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SXRMTkkzMm1SZUs0RGpVOXB6Y0c4SnpLR1lLb3RoWEkyRnhJSlhVeWRJZ1l6UklpQWVObDlqeXhZUDE2bmR4VlhUWW0yVkNzRjBwZUVKQUZ4SVZBSkxiLW85a3NHOHl3S0FN?oc=5": "2026-11-16T17:02:15.349144+09:00",
+    "http://www.iminju.net/news/articleView.html?idxno=172540": "2026-11-16T17:02:15.349144+09:00",
+    "https://www.thebk.co.kr/news/articleView.html?idxno=312845": "2026-11-16T17:02:15.349144+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qOGhWT2h1bkk0aTBLcnYtSW9xRkFJT1p5VERKbVdsc2lGY1BVSjFNVzZVdnBvbkFSNjJVaW5oLV9VbUdfa3RRVlp5TUhSVklQQVB0a2Rzc0VIV0ZoNUJGeTdmUDhOYy1mREE?oc=5": "2026-11-16T17:02:15.349144+09:00"
   },
   "titles": {
-    "881a55c85fdb65aefeec81413d28be3a566154e53ad614c35044080e65aae2ad": "2026-11-02T16:03:50.888722+09:00",
-    "77d5d7c41318c72798594c5980d54b493a568532f8a40021748a6c4d6444bf31": "2026-11-02T16:03:50.888722+09:00",
-    "a1a0dd2757b8277d4aebe7659b29e9715f0b17bdbac0de7498357ca344669122": "2026-11-02T16:03:50.888722+09:00",
-    "ae01f6f0ff8c72316e2236a24d2bb121f4a7ca61b37a3f6242feff9a552e111f": "2026-11-02T16:03:50.888722+09:00",
-    "e71abe74f1449ed0155ebabc3f19a8a317dbcd70412f95fbf5982f41241b8450": "2026-11-02T16:03:50.888722+09:00",
-    "bda22ec9369ab229b55e3448bb3acd4f87c148d92e7cb987e1a2a066fa302f19": "2026-11-02T16:03:50.888722+09:00",
     "2895054fec5ea5d0cb1eb96c280c6ab6fe24b59ad51d4ef771da08fe2ae9d5a3": "2026-11-02T17:04:07.354192+09:00",
     "26dd1d1ff54d72e22785f140fd3cbce517d1c919d79749316a0830a0c34ee6cb": "2026-11-02T17:04:07.354192+09:00",
     "7a080f51e52b0ab8086d04e7330ad02a46146c532678e7d1175799aa70cce8b7": "2026-11-02T17:04:07.354192+09:00",
@@ -1951,9 +1949,98 @@
     "28b8eed81a3fd30c96e61042c5364e5fb8dd8e491b543b75e8a0e499f97fe8f0": "2026-11-16T16:10:21.165015+09:00",
     "d7b9fe69a6a3ad5e866cdb070aa074055cc3091ba8e5c9d87efa4c6af511f503": "2026-11-16T16:10:21.165015+09:00",
     "f8329e0bc8bac5b96606731ebbe3d07ed2a5700c8cd8faa3bae11ef432c98d3f": "2026-11-16T16:10:21.165015+09:00",
-    "550b7ba3ecf8dc86a2ee7fcf72a15b682e776931e60cd614d65800fad26cadbc": "2026-11-16T16:10:21.165015+09:00"
+    "550b7ba3ecf8dc86a2ee7fcf72a15b682e776931e60cd614d65800fad26cadbc": "2026-11-16T16:10:21.165015+09:00",
+    "e06fd89721ce093a05408e1225ca531516b1b7a0d248c6bd9dfbea8d1a3a9880": "2026-11-16T17:02:15.349144+09:00",
+    "7c4ac2887ffd50baffc6e85edd9265bdc5c40ed77f1e65c9e57784666fbd750c": "2026-11-16T17:02:15.349144+09:00",
+    "07b2079c145f84f6f420c7498b0ba6351a5d1253d78b6530e696be59b3c76ff4": "2026-11-16T17:02:15.349144+09:00",
+    "7a78ffd25d299ddd7a7781d62d60a183c9217d9c2e9f010f7272e08ec894d85c": "2026-11-16T17:02:15.349144+09:00",
+    "e2820a54cd588b29f8a153307161dd5a169e7caa001f2705bd25d9d310995731": "2026-11-16T17:02:15.349144+09:00",
+    "ec9b0b14c1a7375483e940080b93a94a12f52d086727053d2e4ebed18949917b": "2026-11-16T17:02:15.349144+09:00",
+    "24227d44520dd27644ca16625370ea415f873ef42201e4918e40d1bd3152c41d": "2026-11-16T17:02:15.349144+09:00",
+    "0684b640bac43ff17314ebc6f43d170ef2e8b623103fa8a00028aed30e4290cf": "2026-11-16T17:02:15.349144+09:00",
+    "f4f633e1776811ca73ae7ff8199a64f7d30a6cb06205612747223cb4fef099b2": "2026-11-16T17:02:15.349144+09:00",
+    "913692371e14c670b184822df186be654ce0a53b36026306428e02c69140011f": "2026-11-16T17:02:15.349144+09:00"
   },
-  "pending": {},
+  "pending": {
+    "http://www.breaknews.com/1251270": {
+      "title": "에코프로 , 국제배터리엑스포서 포항 투자 성과·차세대 소재 기술 공개",
+      "summary": "에코프로 가 포항에 조성한 이차전지 소재 산업 기반과 글로벌 공급망 경쟁력, 차세대 배터리 소재 기술을 국내외에 알렸다. 에코프로 는 지난 13일부터 15일까지 포항...",
+      "url": "http://www.breaknews.com/1251270",
+      "date": "Mon, 16 Nov 2026 16:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.polinews.co.kr/news/articleView.html?idxno=748536": {
+      "title": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대...",
+      "summary": "포스코 임금협상 잠정합의안 부결과 재교섭 결렬로 노사 갈등이 장기화할 조짐을 보이면서 포항 지역사회가... 브리핑룸에서 ' 포스코 노사의 상생과 포항의 미래를 위한 공동 호소문'을 발표하고 노사 간 신뢰 회복과 갈등...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748536",
+      "date": "Mon, 16 Nov 2026 16:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.asiatime.co.kr/article/20261116500375": {
+      "title": "포항 경제 ' 포스코 발 한파' 직면⋯ 시민·소상공인 “노조, 대화로 돌아...",
+      "summary": "포항 3대 기관장, 포스코 노사에 공동 호소문… 조속 타협 촉구 교섭 장기화에 협력업체·소상공인 생계 위협... (사진=경북기자회) [아시아타임즈 영남취재본부=구진홍 기자] 포스코 임금교섭이 사실상 표류하면서 포항...",
+      "url": "https://www.asiatime.co.kr/article/20261116500375",
+      "date": "Mon, 16 Nov 2026 16:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Md1Uxd3FqOWVySDVlUDNBU0RDMlpuSFpraEpzczM1RlNzMmdGZEx3TTQ4Vnd0M1JJQUxSU204V2hWak5NT3RiOGlVSzdTeFZhTUtzUThIdDlxMU1DcWYwZzBlX1E?oc=5": {
+      "title": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 - 매일일보",
+      "summary": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Md1Uxd3FqOWVySDVlUDNBU0RDMlpuSFpraEpzczM1RlNzMmdGZEx3TTQ4Vnd0M1JJQUxSU204V2hWak5NT3RiOGlVSzdTeFZhTUtzUThIdDlxMU1DcWYwZzBlX1E?oc=5",
+      "date": "Mon, 16 Nov 2026 07:05:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiowJBVV95cUxPaEJqaUpiWjRCLTcwUURVclQ3d1VtZHVONzh4djlDeTVLX1lXN3lHYkgtUUhTUW5UdHFzOWZDbFpwNzBacWl0dGJwUU85SWV3UThyYmNjMWdIWFA2Y1RWRW43UVhlSm1mbXA3YVNRQ1R6cmNFb1dyLUNVQ2dkdDR4bWg0WDJLbXh6VzlkbEYxY2J3djcyQjgxcnRJRHFfZ05BTk5fSnUxZkMwQWZaOV9mWE1iWUptbnhqLXJZTFZRVXh4ck9PQ09pbFNabEpVT1IwQTdUTHBqWkV4R0JYTXNoaE1Rdm5ZYk5KcDVYUENud1c5alMtQXhwbFh4WUQ3SEwyMldSaE45RDVhZmZIY2g4Z2QybDhEZXNybXNKbVQ3TUNiQUU?oc=5": {
+      "title": "이철우, 경북 조합장 특강서...\"농식품 수출 전기기지 만들자\" - 데일리안",
+      "summary": "이철우, 경북 조합장 특강서...\"농식품 수출 전기기지 만들자\" 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPaEJqaUpiWjRCLTcwUURVclQ3d1VtZHVONzh4djlDeTVLX1lXN3lHYkgtUUhTUW5UdHFzOWZDbFpwNzBacWl0dGJwUU85SWV3UThyYmNjMWdIWFA2Y1RWRW43UVhlSm1mbXA3YVNRQ1R6cmNFb1dyLUNVQ2dkdDR4bWg0WDJLbXh6VzlkbEYxY2J3djcyQjgxcnRJRHFfZ05BTk5fSnUxZkMwQWZaOV9mWE1iWUptbnhqLXJZTFZRVXh4ck9PQ09pbFNabEpVT1IwQTdUTHBqWkV4R0JYTXNoaE1Rdm5ZYk5KcDVYUENud1c5alMtQXhwbFh4WUQ3SEwyMldSaE45RDVhZmZIY2g4Z2QybDhEZXNybXNKbVQ3TUNiQUU?oc=5",
+      "date": "Mon, 16 Nov 2026 07:15:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yX1F3cExWYkZ5dWVvaEhLNUN5dEpQaU0yOGxiZ1k4Q0JUNHBPX0poWkk2N3lCTllXNm5KRHlPR0dvdGtxdmtPQ2tpZTlzWlpFRGh6eXpEUVRITDFFNGFPV1RjR0ZILS0yeHdIYm9R?oc=5": {
+      "title": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대승적 결단\" 촉구 - 폴리뉴스 Polinews",
+      "summary": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대승적 결단\" 촉구 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yX1F3cExWYkZ5dWVvaEhLNUN5dEpQaU0yOGxiZ1k4Q0JUNHBPX0poWkk2N3lCTllXNm5KRHlPR0dvdGtxdmtPQ2tpZTlzWlpFRGh6eXpEUVRITDFFNGFPV1RjR0ZILS0yeHdIYm9R?oc=5",
+      "date": "Mon, 16 Nov 2026 07:24:50 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    }
+  },
   "ai": {
     "2026-11-09": 11,
     "2026-11-10": 18,
@@ -1962,23 +2049,10 @@
     "2026-11-13": 26,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 3
+    "2026-11-16": 4
   },
   "cursor": 0,
   "archive": {
-    "https://www.etoday.co.kr/news/view/2647768": {
-      "title": "지방 산업 투자 확대⋯영주·구미·천안서 신규 아파트 분양",
-      "summary": "두산에너빌리티·금호건설· 포스코 이앤씨 신규 분양 예정 정부가 지방 기업 투자 지원을 확대하는 가운데... 충남 천안시에서는 포스코 이앤씨가 '더샵 천안라크원'을 분양할 예정이다. 지하 2층~지상 37층, 10개 동, 총...",
-      "url": "https://www.etoday.co.kr/news/view/2647768",
-      "date": "Sat, 14 Nov 2026 16:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": {
       "title": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 - 헤럴드경제",
       "summary": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 헤럴드경제",
@@ -3098,6 +3172,214 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.thebk.co.kr/news/articleView.html?idxno=312845": {
+      "title": "경산시, 중국·인도 무역사절단 '거대 시장' 중국·인도 뚫었다… 1180억...",
+      "summary": "경북 경산시가 세계 최대 소비·생산 시장인 중국과 인도에 무역사절단을 파견해 8500만 달러에 육박하는... 업무협약( MOU )을 체결했다고 16일 밝혔다. 이는 상반기 태국·인도네시아 시장 개척에 이어 하반기에는 거대...",
+      "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312845",
+      "date": "Mon, 16 Nov 2026 16:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.newsworks.co.kr/news/articleView.html?idxno=903248": {
+      "title": "李대통령, 이용철 법무장관·안덕수 국세청 장 인사 청문요청안 재가",
+      "summary": "이재명 대통령이 16일 이용철 법무부 장관 후보자와 안덕수 국세청 장 후보자의 인사 청문요청안을 재가했다. 지난 6일 이용철 방위사업청장과 안덕수 서울지방 국세청 장을 각각 후보자로 지명한 지 10일 만이다. 강유정...",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903248",
+      "date": "Mon, 16 Nov 2026 16:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "https://www.dkilbo.com/news/articleView.html?idxno=560947": {
+      "title": "대구 한의대, 160억 규모 투자펀드 조성…\"K-MEDI 산업 글로벌 도약\"",
+      "summary": "대구 한의대는 지난 10일 에트리홀딩스㈜, (유)트라이앵글파트너스와 'GPT&K-MW 펀드' 조성을 위한 다자간 업무협약( MOU )을 체결했다. 이번 펀드에는 대학과 경북도, 포스코 등 민·관·산·학 주체들이 참여한다. 펀드의...",
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=560947",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.topstarnews.net/news/articleView.html?idxno=16277890": {
+      "title": "에코프로 에이치엔, 200억원 규모 온실가스 저감 설비 공급 계약 체결",
+      "summary": "에코프로 에이치엔(383310)이 미국 Hoffman Construction Co Of America와 온실가스 저감 설비 공급 계약을 체결했다. 계약 금액은 20,020,925,574원이며, 회사의 2025년도 사업보고서 기준 연결 매출액 141,057,118,027원의...",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277890",
+      "date": "Mon, 16 Nov 2026 16:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로 · 시설 투자/계약",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.breaknews.com/1251270": {
+      "title": "에코프로 , 국제배터리엑스포서 포항 투자 성과·차세대 소재 기술 공개",
+      "summary": "에코프로 가 포항에 조성한 이차전지 소재 산업 기반과 글로벌 공급망 경쟁력, 차세대 배터리 소재 기술을 국내외에 알렸다. 에코프로 는 지난 13일부터 15일까지 포항...",
+      "url": "http://www.breaknews.com/1251270",
+      "date": "Mon, 16 Nov 2026 16:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.polinews.co.kr/news/articleView.html?idxno=748536": {
+      "title": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대...",
+      "summary": "포스코 임금협상 잠정합의안 부결과 재교섭 결렬로 노사 갈등이 장기화할 조짐을 보이면서 포항 지역사회가... 브리핑룸에서 ' 포스코 노사의 상생과 포항의 미래를 위한 공동 호소문'을 발표하고 노사 간 신뢰 회복과 갈등...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748536",
+      "date": "Mon, 16 Nov 2026 16:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.asiatime.co.kr/article/20261116500375": {
+      "title": "포항 경제 ' 포스코 발 한파' 직면⋯ 시민·소상공인 “노조, 대화로 돌아...",
+      "summary": "포항 3대 기관장, 포스코 노사에 공동 호소문… 조속 타협 촉구 교섭 장기화에 협력업체·소상공인 생계 위협... (사진=경북기자회) [아시아타임즈 영남취재본부=구진홍 기자] 포스코 임금교섭이 사실상 표류하면서 포항...",
+      "url": "https://www.asiatime.co.kr/article/20261116500375",
+      "date": "Mon, 16 Nov 2026 16:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "http://www.iminju.net/news/articleView.html?idxno=172540": {
+      "title": "한국가스공사 , 수소버스 온실가스 감축실적 확보 위한 협력 확대",
+      "summary": "민주신문=정영훈 기자｜ 한국가스공사 는 지난 13일 전국버스운송사업조합연합회, 후시파트너스와 수소버스 운행에 따른 온실가스 감축실적 확보 및 외부감축사업 공동 추진을 위한 업무협약을 체결했다고 16일 밝혔다. 이번...",
+      "url": "http://www.iminju.net/news/articleView.html?idxno=172540",
+      "date": "Mon, 16 Nov 2026 16:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Md1Uxd3FqOWVySDVlUDNBU0RDMlpuSFpraEpzczM1RlNzMmdGZEx3TTQ4Vnd0M1JJQUxSU204V2hWak5NT3RiOGlVSzdTeFZhTUtzUThIdDlxMU1DcWYwZzBlX1E?oc=5": {
+      "title": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 - 매일일보",
+      "summary": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Md1Uxd3FqOWVySDVlUDNBU0RDMlpuSFpraEpzczM1RlNzMmdGZEx3TTQ4Vnd0M1JJQUxSU204V2hWak5NT3RiOGlVSzdTeFZhTUtzUThIdDlxMU1DcWYwZzBlX1E?oc=5",
+      "date": "Mon, 16 Nov 2026 07:05:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qOGhWT2h1bkk0aTBLcnYtSW9xRkFJT1p5VERKbVdsc2lGY1BVSjFNVzZVdnBvbkFSNjJVaW5oLV9VbUdfa3RRVlp5TUhSVklQQVB0a2Rzc0VIV0ZoNUJGeTdmUDhOYy1mREE?oc=5": {
+      "title": "경산시, 중국·인도 무역사절단 ‘거대 시장’ 중국·인도 뚫었다… 1180억 규모 수출길 활짝 - 뷰티경제",
+      "summary": "경산시, 중국·인도 무역사절단 ‘거대 시장’ 중국·인도 뚫었다… 1180억 규모 수출길 활짝 뷰티경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qOGhWT2h1bkk0aTBLcnYtSW9xRkFJT1p5VERKbVdsc2lGY1BVSjFNVzZVdnBvbkFSNjJVaW5oLV9VbUdfa3RRVlp5TUhSVklQQVB0a2Rzc0VIV0ZoNUJGeTdmUDhOYy1mREE?oc=5",
+      "date": "Mon, 16 Nov 2026 07:32:29 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiowJBVV95cUxPaEJqaUpiWjRCLTcwUURVclQ3d1VtZHVONzh4djlDeTVLX1lXN3lHYkgtUUhTUW5UdHFzOWZDbFpwNzBacWl0dGJwUU85SWV3UThyYmNjMWdIWFA2Y1RWRW43UVhlSm1mbXA3YVNRQ1R6cmNFb1dyLUNVQ2dkdDR4bWg0WDJLbXh6VzlkbEYxY2J3djcyQjgxcnRJRHFfZ05BTk5fSnUxZkMwQWZaOV9mWE1iWUptbnhqLXJZTFZRVXh4ck9PQ09pbFNabEpVT1IwQTdUTHBqWkV4R0JYTXNoaE1Rdm5ZYk5KcDVYUENud1c5alMtQXhwbFh4WUQ3SEwyMldSaE45RDVhZmZIY2g4Z2QybDhEZXNybXNKbVQ3TUNiQUU?oc=5": {
+      "title": "이철우, 경북 조합장 특강서...\"농식품 수출 전기기지 만들자\" - 데일리안",
+      "summary": "이철우, 경북 조합장 특강서...\"농식품 수출 전기기지 만들자\" 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPaEJqaUpiWjRCLTcwUURVclQ3d1VtZHVONzh4djlDeTVLX1lXN3lHYkgtUUhTUW5UdHFzOWZDbFpwNzBacWl0dGJwUU85SWV3UThyYmNjMWdIWFA2Y1RWRW43UVhlSm1mbXA3YVNRQ1R6cmNFb1dyLUNVQ2dkdDR4bWg0WDJLbXh6VzlkbEYxY2J3djcyQjgxcnRJRHFfZ05BTk5fSnUxZkMwQWZaOV9mWE1iWUptbnhqLXJZTFZRVXh4ck9PQ09pbFNabEpVT1IwQTdUTHBqWkV4R0JYTXNoaE1Rdm5ZYk5KcDVYUENud1c5alMtQXhwbFh4WUQ3SEwyMldSaE45RDVhZmZIY2g4Z2QybDhEZXNybXNKbVQ3TUNiQUU?oc=5",
+      "date": "Mon, 16 Nov 2026 07:15:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SXRMTkkzMm1SZUs0RGpVOXB6Y0c4SnpLR1lLb3RoWEkyRnhJSlhVeWRJZ1l6UklpQWVObDlqeXhZUDE2bmR4VlhUWW0yVkNzRjBwZUVKQUZ4SVZBSkxiLW85a3NHOHl3S0FN?oc=5": {
+      "title": "경주시, 미국서 투자 수출 관련 업무협약 잇따라 체결하며 투자유치 행보 - 프레시안",
+      "summary": "경주시, 미국서 투자 수출 관련 업무협약 잇따라 체결하며 투자유치 행보 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SXRMTkkzMm1SZUs0RGpVOXB6Y0c4SnpLR1lLb3RoWEkyRnhJSlhVeWRJZ1l6UklpQWVObDlqeXhZUDE2bmR4VlhUWW0yVkNzRjBwZUVKQUZ4SVZBSkxiLW85a3NHOHl3S0FN?oc=5",
+      "date": "Mon, 16 Nov 2026 07:40:25 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMXlDdFpQUXRiZVhrOThZaVFleURmVjBONnNwRFltbGVxaDJwclNEb2dvNi1nbHByY04yamdwcWpFdEZ1eWM0dnJpcHR4MTJPYmxxcjlnU2p2V05oUFRxd01HVklUbmNtQ1JMRXozeml3bEk?oc=5": {
+      "title": "대구 수성못 수상공연장 300억 원 사업 본격화… 토지주 반발 변수 - 코리아이글뉴스",
+      "summary": "대구 수성못 수상공연장 300억 원 사업 본격화… 토지주 반발 변수 코리아이글뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMXlDdFpQUXRiZVhrOThZaVFleURmVjBONnNwRFltbGVxaDJwclNEb2dvNi1nbHByY04yamdwcWpFdEZ1eWM0dnJpcHR4MTJPYmxxcjlnU2p2V05oUFRxd01HVklUbmNtQ1JMRXozeml3bEk?oc=5",
+      "date": "Mon, 16 Nov 2026 07:45:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yX1F3cExWYkZ5dWVvaEhLNUN5dEpQaU0yOGxiZ1k4Q0JUNHBPX0poWkk2N3lCTllXNm5KRHlPR0dvdGtxdmtPQ2tpZTlzWlpFRGh6eXpEUVRITDFFNGFPV1RjR0ZILS0yeHdIYm9R?oc=5": {
+      "title": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대승적 결단\" 촉구 - 폴리뉴스 Polinews",
+      "summary": "포스코 노사 갈등에 포항 지역사회 공동 대응… 지역경제 위기 우려, \"대승적 결단\" 촉구 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yX1F3cExWYkZ5dWVvaEhLNUN5dEpQaU0yOGxiZ1k4Q0JUNHBPX0poWkk2N3lCTllXNm5KRHlPR0dvdGtxdmtPQ2tpZTlzWlpFRGh6eXpEUVRITDFFNGFPV1RjR0ZILS0yeHdIYm9R?oc=5",
+      "date": "Mon, 16 Nov 2026 07:24:50 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaM29wcWRGT0RFVFloTHlvWnFEWDBlMTQ1VzV5VDBpMnpPY0NhaVJ1Sk5HVEs0dzM5QzdvTDBXRDlmbWlGS25vOHctOTVHMjZfamNnbDhaOEVVdlZyUGlsdkEtNTA5VVMyd24ybA?oc=5": {
+      "title": "포스코홀딩스, 사업구조 재편 속도···해외 철강법인 지분 포스코에 매각 - 스마트비즈",
+      "summary": "포스코홀딩스, 사업구조 재편 속도···해외 철강법인 지분 포스코에 매각 스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaM29wcWRGT0RFVFloTHlvWnFEWDBlMTQ1VzV5VDBpMnpPY0NhaVJ1Sk5HVEs0dzM5QzdvTDBXRDlmbWlGS25vOHctOTVHMjZfamNnbDhaOEVVdlZyUGlsdkEtNTA5VVMyd24ybA?oc=5",
+      "date": "Mon, 16 Nov 2026 07:55:12 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DZjRoNnNVYlVXWWpUTXhaVHRtay1nWHVhMFA2OWdDV3MwdTRMN1NvQWY4S0hMZzZDUG5na0FEeU94NVRvZUpWcFowZHExa2FwNU5UQ1ZkWk9yNktPU3d6Qg?oc=5": {
+      "title": "한국가스공사, 수소버스 온실가스 감축실적 확보 위한 업무협약 체결 - NSP통신",
+      "summary": "한국가스공사, 수소버스 온실가스 감축실적 확보 위한 업무협약 체결 NSP통신",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DZjRoNnNVYlVXWWpUTXhaVHRtay1nWHVhMFA2OWdDV3MwdTRMN1NvQWY4S0hMZzZDUG5na0FEeU94NVRvZUpWcFowZHExa2FwNU5UQ1ZkWk9yNktPU3d6Qg?oc=5",
+      "date": "Mon, 16 Nov 2026 07:55:49 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -3117,41 +3399,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-16",
   "sent_articles": [
-    {
-      "url": "https://www.pn.or.kr/news/articleView.html?idxno=34307",
-      "title": "화재·폭발로 숨진 노동자들...대구경북, 1년새 산재 사망 2배↑ \"참사 없...",
-      "date": "Mon, 02 Nov 2026 17:00:00 +0900"
-    },
-    {
-      "url": "http://www.snmnews.com/news/articleView.html?idxno=576782",
-      "title": "[ 포스코 홀딩스 3분기 IR] 해외 철강, 내수 및 수출 판매 확대로 영업이...",
-      "date": "Mon, 02 Nov 2026 16:46:00 +0900"
-    },
-    {
-      "url": "https://www.kukinews.com/article/view/kuk202611020173",
-      "title": "포스코 홀딩스 3Q, 철강 반등·리튬은 주춤…계열사별 실적 요인 살펴보...",
-      "date": "Mon, 02 Nov 2026 16:38:00 +0900"
-    },
-    {
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717233",
-      "title": "'본업 방어'로 숨 고른 포스코 , 배터리 실적 개선이 당면 과제",
-      "date": "Mon, 02 Nov 2026 16:22:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVVpRl9aWTgxaUNsZGplemtkSlhRRTJzZjZTYVZrWXNtaEtWLTIxeTN4NUwxVUlxaWNVcW9UbmU4aVhNbEhiTWlTdF9RREpSbG45SXZnNmtUczZRTHhNMEZlamJTekoteWZvZEhyMG5nUnN6R3VselFOdFpFOXlBSXFrY1RHbE1EazhqNVhKcEdMYmdHOEZIZHpfZ2hXZlhWbGlSZlY1QmxxZ0VRSDhhMFdyUXJCbUlTcERMQmZOMWk1S3hSVnNJ?oc=5",
-      "title": "POSCO Holdings Q3 2026 slides: steel recovery drives 48% profit surge By Investing.com - Investing.com India",
-      "date": "Mon, 02 Nov 2026 07:18:11 GMT"
-    },
-    {
-      "url": "https://www.ngetnews.com/news/articleView.html?idxno=555420",
-      "title": "두 차례 파업 겪은 포스코 , 임금협상 타결 눈앞",
-      "date": "Mon, 02 Nov 2026 16:14:00 +0900"
-    },
-    {
-      "url": "https://www.fnnews.com/news/202611021432210524",
-      "title": "포스코 베이징 사옥, 韓 기업 지원거점으로…'K-마루' 개소",
-      "date": "Mon, 02 Nov 2026 16:12:00 +0900"
-    },
     {
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089382",
       "title": "화재·폭발 사망 사고 잇따라…대구노동청, 위험 사업장 불시점검",
@@ -7961,6 +8208,56 @@
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753327",
       "title": "대구 광역시, KTC와 섬유기업 해외 상담 1111건...908만 달러 실적",
       "date": "Mon, 16 Nov 2026 15:02:00 +0900"
+    },
+    {
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903248",
+      "title": "李대통령, 이용철 법무장관·안덕수 국세청 장 인사 청문요청안 재가",
+      "date": "Mon, 16 Nov 2026 16:52:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaM29wcWRGT0RFVFloTHlvWnFEWDBlMTQ1VzV5VDBpMnpPY0NhaVJ1Sk5HVEs0dzM5QzdvTDBXRDlmbWlGS25vOHctOTVHMjZfamNnbDhaOEVVdlZyUGlsdkEtNTA5VVMyd24ybA?oc=5",
+      "title": "포스코홀딩스, 사업구조 재편 속도···해외 철강법인 지분 포스코에 매각 - 스마트비즈",
+      "date": "Mon, 16 Nov 2026 07:55:12 GMT"
+    },
+    {
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=560947",
+      "title": "대구 한의대, 160억 규모 투자펀드 조성…\"K-MEDI 산업 글로벌 도약\"",
+      "date": "Mon, 16 Nov 2026 17:00:00 +0900"
+    },
+    {
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277890",
+      "title": "에코프로 에이치엔, 200억원 규모 온실가스 저감 설비 공급 계약 체결",
+      "date": "Mon, 16 Nov 2026 16:58:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DZjRoNnNVYlVXWWpUTXhaVHRtay1nWHVhMFA2OWdDV3MwdTRMN1NvQWY4S0hMZzZDUG5na0FEeU94NVRvZUpWcFowZHExa2FwNU5UQ1ZkWk9yNktPU3d6Qg?oc=5",
+      "title": "한국가스공사, 수소버스 온실가스 감축실적 확보 위한 업무협약 체결 - NSP통신",
+      "date": "Mon, 16 Nov 2026 07:55:49 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJMXlDdFpQUXRiZVhrOThZaVFleURmVjBONnNwRFltbGVxaDJwclNEb2dvNi1nbHByY04yamdwcWpFdEZ1eWM0dnJpcHR4MTJPYmxxcjlnU2p2V05oUFRxd01HVklUbmNtQ1JMRXozeml3bEk?oc=5",
+      "title": "대구 수성못 수상공연장 300억 원 사업 본격화… 토지주 반발 변수 - 코리아이글뉴스",
+      "date": "Mon, 16 Nov 2026 07:45:00 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SXRMTkkzMm1SZUs0RGpVOXB6Y0c4SnpLR1lLb3RoWEkyRnhJSlhVeWRJZ1l6UklpQWVObDlqeXhZUDE2bmR4VlhUWW0yVkNzRjBwZUVKQUZ4SVZBSkxiLW85a3NHOHl3S0FN?oc=5",
+      "title": "경주시, 미국서 투자 수출 관련 업무협약 잇따라 체결하며 투자유치 행보 - 프레시안",
+      "date": "Mon, 16 Nov 2026 07:40:25 GMT"
+    },
+    {
+      "url": "http://www.iminju.net/news/articleView.html?idxno=172540",
+      "title": "한국가스공사 , 수소버스 온실가스 감축실적 확보 위한 협력 확대",
+      "date": "Mon, 16 Nov 2026 16:40:00 +0900"
+    },
+    {
+      "url": "https://www.thebk.co.kr/news/articleView.html?idxno=312845",
+      "title": "경산시, 중국·인도 무역사절단 '거대 시장' 중국·인도 뚫었다… 1180억...",
+      "date": "Mon, 16 Nov 2026 16:34:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qOGhWT2h1bkk0aTBLcnYtSW9xRkFJT1p5VERKbVdsc2lGY1BVSjFNVzZVdnBvbkFSNjJVaW5oLV9VbUdfa3RRVlp5TUhSVklQQVB0a2Rzc0VIV0ZoNUJGeTdmUDhOYy1mREE?oc=5",
+      "title": "경산시, 중국·인도 무역사절단 ‘거대 시장’ 중국·인도 뚫었다… 1180억 규모 수출길 활짝 - 뷰티경제",
+      "date": "Mon, 16 Nov 2026 07:32:29 GMT"
     }
   ],
   "brief_articles": [
@@ -7998,7 +8295,7 @@
     "2026-11-13": 14,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 3
+    "2026-11-16": 4
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
