@@ -1,10 +1,5 @@
 {
   "sent": {
-    "https://www.jbnews.com/news/articleView.html?idxno=1514911": "2026-11-02T14:02:45.991689+09:00",
-    "https://biz.sbs.co.kr/article_hub/20000343643?division=NAVER": "2026-11-02T14:02:45.991689+09:00",
-    "https://www.slist.kr/news/articleView.html?idxno=778352": "2026-11-02T14:02:45.991689+09:00",
-    "http://www.newslock.co.kr/news/articleView.html?idxno=139089": "2026-11-02T14:02:45.991689+09:00",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FTV9kTnNlU0duTUh1dmlCRllmNUxpZjhMWV9NaGRJX0sybjBuY0FYcEFHbjB3a3ZHQVBSMURuQVdDRWgzY3kwVGlNTXV3SlNsSDNDQkRQWHU?oc=5": "2026-11-02T14:02:45.991689+09:00",
     "https://www.newsis.com/view/NISX20261102_0003851167": "2026-11-02T15:03:27.608078+09:00",
     "http://www.4th.kr/news/articleView.html?idxno=2120941": "2026-11-02T15:03:27.608078+09:00",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nRnhWY0hTdTRsaExGS0R0aHRHRS1IVW13b0gyVGh3U0lNV0YxQzlOWFpGVHBZc21yUk9JZWVoMHY0V2E4YklXRlVwaHFKaTRMd3BvSjBPdl9vMzk5endNT1NNc2llQzBSSk9RSjY1UQ?oc=5": "2026-11-02T15:03:27.608078+09:00",
@@ -970,14 +965,17 @@
     "https://www.kmib.co.kr/article/20261116500254": "2026-11-16T12:02:13.553918+09:00",
     "https://view.asiae.co.kr/article/2026111613280152825": "2026-11-16T14:01:58.976978+09:00",
     "https://www.m-i.kr/news/articleView.html?idxno=2018967": "2026-11-16T14:01:58.976978+09:00",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE91dExmT3VsZFRsLXc2WEJuREFiZWtveXdGUEJnZkN4ci14MlBCelJ5LURRd2t3RTNRbjBjVW40WkZKemdJcXlvM0RUUGgzYlhXY3BkemFDVjdsZDVOQnpyS2VKX2Jmb0xrclFPY0h0QkRDSTQ?oc=5": "2026-11-16T14:01:58.976978+09:00"
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE91dExmT3VsZFRsLXc2WEJuREFiZWtveXdGUEJnZkN4ci14MlBCelJ5LURRd2t3RTNRbjBjVW40WkZKemdJcXlvM0RUUGgzYlhXY3BkemFDVjdsZDVOQnpyS2VKX2Jmb0xrclFPY0h0QkRDSTQ?oc=5": "2026-11-16T14:01:58.976978+09:00",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1td1Y3R3RBQW1SVE1pSzNxNW16RXY4dlptWW1pLVJMRk5YYmlhbk5tWVd0S3AtMUIxRWNsY0dydHRfTXpuTWdRYTFaQWZLcXhpcTJVTEVUVG1yTVJhV0lRWjAwYUtPZ2PSAWtBVV95cUxOQkl0RDI2S1NkemxCRk94bEFKNjEzOEQ2bFZmVmJnc2lBME9weGtITk9IUW1Iak1lRnpkRTJBQ2ZkNkt5VXB5WERSZV9MeXhwRkV1SF9pYmtkZk9GclFfWVp4OXpVZDJ2bXdwVQ?oc=5": "2026-11-16T15:02:06.561661+09:00",
+    "https://www.huffingtonpost.kr/article/262095": "2026-11-16T15:02:06.561661+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLclhiZUNsSHk5azNITWlTSUtRaU9SR3dYQmJUdjZuSlpaNDdQV0NtWk9nYkNxU3J1cW5HWG9odER0RHhPYzFkY2JEVzRxY0lxN2ZucE1qSXFqYmZmZ2xCLWQySHdiRjhPRzhz?oc=5": "2026-11-16T15:02:06.561661+09:00",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDQmxNb0dhWVlXWTFtb0doQ3dfT09VTVJWeHJiQURDQUVadFFZYTZrVWM2a3hrdTg3RExpOWtfY2ctUWF0NzQwWF80R3k4RjJMaExlemd5QzA?oc=5": "2026-11-16T15:02:06.561661+09:00",
+    "https://www.nocutnews.co.kr/news/6607457": "2026-11-16T15:02:06.561661+09:00",
+    "https://www.kmib.co.kr/article/20261116500492": "2026-11-16T15:02:06.561661+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5SzNIN2NSYzBlSU90Nm9iRkhwVzdyOFFHaWRyUG5zV0lBdkVzVGNiN3R4bkQ0NkY5MW00RnJrZVVDVWVtZ0ozdnpnUFo5NWRqbVNTUVpZTWM3eFJmSWZxYlFBdmpldFZjcGc?oc=5": "2026-11-16T15:02:06.561661+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMWM3YS1scXd0azFTQXcwYl9QbFVoS1hSMHpuZHBwUUxJeS1ER0VHWDk5aHA0OEk1TzF6bHVOWXVzWEh3dkw3Z2FJa2VjT1kxck5TcmNzU1JiMHV2blF1Q2I1aExaNGU2Z3c?oc=5": "2026-11-16T15:02:06.561661+09:00"
   },
   "titles": {
-    "a09645b6e928d1e8b9d43b8af2c93d84f9f46c28570c2e1a0cdad86a70787bdd": "2026-11-02T14:02:45.991689+09:00",
-    "2f5f3dd753c5d7abf6c53468df82796aca829a43998709af61daad640416f1fc": "2026-11-02T14:02:45.991689+09:00",
-    "6105a23c71431f8880271eff24457f553d568ab449e53cbc7a4bdf5d239803ac": "2026-11-02T14:02:45.991689+09:00",
-    "75979485b72accab9095b1a68c35697ec2faaae59fdce01048c5de0cb8a02047": "2026-11-02T14:02:45.991689+09:00",
-    "343d60d9cd8aeb4f94035819a7808bb3c76fc87f9be8281b6be7a7c3ba62bed1": "2026-11-02T14:02:45.991689+09:00",
     "cb0b16bd0a04ce5ada79ab82541512f81056908e42ad2fa3b31bb18712a79d4a": "2026-11-02T15:03:27.608078+09:00",
     "e717e3374cbe358436333daa379d8690e86a6a5fdbb806ea181b3db9e9eeaf59": "2026-11-02T15:03:27.608078+09:00",
     "7c8ac402bea95cdf09000676e7fd2eed09a1cb75a67d190843dd4fea2071464a": "2026-11-02T15:03:27.608078+09:00",
@@ -1943,7 +1941,15 @@
     "0c93679524ce72f82beda3f7fdb063d6fc5928501175d7b0694e4f04ea410a02": "2026-11-16T12:02:13.553918+09:00",
     "83ed3a2624a353bfbdb07bbbec0bb3eb9d4dc8e7578157158c2f8ec314e5058b": "2026-11-16T14:01:58.976978+09:00",
     "02e08a71fecb7c75810c68b895cdda0accd8044156cec16be7759a04390b4536": "2026-11-16T14:01:58.976978+09:00",
-    "e11be897554cc42d2af1dbff874716dd85bf93a5eb58ea0575e64350a0098639": "2026-11-16T14:01:58.976978+09:00"
+    "e11be897554cc42d2af1dbff874716dd85bf93a5eb58ea0575e64350a0098639": "2026-11-16T14:01:58.976978+09:00",
+    "9d77386346005d2f0ac5bea0575d3b384b7298abe9be269623bbc0b04d7a152e": "2026-11-16T15:02:06.561661+09:00",
+    "6a515b33b424541ed97aee5b8a507177155905349eb38531d8988f39119b0bd6": "2026-11-16T15:02:06.561661+09:00",
+    "206b535241ade2323669d144996ffb8cc922f4337b9e938a89258bacbddbcb6d": "2026-11-16T15:02:06.561661+09:00",
+    "abf993f6f1058a0fa88d3f5338b989389cc55cedb1d88d89853463b75413c55b": "2026-11-16T15:02:06.561661+09:00",
+    "c76b4cde37ba2afc1414fff313cc38e0b1b5339cd18c2ecbf1d720ed02f39b9e": "2026-11-16T15:02:06.561661+09:00",
+    "e1b8028cfb6596699bb30143cfdb903bbc4e0aec6bef8578ca1a1beb0a170252": "2026-11-16T15:02:06.561661+09:00",
+    "bfaa3168d94fc3981f763c60447dfa26b759918ebc9bce4065bb4123b42223c7": "2026-11-16T15:02:06.561661+09:00",
+    "3a07e6a2ff0eac81326912d10b5bc7cf1f3635822c4a9012313fac87312ad452": "2026-11-16T15:02:06.561661+09:00"
   },
   "pending": {},
   "ai": {
@@ -1954,7 +1960,7 @@
     "2026-11-13": 26,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 2
+    "2026-11-16": 3
   },
   "cursor": 0,
   "archive": {
@@ -2882,6 +2888,110 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.nocutnews.co.kr/news/6607457": {
+      "title": "대구 수성못 수상공연장 조성, 본격 궤도에…내년 초 착공 기대",
+      "summary": "총 사업비는 300억 원이며 국토교통부 국비를 지원 받아 건립 한다. 추경호 대구 시장은 \"오늘 합의서 체결로 시유지 사용과 영구 시설물 축조를 위한 행정적 기반이 마련된 만큼 앞으로 사업 추진에도 한층 타력이 붙을 것...",
+      "url": "https://www.nocutnews.co.kr/news/6607457",
+      "date": "Mon, 16 Nov 2026 14:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kmib.co.kr/article/20261116500492": {
+      "title": "대구 대표 수변공간 수성못에 1000석 수상공연장 건립 속도",
+      "summary": "대구 시와 수성구가 수성못 수상공연장 건립 에 힘을 모으기로 했다. 대구 시와 수성구는 16일 시청 동인청사에서 ‘수성못 수상공연장 조성을 위한 시유지 사용 및 영구시설물 축조’ 합의서에 서명했다. 추경호 대구 시장과...",
+      "url": "https://www.kmib.co.kr/article/20261116500492",
+      "date": "Mon, 16 Nov 2026 14:33:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.huffingtonpost.kr/article/262095": {
+      "title": "포스코 노조 17일 상경투쟁 소식에 지역사회도 초조, 박용선 포항시장 ...",
+      "summary": "포스코 노조가 예고한 서울 상경투쟁을 하루 앞두고 포항시장을 비롯한 지역사회가 포스코 노사에 빠른 해결을 촉구하고 나섰다. 갈등이 장기화하면 지역 경제가 흔들릴 수 있다는 위기감이 드러난 것으로 풀이된다....",
+      "url": "https://www.huffingtonpost.kr/article/262095",
+      "date": "Mon, 16 Nov 2026 15:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLclhiZUNsSHk5azNITWlTSUtRaU9SR3dYQmJUdjZuSlpaNDdQV0NtWk9nYkNxU3J1cW5HWG9odER0RHhPYzFkY2JEVzRxY0lxN2ZucE1qSXFqYmZmZ2xCLWQySHdiRjhPRzhz?oc=5": {
+      "title": "경주시, 미국 기업·기관과 잇단 협약···투자·수출 판로 확대 - 디트NEWS24",
+      "summary": "경주시, 미국 기업·기관과 잇단 협약···투자·수출 판로 확대 디트NEWS24",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLclhiZUNsSHk5azNITWlTSUtRaU9SR3dYQmJUdjZuSlpaNDdQV0NtWk9nYkNxU3J1cW5HWG9odER0RHhPYzFkY2JEVzRxY0lxN2ZucE1qSXFqYmZmZ2xCLWQySHdiRjhPRzhz?oc=5",
+      "date": "Mon, 16 Nov 2026 05:48:20 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5SzNIN2NSYzBlSU90Nm9iRkhwVzdyOFFHaWRyUG5zV0lBdkVzVGNiN3R4bkQ0NkY5MW00RnJrZVVDVWVtZ0ozdnpnUFo5NWRqbVNTUVpZTWM3eFJmSWZxYlFBdmpldFZjcGc?oc=5": {
+      "title": "경주시, 美 기업·기관과 투자협력 확대...현지 진출 교두보 확보 - www.hidomin.com",
+      "summary": "경주시, 美 기업·기관과 투자협력 확대...현지 진출 교두보 확보 www.hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5SzNIN2NSYzBlSU90Nm9iRkhwVzdyOFFHaWRyUG5zV0lBdkVzVGNiN3R4bkQ0NkY5MW00RnJrZVVDVWVtZ0ozdnpnUFo5NWRqbVNTUVpZTWM3eFJmSWZxYlFBdmpldFZjcGc?oc=5",
+      "date": "Mon, 16 Nov 2026 05:29:43 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDQmxNb0dhWVlXWTFtb0doQ3dfT09VTVJWeHJiQURDQUVadFFZYTZrVWM2a3hrdTg3RExpOWtfY2ctUWF0NzQwWF80R3k4RjJMaExlemd5QzA?oc=5": {
+      "title": "포항시·시의회·상의 “포스코 노사, 지역경제 위해 대화와 상생의 대승적 결단 내려달라” - 경북신문",
+      "summary": "포항시·시의회·상의 “포스코 노사, 지역경제 위해 대화와 상생의 대승적 결단 내려달라” 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDQmxNb0dhWVlXWTFtb0doQ3dfT09VTVJWeHJiQURDQUVadFFZYTZrVWM2a3hrdTg3RExpOWtfY2ctUWF0NzQwWF80R3k4RjJMaExlemd5QzA?oc=5",
+      "date": "Mon, 16 Nov 2026 05:47:59 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMWM3YS1scXd0azFTQXcwYl9QbFVoS1hSMHpuZHBwUUxJeS1ER0VHWDk5aHA0OEk1TzF6bHVOWXVzWEh3dkw3Z2FJa2VjT1kxck5TcmNzU1JiMHV2blF1Q2I1aExaNGU2Z3c?oc=5": {
+      "title": "포스코 광양제철소, 제품부두 스마트물류 전환 속도…하역사 4곳 설비투자 지원 - 철강금속신문",
+      "summary": "포스코 광양제철소, 제품부두 스마트물류 전환 속도…하역사 4곳 설비투자 지원 철강금속신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMWM3YS1scXd0azFTQXcwYl9QbFVoS1hSMHpuZHBwUUxJeS1ER0VHWDk5aHA0OEk1TzF6bHVOWXVzWEh3dkw3Z2FJa2VjT1kxck5TcmNzU1JiMHV2blF1Q2I1aExaNGU2Z3c?oc=5",
+      "date": "Mon, 16 Nov 2026 05:18:42 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1td1Y3R3RBQW1SVE1pSzNxNW16RXY4dlptWW1pLVJMRk5YYmlhbk5tWVd0S3AtMUIxRWNsY0dydHRfTXpuTWdRYTFaQWZLcXhpcTJVTEVUVG1yTVJhV0lRWjAwYUtPZ2PSAWtBVV95cUxOQkl0RDI2S1NkemxCRk94bEFKNjEzOEQ2bFZmVmJnc2lBME9weGtITk9IUW1Iak1lRnpkRTJBQ2ZkNkt5VXB5WERSZV9MeXhwRkV1SF9pYmtkZk9GclFfWVp4OXpVZDJ2bXdwVQ?oc=5": {
+      "title": "송치영 포스코이앤씨 대표, 9년 만의 적자 4,515억…부채비율 172%로 흔들린 재무 - CEO저널",
+      "summary": "송치영 포스코이앤씨 대표, 9년 만의 적자 4,515억…부채비율 172%로 흔들린 재무 CEO저널",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1td1Y3R3RBQW1SVE1pSzNxNW16RXY4dlptWW1pLVJMRk5YYmlhbk5tWVd0S3AtMUIxRWNsY0dydHRfTXpuTWdRYTFaQWZLcXhpcTJVTEVUVG1yTVJhV0lRWjAwYUtPZ2PSAWtBVV95cUxOQkl0RDI2S1NkemxCRk94bEFKNjEzOEQ2bFZmVmJnc2lBME9weGtITk9IUW1Iak1lRnpkRTJBQ2ZkNkt5VXB5WERSZV9MeXhwRkV1SF9pYmtkZk9GclFfWVp4OXpVZDJ2bXdwVQ?oc=5",
+      "date": "Mon, 16 Nov 2026 05:32:05 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -2901,41 +3011,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-16",
   "sent_articles": [
-    {
-      "url": "https://www.newsis.com/view/NISX20261102_0003851167",
-      "title": "대구 ·경북, 올 상반기 화재·폭발 사망자 32명, 전년비 2배↑",
-      "date": "Mon, 02 Nov 2026 14:48:00 +0900"
-    },
-    {
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2120941",
-      "title": "'4명 사상' 에코프로 비엠 폭발사고…전 대표 징역 1년6월 구형",
-      "date": "Mon, 02 Nov 2026 14:18:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nRnhWY0hTdTRsaExGS0R0aHRHRS1IVW13b0gyVGh3U0lNV0YxQzlOWFpGVHBZc21yUk9JZWVoMHY0V2E4YklXRlVwaHFKaTRMd3BvSjBPdl9vMzk5endNT1NNc2llQzBSSk9RSjY1UQ?oc=5",
-      "title": "경주 외동 자동차부품 공장 화재…건물 2동·완제품 전소 - www.kyongbuk.co.kr",
-      "date": "Mon, 02 Nov 2026 05:13:00 GMT"
-    },
-    {
-      "url": "https://biz.sbs.co.kr/article_hub/20000343539?division=NAVER",
-      "title": "삼성SDS, 구미 AI 데이터센터 건립 본격화…최대 120MW로 확장",
-      "date": "Mon, 02 Nov 2026 15:00:00 +0900"
-    },
-    {
-      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020085&t=NNv",
-      "title": "포스코퓨처엠 , LFP로 날았다…\"10조 수주에 증설 검토\"",
-      "date": "Mon, 02 Nov 2026 14:36:00 +0900"
-    },
-    {
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442541",
-      "title": "포스코 홀딩스, 3Q 연결 영업익 48% 뛴 9천400억…'깜짝 실적'",
-      "date": "Mon, 02 Nov 2026 14:12:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWExrcWVESEo0blkwMklGcmpaV1hMU2w1VVJsRXFDYWNGYVRHMk1RdUhQNTMyUzNJNmNKWVJQT0hkWHUxdUpSdzgzVHZWc0p4bDJoaldVY0J6UDlxQmt5TGVjbGROdlRqeEl0QzFRQ2lZLUVkRGhSNG84bV9MQ2hHVVhB0gGWAUFVX3lxTE5lbFpIb24yRVpOalZGampsX0kzT2RSbDltV2NEajFGMkV5ZDhfZlVrOHYtN1F4NHB5QnVYb1IzdTNSejc3Szg2LWRZdFN4cnAtNkVDTl9FQ3Via29zUzlPeDhLS2RTWk9hLWE2c21sZ0NiU0F5bHpBbWp2R25uNTZwbUliRUJtckJfTW1ZbmtuZm55bGwxUQ?oc=5",
-      "title": "Posco Holdings tops forecasts as Q3 operating profit jumps 48% in South Korea - Chosunbiz",
-      "date": "Mon, 02 Nov 2026 05:11:00 GMT"
-    },
     {
       "url": "https://www.eroun.net/news/articleView.html?idxno=94121",
       "title": "대구 시·달성군·㈜이수페타시스, 5000억 원 규모 투자협약 체결...민선...",
@@ -7730,6 +7805,46 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91dExmT3VsZFRsLXc2WEJuREFiZWtveXdGUEJnZkN4ci14MlBCelJ5LURRd2t3RTNRbjBjVW40WkZKemdJcXlvM0RUUGgzYlhXY3BkemFDVjdsZDVOQnpyS2VKX2Jmb0xrclFPY0h0QkRDSTQ?oc=5",
       "title": "경북 이전기업도 투자 대상…대구한의대, 160억 펀드 추진 - 오늘경제",
       "date": "Mon, 16 Nov 2026 04:06:18 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1td1Y3R3RBQW1SVE1pSzNxNW16RXY4dlptWW1pLVJMRk5YYmlhbk5tWVd0S3AtMUIxRWNsY0dydHRfTXpuTWdRYTFaQWZLcXhpcTJVTEVUVG1yTVJhV0lRWjAwYUtPZ2PSAWtBVV95cUxOQkl0RDI2S1NkemxCRk94bEFKNjEzOEQ2bFZmVmJnc2lBME9weGtITk9IUW1Iak1lRnpkRTJBQ2ZkNkt5VXB5WERSZV9MeXhwRkV1SF9pYmtkZk9GclFfWVp4OXpVZDJ2bXdwVQ?oc=5",
+      "title": "송치영 포스코이앤씨 대표, 9년 만의 적자 4,515억…부채비율 172%로 흔들린 재무 - CEO저널",
+      "date": "Mon, 16 Nov 2026 05:32:05 GMT"
+    },
+    {
+      "url": "https://www.huffingtonpost.kr/article/262095",
+      "title": "포스코 노조 17일 상경투쟁 소식에 지역사회도 초조, 박용선 포항시장 ...",
+      "date": "Mon, 16 Nov 2026 15:00:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLclhiZUNsSHk5azNITWlTSUtRaU9SR3dYQmJUdjZuSlpaNDdQV0NtWk9nYkNxU3J1cW5HWG9odER0RHhPYzFkY2JEVzRxY0lxN2ZucE1qSXFqYmZmZ2xCLWQySHdiRjhPRzhz?oc=5",
+      "title": "경주시, 미국 기업·기관과 잇단 협약···투자·수출 판로 확대 - 디트NEWS24",
+      "date": "Mon, 16 Nov 2026 05:48:20 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDQmxNb0dhWVlXWTFtb0doQ3dfT09VTVJWeHJiQURDQUVadFFZYTZrVWM2a3hrdTg3RExpOWtfY2ctUWF0NzQwWF80R3k4RjJMaExlemd5QzA?oc=5",
+      "title": "포항시·시의회·상의 “포스코 노사, 지역경제 위해 대화와 상생의 대승적 결단 내려달라” - 경북신문",
+      "date": "Mon, 16 Nov 2026 05:47:59 GMT"
+    },
+    {
+      "url": "https://www.nocutnews.co.kr/news/6607457",
+      "title": "대구 수성못 수상공연장 조성, 본격 궤도에…내년 초 착공 기대",
+      "date": "Mon, 16 Nov 2026 14:40:00 +0900"
+    },
+    {
+      "url": "https://www.kmib.co.kr/article/20261116500492",
+      "title": "대구 대표 수변공간 수성못에 1000석 수상공연장 건립 속도",
+      "date": "Mon, 16 Nov 2026 14:33:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5SzNIN2NSYzBlSU90Nm9iRkhwVzdyOFFHaWRyUG5zV0lBdkVzVGNiN3R4bkQ0NkY5MW00RnJrZVVDVWVtZ0ozdnpnUFo5NWRqbVNTUVpZTWM3eFJmSWZxYlFBdmpldFZjcGc?oc=5",
+      "title": "경주시, 美 기업·기관과 투자협력 확대...현지 진출 교두보 확보 - www.hidomin.com",
+      "date": "Mon, 16 Nov 2026 05:29:43 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oMWM3YS1scXd0azFTQXcwYl9QbFVoS1hSMHpuZHBwUUxJeS1ER0VHWDk5aHA0OEk1TzF6bHVOWXVzWEh3dkw3Z2FJa2VjT1kxck5TcmNzU1JiMHV2blF1Q2I1aExaNGU2Z3c?oc=5",
+      "title": "포스코 광양제철소, 제품부두 스마트물류 전환 속도…하역사 4곳 설비투자 지원 - 철강금속신문",
+      "date": "Mon, 16 Nov 2026 05:18:42 GMT"
     }
   ],
   "brief_articles": [
@@ -7767,7 +7882,7 @@
     "2026-11-13": 14,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 2
+    "2026-11-16": 3
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
