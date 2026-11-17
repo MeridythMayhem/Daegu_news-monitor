@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A": "2026-11-03T20:18:01.551373+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5": "2026-11-03T21:36:18.038139+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628315": "2026-11-03T21:36:18.038139+09:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5": "2026-11-03T21:36:18.038139+09:00",
@@ -1055,10 +1054,11 @@
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbmZuWU9OMVZWZGJUYk9Zc0ZoVUZPYVRXTGdiWnE2eVNMWnJWZUVld1Z5RU40RHRSdENIZjVNNXR2OFI4UmhrNThlQVk0QlFpTTJGUTc0N0FoTllUN1dLV29SN2kyTi1JWGlzVUV4M2ZJeTZYMm5qVHVHc1VleFZRSHFzWmpVZkZJd25RWnpXRE5wcE9RMVlOdTFhS2doUl9wMTFWNXV3NzNXOG5iak1nZGNWYXFmazhhYzBvdEQ5eFJiTDQ3ellqRHVHclFCWElweUJJ?oc=5": "2026-11-17T19:09:12.106954+09:00",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LbHpQRVVMYThteklDUTl3cHF1eUJKdFB0Vk45LU84MTZFQ1BkcGJlNkU1LTNKeFRsQTNBMHNERjdQVzYwNHVFY2hYa25kbm5fVW1YZERtZWdTdDY4SWtKd1NfYnNkbEVSSVBhSXNjc2UwSXA2Y2pmN1NsVXU?oc=5": "2026-11-17T19:09:12.106954+09:00",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YQy1tdDM5U2JzTHQ4VC02VHRjeTNqWkRHT1NMa2lhRmdXbTZzSUhXNEI0RmwxQmVrd2VBV1FmWHFPYlhvNXM2Zm00LVpIdmRhWDdzQnpLaTZiTkU?oc=5": "2026-11-17T19:09:12.106954+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091162": "2026-11-17T20:15:52.040137+09:00"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091162": "2026-11-17T20:15:52.040137+09:00",
+    "https://www.hidomin.com/news/articleView.html?idxno=729872": "2026-11-17T21:02:38.400973+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091207": "2026-11-17T21:02:38.400973+09:00"
   },
   "titles": {
-    "84409ce78c95b629837e2eb4f5780a09481ce266c757e5c292ef81a79e9766d6": "2026-11-03T20:18:01.551373+09:00",
     "dd7a88532f4c5c5a7e24a657972eb1bc6bd230476b1148a03563cdc36f6c1449": "2026-11-03T21:36:18.038139+09:00",
     "63a3e01cc171ee30c61c0cff5ed53d3104d04b2fdc961a5f8a2fc12fd60342a9": "2026-11-03T21:36:18.038139+09:00",
     "cac73b4e2973d850fe6b1c6c02cbe087b5e8a3ea1ad117f336b727491c25d3ff": "2026-11-03T21:36:18.038139+09:00",
@@ -2113,7 +2113,9 @@
     "a97b5ccdeb831786ecfdecad2dc56f44ff976f994de93b5ecf5a187e180b93da": "2026-11-17T19:09:12.106954+09:00",
     "edb3ccbdd2535e7d74895eae7ffbe042767aed58b783c1540703c2fb2e97cf9d": "2026-11-17T19:09:12.106954+09:00",
     "006b1933e202eca21d6e1d70132694e8b77ffcbae1bd116c9cfe5b37584e632c": "2026-11-17T19:09:12.106954+09:00",
-    "41f39caad79aac16a71a285abd482f37af34acbad78ea21e44d16520e367ca67": "2026-11-17T20:15:52.040137+09:00"
+    "41f39caad79aac16a71a285abd482f37af34acbad78ea21e44d16520e367ca67": "2026-11-17T20:15:52.040137+09:00",
+    "4beb74178c19f02f7f453c69c1f0a8f3a4d8b63f8b71925a9c0c30557832ab8c": "2026-11-17T21:02:38.400973+09:00",
+    "016c5730a08e2e3439e7bfc9a1cfc224a6d3aceb3d28e07d8298187b17a3b968": "2026-11-17T21:02:38.400973+09:00"
   },
   "pending": {},
   "ai": {
@@ -2128,19 +2130,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.cstimes.com/news/articleView.html?idxno=727925": {
-      "title": "2029년 11월 착공 목표…한수원, 두코바니 원전 프로젝트 이행 현황 점검",
-      "summary": "컨슈머타임스=안성렬 기자 | 한국수력원자력 (한수원)과 체코 발주사 EDU II가 지난 9일부터 12일까지 서울 방사선보건원에서 두코바니 원전 건설사업 이행 현황을 점검하기 위한 프로젝트 합동 점검회의를 개최했다....",
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=727925",
-      "date": "Sun, 15 Nov 2026 20:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.m-i.kr/news/articleView.html?idxno=2018610": {
       "title": "대구 서구, 산업단지 대기·폐수 배출사업장 불시 점검해 3곳 적발",
       "summary": "매일 일보 = 이인수 기자 | 대구 서구청이 대구 시와 산업단지 내 대기오염물질·폐수 배출사업장 30곳을 불시 합동점검해 환경 관련 법규 위반 사업장 3곳을 적발했다. 합동점검은 지난 10일부터 11일까지 이틀간...",
@@ -5070,6 +5059,32 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091207": {
+      "title": "경북 도·식품안전정보원, K-푸드 수출 지원 맞손…해외 규제 대응 강화",
+      "summary": "경북 도는 17일 서울 식품안전정보원 대회의실에서 이철우 경북 도지사와 이재용 식품안전정보원장 등이 참석한 가운데 '식품안전체계 구축 및 식품한류산업 진흥을 위한 업무협약( MOU )'을 체결했다. 식품의약품안전처 산하...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091207",
+      "date": "Tue, 17 Nov 2026 20:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=729872": {
+      "title": "포항 철강경기 2년 침체 딛고 반등 조짐… 설비투자는 뒷걸음질",
+      "summary": "9월 포스코 포항제철소의 조강생산량은 116만3000t으로 1년 전보다 2.1% 늘었다. 7월 6.3% 증가한 뒤 8월 0.4% 감소로 주춤했다가 한 달 만에 증가세로 돌아섰다. 포스코 전체 조강생산량은 296만t으로 6.9% 증가했는데...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=729872",
+      "date": "Tue, 17 Nov 2026 20:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5101,26 +5116,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-17",
   "sent_articles": [
-    {
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A",
-      "title": "[여기는 포항] 포스코 홀딩스, 3분기 영업이익 9천450억 원 외",
-      "date": "Tue, 03 Nov 2026 20:02:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5",
-      "title": "가스공사, iM뱅크와 손잡고 대구 지역 경제 활력 ‘UP’ - 기후에너지경제",
-      "date": "Tue, 03 Nov 2026 11:53:01 GMT"
-    },
-    {
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628315",
-      "title": "포항 시, 불빛으로 끌고 마이스로 체류관광 키운다…지역경제 활력",
-      "date": "Tue, 03 Nov 2026 20:58:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91b28xeW1STlpZbXBEVnBtOGJ3bzY1dEU1Z2ZzQVk5TjVaTlRhNjJ5cnliVUpScnB2YndJR0RqSDBBWjBUeVY3OTEzb05yMlpoc1ZJdVRzNktNVHY3UEFHVTZodjhRVnJGLUJNOUplWGhudw?oc=5",
-      "title": "포항시, 캐나다 티브라더스와 농특산물 수출 확대 협약 - 웹이코노미",
-      "date": "Tue, 03 Nov 2026 11:50:03 GMT"
-    },
     {
       "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564334",
       "title": "[사설] 삼성SDS와 이수페타시스의 구미·대구 투자",
@@ -10380,6 +10375,16 @@
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091162",
       "title": "경북 포도 수출, 10월까지 7294만 달러…전국의 80.5% 차지",
       "date": "Tue, 17 Nov 2026 19:30:00 +0900"
+    },
+    {
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=729872",
+      "title": "포항 철강경기 2년 침체 딛고 반등 조짐… 설비투자는 뒷걸음질",
+      "date": "Tue, 17 Nov 2026 20:42:00 +0900"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091207",
+      "title": "경북 도·식품안전정보원, K-푸드 수출 지원 맞손…해외 규제 대응 강화",
+      "date": "Tue, 17 Nov 2026 20:32:00 +0900"
     }
   ],
   "brief_articles": [
