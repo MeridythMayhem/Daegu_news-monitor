@@ -987,7 +987,9 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcWV0dldlTjEyaTBoR05rdjZvZTd1THlPMndHU3dQZ01IakpfQ2VtcVNrNXFycGQzWFFXUnh5NDNsVzFlUlgybXNoTEI4N3Y0M0xaTmZKb3o2cnZuTkpyeFFMdTE0R0g2U1E?oc=5": "2026-11-16T21:02:05.137797+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=565504": "2026-11-16T22:10:30.182532+09:00",
     "http://www.yonhapnewstv.co.kr/news/MYH20261116221138b7z": "2026-11-16T23:02:00.849291+09:00",
-    "https://www.viva100.com/article/20261116501401": "2026-11-16T23:02:00.849291+09:00"
+    "https://www.viva100.com/article/20261116501401": "2026-11-16T23:02:00.849291+09:00",
+    "https://www.kmib.co.kr/article/20261117500070": "2026-11-17T09:02:29.053026+09:00",
+    "https://biz.heraldcorp.com/article/10939194?ref=naver": "2026-11-17T09:02:29.053026+09:00"
   },
   "titles": {
     "19484f3c3e82ef8938dd5383202d6cb90216f33639be65fed3529408af3327ae": "2026-11-03T09:02:36.210472+09:00",
@@ -1977,7 +1979,9 @@
     "302e65831be1d8aabba55e266700e6648c189a9419fbf5eb8d397468cbba342d": "2026-11-16T21:02:05.137797+09:00",
     "397c52829bfad97a05540933e919aaebeba4eb42dd2414aa8e29273a5552dcf0": "2026-11-16T22:10:30.182532+09:00",
     "6df23651cf41ec652c8fa3ee2c8269b2fbf6279034b3293a6a1870001b3b8767": "2026-11-16T23:02:00.849291+09:00",
-    "16b94d9b9f5333b44e34a1cea9cdab648ab6028f54f7b6dc7ee4f6d47e4c7aa0": "2026-11-16T23:02:00.849291+09:00"
+    "16b94d9b9f5333b44e34a1cea9cdab648ab6028f54f7b6dc7ee4f6d47e4c7aa0": "2026-11-16T23:02:00.849291+09:00",
+    "a53b8ce017a70b935c121c230bee8c8b36fbf08ddfec0c019a83c33dc2e28552": "2026-11-17T09:02:29.053026+09:00",
+    "119c39c2ae81d3bc51515e1e406341e502d1d871d1aafaee061f060da39d4394": "2026-11-17T09:02:29.053026+09:00"
   },
   "pending": {},
   "ai": {
@@ -1991,32 +1995,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5": {
-      "title": "경상북도, 울릉공항 직원사택 진입로 신설 합의 `개항 준비 협력 강화` - CBN뉴스",
-      "summary": "경상북도, 울릉공항 직원사택 진입로 신설 합의 `개항 준비 협력 강화` CBN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5",
-      "date": "Sat, 14 Nov 2026 23:15:40 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5": {
-      "title": "대구 서구, 산업단지 환경오염 배출업소 3곳 적발 - 경북신문",
-      "summary": "대구 서구, 산업단지 환경오염 배출업소 3곳 적발 경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5",
-      "date": "Sat, 14 Nov 2026 23:25:47 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.metroseoul.co.kr/article/20261115500020": {
       "title": "경북 도, 울릉군·한국공항공사·주민과 협의…진입로 200m 신설에 30억 원...",
       "summary": "경북 도는 울릉공항 직원사택 진입로를 길이 200m, 폭 6m 규모로 신설하기로 주민들과 합의했다고 밝혔다. 사업비는 약 30억 원이며, 120세대 규모의 직원사택은 공항 개항 일정에 맞춰 건립 한다. 도는 12일 울릉군청에서...",
@@ -3773,6 +3751,32 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://biz.heraldcorp.com/article/10939194?ref=naver": {
+      "title": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 성과",
+      "summary": "경북 경산시가 중국과 인도에 무역사절단을 파견해 8490만 달러 규모의 수출상담 실적을 거두며 지역... 업무협약( MOU ·282만 달러)을 체결했다. 이번 사절단에는 로봇, 산업용 기계 부품, 식품, 소비재 등 다양한 분야의...",
+      "url": "https://biz.heraldcorp.com/article/10939194?ref=naver",
+      "date": "Tue, 17 Nov 2026 08:27:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.kmib.co.kr/article/20261117500070": {
+      "title": "“필리핀에 이어 대만까지”… 경북 도, ‘대한민국 포도 수출 1억 달러’...",
+      "summary": "생과와 가공 제품을 선보였다. 경북 도는 이번 성과를 바탕으로 대만·필리핀 등 해외시장을 넓힌다. 수출용 물량 확보와 품질관리, 바이어 사후관리로 거래 를 꾸준히 늘리고 국내 수급 안정에도 힘쓸 계획이다. 양...",
+      "url": "https://www.kmib.co.kr/article/20261117500070",
+      "date": "Tue, 17 Nov 2026 08:29:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -3804,11 +3808,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-17",
   "sent_articles": [
-    {
-      "url": "https://www.segye.com/newsView/20261103503141?OutUrl=naver",
-      "title": "대구 달성군 금속 공장 서 희토류 분쇄기 폭발…20대 작업자 2명 화상",
-      "date": "Tue, 03 Nov 2026 08:53:00 +0900"
-    },
     {
       "url": "https://www.news1.kr/local/gwangju-jeonnam/6340934",
       "title": "조상열 대동 문화재단 대표, 제61회 잡지의 날 '경영상' 수상",
@@ -8743,6 +8742,16 @@
       "url": "https://www.viva100.com/article/20261116501401",
       "title": "포스코 홀딩스, 中·캐나다 법인 지분 2894억 포스코 에 매각⋯ “경영효...",
       "date": "Mon, 16 Nov 2026 22:58:00 +0900"
+    },
+    {
+      "url": "https://www.kmib.co.kr/article/20261117500070",
+      "title": "“필리핀에 이어 대만까지”… 경북 도, ‘대한민국 포도 수출 1억 달러’...",
+      "date": "Tue, 17 Nov 2026 08:29:00 +0900"
+    },
+    {
+      "url": "https://biz.heraldcorp.com/article/10939194?ref=naver",
+      "title": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 성과",
+      "date": "Tue, 17 Nov 2026 08:27:00 +0900"
     }
   ],
   "brief_articles": [
