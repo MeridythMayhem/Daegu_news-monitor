@@ -1032,7 +1032,17 @@
     "http://www.inews24.com/view/2027132": "2026-11-17T16:02:15.808535+09:00",
     "https://tk.newdaily.co.kr/site/data/html/2026/11/17/2026111750220.html": "2026-11-17T16:02:15.808535+09:00",
     "https://www.fnnews.com/news/202611171515501396": "2026-11-17T16:02:15.808535+09:00",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvVmR4QzVGSVN4SjA3TGRRMW16eFVKX0drS0RKM3B4aE9HRlFoNzE4STU0Z2FhazB1bXNRUmxCZW5PMzZQTHpLRHpSRndfc1lsR2VTNkp6SG4?oc=5": "2026-11-17T16:02:15.808535+09:00"
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvVmR4QzVGSVN4SjA3TGRRMW16eFVKX0drS0RKM3B4aE9HRlFoNzE4STU0Z2FhazB1bXNRUmxCZW5PMzZQTHpLRHpSRndfc1lsR2VTNkp6SG4?oc=5": "2026-11-17T16:02:15.808535+09:00",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3754867": "2026-11-17T17:03:16.118843+09:00",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505143": "2026-11-17T17:03:16.118843+09:00",
+    "https://news.mtn.co.kr/article/2026111716313379237": "2026-11-17T17:03:16.118843+09:00",
+    "https://www.imaeil.com/page/view/2026111710451187298": "2026-11-17T17:03:16.118843+09:00",
+    "https://www.newsworker.co.kr/news/articleView.html?idxno=514579": "2026-11-17T17:03:16.118843+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091082": "2026-11-17T17:03:16.118843+09:00",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=452193": "2026-11-17T17:03:16.118843+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2019781": "2026-11-17T17:03:16.118843+09:00",
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194776": "2026-11-17T17:03:16.118843+09:00",
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=301521": "2026-11-17T17:03:16.118843+09:00"
   },
   "titles": {
     "0367dd4744aa168d3381145671b46b289a37396c8291298984d6d00919e34a01": "2026-11-03T17:03:06.006852+09:00",
@@ -2067,44 +2077,132 @@
     "b921b0007dc640fb38e12290664f6bfdc0645315819f2d64d91cd906cc73e83b": "2026-11-17T16:02:15.808535+09:00",
     "360a4b1a12a4bc57f7730e53e0aa65ff1dc185173760535d0ab829a1394faf60": "2026-11-17T16:02:15.808535+09:00",
     "1a3457d746501a81f2dd28fbe220354fd519dbb96ad8aa15c27dba2a02862bdb": "2026-11-17T16:02:15.808535+09:00",
-    "24896aeed993fa675f00192f250f4eb03d60d8b612f4c0e2b0ffe630ea6230da": "2026-11-17T16:02:15.808535+09:00"
+    "24896aeed993fa675f00192f250f4eb03d60d8b612f4c0e2b0ffe630ea6230da": "2026-11-17T16:02:15.808535+09:00",
+    "c331b7f4b619de97a4ae59976d2d18862a59716e665d94fe324e8a0d1cc57bb1": "2026-11-17T17:03:16.118843+09:00",
+    "acc30cdc430b29cac3b1c1b440c2e99f72683e64765d4dd16bdbbd518ad15f30": "2026-11-17T17:03:16.118843+09:00",
+    "6d1bcf536bd569207a27911389574142466ad4626236b00b209ff5cb64b91280": "2026-11-17T17:03:16.118843+09:00",
+    "efae60bef1ab690580e74af425b63a293049939110724c924cadde11c7633be9": "2026-11-17T17:03:16.118843+09:00",
+    "18a35d169c823b10c147bfde01d9d6d65829fc6abddf383171e951c74e81ad83": "2026-11-17T17:03:16.118843+09:00",
+    "9889a3c95623fa242440bd3ce2be97541d7461a9e602d654ed9f189a9e85854b": "2026-11-17T17:03:16.118843+09:00",
+    "66107fd82ee7703e6425c30731bb724037af68acb1b4b5cee709fd5294c407bc": "2026-11-17T17:03:16.118843+09:00",
+    "ad45f3b4904dc6ba9b93f70c4e45805c349ec7966d49cd089828d63f30a21ee0": "2026-11-17T17:03:16.118843+09:00",
+    "aa7a22e81fcb167473e91dea4b29cbd48f288046fbc462a0bc4585d07a91cb38": "2026-11-17T17:03:16.118843+09:00",
+    "9decba000e9fa7ae3493b0fde2c87db09d619c9df960c53172632fcffc43cd22": "2026-11-17T17:03:16.118843+09:00"
   },
   "pending": {
-    "https://www.viva100.com/article/20261117500789": {
-      "title": "이희근 포스코 사장 “위기 넘어 성장 기회로”⋯ 450개 고객사에 ‘AX·...",
-      "summary": "이희근 포스코 대표이사 사장이 글로벌 철강 위기를 돌파할 승부수로 ‘인공지능 전환(AX)·녹색 전환(GX)... 포스코 는 18일까지 사흘간 열리는 이번 행사에서 차세대 전략 제품 46종을 전격 공개하고 고객사들과 대규모...",
-      "url": "https://www.viva100.com/article/20261117500789",
-      "date": "Tue, 17 Nov 2026 15:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.sidae.com/article/2026111714175742574": {
-      "title": "이희근 포스코 사장, 상경 투쟁 노조에 '깜짝 면담' 제안",
-      "summary": "김 위원장은 9월 면담 직후 \"큰 의미가 없는 만남이었다\"며 교섭의 실타래는 결국 포스코홀딩스 회장이 풀어야 한다고 말하기도 했다. 잠정합의안은 지난 7일 조합원 찬반투표에서 찬성 4433표(48.31%), 반대 4744표(51.69%)로...",
-      "url": "https://www.sidae.com/article/2026111714175742574",
-      "date": "Tue, 17 Nov 2026 15:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.kbmaeil.com/article/20261117500522": {
-      "title": "사업비 85억 투입 소나무재선충병 긴급방제 돌입… 포항 시, 착공 전 안전...",
-      "summary": "현장의 중대 안전사고를 사전에 차단하기 위한 안전관리 협의체가 가동에 들어갔다. 포항 시는 이달부터 12월... 하반기 긴급방제는 총사업비 85억원을 들여 재해 위험목 2만5000본을 제거하고 강도간벌 92ha를 시행하는...",
-      "url": "https://www.kbmaeil.com/article/20261117500522",
-      "date": "Tue, 17 Nov 2026 15:10:00 +0900",
+    "https://www.mt.co.kr/policy/2026/11/17/2026111715400913764": {
+      "title": "구미 시-대한민국역사박물관, ' 구미 산업화역사관' 건립 맞손",
+      "summary": "업무협약( MOU )을 체결했다고 밝혔다. 협약에 따라 양 기관은 각자의 전문성과 자원을 바탕으로 가칭 '대한민국역사박물관( 구미 산업화역사관)' 건립을 위한 협력체계를 구축하고 산업유산의 보존과 활용을 위한 공동 사업에...",
+      "url": "https://www.mt.co.kr/policy/2026/11/17/2026111715400913764",
+      "date": "Tue, 17 Nov 2026 16:03:00 +0900",
       "channels": [
         "domestic"
       ],
       "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.mhns.co.kr/news/articleView.html?idxno=769481": {
+      "title": "구미 시-대한민국역사박물관과 ' 구미 산업화역사관 건립' 위한 업무협약(...",
+      "summary": "구미 시는 11월 17일 서울 종로구 대한민국역사박물관에서 '대한민국 근현대사와 산업사 관련 상호 협조'를 위한 업무협약( MOU )을 체결하고, 가칭 '대한민국역사박물관( 구미 산업화역사관)' 건립을 위한 협력 기반 마련에...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769481",
+      "date": "Tue, 17 Nov 2026 16:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sedaily.com/article/20115480?ref=naver": {
+      "title": "영주시, 첨단베어링 국가산단 투자유치 나서",
+      "summary": "경북 영주시는 대구 엑스코에서 개막한 ‘국제첨단소재부품 산업 전’에 참가해 영주 첨단베어링 국가 산업단지 의 투자 경쟁력을 알리고 입주 수요기업 발굴에 나섰다고 17일 밝혔다. 이날부터 나흘 간 열리는 이번...",
+      "url": "https://www.sedaily.com/article/20115480?ref=naver",
+      "date": "Tue, 17 Nov 2026 16:13:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=425101": {
+      "title": "정부, 해외 광물투자 재개 추진··· 포스코 ·고려아연 사업 힘 받나",
+      "summary": "정부가 해외 핵심광물 직접투자 재개를 추진하면서 포스코 인터내셔널과 고려아연의 중국 밖 공급망 구축... 미국 생산시설과 원료 조달망을 함께 구축하는 포스코 인터내셔널과 고려아연도 이러한 지원이 사업에 도움이...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425101",
+      "date": "Tue, 17 Nov 2026 16:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.the-today.com/news/articleView.html?idxno=93741": {
+      "title": "장인화 포스코 회장 연임 기정사실화(?)··· 회추위 앞두고 분위기 반...",
+      "summary": "장인화 포스코 그룹 회장의 연임에 무게가 실리고 있다. 전임 정부에서 선임됐다는 점이 약점으로 꼽혔지만... 포스코 그룹이 대내외 경영 불확실성을 겪는 상황에서 경영 연속성을 확보해야 한다는 목소리도 연임론에 힘을...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=93741",
+      "date": "Tue, 17 Nov 2026 16:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kukinews.com/article/view/kuk202611170164": {
+      "title": "포스코 센터 앞 집결한 노조원들…경영진 향한 분노의 외침 [쿠키포토]",
+      "summary": "쿠키뉴스=장혁준 기자 | 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을 촉구했다. 노조는 임금·단체협약(임단협)을 둘러싸고...",
+      "url": "https://www.kukinews.com/article/view/kuk202611170164",
+      "date": "Tue, 17 Nov 2026 16:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=301525": {
+      "title": "[포토] 멈춰 선 포스코 임금협상…노조, 상경투쟁 돌입",
+      "summary": "",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301525",
+      "date": "Tue, 17 Nov 2026 16:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ddaily.co.kr/page/view/2026111715184028671": {
+      "title": "포스코 노조 첫 상경투쟁 중 사측 '긴급 회담' 제안…노사 대표 전격 회...",
+      "summary": "올해 임금·단체협상을 둘러싸고 포스코 노사 간 갈등이 장기화하는 가운데 사측이 노조의 첫 상경투쟁 집회... 17일 포스코 는 서울 강남구 포스코 센터 앞에서 열린 ' 포스코 전 노동자 대표진 상경 투쟁 집회' 도중 김성호...",
+      "url": "https://www.ddaily.co.kr/page/view/2026111715184028671",
+      "date": "Tue, 17 Nov 2026 16:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGVld05kRllvTUk5S0JpNGVvVVphYW44OU1zVXlkZzMyS21vLTN1aHg0X1Z4N3c4VTFpNGhvTE1CSkoyVlhJalQ4TU54Y0dBek9lSlRPWW5uNEdnR2pfdlpObnJLekR0ODhySUhnWmFSbVdaMVBndklzcjdOeVZmdk1uSHU2dTUzankwTlUyd3Fsc1RxcTVIYU8tZXZ1NFNWa01fQmpyNA?oc=5": {
+      "title": "ARC Clean Technology Signs MOU with POSCO INTERNATIONAL to Explore Cooperation on Advanced Nuclear Fuel Supply - Digital Journal",
+      "summary": "ARC Clean Technology Signs MOU with POSCO INTERNATIONAL to Explore Cooperation on Advanced Nuclear Fuel Supply Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGVld05kRllvTUk5S0JpNGVvVVphYW44OU1zVXlkZzMyS21vLTN1aHg0X1Z4N3c4VTFpNGhvTE1CSkoyVlhJalQ4TU54Y0dBek9lSlRPWW5uNEdnR2pfdlpObnJLekR0ODhySUhnWmFSbVdaMVBndklzcjdOeVZmdk1uSHU2dTUzankwTlUyd3Fsc1RxcTVIYU8tZXZ1NFNWa01fQmpyNA?oc=5",
+      "date": "Tue, 17 Nov 2026 07:15:01 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
@@ -2118,75 +2216,10 @@
     "2026-11-14": 1,
     "2026-11-15": 3,
     "2026-11-16": 9,
-    "2026-11-17": 3
+    "2026-11-17": 5
   },
   "cursor": 0,
   "archive": {
-    "https://www.joongang.co.kr/article/25478761": {
-      "title": "BBQ ‘바르셀로나’ 초대권, 경찰· 국세청 제공 논란…“수백억 배임·횡...",
-      "summary": "국세청 역시 내부 인사 들에 대한 감찰을 통해 티켓 수령 여부를 확인 중이다. 당사자들은 관련 의혹을 부인하는 것으로 전해졌다. BBQ 측은 “회사 소속 세무사들이 있는 만큼 지인이나 거래처에 줬을 순 있지만 세무...",
-      "url": "https://www.joongang.co.kr/article/25478761",
-      "date": "Sun, 15 Nov 2026 16:41:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.seoul.co.kr/news/society/2026/11/15/20261115500083?wlog_tag3=naver": {
-      "title": "‘ 중대재해 ·기획통’ 노선균 전 대구 지검 차장검사, 법무법인 선운 합...",
-      "summary": "올해 2월 대구 지검 2차장검사로 부임한 후 지난달 검찰을 떠났다. 그는 검찰 재직 시절 중대재해 를 포함해 대표적인 공안·노동 전문가로 분류됐다. 울산지검 형사5부장 재직 당시 경남 양산의 자동차부품 제조공장에서...",
-      "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500083?wlog_tag3=naver",
-      "date": "Sun, 15 Nov 2026 16:37:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.g-enews.com/view.php?ud=202611151006514496112616b072_1": {
-      "title": "하대룡 전 포스코 강판 사장 \"철강 위기, 버티기 아닌 체질 전환이 해법...",
-      "summary": "터널에서 벗어나기를 기다리기보다 그 안에서 새로운 경쟁력을 찾아야 한다.\" 15일 하대룡 전 포스코 강판(현 포스코 스틸리온) 사장은 글로벌이코노믹과의 인터뷰에서 철강산업의 어려움이 일시적인 경기침체를 넘어...",
-      "url": "https://www.g-enews.com/view.php?ud=202611151006514496112616b072_1",
-      "date": "Sun, 15 Nov 2026 17:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.mk.co.kr/article/12209235": {
-      "title": "포스코 이앤씨, 삼성SDI·천안일반산업단지 '직주근접'",
-      "summary": "더샵 천안라크원 포스코 이앤씨가 충남 천안 성성호수공원 일대에 조성하는 '더샵 천안라크원'을 이달 분양한다. 성성호수공원과 인접한 입지에 삼성의 대규모 투자에 따른 배후 주거 수요까지 기대되는 단지다....",
-      "url": "https://www.mk.co.kr/article/12209235",
-      "date": "Sun, 15 Nov 2026 16:03:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SUMzeVM4a1dPbUtGRHBhRXN0VTlpUkVqb0l2cHJIQThNclo2bTlDUFhySFlwLTAtTTdhMDM0WEgtZHE5S1kxLTFoWVZZS3l4b0d2RGpR?oc=5": {
-      "title": "BBQ ‘바르셀로나’ 초대권, 경찰·국세청 제공 논란…“수백억 배임·횡령 前 임원이 협박” - 중앙일보",
-      "summary": "BBQ ‘바르셀로나’ 초대권, 경찰·국세청 제공 논란…“수백억 배임·횡령 前 임원이 협박” 중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SUMzeVM4a1dPbUtGRHBhRXN0VTlpUkVqb0l2cHJIQThNclo2bTlDUFhySFlwLTAtTTdhMDM0WEgtZHE5S1kxLTFoWVZZS3l4b0d2RGpR?oc=5",
-      "date": "Sun, 15 Nov 2026 07:41:43 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 17
-    },
     "https://www.dkilbo.com/news/articleView.html?idxno=560799": {
       "title": "대구경북 통합신공항 조기 착공 해법 찾는다…국가 재정지원이 관건",
       "summary": "포스코 이앤씨와 현대건설 관계자들은 건설경기 침체와 금융기관의 프로젝트파이낸싱(PF) 한계 등을 고려할 때 현재 여건에서 SPC 구성이 사실상 어렵다는 진단을 내놨다. 대구시 역시 기부 대 양여 방식의 한계를 지적하며...",
@@ -4569,6 +4602,292 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3754867": {
+      "title": "iM 뱅크 ·구미상의, 제42회 구미CEO포럼 개최...지역 경제인 230여 명 참석",
+      "summary": "iM뱅크( 아이엠뱅크 , 은행장 강정훈)와 구미상공회의소(회장 윤재호)가 함께 개최한 포럼에는 주요 기관장과 기업체 대표, 지역 경제인, 오피니언 리더 등 약 230여 명이 자리했다. 연사인 AFW파트너스 이선엽 대표의 강연...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754867",
+      "date": "Tue, 17 Nov 2026 16:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.imaeil.com/page/view/2026111710451187298": {
+      "title": "구미 시·대한민국역사박물관, ' 구미 산업화역사관 건립' 위해 협약",
+      "summary": "구미 시는 서울 종로구 대한민국역사박물관에서 대한민국 근현대사와 산업사 관련 상호 협력을 위한 업무협약( MOU )을 체결했다고 17일 밝혔다. 이날 협약식은 '대한민국역사박물관( 구미 산업화역사관)' 건립을 위한 추진...",
+      "url": "https://www.imaeil.com/page/view/2026111710451187298",
+      "date": "Tue, 17 Nov 2026 16:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.mt.co.kr/policy/2026/11/17/2026111715400913764": {
+      "title": "구미 시-대한민국역사박물관, ' 구미 산업화역사관' 건립 맞손",
+      "summary": "업무협약( MOU )을 체결했다고 밝혔다. 협약에 따라 양 기관은 각자의 전문성과 자원을 바탕으로 가칭 '대한민국역사박물관( 구미 산업화역사관)' 건립을 위한 협력체계를 구축하고 산업유산의 보존과 활용을 위한 공동 사업에...",
+      "url": "https://www.mt.co.kr/policy/2026/11/17/2026111715400913764",
+      "date": "Tue, 17 Nov 2026 16:03:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.mhns.co.kr/news/articleView.html?idxno=769481": {
+      "title": "구미 시-대한민국역사박물관과 ' 구미 산업화역사관 건립' 위한 업무협약(...",
+      "summary": "구미 시는 11월 17일 서울 종로구 대한민국역사박물관에서 '대한민국 근현대사와 산업사 관련 상호 협조'를 위한 업무협약( MOU )을 체결하고, 가칭 '대한민국역사박물관( 구미 산업화역사관)' 건립을 위한 협력 기반 마련에...",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769481",
+      "date": "Tue, 17 Nov 2026 16:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194776": {
+      "title": "포스코이앤씨, 3분기 대손비용 영업이익 추월…3731억 미회수 채권엔 충...",
+      "summary": "대구 MBC부지 주상복합 개발 사업장이 공사대금과 PF 우발채무가 함께 걸린 사례다. 준공 후 정산 중인 이... 이 현장에는 수분양자 중도금대출 459억원에 대한 포스코이앤씨의 이자 지급 연대 보증 도 걸려 있다. 지난...",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194776",
+      "date": "Tue, 17 Nov 2026 16:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sedaily.com/article/20115480?ref=naver": {
+      "title": "영주시, 첨단베어링 국가산단 투자유치 나서",
+      "summary": "경북 영주시는 대구 엑스코에서 개막한 ‘국제첨단소재부품 산업 전’에 참가해 영주 첨단베어링 국가 산업단지 의 투자 경쟁력을 알리고 입주 수요기업 발굴에 나섰다고 17일 밝혔다. 이날부터 나흘 간 열리는 이번...",
+      "url": "https://www.sedaily.com/article/20115480?ref=naver",
+      "date": "Tue, 17 Nov 2026 16:13:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.joongdo.co.kr/web/view.php?key=20261117010005997": {
+      "title": "대구시, 지역 건설업체 수주 돌파구 마련",
+      "summary": "이번 행사에는 현대건설, GS건설, 현대엔지니어링, DL이앤씨, 롯데건설, 포스코 이앤씨 등이 참여했다. 지역 기업들은 토공과 금속·창호, 철근·콘크리트, 기계설비 등 전문 공종별로 보유 기술과 시공 실적을 소개하며...",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261117010005997",
+      "date": "Tue, 17 Nov 2026 16:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505143": {
+      "title": "포스코 노조, 임금협상 난항에 상경집회…이희근 사장과 회담 진행",
+      "summary": "포스코 노동조합이 임금협상 난항에 반발해 서울 포스코 센터 앞에서 상경집회를 열었다. 집회 도중 이희근 포스코 사장이 노조 측에 회담을 제안하면서 노사 대표자 간 만남이 이뤄졌다. 17일 업계에 따르면 한국노총...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505143",
+      "date": "Tue, 17 Nov 2026 16:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.mtn.co.kr/article/2026111716313379237": {
+      "title": "포스코 노사 임금협상 다시 난항…파업 재개 가능성도",
+      "summary": "지난 12일부터 포항제철소 와 광양제철소에서 출근 선전전을 진행한 데 이어, 16일부터는 전 조합원이 참여하는 무기한 퇴근 선전전에 돌입했다. 포스코 노사는 올해 임금협상 과정에서 이미 한 차례 파업 사태를 겪었다....",
+      "url": "https://news.mtn.co.kr/article/2026111716313379237",
+      "date": "Tue, 17 Nov 2026 16:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsworker.co.kr/news/articleView.html?idxno=514579": {
+      "title": "포스코 센터 앞 집결한 노조, 새 임금안 요구하며 상경 투쟁…3차 총파업...",
+      "summary": "포스코 가 임금교섭 잠정합의안 부결 뒤 재교섭에서도 추가 제안을 내놓지 않자 노조가 서울 상경 투쟁에 나섰다. 노조는 17일 포스코 센터 앞 집회에서 조합원 과반이 거부한 임금안을 수정하라고 요구했다. 대표이사...",
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=514579",
+      "date": "Tue, 17 Nov 2026 16:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091082": {
+      "title": "[사설] 포스코 임협 장기화, 지역경제 위기 외면해선 안 된다",
+      "summary": "포스코 노사갈등이 장기화하면서 지역경제에 먹구름이 짙어지고 있다. 지난달 30일 어렵게 도출한 임금협상 잠정합의안이 조합원 투표에서 부결된 데 이어 재교섭마저 결렬됐다. 포스코 노조는 17일 서울 포스코 센터...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091082",
+      "date": "Tue, 17 Nov 2026 16:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.businesspost.co.kr/BP?command=article_view&num=452193": {
+      "title": "[현장] 포스코 노조위원장 김성호 \" 포스코 가 지주사 ATM기로 전락, 3차 ...",
+      "summary": "\" 포스코홀딩스 임원 가운데 포스코 현장 출신이 단 한 명도 없다. 현장을 모르는 자들만 (모기업에) 있기에 포스코는 단지 ATM기에 지나지 않는다.\" 김성호 포스코 노동조합 위원장이 17일 서울 강남구...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452193",
+      "date": "Tue, 17 Nov 2026 16:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2019781": {
+      "title": "포스코 노조, 서울서 상경투쟁…사측 면담 제안",
+      "summary": "매일일보 = 이강민 기자 | 포스코 임금교섭을 둘러싼 갈등이 서울 본사 앞 집회로 이어졌다. 사측은 집회 도중 노조 대표와의 면담을 제안했다. 17일 서울 강남구 포스코 센터에서는 포스코 노동조합의 상경 집회가...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2019781",
+      "date": "Tue, 17 Nov 2026 16:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=301521": {
+      "title": "[현장] 조양래 포스코 노조 수석부위원장 \"끝내 외면하면 3차 총파업 중대...",
+      "summary": "포스코 노사의 올해 임금·단체협약(임단협) 교섭이 잠정합의안 부결 이후 재차 결렬된 가운데, 노동조합이... 노조가 사측의 태도 변화를 촉구하며 투쟁 수위를 높이자 포스코 측이 대표자 간 대화를 전격 요청하면서 교섭...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301521",
+      "date": "Tue, 17 Nov 2026 16:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sisajournal-e.com/news/articleView.html?idxno=425101": {
+      "title": "정부, 해외 광물투자 재개 추진··· 포스코 ·고려아연 사업 힘 받나",
+      "summary": "정부가 해외 핵심광물 직접투자 재개를 추진하면서 포스코 인터내셔널과 고려아연의 중국 밖 공급망 구축... 미국 생산시설과 원료 조달망을 함께 구축하는 포스코 인터내셔널과 고려아연도 이러한 지원이 사업에 도움이...",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425101",
+      "date": "Tue, 17 Nov 2026 16:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.the-today.com/news/articleView.html?idxno=93741": {
+      "title": "장인화 포스코 회장 연임 기정사실화(?)··· 회추위 앞두고 분위기 반...",
+      "summary": "장인화 포스코 그룹 회장의 연임에 무게가 실리고 있다. 전임 정부에서 선임됐다는 점이 약점으로 꼽혔지만... 포스코 그룹이 대내외 경영 불확실성을 겪는 상황에서 경영 연속성을 확보해야 한다는 목소리도 연임론에 힘을...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=93741",
+      "date": "Tue, 17 Nov 2026 16:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kukinews.com/article/view/kuk202611170164": {
+      "title": "포스코 센터 앞 집결한 노조원들…경영진 향한 분노의 외침 [쿠키포토]",
+      "summary": "쿠키뉴스=장혁준 기자 | 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을 촉구했다. 노조는 임금·단체협약(임단협)을 둘러싸고...",
+      "url": "https://www.kukinews.com/article/view/kuk202611170164",
+      "date": "Tue, 17 Nov 2026 16:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.financialpost.co.kr/news/articleView.html?idxno=301525": {
+      "title": "[포토] 멈춰 선 포스코 임금협상…노조, 상경투쟁 돌입",
+      "summary": "",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301525",
+      "date": "Tue, 17 Nov 2026 16:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kbmaeil.com/article/20261117500536": {
+      "title": "대형건설사 17곳·대구 전문건설업체 49곳 ‘수주 상담’",
+      "summary": "현대건설과 GS건설, 현대엔지니어링, DL이앤씨, 롯데건설, 포스코 이앤씨 등 대형건설사와 토공, 금속·창호, 철근·콘크리트, 기계설비 분야 지역 전문건설업체가 참여했다. 상담은 사전 수요조사를 바탕으로 일대일 맞춤형...",
+      "url": "https://www.kbmaeil.com/article/20261117500536",
+      "date": "Tue, 17 Nov 2026 16:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ddaily.co.kr/page/view/2026111715184028671": {
+      "title": "포스코 노조 첫 상경투쟁 중 사측 '긴급 회담' 제안…노사 대표 전격 회...",
+      "summary": "올해 임금·단체협상을 둘러싸고 포스코 노사 간 갈등이 장기화하는 가운데 사측이 노조의 첫 상경투쟁 집회... 17일 포스코 는 서울 강남구 포스코 센터 앞에서 열린 ' 포스코 전 노동자 대표진 상경 투쟁 집회' 도중 김성호...",
+      "url": "https://www.ddaily.co.kr/page/view/2026111715184028671",
+      "date": "Tue, 17 Nov 2026 16:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/17/2026111750254.html": {
+      "title": "대구시, 대형건설사와 지역업체 잇는 ‘하도급 수주 통로’ 확대",
+      "summary": "이날 교류회에는 현대건설㈜, 지에스건설㈜, 현대엔지니어링㈜, 디엘이앤씨㈜, 롯데건설㈜, ㈜ 포스코 이앤씨 등 대형건설사 17개사가 참여했다. 지역에서는 토공과 금속·창호, 철근·콘크리트, 기계설비 등 다양한 분야의...",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/17/2026111750254.html",
+      "date": "Tue, 17 Nov 2026 16:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGVld05kRllvTUk5S0JpNGVvVVphYW44OU1zVXlkZzMyS21vLTN1aHg0X1Z4N3c4VTFpNGhvTE1CSkoyVlhJalQ4TU54Y0dBek9lSlRPWW5uNEdnR2pfdlpObnJLekR0ODhySUhnWmFSbVdaMVBndklzcjdOeVZmdk1uSHU2dTUzankwTlUyd3Fsc1RxcTVIYU8tZXZ1NFNWa01fQmpyNA?oc=5": {
+      "title": "ARC Clean Technology Signs MOU with POSCO INTERNATIONAL to Explore Cooperation on Advanced Nuclear Fuel Supply - Digital Journal",
+      "summary": "ARC Clean Technology Signs MOU with POSCO INTERNATIONAL to Explore Cooperation on Advanced Nuclear Fuel Supply Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGVld05kRllvTUk5S0JpNGVvVVphYW44OU1zVXlkZzMyS21vLTN1aHg0X1Z4N3c4VTFpNGhvTE1CSkoyVlhJalQ4TU54Y0dBek9lSlRPWW5uNEdnR2pfdlpObnJLekR0ODhySUhnWmFSbVdaMVBndklzcjdOeVZmdk1uSHU2dTUzankwTlUyd3Fsc1RxcTVIYU8tZXZ1NFNWa01fQmpyNA?oc=5",
+      "date": "Tue, 17 Nov 2026 07:15:01 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4600,21 +4919,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-17",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOek1UZk4zSk9ycWFGaEpLaDlNY3oybE01MWpRaEFoMVNOVWlRZUpIU2ZyNWEzMWZtRndWUk85ekl1SGU5UGJobnNoRzdNeWo5YWlqSHVoMmZDdjdSSmIxZ0FBbl9PRGlUcTBjX1huZ0doVzNtdWt5ZVZ2SnhvSHZpVkdtOUE3c2hnZGtIcXdTOS1OenZNdl9ZRTZoeFBrWGpIbFlPSEMwWERsNzF5bkhiRTNnbUI3WVpqcFhMeF8yOVNId9IBxwFBVV95cUxOVy1pYzlKRWgwcXRFR1ZzT0ctdjBPdmpjTW1TNlNkVDR1U2l1WXBtOVA5aTVaZzhyQ3VTcmRlM0p2NUw2eHh4cV9zY1ZpblJwQnJfbF9pY3kweDJXZmotXzRnVHlobUFIb09KM1JJQ2NqcjFkUVlVYl9LSHZNcy1vNFItRTgwQkdLdnI0Zy1VRTh4dEc2R25lX3lJMHN6bkJXOGlMbmwxd2lWZWJRS000aWxidjNrbkFheDl3QUU2T2hXaVBmRVVB?oc=5",
-      "title": "Posco Future M, Hyundai Motor Group explore Vietnam anode investment - The Korea Times",
-      "date": "Tue, 03 Nov 2026 07:33:02 GMT"
-    },
-    {
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885843",
-      "title": "포항 시, 캐나다 최대 유통기업 티브라더스와 농특산물 수출 확대 MOU 체...",
-      "date": "Tue, 03 Nov 2026 16:30:00 +0900"
-    },
-    {
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=158335",
-      "title": "포스코 퓨처엠, 베트남 음극재 사업에 현대차그룹 1000억원 투자 유치 추...",
-      "date": "Tue, 03 Nov 2026 16:24:00 +0900"
-    },
     {
       "url": "http://www.finomy.com/news/articleView.html?idxno=265506",
       "title": "한수원, 유럽 원전 디지털 기기 인증 협력···TUV 라인란드와 MOU",
@@ -9764,6 +10068,56 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvVmR4QzVGSVN4SjA3TGRRMW16eFVKX0drS0RKM3B4aE9HRlFoNzE4STU0Z2FhazB1bXNRUmxCZW5PMzZQTHpLRHpSRndfc1lsR2VTNkp6SG4?oc=5",
       "title": "POSCO Signs 26 Steel Cooperation MOUs With Global Customers... Expands AI and Low-Carbon Materials - 파이낸셜뉴스",
       "date": "Tue, 17 Nov 2026 06:19:11 GMT"
+    },
+    {
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754867",
+      "title": "iM 뱅크 ·구미상의, 제42회 구미CEO포럼 개최...지역 경제인 230여 명 참석",
+      "date": "Tue, 17 Nov 2026 16:52:00 +0900"
+    },
+    {
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505143",
+      "title": "포스코 노조, 임금협상 난항에 상경집회…이희근 사장과 회담 진행",
+      "date": "Tue, 17 Nov 2026 16:44:00 +0900"
+    },
+    {
+      "url": "https://news.mtn.co.kr/article/2026111716313379237",
+      "title": "포스코 노사 임금협상 다시 난항…파업 재개 가능성도",
+      "date": "Tue, 17 Nov 2026 16:42:00 +0900"
+    },
+    {
+      "url": "https://www.imaeil.com/page/view/2026111710451187298",
+      "title": "구미 시·대한민국역사박물관, ' 구미 산업화역사관 건립' 위해 협약",
+      "date": "Tue, 17 Nov 2026 16:40:00 +0900"
+    },
+    {
+      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=514579",
+      "title": "포스코 센터 앞 집결한 노조, 새 임금안 요구하며 상경 투쟁…3차 총파업...",
+      "date": "Tue, 17 Nov 2026 16:36:00 +0900"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091082",
+      "title": "[사설] 포스코 임협 장기화, 지역경제 위기 외면해선 안 된다",
+      "date": "Tue, 17 Nov 2026 16:36:00 +0900"
+    },
+    {
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452193",
+      "title": "[현장] 포스코 노조위원장 김성호 \" 포스코 가 지주사 ATM기로 전락, 3차 ...",
+      "date": "Tue, 17 Nov 2026 16:34:00 +0900"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2019781",
+      "title": "포스코 노조, 서울서 상경투쟁…사측 면담 제안",
+      "date": "Tue, 17 Nov 2026 16:34:00 +0900"
+    },
+    {
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194776",
+      "title": "포스코이앤씨, 3분기 대손비용 영업이익 추월…3731억 미회수 채권엔 충...",
+      "date": "Tue, 17 Nov 2026 16:32:00 +0900"
+    },
+    {
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301521",
+      "title": "[현장] 조양래 포스코 노조 수석부위원장 \"끝내 외면하면 3차 총파업 중대...",
+      "date": "Tue, 17 Nov 2026 16:26:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9831,7 +10185,7 @@
     "2026-11-14": 1,
     "2026-11-15": 3,
     "2026-11-16": 7,
-    "2026-11-17": 3
+    "2026-11-17": 4
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
