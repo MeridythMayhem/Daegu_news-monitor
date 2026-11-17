@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.segye.com/newsView/20261103503141?OutUrl=naver": "2026-11-03T09:02:36.210472+09:00",
     "https://www.news1.kr/local/gwangju-jeonnam/6340934": "2026-11-03T10:02:35.087618+09:00",
     "https://www.job-post.co.kr/news/articleView.html?idxno=236077": "2026-11-03T10:02:35.087618+09:00",
     "https://www.tbc.co.kr/news/view?pno=20261103083637AE07870&id=212898": "2026-11-03T11:02:50.204315+09:00",
@@ -989,10 +988,16 @@
     "http://www.yonhapnewstv.co.kr/news/MYH20261116221138b7z": "2026-11-16T23:02:00.849291+09:00",
     "https://www.viva100.com/article/20261116501401": "2026-11-16T23:02:00.849291+09:00",
     "https://www.kmib.co.kr/article/20261117500070": "2026-11-17T09:02:29.053026+09:00",
-    "https://biz.heraldcorp.com/article/10939194?ref=naver": "2026-11-17T09:02:29.053026+09:00"
+    "https://biz.heraldcorp.com/article/10939194?ref=naver": "2026-11-17T09:02:29.053026+09:00",
+    "https://www.donga.com/news/Economy/article/all/20261117/135037292/2": "2026-11-17T10:01:53.654967+09:00",
+    "https://www.widedaily.com/news/articleView.html?idxno=303837": "2026-11-17T10:01:53.654967+09:00",
+    "https://www.news1.kr/local/daegu-gyeongbuk/6356316": "2026-11-17T10:01:53.654967+09:00",
+    "https://www.kukinews.com/article/view/kuk202611170018": "2026-11-17T10:01:53.654967+09:00",
+    "https://www.etoday.co.kr/news/view/2649064": "2026-11-17T10:01:53.654967+09:00",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084122": "2026-11-17T10:01:53.654967+09:00",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084126": "2026-11-17T10:01:53.654967+09:00"
   },
   "titles": {
-    "19484f3c3e82ef8938dd5383202d6cb90216f33639be65fed3529408af3327ae": "2026-11-03T09:02:36.210472+09:00",
     "bad1f8976c9a7452860324a9eb316ee78bd833555af1725b2c7cb6ecbf486a02": "2026-11-03T10:02:35.087618+09:00",
     "0e586c9c89f36d7a07e67b120e08422053be8451957c917d8a3af285526d45a2": "2026-11-03T10:02:35.087618+09:00",
     "51a876d4eade45af94698e8e05aada38ef6ec093413898abe55270434ccf17dd": "2026-11-03T11:02:50.204315+09:00",
@@ -1981,7 +1986,14 @@
     "6df23651cf41ec652c8fa3ee2c8269b2fbf6279034b3293a6a1870001b3b8767": "2026-11-16T23:02:00.849291+09:00",
     "16b94d9b9f5333b44e34a1cea9cdab648ab6028f54f7b6dc7ee4f6d47e4c7aa0": "2026-11-16T23:02:00.849291+09:00",
     "a53b8ce017a70b935c121c230bee8c8b36fbf08ddfec0c019a83c33dc2e28552": "2026-11-17T09:02:29.053026+09:00",
-    "119c39c2ae81d3bc51515e1e406341e502d1d871d1aafaee061f060da39d4394": "2026-11-17T09:02:29.053026+09:00"
+    "119c39c2ae81d3bc51515e1e406341e502d1d871d1aafaee061f060da39d4394": "2026-11-17T09:02:29.053026+09:00",
+    "3fe289b9f26179032d68002e5783bbeb1581e475a60f1b8e5a7e4cb9464d5a03": "2026-11-17T10:01:53.654967+09:00",
+    "3d1194c963e96aca5afbfa466cf0911a760cf5847d71690ab614f081e8264fe9": "2026-11-17T10:01:53.654967+09:00",
+    "162a015cc6cefd864fbc91e6522aae375d4e6785547dca6d67e6486fcebb8fe8": "2026-11-17T10:01:53.654967+09:00",
+    "4ffeb711a6a43c0cc66ce6b7b336f1813331f4be076aa8eceb9ce2dce1640bd8": "2026-11-17T10:01:53.654967+09:00",
+    "953d56d0141f3cc5f372229e5c03c52dc58b685c40a9481ee1f2be4b1b4fdb4b": "2026-11-17T10:01:53.654967+09:00",
+    "a6decd72a6fe73a6ff5a6a850ee94735a2d955c56a2af4da40b29230c049a54c": "2026-11-17T10:01:53.654967+09:00",
+    "eabf92f537f6aad5b153c04f8959c70a8242615486104d2e3843042b0ddbecb7": "2026-11-17T10:01:53.654967+09:00"
   },
   "pending": {},
   "ai": {
@@ -1995,71 +2007,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.metroseoul.co.kr/article/20261115500020": {
-      "title": "경북 도, 울릉군·한국공항공사·주민과 협의…진입로 200m 신설에 30억 원...",
-      "summary": "경북 도는 울릉공항 직원사택 진입로를 길이 200m, 폭 6m 규모로 신설하기로 주민들과 합의했다고 밝혔다. 사업비는 약 30억 원이며, 120세대 규모의 직원사택은 공항 개항 일정에 맞춰 건립 한다. 도는 12일 울릉군청에서...",
-      "url": "http://www.metroseoul.co.kr/article/20261115500020",
-      "date": "Sun, 15 Nov 2026 09:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.tf.co.kr/read/national/2388868.htm": {
-      "title": "경주시 공장 서 크레인 작업 중 60대 근로자 심정지…김천서는 주택 화재 ...",
-      "summary": "경주 외동읍 쇳덩이 운반 작업 중 크레인 고리에 맞아…전문소생술 후 병원 이송 김천 구성면 단독주택 보일러실 화재 경북 경주시와 김천시에서 산업 현장 안전사고와 주택 화재 가 잇따라 발생했다. 15일 소방당국에...",
-      "url": "https://news.tf.co.kr/read/national/2388868.htm",
-      "date": "Sun, 15 Nov 2026 09:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=731400": {
-      "title": "[Biz&Law] 에코프로 비엠, 日 양극재 특허 취소 불복소송 패소",
-      "summary": "에코프로 비엠이 일본 양극재 특허의 취소 결정에 불복한 소송에서 패소했다. 현지 법원은 관련 발명이 기존 기술에 포함된다며 6개 청구항에 대한 취소 결정을 유지했다. 지난달 8일(현지시간) 일본...",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731400",
-      "date": "Sun, 15 Nov 2026 10:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRll2VmdYRHd5TzRGZ1NrLXVCUHdRUmJrZERkU2VneWRpRDkzU1d5RGpnM3FCUzJuS19vb05ZWjNMYjZhaGFJYU03R1JYaWtYWWRYZ2hSbmVTU2fSAVZBVV95cUxOTlRtQmVtV1dyQjVYTDFOcU9yejZpVlBRODBrSHdaR1BjaVh6NDA2TXBTN0E5UVduX1pSZmRsem9SbkdmX3VZYnBrVGhGVnBwNmFtLUpKZw?oc=5": {
-      "title": "경주시 공장서 크레인 작업 중 60대 근로자 심정지…김천서는 주택 화재로 1동 전소 - 더팩트",
-      "summary": "경주시 공장서 크레인 작업 중 60대 근로자 심정지…김천서는 주택 화재로 1동 전소 더팩트",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRll2VmdYRHd5TzRGZ1NrLXVCUHdRUmJrZERkU2VneWRpRDkzU1d5RGpnM3FCUzJuS19vb05ZWjNMYjZhaGFJYU03R1JYaWtYWWRYZ2hSbmVTU2fSAVZBVV95cUxOTlRtQmVtV1dyQjVYTDFOcU9yejZpVlBRODBrSHdaR1BjaVh6NDA2TXBTN0E5UVduX1pSZmRsem9SbkdmX3VZYnBrVGhGVnBwNmFtLUpKZw?oc=5",
-      "date": "Sun, 15 Nov 2026 00:23:43 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTlFDMTlJNVNfZ19ob2RaUzFUZkRNVEFUUEdxZXlMQWVoWnh4YVc4Qzc3NTZDeUlxNGh4MUdTVFVrQm9TVDFDLXVaTXhHQ3h1aDJORUJLLV82aExNVzJpR3ZSeXp0SEtXSnFN?oc=5": {
-      "title": "영천 스타트업 8개사, 투자유치 발표 나선다 - CNB뉴스",
-      "summary": "영천 스타트업 8개사, 투자유치 발표 나선다 CNB뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTlFDMTlJNVNfZ19ob2RaUzFUZkRNVEFUUEdxZXlMQWVoWnh4YVc4Qzc3NTZDeUlxNGh4MUdTVFVrQm9TVDFDLXVaTXhHQ3h1aDJORUJLLV82aExNVzJpR3ZSeXp0SEtXSnFN?oc=5",
-      "date": "Sun, 15 Nov 2026 00:13:38 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.etoday.co.kr/news/view/2648253": {
       "title": "경북 도, 울릉공항 직원사택 진입로 신설 합의…30억 원 투입",
       "summary": "이투데이=대구 경북 취재본부 이용호 기자 | 한국공항공사 주민과 업무협의 열고 논의 주민 협조로 200m 진입로 개설 120세대 직원사택 공항 개항 맞춰 건립 경북 도가 울릉공항 직원사택 진입로 문제를 해결하고 사업비...",
@@ -3777,6 +3724,99 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 17
+    },
+    "https://www.etoday.co.kr/news/view/2649064": {
+      "title": "예천 ‘시골잔대’ 건강식품, 베트남서 50만 달러 수출길 열었다",
+      "summary": "이투데이=대구 경북 취재본부 이용호 기자 | 박해영 시골잔대, 호치민 식품박람회서 현지 2개사와 MOU 잔대... 박해영 시골잔대는 2006년부터 잔대 연구를 시작해 재배와 가공 , 제품 개발, 브랜드화를 추진해 온 지역...",
+      "url": "https://www.etoday.co.kr/news/view/2649064",
+      "date": "Tue, 17 Nov 2026 09:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084126": {
+      "title": "경산시, 중국·인도 무역사절단 파견…8490만 달러 수출상담 성과",
+      "summary": "경북 경산시가 중국과 인도 시장 개척에 나서 8490만 달러 규모의 수출상담 실적을 거두고 로봇·인공지능(AI)... 상담 규모는 8490만 달러로 집계됐으며, 282만 달러 규모의 업무협약( MOU ) 13건도 체결했다. 시는 올해 상반기...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084126",
+      "date": "Tue, 17 Nov 2026 09:08:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
+      "filter_version": 17
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6356316": {
+      "title": "경북 포도 수출 7294만 달러…10월까지 전국 80.5%",
+      "summary": "공급물량과 거래 조건은 협의 중이다. 16~17일에는 필리핀 마닐라에서 농림축산식품부, 한국농수산식품유통공사와 포도 홍보행사를 열어 샤인머스캣·글로리스타와 가공 제품을 선보이고 있다. 경북 은 수출물량...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6356316",
+      "date": "Tue, 17 Nov 2026 09:51:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084122": {
+      "title": "경북 도, 전국 포도 수출 80.5% 차지…해외시장 개척 가속",
+      "summary": "생산농가와 수출 기업 , 정부와 지자체가 함께 이뤄낸 성과\"라며 \"대만 까르푸 입점과 필리핀시장 개척으로 경북 포도의 해외 판로를 넓히고, 수출 성과가 농가소득 향상으로 이어지도록 지원하겠다\"고 말했다. [신아 일보 ]",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084122",
+      "date": "Tue, 17 Nov 2026 09:38:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
+      "filter_version": 17
+    },
+    "https://www.kukinews.com/article/view/kuk202611170018": {
+      "title": "경북 포도, 전국 수출액 80.5% 차지…1억 달러 수출 견인",
+      "summary": "공급과 거래 를 위한 협력 기반을 다졌다. 또 해외시장 개척을 위해 지난 10월 27일 대만 타이베이에서는... 포도와 가공 제품을 선보이며 시장 확대 가능성을 모색했다. 경북 도는 이번 수출 성과를 바탕으로 대만과...",
+      "url": "https://www.kukinews.com/article/view/kuk202611170018",
+      "date": "Tue, 17 Nov 2026 09:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.donga.com/news/Economy/article/all/20261117/135037292/2": {
+      "title": "TYM, 올 3분기 질주… 영업이익 경쟁사 대동 의 12배",
+      "summary": "특히 영업이익률은 두 자릿수를 기록해 경쟁사인 대동 (0.7%)과 큰 격차를 보였다. 17일 양사의... 매출 규모만 보면 대동 이 1조1972억 원으로 TYM보다 컸다. 그러나 매출 증가율 3.6%에 영업이익은 79억 원으로 전년 동기...",
+      "url": "https://www.donga.com/news/Economy/article/all/20261117/135037292/2",
+      "date": "Tue, 17 Nov 2026 09:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://www.widedaily.com/news/articleView.html?idxno=303837": {
+      "title": "평화산업 , 수주 차종 판매 호조에 3분기 누적 영업익 117.9% 급증",
+      "summary": "자동차 부품 전문기업 평화산업 이 수주 차종의 판매 확대에 힘입어 올해 3분기 누적 기준 가파른 수익성 개선을 이뤘다. 완성차 업계의 파업 여파로 3분기 단일 매출은 다소 주춤했으나, 연간 누적 실적은 내실과 외형...",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=303837",
+      "date": "Tue, 17 Nov 2026 09:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 평화산업",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -3808,16 +3848,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-17",
   "sent_articles": [
-    {
-      "url": "https://www.news1.kr/local/gwangju-jeonnam/6340934",
-      "title": "조상열 대동 문화재단 대표, 제61회 잡지의 날 '경영상' 수상",
-      "date": "Tue, 03 Nov 2026 09:55:00 +0900"
-    },
-    {
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=236077",
-      "title": "대구 고용노동청, 화재·폭발 위험 사업장 집중점검",
-      "date": "Tue, 03 Nov 2026 09:42:00 +0900"
-    },
     {
       "url": "https://www.tbc.co.kr/news/view?pno=20261103083637AE07870&id=212898",
       "title": "희토류 분쇄 중 기계 폭발…20대 작업자 2명 화상",
@@ -8752,6 +8782,41 @@
       "url": "https://biz.heraldcorp.com/article/10939194?ref=naver",
       "title": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 성과",
       "date": "Tue, 17 Nov 2026 08:27:00 +0900"
+    },
+    {
+      "url": "https://www.donga.com/news/Economy/article/all/20261117/135037292/2",
+      "title": "TYM, 올 3분기 질주… 영업이익 경쟁사 대동 의 12배",
+      "date": "Tue, 17 Nov 2026 09:58:00 +0900"
+    },
+    {
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=303837",
+      "title": "평화산업 , 수주 차종 판매 호조에 3분기 누적 영업익 117.9% 급증",
+      "date": "Tue, 17 Nov 2026 09:54:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6356316",
+      "title": "경북 포도 수출 7294만 달러…10월까지 전국 80.5%",
+      "date": "Tue, 17 Nov 2026 09:51:00 +0900"
+    },
+    {
+      "url": "https://www.kukinews.com/article/view/kuk202611170018",
+      "title": "경북 포도, 전국 수출액 80.5% 차지…1억 달러 수출 견인",
+      "date": "Tue, 17 Nov 2026 09:36:00 +0900"
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2649064",
+      "title": "예천 ‘시골잔대’ 건강식품, 베트남서 50만 달러 수출길 열었다",
+      "date": "Tue, 17 Nov 2026 09:28:00 +0900"
+    },
+    {
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084122",
+      "title": "경북 도, 전국 포도 수출 80.5% 차지…해외시장 개척 가속",
+      "date": "Tue, 17 Nov 2026 09:38:00 +0900"
+    },
+    {
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084126",
+      "title": "경산시, 중국·인도 무역사절단 파견…8490만 달러 수출상담 성과",
+      "date": "Tue, 17 Nov 2026 09:08:00 +0900"
     }
   ],
   "brief_articles": [
