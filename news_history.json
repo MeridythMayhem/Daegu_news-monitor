@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5": "2026-11-03T13:02:44.118101+09:00",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=304095": "2026-11-03T14:02:20.283849+09:00",
     "https://www.naeil.com/news/read/607373?ref=naver": "2026-11-03T14:02:20.283849+09:00",
     "http://www.breaknews.com/1247936": "2026-11-03T15:02:50.871570+09:00",
@@ -1012,10 +1011,19 @@
     "https://www.tbc.co.kr/news/view?pno=20261117102405AE08686&id=213464": "2026-11-17T12:02:11.988613+09:00",
     "http://fpn119.co.kr/259557": "2026-11-17T13:02:10.423990+09:00",
     "http://www.4th.kr/news/articleView.html?idxno=2122043": "2026-11-17T13:02:10.423990+09:00",
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQjhDc1pCSmx0eWlEdzRTQUNNSHlsNVN5VzFkQm04aVhNbS1jb2FvQkRMSFQ5aFpLdVBDeTNBQUxpNXFTYWFMbUZGNzJNSmlGUVJzNQ?oc=5": "2026-11-17T13:02:10.423990+09:00"
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQjhDc1pCSmx0eWlEdzRTQUNNSHlsNVN5VzFkQm04aVhNbS1jb2FvQkRMSFQ5aFpLdVBDeTNBQUxpNXFTYWFMbUZGNzJNSmlGUVJzNQ?oc=5": "2026-11-17T13:02:10.423990+09:00",
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006512": "2026-11-17T14:06:36.425251+09:00",
+    "https://www.etnews.com/20261117000252": "2026-11-17T14:06:36.425251+09:00",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084286": "2026-11-17T14:06:36.425251+09:00",
+    "http://www.snmnews.com/news/articleView.html?idxno=577529": "2026-11-17T14:06:36.425251+09:00",
+    "http://www.inews24.com/view/2026924": "2026-11-17T14:06:36.425251+09:00",
+    "https://www.hidomin.com/news/articleView.html?idxno=729723": "2026-11-17T14:06:36.425251+09:00",
+    "https://www.tournews21.com/news/articleView.html?idxno=148671": "2026-11-17T14:06:36.425251+09:00",
+    "https://www.yna.co.kr/view/PYH20261117102400013?input=1196m": "2026-11-17T14:06:36.425251+09:00",
+    "https://www.yna.co.kr/view/PYH20261117102500013?input=1196m": "2026-11-17T14:06:36.425251+09:00",
+    "https://www.yna.co.kr/view/PYH20261117101700013?input=1196m": "2026-11-17T14:06:36.425251+09:00"
   },
   "titles": {
-    "d7b0950e8f00523867cfa72021f5e4f7b944b498513a53e29a877ef89679849e": "2026-11-03T13:02:44.118101+09:00",
     "f50802a8ed6f3faa35487b7a5843108873c3ee56bfdbbe5d3685b82cee561d43": "2026-11-03T14:02:20.283849+09:00",
     "bacf90853a9240cb21c0dcd501b7ed39fb0e3f6d7d45aae9ee68e9891f5ed625": "2026-11-03T14:02:20.283849+09:00",
     "fd7d01043afaf1443052d1f0840c55c7fae75ab05ea1dc2a6fad945e9899f27a": "2026-11-03T15:02:50.871570+09:00",
@@ -2027,9 +2035,111 @@
     "c5411ec0a88b13452156698e0af1e33e6ff28113152e5611128830a2a8057f02": "2026-11-17T12:02:11.988613+09:00",
     "d482690440f6a3a9b4f716562b8057142de760510ef3cc3f1569415aadc3ce32": "2026-11-17T13:02:10.423990+09:00",
     "77806f28db5e6301feeff63afad28f90fb606e6459168be510376f276d2a094e": "2026-11-17T13:02:10.423990+09:00",
-    "a1636a8532a6b437d26c863bdc2d5240b120e72f72e35685da5c2c12a77dff43": "2026-11-17T13:02:10.423990+09:00"
+    "a1636a8532a6b437d26c863bdc2d5240b120e72f72e35685da5c2c12a77dff43": "2026-11-17T13:02:10.423990+09:00",
+    "c7e0619a1a60af47cc959ebf2224034a278b335492228532303c64eedaf32a64": "2026-11-17T14:06:36.425251+09:00",
+    "66bab08cb7581a9c899a0bba5d71e31ebddea598cacdb1c0355238f58efc482c": "2026-11-17T14:06:36.425251+09:00",
+    "2b644f64fbb9705585ae398f239807a9f6027113c192596237ff4a628f2ef9d1": "2026-11-17T14:06:36.425251+09:00",
+    "ca758c106b1f301d2052fe3f4f42554d502ec4393e0dfbe277c354b04ec7771f": "2026-11-17T14:06:36.425251+09:00",
+    "ac116b63176eba9ddfc29d9b84af3203df7fb4fbd0706c6ee0752d1204963f96": "2026-11-17T14:06:36.425251+09:00",
+    "aa53a989889eecc2d0eb484cdb5b33b1ef963a44d47b8be809c54ff2bf104921": "2026-11-17T14:06:36.425251+09:00",
+    "bb060519a71448462a667348ef13d6096f50970c91a6ae857d8eb2b3f23d5a41": "2026-11-17T14:06:36.425251+09:00",
+    "eab6704bc11d06b9f5119bdc02611a69841fafb9de4fe46caf4af98004975800": "2026-11-17T14:06:36.425251+09:00",
+    "0902ce5a6a6564d043ded323e29a35f14efe60277fe1d7e0e045c12b69f64042": "2026-11-17T14:06:36.425251+09:00",
+    "2774ded29c98633aa8fe476acb9e5a610380dda3a80063c1d22f3a9c914c9b7d": "2026-11-17T14:06:36.425251+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://www.sisajournal.com/news/articleView.html?idxno=394224": {
+      "title": "[경주 24시] 경주시, 미국 기업·기관과 투자 유치·수출 협력망 확대",
+      "summary": "주 시장은 \"이번 미국 방문으로 현지 기업들과 동포사회와의 협력을 기반으로, 업무 협약 이 투자 유치와 수출·관광 분야 등에 이르기까지 실질적인 성과로 이어지도록 후속 협의를 이어가겠다\"고 말했다. ◇ 경북 문화...",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=394224",
+      "date": "Tue, 17 Nov 2026 13:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/PYH20261117101500013?input=1196m": {
+      "title": "포스코 센터 앞 포스코 노조 상경집회",
+      "summary": "포스코 노사가 임금교섭을 둘러싼 입장차를 좁히지 못하고 있는 가운데 17일 서울 강남구 포스코 센터 앞에서 열린 포스코 노조 상경집회에서 참가자들이 민중의례를 하고 있다. 2026.11.17",
+      "url": "https://www.yna.co.kr/view/PYH20261117101500013?input=1196m",
+      "date": "Tue, 17 Nov 2026 13:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/PYH20261117101600013?input=1196m": {
+      "title": "포스코 노조 '노동자의 정당한 성과를'",
+      "summary": "포스코 노사가 임금교섭을 둘러싼 입장차를 좁히지 못하고 있는 가운데 17일 서울 강남구 포스코 센터 앞에서 열린 포스코 노조 상경집회에서 김성호 노조 위원장 등 참가자들이 손팻말을 들고 구호를 외치고 있다....",
+      "url": "https://www.yna.co.kr/view/PYH20261117101600013?input=1196m",
+      "date": "Tue, 17 Nov 2026 13:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISI20261117_0021535358": {
+      "title": "포스코 노조, 회사 측에 전향적 결단 촉구",
+      "summary": "임금·단체협약(임단협)을 둘러싸고 사측과 갈등을 겪고 있는 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을...",
+      "url": "https://www.newsis.com/view/NISI20261117_0021535358",
+      "date": "Tue, 17 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISI20261117_0021535361": {
+      "title": "포스코 센터 앞에 모인 포스코 노조원들",
+      "summary": "임금·단체협약(임단협)을 둘러싸고 사측과 갈등을 겪고 있는 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을...",
+      "url": "https://www.newsis.com/view/NISI20261117_0021535361",
+      "date": "Tue, 17 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISI20261117_0021535362": {
+      "title": "임단협 갈등 속 포스코 노조 상경투쟁",
+      "summary": "임금·단체협약(임단협)을 둘러싸고 사측과 갈등을 겪고 있는 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을...",
+      "url": "https://www.newsis.com/view/NISI20261117_0021535362",
+      "date": "Tue, 17 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISI20261117_0021535366": {
+      "title": "포스코 노조, 임단협 교섭 촉구 상경투쟁",
+      "summary": "임금·단체협약(임단협)을 둘러싸고 사측과 갈등을 겪고 있는 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을...",
+      "url": "https://www.newsis.com/view/NISI20261117_0021535366",
+      "date": "Tue, 17 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    }
+  },
   "ai": {
     "2026-11-10": 18,
     "2026-11-11": 15,
@@ -2038,62 +2148,10 @@
     "2026-11-14": 1,
     "2026-11-15": 3,
     "2026-11-16": 9,
-    "2026-11-17": 1
+    "2026-11-17": 2
   },
   "cursor": 0,
   "archive": {
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=315394": {
-      "title": "경북 도, 울릉공항 직원사택 진입로 200m 신설 추진···사업비 30억 투입",
-      "summary": "[사진= 경북 도] 경상북도는 울릉공항 직원사택 진입로를 연장 200m, 폭 6m 규모로 새롭게 개설하는 사업에 약 30억을 투입한다고 밝혔다. 직원사택은 120세대 규모로 공항 개항 일정에 맞춰 건립 될 예정이다. 지난 12일...",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315394",
-      "date": "Sun, 15 Nov 2026 13:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kbmaeil.com/article/20261115500356": {
-      "title": "경북 도 “울릉공항 사택 진입로 30억 투입 신설”... 예산·병목 해소 ‘...",
-      "summary": "보도>이 경북 도의 신규 도로 개설 결정으로 돌파구를 찾고 있다. 그러나 경북 도가 내놓은 해결책의 실효성을... 편입 대상 필지 수와 소유주 전원으로부터 법적 구속 력을 갖춘 매매 동의서를 확보했는지도 검증이 필요한...",
-      "url": "https://www.kbmaeil.com/article/20261115500356",
-      "date": "Sun, 15 Nov 2026 13:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.wikitree.co.kr/articles/1174730": {
-      "title": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’...",
-      "summary": "둘째 날에는 ▲스페이스워크 ▲포항시립미술관 ▲ 포스코 Park1538 ▲생활폐기물에너지화시설(SRF) ▲철길숲 상생숲길 등을 차례로 둘러보며 포항의 문화관광 자원을 체험하고, 포스코 전시관에서 철강산업의 역사와 발전...",
-      "url": "https://www.wikitree.co.kr/articles/1174730",
-      "date": "Sun, 15 Nov 2026 13:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5": {
-      "title": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약 등 - 위키트리",
-      "summary": "[경북시군소식]울릉군, 청년 전·월세 부동산 중개수수료 ‘전액무료’ 업무협약 등 위키트리",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9malFHeGVwY3R5TlJRYnFlTFlIODRSd0JMMnV3bE1fS1BUdVNNTWRBLVBuZlVFR3F0bEo3aGprWnl4VWFoOVJqamQ0NHVLVU9mc1FSUGRn?oc=5",
-      "date": "Sun, 15 Nov 2026 04:08:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTWpIY0RVcy1LcG55MGdJRGRwT0Y2emRwV3V2Y05NdlFUREVkMVdSclI4MlYwQVY3RXI3YWhJd19QSndqbmlva0E1XzVUMGlXTmw4ejRjaTBFdzJjYUtkMUdxSUF2TzZUX0tVcVI0SGc?oc=5": {
       "title": "경주 선박부품 공장서 크레인 고리 빠져…60대 작업자 사망 - 비즈중앙",
       "summary": "경주 선박부품 공장서 크레인 고리 빠져…60대 작업자 사망 비즈중앙",
@@ -4138,6 +4196,240 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 17
+    },
+    "http://www.inews24.com/view/2026924": {
+      "title": "대한민국 포도 수출 1억 달러 돌파… 경북 이 80% 견인했다",
+      "summary": "거래 조건을 협의하고 있다. 16일부터 17일까지 필리핀 마닐라에서는 농림축산식품부, 한국농수산식품유통공사(aT)와 함께 아세안 연계 포도 홍보행사를 열고 샤인머스캣과 글로리스타 등 경북 산 포도와 가공 제품을...",
+      "url": "http://www.inews24.com/view/2026924",
+      "date": "Tue, 17 Nov 2026 13:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.tournews21.com/news/articleView.html?idxno=148671": {
+      "title": "경북 산 포도 수출 1억불 달성...전국포도 수출액 80% 차지",
+      "summary": "샤인머스캣·글로리스타 등 생과와 가공 제품을 선보였다. 도는 이번 성과를 바탕으로 대만·필리핀 등 해외시장을 넓힌다. 수출용 물량 확보와 품질관리, 바이어 사후관리로 거래 를 꾸준히 늘리고 국내 수급...",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=148671",
+      "date": "Tue, 17 Nov 2026 13:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sisajournal.com/news/articleView.html?idxno=394224": {
+      "title": "[경주 24시] 경주시, 미국 기업·기관과 투자 유치·수출 협력망 확대",
+      "summary": "주 시장은 \"이번 미국 방문으로 현지 기업들과 동포사회와의 협력을 기반으로, 업무 협약 이 투자 유치와 수출·관광 분야 등에 이르기까지 실질적인 성과로 이어지도록 후속 협의를 이어가겠다\"고 말했다. ◇ 경북 문화...",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=394224",
+      "date": "Tue, 17 Nov 2026 13:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=729723": {
+      "title": "의성군, 2027년 예산 8500억원 편성…민생·미래 산업 집중 투자",
+      "summary": "과실전문생산 단지 기반 조성 53억원, 스마트APC 전환 지원 23억원, 농축산물가격안정기금 조성 20억원 등을... 대구경북 신공항과 연계한 산업 기반 확충과 푸드테크·바이오 등 신성장 산업 육성을 위해 푸드테크...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=729723",
+      "date": "Tue, 17 Nov 2026 13:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006512": {
+      "title": "'상경투쟁' 강수 둔 포스코 노조, 오늘 이희근 사장-노조위원장 재회동",
+      "summary": "아시아투데이 김소영 기자 = 포스코 노동조합이 올해 임금협약 잠정합의안 부결 이후 상경투쟁이라는 강수를... 17일 한국노총 금속노련 포스코 노동조합은 서울 강남구 포스코 센터 앞에서 상경투쟁을 벌였다. 이날...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006512",
+      "date": "Tue, 17 Nov 2026 14:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.etnews.com/20261117000252": {
+      "title": "포스코 노사, 임단협 돌파구 찾나… 포스코 , 노조에 대화 요청",
+      "summary": "포스코 노사가 올해 임금 및 단체협약(임단협)을 두고 난항을 겪는 가운데, 노사 양측 대표자 간 만남이... 한국노총 금속노련 포스코 노동조합은 17일 서울 강남구 포스코 센터에서 상경투쟁 집회를 열고 사측의 결단을...",
+      "url": "https://www.etnews.com/20261117000252",
+      "date": "Tue, 17 Nov 2026 13:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084286": {
+      "title": "[포토] \"정당한 성과 달라\"… 포스코 노조, 서울 상경투쟁",
+      "summary": "포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 열린 상경투쟁 집회에 참석해 피켓을 들고 구호를 외치고 있다. 이번 집회는 2026년 임금교섭 잠정합의안 부결과 재교섭 결렬에 따른 것으로 노조는...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084286",
+      "date": "Tue, 17 Nov 2026 13:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.snmnews.com/news/articleView.html?idxno=577529": {
+      "title": "포스코 노사, 대표자 회담 추진…임단협 교섭 정상화 모색",
+      "summary": "포스코 노사가 임금 및 단체협약(임단협) 교섭 마무리를 위해 대표자 간 직접 회담을 추진한다. 회사 측이... 17일 포스코 노조에 따르면 회사 측은 대표이사와 노조위원장이 직접 만나 대화하겠다는 의사를 전달했으며...",
+      "url": "http://www.snmnews.com/news/articleView.html?idxno=577529",
+      "date": "Tue, 17 Nov 2026 13:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/PYH20261117102400013?input=1196m": {
+      "title": "구호 외치는 포스코 노조",
+      "summary": "포스코 노사가 임금교섭을 둘러싼 입장차를 좁히지 못하고 있는 가운데 17일 서울 강남구 포스코 센터 앞에서 열린 포스코 노조 상경집회에서 참가자들이 손팻말을 들고 구호를 외치고 있다. 2026.11.17",
+      "url": "https://www.yna.co.kr/view/PYH20261117102400013?input=1196m",
+      "date": "Tue, 17 Nov 2026 13:17:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/PYH20261117102500013?input=1196m": {
+      "title": "포스코 노조 상경집회",
+      "summary": "포스코 노사가 임금교섭을 둘러싼 입장차를 좁히지 못하고 있는 가운데 17일 서울 강남구 포스코 센터 앞에서 열린 포스코 노조 상경집회에 띠가 놓여져 있다. 2026.11.17",
+      "url": "https://www.yna.co.kr/view/PYH20261117102500013?input=1196m",
+      "date": "Tue, 17 Nov 2026 13:17:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/PYH20261117101700013?input=1196m": {
+      "title": "주먹 불끈 쥔 포스코 노조",
+      "summary": "포스코 노사가 임금교섭을 둘러싼 입장차를 좁히지 못하고 있는 가운데 17일 서울 강남구 포스코 센터 앞에서 열린 포스코 노조 상경집회에서 참가자들이 민중의례를 하고 있다. 2026.11.17",
+      "url": "https://www.yna.co.kr/view/PYH20261117101700013?input=1196m",
+      "date": "Tue, 17 Nov 2026 13:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/PYH20261117101500013?input=1196m": {
+      "title": "포스코 센터 앞 포스코 노조 상경집회",
+      "summary": "포스코 노사가 임금교섭을 둘러싼 입장차를 좁히지 못하고 있는 가운데 17일 서울 강남구 포스코 센터 앞에서 열린 포스코 노조 상경집회에서 참가자들이 민중의례를 하고 있다. 2026.11.17",
+      "url": "https://www.yna.co.kr/view/PYH20261117101500013?input=1196m",
+      "date": "Tue, 17 Nov 2026 13:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/PYH20261117101600013?input=1196m": {
+      "title": "포스코 노조 '노동자의 정당한 성과를'",
+      "summary": "포스코 노사가 임금교섭을 둘러싼 입장차를 좁히지 못하고 있는 가운데 17일 서울 강남구 포스코 센터 앞에서 열린 포스코 노조 상경집회에서 김성호 노조 위원장 등 참가자들이 손팻말을 들고 구호를 외치고 있다....",
+      "url": "https://www.yna.co.kr/view/PYH20261117101600013?input=1196m",
+      "date": "Tue, 17 Nov 2026 13:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISI20261117_0021535358": {
+      "title": "포스코 노조, 회사 측에 전향적 결단 촉구",
+      "summary": "임금·단체협약(임단협)을 둘러싸고 사측과 갈등을 겪고 있는 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을...",
+      "url": "https://www.newsis.com/view/NISI20261117_0021535358",
+      "date": "Tue, 17 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISI20261117_0021535361": {
+      "title": "포스코 센터 앞에 모인 포스코 노조원들",
+      "summary": "임금·단체협약(임단협)을 둘러싸고 사측과 갈등을 겪고 있는 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을...",
+      "url": "https://www.newsis.com/view/NISI20261117_0021535361",
+      "date": "Tue, 17 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISI20261117_0021535362": {
+      "title": "임단협 갈등 속 포스코 노조 상경투쟁",
+      "summary": "임금·단체협약(임단협)을 둘러싸고 사측과 갈등을 겪고 있는 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을...",
+      "url": "https://www.newsis.com/view/NISI20261117_0021535362",
+      "date": "Tue, 17 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISI20261117_0021535366": {
+      "title": "포스코 노조, 임단협 교섭 촉구 상경투쟁",
+      "summary": "임금·단체협약(임단협)을 둘러싸고 사측과 갈등을 겪고 있는 한국노총 금속노련 포스코 노동조합 조합원들이 17일 서울 강남구 포스코 센터 앞에서 상경투쟁 집회를 열고 회사 측에 전향적인 결단을...",
+      "url": "https://www.newsis.com/view/NISI20261117_0021535366",
+      "date": "Tue, 17 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.enetnews.co.kr/news/articleView.html?idxno=56472": {
+      "title": "체코 원전 수주 다음 관문은 '품질'···한수원, 검증 과정 공개",
+      "summary": "한국수력원자력 (사장 김회천, 한수원)이 체코 두코바니 신규 원전 건설사업의 설계 단계에서 현지 규제기관과 발주사를 대상으로 품질관리체계 검증에 나섰다. 한수원은 16일부터 18일까지 두산에너빌리티가...",
+      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=56472",
+      "date": "Tue, 17 Nov 2026 13:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4169,16 +4461,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-17",
   "sent_articles": [
-    {
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304095",
-      "title": "\"내년 영업이익 3.1조원 기대…POSCO 홀딩스 , 철강 반등에 리튬 흑자전환...",
-      "date": "Tue, 03 Nov 2026 13:20:00 +0900"
-    },
-    {
-      "url": "https://www.naeil.com/news/read/607373?ref=naver",
-      "title": "포스코 , 철강 덕에 실적 반등",
-      "date": "Tue, 03 Nov 2026 13:02:00 +0900"
-    },
     {
       "url": "http://www.breaknews.com/1247936",
       "title": "울진군, 수소산업 박람회서 원자력수소 국가산단 투자유치 홍보",
@@ -9228,6 +9510,56 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQjhDc1pCSmx0eWlEdzRTQUNNSHlsNVN5VzFkQm04aVhNbS1jb2FvQkRMSFQ5aFpLdVBDeTNBQUxpNXFTYWFMbUZGNzJNSmlGUVJzNQ?oc=5",
       "title": "주민이 연 준공 잔치…포항 달전저수지 둘레길 걷기대회 - 데일리안",
       "date": "Tue, 17 Nov 2026 03:03:00 GMT"
+    },
+    {
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006512",
+      "title": "'상경투쟁' 강수 둔 포스코 노조, 오늘 이희근 사장-노조위원장 재회동",
+      "date": "Tue, 17 Nov 2026 14:00:00 +0900"
+    },
+    {
+      "url": "https://www.etnews.com/20261117000252",
+      "title": "포스코 노사, 임단협 돌파구 찾나… 포스코 , 노조에 대화 요청",
+      "date": "Tue, 17 Nov 2026 13:50:00 +0900"
+    },
+    {
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084286",
+      "title": "[포토] \"정당한 성과 달라\"… 포스코 노조, 서울 상경투쟁",
+      "date": "Tue, 17 Nov 2026 13:48:00 +0900"
+    },
+    {
+      "url": "http://www.snmnews.com/news/articleView.html?idxno=577529",
+      "title": "포스코 노사, 대표자 회담 추진…임단협 교섭 정상화 모색",
+      "date": "Tue, 17 Nov 2026 13:46:00 +0900"
+    },
+    {
+      "url": "http://www.inews24.com/view/2026924",
+      "title": "대한민국 포도 수출 1억 달러 돌파… 경북 이 80% 견인했다",
+      "date": "Tue, 17 Nov 2026 13:42:00 +0900"
+    },
+    {
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=729723",
+      "title": "의성군, 2027년 예산 8500억원 편성…민생·미래 산업 집중 투자",
+      "date": "Tue, 17 Nov 2026 13:38:00 +0900"
+    },
+    {
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=148671",
+      "title": "경북 산 포도 수출 1억불 달성...전국포도 수출액 80% 차지",
+      "date": "Tue, 17 Nov 2026 13:18:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/PYH20261117102400013?input=1196m",
+      "title": "구호 외치는 포스코 노조",
+      "date": "Tue, 17 Nov 2026 13:17:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/PYH20261117102500013?input=1196m",
+      "title": "포스코 노조 상경집회",
+      "date": "Tue, 17 Nov 2026 13:17:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/PYH20261117101700013?input=1196m",
+      "title": "주먹 불끈 쥔 포스코 노조",
+      "date": "Tue, 17 Nov 2026 13:16:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9295,7 +9627,7 @@
     "2026-11-14": 1,
     "2026-11-15": 3,
     "2026-11-16": 7,
-    "2026-11-17": 1
+    "2026-11-17": 2
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
