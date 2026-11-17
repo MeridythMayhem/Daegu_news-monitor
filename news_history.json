@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031045239430365": "2026-11-03T19:02:45.192077+09:00",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702923&ref=A": "2026-11-03T20:18:01.551373+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaElncEs2VGdkLUV5STMxcEZ5NDJ4Tjd1dHFmOGV5LXMxX2JvQ1hqVDhzeV83TVp6emFZV0NNeElkQTdJRjYyYmt1S1A5OGZuMU1ybVc3TEpWMWw4cGw0VmVNOUI?oc=5": "2026-11-03T21:36:18.038139+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628315": "2026-11-03T21:36:18.038139+09:00",
@@ -1055,10 +1054,10 @@
     "http://www.finomy.com/news/articleView.html?idxno=266963": "2026-11-17T19:09:12.106954+09:00",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbmZuWU9OMVZWZGJUYk9Zc0ZoVUZPYVRXTGdiWnE2eVNMWnJWZUVld1Z5RU40RHRSdENIZjVNNXR2OFI4UmhrNThlQVk0QlFpTTJGUTc0N0FoTllUN1dLV29SN2kyTi1JWGlzVUV4M2ZJeTZYMm5qVHVHc1VleFZRSHFzWmpVZkZJd25RWnpXRE5wcE9RMVlOdTFhS2doUl9wMTFWNXV3NzNXOG5iak1nZGNWYXFmazhhYzBvdEQ5eFJiTDQ3ellqRHVHclFCWElweUJJ?oc=5": "2026-11-17T19:09:12.106954+09:00",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LbHpQRVVMYThteklDUTl3cHF1eUJKdFB0Vk45LU84MTZFQ1BkcGJlNkU1LTNKeFRsQTNBMHNERjdQVzYwNHVFY2hYa25kbm5fVW1YZERtZWdTdDY4SWtKd1NfYnNkbEVSSVBhSXNjc2UwSXA2Y2pmN1NsVXU?oc=5": "2026-11-17T19:09:12.106954+09:00",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YQy1tdDM5U2JzTHQ4VC02VHRjeTNqWkRHT1NMa2lhRmdXbTZzSUhXNEI0RmwxQmVrd2VBV1FmWHFPYlhvNXM2Zm00LVpIdmRhWDdzQnpLaTZiTkU?oc=5": "2026-11-17T19:09:12.106954+09:00"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YQy1tdDM5U2JzTHQ4VC02VHRjeTNqWkRHT1NMa2lhRmdXbTZzSUhXNEI0RmwxQmVrd2VBV1FmWHFPYlhvNXM2Zm00LVpIdmRhWDdzQnpLaTZiTkU?oc=5": "2026-11-17T19:09:12.106954+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091162": "2026-11-17T20:15:52.040137+09:00"
   },
   "titles": {
-    "d25e6564ec33f2004a4f56c1bbbede2c024ab367a8a2955b857ef35169f2ec77": "2026-11-03T19:02:45.192077+09:00",
     "84409ce78c95b629837e2eb4f5780a09481ce266c757e5c292ef81a79e9766d6": "2026-11-03T20:18:01.551373+09:00",
     "dd7a88532f4c5c5a7e24a657972eb1bc6bd230476b1148a03563cdc36f6c1449": "2026-11-03T21:36:18.038139+09:00",
     "63a3e01cc171ee30c61c0cff5ed53d3104d04b2fdc961a5f8a2fc12fd60342a9": "2026-11-03T21:36:18.038139+09:00",
@@ -2113,7 +2112,8 @@
     "593ad66bf0c762aa18e4f43a339dd7ad8a57a12e8ae94e2b34ea1e71ec5142eb": "2026-11-17T19:09:12.106954+09:00",
     "a97b5ccdeb831786ecfdecad2dc56f44ff976f994de93b5ecf5a187e180b93da": "2026-11-17T19:09:12.106954+09:00",
     "edb3ccbdd2535e7d74895eae7ffbe042767aed58b783c1540703c2fb2e97cf9d": "2026-11-17T19:09:12.106954+09:00",
-    "006b1933e202eca21d6e1d70132694e8b77ffcbae1bd116c9cfe5b37584e632c": "2026-11-17T19:09:12.106954+09:00"
+    "006b1933e202eca21d6e1d70132694e8b77ffcbae1bd116c9cfe5b37584e632c": "2026-11-17T19:09:12.106954+09:00",
+    "41f39caad79aac16a71a285abd482f37af34acbad78ea21e44d16520e367ca67": "2026-11-17T20:15:52.040137+09:00"
   },
   "pending": {},
   "ai": {
@@ -2128,19 +2128,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzblFQNENPV1FaOEJuQVloOWxkTlNnVE1BRnVyS3laUE56b2tFSk5ST2swcmVJQV9HNnNRTktRMWZkdzBqQ1RNUzlGa0ZWZ19qNVpwM1ZLNzdyeFp2NnRJMFRB?oc=5": {
-      "title": "AI·로봇 19조 통큰 투자…구미에 다시 부는 `삼성 르네상스` - 매일신문",
-      "summary": "AI·로봇 19조 통큰 투자…구미에 다시 부는 `삼성 르네상스` 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzblFQNENPV1FaOEJuQVloOWxkTlNnVE1BRnVyS3laUE56b2tFSk5ST2swcmVJQV9HNnNRTktRMWZkdzBqQ1RNUzlGa0ZWZ19qNVpwM1ZLNzdyeFp2NnRJMFRB?oc=5",
-      "date": "Sun, 15 Nov 2026 10:45:10 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.cstimes.com/news/articleView.html?idxno=727925": {
       "title": "2029년 11월 착공 목표…한수원, 두코바니 원전 프로젝트 이행 현황 점검",
       "summary": "컨슈머타임스=안성렬 기자 | 한국수력원자력 (한수원)과 체코 발주사 EDU II가 지난 9일부터 12일까지 서울 방사선보건원에서 두코바니 원전 건설사업 이행 현황을 점검하기 위한 프로젝트 합동 점검회의를 개최했다....",
@@ -5068,6 +5055,19 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091162": {
+      "title": "경북 포도 수출, 10월까지 7294만 달러…전국의 80.5% 차지",
+      "summary": "현재 공급물량과 거래 조건을 협의 중이다. 필리핀시장 공략도 본격화했다. 경북 도는 16일부터 17일까지... 포도와 가공 제품을 선보였다. 이는 지난해 11월 한·필리핀 포도 수출 검역협상이 타결된 데 따른 후속 조치다....",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091162",
+      "date": "Tue, 17 Nov 2026 19:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
     }
@@ -10375,6 +10375,11 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YQy1tdDM5U2JzTHQ4VC02VHRjeTNqWkRHT1NMa2lhRmdXbTZzSUhXNEI0RmwxQmVrd2VBV1FmWHFPYlhvNXM2Zm00LVpIdmRhWDdzQnpLaTZiTkU?oc=5",
       "title": "포항시, 하반기 소나무재선충병 긴급방제 착공 전 안전보건협의체 가동 - 경북뉴스",
       "date": "Tue, 17 Nov 2026 09:05:54 GMT"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091162",
+      "title": "경북 포도 수출, 10월까지 7294만 달러…전국의 80.5% 차지",
+      "date": "Tue, 17 Nov 2026 19:30:00 +0900"
     }
   ],
   "brief_articles": [
