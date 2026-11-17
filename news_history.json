@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564334": "2026-11-03T22:02:04.479772+09:00",
     "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjBRS1dBZlczMFhwZmg1UV9tYjk4dC1pMzZqNmdTN2MtTWc2aUtfblZpY29CMXVMWlIxMDdBb1V1TmxEbkpVLW5DVXlwRk1QOEZaVXROOWg0NXoyVlczaTVKdW5WMkJUZUhncmRBMGUzLWJQaG41aHJIdFhxYXU3cUU0ajZId2NPYW82dFUtZ0ViWnQ1QmJuU2l4NFpHTHdZUkROeU5tSkVKQnpFUS1lNFNISmI3Yi14bjVUR2t3c1J0LVNjMHNqVnNrbG1PcXlvbjl0dm1vYjRNU0tXZmo2SzJpUFY0eWNYWnVoRXFlTVI3LWZaTlM0cGJocG9Bam84YzVkaTZXLVVQemhXQzJGbTRLSlEwelhjSmdfdFBmNGJTaU5ueFFNZ0NaQTdHN00tZTRvZmtacTNYR2pRb2ZSM2N0dnFHZw?oc=5": "2026-11-03T23:02:05.279202+09:00",
     "https://www.vegannews.co.kr/news/article.html?no=400041": "2026-11-03T23:02:05.279202+09:00",
     "https://www.imaeil.com/page/view/2026110317073887521": "2026-11-04T09:02:25.413811+09:00",
@@ -1059,7 +1058,6 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=565623": "2026-11-17T22:10:17.486126+09:00"
   },
   "titles": {
-    "ae83dc1647f99d0bc89bdf02093f43981c039b382a1291ec92e78f87cb32b364": "2026-11-03T22:02:04.479772+09:00",
     "64cfb21a7fe9dd9cc352ad320f4a551d4412c58458ebf12d149339ff0c24ed6e": "2026-11-03T23:02:05.279202+09:00",
     "49240cdd3f5054ee1d89dc0ea8ee9b8214d04423a2954ac6cc1bd98c24d4aa53": "2026-11-03T23:02:05.279202+09:00",
     "60baf1a7557baaf144c1be6c85397e5e867e0bdf5cdabb4a2b400a2405732c02": "2026-11-04T09:02:25.413811+09:00",
@@ -5155,16 +5153,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-17",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOUjBRS1dBZlczMFhwZmg1UV9tYjk4dC1pMzZqNmdTN2MtTWc2aUtfblZpY29CMXVMWlIxMDdBb1V1TmxEbkpVLW5DVXlwRk1QOEZaVXROOWg0NXoyVlczaTVKdW5WMkJUZUhncmRBMGUzLWJQaG41aHJIdFhxYXU3cUU0ajZId2NPYW82dFUtZ0ViWnQ1QmJuU2l4NFpHTHdZUkROeU5tSkVKQnpFUS1lNFNISmI3Yi14bjVUR2t3c1J0LVNjMHNqVnNrbG1PcXlvbjl0dm1vYjRNU0tXZmo2SzJpUFY0eWNYWnVoRXFlTVI3LWZaTlM0cGJocG9Bam84YzVkaTZXLVVQemhXQzJGbTRLSlEwelhjSmdfdFBmNGJTaU5ueFFNZ0NaQTdHN00tZTRvZmtacTNYR2pRb2ZSM2N0dnFHZw?oc=5",
-      "title": "엘앤에프, LG에너지솔루션과 1조 원대 LFP 양극재 장기 공급계약 체결 - 아이씨엔매거진",
-      "date": "Tue, 03 Nov 2026 13:22:32 GMT"
-    },
-    {
-      "url": "https://www.vegannews.co.kr/news/article.html?no=400041",
-      "title": "포스코 스틸리온 3분기 영업이익 2억원…순손실 전환",
-      "date": "Tue, 03 Nov 2026 22:14:00 +0900"
-    },
     {
       "url": "https://www.imaeil.com/page/view/2026110317073887521",
       "title": "포항 인터넷신문 대표, 지자체 보조금 1천만원 부정수급 혐의 송치",
