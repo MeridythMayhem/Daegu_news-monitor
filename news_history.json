@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.ajunews.com/view/20261103095457354": "2026-11-03T12:02:59.568661+09:00",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5": "2026-11-03T13:02:44.118101+09:00",
     "https://www.newsquest.co.kr/news/articleView.html?idxno=304095": "2026-11-03T14:02:20.283849+09:00",
     "https://www.naeil.com/news/read/607373?ref=naver": "2026-11-03T14:02:20.283849+09:00",
@@ -1010,10 +1009,12 @@
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyS3BfV0pOUUJReFBMU2lHVl9HQjdCLWFYUjBSN05ONXQ5dk5YSHkxZ1N4QlZaY29RdGVEbW50TFJlbmpHRVNKamNNeTZOXzJyR3Q3T3RidnlEb2M1SFNvYkZTMzVManFmXzd2MU93LXFtN2R6?oc=5": "2026-11-17T12:02:11.988613+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LS2ZUSzdVX3I5TXR0cE1fTEg4aW01OXZ5RzcyYjBEbGJxemdfTkF5RG1Ma2JuNjhmN3hnWUpLWHRfaDdCLTRadVhWeVprUV9YQ2ZtSWpXQzdnd2ViSjNjRlRvZFhERVdFMGlz?oc=5": "2026-11-17T12:02:11.988613+09:00",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719715": "2026-11-17T12:02:11.988613+09:00",
-    "https://www.tbc.co.kr/news/view?pno=20261117102405AE08686&id=213464": "2026-11-17T12:02:11.988613+09:00"
+    "https://www.tbc.co.kr/news/view?pno=20261117102405AE08686&id=213464": "2026-11-17T12:02:11.988613+09:00",
+    "http://fpn119.co.kr/259557": "2026-11-17T13:02:10.423990+09:00",
+    "http://www.4th.kr/news/articleView.html?idxno=2122043": "2026-11-17T13:02:10.423990+09:00",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQjhDc1pCSmx0eWlEdzRTQUNNSHlsNVN5VzFkQm04aVhNbS1jb2FvQkRMSFQ5aFpLdVBDeTNBQUxpNXFTYWFMbUZGNzJNSmlGUVJzNQ?oc=5": "2026-11-17T13:02:10.423990+09:00"
   },
   "titles": {
-    "a0394e0ed36d5c85528d32f0823e906d27cf1faabad6a018d4bd5b49d3ca0aee": "2026-11-03T12:02:59.568661+09:00",
     "d7b0950e8f00523867cfa72021f5e4f7b944b498513a53e29a877ef89679849e": "2026-11-03T13:02:44.118101+09:00",
     "f50802a8ed6f3faa35487b7a5843108873c3ee56bfdbbe5d3685b82cee561d43": "2026-11-03T14:02:20.283849+09:00",
     "bacf90853a9240cb21c0dcd501b7ed39fb0e3f6d7d45aae9ee68e9891f5ed625": "2026-11-03T14:02:20.283849+09:00",
@@ -2023,49 +2024,12 @@
     "017b2bbe09a0685a7517df6358e8a7a2f7d189f04665cfccaad2a448700fce4a": "2026-11-17T12:02:11.988613+09:00",
     "d472c9debd9f7a8751b3f4de9f5de98a2853ea510201b7f62a9445cc5f6ce83c": "2026-11-17T12:02:11.988613+09:00",
     "4c2cb5b1d5a1b11b439b6ecb10ce87e6a8cc9a2b3b968e4eed261a2be0387c42": "2026-11-17T12:02:11.988613+09:00",
-    "c5411ec0a88b13452156698e0af1e33e6ff28113152e5611128830a2a8057f02": "2026-11-17T12:02:11.988613+09:00"
+    "c5411ec0a88b13452156698e0af1e33e6ff28113152e5611128830a2a8057f02": "2026-11-17T12:02:11.988613+09:00",
+    "d482690440f6a3a9b4f716562b8057142de760510ef3cc3f1569415aadc3ce32": "2026-11-17T13:02:10.423990+09:00",
+    "77806f28db5e6301feeff63afad28f90fb606e6459168be510376f276d2a094e": "2026-11-17T13:02:10.423990+09:00",
+    "a1636a8532a6b437d26c863bdc2d5240b120e72f72e35685da5c2c12a77dff43": "2026-11-17T13:02:10.423990+09:00"
   },
-  "pending": {
-    "https://www.imaeil.com/page/view/2026111711005693881": {
-      "title": "예천 박해영 시골잔대, 베트남서 50만 달러 수출 MOU 체결",
-      "summary": "경북 예천군은 지역 농업회사법인인 박해영 시골잔대(대표 박해영)가 지난 11일부터 14일까지 열린... 박 대표는 2006년부터 잔대 연구와 재배, 가공 , 제품 개발을 이어오고 있다. 지난 10월에는 라오스에서도 4만...",
-      "url": "https://www.imaeil.com/page/view/2026111711005693881",
-      "date": "Tue, 17 Nov 2026 11:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE54ZHlqLTJoREpmajVKZXBoOGRxQkROOTZEMGVaSnpxQUROMEJpUmhjMkRoMGZCWllDcE1sWk5vbFJGR18ta2JyUFBkSGk1ZkRYX3p6WUZpWVlzT3piYWtvR01Kem9wN0hHMG9RN29Uem1odlU?oc=5": {
-      "title": "\"중국·인도 거대 시장 뚫었다\"..경산시 무역사절단, 상하이·뉴델리 119건 8490만 달러 수출상담 실적 거둬 - 뉴스프리존",
-      "summary": "\"중국·인도 거대 시장 뚫었다\"..경산시 무역사절단, 상하이·뉴델리 119건 8490만 달러 수출상담 실적 거둬 뉴스프리존",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54ZHlqLTJoREpmajVKZXBoOGRxQkROOTZEMGVaSnpxQUROMEJpUmhjMkRoMGZCWllDcE1sWk5vbFJGR18ta2JyUFBkSGk1ZkRYX3p6WUZpWVlzT3piYWtvR01Kem9wN0hHMG9RN29Uem1odlU?oc=5",
-      "date": "Tue, 17 Nov 2026 02:07:50 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSWpuYkcxMXhrWGh2WGh0akUxc0hraTVZek1IcXhCdmNjOUlsNFk4UGJsb0Z3UC1HS1VUb1JjV3Y2Z3VHRWJvNy1IN2p6dnhGblJjYkVzNFNmMlpndV9WcWVpa0tDaXJkOGgtOFlxOGVTT0hpbS1YcGkzSXBPX0hZQzJYbDFyZjQ5TzFJLTJsWU53REpaNFEtU3JUcS05dHFzcnRndzdFaG1Ua3FGTm1PVUhfT2N1UXNpM0JJODhZTXU2Zw?oc=5": {
-      "title": "Ecopro Materials stock: Q3 operating loss widens to KRW 29 billion - ad-hoc-news.de",
-      "summary": "Ecopro Materials stock: Q3 operating loss widens to KRW 29 billion ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSWpuYkcxMXhrWGh2WGh0akUxc0hraTVZek1IcXhCdmNjOUlsNFk4UGJsb0Z3UC1HS1VUb1JjV3Y2Z3VHRWJvNy1IN2p6dnhGblJjYkVzNFNmMlpndV9WcWVpa0tDaXJkOGgtOFlxOGVTT0hpbS1YcGkzSXBPX0hZQzJYbDFyZjQ5TzFJLTJsWU53REpaNFEtU3JUcS05dHFzcnRndzdFaG1Ua3FGTm1PVUhfT2N1UXNpM0JJODhZTXU2Zw?oc=5",
-      "date": "Tue, 17 Nov 2026 02:38:50 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 17
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-11-10": 18,
     "2026-11-11": 15,
@@ -2073,7 +2037,8 @@
     "2026-11-13": 26,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 9
+    "2026-11-16": 9,
+    "2026-11-17": 1
   },
   "cursor": 0,
   "archive": {
@@ -4134,6 +4099,45 @@
       "category": "해외기업 동향",
       "priority": 50,
       "filter_version": 17
+    },
+    "http://fpn119.co.kr/259557": {
+      "title": "대구 달서구 공장 화재 … 인명피해 없어",
+      "summary": "= 16일 오전 11시 19분께 대구 달서구 장동의 한 공장 에서 화재 가 발생했다. 소방은 인원 89명과 장비 31대를 투입해 1시간여 만에 완진했다. 2명이 자력 대피해 인명피해는 없었다.",
+      "url": "http://fpn119.co.kr/259557",
+      "date": "Tue, 17 Nov 2026 12:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 17
+    },
+    "http://www.4th.kr/news/articleView.html?idxno=2122043": {
+      "title": "포스코 노조, 상경 투쟁…\"58년 동안 경영진만 성과 독식\"",
+      "summary": "포쓰저널 김지훈 기자 한국노총 금속노련 포스코 노동조합이 2026년 11월 17일 서울 강남구 포스코 센터 앞에서 상경 집회를 열고 사 측에 임금단체 협상과 관련해 전향적인 결단을 촉구하고 있다./사진=김지훈 기자 포스코 ...",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2122043",
+      "date": "Tue, 17 Nov 2026 12:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 17
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQjhDc1pCSmx0eWlEdzRTQUNNSHlsNVN5VzFkQm04aVhNbS1jb2FvQkRMSFQ5aFpLdVBDeTNBQUxpNXFTYWFMbUZGNzJNSmlGUVJzNQ?oc=5": {
+      "title": "주민이 연 준공 잔치…포항 달전저수지 둘레길 걷기대회 - 데일리안",
+      "summary": "주민이 연 준공 잔치…포항 달전저수지 둘레길 걷기대회 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQjhDc1pCSmx0eWlEdzRTQUNNSHlsNVN5VzFkQm04aVhNbS1jb2FvQkRMSFQ5aFpLdVBDeTNBQUxpNXFTYWFMbUZGNzJNSmlGUVJzNQ?oc=5",
+      "date": "Tue, 17 Nov 2026 03:03:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 17
     }
   },
   "brief_sent": {
@@ -4165,11 +4169,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-17",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdm1vSExyZHh3a29JRlRNb2FxSDFvVlN1UXVjOERyTFpvMWEydFpvc1dqb2NIVG1sVHJzSlVFMXJpamJxUmxJcG5FV2hFNVYyRnVHS1VaTHJXakZBbkdYT3Mwdi1KUlVRLUVuNmtfU3BBTFVJUHc?oc=5",
-      "title": "POSCO E&C Q3 Operating Profit approximately $35.9 Million: Plant Unit Turns Profitable Despite Sinansan Line Setback - BigGo Finance",
-      "date": "Tue, 03 Nov 2026 03:05:00 GMT"
-    },
     {
       "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304095",
       "title": "\"내년 영업이익 3.1조원 기대…POSCO 홀딩스 , 철강 반등에 리튬 흑자전환...",
@@ -9214,6 +9213,21 @@
       "url": "https://www.tbc.co.kr/news/view?pno=20261117102405AE08686&id=213464",
       "title": "에스엘 , 누적 영업이익 3,157억 원…3분기 순손실",
       "date": "Tue, 17 Nov 2026 11:10:00 +0900"
+    },
+    {
+      "url": "http://fpn119.co.kr/259557",
+      "title": "대구 달서구 공장 화재 … 인명피해 없어",
+      "date": "Tue, 17 Nov 2026 12:56:00 +0900"
+    },
+    {
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2122043",
+      "title": "포스코 노조, 상경 투쟁…\"58년 동안 경영진만 성과 독식\"",
+      "date": "Tue, 17 Nov 2026 12:30:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tQjhDc1pCSmx0eWlEdzRTQUNNSHlsNVN5VzFkQm04aVhNbS1jb2FvQkRMSFQ5aFpLdVBDeTNBQUxpNXFTYWFMbUZGNzJNSmlGUVJzNQ?oc=5",
+      "title": "주민이 연 준공 잔치…포항 달전저수지 둘레길 걷기대회 - 데일리안",
+      "date": "Tue, 17 Nov 2026 03:03:00 GMT"
     }
   ],
   "brief_articles": [
@@ -9280,7 +9294,8 @@
     "2026-11-13": 14,
     "2026-11-14": 1,
     "2026-11-15": 3,
-    "2026-11-16": 7
+    "2026-11-16": 7,
+    "2026-11-17": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
