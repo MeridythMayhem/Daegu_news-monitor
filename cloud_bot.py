@@ -1,4 +1,4 @@
-"""대구경북 뉴스 모니터 v17. Python 3.12 / pip install requests"""
+"""대구경북 뉴스 모니터 v19. Python 3.12 / pip install requests"""
 from collections import Counter
 import hashlib
 import html
@@ -11,6 +11,7 @@ import sys
 import time
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
+from threading import Lock
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -181,10 +182,112 @@ INVEST = INVESTMENT_TERMS + ['팩토리','신설','투자 유치','자금 조달
 PLACES += ['국가산단','테크노폴리스']
 
 
+# 시·군별 검색은 사건·사업 단서를 조합해 일반 정치 기사 유입을 줄입니다.
+LOCAL_RISK_QUERIES = ('횡령', '배임', '비자금', '업체 비리', '계약 특혜', '보조금 의혹', '납품 의혹')
+AREA_NAMES = '|'.join(sorted((re.escape(r) for r in REGIONS), key=len, reverse=True))
+CARRIER = re.compile(rf'(?<![가-힣])({AREA_NAMES})(?:버스|여객|운수|택시)(?!정류장|노선|요금|승강장)')
+MAYOR = re.compile(rf'(?:{AREA_NAMES}|특별|광역)시장(?!가격)|시장(?:이|은|의)?\s*(?:후보|측근|공천|출마|선거)')
+POLITICAL = '국회의원 시의원 도의원 구의원 구청장 도지사 단체장 정치 후보 공천 당선 선거 여당 야당 국회 민주당 국민의힘 국힘 경선 여론조사 지지율 출마 득표 총선 지선 대선 원내대표'.split()
+CORP_PARTY = r'(?:업체|기업|회사|법인|계열사|부품사|건설사|협력사|운수사|제조사)'
+MISCONDUCT = r'(?:횡령|배임|비자금|금품\s*(?:제공|수수)|뇌물|리베이트|입찰\s*담합|탈루|비리)'
+MONEY = r'(?:보조금|납품대금|법인자금|회삿돈|회사자금|공사대금)'
+DEAL_NOUN = r'(?:관급공사|일감|수의계약|계약|입찰|인허가|사업권|보조금|납품)'
+FAVOR = r'(?:특혜|밀어주|몰아주|몰아줘|몰아준|부당\s*(?:지급|지원|선정)|특혜성)'
+COMPANY_MONEY = re.compile(r'(?:회삿돈|법인\s*자금|회사\s*자금|납품\s*대금).{0,12}(?:횡령|유용|빼돌|정치자금|상납)')
+PUBLIC_MONEY = re.compile(MONEY + r'.{0,12}' + MISCONDUCT)
+
+
+def business_allegation(text):
+    """기업이 행위자·자금 출처·거래 상대인 구절만 정치 기사 예외로 인정합니다."""
+    for clause in re.split(r'…|[;!?。]|\s+[|]\s+', text):
+        clause = clause.strip()
+        # 발언 장소나 별도 행사에서 나온 기업명은 당사자 근거에서 제외합니다.
+        if re.search(r'(?:간담회|행사|토론회|세미나)(?:장)?(?:에서|서)', clause):
+            continue
+        if COMPANY_MONEY.search(clause):
+            return True
+        names = entities(clause) | {m.group() for m in CARRIER.finditer(clause)}
+        parties = [CORP_PARTY] + [re.escape(n) for n in names]
+        party = '(?:' + '|'.join(parties) + ')'
+        actor = party + r'(?:의|가|는|에서|가운데)?\s*(?:(?:전직|전|현직|현)\s*)?(?:(?:대표이사|대표|임원|회장|직원|경영진|사장)(?:의|가|는)?\s*)?'
+        if re.search(actor + r'[,·: ]*(?:(?:잇따른|거액|수십억|보조금|회삿돈|자금|법인자금|수억원|\d+[억만]원?)\s*)*' + MISCONDUCT, clause):
+            return True
+        if re.search(party + r'(?:에|로부터|에서|와|와의|를|가|의|는)?\s*.{0,20}' + DEAL_NOUN + r'.{0,14}' + FAVOR, clause):
+            return True
+        if re.search(r'(?:뇌물|금품|리베이트).{0,10}(?:제공한|건넨|준|받은)\s*' + party, clause):
+            return True
+        if re.search(party + r'(?:로부터|에서|에|가)\s*.{0,12}(?:뇌물|금품|불법\s*후원금|리베이트)', clause):
+            return True
+    return False
+
+
 def query_plan(s):
     terms = ORIGINAL_RISKS + INVESTMENT_TERMS + EXTRA_SEARCH
     domestic = {f'{region} {word}' for region in SEARCH_REGIONS for word in terms}
+    domestic.update(f'{area} {term}' for area in REGIONS for term in LOCAL_RISK_QUERIES)
     return sorted(domestic | set(FIXED_QUERIES + COMPANIES + AGENCIES + list(PEOPLE)) | LOCAL_QUERIES), 0
+
+
+class SearchPaused(Exception):
+    pass
+
+
+class GoogleSearch:
+    """국내·해외 RSS가 하나의 요청 간격과 회차별 중단 상태를 공유합니다."""
+    def __init__(self):
+        self.lock = Lock()
+        self.last_request = 0.0
+        self.failures = 0
+        self.paused = ''
+        self.interval = max(1.0, float(os.getenv('GOOGLE_SEARCH_INTERVAL_SECONDS', '2')))
+
+    def get(self, **kwargs):
+        with self.lock:
+            if self.paused:
+                raise SearchPaused(self.paused)
+            for attempt in range(2):
+                wait = self.interval - (time.monotonic() - self.last_request)
+                if wait > 0:
+                    time.sleep(wait)
+                self.last_request = time.monotonic()
+                response = None
+                try:
+                    response = requests.get('https://news.google.com/rss/search', **kwargs)
+                    response.raise_for_status()
+                    # HTTP 200이어도 RSS가 아닌 제한 페이지라면 성공으로 집계하지 않습니다.
+                    root = ET.fromstring(response.content)
+                    if root.find('channel') is None:
+                        raise ValueError('RSS channel 없음')
+                    self.failures = 0
+                    return response
+                except (requests.RequestException, ET.ParseError, ValueError) as exc:
+                    status = response.status_code if response is not None else None
+                    detail = f'HTTP {status}' if status else type(exc).__name__
+                    delay = 5.0
+                    if response is not None and response.headers.get('Retry-After'):
+                        value = response.headers['Retry-After']
+                        try:
+                            delay = float(value)
+                        except ValueError:
+                            until = date(value)
+                            delay = (until - datetime.now(KST)).total_seconds() if until else 5.0
+                    if not math.isfinite(delay):
+                        delay = 60.0
+                    delay = max(1.0, delay)
+                    retryable = status in (429, 500, 502, 503, 504) or status is None
+                    log.warning('google RSS 요청 실패 %s / 시도 %d/2', detail, attempt + 1)
+                    if attempt == 0 and retryable and delay <= 30:
+                        time.sleep(delay)
+                        continue
+                    self.failures += 1
+                    if status in (403, 429) or self.failures >= 3:
+                        self.paused = f'{detail} 반복/접근 제한으로 이번 회차 중단'
+                        log.warning('google 국내·해외 검색 일시 중단: %s', self.paused)
+                    raise
+            raise RuntimeError('Google RSS 요청 종료 상태 오류')
+
+
+GOOGLE_SEARCH = GoogleSearch()
 
 
 def fetch(job):
@@ -204,7 +307,7 @@ def fetch(job):
                 if len(items) < 100 or (date(items[-1]['pubDate']) and date(items[-1]['pubDate']) < cutoff):
                     break
         else:
-            r = requests.get('https://news.google.com/rss/search',
+            r = GOOGLE_SEARCH.get(
                 params={'q': query + (' when:1d' if datetime.now(KST) - cutoff > timedelta(hours=2) else ' when:1h'), 'hl': 'en-US' if provider == 'google_en' else 'ko', 'gl': 'US' if provider == 'google_en' else 'KR', 'ceid': 'US:en' if provider == 'google_en' else 'KR:ko'}, timeout=(5, 15))
             r.raise_for_status()
             root = ET.fromstring(r.content)
@@ -217,9 +320,16 @@ def fetch(job):
         for article in results:
             article['channels'] = [channel]
         return provider, results, None
+    except SearchPaused:
+        return provider, [], 'SKIPPED: 구글 검색 회차 중단'
     except Exception as exc:
-        # Webhook/API credentials are never included in error logs.
-        return provider, [], f'{type(exc).__name__}: query={query}'
+        response = getattr(exc, 'response', None)
+        status = f'HTTP {response.status_code}' if response is not None else type(exc).__name__
+        # 두 번째 페이지 실패 시 첫 페이지 결과는 보존합니다.
+        channel = 'global' if provider == 'google_en' else ('local_media' if query in LOCAL_QUERIES else 'domestic')
+        for article in results:
+            article['channels'] = [channel]
+        return provider, results, f'{status}: query={query}'
 
 
 def has_local(text):
@@ -247,7 +357,7 @@ def classify_core(a):
     public_office = local and contains(title, ['경찰','검찰','지검','고검','공소청','중수청','수사본부'])
     # 지역명이 행사 장소/발언 출처로만 나온 경우 기업 사건으로 승격하지 않습니다.
     venue = re.search(r'(?:토론회|간담회|세미나|포럼|행사장)(?:에서|서)', title)
-    actor = vip or (local and contains(title, ACTORS))
+    actor = vip or (local and contains(title, ACTORS)) or bool(CARRIER.search(title))
     if (not local and not vip and not tax_office) or (venue and not vip):
         return None
     action = contains(title, MOVES) or bool(re.search(
@@ -255,8 +365,12 @@ def classify_core(a):
     named_act = action or contains(title, DEAL + ['회삿돈','회사돈','자금 유용','자금 횡령'])
     relation = contains(title, RELATIONS)
     signal = contains(title, CRIME + ['회삿돈 빼돌','회사 자금 사적 사용','입찰 담합','쪼개기 계약'])
+    if local and CARRIER.search(title) and business_allegation(title):
+        return '기업 비리 의혹', 100
     if (actor or tax_office) and (signal or (named_act and contains(title, DISPUTE))):
         return '세무 조사·혐의 관련', 100
+    if local and PUBLIC_MONEY.search(title):
+        return '관내 사건 확인 필요', 80
     if actor and relation and action:
         return '관계인 거래', 90
     if actor and (action or finance_term(title)):
@@ -311,8 +425,9 @@ def local_names(text):
     text = re.sub(r'대구\s*[·ㆍ∙/‧-]?\s*경북', '대구 경북', text)
     tail = (r'(?:시|군)?(?=$|[^가-힣]|'
             r'(?:에서|에|의|은|는|와|과|로|을|를)(?=$|[^가-힣])|'
-            r'지역|공장|산단|경찰|지검|세무서|기업|경제|산업|교육청|시청|도청|상공회의소)')
-    return {region for region in REGIONS if re.search(r'(?<![가-힣])' + re.escape(region) + tail, text)} | {
+            r'시장|군수|지역|공장|산단|경찰|지검|세무서|기업|경제|산업|교육청|시청|도청|상공회의소)')
+    named_areas = {m.group(1) for m in CARRIER.finditer(text)}
+    return named_areas | {region for region in REGIONS if re.search(r'(?<![가-힣])' + re.escape(region) + tail, text)} | {
         place for place in PLACES + AGENCIES if place in text}
 
 
@@ -348,9 +463,14 @@ def classify(a):
              '라이온즈','대구FC','실내체육관','끝내기','결승','스포츠','MVP','매치','트레일런']
     if contains(title,sport) or re.search(r'(?<![가-힣])선수(?:단|들)?(?=$|[^가-힣]|가|는|를)',title) or ('감독' in title and contains(title,['경기','구단','선수단'])):
         return None
-    politics = '국회의원 시의원 도의원 구의원 군수 구청장 도지사 정치 후보 공천 당선 선거 여당 야당 국회 민주당 더불어민주당 국민의힘 국힘 우세 추격 경선 여론조사 지지율 출마 득표 총선 지선 대선 최고위 원내대표'.split()
-    political_mayor = bool(re.search(r'시장.{0,5}(?:후보|공천|출마|선거)',title))
-    if (contains(title,politics) or political_mayor) and not risk:
+    if contains(title, POLITICAL) or MAYOR.search(title) or re.search(r'군수(?!품|산업|물자|공장|지원업체)', title) or re.search(r'(?<![가-힣])의원(?:이|은|의|에게)?(?=$|[^가-힣])', title):
+        if direct and business_allegation(title):
+            return '기업 비리 의혹', 100
+        # 제목에 사건 단서가 있어야 요약 근거로 보완합니다.
+        if contains(title, CRIME + DISPUTE + ['금품','뇌물','리베이트','부당 지급']):
+            for line in evidence_sentences(a)[1:]:
+                if (direct or has_local(line) or entities(line)) and business_allegation(line):
+                    return '기업 연관 확인 필요', 80
         return None
     market = ['주가','증시','코스피','코스닥','종목','시황','주식','매수','매도','개미','외인','상장','공모','특징주']
     price_move = contains(title, ['상승','하락','급등','급락']) and contains(title, ['주식','거래량','매매','거래소','투자자'])
@@ -469,7 +589,7 @@ def prepare_pending(s, now, cutoff=None, end=None, pending_key='pending'):
         for field in ('needs_ai','review','ai_result','ai_wait_reason','ai_failure_kind','ai_format_retry_v13','ai_retry_note'):
             a.pop(field, None)
         a['category'], a['priority'] = result
-        a['filter_version'] = 17
+        a['filter_version'] = 18
     return sorted(s[pending_key].values(), key=lambda a: (a['priority'], date(a['date'])), reverse=True)
 
 
@@ -766,7 +886,9 @@ def report_window(now, mode='auto'):
 
 
 def main():
-    log.info('대구경북 뉴스 모니터 v17 시작 — 세무 / 주요인사 / 산재')
+    global GOOGLE_SEARCH
+    GOOGLE_SEARCH = GoogleSearch()
+    log.info('대구경북 뉴스 모니터 v19 시작 — 세무 / 주요인사 / 산재')
     if not DISCORD_URL and not DRY_RUN:
         raise RuntimeError('GitHub Secrets의 DISCORD_URL 설정이 필요합니다')
     now = datetime.now(KST)
@@ -792,12 +914,16 @@ def main():
     jobs = [('naver', q, cutoff) for q in queries] if NAVER_ID and NAVER_SECRET else []
     # Naver 인증정보가 없으면 RSS 검색 범위를 늘립니다.
     rss_queries = [q for q in queries if q not in LOCAL_QUERIES] if jobs else queries
-    jobs += [('google', q, cutoff) for q in rss_queries]
     jobs += [('google_en', q, cutoff) for q in GLOBAL_QUERIES]
+    jobs += [('google', q, cutoff) for q in rss_queries]
     stats = {'naver': [0, 0], 'google': [0, 0], 'google_en': [0, 0]}
+    skipped = Counter()
     raw = {u: dict(a) for u, a in s['archive'].items() if cutoff <= date(a['date']) <= end} if morning else {}
     with ThreadPoolExecutor(max_workers=4) as pool:
         for provider, articles, error in pool.map(fetch, jobs):
+            if error and error.startswith('SKIPPED:'):
+                skipped[provider] += 1
+                continue
             stats[provider][bool(error)] += 1
             if error:
                 log.warning('%s 검색 실패: %s', provider, error)
@@ -811,10 +937,11 @@ def main():
                     raw[a['url']]['channels'] = channels
     log.info('검색 성공/실패: %s / 대상 %s ~ %s / 고유URL %d', stats, cutoff.isoformat(), end.isoformat(), len(raw))
     successes = sum(x[0] for x in stats.values())
-    failures = sum(x[1] for x in stats.values())
+    failures = sum(x[1] for x in stats.values()) + sum(skipped.values())
+    log.info('요청 전 생략: %s / 구글 중단 사유: %s', dict(skipped), GOOGLE_SEARCH.paused or '없음')
     if not successes:
         raise RuntimeError('모든 검색 실패. 뉴스 없음으로 처리하지 않습니다')
-    # 실패한 검색이 있으면 다음 실행에서 같은 검색 구간을 다시 시도합니다.
+    # cursor는 검색 계획용입니다. 기사 시간 범위는 report_window에서 결정합니다.
     if not failures:
         s['cursor'] = next_cursor
     prepare_pending(s, now, cutoff, end, pending_key)
@@ -869,9 +996,9 @@ def main():
     if not pending:
         message = '발송할 새 기사가 없습니다.'
         if failures:
-            message += ' · 일부 검색 실패'
+            message = '수집된 기사 중 발송 대상 없음 · 일부 검색 실패'
         ok = deliver(message, title, 0xF39C12 if failures else 0x3498DB)
-        return 0 if ok and not failures else 1
+        return 0 if ok else 1
     group, lines = [], []
     def flush():
         _, color = emphasis(max(item['priority'] for item in group))
@@ -906,7 +1033,7 @@ def main():
     if group and not flush():
         return 1
     log.info('발송 성공 %d건 / 실제 AI 요청 %s', len(pending), dict(ai.attempts) if ai else {})
-    return 1 if failures else 0
+    return 0
 
 
 if __name__ == '__main__':
