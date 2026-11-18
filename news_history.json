@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564473": "2026-11-04T22:01:58.016206+09:00",
-    "http://www.e-platform.net/news/articleView.html?idxno=106714": "2026-11-04T22:01:58.016206+09:00",
-    "https://www.ksmnews.co.kr/news/view.php?idx=628424": "2026-11-04T22:01:58.016206+09:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5": "2026-11-04T23:01:54.291194+09:00",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=314672": "2026-11-05T09:01:57.509755+09:00",
     "https://www.mhns.co.kr/news/articleView.html?idxno=767641": "2026-11-05T09:01:57.509755+09:00",
@@ -1024,9 +1021,6 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3756274": "2026-11-18T22:09:18.176090+09:00"
   },
   "titles": {
-    "69211c7a0983772be495ce6b6562309addec02fcb9adff671784c408a771bc4f": "2026-11-04T22:01:58.016206+09:00",
-    "1c380f8068314a921dffb98c95de2b07e90e3a2a3919d0dc5ea9a16390297d56": "2026-11-04T22:01:58.016206+09:00",
-    "b1633df162d99baa78648c36799259c777e77cb40bbc3a98a50647f2f8261578": "2026-11-04T22:01:58.016206+09:00",
     "bfde507a6b2be4d1c1e37740d64fc8088382739b2f810288ac70b67ca291b2fc": "2026-11-04T23:01:54.291194+09:00",
     "e3d09a5e13faba6f496df557ec0882a1073e309e380814c7e6f0469f62e99aac": "2026-11-05T09:01:57.509755+09:00",
     "77851a438ec3b600f564267d5edd92cfc4ba749842257a0a4f61ca985a306f51": "2026-11-05T09:01:57.509755+09:00",
@@ -2060,32 +2054,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.yonhapnewstv.co.kr/news/MYH20261116221138b7z": {
-      "title": "이 대통령, 법무장관· 국세청 장 인사 청문요청안 재가",
-      "summary": "아세안 정상회의 참석차 필리핀을 방문 중인 이재명 대통령이 이용철 법무부 장관 후보자와 안덕수 국세청 장 후보자에 대한 인사 청문요청안을 재가했습니다. 강유정 청와대 수석대변인은 오늘(16일) 언론 공지를 통해...",
-      "url": "http://www.yonhapnewstv.co.kr/news/MYH20261116221138b7z",
-      "date": "Mon, 16 Nov 2026 22:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 17
-    },
-    "https://www.viva100.com/article/20261116501401": {
-      "title": "포스코 홀딩스, 中·캐나다 법인 지분 2894억 포스코 에 매각⋯ “경영효...",
-      "summary": "포스코 홀딩스가 약 2894억원 규모의 해외 철강·원료 법인 지분을 철강 자회사 포스코 에 넘긴다. 지주사에 남아 있던 철강 투자자산을 사업회사로 모아 소유와 경영을 일원화하는 조치다. 16일 포스코 홀딩스는...",
-      "url": "https://www.viva100.com/article/20261116501401",
-      "date": "Mon, 16 Nov 2026 22:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코, 포스코홀딩스",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 17
-    },
     "https://daily.hankooki.com/news/articleView.html?idxno=1425704": {
       "title": "경산시, 중국·인도 무역사절단 '8490만 달러' 수출상담",
       "summary": "사진=경산시 제공 경북 경산시는 지난 8일부터 14일까지 중국 상하이와 인도 뉴델리에서 수출 상담회를... 업무협약( MOU )도 13건, 282만 달러 규모로 맺었다. 상하이에서는 식품기업들이 현지 업체와 가공기술 협력 방안을...",
@@ -5617,11 +5585,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-18",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5",
-      "title": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! - 구미일보",
-      "date": "Wed, 04 Nov 2026 13:25:25 GMT"
-    },
     {
       "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314672",
       "title": "국립경국대 의대 신설… 경북 북부권 의료 혁신",
