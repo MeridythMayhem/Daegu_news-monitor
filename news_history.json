@@ -1053,7 +1053,14 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091207": "2026-11-17T21:02:38.400973+09:00",
     "https://www.vegannews.co.kr/news/article.html?no=406677": "2026-11-17T22:10:17.486126+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=565667": "2026-11-17T22:10:17.486126+09:00",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565623": "2026-11-17T22:10:17.486126+09:00"
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=565623": "2026-11-17T22:10:17.486126+09:00",
+    "https://www.ekn.kr/web/view.php?key=20261118027461227": "2026-11-18T09:14:56.682667+09:00",
+    "https://www.imaeil.com/page/view/2026111714350829865": "2026-11-18T09:14:56.682667+09:00",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZk9xWWlNVy1wMjJjTnVNeXN5Z0pEVGZCNVpnRkQyakdqNkNWa1VfYmMyWGJpRjFNVllWbkpGWXRheHVoS3dpaVVpNHJ2WjFuc1Bnd1g0UHo1cXRtVXpScVpn?oc=5": "2026-11-18T09:14:56.682667+09:00",
+    "https://www.ajunews.com/view/20261118085019012": "2026-11-18T09:14:56.682667+09:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRX1ZaYklCejAtUnN6SFdlUm01Y3J5YzdsdXphaGhPN0Y5YUdDbmdjVVRzYzlZSUJ2MTdiaE9jRkM3WklmS1dTTHkyd0xCQ2E4UXRHZ2xFRnE4Z9IBWEFVX3lxTE9neEhfaVA0VDZFVGUwcEplcGQ3S2ZZR3FjRWtLWUNSQk5Cd3pFRDFtbHFtY3pjZm1hZjJ0a1d0UUo2WTM1dG5fQWJfNE56VVpVcDNJTG5CTVE?oc=5": "2026-11-18T09:14:56.682667+09:00",
+    "https://www.eroun.net/news/articleView.html?idxno=95745": "2026-11-18T09:14:56.682667+09:00",
+    "http://www.metroseoul.co.kr/article/20261117500546": "2026-11-18T09:14:56.682667+09:00"
   },
   "titles": {
     "60baf1a7557baaf144c1be6c85397e5e867e0bdf5cdabb4a2b400a2405732c02": "2026-11-04T09:02:25.413811+09:00",
@@ -2109,7 +2116,14 @@
     "016c5730a08e2e3439e7bfc9a1cfc224a6d3aceb3d28e07d8298187b17a3b968": "2026-11-17T21:02:38.400973+09:00",
     "85c68aa3a9e9d7bf1825a8905bda389e76fa9b21db7c8ef60febefc71cfeb4c4": "2026-11-17T22:10:17.486126+09:00",
     "44a3da947fadadace511efc751c3e44a967728004ca41118be2e07ccfca6fe59": "2026-11-17T22:10:17.486126+09:00",
-    "01c374f75e8dd168e08cc85c57bbd1819fa6e778330da20c12374238b012f61a": "2026-11-17T22:10:17.486126+09:00"
+    "01c374f75e8dd168e08cc85c57bbd1819fa6e778330da20c12374238b012f61a": "2026-11-17T22:10:17.486126+09:00",
+    "fd1f31698882164ac9473eb53ac7d57b4a000275394659c3a1ae69050f603911": "2026-11-18T09:14:56.682667+09:00",
+    "5b8a89f7981b7b209381ad42027fac8ddd551ffdf58186414f5259137fef92d9": "2026-11-18T09:14:56.682667+09:00",
+    "074b922b924c014257b5ec68f1e84c9a3affb82a18fc47d3dca6361df55e3a99": "2026-11-18T09:14:56.682667+09:00",
+    "bda5815978d3d1cca2483aad467d19ed8902bda0943eadbe23d75abbd5efd41f": "2026-11-18T09:14:56.682667+09:00",
+    "e5616c947b0f51e1ec3691faf69e2d2375e702db72e2ddf75acb472bd42256e1": "2026-11-18T09:14:56.682667+09:00",
+    "d54d128a26101994a6f0f29a8b0f00b2410f0b346a78fd4f5046f9c2eb70d3e4": "2026-11-18T09:14:56.682667+09:00",
+    "858784a4c7c64a7a8a9aaf0badf1b4883730dfcee355141b595700bea1461afb": "2026-11-18T09:14:56.682667+09:00"
   },
   "pending": {},
   "ai": {
@@ -2119,36 +2133,11 @@
     "2026-11-14": 1,
     "2026-11-15": 3,
     "2026-11-16": 9,
-    "2026-11-17": 7
+    "2026-11-17": 7,
+    "2026-11-18": 1
   },
   "cursor": 0,
   "archive": {
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607174962770": {
-      "title": "에코프로 , 포항에 3.3조 투자 성과 공개…차세대 배터리 소재 경쟁력 강...",
-      "summary": "에코프로 가 경북 포항에 3조3000억원을 투자해 구축한 이차전지 소재 생산 생태계와 차세대 배터리 소재 기술력을 공개했다. 기존 하이니켈 양극재를 넘어 중저가·차세대 배터리 소재로 사업 영역을 확대한다는...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065607174962770",
-      "date": "Mon, 16 Nov 2026 08:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMkRObUVya3pOS2tCajI3cGs2YlM3d3lfTkxOaUZaeEMxcFRBZ0FXQi0yRkxSUnVGQm8ycmdVZFBvWmRibFFKZm1JZDBvMHdHT1FWMUZoenZqNGVq?oc=5": {
-      "title": "[리포트 브리핑]한국가스공사, '해외 자회사 실적 개선에 힘입어 시장 기대치 상회' 목표가 45,000원 - KB증권 - 뉴스핌",
-      "summary": "[리포트 브리핑]한국가스공사, '해외 자회사 실적 개선에 힘입어 시장 기대치 상회' 목표가 45,000원 - KB증권 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MMkRObUVya3pOS2tCajI3cGs2YlM3d3lfTkxOaUZaeEMxcFRBZ0FXQi0yRkxSUnVGQm8ycmdVZFBvWmRibFFKZm1JZDBvMHdHT1FWMUZoenZqNGVq?oc=5",
-      "date": "Sun, 15 Nov 2026 23:34:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국가스공사",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.pressian.com/pages/articles/2026111609583042153": {
       "title": "에코프로 , 포항 배터리 생태계 경쟁력 과시…3조3000억 투자 성과 조명",
       "summary": "2017년부터 전구체·양극재·리사이클링 연계한 산업 기반 구축 하이니켈 넘어 LFP·소듐이온·전고체 소재까지 기술 영역 확대 에코프로 가 경북 포항에 구축한 이차전지 소재 산업 기반과 글로벌 공급망 경쟁력을 공개하며...",
@@ -5182,6 +5171,97 @@
       "category": "세무 조사·혐의 관련",
       "priority": 100,
       "filter_version": 18
+    },
+    "https://www.imaeil.com/page/view/2026111714350829865": {
+      "title": "경북 도, 식품안전정보원과 손잡고 ' 경북 K-푸드 수출, 해외 규제 대응 강...",
+      "summary": "경북 도는 17일 서울 식품안전정보원에서 이철우 경북 도지사와 이재용 식품안전정보원장 등이 참석한 가운데 '식품안전체계 구축 및 식품한류산업 진흥을 위한 업무협약( MOU )'을 체결했다고 이날 밝혔다. 이번 협약은...",
+      "url": "https://www.imaeil.com/page/view/2026111714350829865",
+      "date": "Wed, 18 Nov 2026 08:53:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.metroseoul.co.kr/article/20261117500546": {
+      "title": "구미 시, 대한민국역사박물관과 구미 산업화역사관 건립 협력",
+      "summary": "구미 시는 17일 서울 종로구 대한민국역사박물관에서 구미 산업화역사관 건립을 위한 업무협약( MOU )을 체결하고, 지역 산업유산의 체계적인 보존과 활용에 나섰다. 이날 협약식에는 김장호 구미 시장과 한수...",
+      "url": "http://www.metroseoul.co.kr/article/20261117500546",
+      "date": "Wed, 18 Nov 2026 08:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ekn.kr/web/view.php?key=20261118027461227": {
+      "title": "에스엘 , 원재료 가격 상승에 수익성 부담…목표가 하향 [NH투자증권]",
+      "summary": "에스엘 의 목표주가가 하향 조정됐다. 주요 원재료인 전자 소재 가격 상승으로 수익성 부담이... 18일 NH투자증권은 에스엘 의 목표주가를 기존 9만1000원에서 6만4000원으로 29.7% 하향 조정했다. 내년 주당순이익(EPS)...",
+      "url": "https://www.ekn.kr/web/view.php?key=20261118027461227",
+      "date": "Wed, 18 Nov 2026 09:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에스엘",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261118085019012": {
+      "title": "NH證 \" 에스엘 , 전자 소재 가격 상승에 실적 전망 하향…목표가↓\"",
+      "summary": "아주경제=양보연 기자 byeony@ajunews.com NH투자증권은 18일 에스엘 에 대해 주요 원재료인 전자 소재 가격... 에스엘 의 3분기 매출액은 1조3639억원으로 전년 동기 대비 4.7% 증가했지만 영업이익은 461억원으로 32.5% 감소해...",
+      "url": "https://www.ajunews.com/view/20261118085019012",
+      "date": "Wed, 18 Nov 2026 08:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에스엘",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.eroun.net/news/articleView.html?idxno=95745": {
+      "title": "대구시, 대형건설사·지역업체 매칭 교류회 개최...하도급 수주 지원",
+      "summary": "이날 행사에는 현대건설과 GS건설, 현대엔지니어링, DL이앤씨, 롯데건설, 포스코 이앤씨 등 외지 대형건설사 17곳과 토공, 금속·창호, 철근·콘크리트, 기계설비 분야의 지역업체 49곳이 참석했다. 참가업체들은 사전...",
+      "url": "https://www.eroun.net/news/articleView.html?idxno=95745",
+      "date": "Wed, 18 Nov 2026 08:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZk9xWWlNVy1wMjJjTnVNeXN5Z0pEVGZCNVpnRkQyakdqNkNWa1VfYmMyWGJpRjFNVllWbkpGWXRheHVoS3dpaVVpNHJ2WjFuc1Bnd1g0UHo1cXRtVXpScVpn?oc=5": {
+      "title": "경북도, 식품안전정보원과 손잡고 `경북 K-푸드 수출, 해외 규제 대응 강화` - 매일신문",
+      "summary": "경북도, 식품안전정보원과 손잡고 `경북 K-푸드 수출, 해외 규제 대응 강화` 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZk9xWWlNVy1wMjJjTnVNeXN5Z0pEVGZCNVpnRkQyakdqNkNWa1VfYmMyWGJpRjFNVllWbkpGWXRheHVoS3dpaVVpNHJ2WjFuc1Bnd1g0UHo1cXRtVXpScVpn?oc=5",
+      "date": "Tue, 17 Nov 2026 23:52:26 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRX1ZaYklCejAtUnN6SFdlUm01Y3J5YzdsdXphaGhPN0Y5YUdDbmdjVVRzYzlZSUJ2MTdiaE9jRkM3WklmS1dTTHkyd0xCQ2E4UXRHZ2xFRnE4Z9IBWEFVX3lxTE9neEhfaVA0VDZFVGUwcEplcGQ3S2ZZR3FjRWtLWUNSQk5Cd3pFRDFtbHFtY3pjZm1hZjJ0a1d0UUo2WTM1dG5fQWJfNE56VVpVcDNJTG5CTVE?oc=5": {
+      "title": "NH證 에스엘, 전자 소재 가격 상승에 실적 전망 하향…목표가↓ - 아주경제",
+      "summary": "NH證 에스엘, 전자 소재 가격 상승에 실적 전망 하향…목표가↓ 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRX1ZaYklCejAtUnN6SFdlUm01Y3J5YzdsdXphaGhPN0Y5YUdDbmdjVVRzYzlZSUJ2MTdiaE9jRkM3WklmS1dTTHkyd0xCQ2E4UXRHZ2xFRnE4Z9IBWEFVX3lxTE9neEhfaVA0VDZFVGUwcEplcGQ3S2ZZR3FjRWtLWUNSQk5Cd3pFRDFtbHFtY3pjZm1hZjJ0a1d0UUo2WTM1dG5fQWJfNE56VVpVcDNJTG5CTVE?oc=5",
+      "date": "Tue, 17 Nov 2026 23:51:31 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에스엘",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5213,46 +5293,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-18",
   "sent_articles": [
-    {
-      "url": "https://www.imaeil.com/page/view/2026110317073887521",
-      "title": "포항 인터넷신문 대표, 지자체 보조금 1천만원 부정수급 혐의 송치",
-      "date": "Wed, 04 Nov 2026 08:49:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PM1VrVF9vY1FrMjZ2dy15THozclBqVVltSzhuN21yc0d5bjF5cGUyUjh3V01FOWdyYjJlYWdERW5sMEhEYnFaVzduTWRiYzJGRjBaWmtRWWlRZEpiQmdmWTNEd1R1RnF3WmRMU2NKRVlkTG92aVHSAWZBVV95cUxQR0ZIVUhobU5qeEJ1anVURXhvUVExUk1SUGRoSWVHbmtISzJDdDlIOTh6bHlIa0tFMDFGZ2p0YlVOcFlFd1kxczZNX2FPeUVDR1BwOThXcHhOMUI3bG4wSHJOMDhqNVE?oc=5",
-      "title": "대구 신격동 도금공장서 새벽 화재…인명피해 없어 - 동아일보",
-      "date": "Tue, 03 Nov 2026 23:45:35 GMT"
-    },
-    {
-      "url": "https://www.newsis.com/view/NISX20261104_0003853755",
-      "title": "대구 산격동 도금 공장 서 새벽 화재 …인명피해 없어",
-      "date": "Wed, 04 Nov 2026 08:32:00 +0900"
-    },
-    {
-      "url": "https://www.impacton.net/news/articleView.html?idxno=30517",
-      "title": "【리스크 모니터링】LG엔솔 미시간 공장 폭발 소송, 현대제철· 포스코 ...",
-      "date": "Wed, 04 Nov 2026 08:02:00 +0900"
-    },
-    {
-      "url": "https://www.tbc.co.kr/news/view?pno=20261103154908AE07903&id=212920",
-      "title": "엘앤에프 , LG에너지솔루션과 1조원 대 공급계약 체결",
-      "date": "Wed, 04 Nov 2026 08:58:00 +0900"
-    },
-    {
-      "url": "https://www.kbmaeil.com/article/20261104500019",
-      "title": "대구 곳곳서 밤사이 화재 잇따라…2명 경상",
-      "date": "Wed, 04 Nov 2026 08:28:00 +0900"
-    },
-    {
-      "url": "http://www.newsprime.co.kr/news/article.html?no=753585",
-      "title": "대동 기어, 전동화·로봇 부품사로 변신 완료…\"1.9조원 수주잔고와 액추...",
-      "date": "Wed, 04 Nov 2026 08:24:00 +0900"
-    },
-    {
-      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51279",
-      "title": "포스코 퓨처엠, 현대차그룹과 베트남 음극재 투자 협력…1000억 지분투자...",
-      "date": "Wed, 04 Nov 2026 08:02:00 +0900"
-    },
     {
       "url": "https://www.the-today.com/news/articleView.html?idxno=93002",
       "title": "[단독] 포스코 인터 인니 팜 자회사, '산불 열점' 지목…수마트라서 679곳...",
@@ -10482,6 +10522,41 @@
       "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565623",
       "title": "경북 도, 포도 수출 '1억 달러 시대' 견인",
       "date": "Tue, 17 Nov 2026 21:24:00 +0900"
+    },
+    {
+      "url": "https://www.ekn.kr/web/view.php?key=20261118027461227",
+      "title": "에스엘 , 원재료 가격 상승에 수익성 부담…목표가 하향 [NH투자증권]",
+      "date": "Wed, 18 Nov 2026 09:00:00 +0900"
+    },
+    {
+      "url": "https://www.imaeil.com/page/view/2026111714350829865",
+      "title": "경북 도, 식품안전정보원과 손잡고 ' 경북 K-푸드 수출, 해외 규제 대응 강...",
+      "date": "Wed, 18 Nov 2026 08:53:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZk9xWWlNVy1wMjJjTnVNeXN5Z0pEVGZCNVpnRkQyakdqNkNWa1VfYmMyWGJpRjFNVllWbkpGWXRheHVoS3dpaVVpNHJ2WjFuc1Bnd1g0UHo1cXRtVXpScVpn?oc=5",
+      "title": "경북도, 식품안전정보원과 손잡고 `경북 K-푸드 수출, 해외 규제 대응 강화` - 매일신문",
+      "date": "Tue, 17 Nov 2026 23:52:26 GMT"
+    },
+    {
+      "url": "https://www.ajunews.com/view/20261118085019012",
+      "title": "NH證 \" 에스엘 , 전자 소재 가격 상승에 실적 전망 하향…목표가↓\"",
+      "date": "Wed, 18 Nov 2026 08:52:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRX1ZaYklCejAtUnN6SFdlUm01Y3J5YzdsdXphaGhPN0Y5YUdDbmdjVVRzYzlZSUJ2MTdiaE9jRkM3WklmS1dTTHkyd0xCQ2E4UXRHZ2xFRnE4Z9IBWEFVX3lxTE9neEhfaVA0VDZFVGUwcEplcGQ3S2ZZR3FjRWtLWUNSQk5Cd3pFRDFtbHFtY3pjZm1hZjJ0a1d0UUo2WTM1dG5fQWJfNE56VVpVcDNJTG5CTVE?oc=5",
+      "title": "NH證 에스엘, 전자 소재 가격 상승에 실적 전망 하향…목표가↓ - 아주경제",
+      "date": "Tue, 17 Nov 2026 23:51:31 GMT"
+    },
+    {
+      "url": "https://www.eroun.net/news/articleView.html?idxno=95745",
+      "title": "대구시, 대형건설사·지역업체 매칭 교류회 개최...하도급 수주 지원",
+      "date": "Wed, 18 Nov 2026 08:50:00 +0900"
+    },
+    {
+      "url": "http://www.metroseoul.co.kr/article/20261117500546",
+      "title": "구미 시, 대한민국역사박물관과 구미 산업화역사관 건립 협력",
+      "date": "Wed, 18 Nov 2026 08:44:00 +0900"
     }
   ],
   "brief_articles": [
@@ -10548,7 +10623,8 @@
     "2026-11-14": 1,
     "2026-11-15": 3,
     "2026-11-16": 7,
-    "2026-11-17": 6
+    "2026-11-17": 6,
+    "2026-11-18": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
