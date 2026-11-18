@@ -1,9 +1,5 @@
 {
   "sent": {
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=767618": "2026-11-04T20:01:58.363987+09:00",
-    "http://news.ebs.co.kr/ebsnews/allView/60786641/N": "2026-11-04T20:01:58.363987+09:00",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KaEhTMThic0RRajFFdUJBM3FaLUJnQS1DRjMwbG12NG5ydGZ5Z0w2TEZLa2FaTVg1RUtKMkJsSWdCQ2RrbmN4aFNKdGhjbEFyWWI1Q3RENU15VklPYmV1ZF9ERVU2amFlTmw0YXBLQzlKSjQ?oc=5": "2026-11-04T20:01:58.363987+09:00",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wRlh2QUw5VFhTcVJoVlZzYlJsNE8zWFVBdzU4UE5EZkpoSFpkemhpRVpKcnRZcXJpWm1oVHA2V0hJRlJyZ0Nudk9pTmZPODZ3RV9kRExvQ3JsTklMdm1DZlpfc1M2bFgxM3hjSQ?oc=5": "2026-11-04T20:01:58.363987+09:00",
     "https://www.taxtimes.co.kr/news/article.html?no=277611": "2026-11-04T21:02:00.434584+09:00",
     "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver": "2026-11-04T21:02:00.434584+09:00",
     "https://www.m-i.kr/news/articleView.html?idxno=2014607": "2026-11-04T21:02:00.434584+09:00",
@@ -1023,13 +1019,12 @@
     "https://www.munhwa.com/article/11632357?ref=naver": "2026-11-18T19:07:03.031615+09:00",
     "http://www.ttlnews.com/news/articleView.html?idxno=3163951": "2026-11-18T19:07:03.031615+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091339": "2026-11-18T20:09:06.305745+09:00",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3756258": "2026-11-18T20:09:06.305745+09:00"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3756258": "2026-11-18T20:09:06.305745+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=630181": "2026-11-18T21:09:04.234023+09:00",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205499&mode=view": "2026-11-18T21:09:04.234023+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346": "2026-11-18T21:09:04.234023+09:00"
   },
   "titles": {
-    "3ca66d98793e74b104616606ee2a8432c2bc88c2895b81e4c22d46aa339b2b0a": "2026-11-04T20:01:58.363987+09:00",
-    "95aba2c86e2185805cdc89d0e6bece1da9a324ebdd70ccd242b8958be0272724": "2026-11-04T20:01:58.363987+09:00",
-    "fed81e1bbc7b07ffb6db059078adda99064e0dacb155a08d48b973ed5b54b715": "2026-11-04T20:01:58.363987+09:00",
-    "21c2febc289857736278f1be2b9990970cffe503d1ba7c1d97d8454be32fe6e0": "2026-11-04T20:01:58.363987+09:00",
     "7300cef7efaede99f6743329bcbe2f432aad4b7b3d528ca818d79483dddfc883": "2026-11-04T21:02:00.434584+09:00",
     "79f911a2d6914e7686ea54c6bb968b3cbc04a49b25578ecbc688d6b252d9618c": "2026-11-04T21:02:00.434584+09:00",
     "30d73a3444db2e4925ec2d3c71ea5fd83674fc591c5e6258122daf63fb4e9c9b": "2026-11-04T21:02:00.434584+09:00",
@@ -2049,7 +2044,10 @@
     "0d520671d172d27b3194b60b4b9d93462bbc42f62d1e8d8dfa237a9e1b22c49a": "2026-11-18T19:07:03.031615+09:00",
     "21224e726fbaa27b060ed39e03d7cb72ca0b5ea76173670b16e51e91ca688c87": "2026-11-18T19:07:03.031615+09:00",
     "9e80494a2a606aa30c7f479b9f229fab36c92d5e37dbf4e2753b0b88e00be470": "2026-11-18T20:09:06.305745+09:00",
-    "6bfc45bdb6c076de339891321917bc91e4c9373ed4f379370a5382fded7bf937": "2026-11-18T20:09:06.305745+09:00"
+    "6bfc45bdb6c076de339891321917bc91e4c9373ed4f379370a5382fded7bf937": "2026-11-18T20:09:06.305745+09:00",
+    "3f0c7b219490c199f024b2d08024188771645ea58fcb1ae777e5f4b6dcd4eba1": "2026-11-18T21:09:04.234023+09:00",
+    "ddc97a8857d1691ea022f231d378f79ec3fb68e484e273f9cd17bcf94635ac7c": "2026-11-18T21:09:04.234023+09:00",
+    "73dc2fbdc7bd62908db4e8c56a27e2da6bba07f3a925a68cc4fa158d3dd0313f": "2026-11-18T21:09:04.234023+09:00"
   },
   "pending": {},
   "ai": {
@@ -2064,71 +2062,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205456&mode=view": {
-      "title": "울릉군·공항공사, 울릉공항 직원사택 진입로 신설 합의",
-      "summary": "5억원으로, 경북 도는 행정지원, 울릉군은 토지매입비, 한국공항공사는 공사비를 맡기로 했습니다. 공항공사는 오는 2029년 공항 개항에 맞춰 울릉읍 사동리에 120가구 규모의 직원사택을 건립 할 예정이었지만, 부지와...",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205456&mode=view",
-      "date": "Mon, 16 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.ksmnews.co.kr/news/view.php?idx=629932": {
-      "title": "포스코 노조, 포항의 미래와 기업의 생존도 생각해야",
-      "summary": "포스코 노사 갈등이 장기화 조짐을 보이면서 포항 지역사회에 위기감이 커지고 있다. 임금협상 잠정합의안이... 지역경제의 버팀목인 포스코 의 노사 갈등을 더 이상 기업 내부의 문제로만 방치할 수 없다는 절박함...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=629932",
-      "date": "Mon, 16 Nov 2026 20:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://m.skyedaily.com/news_view.html?ID=314725": {
-      "title": "배임죄 폐지된다면, 한화 김승현·CJ 이재현·롯데 신동빈 모두 '처벌 피...",
-      "summary": "MP, 포스코 등 11개 기업 및 기업집단 수장들의 배임 사건을 살펴보고, 배임죄 폐지 주장의 타당성을 검토하는... 최정우 포스코 전 회장 사건(계열사 명의 차량을 사적으로 유용하거나 회사 운전기사에게 배우자의 수행을...",
-      "url": "https://m.skyedaily.com/news_view.html?ID=314725",
-      "date": "Mon, 16 Nov 2026 20:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBanhVcUJ0NzBUQmFtQ3Q4YWxhZGFCVW9uSmJ5aDhjUldqUTNSUk1wVUJFbjB6bXdyN2k0LWNQOTdFZFRpZEtDdVNhRlpTaDdjTjBVQ3lLN0M0Z21ZaGh6QW1LSm5Vd2JYR2hmdmpB?oc=5": {
-      "title": "경산시 무역사절단, 중국·인도서 8,490만 달러 수출상담…해외시장 공략 성과 - 폴리뉴스 Polinews",
-      "summary": "경산시 무역사절단, 중국·인도서 8,490만 달러 수출상담…해외시장 공략 성과 폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBanhVcUJ0NzBUQmFtQ3Q4YWxhZGFCVW9uSmJ5aDhjUldqUTNSUk1wVUJFbjB6bXdyN2k0LWNQOTdFZFRpZEtDdVNhRlpTaDdjTjBVQ3lLN0M0Z21ZaGh6QW1LSm5Vd2JYR2hmdmpB?oc=5",
-      "date": "Mon, 16 Nov 2026 11:10:44 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcWV0dldlTjEyaTBoR05rdjZvZTd1THlPMndHU3dQZ01IakpfQ2VtcVNrNXFycGQzWFFXUnh5NDNsVzFlUlgybXNoTEI4N3Y0M0xaTmZKb3o2cnZuTkpyeFFMdTE0R0g2U1E?oc=5": {
-      "title": "“대구 노후 상수도관 정비 실적 지지부진” - www.hidomin.com",
-      "summary": "“대구 노후 상수도관 정비 실적 지지부진” www.hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcWV0dldlTjEyaTBoR05rdjZvZTd1THlPMndHU3dQZ01IakpfQ2VtcVNrNXFycGQzWFFXUnh5NDNsVzFlUlgybXNoTEI4N3Y0M0xaTmZKb3o2cnZuTkpyeFFMdTE0R0g2U1E?oc=5",
-      "date": "Mon, 16 Nov 2026 11:05:57 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=565504": {
       "title": "\"대구시·경북도 지방비 선투입 토지 보상부터\"",
       "summary": "반면 포스코 이앤씨 정재훈 부장과 현대건설 조관희 팀장은 건설경기 악화와 PF 발행 한계 등을 들어 현 구조에서는 SPC 구성이 현실적으로 어렵다는 냉정한 진단을 내놓았다.",
@@ -5577,6 +5510,45 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346": {
+      "title": "포항시 수출지원센터, 지역 6개 기업 화상 수출상담 성과 점검",
+      "summary": "이날 보고회에는 △경도공업 △ 대동 △엠에스파이프 △제일연마공업 △충주건축자재 △한금 등 모두 6개 기업이 참여한 가운데 용역수행사의 사업 추진 결과 발표 및 참여기업별 상담 추진 현황과 주요 성과·사업 운영...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346",
+      "date": "Wed, 18 Nov 2026 20:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=630181": {
+      "title": "포항 영일대에 28층 ‘4성급 특급호텔’ 건립 본격화",
+      "summary": "6%를 적용해 지하 4층~지상 최고 49층 규모의 복합시설을 건립 할 계획이다. 공사비를 포함한 총사업비는 3772억원 규모다. 포항 시는 기존 공영주차장을 대체하기 위해 별도 부지에 약 250면 규모의 공영주차장을 조성해...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630181",
+      "date": "Wed, 18 Nov 2026 21:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205499&mode=view": {
+      "title": "임금 체불하고 수사 불응한 사업주 체포",
+      "summary": "불응한 울진의 건설업체 대표 60대 남성을 자택에서 체포했다고 밝혔습니다. 이 사업주는 조사 과정에서 임금 체불 사실을 모두 인정했으며, 포항 지청은 수사를 마무리하는 대로 근로기준법 위반 혐의 로 송치할 예정입니다.",
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205499&mode=view",
+      "date": "Wed, 18 Nov 2026 20:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5608,31 +5580,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-18",
   "sent_articles": [
-    {
-      "url": "https://www.taxtimes.co.kr/news/article.html?no=277611",
-      "title": "국세청 , 11월 하반기 서기관 승진 인사 어렵다",
-      "date": "Wed, 04 Nov 2026 20:02:00 +0900"
-    },
-    {
-      "url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver",
-      "title": "경북 도의회, 국립경국대학교 의과대학 신설 쾌거… “260만 도민과 함께...",
-      "date": "Wed, 04 Nov 2026 20:32:00 +0900"
-    },
-    {
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2014607",
-      "title": "금속노조, 포스코 에 특별승호 교섭 경위 공개 요구",
-      "date": "Wed, 04 Nov 2026 20:30:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5",
-      "title": "포스코 특별승호 적용 범위 논란…금속노조, 교섭 경위 공개 요구 - 매일일보",
-      "date": "Wed, 04 Nov 2026 11:28:41 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5",
-      "title": "포스코퓨처엠, 현대자동차그룹과 인조흑연 음극재 '맞손'…베트남 투자 가속화 - 마일드경제",
-      "date": "Wed, 04 Nov 2026 11:18:04 GMT"
-    },
     {
       "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564473",
       "title": "국립경국대 의대 신설…경북 45년 숙원 풀었다",
@@ -10707,6 +10654,21 @@
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756258",
       "title": "문경시, ㈜문경약돌온천과 관광호텔 신축 MOU …420억원 투입",
       "date": "Wed, 18 Nov 2026 19:02:00 +0900"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630181",
+      "title": "포항 영일대에 28층 ‘4성급 특급호텔’ 건립 본격화",
+      "date": "Wed, 18 Nov 2026 21:00:00 +0900"
+    },
+    {
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205499&mode=view",
+      "title": "임금 체불하고 수사 불응한 사업주 체포",
+      "date": "Wed, 18 Nov 2026 20:42:00 +0900"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346",
+      "title": "포항시 수출지원센터, 지역 6개 기업 화상 수출상담 성과 점검",
+      "date": "Wed, 18 Nov 2026 20:22:00 +0900"
     }
   ],
   "brief_articles": [
