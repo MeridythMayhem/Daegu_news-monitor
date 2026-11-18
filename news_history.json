@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5": "2026-11-04T23:01:54.291194+09:00",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=314672": "2026-11-05T09:01:57.509755+09:00",
     "https://www.mhns.co.kr/news/articleView.html?idxno=767641": "2026-11-05T09:01:57.509755+09:00",
     "https://kpenews.com/View.aspx?No=4298352": "2026-11-05T09:01:57.509755+09:00",
@@ -1021,7 +1020,6 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3756274": "2026-11-18T22:09:18.176090+09:00"
   },
   "titles": {
-    "bfde507a6b2be4d1c1e37740d64fc8088382739b2f810288ac70b67ca291b2fc": "2026-11-04T23:01:54.291194+09:00",
     "e3d09a5e13faba6f496df557ec0882a1073e309e380814c7e6f0469f62e99aac": "2026-11-05T09:01:57.509755+09:00",
     "77851a438ec3b600f564267d5edd92cfc4ba749842257a0a4f61ca985a306f51": "2026-11-05T09:01:57.509755+09:00",
     "8e889e0ff3709dee78456a624d5a55c17e196d7e93b476b0cf1bf7754b34a104": "2026-11-05T09:01:57.509755+09:00",
@@ -2043,7 +2041,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-11": 15,
     "2026-11-12": 20,
     "2026-11-13": 26,
     "2026-11-14": 1,
@@ -2054,149 +2051,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://daily.hankooki.com/news/articleView.html?idxno=1425704": {
-      "title": "경산시, 중국·인도 무역사절단 '8490만 달러' 수출상담",
-      "summary": "사진=경산시 제공 경북 경산시는 지난 8일부터 14일까지 중국 상하이와 인도 뉴델리에서 수출 상담회를... 업무협약( MOU )도 13건, 282만 달러 규모로 맺었다. 상하이에서는 식품기업들이 현지 업체와 가공기술 협력 방안을...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1425704",
-      "date": "Tue, 17 Nov 2026 07:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.etnews.com/20261116000015": {
-      "title": "대구 경북 경자청, 올해 FDI 유치 '낙제점'…실종된 투자 유치 전략",
-      "summary": "대구 경북 경제자유구역청(이하 대경경자청)의 외국인직접 투자 (FDI) 성적표가 초라한 수준이다. 올해 유치... 외국 투자 유치 업무 협약 (MOU)이 실제 투자 로 이어지지 못하고, 2025년부터 이어진 실적 가뭄은 고착화되는...",
-      "url": "https://www.etnews.com/20261116000015",
-      "date": "Tue, 17 Nov 2026 05:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.segye.com/newsView/20261116514078?OutUrl=naver": {
-      "title": "경북 , 울릉공항 사택 건립 길 열려",
-      "summary": "도는 13일 건립 현장을 찾아 주민들과 의견을 나누고 주민 피해를 최소화하면서 공사를 조기에 마무리하기로 했다. 울릉공항 공정률은 이달 10일 기준 83%이다. 경북 도는 여객과 차량이 이동하는 랜드사이드 공사의 조기...",
-      "url": "https://www.segye.com/newsView/20261116514078?OutUrl=naver",
-      "date": "Tue, 17 Nov 2026 06:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.segye.com/newsView/20261116518080?OutUrl=naver": {
-      "title": "경주 투자 유치단, 美 수출·관광 협력망 확대…성과 연계",
-      "summary": "주낙영 시장 등 앨라배마·조지아·뉴욕·뉴저지 잇따라 방문 경북 경주시는 주낙영 시장을 단장으로 한... 주낙영 경주시장은 \"미국 현지에서 맺은 업무 협약 이 투자 ·수출·관광 분야 실질적 성과로 이어질 수 있게...",
-      "url": "https://www.segye.com/newsView/20261116518080?OutUrl=naver",
-      "date": "Mon, 16 Nov 2026 23:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kmib.co.kr/article/20261116501815": {
-      "title": "대구 수성못에 1000석 규모 수상공연장 건립",
-      "summary": "대구 시와 수성구가 수성못 수상공연장(조감도) 건립 에 힘을 모으기로 했다. 대구 시와 수성구는 16일 시청 동인청사에서 ‘수성못 수상공연장 조성을 위한 시유지 사용 및 영구시설물 축조’ 합의서에 서명했다. 추경호...",
-      "url": "https://www.kmib.co.kr/article/20261116501815",
-      "date": "Tue, 17 Nov 2026 00:07:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.topstarnews.net/news/articleView.html?idxno=16278193": {
-      "title": "에코프로 에이치엔, 200억원 규모 온실가스 저감 설비 공급 계약 체결",
-      "summary": "에코프로 에이치엔(383310)이 온실가스 저감 설비 공급 계약을 체결했다. 계약금액은 20,020,925,574원으로, 회사의 2025년 사업보고서 기준 연결 매출액 141,057,118,027원의 14.2%에 해당한다. 한국거래소 공시에...",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16278193",
-      "date": "Tue, 17 Nov 2026 00:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 시설 투자/계약",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.youthdaily.co.kr/news/article.html?no=229881": {
-      "title": "순차입금 4조원 감소의 '민낯'… 포스코 홀딩스, 자회사 지분 매각분 빼면...",
-      "summary": "순차입금 4조2천690억 감소…약 59%가 지회사 지분 판 돈 영업현금은 설비투자의 약 54%…부족분은 사채·장기차입 PRS 정산 부담 약 2천억… 포스코 인터 기준가 '밑돌아' 【 청년일보 】 포스코 홀딩스가 올해 3분기(7...",
-      "url": "https://www.youthdaily.co.kr/news/article.html?no=229881",
-      "date": "Tue, 17 Nov 2026 08:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 17
-    },
-    "https://www.sedaily.com/article/20115105?ref=naver": {
-      "title": "美 블루웨이브에도… 포스코 인터 대표 “알래스카 LNG 투자 계속”",
-      "summary": "이계인 포스코 인터내셔널 대표이사가 미국 중간선거에서 나타난 ‘블루웨이브(민주당 압승)’에도... 미국 중간선거 이후 포스코 그룹 경영진 중 알래스카 LNG 사업에 관한 추가 입장을 내놓은 것은 이 대표가...",
-      "url": "https://www.sedaily.com/article/20115105?ref=naver",
-      "date": "Tue, 17 Nov 2026 05:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.sedaily.com/article/20115098?ref=naver": {
-      "title": "포스코 노조, 오늘 상경 투쟁…갈등 해 넘기나",
-      "summary": "포항 ·광양 제철소 에서는 간부와 대의원을 중심으로 출근 선전전을 벌였고, 16일 전 조합원 대상 선전전도 진행됐다. 일각에서는 임단협이 해를 넘길 수 있다는 관측도 제기된다. 회사 측이 추가 제시안은 없다는 입장을...",
-      "url": "https://www.sedaily.com/article/20115098?ref=naver",
-      "date": "Tue, 17 Nov 2026 05:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "http://sateconomy.co.kr/news/view/1065623744440254": {
-      "title": "포스코 베트남, EU 냉연강판 반덤핑관세 16% 확정…유럽 수출 부담 현실...",
-      "summary": "▲ 포스코 그룹 전경 [ 포스코 그룹] 유럽연합(EU)이 포스코 의 베트남 생산법인에 적용되는 냉연강판 반덤핑관세를 확정했다. 베트남을 해외 철강 생산·수출 거점으로 활용하는 포스코 의 유럽 시장 가격 경쟁력에도...",
-      "url": "http://sateconomy.co.kr/news/view/1065623744440254",
-      "date": "Mon, 16 Nov 2026 23:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yOGR3a25rNEZoVmtvci1WUEtnZXV4M1BYMWVnSnFnem4zdTFEWGJLQkUzN0xmTVhtVi04TnlydHQ5clgxTENBZ0RyQXdpRWlBTGlCLWVyUWlycjRLcnc?oc=5": {
-      "title": "구미 국가제1산업단지, 반세기 만에 미래 전략산업과 문화 재생 중심지로 변모 - 구미일보",
-      "summary": "구미 국가제1산업단지, 반세기 만에 미래 전략산업과 문화 재생 중심지로 변모 구미일보",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yOGR3a25rNEZoVmtvci1WUEtnZXV4M1BYMWVnSnFnem4zdTFEWGJLQkUzN0xmTVhtVi04TnlydHQ5clgxTENBZ0RyQXdpRWlBTGlCLWVyUWlycjRLcnc?oc=5",
-      "date": "Mon, 16 Nov 2026 14:30:06 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://biz.heraldcorp.com/article/10939194?ref=naver": {
       "title": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 성과",
       "summary": "경북 경산시가 중국과 인도에 무역사절단을 파견해 8490만 달러 규모의 수출상담 실적을 거두며 지역... 업무협약( MOU ·282만 달러)을 체결했다. 이번 사절단에는 로봇, 산업용 기계 부품, 식품, 소비재 등 다양한 분야의...",
@@ -5554,36 +5408,119 @@
       "category": "세무 조사·혐의 관련",
       "priority": 100,
       "filter_version": 18
+    },
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=315709": {
+      "title": "경북 도, 3년간 AI 클라우드팜으로 173개 기업 지원·전문인력 996명 양성",
+      "summary": "도는 2024년부터 경산에 그래픽 처리 장치(GPU) 112장을 갖춘 대규모 클라우드팜을 구축하고, 포항·구미... 사업 수주 로 확산됐고, 구미전자정보기술원은 방산품 설계·유지보수 서비스 상용화에 성공했다. 경북 IT융합...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315709",
+      "date": "Thu, 19 Nov 2026 07:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.ferrotimes.com/news/articleView.html?idxno=51568": {
+      "title": "포스코 홀딩스, 사업회사 포스코 에 해외 철강사 지분 매각…2893억 규모",
+      "summary": "포스코 홀딩스가 보유한 해외 철강 관련 법인 2곳의 지분 전량을 사업회사 포스코 에 매각한다. 거래금액은 약 2893억 원 규모다. 이번 조치는 2022년 물적분할 이후 철강사업 관련 지분을 이전해...",
+      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51568",
+      "date": "Thu, 19 Nov 2026 07:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코, 포스코홀딩스",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.kpinews.kr/newsView/1065563623294594": {
+      "title": "현대제철· 포스코 루이지애나 제철소 부두 건설 저지 소송 기각돼",
+      "summary": "현대제철과 포스코 가 미국 루이지애나주에서 추진하고 있는 '현대제철· 포스코 루이지애나 전기로 제철소(이하 현대제철· 포스코 제철소)'용 강변 부두 건설을 막으려던 소송이 기각됐다. ▲ 현대제철· 포스코 루이지애나...",
+      "url": "https://www.kpinews.kr/newsView/1065563623294594",
+      "date": "Thu, 19 Nov 2026 07:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.the-today.com/news/articleView.html?idxno=93799": {
+      "title": "[속보] 현대제철· 포스코 美 제철소 부두 소송 각하…4억달러 채권 절차...",
+      "summary": "현대제철과 포스코 가 미국 루이지애나주에 건설하는 전기로 일관 제철소의 전용 부두 인프라 사업이... 리버플렉스 메가파크(Riverplex MegaPark) 산업단지와 현대- 포스코 합작 제철소를 지원하는 핵심 물류 거점으로...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=93799",
+      "date": "Thu, 19 Nov 2026 07:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768501": {
+      "title": "IT서비스 7사 3분기 성적표…현대오토에버 매출 16%↑, 포스코 DX 영업익...",
+      "summary": "반면 포스코 DX(대표 심민석)는 매출과 영업이익이 모두 줄었다. 삼성SDS(대표 이준희)는 일회성 비용... 포스코 DX는 유일하게 매출과 영업이익이 모두 감소했다.AI로 만든 이미지입니다. 3분기 누적 매출은 7393억...",
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768501",
+      "date": "Thu, 19 Nov 2026 06:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISX20261118_0003873479": {
+      "title": "8곳 두고 목동 수주전 2라운드…롯데· 포스코 ·현산 '사활'",
+      "summary": "포스코 이앤씨는 당초 4단지 시공사 입찰 현장설명회에 참여하며 수주 의지를 피력했으나 막상 입찰 마감시기가 다가오자 포기하고 1단지와 14단지에 역량을 집중하기로 내부 방침을 정한 것으로 알려졌다....",
+      "url": "https://www.newsis.com/view/NISX20261118_0003873479",
+      "date": "Thu, 19 Nov 2026 05:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.thedailypost.kr/news/articleView.html?idxno=117038": {
+      "title": "포스코 그룹, 세계 최대 배터리사 CATL과 리튬 장기공급계약…중국 내 판...",
+      "summary": "ㅣ데일리포스트=곽민구 기자ㅣ 포스코 그룹이 세계 전기차 배터리 시장 점유율 1위 기업인 중국 CATL과 리튬 장기공급계약을 체결하며 글로벌 이차전지 소재 시장에서의 영향력을 한층 확대했다. 포스코 그룹은 \"CATL과...",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117038",
+      "date": "Wed, 18 Nov 2026 23:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
-    "https://www.sejungilbo.com/news/articleView.html?idxno=61145": "2026-11-18T08:09:06.490362+09:00",
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1N2ZHbi1sQjJST3pKR1F2YlB4RzFlUFl5RDBhY1lwRTZ2bEpuQU8zM21mRkFhTUlPUXAwVXJWRVE2MGJUTGtMNTNET1hVS2ZXTm9PcllhbmtPWjExcWk0NXAwc3dJUUdpdEJDcA?oc=5": "2026-11-18T08:09:06.490362+09:00",
-    "https://www.news1.kr/industry/general-industry/6356692": "2026-11-18T08:09:06.490362+09:00",
-    "https://www.ekn.kr/web/view.php?key=20261118026391089": "2026-11-18T08:09:06.490362+09:00",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsZlc4VU5taTlJbTJiMVRNR244VVlfOE4wOWFBSGxldlRaTWdaZ0ROYlMwUUI4WWd5WGl6RWxPcFNaaHY1Z0JKTFk1d3I5WVlrdDA1QUl6cm0xa1pHTTg4bExR?oc=5": "2026-11-18T08:09:06.490362+09:00",
-    "https://www.gokorea.kr/news/articleView.html?idxno=886172": "2026-11-18T08:09:06.490362+09:00",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWXFwWW1VaERfeVpCcTEtZ1ZoRFMwc2NIaTdRMTk5S0Q2VUF6WDl1d2NnRURWeF9weW5ob29UZjdSVXVTMGFPU3ExcFJJNlVFOUpMQ09iWi05dUZUbHBxWVBxVVg5dw?oc=5": "2026-11-18T08:09:06.490362+09:00",
-    "https://www.vegannews.co.kr/news/article.html?no=406849": "2026-11-18T08:09:06.490362+09:00",
-    "https://www.ajunews.com/view/20261118003901652": "2026-11-18T08:09:06.490362+09:00",
-    "https://www.m-i.kr/news/articleView.html?idxno=2019844": "2026-11-18T08:09:06.490362+09:00",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084552": "2026-11-18T08:09:06.490362+09:00"
+    "http://www.ferrotimes.com/news/articleView.html?idxno=51568": "2026-11-19T08:09:36.350913+09:00",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=315709": "2026-11-19T08:09:36.350913+09:00",
+    "https://www.kpinews.kr/newsView/1065563623294594": "2026-11-19T08:09:36.350913+09:00",
+    "https://www.the-today.com/news/articleView.html?idxno=93799": "2026-11-19T08:09:36.350913+09:00",
+    "http://www.consumernews.co.kr/news/articleView.html?idxno=768501": "2026-11-19T08:09:36.350913+09:00",
+    "https://www.newsis.com/view/NISX20261118_0003873479": "2026-11-19T08:09:36.350913+09:00",
+    "https://www.thedailypost.kr/news/articleView.html?idxno=117038": "2026-11-19T08:09:36.350913+09:00"
   },
   "brief_titles": {
-    "6fa6d61a9041dbe26c410523130ab04c5759eb11dcdcd62f64bbe4203addd8a5": "2026-11-18T08:09:06.490362+09:00",
-    "7600dba7af22a9e345aec8af18d3cc8569e6cb3c157b6c5806cd8670987c3918": "2026-11-18T08:09:06.490362+09:00",
-    "54e1a63803c4f0deac119eceb8ee6dd7f4f4febd75eaf90405eb6a313ee9f279": "2026-11-18T08:09:06.490362+09:00",
-    "a604fbcc84d34d4f6e78cb290a1fde626c63204a8dbeef1c71292e930c2b69ca": "2026-11-18T08:09:06.490362+09:00",
-    "d8838493d3e784a12e6b165a6cade8126316b2d8b71927cf6e9dbc35d5166d57": "2026-11-18T08:09:06.490362+09:00",
-    "9f59cd2c62dd2b5e93384f9cc273047bd89eb5fc44570e92b87d9b5ea760cafd": "2026-11-18T08:09:06.490362+09:00",
-    "48ff74a0cbb61a14a4e895ef724e0d23453b065c5a013ef3f416299089906b17": "2026-11-18T08:09:06.490362+09:00",
-    "6160853aa85ad88fddfffdbd137dcb4724a903be2e62a8e84de1e3425f034aa6": "2026-11-18T08:09:06.490362+09:00",
-    "5143864285bae3da27540e924bee6fe29799f43318f5056680737d78c32a026c": "2026-11-18T08:09:06.490362+09:00",
-    "33570516a24e6a2e94ecf98ce7b48fb3797769cf85807dd26c2badc0f7a65583": "2026-11-18T08:09:06.490362+09:00",
-    "6e315060bf0de6164442f5d97ea305b4ac2750b37964ed366d48d2f1ea89436a": "2026-11-18T08:09:06.490362+09:00"
+    "b715690a3669e973c87ef9cc54a9d1080012f005e2ca1bc50f41c7cc1aa49d08": "2026-11-19T08:09:36.350913+09:00",
+    "88a2ad5805ff371c2a976c819358b189bcc0d4785456111862020c0f00f11577": "2026-11-19T08:09:36.350913+09:00",
+    "653c130bc7318953fcaf6dc3096eb0d1858608181c0f6c2b439d5c1bbb59750e": "2026-11-19T08:09:36.350913+09:00",
+    "fdc38b47433d7cad1f28248fd930324fd0efff977248187a299c9261f03840ac": "2026-11-19T08:09:36.350913+09:00",
+    "70175b965cdd6bf48f050640afd7a41eba7b7b0021077a09bc74ba23a83ba610": "2026-11-19T08:09:36.350913+09:00",
+    "d44b47286d3bf46b34a7570748b67ab8f8b0e96aba3101005057ee310d65150d": "2026-11-19T08:09:36.350913+09:00",
+    "2755c92db4546d42201e65f6062e5bead2c1784ee27b2772060792ac640a926e": "2026-11-19T08:09:36.350913+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-18",
+  "brief_date": "2026-11-19",
   "sent_articles": [
     {
       "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314672",
@@ -10678,63 +10615,42 @@
   ],
   "brief_articles": [
     {
-      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=61145",
-      "title": "4101억 탈세범 낙인 찍더니 유죄는 고작 2억?…\" 국세청 이 '선박왕'에 사...",
-      "date": "Wed, 18 Nov 2026 07:02:00 +0900"
+      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51568",
+      "title": "포스코 홀딩스, 사업회사 포스코 에 해외 철강사 지분 매각…2893억 규모",
+      "date": "Thu, 19 Nov 2026 07:52:00 +0900"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1N2ZHbi1sQjJST3pKR1F2YlB4RzFlUFl5RDBhY1lwRTZ2bEpuQU8zM21mRkFhTUlPUXAwVXJWRVE2MGJUTGtMNTNET1hVS2ZXTm9PcllhbmtPWjExcWk0NXAwc3dJUUdpdEJDcA?oc=5",
-      "title": "4101억 탈세범 낙인 찍더니 유죄는 고작 2억?…“국세청이 ‘선박왕’에 사과해야 할 7가지” - 세정일보",
-      "date": "Tue, 17 Nov 2026 22:00:17 GMT"
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315709",
+      "title": "경북 도, 3년간 AI 클라우드팜으로 173개 기업 지원·전문인력 996명 양성",
+      "date": "Thu, 19 Nov 2026 07:38:00 +0900"
     },
     {
-      "url": "https://www.news1.kr/industry/general-industry/6356692",
-      "title": "[단독] \"전복 보호구조물 균열 현상\"… 대동 , 호주서 건설장비 리콜",
-      "date": "Wed, 18 Nov 2026 06:10:00 +0900"
+      "url": "https://www.kpinews.kr/newsView/1065563623294594",
+      "title": "현대제철· 포스코 루이지애나 제철소 부두 건설 저지 소송 기각돼",
+      "date": "Thu, 19 Nov 2026 07:01:00 +0900"
     },
     {
-      "url": "https://www.ekn.kr/web/view.php?key=20261118026391089",
-      "title": "구미 산업화 50년 역사, 국가 유산으로 남긴다…‘산업화역사관’ 건립...",
-      "date": "Wed, 18 Nov 2026 08:00:00 +0900"
+      "url": "https://www.the-today.com/news/articleView.html?idxno=93799",
+      "title": "[속보] 현대제철· 포스코 美 제철소 부두 소송 각하…4억달러 채권 절차...",
+      "date": "Thu, 19 Nov 2026 07:00:00 +0900"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsZlc4VU5taTlJbTJiMVRNR244VVlfOE4wOWFBSGxldlRaTWdaZ0ROYlMwUUI4WWd5WGl6RWxPcFNaaHY1Z0JKTFk1d3I5WVlrdDA1QUl6cm0xa1pHTTg4bExR?oc=5",
-      "title": "구미 산업화 50년 역사, 국가 유산으로 남긴다…‘산업화역사관’ 건립 시동 - 에너지경제신문",
-      "date": "Tue, 17 Nov 2026 22:58:40 GMT"
+      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768501",
+      "title": "IT서비스 7사 3분기 성적표…현대오토에버 매출 16%↑, 포스코 DX 영업익...",
+      "date": "Thu, 19 Nov 2026 06:10:00 +0900"
     },
     {
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=886172",
-      "title": "대형 건설사와 손잡고 지역 경제 부흥 노린다: 대구시의 파격적인 건설...",
-      "date": "Wed, 18 Nov 2026 07:20:00 +0900"
+      "url": "https://www.newsis.com/view/NISX20261118_0003873479",
+      "title": "8곳 두고 목동 수주전 2라운드…롯데· 포스코 ·현산 '사활'",
+      "date": "Thu, 19 Nov 2026 05:30:00 +0900"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWXFwWW1VaERfeVpCcTEtZ1ZoRFMwc2NIaTdRMTk5S0Q2VUF6WDl1d2NnRURWeF9weW5ob29UZjdSVXVTMGFPU3ExcFJJNlVFOUpMQ09iWi05dUZUbHBxWVBxVVg5dw?oc=5",
-      "title": "구미시-대한민국역사박물관, '구미산업화역사관 건립' 위해 손잡았다 - 포커스데일리",
-      "date": "Tue, 17 Nov 2026 21:45:25 GMT"
-    },
-    {
-      "url": "https://www.vegannews.co.kr/news/article.html?no=406849",
-      "title": "대동 스틸 3분기 영업이익 9억9000만원 흑자 전환",
-      "date": "Wed, 18 Nov 2026 05:36:00 +0900"
-    },
-    {
-      "url": "https://www.ajunews.com/view/20261118003901652",
-      "title": "경북 포도 수출 1억 달러 시대…전국 수출액 80.5% 차지",
-      "date": "Wed, 18 Nov 2026 05:02:00 +0900"
-    },
-    {
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2019844",
-      "title": "구미 시·대한민국역사박물관, 구미 산업화역사관 건립 위한 업무협약",
-      "date": "Wed, 18 Nov 2026 04:40:00 +0900"
-    },
-    {
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084552",
-      "title": "포스코 이희근, 노조 상경투쟁에 '긴급 대화' 제안…임금협상 물꼬 트나",
-      "date": "Tue, 17 Nov 2026 23:06:00 +0900"
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117038",
+      "title": "포스코 그룹, 세계 최대 배터리사 CATL과 리튬 장기공급계약…중국 내 판...",
+      "date": "Wed, 18 Nov 2026 23:26:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-11-11": 11,
     "2026-11-12": 13,
     "2026-11-13": 14,
     "2026-11-14": 1,
