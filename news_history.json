@@ -1,10 +1,5 @@
 {
   "sent": {
-    "https://www.taxtimes.co.kr/news/article.html?no=277611": "2026-11-04T21:02:00.434584+09:00",
-    "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/04/20261104500357?wlog_tag3=naver": "2026-11-04T21:02:00.434584+09:00",
-    "https://www.m-i.kr/news/articleView.html?idxno=2014607": "2026-11-04T21:02:00.434584+09:00",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWE43Y05FTm82NTBnRU5FenFBdHBzUHFoUTIzb2xUYnJ5N29HeTlHN3hsdzZuSl9VUklLMlBwLW9tVHJzNzBhTEQ5dFU2UUV6eXRvM2MtRmstZmNNN3VGMEdGVVg?oc=5": "2026-11-04T21:02:00.434584+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9peVdpcjhOLU1xWmNlWEJSdkFVeUk3M3puZW5LOHY2d3JSX0N1ajBqNUQ3VmtuckpCWmFtVmtjck1QdnBuR2tjdWR0ZUZhQlBycUEzWE5vT0h0TmdnYzNCZTNSS3VEY1Q2WVlN?oc=5": "2026-11-04T21:02:00.434584+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564473": "2026-11-04T22:01:58.016206+09:00",
     "http://www.e-platform.net/news/articleView.html?idxno=106714": "2026-11-04T22:01:58.016206+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628424": "2026-11-04T22:01:58.016206+09:00",
@@ -1022,14 +1017,13 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3756258": "2026-11-18T20:09:06.305745+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=630181": "2026-11-18T21:09:04.234023+09:00",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=205499&mode=view": "2026-11-18T21:09:04.234023+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346": "2026-11-18T21:09:04.234023+09:00"
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346": "2026-11-18T21:09:04.234023+09:00",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=565807": "2026-11-18T22:09:18.176090+09:00",
+    "https://www.insight.co.kr/news/582640": "2026-11-18T22:09:18.176090+09:00",
+    "https://www.farminsight.net/news/articleView.html?idxno=17231": "2026-11-18T22:09:18.176090+09:00",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3756274": "2026-11-18T22:09:18.176090+09:00"
   },
   "titles": {
-    "7300cef7efaede99f6743329bcbe2f432aad4b7b3d528ca818d79483dddfc883": "2026-11-04T21:02:00.434584+09:00",
-    "79f911a2d6914e7686ea54c6bb968b3cbc04a49b25578ecbc688d6b252d9618c": "2026-11-04T21:02:00.434584+09:00",
-    "30d73a3444db2e4925ec2d3c71ea5fd83674fc591c5e6258122daf63fb4e9c9b": "2026-11-04T21:02:00.434584+09:00",
-    "1d1c95036929ec0d2e146eb879bd9225c7b7c94dddfae447b01156d350590710": "2026-11-04T21:02:00.434584+09:00",
-    "cd3cff99ea317b5f668bb14115600302ef2143693268bcde86ba7dddd0a47e8e": "2026-11-04T21:02:00.434584+09:00",
     "69211c7a0983772be495ce6b6562309addec02fcb9adff671784c408a771bc4f": "2026-11-04T22:01:58.016206+09:00",
     "1c380f8068314a921dffb98c95de2b07e90e3a2a3919d0dc5ea9a16390297d56": "2026-11-04T22:01:58.016206+09:00",
     "b1633df162d99baa78648c36799259c777e77cb40bbc3a98a50647f2f8261578": "2026-11-04T22:01:58.016206+09:00",
@@ -2047,7 +2041,11 @@
     "6bfc45bdb6c076de339891321917bc91e4c9373ed4f379370a5382fded7bf937": "2026-11-18T20:09:06.305745+09:00",
     "3f0c7b219490c199f024b2d08024188771645ea58fcb1ae777e5f4b6dcd4eba1": "2026-11-18T21:09:04.234023+09:00",
     "ddc97a8857d1691ea022f231d378f79ec3fb68e484e273f9cd17bcf94635ac7c": "2026-11-18T21:09:04.234023+09:00",
-    "73dc2fbdc7bd62908db4e8c56a27e2da6bba07f3a925a68cc4fa158d3dd0313f": "2026-11-18T21:09:04.234023+09:00"
+    "73dc2fbdc7bd62908db4e8c56a27e2da6bba07f3a925a68cc4fa158d3dd0313f": "2026-11-18T21:09:04.234023+09:00",
+    "0131a4c60361c3d5faf1b07189bd7bec25dabfb293270569ababc254ebe5c0bf": "2026-11-18T22:09:18.176090+09:00",
+    "98ff1957ae23db309496cbcba954ab1ca898f2266ac7855f6138c2272a90ed81": "2026-11-18T22:09:18.176090+09:00",
+    "dee92b87974efe24b0a5b3d2719ac41862550e88aa459c36e2afa16277a3c37e": "2026-11-18T22:09:18.176090+09:00",
+    "f35b22ad38e052b77c428fa09d9e6765e908b79b5eaa52ebaf3420a4578c7e8b": "2026-11-18T22:09:18.176090+09:00"
   },
   "pending": {},
   "ai": {
@@ -2062,19 +2060,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565504": {
-      "title": "\"대구시·경북도 지방비 선투입 토지 보상부터\"",
-      "summary": "반면 포스코 이앤씨 정재훈 부장과 현대건설 조관희 팀장은 건설경기 악화와 PF 발행 한계 등을 들어 현 구조에서는 SPC 구성이 현실적으로 어렵다는 냉정한 진단을 내놓았다.",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565504",
-      "date": "Mon, 16 Nov 2026 21:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "http://www.yonhapnewstv.co.kr/news/MYH20261116221138b7z": {
       "title": "이 대통령, 법무장관· 국세청 장 인사 청문요청안 재가",
       "summary": "아세안 정상회의 참석차 필리핀을 방문 중인 이재명 대통령이 이용철 법무부 장관 후보자와 안덕수 국세청 장 후보자에 대한 인사 청문요청안을 재가했습니다. 강유정 청와대 수석대변인은 오늘(16일) 언론 공지를 통해...",
@@ -5549,6 +5534,58 @@
       "category": "세무 조사·혐의 관련",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3756274": {
+      "title": "\"K-푸드·뷰티 열풍 통했다\"… 경북 도, 수출상담회서 476만 달러 성과",
+      "summary": "업무협약( MOU ) 10건도 체결됐다. 주요 협약은 상주 다정다감푸드 농업회사법인(곶감)과 뉴질랜드 F사, 성주 ㈜알알이푸드(된장·고추장)와 러시아 R사, 경산 ㈜넥타홀딩스(커피)와 일본 A사 등이다. 경북 도는 이번...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756274",
+      "date": "Wed, 18 Nov 2026 21:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.farminsight.net/news/articleView.html?idxno=17231": {
+      "title": "대구 경북한우협회 \"민경천 위원장, 자녀 특혜채용 책임지고 즉각 사퇴하...",
+      "summary": "전국한우협회 대구 경북도지회(도지회장 장성대)가 민경천 한우자조금관리위원장의 자녀 특혜 채용 의혹 을 강하게 규탄하며 즉각적인 사퇴를 촉구하고 나섰다. 대구 경북도지회는 지난 11월 18일 안동 농업인회관에서...",
+      "url": "https://www.farminsight.net/news/articleView.html?idxno=17231",
+      "date": "Wed, 18 Nov 2026 21:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=565807": {
+      "title": "출근 안 한 친형에 '억대 급여' ... 경주 아스콘사 대표 배임 의혹",
+      "summary": "18일 본지가 입수한 자료에 따르면 황모(전 대표의 지인) 씨는 지난달 경주 A사 이모 대표에게 보낸 문서에서 이 대표를 업무상 배임 등의 혐의로 형사 고발하겠다고 통보했다. 황씨는 이 대표가 취임한 이후 이 대표의 친형...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565807",
+      "date": "Wed, 18 Nov 2026 21:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.insight.co.kr/news/582640": {
+      "title": "술 취해 여성 사택 침입한 한수원 20대 직원 경찰에 체포",
+      "summary": "한국수력원자력 한울원자력본부 20대 남성 직원이 술에 취한 채 여성 동료의 사택에 무단 침입했다가 경찰에 체포되는 사건이 발생했다. 18일 국회 산업통상자원중소벤처기업위원회 김성원 위원장이 한수원으로부터...",
+      "url": "https://www.insight.co.kr/news/582640",
+      "date": "Wed, 18 Nov 2026 21:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5580,21 +5617,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-18",
   "sent_articles": [
-    {
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564473",
-      "title": "국립경국대 의대 신설…경북 45년 숙원 풀었다",
-      "date": "Wed, 04 Nov 2026 21:54:00 +0900"
-    },
-    {
-      "url": "http://www.e-platform.net/news/articleView.html?idxno=106714",
-      "title": "한수원, 시뮬레이터 활용 원자로 조종사 원자로 조종사 위기 대응 능력...",
-      "date": "Wed, 04 Nov 2026 21:52:00 +0900"
-    },
-    {
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628424",
-      "title": "경북 국립의대 신설, 유치보다 성공이 더 중요",
-      "date": "Wed, 04 Nov 2026 21:10:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2clBHV2pXM1lqUTA3WEVCOG1SdU5Hb1ZzQ2lZNU0xM3pHYVlnT2dNZlhkSGVQbEctdWF0azZOal94cWIxNzI5aU9sZGRiM2RtS0ZvRFBhenAtZDRL?oc=5",
       "title": "경상북도, 도민의 힘으로 이룬‘ ’국립경국대 의과대학‘’ 신설 최종 확정! - 구미일보",
@@ -10669,6 +10691,26 @@
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346",
       "title": "포항시 수출지원센터, 지역 6개 기업 화상 수출상담 성과 점검",
       "date": "Wed, 18 Nov 2026 20:22:00 +0900"
+    },
+    {
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565807",
+      "title": "출근 안 한 친형에 '억대 급여' ... 경주 아스콘사 대표 배임 의혹",
+      "date": "Wed, 18 Nov 2026 21:34:00 +0900"
+    },
+    {
+      "url": "https://www.insight.co.kr/news/582640",
+      "title": "술 취해 여성 사택 침입한 한수원 20대 직원 경찰에 체포",
+      "date": "Wed, 18 Nov 2026 21:28:00 +0900"
+    },
+    {
+      "url": "https://www.farminsight.net/news/articleView.html?idxno=17231",
+      "title": "대구 경북한우협회 \"민경천 위원장, 자녀 특혜채용 책임지고 즉각 사퇴하...",
+      "date": "Wed, 18 Nov 2026 21:04:00 +0900"
+    },
+    {
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756274",
+      "title": "\"K-푸드·뷰티 열풍 통했다\"… 경북 도, 수출상담회서 476만 달러 성과",
+      "date": "Wed, 18 Nov 2026 21:02:00 +0900"
     }
   ],
   "brief_articles": [
