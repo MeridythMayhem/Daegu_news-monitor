@@ -1,10 +1,5 @@
 {
   "sent": {
-    "https://www.vegannews.co.kr/news/article.html?no=401044": "2026-11-05T20:02:34.810642+09:00",
-    "https://www.vegannews.co.kr/news/article.html?no=401041": "2026-11-05T20:02:34.810642+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LRmRYS1ZXc1diMUJ6YXJ1V1VBaTliQy11NkYyTzdBZm96NVlNemNkTVA5QzhZc0hRblhFbEloN0hFTFIzRGUxZ2VBcENCc2tKT1JINmFHWTJTbF8yeTE3M3MtNEZCNDJsVXVZ?oc=5": "2026-11-05T20:02:34.810642+09:00",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtd09BZk5HMzBKX0ZROG5SN2xNdy13R1lSM2owbEtZOGxNMHlySnFyYjBlQ29yUG40cTJITVFncjFOd1lRM3gzY3FaLXFHb3BwbXl2WkY3SFRweHgtdWwwQmlHU0tfV2VZNno4RFRMVQ?oc=5": "2026-11-05T20:02:34.810642+09:00",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489055": "2026-11-05T20:02:34.810642+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892": "2026-11-05T21:01:52.393115+09:00",
     "https://magazine.hankyung.com/business/article/202611059374b": "2026-11-05T21:01:52.393115+09:00",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ0pVaHVqdUEwY09HdTNYWkl1LTVhVWdObDM3OEJoSktxYUJEdnd4MXVCdFNSeTA0clRjTG5raFJtWmZpTnN0Z2dQeE1BWl9INm9nZWsxdXQybUg5TnlmSGFZR3FrdXRzb2IyMkRJNFVIRElX?oc=5": "2026-11-05T21:01:52.393115+09:00",
@@ -993,14 +988,11 @@
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091464": "2026-11-19T19:09:46.949938+09:00",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uSHN3YVRGMzIxVHlMbFIweGxuUHU1M0E3QVRYR21WUlN5QlhmY2FwZEdHUG56cTZzSE5DSEx6V3plTmdBbDBZb21rcGw4dVpERm5seng5NS1UVVBXOTV5Unoyb1VPUG1LVFdPUVpCVmU?oc=5": "2026-11-19T19:09:46.949938+09:00",
     "https://www.gukjenews.com/news/articleView.html?idxno=3757470": "2026-11-19T19:09:46.949938+09:00",
-    "https://www.news2day.co.kr/article/20261119500399": "2026-11-19T20:03:34.698165+09:00"
+    "https://www.news2day.co.kr/article/20261119500399": "2026-11-19T20:03:34.698165+09:00",
+    "https://www.yeongnam.com/web/view.php?key=20261119028141705": "2026-11-19T21:09:34.090552+09:00",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclpCWk5VYmFBNGZJMFZXTlJ0UnFWdlNScDhacEo2czFGbWRnVUkzRkIwYkdISHo3eE9Xd2xIMkpVSlZlRDhCWGNvOXRNOVZZRmNTWkdTb0docHp5N1BOWlJfRjNrYjU5aHljV09rMF9QVjFxcnZ4bFRMRE45TGx4T2xXUXdQUl8yY3B3?oc=5": "2026-11-19T21:09:34.090552+09:00"
   },
   "titles": {
-    "2b32602f980327b8abc8cc11da9b2b8b2e8a7ac1e4aa66d44632a64060b8719a": "2026-11-05T20:02:34.810642+09:00",
-    "1129e4fc94479d260421e36a278a61e38f3115c3f02f61cb8c59abb058633c28": "2026-11-05T20:02:34.810642+09:00",
-    "8cb47e61fac737be7b3560a994d5905677803347c3c4e75a9975c8489f6f319d": "2026-11-05T20:02:34.810642+09:00",
-    "19f10b5fa89251d54b76a2745f7df906a0bd37e6b30c0cb6d5c3eddf69905059": "2026-11-05T20:02:34.810642+09:00",
-    "9e5c418ecdf15e9b64c10f02fac9f09233ee6e5f00f94e887da60058f1ebcf59": "2026-11-05T20:02:34.810642+09:00",
     "1809ccaf390eb6a4802828f6437521a35e32043403c0ff8469853c989a90bc8f": "2026-11-05T21:01:52.393115+09:00",
     "968735b8f4b19ab077f125bd578b5f0c5a41c764ec93cd671767503b27f461e6": "2026-11-05T21:01:52.393115+09:00",
     "fa8d488c9d80aca285ff015fe3cdebcf753ac65640d088983b3355d718288f7c": "2026-11-05T21:01:52.393115+09:00",
@@ -1989,7 +1981,9 @@
     "e738f4b2b25e4fd349f4a04da6d7d74e9e46b8cf2118d2af632d9c847dde2701": "2026-11-19T19:09:46.949938+09:00",
     "93a24a2fb8ad36e095c71cf1b64d9b996d3613b4d20e671bad4221478380989a": "2026-11-19T19:09:46.949938+09:00",
     "4d1119b072571c0a2268a270c946de1a2d5071a05a266a6ced024262e144425d": "2026-11-19T19:09:46.949938+09:00",
-    "e0a5f9a2384b5a370e66631c6d97477c3db7e5ba0a9e8ad15d7f81d6e7ba417d": "2026-11-19T20:03:34.698165+09:00"
+    "e0a5f9a2384b5a370e66631c6d97477c3db7e5ba0a9e8ad15d7f81d6e7ba417d": "2026-11-19T20:03:34.698165+09:00",
+    "f1b4a524f579c83dc9b54dbe00dae49c6e06858ae2299699724b3bf196564f46": "2026-11-19T21:09:34.090552+09:00",
+    "3c6a6ee8f2bb634db29cd780256afc867f1fd81d55e0f72d52efee45cc554b55": "2026-11-19T21:09:34.090552+09:00"
   },
   "pending": {},
   "ai": {
@@ -2004,32 +1998,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091207": {
-      "title": "경북 도·식품안전정보원, K-푸드 수출 지원 맞손…해외 규제 대응 강화",
-      "summary": "경북 도는 17일 서울 식품안전정보원 대회의실에서 이철우 경북 도지사와 이재용 식품안전정보원장 등이 참석한 가운데 '식품안전체계 구축 및 식품한류산업 진흥을 위한 업무협약( MOU )'을 체결했다. 식품의약품안전처 산하...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091207",
-      "date": "Tue, 17 Nov 2026 20:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.hidomin.com/news/articleView.html?idxno=729872": {
-      "title": "포항 철강경기 2년 침체 딛고 반등 조짐… 설비투자는 뒷걸음질",
-      "summary": "9월 포스코 포항제철소의 조강생산량은 116만3000t으로 1년 전보다 2.1% 늘었다. 7월 6.3% 증가한 뒤 8월 0.4% 감소로 주춤했다가 한 달 만에 증가세로 돌아섰다. 포스코 전체 조강생산량은 296만t으로 6.9% 증가했는데...",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=729872",
-      "date": "Tue, 17 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=565623": {
       "title": "경북 도, 포도 수출 '1억 달러 시대' 견인",
       "summary": "가공 제품을 선보였다. 앞서 지난달 15일에는 상주 도영농원에서 농림축산식품부와 생산자·수출업체가 참여한 상생행사를 열고, 안정적인 공급과 거래 기반 마련을 위한 상생 표준 거래 계약서에 자율 서명했다. 경북 ...",
@@ -5049,6 +5017,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.yeongnam.com/web/view.php?key=20261119028141705": {
+      "title": "[수출 1조 달러 시대] 고물가·고금리에 소비 위축…대구경북 체감경기...",
+      "summary": "iM뱅크 의 올해 3분기 신용카드채권 연체율은 2.31%로 전년 동기 2.17%보다 0.14%p 상승했다. 다만, 전체 대출 연체율은 2분기 0.87%에서 3분기 0.78%로 다소 줄었지만 여전히 높은 수준을 유지했다.고용 상황도 좋지 않다....",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261119028141705",
+      "date": "Thu, 19 Nov 2026 20:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclpCWk5VYmFBNGZJMFZXTlJ0UnFWdlNScDhacEo2czFGbWRnVUkzRkIwYkdISHo3eE9Xd2xIMkpVSlZlRDhCWGNvOXRNOVZZRmNTWkdTb0docHp5N1BOWlJfRjNrYjU5aHljV09rMF9QVjFxcnZ4bFRMRE45TGx4T2xXUXdQUl8yY3B3?oc=5": {
+      "title": "PKX: POSCO reviewing Australian HBI plant, no investment decision yet - Quantisnow",
+      "summary": "PKX: POSCO reviewing Australian HBI plant, no investment decision yet Quantisnow",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclpCWk5VYmFBNGZJMFZXTlJ0UnFWdlNScDhacEo2czFGbWRnVUkzRkIwYkdISHo3eE9Xd2xIMkpVSlZlRDhCWGNvOXRNOVZZRmNTWkdTb0docHp5N1BOWlJfRjNrYjU5aHljV09rMF9QVjFxcnZ4bFRMRE45TGx4T2xXUXdQUl8yY3B3?oc=5",
+      "date": "Thu, 19 Nov 2026 11:15:11 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5072,21 +5066,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-19",
   "sent_articles": [
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089892",
-      "title": "에코프로 , 3분기 영업이익 112억원…흑자 유지에도 전분기보다 급감",
-      "date": "Thu, 05 Nov 2026 20:50:00 +0900"
-    },
-    {
-      "url": "https://magazine.hankyung.com/business/article/202611059374b",
-      "title": "에코프로 3분기 흑자 이어갔지만…머티리얼즈 적자·수익성은 숙제",
-      "date": "Thu, 05 Nov 2026 20:30:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZ0pVaHVqdUEwY09HdTNYWkl1LTVhVWdObDM3OEJoSktxYUJEdnd4MXVCdFNSeTA0clRjTG5raFJtWmZpTnN0Z2dQeE1BWl9INm9nZWsxdXQybUg5TnlmSGFZR3FrdXRzb2IyMkRJNFVIRElX?oc=5",
-      "title": "안호영 “새만금 투자, 무주~대구 고속도로 예타에 반영해야” - 글로벌뉴스통신GNA",
-      "date": "Thu, 05 Nov 2026 11:08:01 GMT"
-    },
     {
       "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564600",
       "title": "대구 서 공장 화재 매년 100건씩 발생",
@@ -10016,6 +9995,16 @@
       "url": "https://www.news2day.co.kr/article/20261119500399",
       "title": "김학홍, 문경 관광의 체질 바꾼다…420억 원 호텔 투자 본격화",
       "date": "Thu, 19 Nov 2026 19:14:00 +0900"
+    },
+    {
+      "url": "https://www.yeongnam.com/web/view.php?key=20261119028141705",
+      "title": "[수출 1조 달러 시대] 고물가·고금리에 소비 위축…대구경북 체감경기...",
+      "date": "Thu, 19 Nov 2026 20:02:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclpCWk5VYmFBNGZJMFZXTlJ0UnFWdlNScDhacEo2czFGbWRnVUkzRkIwYkdISHo3eE9Xd2xIMkpVSlZlRDhCWGNvOXRNOVZZRmNTWkdTb0docHp5N1BOWlJfRjNrYjU5aHljV09rMF9QVjFxcnZ4bFRMRE45TGx4T2xXUXdQUl8yY3B3?oc=5",
+      "title": "PKX: POSCO reviewing Australian HBI plant, no investment decision yet - Quantisnow",
+      "date": "Thu, 19 Nov 2026 11:15:11 GMT"
     }
   ],
   "brief_articles": [
