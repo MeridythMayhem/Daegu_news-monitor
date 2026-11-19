@@ -1017,7 +1017,11 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=565807": "2026-11-18T22:09:18.176090+09:00",
     "https://www.insight.co.kr/news/582640": "2026-11-18T22:09:18.176090+09:00",
     "https://www.farminsight.net/news/articleView.html?idxno=17231": "2026-11-18T22:09:18.176090+09:00",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3756274": "2026-11-18T22:09:18.176090+09:00"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3756274": "2026-11-18T22:09:18.176090+09:00",
+    "https://www.newsis.com/view/NISX20261118_0003873414": "2026-11-19T09:09:04.930523+09:00",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505709": "2026-11-19T09:09:04.930523+09:00",
+    "https://www.sidae.com/article/2026111820215516641": "2026-11-19T09:09:04.930523+09:00",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajlLMHhBNDYxZWRLa0JEQWQxbHREVEhZUFBaMmZjWlAtYWtnVk9qSkp4Q1VscDgtdGtmS0Zfa1U2M2lWUHJscDhJLTd3a2hyLWtJVEJFaUlqTy1LQ2FwU0VDaDQxbDc2TXBkOThTNmZTWFJycUI0LXBUV0RhZkdITNIBlAFBVV95cUxQQ3IweURpSTh0WDNuaERsSDFUQnB1bWRRYnczMnpmNkIxUGhBZDQzVnJ1dlVTck44YjdGVjNnaC1rWXZoN3NrY1R1OFZwS284MGU2Ty0zWGhQSjlnOG13UmY4WEZNWFBZMk5MN01ZYnZ0OGlWblVtc1JXNTRFZXdIcGJGeW9uZVdPZ0cxSlZYNUFzemdM?oc=5": "2026-11-19T09:09:04.930523+09:00"
   },
   "titles": {
     "e3d09a5e13faba6f496df557ec0882a1073e309e380814c7e6f0469f62e99aac": "2026-11-05T09:01:57.509755+09:00",
@@ -2037,7 +2041,11 @@
     "0131a4c60361c3d5faf1b07189bd7bec25dabfb293270569ababc254ebe5c0bf": "2026-11-18T22:09:18.176090+09:00",
     "98ff1957ae23db309496cbcba954ab1ca898f2266ac7855f6138c2272a90ed81": "2026-11-18T22:09:18.176090+09:00",
     "dee92b87974efe24b0a5b3d2719ac41862550e88aa459c36e2afa16277a3c37e": "2026-11-18T22:09:18.176090+09:00",
-    "f35b22ad38e052b77c428fa09d9e6765e908b79b5eaa52ebaf3420a4578c7e8b": "2026-11-18T22:09:18.176090+09:00"
+    "f35b22ad38e052b77c428fa09d9e6765e908b79b5eaa52ebaf3420a4578c7e8b": "2026-11-18T22:09:18.176090+09:00",
+    "7b9ade2c5cd6916909da9f0ebe36080286cb27cb739dc43f8e27eaa6324b7de9": "2026-11-19T09:09:04.930523+09:00",
+    "b69de0ab8583d623e4251b728df356260a068a252beafc0419e2c7e95521a96e": "2026-11-19T09:09:04.930523+09:00",
+    "087a18968ab09bedad4328cbdf7cff7228e39abcd576bc702f402b66af95ee39": "2026-11-19T09:09:04.930523+09:00",
+    "7e19c114d2dd74f3b0cdafeaf8000f617ebb13e9748ca9c5657a5648afe063db": "2026-11-19T09:09:04.930523+09:00"
   },
   "pending": {},
   "ai": {
@@ -2051,32 +2059,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://biz.heraldcorp.com/article/10939194?ref=naver": {
-      "title": "경산시 무역사절단, 중국·인도서 8490만 달러 수출상담 성과",
-      "summary": "경북 경산시가 중국과 인도에 무역사절단을 파견해 8490만 달러 규모의 수출상담 실적을 거두며 지역... 업무협약( MOU ·282만 달러)을 체결했다. 이번 사절단에는 로봇, 산업용 기계 부품, 식품, 소비재 등 다양한 분야의...",
-      "url": "https://biz.heraldcorp.com/article/10939194?ref=naver",
-      "date": "Tue, 17 Nov 2026 08:27:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
-    "https://www.kmib.co.kr/article/20261117500070": {
-      "title": "“필리핀에 이어 대만까지”… 경북 도, ‘대한민국 포도 수출 1억 달러’...",
-      "summary": "생과와 가공 제품을 선보였다. 경북 도는 이번 성과를 바탕으로 대만·필리핀 등 해외시장을 넓힌다. 수출용 물량 확보와 품질관리, 바이어 사후관리로 거래 를 꾸준히 늘리고 국내 수급 안정에도 힘쓸 계획이다. 양...",
-      "url": "https://www.kmib.co.kr/article/20261117500070",
-      "date": "Tue, 17 Nov 2026 08:29:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 17
-    },
     "https://www.etoday.co.kr/news/view/2649064": {
       "title": "예천 ‘시골잔대’ 건강식품, 베트남서 50만 달러 수출길 열었다",
       "summary": "이투데이=대구 경북 취재본부 이용호 기자 | 박해영 시골잔대, 호치민 식품박람회서 현지 2개사와 MOU 잔대... 박해영 시골잔대는 2006년부터 잔대 연구를 시작해 재배와 가공 , 제품 개발, 브랜드화를 추진해 온 지역...",
@@ -5499,6 +5481,58 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISX20261118_0003873414": {
+      "title": "대구 경찰 '사적보복 대행업체' 운영 일당 검거…8명 구속",
+      "summary": "대구 경찰청 광역수사대는 19일 텔레그램에서 사적보복 대행업체를 운영한 혐의(범죄집단조직·가입·활동죄 등)로 총책 A(30대)씨 등 9명을 붙잡아 8명을 구속 했다고 밝혔다. 경찰에 붙잡힌 9명은 총책 1명, 중간관리책 1명...",
+      "url": "https://www.newsis.com/view/NISX20261118_0003873414",
+      "date": "Thu, 19 Nov 2026 09:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.sidae.com/article/2026111820215516641": {
+      "title": "의성 군노인회 업무추진비, 지회장 개인계좌 입금 논란",
+      "summary": "또한 업무상 보관 자금을 사적으로 임의 사용한 사실이 드러나면 형법상 업무상 횡령 죄가 적용돼 10년 이하의 징역 또는 3000만원 이하의 벌금을 받을 수 있다. 앞서 의성 군수직 인수위원회 업무보고에서도 지회의...",
+      "url": "https://www.sidae.com/article/2026111820215516641",
+      "date": "Thu, 19 Nov 2026 08:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505709": {
+      "title": "AI 반도체 투자축 넓어지나…한미반도체· 이수페타시스 눈여겨봐라",
+      "summary": "AI 데이터센터의 네트워크 장비와 고성능 기판 분야에서는 이수페타시스 가 주목된다. 이수페타시스 는 AI 가속기와 서버, 네트워크 장비 등에 들어가는 초고다층 PCB를 생산한다. AMD와 브로드컴의 상승에 더해 TTM...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505709",
+      "date": "Thu, 19 Nov 2026 08:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajlLMHhBNDYxZWRLa0JEQWQxbHREVEhZUFBaMmZjWlAtYWtnVk9qSkp4Q1VscDgtdGtmS0Zfa1U2M2lWUHJscDhJLTd3a2hyLWtJVEJFaUlqTy1LQ2FwU0VDaDQxbDc2TXBkOThTNmZTWFJycUI0LXBUV0RhZkdITNIBlAFBVV95cUxQQ3IweURpSTh0WDNuaERsSDFUQnB1bWRRYnczMnpmNkIxUGhBZDQzVnJ1dlVTck44YjdGVjNnaC1rWXZoN3NrY1R1OFZwS284MGU2Ty0zWGhQSjlnOG13UmY4WEZNWFBZMk5MN01ZYnZ0OGlWblVtc1JXNTRFZXdIcGJGeW9uZVdPZ0cxSlZYNUFzemdM?oc=5": {
+      "title": "DB Securities cuts ISU Petasys target despite record profit forecast - Chosunbiz",
+      "summary": "DB Securities cuts ISU Petasys target despite record profit forecast Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajlLMHhBNDYxZWRLa0JEQWQxbHREVEhZUFBaMmZjWlAtYWtnVk9qSkp4Q1VscDgtdGtmS0Zfa1U2M2lWUHJscDhJLTd3a2hyLWtJVEJFaUlqTy1LQ2FwU0VDaDQxbDc2TXBkOThTNmZTWFJycUI0LXBUV0RhZkdITNIBlAFBVV95cUxQQ3IweURpSTh0WDNuaERsSDFUQnB1bWRRYnczMnpmNkIxUGhBZDQzVnJ1dlVTck44YjdGVjNnaC1rWXZoN3NrY1R1OFZwS284MGU2Ty0zWGhQSjlnOG13UmY4WEZNWFBZMk5MN01ZYnZ0OGlWblVtc1JXNTRFZXdIcGJGeW9uZVdPZ0cxSlZYNUFzemdM?oc=5",
+      "date": "Wed, 18 Nov 2026 23:53:00 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5522,41 +5556,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-19",
   "sent_articles": [
-    {
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314672",
-      "title": "국립경국대 의대 신설… 경북 북부권 의료 혁신",
-      "date": "Thu, 05 Nov 2026 08:54:00 +0900"
-    },
-    {
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=767641",
-      "title": "한국 거래소, '대왕고래' 관련 이상거래 통보…금융위 자료제출 거부",
-      "date": "Thu, 05 Nov 2026 08:46:00 +0900"
-    },
-    {
-      "url": "https://kpenews.com/View.aspx?No=4298352",
-      "title": "'파노라마 워크 준공 기념전' 포스코 미술관 광양, 관람객 발길 이어져",
-      "date": "Thu, 05 Nov 2026 08:38:00 +0900"
-    },
-    {
-      "url": "https://biz.heraldcorp.com/article/10926376?ref=naver",
-      "title": "[단독] 459억 몰아주기 있었나…특검, ‘사전투표지 발급기 사업 의혹’...",
-      "date": "Thu, 05 Nov 2026 08:34:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yV2pCX2JWbFJka3ZXSjQ0OHc0T3JQdmlBSGdMSnJZdXRMR2dMUFZPb2J0aWpJem5TN0pjcDNlWFBVTEwxWnNsX2k0ME9fREowdWNrWXp3Ynhka09xdVlZLXctUUdjVDRhQU9KbGFFRmVacE0?oc=5",
-      "title": "고령군, 2026년 농업 노동자 기숙사 건립 지원 선정 - 스트레이트뉴스",
-      "date": "Wed, 04 Nov 2026 23:29:29 GMT"
-    },
-    {
-      "url": "https://www.g-enews.com/view.php?ud=202611042205274427d9ce08d08_1",
-      "title": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익...",
-      "date": "Thu, 05 Nov 2026 08:28:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjhOelNKbXJVbzRHT1B0c1VrNEJSaGtudURueWFyeUNHeUtyNUZlSUZodm13TFkxVFVZQVlBM3hPNUlVS05iOGdYOWJoZHdTNUNqdHBVams1djlzQTRVVm8zQ1FGTG44QXJuTFdMM2p5aUxjXzg0cGRIVERQTDd5ZFA0WkYtVzNERmc?oc=5",
-      "title": "[영덕의 선택①] 신규 원전 2기, 2조 원 재정효과 전망…지역경제 실익은 - 글로벌이코노믹",
-      "date": "Wed, 04 Nov 2026 23:26:45 GMT"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Gb3UzZHg1OUg5NFZQSzN1NXpaeXA1Vklja2ViblRKMDh6OVppQmhHWVhZZEJIaUdYa25VVDN5TDM0MEhXQmlfS3JaRlRxVklSaUJZMUJVWFZONUZwSE5hMzdNTTU?oc=5",
       "title": "포항시, 건설현장 합동 안전점검…추락·화재 위험요인 집중 점검 - OMATE 시니어",
@@ -10611,6 +10610,26 @@
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756274",
       "title": "\"K-푸드·뷰티 열풍 통했다\"… 경북 도, 수출상담회서 476만 달러 성과",
       "date": "Wed, 18 Nov 2026 21:02:00 +0900"
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261118_0003873414",
+      "title": "대구 경찰 '사적보복 대행업체' 운영 일당 검거…8명 구속",
+      "date": "Thu, 19 Nov 2026 09:00:00 +0900"
+    },
+    {
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505709",
+      "title": "AI 반도체 투자축 넓어지나…한미반도체· 이수페타시스 눈여겨봐라",
+      "date": "Thu, 19 Nov 2026 08:50:00 +0900"
+    },
+    {
+      "url": "https://www.sidae.com/article/2026111820215516641",
+      "title": "의성 군노인회 업무추진비, 지회장 개인계좌 입금 논란",
+      "date": "Thu, 19 Nov 2026 08:12:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajlLMHhBNDYxZWRLa0JEQWQxbHREVEhZUFBaMmZjWlAtYWtnVk9qSkp4Q1VscDgtdGtmS0Zfa1U2M2lWUHJscDhJLTd3a2hyLWtJVEJFaUlqTy1LQ2FwU0VDaDQxbDc2TXBkOThTNmZTWFJycUI0LXBUV0RhZkdITNIBlAFBVV95cUxQQ3IweURpSTh0WDNuaERsSDFUQnB1bWRRYnczMnpmNkIxUGhBZDQzVnJ1dlVTck44YjdGVjNnaC1rWXZoN3NrY1R1OFZwS284MGU2Ty0zWGhQSjlnOG13UmY4WEZNWFBZMk5MN01ZYnZ0OGlWblVtc1JXNTRFZXdIcGJGeW9uZVdPZ0cxSlZYNUFzemdM?oc=5",
+      "title": "DB Securities cuts ISU Petasys target despite record profit forecast - Chosunbiz",
+      "date": "Wed, 18 Nov 2026 23:53:00 GMT"
     }
   ],
   "brief_articles": [
