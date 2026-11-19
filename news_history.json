@@ -1,9 +1,5 @@
 {
   "sent": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564600": "2026-11-05T22:02:43.662074+09:00",
-    "http://www.breaknews.com/1248782": "2026-11-05T22:02:43.662074+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WR0daTzRaSzlheWQ2aTJZT09JYjdPM0tzMUdOckhLSTlkb2MtbnliYUhPLTQzczdQNXhXVlpOUWZqMjNBejlTMTNMMmkzNUVSZTNrMDBPWURhZ3Z5QktPLVhYa3lfZVI0bUpZ?oc=5": "2026-11-05T22:02:43.662074+09:00",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886206": "2026-11-05T22:02:43.662074+09:00",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5": "2026-11-05T23:01:58.765278+09:00",
     "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6Y3FUNFdKckRKalJPQncwV0VPNFZuRU1EbmUzWEd5d3hLUUZSdzdmb2VRcnBpMHRKZHZ5eXVuR2o?oc=5": "2026-11-06T09:02:59.559244+09:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3R0d4eTlnWVhQcmh2Z2lEcUFMV0FpcjZQelhORlUwZVdYVjJ4cWsweE5wUU0xc1FGQUJFYV9NX3pUcExjaXR0czJwdDY0V2o5UFhDZC1yX0hqZlN3WW9qZjM0cUpYek9rcEFaWmlR?oc=5": "2026-11-06T09:02:59.559244+09:00",
@@ -989,13 +985,11 @@
     "https://www.yeongnam.com/web/view.php?key=20261119028141705": "2026-11-19T21:09:34.090552+09:00",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclpCWk5VYmFBNGZJMFZXTlJ0UnFWdlNScDhacEo2czFGbWRnVUkzRkIwYkdISHo3eE9Xd2xIMkpVSlZlRDhCWGNvOXRNOVZZRmNTWkdTb0docHp5N1BOWlJfRjNrYjU5aHljV09rMF9QVjFxcnZ4bFRMRE45TGx4T2xXUXdQUl8yY3B3?oc=5": "2026-11-19T21:09:34.090552+09:00",
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065614260142185": "2026-11-19T22:08:34.880498+09:00",
-    "https://vop.co.kr/A00001697680.html": "2026-11-19T22:08:34.880498+09:00"
+    "https://vop.co.kr/A00001697680.html": "2026-11-19T22:08:34.880498+09:00",
+    "https://www.joongang.co.kr/article/25480268": "2026-11-19T23:09:15.216351+09:00",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3757641": "2026-11-19T23:09:15.216351+09:00"
   },
   "titles": {
-    "473ba76b5c874910b3d583a3aab8d95e418ab57b680307183d62d2bb17ac0bcb": "2026-11-05T22:02:43.662074+09:00",
-    "f0d895d79ca9ef777de827dcd4c0af3b09503fcfb93d8af9a38ca7da48865ce9": "2026-11-05T22:02:43.662074+09:00",
-    "b0757615ce52a2e66a0ef207f1e33ca2e8c370a4434fede8e11a185c2cfa5db7": "2026-11-05T22:02:43.662074+09:00",
-    "5604b2eaa60945f60a061ebc654a00f9f349258a8efed8f0a1bdf41031ff4848": "2026-11-05T22:02:43.662074+09:00",
     "346419b8edbc0d6b877bcdab68681a611f42474c6dfab6e0d9ff47c62deebd83": "2026-11-05T23:01:58.765278+09:00",
     "8d7f17f47acd88e7097cfec92b5e703476b0829709214ab6a05de77d2e9de2a6": "2026-11-06T09:02:59.559244+09:00",
     "eb493b2b82ff6ad17d36488612c58d912b259048ad258b5ab89572dfba66a68c": "2026-11-06T09:02:59.559244+09:00",
@@ -1981,7 +1975,9 @@
     "f1b4a524f579c83dc9b54dbe00dae49c6e06858ae2299699724b3bf196564f46": "2026-11-19T21:09:34.090552+09:00",
     "3c6a6ee8f2bb634db29cd780256afc867f1fd81d55e0f72d52efee45cc554b55": "2026-11-19T21:09:34.090552+09:00",
     "3318fbc02aa98eabb3f7832420ea8367408922108c732226374c294496842627": "2026-11-19T22:08:34.880498+09:00",
-    "7e495c1a39cf3e05eb81884aee8050e239abb1fec0d083ae6b15c01183465709": "2026-11-19T22:08:34.880498+09:00"
+    "7e495c1a39cf3e05eb81884aee8050e239abb1fec0d083ae6b15c01183465709": "2026-11-19T22:08:34.880498+09:00",
+    "6eabc0396165919864b6462a89dacafe7e20c12a02333354228fdb6e84bcf065": "2026-11-19T23:09:15.216351+09:00",
+    "877722c7b3f5ceef35a453e4be68a058ada74915a7297e2a8d43282e9b50da94": "2026-11-19T23:09:15.216351+09:00"
   },
   "pending": {},
   "ai": {
@@ -5015,6 +5011,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3757641": {
+      "title": "\"805억 투입, 예술 담고 미래 짓는다\"… 경북 도립미술관 건립 본궤도",
+      "summary": "경상북도가 총 805억 원을 투입하는 경북 도립미술관 건립 을 본격화하고, 지역의 문화적 정체성을 반영한 공간 설계와 전시 콘텐츠 구체화에 나섰다. '2026년 제8차 경북 문화관광 워킹그룹' 회의 경북 도는 11월 19일...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757641",
+      "date": "Thu, 19 Nov 2026 22:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.joongang.co.kr/article/25480268": {
+      "title": "與 ‘조희대 탄핵’에 여야 대표 충돌…“역사적 결단” “자살 폭탄”",
+      "summary": "이어 전날 서울중앙지법이 내린 추경호 대구 시장(전 국민의힘 원내대표)의 비상계엄 해제 표결 방해 혐의 에 대한 1심 무죄 판결과 이날 한 전 총리에 대한 파기환송 결정을 함께 거론하며 “‘내란 임박 시 입 다물어라’...",
+      "url": "https://www.joongang.co.kr/article/25480268",
+      "date": "Thu, 19 Nov 2026 22:53:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5038,11 +5060,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-19",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5",
-      "title": "대구 북구,‘별 따라 맛집, 선물 가득 이벤트’진행 - 시사뉴스",
-      "date": "Thu, 05 Nov 2026 13:24:22 GMT"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6Y3FUNFdKckRKalJPQncwV0VPNFZuRU1EbmUzWEd5d3hLUUZSdzdmb2VRcnBpMHRKZHZ5eXVuR2o?oc=5",
       "title": "국세청, 3인 서기관 승진 동기라지만, 가는 곳은 제 각각 달라요, 어차피 그런 인사(?) - 온투데이",
@@ -9967,6 +9984,16 @@
       "url": "https://vop.co.kr/A00001697680.html",
       "title": "리튬 투자 공들인 포스코 그룹, CATL과 장기공급계약",
       "date": "Thu, 19 Nov 2026 21:20:00 +0900"
+    },
+    {
+      "url": "https://www.joongang.co.kr/article/25480268",
+      "title": "與 ‘조희대 탄핵’에 여야 대표 충돌…“역사적 결단” “자살 폭탄”",
+      "date": "Thu, 19 Nov 2026 22:53:00 +0900"
+    },
+    {
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757641",
+      "title": "\"805억 투입, 예술 담고 미래 짓는다\"… 경북 도립미술관 건립 본궤도",
+      "date": "Thu, 19 Nov 2026 22:48:00 +0900"
     }
   ],
   "brief_articles": [
