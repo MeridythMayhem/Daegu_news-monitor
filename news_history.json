@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xVGJVZFdQWUw1a3BvM3pkZVJBdGNwcGM2RkVmcm5ZYU91cy01bjRsQjU3NWR3eGJqaVZ2bC1iZFBuaTJ5MUNwRUxjQTBCdWlNaVBvZV9JSEstcG5VS3dGbURFbw?oc=5": "2026-11-05T23:01:58.765278+09:00",
     "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6Y3FUNFdKckRKalJPQncwV0VPNFZuRU1EbmUzWEd5d3hLUUZSdzdmb2VRcnBpMHRKZHZ5eXVuR2o?oc=5": "2026-11-06T09:02:59.559244+09:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3R0d4eTlnWVhQcmh2Z2lEcUFMV0FpcjZQelhORlUwZVdYVjJ4cWsweE5wUU0xc1FGQUJFYV9NX3pUcExjaXR0czJwdDY0V2o5UFhDZC1yX0hqZlN3WW9qZjM0cUpYek9rcEFaWmlR?oc=5": "2026-11-06T09:02:59.559244+09:00",
     "https://www.g-enews.com/view.php?ud=20261106082918308044093b5d4e_1": "2026-11-06T09:02:59.559244+09:00",
@@ -990,7 +989,6 @@
     "https://www.gukjenews.com/news/articleView.html?idxno=3757641": "2026-11-19T23:09:15.216351+09:00"
   },
   "titles": {
-    "346419b8edbc0d6b877bcdab68681a611f42474c6dfab6e0d9ff47c62deebd83": "2026-11-05T23:01:58.765278+09:00",
     "8d7f17f47acd88e7097cfec92b5e703476b0829709214ab6a05de77d2e9de2a6": "2026-11-06T09:02:59.559244+09:00",
     "eb493b2b82ff6ad17d36488612c58d912b259048ad258b5ab89572dfba66a68c": "2026-11-06T09:02:59.559244+09:00",
     "a76d7d67b48d9055534bb5ce53a203b5fcdb7a67dc996d6d92e4b650edc06d07": "2026-11-06T09:02:59.559244+09:00",
@@ -1981,7 +1979,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-12": 20,
     "2026-11-13": 26,
     "2026-11-14": 1,
     "2026-11-15": 3,
@@ -1992,149 +1989,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.ekn.kr/web/view.php?key=20261118026391089": {
-      "title": "구미 산업화 50년 역사, 국가 유산으로 남긴다…‘산업화역사관’ 건립...",
-      "summary": "구미 시는 17일 서울 종로구 대한민국역사박물관에서 대한민국역사박물관과 '대한민국 근현대사 및 산업사 관련 상호 협력'을 위한 업무협약( MOU )을 체결했다. 이번 협약은 가칭 '대한민국역사박물관( 구미 산업화역사관)...",
-      "url": "https://www.ekn.kr/web/view.php?key=20261118026391089",
-      "date": "Wed, 18 Nov 2026 08:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ajunews.com/view/20261118003901652": {
-      "title": "경북 포도 수출 1억 달러 시대…전국 수출액 80.5% 차지",
-      "summary": "표준 거래 계약서 자율 서명과 공동결의를 통해 안정적인 공급· 거래 기반을 마련했다. 해외시장 개척도... 포도와 가공 제품을 선보였다. 경북 도는 대만과 필리핀을 중심으로 수출시장을 넓히는 한편 수출용 물량...",
-      "url": "https://www.ajunews.com/view/20261118003901652",
-      "date": "Wed, 18 Nov 2026 05:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.m-i.kr/news/articleView.html?idxno=2019844": {
-      "title": "구미 시·대한민국역사박물관, 구미 산업화역사관 건립 위한 업무협약",
-      "summary": "양 기관은 대한민국역사박물관( 구미 산업화역사관) 건립 을 추진할 협력 체계를 마련할 계획이다. 또 구미 산업유산의 역사적 가치를 보존하고 계승하기 위한 협력 방안을 모색하기로 했다. 협약식에 이어 오후 2시부터...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2019844",
-      "date": "Wed, 18 Nov 2026 04:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.sejungilbo.com/news/articleView.html?idxno=61145": {
-      "title": "4101억 탈세범 낙인 찍더니 유죄는 고작 2억?…\" 국세청 이 '선박왕'에 사...",
-      "summary": "연맹은 국세청 조사공무원의 추징실적이 포상금과 인사 평가에 반영되는 성과관리체계가 무리한 과세를 유발할 수 있다고 지적했다. 조사공무원이 정확한 과세보다 추징실적을 우선하게 되면 납세자는 과도한 세금을...",
-      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=61145",
-      "date": "Wed, 18 Nov 2026 07:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/industry/general-industry/6356692": {
-      "title": "[단독] \"전복 보호구조물 균열 현상\"… 대동 , 호주서 건설장비 리콜",
-      "summary": "대동 이 호주에서 판매한 소형 건설장비와 다목적운반차 총 500대에 대해 안전 리콜을 진행 중인 것으로... 대동 은 현지 총판을 통해 대상 제품의 부품 교체 등 시정조치를 진행하고 있다. 운전석 고정 풀림·전복...",
-      "url": "https://www.news1.kr/industry/general-industry/6356692",
-      "date": "Wed, 18 Nov 2026 06:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.vegannews.co.kr/news/article.html?no=406849": {
-      "title": "대동 스틸 3분기 영업이익 9억9000만원 흑자 전환",
-      "summary": "대동 스틸(048470)이 2026년 3분기 별도 기준 영업이익 9억9000만원을 기록해 전년 동기 적자에서 흑자로 전환했다. 회사는 16일 금융감독원 전자공시시스템에 3분기 분기보고서를 제출했다. 대동 스틸의 1~9월...",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=406849",
-      "date": "Wed, 18 Nov 2026 05:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.gokorea.kr/news/articleView.html?idxno=886172": {
-      "title": "대형 건설사와 손잡고 지역 경제 부흥 노린다: 대구시의 파격적인 건설...",
-      "summary": "이번 행사는 현대건설, 지에스건설, 현대엔지니어링, 디엘이앤씨, 롯데건설, 포스코 이앤씨 등 한국의 주요 대형 건설사 17곳이 참여했다. 지역에서는 토공, 금속, 창호, 철근, 콘크리트, 기계설비 등 여러 분야의 전문...",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=886172",
-      "date": "Wed, 18 Nov 2026 07:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084552": {
-      "title": "포스코 이희근, 노조 상경투쟁에 '긴급 대화' 제안…임금협상 물꼬 트나",
-      "summary": "이희근 포스코 사장이 임금교섭 갈등으로 서울 상경투쟁에 나선 노동조합에 긴급 대화를 제안하면서 노사협상에 새로운 국면이 마련됐다. 포스코 노조는 17일 서울 강남구 포스코 센터 앞에서 조합원 180여명이 참석한...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084552",
-      "date": "Tue, 17 Nov 2026 23:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsZlc4VU5taTlJbTJiMVRNR244VVlfOE4wOWFBSGxldlRaTWdaZ0ROYlMwUUI4WWd5WGl6RWxPcFNaaHY1Z0JKTFk1d3I5WVlrdDA1QUl6cm0xa1pHTTg4bExR?oc=5": {
-      "title": "구미 산업화 50년 역사, 국가 유산으로 남긴다…‘산업화역사관’ 건립 시동 - 에너지경제신문",
-      "summary": "구미 산업화 50년 역사, 국가 유산으로 남긴다…‘산업화역사관’ 건립 시동 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsZlc4VU5taTlJbTJiMVRNR244VVlfOE4wOWFBSGxldlRaTWdaZ0ROYlMwUUI4WWd5WGl6RWxPcFNaaHY1Z0JKTFk1d3I5WVlrdDA1QUl6cm0xa1pHTTg4bExR?oc=5",
-      "date": "Tue, 17 Nov 2026 22:58:40 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWXFwWW1VaERfeVpCcTEtZ1ZoRFMwc2NIaTdRMTk5S0Q2VUF6WDl1d2NnRURWeF9weW5ob29UZjdSVXVTMGFPU3ExcFJJNlVFOUpMQ09iWi05dUZUbHBxWVBxVVg5dw?oc=5": {
-      "title": "구미시-대한민국역사박물관, '구미산업화역사관 건립' 위해 손잡았다 - 포커스데일리",
-      "summary": "구미시-대한민국역사박물관, '구미산업화역사관 건립' 위해 손잡았다 포커스데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWXFwWW1VaERfeVpCcTEtZ1ZoRFMwc2NIaTdRMTk5S0Q2VUF6WDl1d2NnRURWeF9weW5ob29UZjdSVXVTMGFPU3ExcFJJNlVFOUpMQ09iWi05dUZUbHBxWVBxVVg5dw?oc=5",
-      "date": "Tue, 17 Nov 2026 21:45:25 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1N2ZHbi1sQjJST3pKR1F2YlB4RzFlUFl5RDBhY1lwRTZ2bEpuQU8zM21mRkFhTUlPUXAwVXJWRVE2MGJUTGtMNTNET1hVS2ZXTm9PcllhbmtPWjExcWk0NXAwc3dJUUdpdEJDcA?oc=5": {
-      "title": "4101억 탈세범 낙인 찍더니 유죄는 고작 2억?…“국세청이 ‘선박왕’에 사과해야 할 7가지” - 세정일보",
-      "summary": "4101억 탈세범 낙인 찍더니 유죄는 고작 2억?…“국세청이 ‘선박왕’에 사과해야 할 7가지” 세정일보",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1N2ZHbi1sQjJST3pKR1F2YlB4RzFlUFl5RDBhY1lwRTZ2bEpuQU8zM21mRkFhTUlPUXAwVXJWRVE2MGJUTGtMNTNET1hVS2ZXTm9PcllhbmtPWjExcWk0NXAwc3dJUUdpdEJDcA?oc=5",
-      "date": "Tue, 17 Nov 2026 22:00:17 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 18
-    },
     "https://www.imaeil.com/page/view/2026111714350829865": {
       "title": "경북 도, 식품안전정보원과 손잡고 ' 경북 K-푸드 수출, 해외 규제 대응 강...",
       "summary": "경북 도는 17일 서울 식품안전정보원에서 이철우 경북 도지사와 이재용 식품안전정보원장 등이 참석한 가운데 '식품안전체계 구축 및 식품한류산업 진흥을 위한 업무협약( MOU )'을 체결했다고 이날 밝혔다. 이번 협약은...",
@@ -5037,28 +4891,164 @@
       "category": "세무 조사·혐의 관련",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/19/2026111950383.html": {
+      "title": "경북 도 실라리안 기업 10곳, 캐나다 수출 교두보 확보",
+      "summary": "뉴데일리 강승탁 = 경북 도 중소기업 공동브랜드 ‘실라리안’이 캐나다 밴쿠버에서 첫 북미시장 개척에... 이 자리에서 모두 240만 달러 규모의 MOU 8건도 체결됐다. 기업별 협약도 이어졌다. 풍기특산물영농조합법인은...",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/19/2026111950383.html",
+      "date": "Thu, 19 Nov 2026 23:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261120022138675": {
+      "title": "영양군, 공공임대주택 24호 건립 추진…151억원 투입",
+      "summary": "경북 개발공사와 업무대행 협약…2029년 준공 목표 영양읍 서부리 일원에 청년·신혼부부 주거타운 조성... 사업은 지방소멸대응기금을 포함한 총사업비 151억원을 들여 영양읍 서부리 일원에 공공임대주택 24호를 건립 하...",
+      "url": "https://www.ajunews.com/view/20261120022138675",
+      "date": "Fri, 20 Nov 2026 05:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.geconomy.co.kr/news/article.html?no=325876": {
+      "title": "LG이노텍, 구미 기숙사 직원 사망 ' 중대재해 제외'…사망자 공시 1명서 ...",
+      "summary": "노동부 조사 결과 중대재해 해당하지 않는 것으로 종결 지난 8월 구미 사외기숙사서 직원 심정지 상태로 발견 LG이노텍, 중대재해 발생 장소·날짜 등 공시 내용 삭제 LG전자도 종속회사 관련 공시 정정…사망자 수 0명으로...",
+      "url": "https://www.geconomy.co.kr/news/article.html?no=325876",
+      "date": "Fri, 20 Nov 2026 05:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.dailian.co.kr/news/view/1717376/?sc=Naver": {
+      "title": "최고위서도 터져나온 '조작징계' 의혹 …윤리위 독립성 논란에도 장동혁...",
+      "summary": "장동혁 국민의힘 대표가 추경호 대구 광역시장의 1심 무죄를 고리로 친한계를 '내란몰이' 세력으로 매도하며 반격에 나선 가운데, '조작징계' 의혹 이 최고위원회의까지 번지면서 논란이 재점화됐다. 장 대표의 직접적인 개입...",
+      "url": "https://www.dailian.co.kr/news/view/1717376/?sc=Naver",
+      "date": "Fri, 20 Nov 2026 06:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54484": {
+      "title": "대동 ~매리 도로 보상협의율 56%…2028년 준공 차질 우려",
+      "summary": "김해 대동 ~매리간 도로건설사업의 토지보상 협의율이 56%에 그치면서 2028년 준공 목표에 맞춘 사업 일정과... 심사에서 대동 ~매리간 도로건설사업의 토지보상 추진 상황을 점검하고 보상·공정 관리 대책 마련을...",
+      "url": "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54484",
+      "date": "Thu, 19 Nov 2026 23:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181514367440101561": {
+      "title": "[더벨][Company Watch] 삼보모터스 , 멕시코법인 실적개선에 3분기 영업익...",
+      "summary": "삼보모터스 의 3분기 영업이익이 전년 동기 대비 4배 이상 늘었다. 멕시코 법인이 분기 기준 영업흑자로 돌아섰고 플라스틱 내외장재 자회사들도 이익을 늘린 덕분이다. 지난해 말부터 해외 현지법인을 밀착...",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181514367440101561",
+      "date": "Fri, 20 Nov 2026 07:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 삼보모터스",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=407914": {
+      "title": "에스엘 , 3분기 82억원 순손실…매출은 4.7% 증가",
+      "summary": "에스엘 (005850)은 2026년 3분기 연결 기준 매출 1조3639억원, 영업이익 461억원을 기록했다. 매출은 전년 동기보다 4.7% 늘었지만 영업이익은 32.5% 감소했다. 에스엘 이 지난 16일 제출한 분기보고서에 담긴 실적이다....",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=407914",
+      "date": "Thu, 19 Nov 2026 23:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에스엘 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=602261": {
+      "title": "엘앤에프 , NCM·LFP 양극재 확대에 1515억원 CB 발행⋯운영자금 확보",
+      "summary": "이차전지 소재업체 엘앤에프 가 니켈·코발트·망간(NCM)과 리튬인산철(LFP) 양극재 사업 확대에 필요한... 엘앤에프 는 19일 이사회를 열고 영구 전환사채 303억원과 일반 전환사채 1212억원 등 총 1515억원의 CB 발행을...",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602261",
+      "date": "Thu, 19 Nov 2026 23:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261120024018678": {
+      "title": "포스코 노조, 포항 미래세대에 1억원 나눔…장학금·아동쉼터 지원",
+      "summary": "com 포항시는 19일 시청 대외협력실에서 포스코 노조 ‘철든 장학금’과 ‘드림 울타리 프로젝트’ 후원금 전달식을 열었다. [사진=포항시] 포스코 노동조합이 경북 포항 지역 취약계층 청소년과 학대피해아동을 위해...",
+      "url": "https://www.ajunews.com/view/20261120024018678",
+      "date": "Fri, 20 Nov 2026 05:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xMGZnUnNUQ1VjU1VOeHlMMzdhdHZlSDN5Wm52dlIwZ2hvTFhlM0NJN1gtNUpxeW91TVN2LWJtNGNPWFUtUUN5UXFOYnE0MVBKMG45YjhzLTVNUGwzVVFvaXluWWJFXzA?oc=5": {
+      "title": "LG이노텍, 구미 기숙사 직원 사망 '중대재해 제외'…사망자 공시 1명서 0명으로 정정 - 지이코노미",
+      "summary": "LG이노텍, 구미 기숙사 직원 사망 '중대재해 제외'…사망자 공시 1명서 0명으로 정정 지이코노미",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xMGZnUnNUQ1VjU1VOeHlMMzdhdHZlSDN5Wm52dlIwZ2hvTFhlM0NJN1gtNUpxeW91TVN2LWJtNGNPWFUtUUN5UXFOYnE0MVBKMG45YjhzLTVNUGwzVVFvaXluWWJFXzA?oc=5",
+      "date": "Thu, 19 Nov 2026 20:11:15 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
     }
   },
   "brief_sent": {
-    "http://www.ferrotimes.com/news/articleView.html?idxno=51568": "2026-11-19T08:09:36.350913+09:00",
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=315709": "2026-11-19T08:09:36.350913+09:00",
-    "https://www.kpinews.kr/newsView/1065563623294594": "2026-11-19T08:09:36.350913+09:00",
-    "https://www.the-today.com/news/articleView.html?idxno=93799": "2026-11-19T08:09:36.350913+09:00",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=768501": "2026-11-19T08:09:36.350913+09:00",
-    "https://www.newsis.com/view/NISX20261118_0003873479": "2026-11-19T08:09:36.350913+09:00",
-    "https://www.thedailypost.kr/news/articleView.html?idxno=117038": "2026-11-19T08:09:36.350913+09:00"
+    "https://www.geconomy.co.kr/news/article.html?no=325876": "2026-11-20T08:10:49.424267+09:00",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xMGZnUnNUQ1VjU1VOeHlMMzdhdHZlSDN5Wm52dlIwZ2hvTFhlM0NJN1gtNUpxeW91TVN2LWJtNGNPWFUtUUN5UXFOYnE0MVBKMG45YjhzLTVNUGwzVVFvaXluWWJFXzA?oc=5": "2026-11-20T08:10:49.424267+09:00",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=602261": "2026-11-20T08:10:49.424267+09:00",
+    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181514367440101561": "2026-11-20T08:10:49.424267+09:00",
+    "https://www.dailian.co.kr/news/view/1717376/?sc=Naver": "2026-11-20T08:10:49.424267+09:00",
+    "https://www.ajunews.com/view/20261120022138675": "2026-11-20T08:10:49.424267+09:00",
+    "https://www.ajunews.com/view/20261120024018678": "2026-11-20T08:10:49.424267+09:00",
+    "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54484": "2026-11-20T08:10:49.424267+09:00",
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/19/2026111950383.html": "2026-11-20T08:10:49.424267+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=407914": "2026-11-20T08:10:49.424267+09:00"
   },
   "brief_titles": {
-    "b715690a3669e973c87ef9cc54a9d1080012f005e2ca1bc50f41c7cc1aa49d08": "2026-11-19T08:09:36.350913+09:00",
-    "88a2ad5805ff371c2a976c819358b189bcc0d4785456111862020c0f00f11577": "2026-11-19T08:09:36.350913+09:00",
-    "653c130bc7318953fcaf6dc3096eb0d1858608181c0f6c2b439d5c1bbb59750e": "2026-11-19T08:09:36.350913+09:00",
-    "fdc38b47433d7cad1f28248fd930324fd0efff977248187a299c9261f03840ac": "2026-11-19T08:09:36.350913+09:00",
-    "70175b965cdd6bf48f050640afd7a41eba7b7b0021077a09bc74ba23a83ba610": "2026-11-19T08:09:36.350913+09:00",
-    "d44b47286d3bf46b34a7570748b67ab8f8b0e96aba3101005057ee310d65150d": "2026-11-19T08:09:36.350913+09:00",
-    "2755c92db4546d42201e65f6062e5bead2c1784ee27b2772060792ac640a926e": "2026-11-19T08:09:36.350913+09:00"
+    "de8f1ec3150260e1c8b5ca0cb71c2583431674e103bc2f1fea5a2fff49c7c180": "2026-11-20T08:10:49.424267+09:00",
+    "4b71b8fa5200a4302e224c35b3b89ceecead497d5c06f0d7812ee74a9a9a2995": "2026-11-20T08:10:49.424267+09:00",
+    "da6802ef6322e9e651fca2c3995138b67c4f20109917abd060c5018cae287a47": "2026-11-20T08:10:49.424267+09:00",
+    "1acda2a1771e65cec6526f70d2ba2c011a61adcd65067c3d219b19fea3254691": "2026-11-20T08:10:49.424267+09:00",
+    "00bf16fb5b37661867aaa208183bc70bdb39a97b73741d4ad4de7f29ae3e5520": "2026-11-20T08:10:49.424267+09:00",
+    "dfd6bd3f9db8b9495c4aec6111806b308a1aa746cdad09d11fa12d78c99a0a64": "2026-11-20T08:10:49.424267+09:00",
+    "dc5a3bb2df2ee22b77626859d9ccce6d893838cf89dded178e5d5111f08f20e9": "2026-11-20T08:10:49.424267+09:00",
+    "21132bfe154882c0b02d361b2a857a39a3e8f5b958c8f57d31eb684feb31c7e4": "2026-11-20T08:10:49.424267+09:00",
+    "7fe04efbf80d4a9e80ac0997c952e082507cd412779a1f50948a8dcdb31d994a": "2026-11-20T08:10:49.424267+09:00",
+    "aa7a410e74f0dd4f8efb81c00eec8dfceb9fe852b3f8abbd28a970cbff55f320": "2026-11-20T08:10:49.424267+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-19",
+  "brief_date": "2026-11-20",
   "sent_articles": [
     {
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6Y3FUNFdKckRKalJPQncwV0VPNFZuRU1EbmUzWEd5d3hLUUZSdzdmb2VRcnBpMHRKZHZ5eXVuR2o?oc=5",
@@ -9998,43 +9988,57 @@
   ],
   "brief_articles": [
     {
-      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51568",
-      "title": "포스코 홀딩스, 사업회사 포스코 에 해외 철강사 지분 매각…2893억 규모",
-      "date": "Thu, 19 Nov 2026 07:52:00 +0900"
+      "url": "https://www.geconomy.co.kr/news/article.html?no=325876",
+      "title": "LG이노텍, 구미 기숙사 직원 사망 ' 중대재해 제외'…사망자 공시 1명서 ...",
+      "date": "Fri, 20 Nov 2026 05:12:00 +0900"
     },
     {
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315709",
-      "title": "경북 도, 3년간 AI 클라우드팜으로 173개 기업 지원·전문인력 996명 양성",
-      "date": "Thu, 19 Nov 2026 07:38:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xMGZnUnNUQ1VjU1VOeHlMMzdhdHZlSDN5Wm52dlIwZ2hvTFhlM0NJN1gtNUpxeW91TVN2LWJtNGNPWFUtUUN5UXFOYnE0MVBKMG45YjhzLTVNUGwzVVFvaXluWWJFXzA?oc=5",
+      "title": "LG이노텍, 구미 기숙사 직원 사망 '중대재해 제외'…사망자 공시 1명서 0명으로 정정 - 지이코노미",
+      "date": "Thu, 19 Nov 2026 20:11:15 GMT"
     },
     {
-      "url": "https://www.kpinews.kr/newsView/1065563623294594",
-      "title": "현대제철· 포스코 루이지애나 제철소 부두 건설 저지 소송 기각돼",
-      "date": "Thu, 19 Nov 2026 07:01:00 +0900"
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602261",
+      "title": "엘앤에프 , NCM·LFP 양극재 확대에 1515억원 CB 발행⋯운영자금 확보",
+      "date": "Thu, 19 Nov 2026 23:56:00 +0900"
     },
     {
-      "url": "https://www.the-today.com/news/articleView.html?idxno=93799",
-      "title": "[속보] 현대제철· 포스코 美 제철소 부두 소송 각하…4억달러 채권 절차...",
-      "date": "Thu, 19 Nov 2026 07:00:00 +0900"
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181514367440101561",
+      "title": "[더벨][Company Watch] 삼보모터스 , 멕시코법인 실적개선에 3분기 영업익...",
+      "date": "Fri, 20 Nov 2026 07:02:00 +0900"
     },
     {
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768501",
-      "title": "IT서비스 7사 3분기 성적표…현대오토에버 매출 16%↑, 포스코 DX 영업익...",
-      "date": "Thu, 19 Nov 2026 06:10:00 +0900"
+      "url": "https://www.dailian.co.kr/news/view/1717376/?sc=Naver",
+      "title": "최고위서도 터져나온 '조작징계' 의혹 …윤리위 독립성 논란에도 장동혁...",
+      "date": "Fri, 20 Nov 2026 06:15:00 +0900"
     },
     {
-      "url": "https://www.newsis.com/view/NISX20261118_0003873479",
-      "title": "8곳 두고 목동 수주전 2라운드…롯데· 포스코 ·현산 '사활'",
-      "date": "Thu, 19 Nov 2026 05:30:00 +0900"
+      "url": "https://www.ajunews.com/view/20261120022138675",
+      "title": "영양군, 공공임대주택 24호 건립 추진…151억원 투입",
+      "date": "Fri, 20 Nov 2026 05:02:00 +0900"
     },
     {
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117038",
-      "title": "포스코 그룹, 세계 최대 배터리사 CATL과 리튬 장기공급계약…중국 내 판...",
-      "date": "Wed, 18 Nov 2026 23:26:00 +0900"
+      "url": "https://www.ajunews.com/view/20261120024018678",
+      "title": "포스코 노조, 포항 미래세대에 1억원 나눔…장학금·아동쉼터 지원",
+      "date": "Fri, 20 Nov 2026 05:02:00 +0900"
+    },
+    {
+      "url": "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54484",
+      "title": "대동 ~매리 도로 보상협의율 56%…2028년 준공 차질 우려",
+      "date": "Thu, 19 Nov 2026 23:42:00 +0900"
+    },
+    {
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/19/2026111950383.html",
+      "title": "경북 도 실라리안 기업 10곳, 캐나다 수출 교두보 확보",
+      "date": "Thu, 19 Nov 2026 23:12:00 +0900"
+    },
+    {
+      "url": "https://www.vegannews.co.kr/news/article.html?no=407914",
+      "title": "에스엘 , 3분기 82억원 순손실…매출은 4.7% 증가",
+      "date": "Thu, 19 Nov 2026 23:06:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-11-12": 13,
     "2026-11-13": 14,
     "2026-11-14": 1,
     "2026-11-15": 3,
