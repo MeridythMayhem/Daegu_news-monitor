@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5": "2026-11-06T22:01:59.361041+09:00",
     "https://www.news2day.co.kr/article/20261106500370": "2026-11-06T23:01:44.354082+09:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5": "2026-11-06T23:01:44.354082+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5": "2026-11-07T09:01:46.313119+09:00",
@@ -976,10 +975,10 @@
     "https://view.asiae.co.kr/article/2026112019585385429": "2026-11-20T21:07:08.557226+09:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdXIyb1c0ZmpQWDROQUJsR2RGUEJNaENiQWJsSk45MEdHeUhaYUIzUE1FUDRnOGdFUzZUV1p0SkJlRGxUbmVweEM5NTZ0RWh3NFVxVHNwelBCOGp2TXRZcG9qeHNveWZ2dWFnemM0V1dBUQ?oc=5": "2026-11-20T22:10:20.178025+09:00",
     "https://www.bzeronews.com/news/articleView.html?idxno=825628": "2026-11-20T22:10:20.178025+09:00",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFa2V1c2hUV2FLTkNNOEZlMFlkZzB5eEJSRWg5SDlBblV1UnFWcjF3OXB4eS1sX082SDUyTW9XdEx6Yll3TjhEMC1VSVBfQ0g0b0RYVGJKYllrenBVOEhwNXN6LWw?oc=5": "2026-11-20T22:10:20.178025+09:00"
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFa2V1c2hUV2FLTkNNOEZlMFlkZzB5eEJSRWg5SDlBblV1UnFWcjF3OXB4eS1sX082SDUyTW9XdEx6Yll3TjhEMC1VSVBfQ0g0b0RYVGJKYllrenBVOEhwNXN6LWw?oc=5": "2026-11-20T22:10:20.178025+09:00",
+    "https://www.imaeil.com/page/view/2026112015070241931": "2026-11-20T23:08:57.403721+09:00"
   },
   "titles": {
-    "5afae9715bcde8446b21d25581eda7ccefbdd2b646efa84d03af39dfef17ae99": "2026-11-06T22:01:59.361041+09:00",
     "3014a0815a50f21c2e64c7e2c5ffa9a115dbba60f9050b765e9546d9f037d934": "2026-11-06T23:01:44.354082+09:00",
     "e28ff03cd17e7dcd8fa47c1265e1f90b8066b06c217fc87ade2b7cb4b6b86289": "2026-11-06T23:01:44.354082+09:00",
     "89e20f41517c96579f10bc875da323a03e87161b1d9d7864260ce0259291da54": "2026-11-07T09:01:46.313119+09:00",
@@ -1955,7 +1954,8 @@
     "08336f93cd0c46305378732a0ee62a6ab1e18e52b70cb08a5506844fde698e90": "2026-11-20T21:07:08.557226+09:00",
     "edcd5691d9937d9f29e4730b2863b39cda1e0d0c259fc03938667b97d7383720": "2026-11-20T22:10:20.178025+09:00",
     "ab2b0dbba021a6396b33c92b252b44065f4bb102d5329a691808975654db74ef": "2026-11-20T22:10:20.178025+09:00",
-    "4c79f1a9e9ab44960f333d0319ee5e2540c658eacfffe78c979703c8339e513b": "2026-11-20T22:10:20.178025+09:00"
+    "4c79f1a9e9ab44960f333d0319ee5e2540c658eacfffe78c979703c8339e513b": "2026-11-20T22:10:20.178025+09:00",
+    "47c41224ea7b67a534a9b015ff88712ffeaa4b323910d131b4d1c232ad1635e7": "2026-11-20T23:08:57.403721+09:00"
   },
   "pending": {},
   "ai": {
@@ -4470,6 +4470,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.imaeil.com/page/view/2026112015070241931": {
+      "title": "포항 에 385실 규모 고급 숙박시설…한화호텔앤드리조트 4천800억원 투자",
+      "summary": "경북도는 20일 도청에서 포항 시, 한화호텔앤드리조트㈜, 포항 하나원㈜과 환호지구 관광숙박시설 건립을 위한 투자 업무 협약 을 체결했다. 협약 식에는 이철우 경북도지사와 박용선 포항 시장, 최석진 한화호텔앤드리조트...",
+      "url": "https://www.imaeil.com/page/view/2026112015070241931",
+      "date": "Fri, 20 Nov 2026 22:43:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4499,16 +4512,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-20",
   "sent_articles": [
-    {
-      "url": "https://www.news2day.co.kr/article/20261106500370",
-      "title": "경북 도·의성군, 바이오·푸드테크 산업 대전환…455억 투자 결실",
-      "date": "Fri, 06 Nov 2026 22:36:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5",
-      "title": "경주시, 태영테크 명계3산단 신공장 준공…151억 투자 결실 - 국제뉴스",
-      "date": "Fri, 06 Nov 2026 13:10:09 GMT"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5",
       "title": "'말'보다 '눈'으로…한수원, 합천양수 주민을 공사 현장 앞에 세웠다 - 에너지안전신문",
@@ -9378,6 +9381,11 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFa2V1c2hUV2FLTkNNOEZlMFlkZzB5eEJSRWg5SDlBblV1UnFWcjF3OXB4eS1sX082SDUyTW9XdEx6Yll3TjhEMC1VSVBfQ0g0b0RYVGJKYllrenBVOEhwNXN6LWw?oc=5",
       "title": "포항 환호지구에 4800억 투자…호텔·리조트 개발 본격화 - 경북TV",
       "date": "Fri, 20 Nov 2026 12:09:28 GMT"
+    },
+    {
+      "url": "https://www.imaeil.com/page/view/2026112015070241931",
+      "title": "포항 에 385실 규모 고급 숙박시설…한화호텔앤드리조트 4천800억원 투자",
+      "date": "Fri, 20 Nov 2026 22:43:00 +0900"
     }
   ],
   "brief_articles": [
