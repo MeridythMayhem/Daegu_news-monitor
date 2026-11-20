@@ -986,7 +986,17 @@
     "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065614260142185": "2026-11-19T22:08:34.880498+09:00",
     "https://vop.co.kr/A00001697680.html": "2026-11-19T22:08:34.880498+09:00",
     "https://www.joongang.co.kr/article/25480268": "2026-11-19T23:09:15.216351+09:00",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3757641": "2026-11-19T23:09:15.216351+09:00"
+    "https://www.gukjenews.com/news/articleView.html?idxno=3757641": "2026-11-19T23:09:15.216351+09:00",
+    "https://www.itbiznews.com/news/articleView.html?idxno=232205": "2026-11-20T09:09:50.694875+09:00",
+    "https://www.g-enews.com/view.php?ud=20261120083948914844093b5d4e_1": "2026-11-20T09:09:50.694875+09:00",
+    "https://www.mt.co.kr/stock/2026/11/20/2026112008225688924": "2026-11-20T09:09:50.694875+09:00",
+    "https://www.todayenergy.kr/news/articleView.html?idxno=305826": "2026-11-20T09:09:50.694875+09:00",
+    "https://www.newspim.com/news/view/20261120000117": "2026-11-20T09:09:50.694875+09:00",
+    "https://www.newsway.co.kr/news/view?ud=2026112008274735137": "2026-11-20T09:09:50.694875+09:00",
+    "http://www.press9.kr/news/articleView.html?idxno=86714": "2026-11-20T09:09:50.694875+09:00",
+    "https://www.ekn.kr/web/view.php?key=20261120027462238": "2026-11-20T09:09:50.694875+09:00",
+    "http://www.popcornnews.net/news/articleView.html?idxno=140832": "2026-11-20T09:09:50.694875+09:00",
+    "https://www.edaily.co.kr/News/Read?newsId=01961446645647688&mediaCodeNo=257": "2026-11-20T09:09:50.694875+09:00"
   },
   "titles": {
     "8d7f17f47acd88e7097cfec92b5e703476b0829709214ab6a05de77d2e9de2a6": "2026-11-06T09:02:59.559244+09:00",
@@ -1975,7 +1985,17 @@
     "3318fbc02aa98eabb3f7832420ea8367408922108c732226374c294496842627": "2026-11-19T22:08:34.880498+09:00",
     "7e495c1a39cf3e05eb81884aee8050e239abb1fec0d083ae6b15c01183465709": "2026-11-19T22:08:34.880498+09:00",
     "6eabc0396165919864b6462a89dacafe7e20c12a02333354228fdb6e84bcf065": "2026-11-19T23:09:15.216351+09:00",
-    "877722c7b3f5ceef35a453e4be68a058ada74915a7297e2a8d43282e9b50da94": "2026-11-19T23:09:15.216351+09:00"
+    "877722c7b3f5ceef35a453e4be68a058ada74915a7297e2a8d43282e9b50da94": "2026-11-19T23:09:15.216351+09:00",
+    "8c8436c49de2444bd08d61f23a0deefb25d5ca5b88f9570d86183002d32233ab": "2026-11-20T09:09:50.694875+09:00",
+    "adad0bfa9718f4ba0cd33b7c99dae74794b45ed3544463260df9946a6f321bb0": "2026-11-20T09:09:50.694875+09:00",
+    "93bdb556be1b3ecd93280f8dd1ff6d17350938fa988f72a75ec9ff770f9949f1": "2026-11-20T09:09:50.694875+09:00",
+    "92a83ab7332a68a2ffdabd956cf4e18d8072936a9f3321edb55a790dd4bdddd1": "2026-11-20T09:09:50.694875+09:00",
+    "04b61cabb2614af5897be70ff3af7245d80b1a258a80c12a04fa089e8f440de5": "2026-11-20T09:09:50.694875+09:00",
+    "83b3ed2f8b6710d332b386aea619c0c6810b3a5e2466e2faaaab929f1b1752b9": "2026-11-20T09:09:50.694875+09:00",
+    "ed5bbc2e39e2f886f238cb969120f581cd13c265fb8ceedbdd86b80b60779cab": "2026-11-20T09:09:50.694875+09:00",
+    "8eb3e5285cd855426c8e261a7fcc75934dab801c865e9598397f31b0066c4793": "2026-11-20T09:09:50.694875+09:00",
+    "243ed9cc7d59917ab64ffe7719679e942973c983738b52bc7800a4adfceeaad8": "2026-11-20T09:09:50.694875+09:00",
+    "f1810197bc2aa04513e58e2d3867ecb42004d612ff04d5842ddab3c73d57939d": "2026-11-20T09:09:50.694875+09:00"
   },
   "pending": {},
   "ai": {
@@ -1985,101 +2005,11 @@
     "2026-11-16": 9,
     "2026-11-17": 7,
     "2026-11-18": 3,
-    "2026-11-19": 6
+    "2026-11-19": 6,
+    "2026-11-20": 1
   },
   "cursor": 0,
   "archive": {
-    "https://www.imaeil.com/page/view/2026111714350829865": {
-      "title": "경북 도, 식품안전정보원과 손잡고 ' 경북 K-푸드 수출, 해외 규제 대응 강...",
-      "summary": "경북 도는 17일 서울 식품안전정보원에서 이철우 경북 도지사와 이재용 식품안전정보원장 등이 참석한 가운데 '식품안전체계 구축 및 식품한류산업 진흥을 위한 업무협약( MOU )'을 체결했다고 이날 밝혔다. 이번 협약은...",
-      "url": "https://www.imaeil.com/page/view/2026111714350829865",
-      "date": "Wed, 18 Nov 2026 08:53:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.metroseoul.co.kr/article/20261117500546": {
-      "title": "구미 시, 대한민국역사박물관과 구미 산업화역사관 건립 협력",
-      "summary": "구미 시는 17일 서울 종로구 대한민국역사박물관에서 구미 산업화역사관 건립을 위한 업무협약( MOU )을 체결하고, 지역 산업유산의 체계적인 보존과 활용에 나섰다. 이날 협약식에는 김장호 구미 시장과 한수...",
-      "url": "http://www.metroseoul.co.kr/article/20261117500546",
-      "date": "Wed, 18 Nov 2026 08:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ekn.kr/web/view.php?key=20261118027461227": {
-      "title": "에스엘 , 원재료 가격 상승에 수익성 부담…목표가 하향 [NH투자증권]",
-      "summary": "에스엘 의 목표주가가 하향 조정됐다. 주요 원재료인 전자 소재 가격 상승으로 수익성 부담이... 18일 NH투자증권은 에스엘 의 목표주가를 기존 9만1000원에서 6만4000원으로 29.7% 하향 조정했다. 내년 주당순이익(EPS)...",
-      "url": "https://www.ekn.kr/web/view.php?key=20261118027461227",
-      "date": "Wed, 18 Nov 2026 09:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에스엘",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ajunews.com/view/20261118085019012": {
-      "title": "NH證 \" 에스엘 , 전자 소재 가격 상승에 실적 전망 하향…목표가↓\"",
-      "summary": "아주경제=양보연 기자 byeony@ajunews.com NH투자증권은 18일 에스엘 에 대해 주요 원재료인 전자 소재 가격... 에스엘 의 3분기 매출액은 1조3639억원으로 전년 동기 대비 4.7% 증가했지만 영업이익은 461억원으로 32.5% 감소해...",
-      "url": "https://www.ajunews.com/view/20261118085019012",
-      "date": "Wed, 18 Nov 2026 08:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에스엘",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.eroun.net/news/articleView.html?idxno=95745": {
-      "title": "대구시, 대형건설사·지역업체 매칭 교류회 개최...하도급 수주 지원",
-      "summary": "이날 행사에는 현대건설과 GS건설, 현대엔지니어링, DL이앤씨, 롯데건설, 포스코 이앤씨 등 외지 대형건설사 17곳과 토공, 금속·창호, 철근·콘크리트, 기계설비 분야의 지역업체 49곳이 참석했다. 참가업체들은 사전...",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=95745",
-      "date": "Wed, 18 Nov 2026 08:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZk9xWWlNVy1wMjJjTnVNeXN5Z0pEVGZCNVpnRkQyakdqNkNWa1VfYmMyWGJpRjFNVllWbkpGWXRheHVoS3dpaVVpNHJ2WjFuc1Bnd1g0UHo1cXRtVXpScVpn?oc=5": {
-      "title": "경북도, 식품안전정보원과 손잡고 `경북 K-푸드 수출, 해외 규제 대응 강화` - 매일신문",
-      "summary": "경북도, 식품안전정보원과 손잡고 `경북 K-푸드 수출, 해외 규제 대응 강화` 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZk9xWWlNVy1wMjJjTnVNeXN5Z0pEVGZCNVpnRkQyakdqNkNWa1VfYmMyWGJpRjFNVllWbkpGWXRheHVoS3dpaVVpNHJ2WjFuc1Bnd1g0UHo1cXRtVXpScVpn?oc=5",
-      "date": "Tue, 17 Nov 2026 23:52:26 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRX1ZaYklCejAtUnN6SFdlUm01Y3J5YzdsdXphaGhPN0Y5YUdDbmdjVVRzYzlZSUJ2MTdiaE9jRkM3WklmS1dTTHkyd0xCQ2E4UXRHZ2xFRnE4Z9IBWEFVX3lxTE9neEhfaVA0VDZFVGUwcEplcGQ3S2ZZR3FjRWtLWUNSQk5Cd3pFRDFtbHFtY3pjZm1hZjJ0a1d0UUo2WTM1dG5fQWJfNE56VVpVcDNJTG5CTVE?oc=5": {
-      "title": "NH證 에스엘, 전자 소재 가격 상승에 실적 전망 하향…목표가↓ - 아주경제",
-      "summary": "NH證 에스엘, 전자 소재 가격 상승에 실적 전망 하향…목표가↓ 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRX1ZaYklCejAtUnN6SFdlUm01Y3J5YzdsdXphaGhPN0Y5YUdDbmdjVVRzYzlZSUJ2MTdiaE9jRkM3WklmS1dTTHkyd0xCQ2E4UXRHZ2xFRnE4Z9IBWEFVX3lxTE9neEhfaVA0VDZFVGUwcEplcGQ3S2ZZR3FjRWtLWUNSQk5Cd3pFRDFtbHFtY3pjZm1hZjJ0a1d0UUo2WTM1dG5fQWJfNE56VVpVcDNJTG5CTVE?oc=5",
-      "date": "Tue, 17 Nov 2026 23:51:31 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에스엘",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.kbmaeil.com/article/20261118500086": {
       "title": "구미상의· iM뱅크 , 제42회 구미CEO포럼 공동 개최- 제63회 무역의 날 시...",
       "summary": "구미상공회의소(회장 윤재호)와 iM뱅크 (은행장 강정훈)가 17일 구미상의 대강당에서 ‘제42회 구미CEO포럼 및 제63회 무역의 날 시상식’을 공동 개최했다. 이날 행사에는 윤재호 회장과 강정훈 행장을 비롯해 정성현...",
@@ -5021,6 +4951,136 @@
       "category": "산재·사업장 사고",
       "priority": 100,
       "filter_version": 18
+    },
+    "http://www.press9.kr/news/articleView.html?idxno=86714": {
+      "title": "하나은행, 대구 광역치매센터와 치매안심 금융 MOU",
+      "summary": "하나은행이 대구 광역치매센터와 치매 환자 및 가족의 금융 접근성 개선을 위한 업무협약( MOU )을 체결했다. 양 기관은 '하나더넥스트 대구 중앙 라운지'를 거점으로 인지기능 저하에 대비한 자산관리와 금융사기 예방...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=86714",
+      "date": "Fri, 20 Nov 2026 08:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ekn.kr/web/view.php?key=20261120027462238": {
+      "title": "구미시, 삼성 19조 투자에 로봇 특화 단지 까지…휴머노이드 산업 중심지...",
+      "summary": "특히 삼성의 대규모 투자계획과 대구 · 경북 (구미·포항) 로봇 국가첨단전략 산업 특화 단지 공동 지정을 계기로 산학연 공동 연구개발(R&D), 핵심부품 국산화, 실증·사업화 지원을 확대한다는 방침이다. 이를 통해 기존 전자...",
+      "url": "https://www.ekn.kr/web/view.php?key=20261120027462238",
+      "date": "Fri, 20 Nov 2026 08:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.itbiznews.com/news/articleView.html?idxno=232205": {
+      "title": "엘앤에프 , 1,515억원 규모 CB 발행…\"NCM·LFP 사업 재원 확보\"",
+      "summary": "엘앤에프 가 이사회를 열고 총 1,515억원 규모의 전환사채(CB) 발행을 결정했다. 울트라 하이니켈·46파이... 엘앤에프 는 \"사업 확대 계획에 따른 자금 집행 일정, 자본시장 여건과 기존 주주의 지분 희석 영향을...",
+      "url": "https://www.itbiznews.com/news/articleView.html?idxno=232205",
+      "date": "Fri, 20 Nov 2026 09:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.mt.co.kr/stock/2026/11/20/2026112008225688924": {
+      "title": "\" 엘앤에프 , 설비투자 위해 추가 자금조달 불가피… 목표가↓\"-대신",
+      "summary": "대신증권이 20일 엘앤에프 에 대한 목표주가를 기존 15만원에서 11만원으로 낮춰 잡았다. 자금조달에 따른... 엘앤에프 는 전날 총 1515억원 규모의 운영자금 조달 계획을 공시했다. 일반 전환사채(CB) 1212억원과 영구 CB...",
+      "url": "https://www.mt.co.kr/stock/2026/11/20/2026112008225688924",
+      "date": "Fri, 20 Nov 2026 08:57:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newspim.com/news/view/20261120000117": {
+      "title": "[모닝 리포트] \" 엘앤에프 , LFP 성장 위한 자금조달 가시화\"",
+      "summary": "대신증권은 20일 2차전지 양극재 기업 엘앤에프 에 대해 리튬인산철(LFP) 양극재 증설을 위한 추가... 엘앤에프 로고. [사진= 엘앤에프 ] 엘앤에프 는 지난 19일 총 1515억원 규모의 운영자금 조달을 공시했다. 일반...",
+      "url": "https://www.newspim.com/news/view/20261120000117",
+      "date": "Fri, 20 Nov 2026 08:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsway.co.kr/news/view?ud=2026112008274735137": {
+      "title": "엘앤에프 목표가 줄하향…자금조달 부담·업종 평가 하락 반영[애널리스...",
+      "summary": "엘앤에프 의 목표주가를 낮추는 증권사들이 잇따르고 있다. 대신증권은 1515억원 규모의 전환사채(CB)... 20일 김귀연 대신증권 연구원은 엘앤에프 의 목표주가를 15만원에서 11만원으로 낮췄다. 앞서 전날 조현렬...",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026112008274735137",
+      "date": "Fri, 20 Nov 2026 08:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.popcornnews.net/news/articleView.html?idxno=140832": {
+      "title": "교보증권 \" 엘앤에프 , 하이니켈·ESS용 양극재 공급 확대…내년 매출 4조...",
+      "summary": "교보증권은 20일 엘앤에프 에 대해 \"하이니켈 양극재 공급이 늘고 북미 에너지저장장치(ESS)용 리튬인산철... 고객사가 계획대로 배터리 생산을 늘리면 엘앤에프 도 기존 설비 가동률을 높여 제품 단위당 고정비 부담을...",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=140832",
+      "date": "Fri, 20 Nov 2026 08:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.g-enews.com/view.php?ud=20261120083948914844093b5d4e_1": {
+      "title": "신한투자증권 \" 포스코 DX, 자동화 수주.. 내년 영업익 72% 급증\"",
+      "summary": "신한투자증권은 20일 포스코 DX의 내년 영업이익이 72% 급증할 것으로 전망했다. 올해 크게 늘어난 자동화... 포스코 DX의 3분기 자동화 부문 신규 수주액은 1844억원으로 전년 동기 대비 49.3% 급증했다. 자동화 사업...",
+      "url": "https://www.g-enews.com/view.php?ud=20261120083948914844093b5d4e_1",
+      "date": "Fri, 20 Nov 2026 09:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.todayenergy.kr/news/articleView.html?idxno=305826": {
+      "title": "포스코 그룹, CATL과 리튬 장기공급계약 체결",
+      "summary": "포스코 그룹이 세계 1위 전기차 배터리 기업인 중국 CATL과 손을 잡고 글로벌 리튬 시장 공략에 속도를 낸다. 포스코 그룹은 최근 CATL(Contemporary Amperex Technology Co., Limited)과 전기차 배터리용 리튬 장기공급계약을...",
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305826",
+      "date": "Fri, 20 Nov 2026 08:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코 · 시설 투자/계약",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=01961446645647688&mediaCodeNo=257": {
+      "title": "포스코 DX, 자동화 수주 회복…2027년 영업익 72% 증가 전망-신한",
+      "summary": "신한투자증권은 포스코 DX(022100)에 대해 자동화 사업 수주 회복이 매출 성장으로 이어지는 구간에... 20일 박광래 신한투자증권 연구원은 포스코 DX의 3분기 신규 수주액이 2469억원으로 전년 동기 대비 32.7% 증가했다고...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01961446645647688&mediaCodeNo=257",
+      "date": "Fri, 20 Nov 2026 08:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5050,41 +5110,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-20",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB6Y3FUNFdKckRKalJPQncwV0VPNFZuRU1EbmUzWEd5d3hLUUZSdzdmb2VRcnBpMHRKZHZ5eXVuR2o?oc=5",
-      "title": "국세청, 3인 서기관 승진 동기라지만, 가는 곳은 제 각각 달라요, 어차피 그런 인사(?) - 온투데이",
-      "date": "Thu, 05 Nov 2026 23:07:00 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3R0d4eTlnWVhQcmh2Z2lEcUFMV0FpcjZQelhORlUwZVdYVjJ4cWsweE5wUU0xc1FGQUJFYV9NX3pUcExjaXR0czJwdDY0V2o5UFhDZC1yX0hqZlN3WW9qZjM0cUpYek9rcEFaWmlR?oc=5",
-      "title": "엘앤에프·에코프로비엠, 3분기 영업이익 합계 145억 적자 - 이포커스",
-      "date": "Thu, 05 Nov 2026 23:54:03 GMT"
-    },
-    {
-      "url": "https://www.g-enews.com/view.php?ud=20261106082918308044093b5d4e_1",
-      "title": "신한투자증권 \" 에코프로 비엠, 4분기 적자 예상.. 목표가 하향\"",
-      "date": "Fri, 06 Nov 2026 08:50:00 +0900"
-    },
-    {
-      "url": "http://www.newsprime.co.kr/news/article.html?no=753954",
-      "title": "에코프로 비엠, 해외 생산 확대·신규 수주 기대…2028년 실적 회복 '청신...",
-      "date": "Fri, 06 Nov 2026 08:46:00 +0900"
-    },
-    {
-      "url": "https://www.newsway.co.kr/news/view?ud=2026110608295933471",
-      "title": "엘앤에프 목표가 줄하향···실적 부진에 LFP 경쟁 우려까지[애널리스...",
-      "date": "Fri, 06 Nov 2026 08:40:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SWUd4VzVYNUtDVFUtMG9wSkVhaWNQLTNNMjJHSTFqUjhFZVJreVFaSDRxQnJhRlRMZ3kwSHZQY3lleWo0Y1d4Q3hNZ015cXI1NTlES3NxVDJRSU5F?oc=5",
-      "title": "[리포트 브리핑]엘앤에프, '메탈 가격 변동으로 단기 실적 불확실성 확대' 목표가 160,000원 - 키움증권 - 뉴스핌",
-      "date": "Thu, 05 Nov 2026 23:37:00 GMT"
-    },
-    {
-      "url": "http://www.newsdream.kr/news/articleView.html?idxno=121605",
-      "title": "[키-리포트] DB \" 에코프로 비엠, 4분기 영업적자 전망\"",
-      "date": "Fri, 06 Nov 2026 08:16:00 +0900"
-    },
     {
       "url": "https://www.newspim.com/news/view/20261106000077",
       "title": "[모닝 리포트] \" 엘앤에프 , 실적 부진에도 LFP 확장 주목\"",
@@ -9984,6 +10009,56 @@
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757641",
       "title": "\"805억 투입, 예술 담고 미래 짓는다\"… 경북 도립미술관 건립 본궤도",
       "date": "Thu, 19 Nov 2026 22:48:00 +0900"
+    },
+    {
+      "url": "https://www.itbiznews.com/news/articleView.html?idxno=232205",
+      "title": "엘앤에프 , 1,515억원 규모 CB 발행…\"NCM·LFP 사업 재원 확보\"",
+      "date": "Fri, 20 Nov 2026 09:00:00 +0900"
+    },
+    {
+      "url": "https://www.g-enews.com/view.php?ud=20261120083948914844093b5d4e_1",
+      "title": "신한투자증권 \" 포스코 DX, 자동화 수주.. 내년 영업익 72% 급증\"",
+      "date": "Fri, 20 Nov 2026 09:00:00 +0900"
+    },
+    {
+      "url": "https://www.mt.co.kr/stock/2026/11/20/2026112008225688924",
+      "title": "\" 엘앤에프 , 설비투자 위해 추가 자금조달 불가피… 목표가↓\"-대신",
+      "date": "Fri, 20 Nov 2026 08:57:00 +0900"
+    },
+    {
+      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305826",
+      "title": "포스코 그룹, CATL과 리튬 장기공급계약 체결",
+      "date": "Fri, 20 Nov 2026 08:56:00 +0900"
+    },
+    {
+      "url": "https://www.newspim.com/news/view/20261120000117",
+      "title": "[모닝 리포트] \" 엘앤에프 , LFP 성장 위한 자금조달 가시화\"",
+      "date": "Fri, 20 Nov 2026 08:54:00 +0900"
+    },
+    {
+      "url": "https://www.newsway.co.kr/news/view?ud=2026112008274735137",
+      "title": "엘앤에프 목표가 줄하향…자금조달 부담·업종 평가 하락 반영[애널리스...",
+      "date": "Fri, 20 Nov 2026 08:42:00 +0900"
+    },
+    {
+      "url": "http://www.press9.kr/news/articleView.html?idxno=86714",
+      "title": "하나은행, 대구 광역치매센터와 치매안심 금융 MOU",
+      "date": "Fri, 20 Nov 2026 08:40:00 +0900"
+    },
+    {
+      "url": "https://www.ekn.kr/web/view.php?key=20261120027462238",
+      "title": "구미시, 삼성 19조 투자에 로봇 특화 단지 까지…휴머노이드 산업 중심지...",
+      "date": "Fri, 20 Nov 2026 08:40:00 +0900"
+    },
+    {
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=140832",
+      "title": "교보증권 \" 엘앤에프 , 하이니켈·ESS용 양극재 공급 확대…내년 매출 4조...",
+      "date": "Fri, 20 Nov 2026 08:30:00 +0900"
+    },
+    {
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01961446645647688&mediaCodeNo=257",
+      "title": "포스코 DX, 자동화 수주 회복…2027년 영업익 72% 증가 전망-신한",
+      "date": "Fri, 20 Nov 2026 08:24:00 +0900"
     }
   ],
   "brief_articles": [
@@ -10045,7 +10120,8 @@
     "2026-11-16": 7,
     "2026-11-17": 6,
     "2026-11-18": 3,
-    "2026-11-19": 6
+    "2026-11-19": 6,
+    "2026-11-20": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
