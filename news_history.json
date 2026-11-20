@@ -1,9 +1,5 @@
 {
   "sent": {
-    "https://dgmbc.com/NewsArticle/871864": "2026-11-06T14:02:06.909596+09:00",
-    "https://www.farminsight.net/news/articleView.html?idxno=17186": "2026-11-06T14:02:06.909596+09:00",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501910": "2026-11-06T14:02:06.909596+09:00",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KU3liN0RubUdydXhxNDRJRGxnNVZpYTA2RUx1eG43UmRYR2ZWaGY5YVdXS2RCTGRCVm5xdk1RY3h6Y3VtRG9ib2RQVXdEcUxJbDFiOVVwMndGY29GOEZPVTR3elRmc3A0?oc=5": "2026-11-06T14:02:06.909596+09:00",
     "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718057": "2026-11-06T15:01:47.347759+09:00",
     "https://www.eroun.net/news/articleView.html?idxno=94663": "2026-11-06T15:01:47.347759+09:00",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=314815": "2026-11-06T16:02:15.108057+09:00",
@@ -976,13 +972,17 @@
     "https://www.todayenergy.kr/news/articleView.html?idxno=305835": "2026-11-20T12:10:03.267361+09:00",
     "https://www.1conomynews.co.kr/news/articleView.html?idxno=51421": "2026-11-20T12:10:03.267361+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnVEZoakNsWWw1enBMc1pOR3dOSmtCdHN4NXZ1QktEZXhEUzF5NkFaYlljSUZXdG1yMzUtaWJMamQ3UG1mLW14bnV0SUVhbDJaSmhyVmViVWgyeEJtSnpmbkIwTDhnZWJEbWF3?oc=5": "2026-11-20T13:14:34.053565+09:00",
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085815": "2026-11-20T14:03:34.988768+09:00"
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085815": "2026-11-20T14:03:34.988768+09:00",
+    "https://www.hankookilbo.com/news/article/A2026112009220003675?did=NA": "2026-11-20T15:09:12.396644+09:00",
+    "http://www.yonhapnewstv.co.kr/news/AKR202611201458139i8": "2026-11-20T15:09:12.396644+09:00",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=239866": "2026-11-20T15:09:12.396644+09:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUTY2bnhiS3l5MVc2aDFKZmdhR3BJcWdNN2ZCUmp3OXNpbGxIVXczU1dxQzZFVGNidGw1aGdJTktYdVhzYXBoYWN1Ym1lUk5UdGs1c2F6OVIzZGdoSFJqWFo0Mm5JQQ?oc=5": "2026-11-20T15:09:12.396644+09:00",
+    "https://www.yna.co.kr/view/AKR20261120110400053?input=1195m": "2026-11-20T15:09:12.396644+09:00",
+    "https://www.nocutnews.co.kr/news/6610164": "2026-11-20T15:09:12.396644+09:00",
+    "https://www.agrinet.co.kr/news/articleView.html?idxno=408978": "2026-11-20T15:09:12.396644+09:00",
+    "https://www.imaeil.com/page/view/2026112013580542083": "2026-11-20T15:09:12.396644+09:00"
   },
   "titles": {
-    "1091b989d5d61f32f7a5aa88e3285d63ea76a7501924c9565bc72801f195eeb3": "2026-11-06T14:02:06.909596+09:00",
-    "a6085683a385ae7b4d9052f2d387563c338e81ce57c103ca4c8655617823c740": "2026-11-06T14:02:06.909596+09:00",
-    "f38bf719ce89813568c8bd6b7143a0986d04304f90e8375d1eaee0dd406c981f": "2026-11-06T14:02:06.909596+09:00",
-    "5fd44fec5dff8947eb334b44214879b8ea18d1af66e71f1f1931e2db366f9bcc": "2026-11-06T14:02:06.909596+09:00",
     "8d61161607278638d95901a6f6b7ec5560202e2ce71ef806fffdf90959939b33": "2026-11-06T15:01:47.347759+09:00",
     "b86bb6ffae7514aacaf97b348ba8c875952187be9c37a559e4084d4296930bc1": "2026-11-06T15:01:47.347759+09:00",
     "ff64086349d362f0aa2e6ff0cdf81b35b05f49dda2635d0c47b6e1e5e843e8b9": "2026-11-06T16:02:15.108057+09:00",
@@ -1955,7 +1955,15 @@
     "b82bb36c3010aac9ca1efd67bfdb2b4012e8cd217828953650634dc7535b17ae": "2026-11-20T12:10:03.267361+09:00",
     "85adecdabc96151d62c99f55d7d0402d6f04f166d47fdc47a6f47c9d7ba0d99e": "2026-11-20T12:10:03.267361+09:00",
     "4f75bd390a26a2eaacafae8c54ed33085384fd05c109b98704a2a76412b99e3a": "2026-11-20T13:14:34.053565+09:00",
-    "590741b7fd65f0b3f200d14bdc01b9722c0e2a03560d2032de5fbc350a29f379": "2026-11-20T14:03:34.988768+09:00"
+    "590741b7fd65f0b3f200d14bdc01b9722c0e2a03560d2032de5fbc350a29f379": "2026-11-20T14:03:34.988768+09:00",
+    "fd9a374dfc2166e9722fd6b7c09d607d0ddcf2a51187b20aaefa8eb8143ceb02": "2026-11-20T15:09:12.396644+09:00",
+    "d903bc4596af013dc432eb1b60c03bd79557f805c19eeb795c0dce83918cd507": "2026-11-20T15:09:12.396644+09:00",
+    "e8b8a023ac596d51826865963da5e53ebf1899398b323aa72d2beb5162cfb989": "2026-11-20T15:09:12.396644+09:00",
+    "efa22ff4037c505046252386e6827215ea45f8f5b80473132cb620a03e320d0b": "2026-11-20T15:09:12.396644+09:00",
+    "581e6b7a79fd09901e42069b15da406a811291835bf39cd3bb67afe8fe040b1d": "2026-11-20T15:09:12.396644+09:00",
+    "99aa19c5fc929afd1b503fdc10da4317658d25783041341ba858c59250476bc2": "2026-11-20T15:09:12.396644+09:00",
+    "b8d037043b7454430678f3d703979392a3a0d66c822542e372b5401f961d1928": "2026-11-20T15:09:12.396644+09:00",
+    "cfeafcf3fc16fc45e49302efd1f2c23644e45ab5cef3df70f04845c3ec954760": "2026-11-20T15:09:12.396644+09:00"
   },
   "pending": {},
   "ai": {
@@ -1966,322 +1974,10 @@
     "2026-11-17": 7,
     "2026-11-18": 3,
     "2026-11-19": 6,
-    "2026-11-20": 2
+    "2026-11-20": 3
   },
   "cursor": 0,
   "archive": {
-    "https://www.news1.kr/local/daegu-gyeongbuk/6358219": {
-      "title": "경북 도의회, 투자·수출 지원 성과 따져…\"실제 투자·수출로 이어져야...",
-      "summary": "양해각서( MOU ) 13건만 맺은 것으로 발표 했다\"며 \"수출 양해각서도 성과이지만 실질적인 수출로 이어져야 한다\"고 지적했다. 경북 에 따르면 58개사가 입점한 실라리안 온라인몰의 올해 1~9월 매출은 약 5500만 원이다. 최...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6358219",
-      "date": "Wed, 18 Nov 2026 14:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.etoday.co.kr/news/view/2649847": {
-      "title": "경북 도, 해외 바이어 초청 수출상담회 '340만 달러 상담 성과'",
-      "summary": "이투데이=대구 경북 취재본부 이용호 기자 | 안동서 해외구매자 초청 수출상담회 개최 미국, 러시아 등 10개국 32개사ㆍ도내 중소기업 48개사 참가 계약 추진액 136만 달러…중소기업-해외기업 MOU 10건 경북 도가 해외...",
-      "url": "https://www.etoday.co.kr/news/view/2649847",
-      "date": "Wed, 18 Nov 2026 14:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.hidomin.com/news/articleView.html?idxno=729931": {
-      "title": "경북 중소기업 15개사, 베트남 달랏서 수출시장 공략…황명석 경북 도 행...",
-      "summary": "농산물 가공 식품, 벌꿀, 떡볶이 등 식품류와 마스크팩, 스킨케어 제품 등이다. 경북 기업들은 현지 소비자와 바이어를 대상으로 제품을 소개하고 시장 반응을 살피는 한편, 수출 상담을 통해 신규 거래 처 확보와 유통망...",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=729931",
-      "date": "Wed, 18 Nov 2026 14:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026111800034&story_seq=0&soCode=114&socttSn=NS2026111800034&socttSeq=0": {
-      "title": "구미 시-대한민국역사박물관, ' 구미 산업화역사관' 건립 협력",
-      "summary": "시는 지난 17일 서울 대한민국역사박물관에서 업무협약하고, 가칭 ' 구미 산업화역사관' 건립 에 관해 협력하기로 했습니다. 이어 열린 학술대회에서는 구미 산업화의 역사적 의미와 산업유산 보존·활용 방안 등을...",
-      "url": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026111800034&story_seq=0&soCode=114&socttSn=NS2026111800034&socttSeq=0",
-      "date": "Wed, 18 Nov 2026 14:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.imaeil.com/page/view/2026111614052498804": {
-      "title": "연구용역까지 마쳤지만, 대구 독립기념관 건립 '하세월'",
-      "summary": "대구 시는 법 개정에 대비해 올해 독립기념관 대구 분원 건립 을 위한 타당성 및 기본구상 연구용역을 완료했다. 하지만 분원 설치의 법적 근거가 마련되지 않으면서 구체적인 건립 절차에는 착수하지 못한 상태다. 대구 시...",
-      "url": "https://www.imaeil.com/page/view/2026111614052498804",
-      "date": "Wed, 18 Nov 2026 14:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/politics/general-politics/6358060": {
-      "title": "홍준표 \"당대표, 윤리위에 징계 양정 밝힐 권리 있어…무지의 소치\"",
-      "summary": "박태훈 선임기자 = 홍준표 전 대구 시장은 국민의힘 '조작 징계' 의혹 과 관련해 \"당 대표에겐 윤리위원회에 자기 생각을 제시할 권리가 있다\"며 장동혁 대표에게 힘을 실어 줬다. 홍 전 시장은 18일 사회관계망서비스(SNS)에...",
-      "url": "https://www.news1.kr/politics/general-politics/6358060",
-      "date": "Wed, 18 Nov 2026 14:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISI20261117_0002294487": {
-      "title": "[그래픽] [일지] '계엄해제 표결 방해 의혹 ' 추경호 1심선고까지",
-      "summary": "재판부는 윤석열 전 대통령이 국민의힘 원내대표였던 추경호 대구 시장과의 전화 통화에서 비상계엄 선포를 사전에 알리지 못한 데 대한 미안함을 표하고 계엄 실행을 걱정하지 말라는 취지로 발언했을 뿐, 계엄 해제...",
-      "url": "https://www.newsis.com/view/NISI20261117_0002294487",
-      "date": "Wed, 18 Nov 2026 14:55:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISI20261118_0021537454": {
-      "title": "‘계엄해제 표결 방해 의혹’ 추경호 1심서 무죄",
-      "summary": "12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의 로 기소된 추경호 대구 시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고...",
-      "url": "https://www.newsis.com/view/NISI20261118_0021537454",
-      "date": "Wed, 18 Nov 2026 14:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.yna.co.kr/view/PYH20261118161900013?input=1196m": {
-      "title": "'계엄해제 표결 방해의혹' 추경호 1심 무죄",
-      "summary": "12·3 비상계엄 사태 당시 국민의힘 의원들의 계엄 해제 표결을 방해한 혐의 를 받는 추경호 대구 시장이 18일 서울중앙지법에서 열린 1심 선고에서 무죄를 선고받은 뒤 국민의힘 장동혁 대표의 축하를 받고 있다....",
-      "url": "https://www.yna.co.kr/view/PYH20261118161900013?input=1196m",
-      "date": "Wed, 18 Nov 2026 14:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.yna.co.kr/view/PYH20261118149400013?input=1196m": {
-      "title": "'계엄해제 표결 방해의혹' 추경호 1심 선고 출석",
-      "summary": "12·3 비상계엄 사태 당시 국민의힘 의원들의 계엄 해제 표결을 방해한 혐의 를 받는 추경호 대구 시장이 18일 서울중앙지법에서 열린 1심 선고 공판에 출석하며 국민의힘 장동혁 대표와 인사를 나누고 있다. 2026.11.18...",
-      "url": "https://www.yna.co.kr/view/PYH20261118149400013?input=1196m",
-      "date": "Wed, 18 Nov 2026 14:33:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://biz.heraldcorp.com/article/10941297?ref=naver": {
-      "title": "[속보] ‘계엄해제 표결 방해 의혹 ’ 추경호 1심서 무죄",
-      "summary": "12·3 비상계엄 사태 당시 국민의힘 의원들의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구 시장(전 국민의힘 원내대표)이 1심에서 무죄를 받았다. 서울중앙지법 형사34부(부장 한성진)는 18일 내란중요임무 종사...",
-      "url": "https://biz.heraldcorp.com/article/10941297?ref=naver",
-      "date": "Wed, 18 Nov 2026 14:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.asiatime.co.kr/article/20261118500330": {
-      "title": "'내란 중요임무 종사' 혐의 추경호…1심서 '무죄'",
-      "summary": "12·3 비상계엄 사태 당시 국민의힘 의원들의 계엄 해제 표결을 방해한 혐의 를 받는 추경호 대구 시장이 18일 서울중앙지법에서 열린 1심 선고에서 무죄를 선고받은 뒤 국민의힘 장동혁 대표의 축하를 받고 있다. (사진...",
-      "url": "https://www.asiatime.co.kr/article/20261118500330",
-      "date": "Wed, 18 Nov 2026 14:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.imaeil.com/page/view/2026111814502967641": {
-      "title": "[속보] 장동혁, 추경호 무죄에 \"이런 게 조작 기소\"",
-      "summary": "장동혁 국민의힘 대표가 추경호 대구 시장의 내란 중요임무 종사 혐의 1심 무죄 선고를 두고 \"정의와 상식의 승리\"라며 내란특별검사팀에 항소 포기를 요구했다. 특히 당 내부에도 '내란몰이' 세력이 있었다고 주장하며 해당...",
-      "url": "https://www.imaeil.com/page/view/2026111814502967641",
-      "date": "Wed, 18 Nov 2026 14:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.hidomin.com/news/articleView.html?idxno=729926": {
-      "title": "임금 1000여만원 체불하고 출석 불응한 사업주 체포",
-      "summary": "근로자 1명의 임금 1000여만원을 체불하고 고용노동부의 출석 요구에 수차례 불응한 울진군 소재 건설업체 대표 A씨(62)가 근로기준법 위반 혐의 로 체포됐다. 고용노동부 포항 지청은 지난 17일 오후 3시쯤 A씨의 거주지에서...",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=729926",
-      "date": "Wed, 18 Nov 2026 14:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISI20261118_0021537424": {
-      "title": "환하게 웃는 추경호 대구 시장과 장동혁 대표",
-      "summary": "12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의 로 기소된 추경호 대구 시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고...",
-      "url": "https://www.newsis.com/view/NISI20261118_0021537424",
-      "date": "Wed, 18 Nov 2026 14:39:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISI20261118_0021537417": {
-      "title": "'계엄 해제표결 방해' 혐의 추경호 1심 무죄",
-      "summary": "12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의 로 기소된 추경호 대구 시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고...",
-      "url": "https://www.newsis.com/view/NISI20261118_0021537417",
-      "date": "Wed, 18 Nov 2026 14:39:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISI20261118_0021537425": {
-      "title": "추경호 ‘계엄 해제표결 방해’ 혐의 1심 무죄",
-      "summary": "12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의 로 기소된 추경호 대구 시장(당시 국민의힘 원내대표)이 18일 오후 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에서 무죄를 선고 받고...",
-      "url": "https://www.newsis.com/view/NISI20261118_0021537425",
-      "date": "Wed, 18 Nov 2026 14:39:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285845&CMPT_CD=P0010": {
-      "title": "[속보] 추경호, 내란 혐의 1심 무죄",
-      "summary": "▲ 서울중앙지법서 만난 추경호-장동혁 추경호 대구 시장(전 국민의힘 원내대표·오른쪽)이 18일 서울 서초구 서울중앙지방법원에서 열린 내란 중요임무 종사 혐의 사건 선고공판에 출석, 법정으로 향하며 장동혁...",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285845&CMPT_CD=P0010",
-      "date": "Wed, 18 Nov 2026 14:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565712": {
-      "title": "추경호 '계엄 해제표결 방해' 혐의 1심 무죄",
-      "summary": "12·3 비상계엄 사태 당시 국민의힘 의원들의 계엄 해제 표결을 방해한 혐의 를 받는 추경호 대구 시장이 18일 서울중앙지법에서 열린 1심 선고에서 무죄를 받은 뒤 국민의힘 장동혁 대표 및 의원들에게 축하를 받으며...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565712",
-      "date": "Wed, 18 Nov 2026 14:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.job-post.co.kr/news/articleView.html?idxno=239289": {
-      "title": "에코프로 6만원대 강보합…3분기 영업이익 112억원",
-      "summary": "코스닥 시장에서 에코프로 가 장중 등락 끝에 소폭 상승했다. 18일 오후 1시58분 기준 코스닥시장에서 에코프로 는 6만7800원에 거래됐다. 전 거래일 종가 6만7600원보다 200원(0.30%) 올랐다. 장중 고가는 7만300원...",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239289",
-      "date": "Wed, 18 Nov 2026 14:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.kukinews.com/article/view/kuk202611180110": {
-      "title": "건설사 중대재해 ‘최다’ 불명예…국토부, 재발방지 위한 ‘안전관리...",
-      "summary": "기업별로는 현대건설과 포스코 이앤씨가 각각 6건의 중대재해를 보고해 가장 많았다. 포스코 이앤씨가 보고한 사례에서는 사망자 6명, 부상자 3명 등 총 9명의 사상자가 발생했다. 신안산선 공사 현장에서 발생한 중대재해...",
-      "url": "https://www.kukinews.com/article/view/kuk202611180110",
-      "date": "Wed, 18 Nov 2026 14:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://dealsite.co.kr/articles/172810": {
-      "title": "포스코 퓨처엠에 쏠린 머니…두둑한 수주 곳간, 실적 기대감",
-      "summary": "공모채 수요예측 흥행, 1000억 증액 2000억 조달 …대형 공급계약 매출 본격화 '관건' 포스코 퓨처엠이... 전자공시시스템에 따르면 포스코 퓨처엠은 24-1회차, 24-2회차 무기명식 이권부 무보증 공모사채발행으로...",
-      "url": "https://dealsite.co.kr/articles/172810",
-      "date": "Wed, 18 Nov 2026 14:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxU0NJa01ZWFQxTk5pdzhIUVF0UUlZVjlNbGZVOGQ0VGxGWHJsa0g1U0ZaX2hQVHUyME9MZlpQVnJseG40czlyNUxKZ2N3cF9XQVJ5OVh1ajV1LU9jT1E2bC0wa003Zw?oc=5": {
-      "title": "구미시, 국제기계산업대전서 투자유치 총력전 펼친다! - 데일리대구경북뉴스",
-      "summary": "구미시, 국제기계산업대전서 투자유치 총력전 펼친다! 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxU0NJa01ZWFQxTk5pdzhIUVF0UUlZVjlNbGZVOGQ0VGxGWHJsa0g1U0ZaX2hQVHUyME9MZlpQVnJseG40czlyNUxKZ2N3cF9XQVJ5OVh1ajV1LU9jT1E2bC0wa003Zw?oc=5",
-      "date": "Wed, 18 Nov 2026 05:19:59 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGRjVWUUN2VjNMNG8wc3p5Yy1zM3hxSDVzQzRIeG5RWkhoR0dLNm9hc0RwLUstcVZkTmpkMFlVMDRJT3NQekd2UTFJYmxSUU10d2ZNeTM2bTBTUVZrc3VVSE9QY3pidw?oc=5": {
-      "title": "‘안동 생강·배 음료’뉴질랜드 첫 수출길 오르다 - 데일리대구경북뉴스",
-      "summary": "‘안동 생강·배 음료’뉴질랜드 첫 수출길 오르다 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGRjVWUUN2VjNMNG8wc3p5Yy1zM3hxSDVzQzRIeG5RWkhoR0dLNm9hc0RwLUstcVZkTmpkMFlVMDRJT3NQekd2UTFJYmxSUU10d2ZNeTM2bTBTUVZrc3VVSE9QY3pidw?oc=5",
-      "date": "Wed, 18 Nov 2026 05:59:24 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.asiatoday.co.kr/kn/view.php?key=20261118010007102": {
       "title": "문경시, 420억원 규모 관광호텔 건립 협력…체류형 관광 기반 확대",
       "summary": "아시아투데이 장성훈 기자 = 경북 문경시가 문경읍 진안리에 420억원 규모의 관광호텔 신축에 필요한 행정적... 이번 사업은 문경읍 진안리 196-15번지 일원에 약 420억원을 투입해 관광호텔을 건립 하는 민간투자다. 현재...",
@@ -4898,6 +4594,110 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.agrinet.co.kr/news/articleView.html?idxno=408978": {
+      "title": "경북 포도 수출 두 배로…전국 1억 달러 돌파 견인",
+      "summary": "행사에서는 샤인머스캣·글로리스타 등 생과와 가공 제품을 선보였다. 경북 도는 앞으로 수출용 물량 확보와 품질관리, 바이어 사후관리에 힘써 거래 를 늘릴 계획이다. 국내 수급 안정도 함께 챙긴다. 양금희 경북 도...",
+      "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=408978",
+      "date": "Fri, 20 Nov 2026 14:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261120110400053?input=1195m": {
+      "title": "포항 환호공원에 4천800억 투자…5성급 호텔·리조트 들어선다",
+      "summary": "경북도· 포항 시·한화호텔앤드리조트· 포항 하나원 협약 포항 환호지구에 5성급 호텔과 프리미엄 리조트가 건립 된다. 객실 385실 규모의 관광숙박시설 조성에 사업비 4천800억원이 투입된다. 경북도와 포항 시...",
+      "url": "https://www.yna.co.kr/view/AKR20261120110400053?input=1195m",
+      "date": "Fri, 20 Nov 2026 14:43:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.nocutnews.co.kr/news/6610164": {
+      "title": "대구 시의회 \"국가균형발전 위해 대구 에 돔구장 건립 해야\"",
+      "summary": "대구 시의회가 국가균형발전을 위해 대구 에 돔구장을 유치해달라고 정부에 건의했다. 대구 시의회는 20일 '국가균형발전을 위한 대구 돔구장 선정 촉구 건의안'을 채택하고 대구 시가 제시한 돔구장 부지인 두류공원에서...",
+      "url": "https://www.nocutnews.co.kr/news/6610164",
+      "date": "Fri, 20 Nov 2026 14:23:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.imaeil.com/page/view/2026112013580542083": {
+      "title": "대구 시의회 \"두류공원 일원, 돔구장 건립 최적지\"…정부에 선정 촉구",
+      "summary": "대구 시의회가 정부의 '스포츠·공연 복합형 돔구장' 건립 후보지로 대구 두류공원 일원을 선정해 달라고 국회와 정부에 촉구했다. 시의회는 19일 본회의를 열어 하중환 운영위원장(달성군1) 등 13명이 발의한...",
+      "url": "https://www.imaeil.com/page/view/2026112013580542083",
+      "date": "Fri, 20 Nov 2026 14:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.hankookilbo.com/news/article/A2026112009220003675?did=NA": {
+      "title": "엘앤에프 , 전환사채 1515억 원 발행… 이차전지 양극재 생산 확대",
+      "summary": "이차전지 소재기업 엘앤에프 가 양극재 사업 확대를 위해 1,515억 원 규모의 전환사채(CB)를 발행한다.... 20일 엘앤에프 에 따르면 19일 이사회를 열고 영구 전환사채 303억 원과 일반 전환사채 1,212억 원 등 총 1,515억 원...",
+      "url": "https://www.hankookilbo.com/news/article/A2026112009220003675?did=NA",
+      "date": "Fri, 20 Nov 2026 14:41:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=239866": {
+      "title": "이수페타시스 16.87% 급락…호실적 뒤 차익 실현 확대",
+      "summary": "이수페타시스 주가는 20일 오후 2시45분 장중 69,000원을 기록했다. 전 거래일보다 14,000원 내렸고 등락률은 -16.87%다. 장중 고가는 77,600원, 저가는 68,800원이었다. 누적 거래량은 1,503,256주, 거래대금은 1...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239866",
+      "date": "Fri, 20 Nov 2026 14:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.yonhapnewstv.co.kr/news/AKR202611201458139i8": {
+      "title": "한수원 \"체코 원전, 내년 7월까지 새 시공사 계약…적기 준공\"",
+      "summary": "한국수력원자력 은 대우건설·두산에너빌리티 컨소시엄과 체결했던 체코 두코바니 원전사업 시공분야 공동협력 협약을 종료했다고 오늘(20일) 밝혔습니다. 이는 지난달 29일 한수원이 대우건설 컨소시엄 측과 시공계약...",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR202611201458139i8",
+      "date": "Fri, 20 Nov 2026 14:59:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUTY2bnhiS3l5MVc2aDFKZmdhR3BJcWdNN2ZCUmp3OXNpbGxIVXczU1dxQzZFVGNidGw1aGdJTktYdVhzYXBoYWN1Ym1lUk5UdGs1c2F6OVIzZGdoSFJqWFo0Mm5JQQ?oc=5": {
+      "title": "김천시, 회계·사업 담당자 계약 실무 역량 강화 - 데일리대구경북뉴스",
+      "summary": "김천시, 회계·사업 담당자 계약 실무 역량 강화 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUTY2bnhiS3l5MVc2aDFKZmdhR3BJcWdNN2ZCUmp3OXNpbGxIVXczU1dxQzZFVGNidGw1aGdJTktYdVhzYXBoYWN1Ym1lUk5UdGs1c2F6OVIzZGdoSFJqWFo0Mm5JQQ?oc=5",
+      "date": "Fri, 20 Nov 2026 05:56:40 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4927,16 +4727,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-20",
   "sent_articles": [
-    {
-      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718057",
-      "title": "경산시, 중국·인도 시장 공략 나선다..상하이·뉴델리 무역사절단 파견",
-      "date": "Fri, 06 Nov 2026 14:42:00 +0900"
-    },
-    {
-      "url": "https://www.eroun.net/news/articleView.html?idxno=94663",
-      "title": "[이로운 기획] 노벨리스 영주공장 파업 공식 마침표, 6일 '2026 임단협' 최...",
-      "date": "Fri, 06 Nov 2026 14:34:00 +0900"
-    },
     {
       "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314815",
       "title": "李대통령, 법무장관 이용철·정무수석 최인호 내정... 국세청 장엔 안덕수",
@@ -9791,6 +9581,46 @@
       "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085815",
       "title": "포스코 노조, 포항 취약계층 청소년·학대피해아동에 1억원 후원",
       "date": "Fri, 20 Nov 2026 13:36:00 +0900"
+    },
+    {
+      "url": "https://www.hankookilbo.com/news/article/A2026112009220003675?did=NA",
+      "title": "엘앤에프 , 전환사채 1515억 원 발행… 이차전지 양극재 생산 확대",
+      "date": "Fri, 20 Nov 2026 14:41:00 +0900"
+    },
+    {
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR202611201458139i8",
+      "title": "한수원 \"체코 원전, 내년 7월까지 새 시공사 계약…적기 준공\"",
+      "date": "Fri, 20 Nov 2026 14:59:00 +0900"
+    },
+    {
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239866",
+      "title": "이수페타시스 16.87% 급락…호실적 뒤 차익 실현 확대",
+      "date": "Fri, 20 Nov 2026 14:58:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUTY2bnhiS3l5MVc2aDFKZmdhR3BJcWdNN2ZCUmp3OXNpbGxIVXczU1dxQzZFVGNidGw1aGdJTktYdVhzYXBoYWN1Ym1lUk5UdGs1c2F6OVIzZGdoSFJqWFo0Mm5JQQ?oc=5",
+      "title": "김천시, 회계·사업 담당자 계약 실무 역량 강화 - 데일리대구경북뉴스",
+      "date": "Fri, 20 Nov 2026 05:56:40 GMT"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261120110400053?input=1195m",
+      "title": "포항 환호공원에 4천800억 투자…5성급 호텔·리조트 들어선다",
+      "date": "Fri, 20 Nov 2026 14:43:00 +0900"
+    },
+    {
+      "url": "https://www.nocutnews.co.kr/news/6610164",
+      "title": "대구 시의회 \"국가균형발전 위해 대구 에 돔구장 건립 해야\"",
+      "date": "Fri, 20 Nov 2026 14:23:00 +0900"
+    },
+    {
+      "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=408978",
+      "title": "경북 포도 수출 두 배로…전국 1억 달러 돌파 견인",
+      "date": "Fri, 20 Nov 2026 14:18:00 +0900"
+    },
+    {
+      "url": "https://www.imaeil.com/page/view/2026112013580542083",
+      "title": "대구 시의회 \"두류공원 일원, 돔구장 건립 최적지\"…정부에 선정 촉구",
+      "date": "Fri, 20 Nov 2026 14:06:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9853,7 +9683,7 @@
     "2026-11-17": 6,
     "2026-11-18": 3,
     "2026-11-19": 6,
-    "2026-11-20": 2
+    "2026-11-20": 3
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
