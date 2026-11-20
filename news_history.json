@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://www.news2day.co.kr/article/20261106500370": "2026-11-06T23:01:44.354082+09:00",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dWlmNXhzbW1xUjZ4VE5XcWNkbm5OUEszckZUdGo1ZlhqUUZaaGY2Y1N2SE56aGxJcmV0Ym41RW9YcWhjMlc2cW4tR2xTY0IzMWF4ajJYMVdQS0Rlb19lZ0ZTQXdFb1g1OERRMExB?oc=5": "2026-11-06T23:01:44.354082+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5": "2026-11-07T09:01:46.313119+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS2loUmRWb3VmZVpKTFJMMEk2NzNLZmpNV3VjR055ZmlhVHRKWmZfWjZZSW9FM29nUjRYYWVJZXVkcHo2cVh3ZHNQUEx4WnUyOHNkdzhSa2ttaFlYaFNETHJBWUlLbG5Uc1Fr0gFvQVVfeXFMTVJkNjFUSWROa1hsdEJoWTlSbWdiNjZnaml2TjFwN1JzOGR3NFZFYl9aeEVyNlVBMVBLRjgyVk1LLUdLQUdKcjJIa3ZIZGVtaWJPQWhqNkpZODhoNWJqc3ZKWmRHTC0xckdOZDE1UXhN?oc=5": "2026-11-07T10:01:55.313848+09:00",
     "https://www.thepublic.kr/news/articleView.html?idxno=325530": "2026-11-07T10:01:55.313848+09:00",
@@ -979,8 +977,6 @@
     "https://www.imaeil.com/page/view/2026112015070241931": "2026-11-20T23:08:57.403721+09:00"
   },
   "titles": {
-    "3014a0815a50f21c2e64c7e2c5ffa9a115dbba60f9050b765e9546d9f037d934": "2026-11-06T23:01:44.354082+09:00",
-    "e28ff03cd17e7dcd8fa47c1265e1f90b8066b06c217fc87ade2b7cb4b6b86289": "2026-11-06T23:01:44.354082+09:00",
     "89e20f41517c96579f10bc875da323a03e87161b1d9d7864260ce0259291da54": "2026-11-07T09:01:46.313119+09:00",
     "3eff59b4f496f698c35936021a35f6e41f538ecf27a75f1e10acc3ce888b21c2": "2026-11-07T10:01:55.313848+09:00",
     "cfa281a58c1a1373056e067f0a6ea36cf6a5539e14e211cbe0f30534eed6986c": "2026-11-07T10:01:55.313848+09:00",
@@ -1959,7 +1955,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-13": 26,
     "2026-11-14": 1,
     "2026-11-15": 3,
     "2026-11-16": 9,
@@ -1970,97 +1965,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=315709": {
-      "title": "경북 도, 3년간 AI 클라우드팜으로 173개 기업 지원·전문인력 996명 양성",
-      "summary": "도는 2024년부터 경산에 그래픽 처리 장치(GPU) 112장을 갖춘 대규모 클라우드팜을 구축하고, 포항·구미... 사업 수주 로 확산됐고, 구미전자정보기술원은 방산품 설계·유지보수 서비스 상용화에 성공했다. 경북 IT융합...",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315709",
-      "date": "Thu, 19 Nov 2026 07:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.ferrotimes.com/news/articleView.html?idxno=51568": {
-      "title": "포스코 홀딩스, 사업회사 포스코 에 해외 철강사 지분 매각…2893억 규모",
-      "summary": "포스코 홀딩스가 보유한 해외 철강 관련 법인 2곳의 지분 전량을 사업회사 포스코 에 매각한다. 거래금액은 약 2893억 원 규모다. 이번 조치는 2022년 물적분할 이후 철강사업 관련 지분을 이전해...",
-      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51568",
-      "date": "Thu, 19 Nov 2026 07:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코, 포스코홀딩스",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
-    "https://www.kpinews.kr/newsView/1065563623294594": {
-      "title": "현대제철· 포스코 루이지애나 제철소 부두 건설 저지 소송 기각돼",
-      "summary": "현대제철과 포스코 가 미국 루이지애나주에서 추진하고 있는 '현대제철· 포스코 루이지애나 전기로 제철소(이하 현대제철· 포스코 제철소)'용 강변 부두 건설을 막으려던 소송이 기각됐다. ▲ 현대제철· 포스코 루이지애나...",
-      "url": "https://www.kpinews.kr/newsView/1065563623294594",
-      "date": "Thu, 19 Nov 2026 07:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.the-today.com/news/articleView.html?idxno=93799": {
-      "title": "[속보] 현대제철· 포스코 美 제철소 부두 소송 각하…4억달러 채권 절차...",
-      "summary": "현대제철과 포스코 가 미국 루이지애나주에 건설하는 전기로 일관 제철소의 전용 부두 인프라 사업이... 리버플렉스 메가파크(Riverplex MegaPark) 산업단지와 현대- 포스코 합작 제철소를 지원하는 핵심 물류 거점으로...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=93799",
-      "date": "Thu, 19 Nov 2026 07:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=768501": {
-      "title": "IT서비스 7사 3분기 성적표…현대오토에버 매출 16%↑, 포스코 DX 영업익...",
-      "summary": "반면 포스코 DX(대표 심민석)는 매출과 영업이익이 모두 줄었다. 삼성SDS(대표 이준희)는 일회성 비용... 포스코 DX는 유일하게 매출과 영업이익이 모두 감소했다.AI로 만든 이미지입니다. 3분기 누적 매출은 7393억...",
-      "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768501",
-      "date": "Thu, 19 Nov 2026 06:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISX20261118_0003873479": {
-      "title": "8곳 두고 목동 수주전 2라운드…롯데· 포스코 ·현산 '사활'",
-      "summary": "포스코 이앤씨는 당초 4단지 시공사 입찰 현장설명회에 참여하며 수주 의지를 피력했으나 막상 입찰 마감시기가 다가오자 포기하고 1단지와 14단지에 역량을 집중하기로 내부 방침을 정한 것으로 알려졌다....",
-      "url": "https://www.newsis.com/view/NISX20261118_0003873479",
-      "date": "Thu, 19 Nov 2026 05:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.thedailypost.kr/news/articleView.html?idxno=117038": {
-      "title": "포스코 그룹, 세계 최대 배터리사 CATL과 리튬 장기공급계약…중국 내 판...",
-      "summary": "ㅣ데일리포스트=곽민구 기자ㅣ 포스코 그룹이 세계 전기차 배터리 시장 점유율 1위 기업인 중국 CATL과 리튬 장기공급계약을 체결하며 글로벌 이차전지 소재 시장에서의 영향력을 한층 확대했다. 포스코 그룹은 \"CATL과...",
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117038",
-      "date": "Wed, 18 Nov 2026 23:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.newsis.com/view/NISX20261118_0003873414": {
       "title": "대구 경찰 '사적보복 대행업체' 운영 일당 검거…8명 구속",
       "summary": "대구 경찰청 광역수사대는 19일 텔레그램에서 사적보복 대행업체를 운영한 혐의(범죄집단조직·가입·활동죄 등)로 총책 A(30대)씨 등 9명을 붙잡아 8명을 구속 했다고 밝혔다. 경찰에 붙잡힌 9명은 총책 1명, 중간관리책 1명...",
@@ -4483,34 +4387,74 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261121010359812": {
+      "title": "포항 환호지구에 4800억원 투자…5성급 호텔·리조트 385실 들어선다",
+      "summary": "경북도· 포항 시·한화호텔앤드리조트 등 4자 투자협약…2031년 준공 목표 5성급 호텔 160실·프리미엄 리조트 225실 조성…상업시설도 확충 아주경제=최주호 기자 cjh@ajunews.com 포항 환호지구 관광숙박시설 건립 사업 업무...",
+      "url": "https://www.ajunews.com/view/20261121010359812",
+      "date": "Sat, 21 Nov 2026 05:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newscj.com/news/articleView.html?idxno=3450801": {
+      "title": "한수원, 체코 원전 시공사 재선정...K-건설 수주전 불붙나",
+      "summary": "한국수력원자력 이 대우건설·두산에너빌리티 컨소시엄과 맺은 체코 두코바니 원전사업 시공분야 공동협력 협약을 20일 공식 종료함에 따라 수조 원대 K-원전 시공권을 둘러싼 국내 건설업계의 '2라운드 수주전'이 막을...",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3450801",
+      "date": "Fri, 20 Nov 2026 23:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHUzOVNRS1g4LURLaGRGRmVPNU41LUlBSU1qQU1MNFBxV1NCaENkaDFBc25ub21jSFhhcmVCeURZQzVzWGhkcXNiNzdybms0QVRULUFoVDcySG5MbjhXb3lVb3R1QlRPeGhNaW50MEJiTXFlbjVBdENkWVVyTHh1T1AyeVFXS25zOWNRZXNCZFFTeHAtTjdhdi04UGI0b2VaQ09BZ3o4aXNrNUU1aE1IS2xMcTVJc0lnMkpqb3JweVl4WHFjQU9BbjQ3R1hGRnZXbEtIOTdvcWVxTkg5Z0NN0gHkAUFVX3lxTE5wOG5ocDh5UmFLTUxZTjNmWmFFeTJNQjBvcXljbFRNcktXa1VhRHpZWXE0bWRMWGIxeWRBMTRLc2JTSDdWWG1HRUxOVXg0a0FCYmVyVm9ZWWtYWThXR2x5YTV4aHJVdXpLc2IzblFHcEt3ZDBnUHNNUEtzZmlwS2JzT1MwbThlLWJDaVpLVWZRRlZDRkVqUUs4Wm1fODNmclZVNHEwdm5ZdkVHTTFIbTJycmZJVlBLVTNjNTZBbE9RaXl0VXFkbmhyeUdFWmQwWnU4NnBZdGNyX2lmSmZKYWFhbkRudw?oc=5": {
+      "title": "Posco Future M's (KRX:003670) Earnings Offer More Than Meets The Eye - Simply Wall St",
+      "summary": "Posco Future M's (KRX:003670) Earnings Offer More Than Meets The Eye Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHUzOVNRS1g4LURLaGRGRmVPNU41LUlBSU1qQU1MNFBxV1NCaENkaDFBc25ub21jSFhhcmVCeURZQzVzWGhkcXNiNzdybms0QVRULUFoVDcySG5MbjhXb3lVb3R1QlRPeGhNaW50MEJiTXFlbjVBdENkWVVyTHh1T1AyeVFXS25zOWNRZXNCZFFTeHAtTjdhdi04UGI0b2VaQ09BZ3o4aXNrNUU1aE1IS2xMcTVJc0lnMkpqb3JweVl4WHFjQU9BbjQ3R1hGRnZXbEtIOTdvcWVxTkg5Z0NN0gHkAUFVX3lxTE5wOG5ocDh5UmFLTUxZTjNmWmFFeTJNQjBvcXljbFRNcktXa1VhRHpZWXE0bWRMWGIxeWRBMTRLc2JTSDdWWG1HRUxOVXg0a0FCYmVyVm9ZWWtYWThXR2x5YTV4aHJVdXpLc2IzblFHcEt3ZDBnUHNNUEtzZmlwS2JzT1MwbThlLWJDaVpLVWZRRlZDRkVqUUs4Wm1fODNmclZVNHEwdm5ZdkVHTTFIbTJycmZJVlBLVTNjNTZBbE9RaXl0VXFkbmhyeUdFWmQwWnU4NnBZdGNyX2lmSmZKYWFhbkRudw?oc=5",
+      "date": "Fri, 20 Nov 2026 22:42:19 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE94Z1dkOF9qZXJIdlFQYWxBaTRETDVKRnR6U0tPWFd0MERfYTZDWDRuV0hmVHcyUS01WEoxbGEwMUpGUlAtZkc3S1VDUWt4RUphT29TVmxYRC1OeVNLaGhxT2IxLWtXaVJ6V2ZjMEF6aEt6UQ?oc=5": {
+      "title": "포항, 4자 협약 통해 4,800억 원 규모 5성급 호텔 및 리조트 건립ㅣPohang to Build 480 Billion Won 5-Star Hotel and Resort Complex - 글로벌휴먼타임즈",
+      "summary": "포항, 4자 협약 통해 4,800억 원 규모 5성급 호텔 및 리조트 건립ㅣPohang to Build 480 Billion Won 5-Star Hotel and Resort Complex 글로벌휴먼타임즈",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Z1dkOF9qZXJIdlFQYWxBaTRETDVKRnR6U0tPWFd0MERfYTZDWDRuV0hmVHcyUS01WEoxbGEwMUpGUlAtZkc3S1VDUWt4RUphT29TVmxYRC1OeVNLaGhxT2IxLWtXaVJ6V2ZjMEF6aEt6UQ?oc=5",
+      "date": "Fri, 20 Nov 2026 22:38:21 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
-    "https://www.geconomy.co.kr/news/article.html?no=325876": "2026-11-20T08:10:49.424267+09:00",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xMGZnUnNUQ1VjU1VOeHlMMzdhdHZlSDN5Wm52dlIwZ2hvTFhlM0NJN1gtNUpxeW91TVN2LWJtNGNPWFUtUUN5UXFOYnE0MVBKMG45YjhzLTVNUGwzVVFvaXluWWJFXzA?oc=5": "2026-11-20T08:10:49.424267+09:00",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=602261": "2026-11-20T08:10:49.424267+09:00",
-    "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181514367440101561": "2026-11-20T08:10:49.424267+09:00",
-    "https://www.dailian.co.kr/news/view/1717376/?sc=Naver": "2026-11-20T08:10:49.424267+09:00",
-    "https://www.ajunews.com/view/20261120022138675": "2026-11-20T08:10:49.424267+09:00",
-    "https://www.ajunews.com/view/20261120024018678": "2026-11-20T08:10:49.424267+09:00",
-    "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54484": "2026-11-20T08:10:49.424267+09:00",
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/19/2026111950383.html": "2026-11-20T08:10:49.424267+09:00",
-    "https://www.vegannews.co.kr/news/article.html?no=407914": "2026-11-20T08:10:49.424267+09:00"
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE94Z1dkOF9qZXJIdlFQYWxBaTRETDVKRnR6U0tPWFd0MERfYTZDWDRuV0hmVHcyUS01WEoxbGEwMUpGUlAtZkc3S1VDUWt4RUphT29TVmxYRC1OeVNLaGhxT2IxLWtXaVJ6V2ZjMEF6aEt6UQ?oc=5": "2026-11-21T08:09:37.282296+09:00",
+    "https://www.ajunews.com/view/20261121010359812": "2026-11-21T08:09:37.282296+09:00",
+    "https://www.newscj.com/news/articleView.html?idxno=3450801": "2026-11-21T08:09:37.282296+09:00",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHUzOVNRS1g4LURLaGRGRmVPNU41LUlBSU1qQU1MNFBxV1NCaENkaDFBc25ub21jSFhhcmVCeURZQzVzWGhkcXNiNzdybms0QVRULUFoVDcySG5MbjhXb3lVb3R1QlRPeGhNaW50MEJiTXFlbjVBdENkWVVyTHh1T1AyeVFXS25zOWNRZXNCZFFTeHAtTjdhdi04UGI0b2VaQ09BZ3o4aXNrNUU1aE1IS2xMcTVJc0lnMkpqb3JweVl4WHFjQU9BbjQ3R1hGRnZXbEtIOTdvcWVxTkg5Z0NN0gHkAUFVX3lxTE5wOG5ocDh5UmFLTUxZTjNmWmFFeTJNQjBvcXljbFRNcktXa1VhRHpZWXE0bWRMWGIxeWRBMTRLc2JTSDdWWG1HRUxOVXg0a0FCYmVyVm9ZWWtYWThXR2x5YTV4aHJVdXpLc2IzblFHcEt3ZDBnUHNNUEtzZmlwS2JzT1MwbThlLWJDaVpLVWZRRlZDRkVqUUs4Wm1fODNmclZVNHEwdm5ZdkVHTTFIbTJycmZJVlBLVTNjNTZBbE9RaXl0VXFkbmhyeUdFWmQwWnU4NnBZdGNyX2lmSmZKYWFhbkRudw?oc=5": "2026-11-21T08:09:37.282296+09:00"
   },
   "brief_titles": {
-    "de8f1ec3150260e1c8b5ca0cb71c2583431674e103bc2f1fea5a2fff49c7c180": "2026-11-20T08:10:49.424267+09:00",
-    "4b71b8fa5200a4302e224c35b3b89ceecead497d5c06f0d7812ee74a9a9a2995": "2026-11-20T08:10:49.424267+09:00",
-    "da6802ef6322e9e651fca2c3995138b67c4f20109917abd060c5018cae287a47": "2026-11-20T08:10:49.424267+09:00",
-    "1acda2a1771e65cec6526f70d2ba2c011a61adcd65067c3d219b19fea3254691": "2026-11-20T08:10:49.424267+09:00",
-    "00bf16fb5b37661867aaa208183bc70bdb39a97b73741d4ad4de7f29ae3e5520": "2026-11-20T08:10:49.424267+09:00",
-    "dfd6bd3f9db8b9495c4aec6111806b308a1aa746cdad09d11fa12d78c99a0a64": "2026-11-20T08:10:49.424267+09:00",
-    "dc5a3bb2df2ee22b77626859d9ccce6d893838cf89dded178e5d5111f08f20e9": "2026-11-20T08:10:49.424267+09:00",
-    "21132bfe154882c0b02d361b2a857a39a3e8f5b958c8f57d31eb684feb31c7e4": "2026-11-20T08:10:49.424267+09:00",
-    "7fe04efbf80d4a9e80ac0997c952e082507cd412779a1f50948a8dcdb31d994a": "2026-11-20T08:10:49.424267+09:00",
-    "aa7a410e74f0dd4f8efb81c00eec8dfceb9fe852b3f8abbd28a970cbff55f320": "2026-11-20T08:10:49.424267+09:00"
+    "f5b0a1d9ca9a7b5e0586fc65bd4c27b0a80154829a79532147d9e83e26fc9e15": "2026-11-21T08:09:37.282296+09:00",
+    "5fece549fe81408010347360c4c21cc24c63c57bd3cd88c9a3195863b363e10c": "2026-11-21T08:09:37.282296+09:00",
+    "cf1e5b78a90abfc0bccff3f2b27fa1c2f15b049c070e22a2d9a23623e09e874b": "2026-11-21T08:09:37.282296+09:00",
+    "3543526eb9965380fff3ec1307f1606a5ad5a1621ec42e9ca1f1d40d27fb334c": "2026-11-21T08:09:37.282296+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-20",
+  "brief_date": "2026-11-21",
   "sent_articles": [
     {
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5",
@@ -9390,58 +9334,27 @@
   ],
   "brief_articles": [
     {
-      "url": "https://www.geconomy.co.kr/news/article.html?no=325876",
-      "title": "LG이노텍, 구미 기숙사 직원 사망 ' 중대재해 제외'…사망자 공시 1명서 ...",
-      "date": "Fri, 20 Nov 2026 05:12:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Z1dkOF9qZXJIdlFQYWxBaTRETDVKRnR6U0tPWFd0MERfYTZDWDRuV0hmVHcyUS01WEoxbGEwMUpGUlAtZkc3S1VDUWt4RUphT29TVmxYRC1OeVNLaGhxT2IxLWtXaVJ6V2ZjMEF6aEt6UQ?oc=5",
+      "title": "포항, 4자 협약 통해 4,800억 원 규모 5성급 호텔 및 리조트 건립ㅣPohang to Build 480 Billion Won 5-Star Hotel and Resort Complex - 글로벌휴먼타임즈",
+      "date": "Fri, 20 Nov 2026 22:38:21 GMT"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xMGZnUnNUQ1VjU1VOeHlMMzdhdHZlSDN5Wm52dlIwZ2hvTFhlM0NJN1gtNUpxeW91TVN2LWJtNGNPWFUtUUN5UXFOYnE0MVBKMG45YjhzLTVNUGwzVVFvaXluWWJFXzA?oc=5",
-      "title": "LG이노텍, 구미 기숙사 직원 사망 '중대재해 제외'…사망자 공시 1명서 0명으로 정정 - 지이코노미",
-      "date": "Thu, 19 Nov 2026 20:11:15 GMT"
+      "url": "https://www.ajunews.com/view/20261121010359812",
+      "title": "포항 환호지구에 4800억원 투자…5성급 호텔·리조트 385실 들어선다",
+      "date": "Sat, 21 Nov 2026 05:02:00 +0900"
     },
     {
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602261",
-      "title": "엘앤에프 , NCM·LFP 양극재 확대에 1515억원 CB 발행⋯운영자금 확보",
-      "date": "Thu, 19 Nov 2026 23:56:00 +0900"
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3450801",
+      "title": "한수원, 체코 원전 시공사 재선정...K-건설 수주전 불붙나",
+      "date": "Fri, 20 Nov 2026 23:50:00 +0900"
     },
     {
-      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181514367440101561",
-      "title": "[더벨][Company Watch] 삼보모터스 , 멕시코법인 실적개선에 3분기 영업익...",
-      "date": "Fri, 20 Nov 2026 07:02:00 +0900"
-    },
-    {
-      "url": "https://www.dailian.co.kr/news/view/1717376/?sc=Naver",
-      "title": "최고위서도 터져나온 '조작징계' 의혹 …윤리위 독립성 논란에도 장동혁...",
-      "date": "Fri, 20 Nov 2026 06:15:00 +0900"
-    },
-    {
-      "url": "https://www.ajunews.com/view/20261120022138675",
-      "title": "영양군, 공공임대주택 24호 건립 추진…151억원 투입",
-      "date": "Fri, 20 Nov 2026 05:02:00 +0900"
-    },
-    {
-      "url": "https://www.ajunews.com/view/20261120024018678",
-      "title": "포스코 노조, 포항 미래세대에 1억원 나눔…장학금·아동쉼터 지원",
-      "date": "Fri, 20 Nov 2026 05:02:00 +0900"
-    },
-    {
-      "url": "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54484",
-      "title": "대동 ~매리 도로 보상협의율 56%…2028년 준공 차질 우려",
-      "date": "Thu, 19 Nov 2026 23:42:00 +0900"
-    },
-    {
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/19/2026111950383.html",
-      "title": "경북 도 실라리안 기업 10곳, 캐나다 수출 교두보 확보",
-      "date": "Thu, 19 Nov 2026 23:12:00 +0900"
-    },
-    {
-      "url": "https://www.vegannews.co.kr/news/article.html?no=407914",
-      "title": "에스엘 , 3분기 82억원 순손실…매출은 4.7% 증가",
-      "date": "Thu, 19 Nov 2026 23:06:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHUzOVNRS1g4LURLaGRGRmVPNU41LUlBSU1qQU1MNFBxV1NCaENkaDFBc25ub21jSFhhcmVCeURZQzVzWGhkcXNiNzdybms0QVRULUFoVDcySG5MbjhXb3lVb3R1QlRPeGhNaW50MEJiTXFlbjVBdENkWVVyTHh1T1AyeVFXS25zOWNRZXNCZFFTeHAtTjdhdi04UGI0b2VaQ09BZ3o4aXNrNUU1aE1IS2xMcTVJc0lnMkpqb3JweVl4WHFjQU9BbjQ3R1hGRnZXbEtIOTdvcWVxTkg5Z0NN0gHkAUFVX3lxTE5wOG5ocDh5UmFLTUxZTjNmWmFFeTJNQjBvcXljbFRNcktXa1VhRHpZWXE0bWRMWGIxeWRBMTRLc2JTSDdWWG1HRUxOVXg0a0FCYmVyVm9ZWWtYWThXR2x5YTV4aHJVdXpLc2IzblFHcEt3ZDBnUHNNUEtzZmlwS2JzT1MwbThlLWJDaVpLVWZRRlZDRkVqUUs4Wm1fODNmclZVNHEwdm5ZdkVHTTFIbTJycmZJVlBLVTNjNTZBbE9RaXl0VXFkbmhyeUdFWmQwWnU4NnBZdGNyX2lmSmZKYWFhbkRudw?oc=5",
+      "title": "Posco Future M's (KRX:003670) Earnings Offer More Than Meets The Eye - Simply Wall St",
+      "date": "Fri, 20 Nov 2026 22:42:19 GMT"
     }
   ],
   "gemini_ai": {
-    "2026-11-13": 14,
     "2026-11-14": 1,
     "2026-11-15": 3,
     "2026-11-16": 7,
