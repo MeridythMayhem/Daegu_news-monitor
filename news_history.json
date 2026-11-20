@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zaHNuY1NSSmFCenZhVS1lTWwzZmZPeWR4UDg4UThjbHBKZW9wS2FyeHpDYVpyV2YyVm1uV1NISHhvTVRBVUU0TThPdDhtOXM1WHlGTzBYY1Ezd0FaNmVZcmVPU0k?oc=5": "2026-11-06T20:02:02.801969+09:00",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c3N0VkdDVFY4Q3Vvd0kxMHdacjEwVHJCYWhCTGhjVElzX2NmZjFVdVd0Q3FsbTVQd2ZkZHBQTkJPM24zWk13ZnpBeW52V1J2S1ppUkwyV0RDS0VWdXphVS1fTFdKa0hQa0ZkZndR?oc=5": "2026-11-06T20:02:02.801969+09:00",
-    "https://www.kbmaeil.com/article/20261106500210": "2026-11-06T20:02:02.801969+09:00",
     "https://www.safetimes.co.kr/news/articleView.html?idxno=247281": "2026-11-06T21:02:01.076082+09:00",
     "https://www.vegannews.co.kr/news/article.html?no=401427": "2026-11-06T21:02:01.076082+09:00",
     "http://www.metroseoul.co.kr/article/20261106500264": "2026-11-06T21:02:01.076082+09:00",
@@ -977,12 +974,11 @@
     "https://www.newsquest.co.kr/news/articleView.html?idxno=305549": "2026-11-20T19:09:23.079113+09:00",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315863": "2026-11-20T19:09:23.079113+09:00",
     "https://www.dongponews.net/news/articleView.html?idxno=61798": "2026-11-20T20:02:29.100279+09:00",
-    "https://www.mt.co.kr/industry/2026/11/20/2026112018233126305": "2026-11-20T20:02:29.100279+09:00"
+    "https://www.mt.co.kr/industry/2026/11/20/2026112018233126305": "2026-11-20T20:02:29.100279+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eUlRd2pOTFBkcW1BSUluMUZRc2otelRPeXQzYmJ5TDNyaGFVdDVpTE80VHB1eThPYUNmTUpqaVJPT2hBUVMwUVZUUE9jaXB0SW9sYm5uQ3hINmk0MktCdHZHTE9KRWtVRnc?oc=5": "2026-11-20T21:07:08.557226+09:00",
+    "https://view.asiae.co.kr/article/2026112019585385429": "2026-11-20T21:07:08.557226+09:00"
   },
   "titles": {
-    "82526b8bef6adefc90920132fc27685ee1dbbc76de30cc56480bf5a791afaf71": "2026-11-06T20:02:02.801969+09:00",
-    "f25bbc61ab2306c18856416d08f7a63aaf8038308f8d75ce9dfc6e41db73be41": "2026-11-06T20:02:02.801969+09:00",
-    "06ffb317573c30afc4916a97817b9d7bcfbb54c62f3008911b217beca8a2e9e7": "2026-11-06T20:02:02.801969+09:00",
     "5d73082059d926e62b82f1b46033bc791f1c2e4b503e6ea25c1457674846016d": "2026-11-06T21:02:01.076082+09:00",
     "7af94a78f54b5a7cc5bf2c1707ac5df0a64514968dbe92198e9c7992d4ad6f9f": "2026-11-06T21:02:01.076082+09:00",
     "baf25b2ff22b5e6eda38c28825dfe1c38e56ec5ec348fd9596a5b3f30ec7f0f3": "2026-11-06T21:02:01.076082+09:00",
@@ -1957,7 +1953,9 @@
     "04d67feb10a1ebd4e7f111ee7c3f001697bbe8874aae375198fe0e1772ec4f2f": "2026-11-20T19:09:23.079113+09:00",
     "7fc96c93c30225aaad9883c9a5c467e56afcf9a267ee60cdc92d26487c83afaa": "2026-11-20T19:09:23.079113+09:00",
     "bebe77680728d8867c07c8147346cc685989a67753f0bb1c0df66c8ffdf82584": "2026-11-20T20:02:29.100279+09:00",
-    "d152ecacd796f6b86b2f07f150dcc595d94404a718b38753a99517627ac4315f": "2026-11-20T20:02:29.100279+09:00"
+    "d152ecacd796f6b86b2f07f150dcc595d94404a718b38753a99517627ac4315f": "2026-11-20T20:02:29.100279+09:00",
+    "14b449d8ef84b3308a961ae275c4e759b0ba91a33904a8722ec40b0dfff9c1df": "2026-11-20T21:07:08.557226+09:00",
+    "08336f93cd0c46305378732a0ee62a6ab1e18e52b70cb08a5506844fde698e90": "2026-11-20T21:07:08.557226+09:00"
   },
   "pending": {},
   "ai": {
@@ -1972,45 +1970,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346": {
-      "title": "포항시 수출지원센터, 지역 6개 기업 화상 수출상담 성과 점검",
-      "summary": "이날 보고회에는 △경도공업 △ 대동 △엠에스파이프 △제일연마공업 △충주건축자재 △한금 등 모두 6개 기업이 참여한 가운데 용역수행사의 사업 추진 결과 발표 및 참여기업별 상담 추진 현황과 주요 성과·사업 운영...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091346",
-      "date": "Wed, 18 Nov 2026 20:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ksmnews.co.kr/news/view.php?idx=630181": {
-      "title": "포항 영일대에 28층 ‘4성급 특급호텔’ 건립 본격화",
-      "summary": "6%를 적용해 지하 4층~지상 최고 49층 규모의 복합시설을 건립 할 계획이다. 공사비를 포함한 총사업비는 3772억원 규모다. 포항 시는 기존 공영주차장을 대체하기 위해 별도 부지에 약 250면 규모의 공영주차장을 조성해...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630181",
-      "date": "Wed, 18 Nov 2026 21:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205499&mode=view": {
-      "title": "임금 체불하고 수사 불응한 사업주 체포",
-      "summary": "불응한 울진의 건설업체 대표 60대 남성을 자택에서 체포했다고 밝혔습니다. 이 사업주는 조사 과정에서 임금 체불 사실을 모두 인정했으며, 포항 지청은 수사를 마무리하는 대로 근로기준법 위반 혐의 로 송치할 예정입니다.",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205499&mode=view",
-      "date": "Wed, 18 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.gukjenews.com/news/articleView.html?idxno=3756274": {
       "title": "\"K-푸드·뷰티 열풍 통했다\"… 경북 도, 수출상담회서 476만 달러 성과",
       "summary": "업무협약( MOU ) 10건도 체결됐다. 주요 협약은 상주 다정다감푸드 농업회사법인(곶감)과 뉴질랜드 F사, 성주 ㈜알알이푸드(된장·고추장)와 러시아 R사, 경산 ㈜넥타홀딩스(커피)와 일본 A사 등이다. 경북 도는 이번...",
@@ -4498,6 +4457,32 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://view.asiae.co.kr/article/2026112019585385429": {
+      "title": "포항 환호지구에 4800억 들여 5성급 호텔·프리미엄 리조트 건립",
+      "summary": "경북도는 20일 도청 회의실에서 포항 시, 한화호텔앤드리조트㈜, 포항 하나원㈜과 환호지구 관광숙박시설 건립을 위한 투자 업무 협약 을 체결했다. 협약 식에는 이철우 경북도지사와 박용선 포항 시장, 최석진...",
+      "url": "https://view.asiae.co.kr/article/2026112019585385429",
+      "date": "Fri, 20 Nov 2026 20:05:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eUlRd2pOTFBkcW1BSUluMUZRc2otelRPeXQzYmJ5TDNyaGFVdDVpTE80VHB1eThPYUNmTUpqaVJPT2hBUVMwUVZUUE9jaXB0SW9sYm5uQ3hINmk0MktCdHZHTE9KRWtVRnc?oc=5": {
+      "title": "영천시, K-POP 돔 건립 위한 일본 볼파크 벤치마킹 - 디트NEWS24",
+      "summary": "영천시, K-POP 돔 건립 위한 일본 볼파크 벤치마킹 디트NEWS24",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eUlRd2pOTFBkcW1BSUluMUZRc2otelRPeXQzYmJ5TDNyaGFVdDVpTE80VHB1eThPYUNmTUpqaVJPT2hBUVMwUVZUUE9jaXB0SW9sYm5uQ3hINmk0MktCdHZHTE9KRWtVRnc?oc=5",
+      "date": "Fri, 20 Nov 2026 11:18:19 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4527,21 +4512,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-20",
   "sent_articles": [
-    {
-      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247281",
-      "title": "새 법무부 장관에 '이용철' 지명 … 국세청 ·정무수석 인사 도 단행",
-      "date": "Fri, 06 Nov 2026 20:08:00 +0900"
-    },
-    {
-      "url": "https://www.vegannews.co.kr/news/article.html?no=401427",
-      "title": "한국가스공사 , 3분기 실적 공시일 12일로 예고",
-      "date": "Fri, 06 Nov 2026 20:42:00 +0900"
-    },
-    {
-      "url": "http://www.metroseoul.co.kr/article/20261106500264",
-      "title": "경북 도, 의성 식품산업 육성 본격화…455억 원 투자 유치",
-      "date": "Fri, 06 Nov 2026 20:16:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10Y1NFYzFLWHZtZFdLTjRyWXJBTzUzRVFKZHBaVktNcERkRVlVM1lNVHZ6NDJCTG9ORWs3c0Vlc0gyemdwVEhRRVFOOFRLYkdES1ZFU3NFdnpvNENiQkJLZ0N2cmFaT05sUjRB?oc=5",
       "title": "경북도, 의성에 식품산업 455억 원 투자 유치…미래 푸드테크 산업 거점 육성 - 웹플러스뉴스",
@@ -9401,6 +9371,16 @@
       "url": "https://www.mt.co.kr/industry/2026/11/20/2026112018233126305",
       "title": "포스코 , 임단협 잠정합의안 재도출…\"철강 위기 극복 뜻 모아\"",
       "date": "Fri, 20 Nov 2026 19:05:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eUlRd2pOTFBkcW1BSUluMUZRc2otelRPeXQzYmJ5TDNyaGFVdDVpTE80VHB1eThPYUNmTUpqaVJPT2hBUVMwUVZUUE9jaXB0SW9sYm5uQ3hINmk0MktCdHZHTE9KRWtVRnc?oc=5",
+      "title": "영천시, K-POP 돔 건립 위한 일본 볼파크 벤치마킹 - 디트NEWS24",
+      "date": "Fri, 20 Nov 2026 11:18:19 GMT"
+    },
+    {
+      "url": "https://view.asiae.co.kr/article/2026112019585385429",
+      "title": "포항 환호지구에 4800억 들여 5성급 호텔·프리미엄 리조트 건립",
+      "date": "Fri, 20 Nov 2026 20:05:00 +0900"
     }
   ],
   "brief_articles": [
