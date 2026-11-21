@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A": "2026-11-07T22:01:44.820681+09:00",
-    "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052": "2026-11-07T22:01:44.820681+09:00",
     "https://www.viva100.com/article/20261107500203": "2026-11-07T23:01:54.137564+09:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZV3dfYU0yTDl6WE93REFuU05TRzRqNzlGanRnWlNTWlh6SDNzWGxNTW80M2taR0E5Rzh0eVpDSjZ4TFVBOFJxSDB6SERRdFhDSTBCWXZLU2huQQ?oc=5": "2026-11-07T23:01:54.137564+09:00",
     "https://www.m-i.kr/news/articleView.html?idxno=2015691": "2026-11-07T23:01:54.137564+09:00",
@@ -947,11 +945,11 @@
     "https://www.newsis.com/view/NISX20261121_0003877773": "2026-11-21T18:08:52.571763+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506634": "2026-11-21T19:09:01.934728+09:00",
     "https://biz.heraldcorp.com/article/10944752?ref=naver": "2026-11-21T19:09:01.934728+09:00",
-    "https://www.news1.kr/local/daegu-gyeongbuk/6361737": "2026-11-21T22:03:05.015892+09:00"
+    "https://www.news1.kr/local/daegu-gyeongbuk/6361737": "2026-11-21T22:03:05.015892+09:00",
+    "http://sateconomy.co.kr/news/view/1065619859275096": "2026-11-21T23:09:23.499109+09:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYnVyU2h0TWpLMUR1N251S3ktWW9rc1ZDQ1J0T3B6eUJ4OG9SOUNDZ25EeC0yazl3eEtJbnhJNlJZdzFmZFdRWnJ3X1FkQ0RhQ2ZDRmQtOWVhYUo4NEFSeS1NSFVMU0wtZVh6WDlR?oc=5": "2026-11-21T23:09:23.499109+09:00"
   },
   "titles": {
-    "fc5aadd63285ca96604ac04dbf38e782c5d384ce494a287bdcc3036102e4ee00": "2026-11-07T22:01:44.820681+09:00",
-    "2d33eb4dc16350220b95f07e8b1be8bde554c1bc23137bb0cc0283f38896fe52": "2026-11-07T22:01:44.820681+09:00",
     "cf08be7e5ad96a532b12e81e7ddb297816a61a7cbd1660a3d7c1898b1e03d34d": "2026-11-07T23:01:54.137564+09:00",
     "04265018af7413e096dfa934a355ee8959125ea55cb0d9ad88f031d84d2b1a3d": "2026-11-07T23:01:54.137564+09:00",
     "143568f0902123c636ac6e169b7fcd515e144a5b8c1f26e945a58cf26656a86c": "2026-11-07T23:01:54.137564+09:00",
@@ -1897,7 +1895,9 @@
     "998a7e1a5c9bb234134687d00cbb91b9f975972abd810a0c96046e4b290e5c34": "2026-11-21T18:08:52.571763+09:00",
     "8726a173811dede5f4cafa8dee3be90a61cd4245e648688c1262df79302df1c6": "2026-11-21T19:09:01.934728+09:00",
     "3aede59cecdc254b36c5d8230d06338483fd47992abb5ab76d1faf07d47abddd": "2026-11-21T19:09:01.934728+09:00",
-    "63ae3ee35cc4c779d6747aaace21898c4d3a71f170f4cbb9e213a92eade70179": "2026-11-21T22:03:05.015892+09:00"
+    "63ae3ee35cc4c779d6747aaace21898c4d3a71f170f4cbb9e213a92eade70179": "2026-11-21T22:03:05.015892+09:00",
+    "627f03b9801eedcd9dc308064ea94e14c35226ec61c460d7202141a060633d32": "2026-11-21T23:09:23.499109+09:00",
+    "1f46a9e1f09e24a640cd012e9f554b7080ed95d36289d269653f67b528814087": "2026-11-21T23:09:23.499109+09:00"
   },
   "pending": {},
   "ai": {
@@ -1911,32 +1911,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.gukjenews.com/news/articleView.html?idxno=3757641": {
-      "title": "\"805억 투입, 예술 담고 미래 짓는다\"… 경북 도립미술관 건립 본궤도",
-      "summary": "경상북도가 총 805억 원을 투입하는 경북 도립미술관 건립 을 본격화하고, 지역의 문화적 정체성을 반영한 공간 설계와 전시 콘텐츠 구체화에 나섰다. '2026년 제8차 경북 문화관광 워킹그룹' 회의 경북 도는 11월 19일...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757641",
-      "date": "Thu, 19 Nov 2026 22:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.joongang.co.kr/article/25480268": {
-      "title": "與 ‘조희대 탄핵’에 여야 대표 충돌…“역사적 결단” “자살 폭탄”",
-      "summary": "이어 전날 서울중앙지법이 내린 추경호 대구 시장(전 국민의힘 원내대표)의 비상계엄 해제 표결 방해 혐의 에 대한 1심 무죄 판결과 이날 한 전 총리에 대한 파기환송 결정을 함께 거론하며 “‘내란 임박 시 입 다물어라’...",
-      "url": "https://www.joongang.co.kr/article/25480268",
-      "date": "Thu, 19 Nov 2026 22:53:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://tk.newdaily.co.kr/site/data/html/2026/11/19/2026111950383.html": {
       "title": "경북 도 실라리안 기업 10곳, 캐나다 수출 교두보 확보",
       "summary": "뉴데일리 강승탁 = 경북 도 중소기업 공동브랜드 ‘실라리안’이 캐나다 밴쿠버에서 첫 북미시장 개척에... 이 자리에서 모두 240만 달러 규모의 MOU 8건도 체결됐다. 기업별 협약도 이어졌다. 풍기특산물영농조합법인은...",
@@ -3277,6 +3251,32 @@
       "category": "세무 조사·혐의 관련",
       "priority": 70,
       "filter_version": 18
+    },
+    "http://sateconomy.co.kr/news/view/1065619859275096": {
+      "title": "현대제철· 포스코 , 美 제철소 항만 분쟁 넘자 환경허가 소송…수소·전...",
+      "summary": "항만채권 소송 각하 사흘 만에 대기허가 취소 청구 환경단체, 오염저감 기술·주민 영향 검토 부실 주장 美 환경보호청 별도 심사 진행…2029년 가동 영향 미확정 ▲ 포스코 현대제철 [토요경제] 포스코 와...",
+      "url": "http://sateconomy.co.kr/news/view/1065619859275096",
+      "date": "Sat, 21 Nov 2026 22:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYnVyU2h0TWpLMUR1N251S3ktWW9rc1ZDQ1J0T3B6eUJ4OG9SOUNDZ25EeC0yazl3eEtJbnhJNlJZdzFmZFdRWnJ3X1FkQ0RhQ2ZDRmQtOWVhYUo4NEFSeS1NSFVMU0wtZVh6WDlR?oc=5": {
+      "title": "경북 콘텐츠 IP, 사업화 날개…투자·제작 협력 3건 성사 - 국제뉴스",
+      "summary": "경북 콘텐츠 IP, 사업화 날개…투자·제작 협력 3건 성사 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYnVyU2h0TWpLMUR1N251S3ktWW9rc1ZDQ1J0T3B6eUJ4OG9SOUNDZ25EeC0yazl3eEtJbnhJNlJZdzFmZFdRWnJ3X1FkQ0RhQ2ZDRmQtOWVhYUo4NEFSeS1NSFVMU0wtZVh6WDlR?oc=5",
+      "date": "Sat, 21 Nov 2026 13:43:27 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3294,26 +3294,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-21",
   "sent_articles": [
-    {
-      "url": "https://www.viva100.com/article/20261107500203",
-      "title": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차...",
-      "date": "Sat, 07 Nov 2026 22:36:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZV3dfYU0yTDl6WE93REFuU05TRzRqNzlGanRnWlNTWlh6SDNzWGxNTW80M2taR0E5Rzh0eVpDSjZ4TFVBOFJxSDB6SERRdFhDSTBCWXZLU2huQQ?oc=5",
-      "title": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차 총파업’ 오나 - 브릿지경제",
-      "date": "Sat, 07 Nov 2026 13:35:00 GMT"
-    },
-    {
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2015691",
-      "title": "포스코 노조, 임단협 잠정합의안 부결…반대 51.69%",
-      "date": "Sat, 07 Nov 2026 22:06:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pejl3VnpBd2dBejY4MVRVVWhwcWVLX2RMZjBBOG9NVjRmS2g0R0NtQ28ybmQyc1RpbmtWY0M3bkR1MkVJMkxNU3czT2JpbzFlVmowNTRwWkNTTHpuMUNLbg?oc=5",
-      "title": "구미시, 「공단동 도시재생혁신지구 조성사업 착공식」 개최 - 구미일보",
-      "date": "Sat, 07 Nov 2026 13:03:46 GMT"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwMHZqcXhtNkptcDJ2b2ljOHBNQTEyUy1DYTItangzZDlyblpCRzBkSzlkZnk0RmpPd3loeTRta1A5TnhraDlfSk91ZEEtcVpIWUdmZjlaUXdneTBxMGE4eDdxWTluVzV2?oc=5",
       "title": "안덕수 신임 국세청장 내정‥ \"꼼수 탈세 잡고 서민은 품는다\" - 일간경기",
@@ -8023,6 +8003,16 @@
       "url": "https://www.news1.kr/local/daegu-gyeongbuk/6361737",
       "title": "'노동자 58명' 임금·퇴직금 7억 체불한 포항 요양병원장 구속",
       "date": "Sat, 21 Nov 2026 21:13:00 +0900"
+    },
+    {
+      "url": "http://sateconomy.co.kr/news/view/1065619859275096",
+      "title": "현대제철· 포스코 , 美 제철소 항만 분쟁 넘자 환경허가 소송…수소·전...",
+      "date": "Sat, 21 Nov 2026 22:52:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYnVyU2h0TWpLMUR1N251S3ktWW9rc1ZDQ1J0T3B6eUJ4OG9SOUNDZ25EeC0yazl3eEtJbnhJNlJZdzFmZFdRWnJ3X1FkQ0RhQ2ZDRmQtOWVhYUo4NEFSeS1NSFVMU0wtZVh6WDlR?oc=5",
+      "title": "경북 콘텐츠 IP, 사업화 날개…투자·제작 협력 3건 성사 - 국제뉴스",
+      "date": "Sat, 21 Nov 2026 13:43:27 GMT"
     }
   ],
   "brief_articles": [
