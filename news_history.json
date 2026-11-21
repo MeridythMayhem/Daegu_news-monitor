@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5": "2026-11-07T09:01:46.313119+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS2loUmRWb3VmZVpKTFJMMEk2NzNLZmpNV3VjR055ZmlhVHRKWmZfWjZZSW9FM29nUjRYYWVJZXVkcHo2cVh3ZHNQUEx4WnUyOHNkdzhSa2ttaFlYaFNETHJBWUlLbG5Uc1Fr0gFvQVVfeXFMTVJkNjFUSWROa1hsdEJoWTlSbWdiNjZnaml2TjFwN1JzOGR3NFZFYl9aeEVyNlVBMVBLRjgyVk1LLUdLQUdKcjJIa3ZIZGVtaWJPQWhqNkpZODhoNWJqc3ZKWmRHTC0xckdOZDE1UXhN?oc=5": "2026-11-07T10:01:55.313848+09:00",
     "https://www.thepublic.kr/news/articleView.html?idxno=325530": "2026-11-07T10:01:55.313848+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502033": "2026-11-07T10:01:55.313848+09:00",
@@ -975,10 +974,11 @@
     "https://www.bzeronews.com/news/articleView.html?idxno=825628": "2026-11-20T22:10:20.178025+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFa2V1c2hUV2FLTkNNOEZlMFlkZzB5eEJSRWg5SDlBblV1UnFWcjF3OXB4eS1sX082SDUyTW9XdEx6Yll3TjhEMC1VSVBfQ0g0b0RYVGJKYllrenBVOEhwNXN6LWw?oc=5": "2026-11-20T22:10:20.178025+09:00",
     "https://www.imaeil.com/page/view/2026112015070241931": "2026-11-20T23:08:57.403721+09:00",
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5": "2026-11-21T09:07:05.524063+09:00"
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5": "2026-11-21T09:07:05.524063+09:00",
+    "https://www.gokorea.kr/news/articleView.html?idxno=886704": "2026-11-21T10:09:07.939195+09:00",
+    "https://www.thepublic.kr/news/articleView.html?idxno=327832": "2026-11-21T10:09:07.939195+09:00"
   },
   "titles": {
-    "89e20f41517c96579f10bc875da323a03e87161b1d9d7864260ce0259291da54": "2026-11-07T09:01:46.313119+09:00",
     "3eff59b4f496f698c35936021a35f6e41f538ecf27a75f1e10acc3ce888b21c2": "2026-11-07T10:01:55.313848+09:00",
     "cfa281a58c1a1373056e067f0a6ea36cf6a5539e14e211cbe0f30534eed6986c": "2026-11-07T10:01:55.313848+09:00",
     "7eed4272d992aaa5c442427c2d7de45cc51ad816fc07fcba947d73b2a520b611": "2026-11-07T10:01:55.313848+09:00",
@@ -1953,7 +1953,9 @@
     "ab2b0dbba021a6396b33c92b252b44065f4bb102d5329a691808975654db74ef": "2026-11-20T22:10:20.178025+09:00",
     "4c79f1a9e9ab44960f333d0319ee5e2540c658eacfffe78c979703c8339e513b": "2026-11-20T22:10:20.178025+09:00",
     "47c41224ea7b67a534a9b015ff88712ffeaa4b323910d131b4d1c232ad1635e7": "2026-11-20T23:08:57.403721+09:00",
-    "96da91ec99d1a08d5ce224da97ada5fd6d2fa6b8c1352ab71439f9b9ea3f26a2": "2026-11-21T09:07:05.524063+09:00"
+    "96da91ec99d1a08d5ce224da97ada5fd6d2fa6b8c1352ab71439f9b9ea3f26a2": "2026-11-21T09:07:05.524063+09:00",
+    "6c794735910d519b4d01877c759ce53ae1775c99b40a61771b9dabeea9c12fb7": "2026-11-21T10:09:07.939195+09:00",
+    "cd62edd0f0bb1b3f0518ca4e312f9690d2c88577512caf16409ed6b4b0c90693": "2026-11-21T10:09:07.939195+09:00"
   },
   "pending": {},
   "ai": {
@@ -1967,84 +1969,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kado.net/news/articleView.html?idxno=2085823": {
-      "title": "[속보] 돈만 주면 집 앞에 오물·욕설 낙서…사적 보복 조직원 8명 구속 ...",
-      "summary": "대구 경찰청 광역범죄수사대는 범죄집단 조직·가입·활동과 주거침입, 명예훼손, 재물손괴 등 혐의로 사적 보복 대행업체 총책 A(30대)씨를 비롯한 중간 관리책, 자금관리책, 행동대원 등 8명을 구속 해 공소청에 송치했다고...",
-      "url": "https://www.kado.net/news/articleView.html?idxno=2085823",
-      "date": "Thu, 19 Nov 2026 09:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.munhwa.com/article/11632452?ref=naver": {
-      "title": "오물투척에 스트레이 뿌려… 사적 보복대행 범죄조직 총책 등 8명 구속",
-      "summary": "대구 경찰청은 범죄집단 조직·가입·활동, 주거침입, 명예훼손, 재물손괴 등 혐의 로 사적 보복대행업체 총책 A(30대)씨와 중간관리책 등 9명을 붙잡아 이 가운데 A씨 등 8명을 공소청에 구속 송치했다고 19일 밝혔다. 경찰은...",
-      "url": "https://www.munhwa.com/article/11632452?ref=naver",
-      "date": "Thu, 19 Nov 2026 09:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853124&plink=ORI&cooper=NAVER": {
-      "title": "돈 받고 오물 투척·욕설 낙서…사적보복 대행 총책 등 8명 송치",
-      "summary": "대구 경찰청 광역범죄수사대는 범죄집단 조직·가입·활동 및 주거침입, 명예훼손, 재물손괴 등 혐의로 사적 보복 대행업체 총책 30대 A 씨와 중간 관리책, 자금관리책, 행동대원 등 8명을 공소청에 구속 송치했습니다. A 씨...",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853124&plink=ORI&cooper=NAVER",
-      "date": "Thu, 19 Nov 2026 09:19:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286277&CMPT_CD=P0010": {
-      "title": "이재명 정부의 배임죄 폐지, 당최 이해가 안 갑니다",
-      "summary": "포스코 최정우 전회장 사례가 대표적이다. '배임죄'가 아니면 이런 행위를 처벌할 수 없게 된다. 회사 자료를... 그런데 롯데쇼핑이 신동빈 회장에게, ㈜한화가 김승연 회장에게, 포스코 가 최정우 회장에게 과연 민사소송을...",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286277&CMPT_CD=P0010",
-      "date": "Thu, 19 Nov 2026 09:51:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://worknworld.kctu.org/news/articleView.html?idxno=510348": {
-      "title": "3D프린터 활용 교사 희귀암, 공무상 재해 인정… 같은 사유로 사망한 교...",
-      "summary": "한편, 직업성·환경성암환자찾기119(직업성암119)는 2021년부터 '암도 산재다!'를 외치며 포스코 퇴직자와 학교 급식실 노동자 폐암, 그리고 3D프린터 육종암 집단 산재신청을 진행했다. 화섬식품노조...",
-      "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510348",
-      "date": "Thu, 19 Nov 2026 09:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jZ0I5X3NvdXZSbHI3X2lUN2xnd19NaGVjeTd0MG5wVHUtSXNOa2dBcDhDN2dNeFlmWWNMUUNQVDl2LWUydlJGb2RydmoyQ241aHVUQ3dLZ2FZUEwzeHNHSFF2OFBRUQ?oc=5": {
-      "title": "문경시, (주)문경약돌온천과 관광호텔 투자양해각서 체결 - 데일리대구경북뉴스",
-      "summary": "문경시, (주)문경약돌온천과 관광호텔 투자양해각서 체결 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jZ0I5X3NvdXZSbHI3X2lUN2xnd19NaGVjeTd0MG5wVHUtSXNOa2dBcDhDN2dNeFlmWWNMUUNQVDl2LWUydlJGb2RydmoyQ241aHVUQ3dLZ2FZUEwzeHNHSFF2OFBRUQ?oc=5",
-      "date": "Thu, 19 Nov 2026 00:04:51 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "http://www.metroseoul.co.kr/article/20261119500113": {
       "title": "영양군, 경북 개발공사와 공공임대주택 24호 건립 본격화",
       "summary": "- 영양군-경상북도개발공사 ‘영양맞춤 공공임대형 주거타운’ 건설 업무대행 협약…24호 공급·사업비 151억원 투입 - - 군 사업 총괄·개발공사 건설 업무 수행…2029년 준공 목표로 청년·신혼부부 정착 기반 마련 - 인구...",
@@ -4402,6 +4326,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.gokorea.kr/news/articleView.html?idxno=886704": {
+      "title": "포스코 노사 협상 극적 타결, 2.6% 임금 인상과 파업 종결의 비밀",
+      "summary": "포스코 의 노사 협상이 기본 임금 인상률 2.6%를 중심으로 한 임금 협상에서 잠정 합의를 이뤘다. 이번 합의는... 포스코 노동조합은 이 잠정 합의안을 바탕으로 28일 조합원 찬반 투표를 통해 최종 결정을 내릴 예정이며...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=886704",
+      "date": "Sat, 21 Nov 2026 09:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.thepublic.kr/news/articleView.html?idxno=327832": {
+      "title": "실적 회복에 정권 교체도 넘겼지만…장인화 포스코 회장, 연임 변수는",
+      "summary": "장인화 포스코 그룹 회장의 임기 만료가 다가오면서 연임 여부에 관심이 쏠리고 있다. 정권 교체 이후에도... 20일 재계에 따르면 포스코 홀딩스는 오는 12월 회장후보추천위원회(회추위)를 구성하고 차기 회장 선임 절차에...",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=327832",
+      "date": "Sat, 21 Nov 2026 09:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4419,26 +4369,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-21",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS2loUmRWb3VmZVpKTFJMMEk2NzNLZmpNV3VjR055ZmlhVHRKWmZfWjZZSW9FM29nUjRYYWVJZXVkcHo2cVh3ZHNQUEx4WnUyOHNkdzhSa2ttaFlYaFNETHJBWUlLbG5Uc1Fr0gFvQVVfeXFMTVJkNjFUSWROa1hsdEJoWTlSbWdiNjZnaml2TjFwN1JzOGR3NFZFYl9aeEVyNlVBMVBLRjgyVk1LLUdLQUdKcjJIa3ZIZGVtaWJPQWhqNkpZODhoNWJqc3ZKWmRHTC0xckdOZDE1UXhN?oc=5",
-      "title": "기업 세무조사 부담 줄이고 주가조작 탈세 추적…국세청장 후보에 안덕수 - 더퍼블릭",
-      "date": "Sat, 07 Nov 2026 00:40:03 GMT"
-    },
-    {
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=325530",
-      "title": "기업 세무조사 부담 줄이고 주가조작 탈세 추적… 국세청 장 후보에 안덕...",
-      "date": "Sat, 07 Nov 2026 09:40:00 +0900"
-    },
-    {
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502033",
-      "title": "신한투자증권 \"북미 전기차 부진에도… 에코프로 비엠, ESS·신규 고객으로...",
-      "date": "Sat, 07 Nov 2026 09:24:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qN05jeU9lSmV3endHSXlvNlZJRGIwZWhtV1VjcHBKNU1Xa1JEdFVEVTlscWtHbEpYR01jUjhNbUowOFNNNG1NYTZuV2xNUEhKeVZGWGVZM2NoN0U1c2pBTlVZaXRkMFhQanlYTUpQR3lRVVU?oc=5",
-      "title": "신한투자증권 \"북미 전기차 부진에도…에코프로비엠, ESS·신규 고객으로 돌파구\" - 핀포인트뉴스",
-      "date": "Sat, 07 Nov 2026 00:23:55 GMT"
-    },
     {
       "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422853",
       "title": "\"돌봄·복지·문화 한곳에\"…문경시, 모전동 커뮤니티센터 건립",
@@ -9293,6 +9223,16 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5",
       "title": "경북도립미술관 건립 방향 구체화...'제8차 경북 문화관광 워킹그룹' 한자리 - 경북신문",
       "date": "Fri, 20 Nov 2026 23:32:51 GMT"
+    },
+    {
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=886704",
+      "title": "포스코 노사 협상 극적 타결, 2.6% 임금 인상과 파업 종결의 비밀",
+      "date": "Sat, 21 Nov 2026 09:26:00 +0900"
+    },
+    {
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=327832",
+      "title": "실적 회복에 정권 교체도 넘겼지만…장인화 포스코 회장, 연임 변수는",
+      "date": "Sat, 21 Nov 2026 09:10:00 +0900"
     }
   ],
   "brief_articles": [
