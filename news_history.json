@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://www.nocutnews.co.kr/news/6603585": "2026-11-07T21:02:46.966535+09:00",
-    "https://view.asiae.co.kr/article/2026110720111507931": "2026-11-07T21:02:46.966535+09:00",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=285401": "2026-11-07T21:02:46.966535+09:00",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A": "2026-11-07T22:01:44.820681+09:00",
     "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052": "2026-11-07T22:01:44.820681+09:00",
     "https://www.viva100.com/article/20261107500203": "2026-11-07T23:01:54.137564+09:00",
@@ -949,12 +946,10 @@
     "https://view.asiae.co.kr/article/2026112111551459803": "2026-11-21T15:03:31.341898+09:00",
     "https://www.newsis.com/view/NISX20261121_0003877773": "2026-11-21T18:08:52.571763+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506634": "2026-11-21T19:09:01.934728+09:00",
-    "https://biz.heraldcorp.com/article/10944752?ref=naver": "2026-11-21T19:09:01.934728+09:00"
+    "https://biz.heraldcorp.com/article/10944752?ref=naver": "2026-11-21T19:09:01.934728+09:00",
+    "https://www.news1.kr/local/daegu-gyeongbuk/6361737": "2026-11-21T22:03:05.015892+09:00"
   },
   "titles": {
-    "b38fbacc15bd015ac53168f9a47c28a8df7f697255e907df5a49bc2c0fa5c427": "2026-11-07T21:02:46.966535+09:00",
-    "5ef493aec6def2b2ae1b4c7283955ec5ed37e84be6ca60108a4309280b682121": "2026-11-07T21:02:46.966535+09:00",
-    "19031078a8a407bbd8ddf848e3b17c2a8eb3e7713a734ff46b561599287a11a8": "2026-11-07T21:02:46.966535+09:00",
     "fc5aadd63285ca96604ac04dbf38e782c5d384ce494a287bdcc3036102e4ee00": "2026-11-07T22:01:44.820681+09:00",
     "2d33eb4dc16350220b95f07e8b1be8bde554c1bc23137bb0cc0283f38896fe52": "2026-11-07T22:01:44.820681+09:00",
     "cf08be7e5ad96a532b12e81e7ddb297816a61a7cbd1660a3d7c1898b1e03d34d": "2026-11-07T23:01:54.137564+09:00",
@@ -1901,7 +1896,8 @@
     "ce4130d2c5adf54f465c6d99304d0b9e6406d93589e47642fa813c1b2b754b81": "2026-11-21T15:03:31.341898+09:00",
     "998a7e1a5c9bb234134687d00cbb91b9f975972abd810a0c96046e4b290e5c34": "2026-11-21T18:08:52.571763+09:00",
     "8726a173811dede5f4cafa8dee3be90a61cd4245e648688c1262df79302df1c6": "2026-11-21T19:09:01.934728+09:00",
-    "3aede59cecdc254b36c5d8230d06338483fd47992abb5ab76d1faf07d47abddd": "2026-11-21T19:09:01.934728+09:00"
+    "3aede59cecdc254b36c5d8230d06338483fd47992abb5ab76d1faf07d47abddd": "2026-11-21T19:09:01.934728+09:00",
+    "63ae3ee35cc4c779d6747aaace21898c4d3a71f170f4cbb9e213a92eade70179": "2026-11-21T22:03:05.015892+09:00"
   },
   "pending": {},
   "ai": {
@@ -1915,32 +1911,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065614260142185": {
-      "title": "엘앤에프 , 1515억원 전환사채 발행…NCM·LFP 양극재 생산 확대 속도",
-      "summary": "이차전지 소재기업 엘앤에프 가 1515억원 규모의 전환사채(CB)를 발행해 양극재 생산 확대에 필요한 자금을... ▲ 엘앤에프 구지3공장 전경[사진= 엘앤에프 ] 영구 CB 303억원과 일반 CB 1212억원으로 구성되며, 조달 자금은...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065614260142185",
-      "date": "Thu, 19 Nov 2026 21:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
-    "https://vop.co.kr/A00001697680.html": {
-      "title": "리튬 투자 공들인 포스코 그룹, CATL과 장기공급계약",
-      "summary": "포스코 그룹이 중국의 전기차 배터리 기업 CATL을 리튬 고객사로 확보했다.19일 업계에 따르면, 포스코 그룹은 2026년부터 2028년까지 3년간 CATL에 전기차 배터리 제조에 필요한 리튬을 공급하는 내용의 장기계약을 최근...",
-      "url": "https://vop.co.kr/A00001697680.html",
-      "date": "Thu, 19 Nov 2026 21:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.gukjenews.com/news/articleView.html?idxno=3757641": {
       "title": "\"805억 투입, 예술 담고 미래 짓는다\"… 경북 도립미술관 건립 본궤도",
       "summary": "경상북도가 총 805억 원을 투입하는 경북 도립미술관 건립 을 본격화하고, 지역의 문화적 정체성을 반영한 공간 설계와 전시 콘텐츠 구체화에 나섰다. '2026년 제8차 경북 문화관광 워킹그룹' 회의 경북 도는 11월 19일...",
@@ -3294,6 +3264,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6361737": {
+      "title": "'노동자 58명' 임금·퇴직금 7억 체불한 포항 요양병원장 구속",
+      "summary": "대구지방고용노동청 포항 지청은 근로기준법 및 근로자퇴직급여 보장법 위반 혐의로 포항 모 요양병원 대표 A 씨를 구속 했다고 21일 밝혔다. 포항 지청에 따르면 A 씨는 요양병원을 운영 및 폐업하는 과정에서 근로자...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6361737",
+      "date": "Sat, 21 Nov 2026 21:13:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3311,16 +3294,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-21",
   "sent_articles": [
-    {
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706782&ref=A",
-      "title": "포스코 노조, 임금 잠정 합의안 부결…재협상",
-      "date": "Sat, 07 Nov 2026 21:35:00 +0900"
-    },
-    {
-      "url": "https://www.tbc.co.kr/news/view?pno=20261107175720AE08147&id=213052",
-      "title": "포스코 노조, 임금 잠정 합의안 반대 51.69% '부결'",
-      "date": "Sat, 07 Nov 2026 21:32:00 +0900"
-    },
     {
       "url": "https://www.viva100.com/article/20261107500203",
       "title": "합의안 부결에 “쟁의지침 즉각 하달”⋯ 퇴로 막힌 포스코 노조, ‘3차...",
@@ -8045,6 +8018,11 @@
       "url": "https://biz.heraldcorp.com/article/10944752?ref=naver",
       "title": "포항 환호공원에 4800억원 투자 …5성급 호텔·리조트 조성",
       "date": "Sat, 21 Nov 2026 18:01:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6361737",
+      "title": "'노동자 58명' 임금·퇴직금 7억 체불한 포항 요양병원장 구속",
+      "date": "Sat, 21 Nov 2026 21:13:00 +0900"
     }
   ],
   "brief_articles": [
