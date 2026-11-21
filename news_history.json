@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://daily.hankooki.com/news/articleView.html?idxno=1422853": "2026-11-07T11:01:45.933536+09:00",
-    "https://www.kpinews.kr/newsView/1065573603846673": "2026-11-07T11:01:45.933536+09:00",
     "https://www.etoday.co.kr/news/view/2645293": "2026-11-07T12:02:05.423144+09:00",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbzJJckJKUlhBMUxSUGFseGozdVdVRHdHVGJXa0kwVVU2MU8zWTFFOFQ4ak5zeWxWRlI5WF9uQXd6YzZTV0JYc0tjSU9IdF95Yktv?oc=5": "2026-11-07T13:01:45.078114+09:00",
     "https://www.newspim.com/news/view/20261107000084": "2026-11-07T16:01:46.920706+09:00",
@@ -980,8 +978,6 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506567": "2026-11-21T11:09:09.299557+09:00"
   },
   "titles": {
-    "a23f54d62328250f2ed721232097fa225129982d6f460a1efb446ae1afda20e1": "2026-11-07T11:01:45.933536+09:00",
-    "02d7e1c1e6deaf3589e7ae1bc79d2c3e1aed28b9c452eee73b289cf407cb906c": "2026-11-07T11:01:45.933536+09:00",
     "b277d30cd0aaad65d29bcfc04c92cc990f56aef325827d8cd0d1fad5df3895c1": "2026-11-07T12:02:05.423144+09:00",
     "46aca5080026340b36c2a5a5163b1ccb32a01d8cec25fb8a8bface1969459787": "2026-11-07T13:01:45.078114+09:00",
     "165417429d0d8d30d7da22f83a6a0f93693049091a9b7a441b9547859b3680ad": "2026-11-07T16:01:46.920706+09:00",
@@ -1971,110 +1967,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.cbci.co.kr/news/articleView.html?idxno=628636": {
-      "title": "LG이노텍, 중대재해 미해당으로 종결…고용노동부 조사 결과 반영",
-      "summary": "이번 정정은 지난 8월 6일 제출한 공시에 고용노동부의 중대재해 조사 결과를 반영한 것이다. 당초 공시에 따르면 지난 8월 5일 경북 구미 시 공단동 소재 사외기숙사에서 심정지 상태로 발견된 사례가 발생했다. 당시...",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=628636",
-      "date": "Thu, 19 Nov 2026 11:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6359267": {
-      "title": "외국인 근로자 임금 1000만원 체불…조사 7차례 불응한 사업주 체포",
-      "summary": "19일 고용노동부 포항 지청에 따르면 근로기준법 위반 혐의 를 받는 경북 울진군 소재 건설업체 대표 A 씨(62)를 지난 17일 체포했다. A 씨는 외국인 근로자 1명의 임금 1000여만 원을 지급하지 않은 혐의 를 받는다. A 씨는...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6359267",
-      "date": "Thu, 19 Nov 2026 11:05:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.gokorea.kr/news/articleView.html?idxno=886373": {
-      "title": "한덕수 전 총리 상고심, 내란 혐의 판결에 쏠린 국민의 시선",
-      "summary": "또한, 12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의 로 기소된 추경호 대구 시장이 1심에서 무죄 판결을 받은 것에 대해 한 원내대표는 \"국민 상식과 법 감정에 부합하지 않는 판단\"이라며 특검의 즉각적인 항소를...",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=886373",
-      "date": "Thu, 19 Nov 2026 11:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.joongang.co.kr/article/25480082": {
-      "title": "장동혁 “‘조작기소 특검법’이 진짜 내란…李 재판 재개해야”",
-      "summary": "윤석열 정부 당시 검찰 등 국가기관의 조작 수사·기소 의혹 을 규명하기 위한 ‘조작기소 특검법’은 APEC... 장 대표는 추경호 대구 시장의 전날 내란 중요임무 종사 혐의 사건 1심 무죄 선고에 대해선 “추 시장은 그 힘든...",
-      "url": "https://www.joongang.co.kr/article/25480082",
-      "date": "Thu, 19 Nov 2026 11:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISX20261119_0003874716": {
-      "title": "장동혁, '조작기소 특검법' 공포에 \"진짜 내란 행위…李 재판 재개해야...",
-      "summary": "장 대표는 추경호 대구 시장이 전날 내란 중요임무 종사 혐의 사건 1심에서 무죄를 선고받은 것을 두고 \"추 시장은 그 힘든 재판을 당당하게 받아서 조작기소의 억울함을 깨끗하게 풀었다\"며 \"이 대통령은 왜 그렇게 못하는...",
-      "url": "https://www.newsis.com/view/NISX20261119_0003874716",
-      "date": "Thu, 19 Nov 2026 11:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/local/gwangju-jeonnam/6359371": {
-      "title": "대동 문화재단 '제8회 대동 전통문화대상' 수상자 선정",
-      "summary": "(사) 대동 문화재단은 18일 문화유산·미술·공연 등 3개 부문 대상 수상자 등 '제8회 대동 전통문화대상' 수상자를 최종 선정했다고 밝혔다. 재단은 한우물상, 미래인재상 수상자와 특별상인 석봉문학상 수상자도 함께...",
-      "url": "https://www.news1.kr/local/gwangju-jeonnam/6359371",
-      "date": "Thu, 19 Nov 2026 11:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.snmnews.com/news/articleView.html?idxno=577650": {
-      "title": "[공시] 포스코 , 中 냉연 합작사·캐나다 철광석 투자법인 지분 2,894억 원...",
-      "summary": "포스코 가 포스코 홀딩스로부터 중국 냉연강판 합작법인과 캐나다 철광석 투자법인 지분을 약 2,894억 원에 취득한다. 지난 2022년 3월 물적분할 이후 지주회사가 보유해 온 철강·원료 관련 지분을 사업회사로...",
-      "url": "http://www.snmnews.com/news/articleView.html?idxno=577650",
-      "date": "Thu, 19 Nov 2026 11:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfTEtVTlFmVTEyY2dUcm9zdnBJYm5PTTQ2RFB2cG5NQmFEU0FJUWRYRXpDTGRrd1VSQ21NM242aHJkdk9JVU5sYTdkdXNRRVkwVms5QnhVeVdEYXlh?oc=5": {
-      "title": "LG이노텍, 구미 기숙사 직원 사망 '중대재해 아님' 결론 - 뉴스핌",
-      "summary": "LG이노텍, 구미 기숙사 직원 사망 '중대재해 아님' 결론 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfTEtVTlFmVTEyY2dUcm9zdnBJYm5PTTQ2RFB2cG5NQmFEU0FJUWRYRXpDTGRrd1VSQ21NM242aHJkdk9JVU5sYTdkdXNRRVkwVms5QnhVeVdEYXlh?oc=5",
-      "date": "Thu, 19 Nov 2026 02:31:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
     "https://www.imaeil.com/page/view/2026111912152604033": {
       "title": "법무법인 대륙아주 고문단, 안동 산불피해 현장 찾아 위문품 전달",
       "summary": "법무법인 대륙아주(대표변호사 이규철) 고문단(회장 전충렬)이 지난해 대형 산불로 큰 피해를 입은 경북 ... 한편 국내 대형 로펌인 법무법인 대륙아주는 소송·금융·회생·선거대응· 중대재해 ·정보보호 등 폭넓은 법률...",
@@ -4345,11 +4237,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-21",
   "sent_articles": [
-    {
-      "url": "https://www.etoday.co.kr/news/view/2645293",
-      "title": "영주 방산산단 조성 본격화…2200억 투자·400명 고용 기대",
-      "date": "Sat, 07 Nov 2026 11:16:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbzJJckJKUlhBMUxSUGFseGozdVdVRHdHVGJXa0kwVVU2MU8zWTFFOFQ4ak5zeWxWRlI5WF9uQXd6YzZTV0JYc0tjSU9IdF95Yktv?oc=5",
       "title": "경상북도, 도민의 힘으로 이룬 ‘국립경국대 의과대학’ 신설 최종 확정 - CBN뉴스",
