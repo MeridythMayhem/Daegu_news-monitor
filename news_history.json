@@ -974,7 +974,8 @@
     "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdXIyb1c0ZmpQWDROQUJsR2RGUEJNaENiQWJsSk45MEdHeUhaYUIzUE1FUDRnOGdFUzZUV1p0SkJlRGxUbmVweEM5NTZ0RWh3NFVxVHNwelBCOGp2TXRZcG9qeHNveWZ2dWFnemM0V1dBUQ?oc=5": "2026-11-20T22:10:20.178025+09:00",
     "https://www.bzeronews.com/news/articleView.html?idxno=825628": "2026-11-20T22:10:20.178025+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFa2V1c2hUV2FLTkNNOEZlMFlkZzB5eEJSRWg5SDlBblV1UnFWcjF3OXB4eS1sX082SDUyTW9XdEx6Yll3TjhEMC1VSVBfQ0g0b0RYVGJKYllrenBVOEhwNXN6LWw?oc=5": "2026-11-20T22:10:20.178025+09:00",
-    "https://www.imaeil.com/page/view/2026112015070241931": "2026-11-20T23:08:57.403721+09:00"
+    "https://www.imaeil.com/page/view/2026112015070241931": "2026-11-20T23:08:57.403721+09:00",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5": "2026-11-21T09:07:05.524063+09:00"
   },
   "titles": {
     "89e20f41517c96579f10bc875da323a03e87161b1d9d7864260ce0259291da54": "2026-11-07T09:01:46.313119+09:00",
@@ -1951,7 +1952,8 @@
     "edcd5691d9937d9f29e4730b2863b39cda1e0d0c259fc03938667b97d7383720": "2026-11-20T22:10:20.178025+09:00",
     "ab2b0dbba021a6396b33c92b252b44065f4bb102d5329a691808975654db74ef": "2026-11-20T22:10:20.178025+09:00",
     "4c79f1a9e9ab44960f333d0319ee5e2540c658eacfffe78c979703c8339e513b": "2026-11-20T22:10:20.178025+09:00",
-    "47c41224ea7b67a534a9b015ff88712ffeaa4b323910d131b4d1c232ad1635e7": "2026-11-20T23:08:57.403721+09:00"
+    "47c41224ea7b67a534a9b015ff88712ffeaa4b323910d131b4d1c232ad1635e7": "2026-11-20T23:08:57.403721+09:00",
+    "96da91ec99d1a08d5ce224da97ada5fd6d2fa6b8c1352ab71439f9b9ea3f26a2": "2026-11-21T09:07:05.524063+09:00"
   },
   "pending": {},
   "ai": {
@@ -1965,58 +1967,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.newsis.com/view/NISX20261118_0003873414": {
-      "title": "대구 경찰 '사적보복 대행업체' 운영 일당 검거…8명 구속",
-      "summary": "대구 경찰청 광역수사대는 19일 텔레그램에서 사적보복 대행업체를 운영한 혐의(범죄집단조직·가입·활동죄 등)로 총책 A(30대)씨 등 9명을 붙잡아 8명을 구속 했다고 밝혔다. 경찰에 붙잡힌 9명은 총책 1명, 중간관리책 1명...",
-      "url": "https://www.newsis.com/view/NISX20261118_0003873414",
-      "date": "Thu, 19 Nov 2026 09:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.sidae.com/article/2026111820215516641": {
-      "title": "의성 군노인회 업무추진비, 지회장 개인계좌 입금 논란",
-      "summary": "또한 업무상 보관 자금을 사적으로 임의 사용한 사실이 드러나면 형법상 업무상 횡령 죄가 적용돼 10년 이하의 징역 또는 3000만원 이하의 벌금을 받을 수 있다. 앞서 의성 군수직 인수위원회 업무보고에서도 지회의...",
-      "url": "https://www.sidae.com/article/2026111820215516641",
-      "date": "Thu, 19 Nov 2026 08:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505709": {
-      "title": "AI 반도체 투자축 넓어지나…한미반도체· 이수페타시스 눈여겨봐라",
-      "summary": "AI 데이터센터의 네트워크 장비와 고성능 기판 분야에서는 이수페타시스 가 주목된다. 이수페타시스 는 AI 가속기와 서버, 네트워크 장비 등에 들어가는 초고다층 PCB를 생산한다. AMD와 브로드컴의 상승에 더해 TTM...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505709",
-      "date": "Thu, 19 Nov 2026 08:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajlLMHhBNDYxZWRLa0JEQWQxbHREVEhZUFBaMmZjWlAtYWtnVk9qSkp4Q1VscDgtdGtmS0Zfa1U2M2lWUHJscDhJLTd3a2hyLWtJVEJFaUlqTy1LQ2FwU0VDaDQxbDc2TXBkOThTNmZTWFJycUI0LXBUV0RhZkdITNIBlAFBVV95cUxQQ3IweURpSTh0WDNuaERsSDFUQnB1bWRRYnczMnpmNkIxUGhBZDQzVnJ1dlVTck44YjdGVjNnaC1rWXZoN3NrY1R1OFZwS284MGU2Ty0zWGhQSjlnOG13UmY4WEZNWFBZMk5MN01ZYnZ0OGlWblVtc1JXNTRFZXdIcGJGeW9uZVdPZ0cxSlZYNUFzemdM?oc=5": {
-      "title": "DB Securities cuts ISU Petasys target despite record profit forecast - Chosunbiz",
-      "summary": "DB Securities cuts ISU Petasys target despite record profit forecast Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajlLMHhBNDYxZWRLa0JEQWQxbHREVEhZUFBaMmZjWlAtYWtnVk9qSkp4Q1VscDgtdGtmS0Zfa1U2M2lWUHJscDhJLTd3a2hyLWtJVEJFaUlqTy1LQ2FwU0VDaDQxbDc2TXBkOThTNmZTWFJycUI0LXBUV0RhZkdITNIBlAFBVV95cUxQQ3IweURpSTh0WDNuaERsSDFUQnB1bWRRYnczMnpmNkIxUGhBZDQzVnJ1dlVTck44YjdGVjNnaC1rWXZoN3NrY1R1OFZwS284MGU2Ty0zWGhQSjlnOG13UmY4WEZNWFBZMk5MN01ZYnZ0OGlWblVtc1JXNTRFZXdIcGJGeW9uZVdPZ0cxSlZYNUFzemdM?oc=5",
-      "date": "Wed, 18 Nov 2026 23:53:00 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 18
-    },
     "https://www.kado.net/news/articleView.html?idxno=2085823": {
       "title": "[속보] 돈만 주면 집 앞에 오물·욕설 낙서…사적 보복 조직원 8명 구속 ...",
       "summary": "대구 경찰청 광역범죄수사대는 범죄집단 조직·가입·활동과 주거침입, 명예훼손, 재물손괴 등 혐의로 사적 보복 대행업체 총책 A(30대)씨를 비롯한 중간 관리책, 자금관리책, 행동대원 등 8명을 구속 해 공소청에 송치했다고...",
@@ -4439,6 +4389,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5": {
+      "title": "경북도립미술관 건립 방향 구체화...'제8차 경북 문화관광 워킹그룹' 한자리 - 경북신문",
+      "summary": "경북도립미술관 건립 방향 구체화...'제8차 경북 문화관광 워킹그룹' 한자리 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5",
+      "date": "Fri, 20 Nov 2026 23:32:51 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4456,11 +4419,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-21",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zMkJUWkJQUkY3MHlaOFlTM2lPMzFJblZRY3B6V3R2LWdBZGpQcE1XeUFJWU1RLUlDeHJ3UGxVLUJRU21pNWcwQ3RXYTJSUlB0QV8wRno5ZUdYLW9heWVBbWhMdWM?oc=5",
-      "title": "'말'보다 '눈'으로…한수원, 합천양수 주민을 공사 현장 앞에 세웠다 - 에너지안전신문",
-      "date": "Fri, 06 Nov 2026 23:19:48 GMT"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uS2loUmRWb3VmZVpKTFJMMEk2NzNLZmpNV3VjR055ZmlhVHRKWmZfWjZZSW9FM29nUjRYYWVJZXVkcHo2cVh3ZHNQUEx4WnUyOHNkdzhSa2ttaFlYaFNETHJBWUlLbG5Uc1Fr0gFvQVVfeXFMTVJkNjFUSWROa1hsdEJoWTlSbWdiNjZnaml2TjFwN1JzOGR3NFZFYl9aeEVyNlVBMVBLRjgyVk1LLUdLQUdKcjJIa3ZIZGVtaWJPQWhqNkpZODhoNWJqc3ZKWmRHTC0xckdOZDE1UXhN?oc=5",
       "title": "기업 세무조사 부담 줄이고 주가조작 탈세 추적…국세청장 후보에 안덕수 - 더퍼블릭",
@@ -9330,6 +9288,11 @@
       "url": "https://www.imaeil.com/page/view/2026112015070241931",
       "title": "포항 에 385실 규모 고급 숙박시설…한화호텔앤드리조트 4천800억원 투자",
       "date": "Fri, 20 Nov 2026 22:43:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5",
+      "title": "경북도립미술관 건립 방향 구체화...'제8차 경북 문화관광 워킹그룹' 한자리 - 경북신문",
+      "date": "Fri, 20 Nov 2026 23:32:51 GMT"
     }
   ],
   "brief_articles": [
