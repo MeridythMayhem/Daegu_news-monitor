@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.etoday.co.kr/news/view/2645293": "2026-11-07T12:02:05.423144+09:00",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbzJJckJKUlhBMUxSUGFseGozdVdVRHdHVGJXa0kwVVU2MU8zWTFFOFQ4ak5zeWxWRlI5WF9uQXd6YzZTV0JYc0tjSU9IdF95Yktv?oc=5": "2026-11-07T13:01:45.078114+09:00",
     "https://www.newspim.com/news/view/20261107000084": "2026-11-07T16:01:46.920706+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NTGtFSTAtWFZYZl81cjc0MHNlM2pTY01RYWNNVllWQ1RXTDZHU0VuYm8tVGdUWnlEN040aTVzeXU4LXJZN1puU0RsUDdpSldudFNOVFBCeE5FdEZyTGpGdU42X08?oc=5": "2026-11-07T16:01:46.920706+09:00",
@@ -978,7 +977,6 @@
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506567": "2026-11-21T11:09:09.299557+09:00"
   },
   "titles": {
-    "b277d30cd0aaad65d29bcfc04c92cc990f56aef325827d8cd0d1fad5df3895c1": "2026-11-07T12:02:05.423144+09:00",
     "46aca5080026340b36c2a5a5163b1ccb32a01d8cec25fb8a8bface1969459787": "2026-11-07T13:01:45.078114+09:00",
     "165417429d0d8d30d7da22f83a6a0f93693049091a9b7a441b9547859b3680ad": "2026-11-07T16:01:46.920706+09:00",
     "d2f04e989ec71cc46b890a275d4a7b8eb0c3ce5ee9923a0cf7db6d30ccb67c5a": "2026-11-07T16:01:46.920706+09:00",
@@ -4237,11 +4235,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-21",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbzJJckJKUlhBMUxSUGFseGozdVdVRHdHVGJXa0kwVVU2MU8zWTFFOFQ4ak5zeWxWRlI5WF9uQXd6YzZTV0JYc0tjSU9IdF95Yktv?oc=5",
-      "title": "경상북도, 도민의 힘으로 이룬 ‘국립경국대 의과대학’ 신설 최종 확정 - CBN뉴스",
-      "date": "Sat, 07 Nov 2026 03:05:32 GMT"
-    },
     {
       "url": "https://www.newspim.com/news/view/20261107000084",
       "title": "경주서 변압기 교체 중 폭발 추정 화재 …작업자 3명 부상",
