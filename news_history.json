@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://www.greened.kr/news/articleView.html?idxno=354109": "2026-11-08T14:02:17.836385+09:00",
-    "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229645": "2026-11-08T14:02:17.836385+09:00",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odDNjZmhMTFBRZ3dydUlwZUN0VU50SHpVcHVSaVhpdjlNMk93dDBzYV8tN056VDJwUGVvMUs4Vkx6UDZxX1RPM19JZGhKd1NQVl9hS3FPQk9vWDZ3aG1tVVY5ZErSAWdBVV95cUxObjFOSWxGY2dKWEY5ZWh4YkY2dVZGOVhjSnljVVdINEMwbkhjVnpnR0F0TDVYZ1BneTcxQWVINWJHM1JhOTB0Xzl3WnBTM0l0QWg0X2k5WXpYa0U4ei1DSnlxaGFlalc4?oc=5": "2026-11-08T14:02:17.836385+09:00",
     "https://www.khan.co.kr/article/202611081456001": "2026-11-08T15:01:43.217424+09:00",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080957": "2026-11-08T15:01:43.217424+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502168": "2026-11-08T16:01:59.760315+09:00",
@@ -946,12 +943,10 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQkNIaTBGdkQ2XzdFdWphWlhJWFljdVVLd1BMT05OSy1xQ0trcVJwbTlGT2dYNVNLaWtuTGtoempISjBoN2lEZlBkbWJFeDdhZWxBS0lpb243MGJ1Z0I5Y1lDNDFWR0s4Q3c?oc=5": "2026-11-22T12:09:20.095699+09:00",
     "https://www.khan.co.kr/article/202611221101001": "2026-11-22T12:09:20.095699+09:00",
     "https://www.kbmaeil.com/article/20261122500316": "2026-11-22T13:07:57.576889+09:00",
-    "https://www.segye.com/newsView/20261122505512?OutUrl=naver": "2026-11-22T14:09:12.321658+09:00"
+    "https://www.segye.com/newsView/20261122505512?OutUrl=naver": "2026-11-22T14:09:12.321658+09:00",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BM1BvNnItQ093V0ZhcjRYSEd3NWw0VHE3LXk3cXpOR3hSeDlSTjh5R0NiQjBKZ19kTFVRWFlDNG9jT2FLWnFQLUo0UGgyTnF6VlMyRFdLOUE?oc=5": "2026-11-22T15:08:55.935463+09:00"
   },
   "titles": {
-    "7495f634ebbd2991b394cb16b580c6d0a7afd9109a732918677d8a7affb5755f": "2026-11-08T14:02:17.836385+09:00",
-    "bf9052d1386acbf6755e1b1b32ad71cfb17b678cda4012a68d9ea6309a61e36f": "2026-11-08T14:02:17.836385+09:00",
-    "966c7f8b7110800b4bad887d4b6929d485c457545b8073aa745b471e0809e05a": "2026-11-08T14:02:17.836385+09:00",
     "a3183208c9269223965b9454101341b53b6031b9a597559fdcc6433eece62eaf": "2026-11-08T15:01:43.217424+09:00",
     "56da868bbf1c4176d5617cee7f154139935496d4ce2e550b071728f52d475453": "2026-11-08T15:01:43.217424+09:00",
     "039d23da7895484089d53db352fecb3abab55aa6ae2a9da541815d4cc732248b": "2026-11-08T16:01:59.760315+09:00",
@@ -1895,7 +1890,8 @@
     "3a1ac3f12eb516c6e592de2d6954dd37bb703ec698d79f844a646d164352a68c": "2026-11-22T12:09:20.095699+09:00",
     "105aed8c8c26d4fe3864af6875d1916bd3b349a9cd24eddd4e7e6ed118307d12": "2026-11-22T12:09:20.095699+09:00",
     "d7b3276eb1227f41d53a1ca2d3854c1b2c4791cf3ab1699c3a392c9569829165": "2026-11-22T13:07:57.576889+09:00",
-    "4fa84143d847436f5740e0deef4493f3f33c0a913a156951bdf32ae15e0167e7": "2026-11-22T14:09:12.321658+09:00"
+    "4fa84143d847436f5740e0deef4493f3f33c0a913a156951bdf32ae15e0167e7": "2026-11-22T14:09:12.321658+09:00",
+    "7247cb1d4d8dbc10b988eaf3c9a3b4e6217b503972e796eb9a039fda8a6c9de7": "2026-11-22T15:08:55.935463+09:00"
   },
   "pending": {},
   "ai": {
@@ -1905,114 +1901,10 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 2
+    "2026-11-22": 3
   },
   "cursor": 0,
   "archive": {
-    "https://www.agrinet.co.kr/news/articleView.html?idxno=408978": {
-      "title": "경북 포도 수출 두 배로…전국 1억 달러 돌파 견인",
-      "summary": "행사에서는 샤인머스캣·글로리스타 등 생과와 가공 제품을 선보였다. 경북 도는 앞으로 수출용 물량 확보와 품질관리, 바이어 사후관리에 힘써 거래 를 늘릴 계획이다. 국내 수급 안정도 함께 챙긴다. 양금희 경북 도...",
-      "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=408978",
-      "date": "Fri, 20 Nov 2026 14:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.yna.co.kr/view/AKR20261120110400053?input=1195m": {
-      "title": "포항 환호공원에 4천800억 투자…5성급 호텔·리조트 들어선다",
-      "summary": "경북도· 포항 시·한화호텔앤드리조트· 포항 하나원 협약 포항 환호지구에 5성급 호텔과 프리미엄 리조트가 건립 된다. 객실 385실 규모의 관광숙박시설 조성에 사업비 4천800억원이 투입된다. 경북도와 포항 시...",
-      "url": "https://www.yna.co.kr/view/AKR20261120110400053?input=1195m",
-      "date": "Fri, 20 Nov 2026 14:43:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.nocutnews.co.kr/news/6610164": {
-      "title": "대구 시의회 \"국가균형발전 위해 대구 에 돔구장 건립 해야\"",
-      "summary": "대구 시의회가 국가균형발전을 위해 대구 에 돔구장을 유치해달라고 정부에 건의했다. 대구 시의회는 20일 '국가균형발전을 위한 대구 돔구장 선정 촉구 건의안'을 채택하고 대구 시가 제시한 돔구장 부지인 두류공원에서...",
-      "url": "https://www.nocutnews.co.kr/news/6610164",
-      "date": "Fri, 20 Nov 2026 14:23:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.imaeil.com/page/view/2026112013580542083": {
-      "title": "대구 시의회 \"두류공원 일원, 돔구장 건립 최적지\"…정부에 선정 촉구",
-      "summary": "대구 시의회가 정부의 '스포츠·공연 복합형 돔구장' 건립 후보지로 대구 두류공원 일원을 선정해 달라고 국회와 정부에 촉구했다. 시의회는 19일 본회의를 열어 하중환 운영위원장(달성군1) 등 13명이 발의한...",
-      "url": "https://www.imaeil.com/page/view/2026112013580542083",
-      "date": "Fri, 20 Nov 2026 14:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.hankookilbo.com/news/article/A2026112009220003675?did=NA": {
-      "title": "엘앤에프 , 전환사채 1515억 원 발행… 이차전지 양극재 생산 확대",
-      "summary": "이차전지 소재기업 엘앤에프 가 양극재 사업 확대를 위해 1,515억 원 규모의 전환사채(CB)를 발행한다.... 20일 엘앤에프 에 따르면 19일 이사회를 열고 영구 전환사채 303억 원과 일반 전환사채 1,212억 원 등 총 1,515억 원...",
-      "url": "https://www.hankookilbo.com/news/article/A2026112009220003675?did=NA",
-      "date": "Fri, 20 Nov 2026 14:41:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
-    "https://www.job-post.co.kr/news/articleView.html?idxno=239866": {
-      "title": "이수페타시스 16.87% 급락…호실적 뒤 차익 실현 확대",
-      "summary": "이수페타시스 주가는 20일 오후 2시45분 장중 69,000원을 기록했다. 전 거래일보다 14,000원 내렸고 등락률은 -16.87%다. 장중 고가는 77,600원, 저가는 68,800원이었다. 누적 거래량은 1,503,256주, 거래대금은 1...",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239866",
-      "date": "Fri, 20 Nov 2026 14:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.yonhapnewstv.co.kr/news/AKR202611201458139i8": {
-      "title": "한수원 \"체코 원전, 내년 7월까지 새 시공사 계약…적기 준공\"",
-      "summary": "한국수력원자력 은 대우건설·두산에너빌리티 컨소시엄과 체결했던 체코 두코바니 원전사업 시공분야 공동협력 협약을 종료했다고 오늘(20일) 밝혔습니다. 이는 지난달 29일 한수원이 대우건설 컨소시엄 측과 시공계약...",
-      "url": "http://www.yonhapnewstv.co.kr/news/AKR202611201458139i8",
-      "date": "Fri, 20 Nov 2026 14:59:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUTY2bnhiS3l5MVc2aDFKZmdhR3BJcWdNN2ZCUmp3OXNpbGxIVXczU1dxQzZFVGNidGw1aGdJTktYdVhzYXBoYWN1Ym1lUk5UdGs1c2F6OVIzZGdoSFJqWFo0Mm5JQQ?oc=5": {
-      "title": "김천시, 회계·사업 담당자 계약 실무 역량 강화 - 데일리대구경북뉴스",
-      "summary": "김천시, 회계·사업 담당자 계약 실무 역량 강화 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUTY2bnhiS3l5MVc2aDFKZmdhR3BJcWdNN2ZCUmp3OXNpbGxIVXczU1dxQzZFVGNidGw1aGdJTktYdVhzYXBoYWN1Ym1lUk5UdGs1c2F6OVIzZGdoSFJqWFo0Mm5JQQ?oc=5",
-      "date": "Fri, 20 Nov 2026 05:56:40 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.kukinews.com/article/view/kuk202611200136": {
       "title": "포항 환호지구에 관광숙박시설 들어서나… MOU 체결",
       "summary": "포항시에 따르면 20일 경북 도청에서 경북 도, 한화호텔앤드리조트㈜, 포항하나원㈜과 환호지구 관광숙박시설 조성 투자양해각서( MOU )를 체결했다. 이번 협약에 따라 환호공원 일원 4만9000㎡ 부지에 총사업비 4800억 원을...",
@@ -3093,6 +2985,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=730401": {
+      "title": "경산시, 전기차 충돌안전부품 기술센터 준공",
+      "summary": "사업은 경북 테크노파크가 주관하고 경북 IT융합산업기술원과 한국생산기술연구원이 참여한다. 최근 전기차 배터리 결함과 화재 에 대한 소비자 불안이 커지면서 배터리와 탑승객을 보호하는 보호차체 기술의 중요성이...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=730401",
+      "date": "Sun, 22 Nov 2026 14:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BM1BvNnItQ093V0ZhcjRYSEd3NWw0VHE3LXk3cXpOR3hSeDlSTjh5R0NiQjBKZ19kTFVRWFlDNG9jT2FLWnFQLUo0UGgyTnF6VlMyRFdLOUE?oc=5": {
+      "title": "포항 환호공원에 5성급 호텔·리조트 들어선다...4천800억 투자 - 경북신문",
+      "summary": "포항 환호공원에 5성급 호텔·리조트 들어선다...4천800억 투자 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BM1BvNnItQ093V0ZhcjRYSEd3NWw0VHE3LXk3cXpOR3hSeDlSTjh5R0NiQjBKZ19kTFVRWFlDNG9jT2FLWnFQLUo0UGgyTnF6VlMyRFdLOUE?oc=5",
+      "date": "Sun, 22 Nov 2026 05:26:28 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3114,16 +3032,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "https://www.khan.co.kr/article/202611081456001",
-      "title": "청와대 국정상황실장에 김태근 자치발전비서관 승진 기용…‘인재 풀 제...",
-      "date": "Sun, 08 Nov 2026 14:56:00 +0900"
-    },
-    {
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080957",
-      "title": "문경시, 국비 112억원 확보…160억원 규모 복합복지·문화시설 건립",
-      "date": "Sun, 08 Nov 2026 14:42:00 +0900"
-    },
     {
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502168",
       "title": "포스코퓨처엠 , LFP 양극재로 반전 노린다…2027년 실적 회복 기대",
@@ -7833,6 +7741,11 @@
       "url": "https://www.segye.com/newsView/20261122505512?OutUrl=naver",
       "title": "포항 에 5성급 호텔·리조트 건립 청신호… 투자 업무 협약 체결",
       "date": "Sun, 22 Nov 2026 13:03:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BM1BvNnItQ093V0ZhcjRYSEd3NWw0VHE3LXk3cXpOR3hSeDlSTjh5R0NiQjBKZ19kTFVRWFlDNG9jT2FLWnFQLUo0UGgyTnF6VlMyRFdLOUE?oc=5",
+      "title": "포항 환호공원에 5성급 호텔·리조트 들어선다...4천800억 투자 - 경북신문",
+      "date": "Sun, 22 Nov 2026 05:26:28 GMT"
     }
   ],
   "brief_articles": [
@@ -7874,7 +7787,7 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 2
+    "2026-11-22": 3
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
