@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://www.cstimes.com/news/articleView.html?idxno=727046": "2026-11-08T21:01:44.109079+09:00",
-    "https://www.ksmnews.co.kr/news/view.php?idx=628791": "2026-11-08T21:01:44.109079+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564737": "2026-11-08T22:01:52.567033+09:00",
     "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html": "2026-11-08T22:01:52.567033+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234": "2026-11-09T09:01:56.464971+09:00",
@@ -933,11 +931,13 @@
     "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257": "2026-11-22T19:07:16.292517+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=630568": "2026-11-22T21:09:06.612390+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=630605": "2026-11-22T21:09:06.612390+09:00",
-    "https://www.yeongnam.com/web/view.php?key=20261122029461565": "2026-11-22T21:09:06.612390+09:00"
+    "https://www.yeongnam.com/web/view.php?key=20261122029461565": "2026-11-22T21:09:06.612390+09:00",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=566091": "2026-11-22T22:08:54.755121+09:00",
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=566117": "2026-11-22T22:08:54.755121+09:00",
+    "https://www.yeongnam.com/web/view.php?key=20261122022131343": "2026-11-22T22:08:54.755121+09:00",
+    "https://www.yeongnam.com/web/view.php?key=20261122022261472": "2026-11-22T22:08:54.755121+09:00"
   },
   "titles": {
-    "8bcedc5f16f8f27fb0e78dbcef187fe7e8572ee82dd4898c240e5b3963a15693": "2026-11-08T21:01:44.109079+09:00",
-    "f91ad7654f182f737266bc02c1fd0da4b93e66ef8ffcef27847048604d7a40e1": "2026-11-08T21:01:44.109079+09:00",
     "c062a3418c304cc7df043f1f997f697dfc8ff885bce71c5edc7e0178c242fe64": "2026-11-08T22:01:52.567033+09:00",
     "fb5c62a12b848a6582437176776489aaec5fccbcf7d01009cac099881bcd3f59": "2026-11-08T22:01:52.567033+09:00",
     "d6b4998e89316b4b856a0b238fb2526c7d69c3ff2ffb1ff17d3f81abe3863772": "2026-11-09T09:01:56.464971+09:00",
@@ -1869,7 +1869,11 @@
     "c3a525034bfc6f2ffe1e7358a911a6767d0d66dd121afbff508b786cd84bab4d": "2026-11-22T19:07:16.292517+09:00",
     "bf1160ff35b0d8eacf9caa50aa6734303683d0bc1b3787f42f75c594cb8b8f1c": "2026-11-22T21:09:06.612390+09:00",
     "051edaff99473895445c831513551a21db2b064bb25cb4b1b86c526b9bcafd41": "2026-11-22T21:09:06.612390+09:00",
-    "2bb3cd7450f301ddfa36e168e9cb7fe744d2c201898953b6a4d2e5451ed73935": "2026-11-22T21:09:06.612390+09:00"
+    "2bb3cd7450f301ddfa36e168e9cb7fe744d2c201898953b6a4d2e5451ed73935": "2026-11-22T21:09:06.612390+09:00",
+    "c127f460150581c6ad804496eefd7302925a15d32e9a5f06d6a4a2f64eed85cf": "2026-11-22T22:08:54.755121+09:00",
+    "e15aa8e696d14d3f8b559d4b161b807eb68a58efa8365fbef6a6507b7127c19c": "2026-11-22T22:08:54.755121+09:00",
+    "370a4c2446f9a37e7a20c81a30c8601dd4a39db436d40d84974aab80ec569fda": "2026-11-22T22:08:54.755121+09:00",
+    "42e76bcd7575bc9b44cecdeebdb79e1661e268fd9e62168a0133357ccb1344ad": "2026-11-22T22:08:54.755121+09:00"
   },
   "pending": {},
   "ai": {
@@ -1879,49 +1883,10 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 7
+    "2026-11-22": 8
   },
   "cursor": 0,
   "archive": {
-    "https://www.bzeronews.com/news/articleView.html?idxno=825628": {
-      "title": "경북도, 포항 환호지구에 4800억 원 호텔·리조트 투자 유치",
-      "summary": "경북도는 20일 도청에서 포항 시, 한화호텔앤드리조트㈜, 포항 하나원㈜과 환호지구 관광숙박시설 건립을 위한 투자 업무 협약 을 체결했다. 협약 에는 이철우 경북도지사와 박용선 포항 시장, 최석진 한화호텔앤드리조트...",
-      "url": "https://www.bzeronews.com/news/articleView.html?idxno=825628",
-      "date": "Fri, 20 Nov 2026 21:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFa2V1c2hUV2FLTkNNOEZlMFlkZzB5eEJSRWg5SDlBblV1UnFWcjF3OXB4eS1sX082SDUyTW9XdEx6Yll3TjhEMC1VSVBfQ0g0b0RYVGJKYllrenBVOEhwNXN6LWw?oc=5": {
-      "title": "포항 환호지구에 4800억 투자…호텔·리조트 개발 본격화 - 경북TV",
-      "summary": "포항 환호지구에 4800억 투자…호텔·리조트 개발 본격화 경북TV",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFa2V1c2hUV2FLTkNNOEZlMFlkZzB5eEJSRWg5SDlBblV1UnFWcjF3OXB4eS1sX082SDUyTW9XdEx6Yll3TjhEMC1VSVBfQ0g0b0RYVGJKYllrenBVOEhwNXN6LWw?oc=5",
-      "date": "Fri, 20 Nov 2026 12:09:28 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdXIyb1c0ZmpQWDROQUJsR2RGUEJNaENiQWJsSk45MEdHeUhaYUIzUE1FUDRnOGdFUzZUV1p0SkJlRGxUbmVweEM5NTZ0RWh3NFVxVHNwelBCOGp2TXRZcG9qeHNveWZ2dWFnemM0V1dBUQ?oc=5": {
-      "title": "문경시, 북부생활권 육아종합지원센터 건립 주민설명회 열어 - 웹이코노미",
-      "summary": "문경시, 북부생활권 육아종합지원센터 건립 주민설명회 열어 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdXIyb1c0ZmpQWDROQUJsR2RGUEJNaENiQWJsSk45MEdHeUhaYUIzUE1FUDRnOGdFUzZUV1p0SkJlRGxUbmVweEM5NTZ0RWh3NFVxVHNwelBCOGp2TXRZcG9qeHNveWZ2dWFnemM0V1dBUQ?oc=5",
-      "date": "Fri, 20 Nov 2026 12:54:35 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.imaeil.com/page/view/2026112015070241931": {
       "title": "포항 에 385실 규모 고급 숙박시설…한화호텔앤드리조트 4천800억원 투자",
       "summary": "경북도는 20일 도청에서 포항 시, 한화호텔앤드리조트㈜, 포항 하나원㈜과 환호지구 관광숙박시설 건립을 위한 투자 업무 협약 을 체결했다. 협약 식에는 이철우 경북도지사와 박용선 포항 시장, 최석진 한화호텔앤드리조트...",
@@ -2702,6 +2667,59 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=566117": {
+      "title": "대구 시의회 \"복합 돔구장 건립 최적지는 대구 \"",
+      "summary": "대구 시는 두류공원 유니버시아드 테니스장 일원에 2만 석(수용인원 3만 명) 규모의 복합 돔구장을 건립 하고자 중규모 부문에 참여하고 있다. 대구 시의회 임인환 의장은 \"최적의 입지 조건을 갖춘 대구 가 240만 대구 시민의...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566117",
+      "date": "Sun, 22 Nov 2026 21:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yeongnam.com/web/view.php?key=20261122022131343": {
+      "title": "대구 차부품 ‘빅3’ 3분기 매출↑순익↓…환율·비용 여파",
+      "summary": "22일 금융감독원 전자공시시스템에 따르면 에스엘 ·삼보모터스·피에이치에이(PHA) 등 대구 차부품 3사의... 돌아섰다. 에스엘 은 3분기 매출 1조3천639억원을 올려 전년 동기(1조3천26억원)보다 4.7% 성장했다. 북미...",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261122022131343",
+      "date": "Sun, 22 Nov 2026 21:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yeongnam.com/web/view.php?key=20261122022261472": {
+      "title": "[대구 車부품 빅3 실적 분석] 환율·비용 폭탄에 3분기 ‘순손실’",
+      "summary": "영남일보 DB 삼보모터스 CI. 영남일보 DB 피에이치에이 CI. 영남일보 DB 원·달러 환율 상승기에 수출 수혜... 등 대외 여건이 녹록지 않아 원가 및 리스크 관리에 주력하고 있다\"고 전했다.이동현( 경제 )기자 shineast@yeongnam.com",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261122022261472",
+      "date": "Sun, 22 Nov 2026 21:22:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
+      "filter_version": 18
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=566091": {
+      "title": "\"양극재 사업 확대\"… 엘앤에프 , 1515억 규모 전환사채 발행",
+      "summary": "글로벌 이차전지 소재 전문 기업인 엘앤에프 는 지난 19일 이사회를 열고 총 1천515억원 규모의 전환사채(CB)... 엘앤에프 는 자본성 조달인 영구 CB를 활용해 재무 부담을 최소화하는 동시에 사업 확대에 필요한 재원을...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566091",
+      "date": "Sun, 22 Nov 2026 21:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -2723,16 +2741,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564737",
-      "title": "경북 도, 의성에 식품산업 455억 투자 …신성장 비전 선포",
-      "date": "Sun, 08 Nov 2026 21:24:00 +0900"
-    },
-    {
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html",
-      "title": "노벨리스코리아 영주공장 노사분규 종지부···50여 일 파업 끝났다",
-      "date": "Sun, 08 Nov 2026 21:24:00 +0900"
-    },
     {
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234",
       "title": "포스코 임금협상 잠정합의안 부결…노조, 9일 대책회의 개최",
@@ -7382,6 +7390,26 @@
       "url": "https://www.yeongnam.com/web/view.php?key=20261122029461565",
       "title": "[대구 車부품 빅3 실적 분석] 북미 현지화 성숙도가 가른 성적표…로보...",
       "date": "Sun, 22 Nov 2026 20:08:00 +0900"
+    },
+    {
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566091",
+      "title": "\"양극재 사업 확대\"… 엘앤에프 , 1515억 규모 전환사채 발행",
+      "date": "Sun, 22 Nov 2026 21:24:00 +0900"
+    },
+    {
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566117",
+      "title": "대구 시의회 \"복합 돔구장 건립 최적지는 대구 \"",
+      "date": "Sun, 22 Nov 2026 21:34:00 +0900"
+    },
+    {
+      "url": "https://www.yeongnam.com/web/view.php?key=20261122022131343",
+      "title": "대구 차부품 ‘빅3’ 3분기 매출↑순익↓…환율·비용 여파",
+      "date": "Sun, 22 Nov 2026 21:22:00 +0900"
+    },
+    {
+      "url": "https://www.yeongnam.com/web/view.php?key=20261122022261472",
+      "title": "[대구 車부품 빅3 실적 분석] 환율·비용 폭탄에 3분기 ‘순손실’",
+      "date": "Sun, 22 Nov 2026 21:22:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7423,7 +7451,7 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 7
+    "2026-11-22": 8
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
