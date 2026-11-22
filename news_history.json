@@ -946,7 +946,9 @@
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYnVyU2h0TWpLMUR1N251S3ktWW9rc1ZDQ1J0T3B6eUJ4OG9SOUNDZ25EeC0yazl3eEtJbnhJNlJZdzFmZFdRWnJ3X1FkQ0RhQ2ZDRmQtOWVhYUo4NEFSeS1NSFVMU0wtZVh6WDlR?oc=5": "2026-11-21T23:09:23.499109+09:00",
     "https://www.newspim.com/news/view/20261122000006": "2026-11-22T09:06:05.282844+09:00",
     "https://biz.heraldcorp.com/article/10944869?ref=naver": "2026-11-22T09:06:05.282844+09:00",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVkR4Qm5kWGRjOHJZQlYtMkIwNWNiWnJzckw0R2lvLU9zV3ZaVVp1X1JwcjNENEpaOVM3V2RZVnhuNUd5amtqUnNsOENWNG9udV9B?oc=5": "2026-11-22T09:06:05.282844+09:00"
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVkR4Qm5kWGRjOHJZQlYtMkIwNWNiWnJzckw0R2lvLU9zV3ZaVVp1X1JwcjNENEpaOVM3V2RZVnhuNUd5amtqUnNsOENWNG9udV9B?oc=5": "2026-11-22T09:06:05.282844+09:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0WTd4RV9wZ1RoUXo2Z1M3d1hZMTlQS3VEbzJPTm5YYUJmZUIwMkVaNi1OekR0UXE5ZTViWTFfT0Y0T0dWYXIzQ0Qyd0VKc0c0Q2d0dXI2bFJKWE1ZOWtjbXpieUVGRjFJNlJ6Y3Fjalk?oc=5": "2026-11-22T10:09:01.021182+09:00",
+    "https://news.tf.co.kr/read/national/2391821.htm": "2026-11-22T10:09:01.021182+09:00"
   },
   "titles": {
     "6a071384fc079679ebacf14c6401e037e7c369292fe4bdfcb9daa8c6ee7fd350": "2026-11-08T10:01:55.176056+09:00",
@@ -1895,7 +1897,9 @@
     "1f46a9e1f09e24a640cd012e9f554b7080ed95d36289d269653f67b528814087": "2026-11-21T23:09:23.499109+09:00",
     "003c0254766541ca41573cb5926cd75151e31186d3bc569d23dd8273434c20d7": "2026-11-22T09:06:05.282844+09:00",
     "26fe78b5508b043d0397ebdcb5b106c84c5af4eb8eb3e600f1631cd8f3f2b89b": "2026-11-22T09:06:05.282844+09:00",
-    "eb047edcb42da68a423adf8e6552ca1522b1b533120263dd148fb67072dded61": "2026-11-22T09:06:05.282844+09:00"
+    "eb047edcb42da68a423adf8e6552ca1522b1b533120263dd148fb67072dded61": "2026-11-22T09:06:05.282844+09:00",
+    "43cf6b8be715809f71b0713224838e1716b8b01aa72ddb1b13fbd2f7508a7203": "2026-11-22T10:09:01.021182+09:00",
+    "4c1faa95be9e58a57b39a78cddf3c198622625003b34e26fb184add7b094fa92": "2026-11-22T10:09:01.021182+09:00"
   },
   "pending": {},
   "ai": {
@@ -1908,84 +1912,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.metroseoul.co.kr/article/20261119500733": {
-      "title": "경북 도의회 기획경제위, 행정사무감사 마무리…일자리 질·기업 지원 성...",
-      "summary": "손희권 위원은 창업지원과 투자 유치 사업에서 투자 상담이나 업무 협약 (MOU) 체결 이후 실제 투자 집행 여부와 후속 성과를 지속적으로 점검하라고 요구했다. 경북 창조경제혁신센터의 투자 연계 실적도 사후 검증해 사업이...",
-      "url": "http://www.metroseoul.co.kr/article/20261119500733",
-      "date": "Fri, 20 Nov 2026 09:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.newsprime.co.kr/news/article.html?no=755761": {
-      "title": "경북 도, 805억원 투입 도립미술관 건립 본격화···문화예술 거점 조성...",
-      "summary": "경북 도는 미술관 건립 의 실효성을 높이기 위해 그동안 지역 예술계와의 협의, 경북 미술사 연구, 전문가 토론 및 건축 관련 포럼 등을 진행해 왔다. 사업 추진에도 청신호가 켜졌다. 지난해 4월 문화체육관광부의...",
-      "url": "http://www.newsprime.co.kr/news/article.html?no=755761",
-      "date": "Fri, 20 Nov 2026 09:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/finance/general-stock/6360527": {
-      "title": "엘앤에프 , 1515억 CB 발행에 3%↓…추가 자금조달 우려도[핫종목]",
-      "summary": "엘앤에프 (066970)가 1515억 원 규모의 전환사채(CB) 발행을 결정하면서 장 초반 3%대 약세다. 이번 CB 발행에... 20일 한국거래소에 따르면 오전 9시 27분 엘앤에프 는 전일 대비 2500원(3.43%) 내린 7만 300원에 거래 중이다....",
-      "url": "https://www.news1.kr/finance/general-stock/6360527",
-      "date": "Fri, 20 Nov 2026 09:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/finance/general-stock/6360379": {
-      "title": "대신證 \" 엘앤에프 , 자금조달 부담…목표가 27% 하향한 11만원\"",
-      "summary": "대신증권은 20일 엘앤에프 (066970)의 목표주가를 기존 15만 원에서 11만 원으로 26.7% 하향 조정했다.... 엘앤에프 는 전날 공시를 통해 총 1515억 원 규모의 전환사채 발행을 결정했다고 밝혔다. 일반 CB 1212억 원과 영구...",
-      "url": "https://www.news1.kr/finance/general-stock/6360379",
-      "date": "Fri, 20 Nov 2026 09:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.ikld.kr/news/articleView.html?idxno=344532": {
-      "title": "에스와이스틸텍, 포스코 ,동명스틸과 GI 소재공급 협력 강화 MOU 체결",
-      "summary": "에스와이스틸텍이 포스코 ,동명스틸과 GI 소재공급 협력 강화를 위한 MOU를 체결했다. 사진 제공=에스와이스틸텍. 에스와이스틸텍은 17일 인천 송도컨벤시아에서 열린 ' 포스코 지속가능소재 포럼 2026(POSCO Sustainable...",
-      "url": "http://www.ikld.kr/news/articleView.html?idxno=344532",
-      "date": "Fri, 20 Nov 2026 09:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBKeWRQbGZOQ0c2ckZianU1eDlsSF80ZVVKaEZhOGd0RU5IYVdSTklNUGtSOUxsRWUzN1d3T1d1dDY?oc=5": {
-      "title": "국세청, 인사행보 면면을 한 걸음 더 들어 가 보기(?)...26일 안덕수 국세청장 내정자 인사청문회 개최(?) - 온투데이",
-      "summary": "국세청, 인사행보 면면을 한 걸음 더 들어 가 보기(?)...26일 안덕수 국세청장 내정자 인사청문회 개최(?) 온투데이",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBKeWRQbGZOQ0c2ckZianU1eDlsSF80ZVVKaEZhOGd0RU5IYVdSTklNUGtSOUxsRWUzN1d3T1d1dDY?oc=5",
-      "date": "Fri, 20 Nov 2026 00:25:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
     "https://www.etoday.co.kr/news/view/2650852": {
       "title": "김천1산단ㆍ 자동차튜닝산단, 투자보조금 최고 50억원 지원",
       "summary": "이투데이= 대구경북 취재본부 이종팔 기자 | 용지 평당 70만원 공급...공급부터 투자까지 원스톱 지원 경북 김천시가 합리적인 가격의 산업 용지 공급과 투자지원제도 강화를 앞세워 기업 투자유치에 속도를 내고 있다....",
@@ -3131,6 +3057,32 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://news.tf.co.kr/read/national/2391821.htm": {
+      "title": "경북 곳곳서 화재 ·축사 안전사고·교통사고 잇따라…3명 사상",
+      "summary": "칠곡 왜관 공장 화재 로 공장 일부 소실 청송 축사서 60대 남성 심정지, 봉화서는 3중 추돌사고 경북 북부지역에서 공장 화재 와 축사 안전사고, 교통사고가 잇따라 발생해 소방당국이 긴급 출동했다. 22일 경북 소방본부...",
+      "url": "https://news.tf.co.kr/read/national/2391821.htm",
+      "date": "Sun, 22 Nov 2026 09:23:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0WTd4RV9wZ1RoUXo2Z1M3d1hZMTlQS3VEbzJPTm5YYUJmZUIwMkVaNi1OekR0UXE5ZTViWTFfT0Y0T0dWYXIzQ0Qyd0VKc0c0Q2d0dXI2bFJKWE1ZOWtjbXpieUVGRjFJNlJ6Y3Fjalk?oc=5": {
+      "title": "경주·김제서 작업 중 잇단 추락사고…근로자 2명 사망 - 비즈중앙",
+      "summary": "경주·김제서 작업 중 잇단 추락사고…근로자 2명 사망 비즈중앙",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0WTd4RV9wZ1RoUXo2Z1M3d1hZMTlQS3VEbzJPTm5YYUJmZUIwMkVaNi1OekR0UXE5ZTViWTFfT0Y0T0dWYXIzQ0Qyd0VKc0c0Q2d0dXI2bFJKWE1ZOWtjbXpieUVGRjFJNlJ6Y3Fjalk?oc=5",
+      "date": "Sun, 22 Nov 2026 00:04:03 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3152,31 +3104,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwMHZqcXhtNkptcDJ2b2ljOHBNQTEyUy1DYTItangzZDlyblpCRzBkSzlkZnk0RmpPd3loeTRta1A5TnhraDlfSk91ZEEtcVpIWUdmZjlaUXdneTBxMGE4eDdxWTluVzV2?oc=5",
-      "title": "안덕수 신임 국세청장 내정‥ \"꼼수 탈세 잡고 서민은 품는다\" - 일간경기",
-      "date": "Sun, 08 Nov 2026 00:30:54 GMT"
-    },
-    {
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886394",
-      "title": "포스코 노조, 임금 잠정합의안 부결…조합원 51.7% 반대",
-      "date": "Sun, 08 Nov 2026 09:52:00 +0900"
-    },
-    {
-      "url": "https://www.ddaily.co.kr/page/view/2026110802215406547",
-      "title": "'3Q 주춤' 양극재, 내년 반등 노린다…LG엔솔 빠진 韓 ESS 3차 입찰 [위클...",
-      "date": "Sun, 08 Nov 2026 09:51:00 +0900"
-    },
-    {
-      "url": "https://biz.chosun.com/industry/company/2026/11/08/PFB7ZUZJTBAQFIPOAA7D6ETUUM/",
-      "title": "포스코 노사 잠정합의안, 노조원 투표서 부결",
-      "date": "Sun, 08 Nov 2026 09:41:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81SXJYSW9Wakx5T2hURHEyeXpoaU1SYlVIalJVelp4UUJJVUtweGwyeHhFX1hMSXBpY0hGQU1NMHd3WnJ4WGdrU2ZxRXRrRHJ4YWNpZVpxU2ptaUU5U1p3ZTFhOVhuNlNWbDlB?oc=5",
-      "title": "포스코 임금 잠정합의안 노조 투표서 부결…반대 51.69% - 한국사회복지저널",
-      "date": "Sun, 08 Nov 2026 00:11:35 GMT"
-    },
     {
       "url": "http://www.breaknews.com/1249195",
       "title": "포스코 임금협상 잠정합의안 부결 후폭풍… 지역경제 불확실성 커진다",
@@ -7886,6 +7813,16 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVkR4Qm5kWGRjOHJZQlYtMkIwNWNiWnJzckw0R2lvLU9zV3ZaVVp1X1JwcjNENEpaOVM3V2RZVnhuNUd5amtqUnNsOENWNG9udV9B?oc=5",
       "title": "경상북도, 전기차 충돌안전부품 기술센터 준공 `미래차 부품 충돌안전 시험·평가 기반 마련` - CBN뉴스",
       "date": "Sat, 21 Nov 2026 23:15:17 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0WTd4RV9wZ1RoUXo2Z1M3d1hZMTlQS3VEbzJPTm5YYUJmZUIwMkVaNi1OekR0UXE5ZTViWTFfT0Y0T0dWYXIzQ0Qyd0VKc0c0Q2d0dXI2bFJKWE1ZOWtjbXpieUVGRjFJNlJ6Y3Fjalk?oc=5",
+      "title": "경주·김제서 작업 중 잇단 추락사고…근로자 2명 사망 - 비즈중앙",
+      "date": "Sun, 22 Nov 2026 00:04:03 GMT"
+    },
+    {
+      "url": "https://news.tf.co.kr/read/national/2391821.htm",
+      "title": "경북 곳곳서 화재 ·축사 안전사고·교통사고 잇따라…3명 사상",
+      "date": "Sun, 22 Nov 2026 09:23:00 +0900"
     }
   ],
   "brief_articles": [
