@@ -1,10 +1,5 @@
 {
   "sent": {
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502168": "2026-11-08T16:01:59.760315+09:00",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50NlNrTHk2OVpiSl9fQ1NCSDFacnZXOFluVkI3eUJwU1R3aXpXc3B3WFFvY20zUFJBNlRlOTQxd204Ym5RaW5YOTlFU3JGWlctd3o4bHlxNTlhUHlkdVZscjBMYkdKRUk?oc=5": "2026-11-08T16:01:59.760315+09:00",
-    "https://www.fnnews.com/news/202611081547001680": "2026-11-08T16:01:59.760315+09:00",
-    "https://www.hidomin.com/news/articleView.html?idxno=728389": "2026-11-08T16:01:59.760315+09:00",
-    "https://www.kbmaeil.com/article/20261108500358": "2026-11-08T16:01:59.760315+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089986": "2026-11-08T17:01:41.132860+09:00",
     "https://www.kbmaeil.com/article/20261108500479": "2026-11-08T17:01:41.132860+09:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qcTd4VFlsSjVQMHVKal9uelN0VWQ5NlpSb2VfdjZBcENjaGtPWm9BSFdiUER1cmpzeERGb1BiZGJ6aWF2Ym4zTUF0UWJXbFlrQWV0UGx2eHlsQQ?oc=5": "2026-11-08T17:01:41.132860+09:00",
@@ -949,14 +944,10 @@
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Na0xGTjRONXFTVXdkNkpkRENYSmhDcmJNdGt2SUtPc2d3Qi1SQUhfbFdjWmM0OVhaNlRxZ2d1UWRiZXV3VklRd2V0ako?oc=5": "2026-11-22T16:09:13.629181+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=730450": "2026-11-22T16:09:13.629181+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=730451": "2026-11-22T16:09:13.629181+09:00",
-    "https://www.hidomin.com/news/articleView.html?idxno=730446": "2026-11-22T16:09:13.629181+09:00"
+    "https://www.hidomin.com/news/articleView.html?idxno=730446": "2026-11-22T16:09:13.629181+09:00",
+    "https://www.kbmaeil.com/article/20261122500521": "2026-11-22T17:08:51.717209+09:00"
   },
   "titles": {
-    "039d23da7895484089d53db352fecb3abab55aa6ae2a9da541815d4cc732248b": "2026-11-08T16:01:59.760315+09:00",
-    "b7eb9f66dae8585cffb3abda497ed4c0a0117bc8b4de2f7e75ce55020bdaf596": "2026-11-08T16:01:59.760315+09:00",
-    "4186e00a72c4894f697ed16d94ac44b96b82b478542e089c33e6846570c2cbf9": "2026-11-08T16:01:59.760315+09:00",
-    "2ee213fc6127bfd1ef120d04ccadf583644f5c0aa0d4d39e01f4791cb4251bd7": "2026-11-08T16:01:59.760315+09:00",
-    "6de95627aa09670eb41ca0256fd4b21f56eb6b271c40ad02a09650f1962cae64": "2026-11-08T16:01:59.760315+09:00",
     "a382da21e4e84cdd1ce1afb49d1f744f333b04fd52fe1d0010985a851c41bcf9": "2026-11-08T17:01:41.132860+09:00",
     "109924bf07fa6bab493559c1523efee17da2754007e3034fd4ec099efa0d6c38": "2026-11-08T17:01:41.132860+09:00",
     "8d2f744cf5bd28ae375d8d2f38791ca3fe0d80d6aad416cb472edf63e7b62228": "2026-11-08T17:01:41.132860+09:00",
@@ -1901,7 +1892,8 @@
     "d3991a69850f3de5f5043c3db83ba788ad29de129867ebc6c3ca0b0ff00a005a": "2026-11-22T16:09:13.629181+09:00",
     "f2e4683bd56575e96c6c14d3eb4b47df146b2a62a62cbad1dfc084314a2b53b1": "2026-11-22T16:09:13.629181+09:00",
     "c03a184950d7c364d74b75712e8ed5be44b2f85197b54ec88201966b16b175ce": "2026-11-22T16:09:13.629181+09:00",
-    "778e552eae12cf09daaa5283bc78c4a188c3ddef2f2e173378e0a3b32fc403fd": "2026-11-22T16:09:13.629181+09:00"
+    "778e552eae12cf09daaa5283bc78c4a188c3ddef2f2e173378e0a3b32fc403fd": "2026-11-22T16:09:13.629181+09:00",
+    "cec646b4fdc215d6ab8998730922cf6ad6c018b729bd841de173e29be3c89e29": "2026-11-22T17:08:51.717209+09:00"
   },
   "pending": {},
   "ai": {
@@ -1911,101 +1903,10 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 4
+    "2026-11-22": 5
   },
   "cursor": 0,
   "archive": {
-    "https://www.newscj.com/news/articleView.html?idxno=3450739": {
-      "title": "포항 환호지구, 4800억 대규모 투자 유치",
-      "summary": "경상북도와 포항 시, 한화호텔앤드리조트, 포 포항 하나원이 도청에서 환호지구 관광숙박시설 건립을 위한 대규모 투자 업무 협약 (MOU)을 공식 체결했다. 이번 협약 식에는 이철우 경북도지사와 박용선 포항 시장, 최석진...",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3450739",
-      "date": "Fri, 20 Nov 2026 16:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.eroun.net/news/articleView.html?idxno=96105": {
-      "title": "경북도, 포항 환호지구에 4800억 원 투자 …오는 2031년까지 호텔·리조트...",
-      "summary": "경북도· 포항 시·한화호텔앤드리조트· 포항 하나원 투자협약 체결 5성급 호텔 160실·리조트 225실 건립…지역 고용·관광산업 활성화 기대 이로운넷 = 강진구 기자 경상북도가 포항 환호지구에 4800억 원을 투입해 호텔과...",
-      "url": "https://www.eroun.net/news/articleView.html?idxno=96105",
-      "date": "Fri, 20 Nov 2026 16:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.joseilbo.com/news/news_read.php?uid=580120&class=7&grp=": {
-      "title": "국세청 , 27일 6급 이하 승진 발표... 청장 청문회 다음날",
-      "summary": "국세청 인사 기획과는 20일 내부망에 안내문을 게재하고 이같이 알렸다. 2026년 6급 이하 정기승진의 심사 결과가 이달 27일 발표되는 것으로, 승진임용일은 사흘 뒤인 11월 30일이다. 오는 26일 안덕수 국세청장...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=580120&class=7&grp=",
-      "date": "Fri, 20 Nov 2026 16:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.imaeil.com/page/view/2026112015260816274": {
-      "title": "대구 중소기업인대회 개최…지역경제 이끈 25개 기업 시상",
-      "summary": "선정 기업들은 정책자금 우대와 해외 전시회 참가 지원, 세무조사 유예 등의 혜택을 받는다. 우수 스타기업에는 차년도 지원금 1천만원 우대와 연차 평가 면제 혜택이 제공된다. 추경호 대구 시장은 \"중소기업은 대구 ...",
-      "url": "https://www.imaeil.com/page/view/2026112015260816274",
-      "date": "Fri, 20 Nov 2026 16:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.job-post.co.kr/news/articleView.html?idxno=239953": {
-      "title": "엘앤에프 , 3분기 적자전환 부담에 5.63% 하락",
-      "summary": "엘앤에프 가 20일 유가증권시장에서 전 거래일보다 5.63% 하락하며 정규장을 마쳤다. 장중 변동성이 확대된 가운데 종목별 실적과 사업 재료가 재평가됐다. 이날 종가 기준 엘앤에프 는 전 거래일보다 4100원(5.63...",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239953",
-      "date": "Fri, 20 Nov 2026 16:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525402": {
-      "title": "[재계 x 파일] 수주 호황 속 파업 암초…그룹 수장들 '첫 파업' 넘어설까",
-      "summary": "장인화 포스코 그룹 회장은 창사 58년 만의 첫 파업 이후 도출했던 임금협상 잠정 합의안이 부결되며 다시... 포스코 홈페이지 캡쳐 국내 산업계를 대표하는 기업 총수들이 노사 관계라는 거대한 암초를 만났다. 성장...",
-      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525402",
-      "date": "Fri, 20 Nov 2026 16:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12cXoxdTVUVmM5WTg3QkJ6UEtEOVR0OXlJODhpZDNKZGF5N0t3RW1XeVB4TF85TTAwd0Z0eEU4a0dWUDdKQWg3Z2l3UG0yT3hUZnpOdEdubmtiNVFQS2h2dmgtV3JGUQ?oc=5": {
-      "title": "경북도, 포항 환호지구에 4800억 원 투자…오는 2031년까지 호텔·리조트 385실 조성 - 이로운넷",
-      "summary": "경북도, 포항 환호지구에 4800억 원 투자…오는 2031년까지 호텔·리조트 385실 조성 이로운넷",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12cXoxdTVUVmM5WTg3QkJ6UEtEOVR0OXlJODhpZDNKZGF5N0t3RW1XeVB4TF85TTAwd0Z0eEU4a0dWUDdKQWg3Z2l3UG0yT3hUZnpOdEdubmtiNVFQS2h2dmgtV3JGUQ?oc=5",
-      "date": "Fri, 20 Nov 2026 07:49:18 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.mhns.co.kr/news/articleView.html?idxno=770074": {
       "title": "경산시, 미래차 안전 기술의 심장 '전기차 충돌안전부품 기술센터' 준공",
       "summary": "(재) 경북 IT융합산업기술원과 한국생산기술연구원 등 국내 최고 수준의 연구기관들이 긴밀히 참여해 전문성을 높였다. 최근 전 세계적으로 전기차 보급이 확대되면서 배터리 결함 및 화재 ·폭발 사고에 대한 소비자...",
@@ -2917,6 +2818,71 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091623": {
+      "title": "경산에 전기차 충돌안전 기술센터 준공…부품기업 전환 지원",
+      "summary": "경북 도는 20일 경산지식산업지구에서 '전기차 충돌안전부품 기술센터' 준공식을 개최했다고 밝혔다. 이번... 하나로 건립 됐다. 연면적 1360㎡ 규모이며, 센터 건립 과 기업 기술고도화 등에 2027년까지 총 222억 원이...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091623",
+      "date": "Sun, 22 Nov 2026 16:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008465": {
+      "title": "경산시. 미래차 안전 기술의 심장 '전기차 충돌안전부품 기술센터' 준공",
+      "summary": "사업은 주관기관인 (재) 경북 테크노파크를 중심으로 (재) 경북 IT융합산업기술원과 한국생산기술연구원이 참여한다. 최근 전기차 배터리 결함 과 화재 에 대한 소비자 불안감이 커지면서 배터리와 승객을 보호하는...",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008465",
+      "date": "Sun, 22 Nov 2026 16:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kbmaeil.com/article/20261122500521": {
+      "title": "근로자 58명 임금·퇴직금 7억 체불… 포항 요양병원 대표 구속",
+      "summary": "고용노동부 포항 지청은 근로기준법 및 근로자퇴직급여보장법 위반 혐의 로 포항 소재 요양병원 대표 A씨를 구속했다고 22일 밝혔다. A씨는 요양병원을 운영하고 폐업하는 과정에서 임금과 연차휴가미사용수당 3억5000여...",
+      "url": "https://www.kbmaeil.com/article/20261122500521",
+      "date": "Sun, 22 Nov 2026 16:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xbGl6MlU4eVBybzRmekRLS3BYZ294eHF2bGtWN0c3cmZyTlJYWlk5MUM1LTRTRUZld1AwSGNkZDZlOVpDbGh2THBHa1pJWnFtb3ZQRThMd0xqeDNST2ZFNHpPdkJXVVRRQWc?oc=5": {
+      "title": "경북 경산에 ‘전기차 충돌안전부품 기술센터’ 준공… 배터리 화재·차체 안전성 원스톱 검증 - 뷰티경제",
+      "summary": "경북 경산에 ‘전기차 충돌안전부품 기술센터’ 준공… 배터리 화재·차체 안전성 원스톱 검증 뷰티경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xbGl6MlU4eVBybzRmekRLS3BYZ294eHF2bGtWN0c3cmZyTlJYWlk5MUM1LTRTRUZld1AwSGNkZDZlOVpDbGh2THBHa1pJWnFtb3ZQRThMd0xqeDNST2ZFNHpPdkJXVVRRQWc?oc=5",
+      "date": "Sun, 22 Nov 2026 07:37:29 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91X25KWFhkeUxQT0tsY3BVd2J0aDFKZEJFR29DckpwS2NMcE54bVJ5STlhWkN6QnF2OFFQTm1WaWszQ2RXdThHLVloSElNSU5GeW8zY0RKVlRmNTR6ZGZIM3dJVQ?oc=5": {
+      "title": "경산시, 미래차 안전 기술의 심장 ‘전기차 충돌안전부품 기술센터’ 준공 - 시사뉴스",
+      "summary": "경산시, 미래차 안전 기술의 심장 ‘전기차 충돌안전부품 기술센터’ 준공 시사뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91X25KWFhkeUxQT0tsY3BVd2J0aDFKZEJFR29DckpwS2NMcE54bVJ5STlhWkN6QnF2OFFQTm1WaWszQ2RXdThHLVloSElNSU5GeW8zY0RKVlRmNTR6ZGZIM3dJVQ?oc=5",
+      "date": "Sun, 22 Nov 2026 07:42:45 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -2938,41 +2904,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089986",
-      "title": "의성에 455억원 푸드테크 투자협약…배양육·단백질 식품공장 추진",
-      "date": "Sun, 08 Nov 2026 16:26:00 +0900"
-    },
-    {
-      "url": "https://www.kbmaeil.com/article/20261108500479",
-      "title": "“40년의 발자취, 새로운 음악적 여정으로”… 소프라노 조수미 경주 온...",
-      "date": "Sun, 08 Nov 2026 16:16:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qcTd4VFlsSjVQMHVKal9uelN0VWQ5NlpSb2VfdjZBcENjaGtPWm9BSFdiUER1cmpzeERGb1BiZGJ6aWF2Ym4zTUF0UWJXbFlrQWV0UGx2eHlsQQ?oc=5",
-      "title": "“40년의 발자취, 새로운 음악적 여정으로”… 소프라노 조수미 경주 온다 - 경북매일",
-      "date": "Sun, 08 Nov 2026 07:14:00 GMT"
-    },
-    {
-      "url": "https://www.kbmaeil.com/article/20261108500252",
-      "title": "정용채 도의원 산불 보상 사각지대·행복재단 의혹 ·소규모학교 대책 촉...",
-      "date": "Sun, 08 Nov 2026 16:08:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZN1RpWXlPTzRIZVgtelZyN3AyOWFLbjJVc0ZfZldOU1hzQzl5VEZfY0F6Y0dJcGFIMm9NUXA3bmUtNE1CV2pLRzhaSFpsaTllZWI0X21LTEZMb2tjbmsxVDAya3RiQzhpZ2hpTEhQZw?oc=5",
-      "title": "문경시, 복지·문화 아우를 ‘행복1번지’ 건립에 국비 112억원 확보 - 경북일보",
-      "date": "Sun, 08 Nov 2026 07:05:21 GMT"
-    },
-    {
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309531",
-      "title": "경산시, 중국·인도 시장 공략…지역기업 수출 판로 확대",
-      "date": "Sun, 08 Nov 2026 16:38:00 +0900"
-    },
-    {
-      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309537",
-      "title": "영천 샤인머스켓, 미국·대만·홍콩에 24.5톤 수출 …하루 최대 물량",
-      "date": "Sun, 08 Nov 2026 16:38:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVXA5RU1aRHpydnp5YnBlMDdwWnJmbGprSkVkcnhRY3cxdjRBWUNTa21lY1lBWDJabzZDQVZqb01raXBQLWF5dDU2S1FJUnQ2dHFyS1lTb1N2Q3VtVzl0TG1hWXdGZmc?oc=5",
       "title": "경주시 명계3산단에 태영테크(주) 신공장 준공…일 자리 창출 기대 - 경상투데이",
@@ -7662,6 +7593,11 @@
       "url": "https://www.hidomin.com/news/articleView.html?idxno=730446",
       "title": "포스코 노사, 임금교섭 잠정합의안 재도출…\"철강 위기, 함께 넘는다\"",
       "date": "Sun, 22 Nov 2026 15:18:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261122500521",
+      "title": "근로자 58명 임금·퇴직금 7억 체불… 포항 요양병원 대표 구속",
+      "date": "Sun, 22 Nov 2026 16:40:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7703,7 +7639,7 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 4
+    "2026-11-22": 5
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
