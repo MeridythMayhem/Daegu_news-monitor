@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564737": "2026-11-08T22:01:52.567033+09:00",
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/07/2026110700063.html": "2026-11-08T22:01:52.567033+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234": "2026-11-09T09:01:56.464971+09:00",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5": "2026-11-09T10:01:55.172813+09:00",
     "http://www.inews24.com/view/2023832": "2026-11-09T10:01:55.172813+09:00",
@@ -935,11 +933,10 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=566091": "2026-11-22T22:08:54.755121+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=566117": "2026-11-22T22:08:54.755121+09:00",
     "https://www.yeongnam.com/web/view.php?key=20261122022131343": "2026-11-22T22:08:54.755121+09:00",
-    "https://www.yeongnam.com/web/view.php?key=20261122022261472": "2026-11-22T22:08:54.755121+09:00"
+    "https://www.yeongnam.com/web/view.php?key=20261122022261472": "2026-11-22T22:08:54.755121+09:00",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5": "2026-11-22T23:09:12.520976+09:00"
   },
   "titles": {
-    "c062a3418c304cc7df043f1f997f697dfc8ff885bce71c5edc7e0178c242fe64": "2026-11-08T22:01:52.567033+09:00",
-    "fb5c62a12b848a6582437176776489aaec5fccbcf7d01009cac099881bcd3f59": "2026-11-08T22:01:52.567033+09:00",
     "d6b4998e89316b4b856a0b238fb2526c7d69c3ff2ffb1ff17d3f81abe3863772": "2026-11-09T09:01:56.464971+09:00",
     "cce503c043bda03730b799b7d73bddf4342909c025a9ecc66d1557ca9b6d3998": "2026-11-09T10:01:55.172813+09:00",
     "05442794b07eb90060b22efe644f1269fd1986bb9108a04f4c0d5ad7627fe548": "2026-11-09T10:01:55.172813+09:00",
@@ -1873,7 +1870,8 @@
     "c127f460150581c6ad804496eefd7302925a15d32e9a5f06d6a4a2f64eed85cf": "2026-11-22T22:08:54.755121+09:00",
     "e15aa8e696d14d3f8b559d4b161b807eb68a58efa8365fbef6a6507b7127c19c": "2026-11-22T22:08:54.755121+09:00",
     "370a4c2446f9a37e7a20c81a30c8601dd4a39db436d40d84974aab80ec569fda": "2026-11-22T22:08:54.755121+09:00",
-    "42e76bcd7575bc9b44cecdeebdb79e1661e268fd9e62168a0133357ccb1344ad": "2026-11-22T22:08:54.755121+09:00"
+    "42e76bcd7575bc9b44cecdeebdb79e1661e268fd9e62168a0133357ccb1344ad": "2026-11-22T22:08:54.755121+09:00",
+    "3d01d09e6d042c0e39b9fd9cc9260e56773a4ec4386aecd5524dada52ceae39d": "2026-11-22T23:09:12.520976+09:00"
   },
   "pending": {},
   "ai": {
@@ -1883,23 +1881,10 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 8
+    "2026-11-22": 9
   },
   "cursor": 0,
   "archive": {
-    "https://www.imaeil.com/page/view/2026112015070241931": {
-      "title": "포항 에 385실 규모 고급 숙박시설…한화호텔앤드리조트 4천800억원 투자",
-      "summary": "경북도는 20일 도청에서 포항 시, 한화호텔앤드리조트㈜, 포항 하나원㈜과 환호지구 관광숙박시설 건립을 위한 투자 업무 협약 을 체결했다. 협약 식에는 이철우 경북도지사와 박용선 포항 시장, 최석진 한화호텔앤드리조트...",
-      "url": "https://www.imaeil.com/page/view/2026112015070241931",
-      "date": "Fri, 20 Nov 2026 22:43:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.ajunews.com/view/20261121010359812": {
       "title": "포항 환호지구에 4800억원 투자…5성급 호텔·리조트 385실 들어선다",
       "summary": "경북도· 포항 시·한화호텔앤드리조트 등 4자 투자협약…2031년 준공 목표 5성급 호텔 160실·프리미엄 리조트 225실 조성…상업시설도 확충 아주경제=최주호 기자 cjh@ajunews.com 포항 환호지구 관광숙박시설 건립 사업 업무...",
@@ -2719,6 +2704,32 @@
       "basis": "관심기업: 엘앤에프",
       "category": "자본이동",
       "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=566146": {
+      "title": "경북 도, 경산에 '전기차 충돌안전부품 기술센터' 준공",
+      "summary": "경북 도는 지난 20일 경산지식산업지구에서 '전기차 충돌안전부품 기술센터' 준공식을 개최했다. 경북 도가... 규모로 건립 됐다. 센터 건립 과 기업 기술고도화에 2027년까지 총 222억원이 투입된다. xEV 보호차체는 전기차...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566146",
+      "date": "Sun, 22 Nov 2026 22:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5": {
+      "title": "포항 환호지구에 '5성급 호텔·프리미엄 리조트' 들어선다… 4,800억 원 투자·2031년 완공 목표 - 폴리뉴스 Polinews",
+      "summary": "포항 환호지구에 '5성급 호텔·프리미엄 리조트' 들어선다… 4,800억 원 투자·2031년 완공 목표 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5",
+      "date": "Sun, 22 Nov 2026 13:44:59 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
       "filter_version": 18
     }
   },
@@ -7410,6 +7421,11 @@
       "url": "https://www.yeongnam.com/web/view.php?key=20261122022261472",
       "title": "[대구 車부품 빅3 실적 분석] 환율·비용 폭탄에 3분기 ‘순손실’",
       "date": "Sun, 22 Nov 2026 21:22:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5",
+      "title": "포항 환호지구에 '5성급 호텔·프리미엄 리조트' 들어선다… 4,800억 원 투자·2031년 완공 목표 - 폴리뉴스 Polinews",
+      "date": "Sun, 22 Nov 2026 13:44:59 GMT"
     }
   ],
   "brief_articles": [
@@ -7451,7 +7467,7 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 8
+    "2026-11-22": 9
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
