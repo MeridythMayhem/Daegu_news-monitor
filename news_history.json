@@ -1875,7 +1875,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-15": 3,
     "2026-11-16": 9,
     "2026-11-17": 7,
     "2026-11-18": 3,
@@ -1885,58 +1884,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.ajunews.com/view/20261121010359812": {
-      "title": "포항 환호지구에 4800억원 투자…5성급 호텔·리조트 385실 들어선다",
-      "summary": "경북도· 포항 시·한화호텔앤드리조트 등 4자 투자협약…2031년 준공 목표 5성급 호텔 160실·프리미엄 리조트 225실 조성…상업시설도 확충 아주경제=최주호 기자 cjh@ajunews.com 포항 환호지구 관광숙박시설 건립 사업 업무...",
-      "url": "https://www.ajunews.com/view/20261121010359812",
-      "date": "Sat, 21 Nov 2026 05:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newscj.com/news/articleView.html?idxno=3450801": {
-      "title": "한수원, 체코 원전 시공사 재선정...K-건설 수주전 불붙나",
-      "summary": "한국수력원자력 이 대우건설·두산에너빌리티 컨소시엄과 맺은 체코 두코바니 원전사업 시공분야 공동협력 협약을 20일 공식 종료함에 따라 수조 원대 K-원전 시공권을 둘러싼 국내 건설업계의 '2라운드 수주전'이 막을...",
-      "url": "https://www.newscj.com/news/articleView.html?idxno=3450801",
-      "date": "Fri, 20 Nov 2026 23:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHUzOVNRS1g4LURLaGRGRmVPNU41LUlBSU1qQU1MNFBxV1NCaENkaDFBc25ub21jSFhhcmVCeURZQzVzWGhkcXNiNzdybms0QVRULUFoVDcySG5MbjhXb3lVb3R1QlRPeGhNaW50MEJiTXFlbjVBdENkWVVyTHh1T1AyeVFXS25zOWNRZXNCZFFTeHAtTjdhdi04UGI0b2VaQ09BZ3o4aXNrNUU1aE1IS2xMcTVJc0lnMkpqb3JweVl4WHFjQU9BbjQ3R1hGRnZXbEtIOTdvcWVxTkg5Z0NN0gHkAUFVX3lxTE5wOG5ocDh5UmFLTUxZTjNmWmFFeTJNQjBvcXljbFRNcktXa1VhRHpZWXE0bWRMWGIxeWRBMTRLc2JTSDdWWG1HRUxOVXg0a0FCYmVyVm9ZWWtYWThXR2x5YTV4aHJVdXpLc2IzblFHcEt3ZDBnUHNNUEtzZmlwS2JzT1MwbThlLWJDaVpLVWZRRlZDRkVqUUs4Wm1fODNmclZVNHEwdm5ZdkVHTTFIbTJycmZJVlBLVTNjNTZBbE9RaXl0VXFkbmhyeUdFWmQwWnU4NnBZdGNyX2lmSmZKYWFhbkRudw?oc=5": {
-      "title": "Posco Future M's (KRX:003670) Earnings Offer More Than Meets The Eye - Simply Wall St",
-      "summary": "Posco Future M's (KRX:003670) Earnings Offer More Than Meets The Eye Simply Wall St",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHUzOVNRS1g4LURLaGRGRmVPNU41LUlBSU1qQU1MNFBxV1NCaENkaDFBc25ub21jSFhhcmVCeURZQzVzWGhkcXNiNzdybms0QVRULUFoVDcySG5MbjhXb3lVb3R1QlRPeGhNaW50MEJiTXFlbjVBdENkWVVyTHh1T1AyeVFXS25zOWNRZXNCZFFTeHAtTjdhdi04UGI0b2VaQ09BZ3o4aXNrNUU1aE1IS2xMcTVJc0lnMkpqb3JweVl4WHFjQU9BbjQ3R1hGRnZXbEtIOTdvcWVxTkg5Z0NN0gHkAUFVX3lxTE5wOG5ocDh5UmFLTUxZTjNmWmFFeTJNQjBvcXljbFRNcktXa1VhRHpZWXE0bWRMWGIxeWRBMTRLc2JTSDdWWG1HRUxOVXg0a0FCYmVyVm9ZWWtYWThXR2x5YTV4aHJVdXpLc2IzblFHcEt3ZDBnUHNNUEtzZmlwS2JzT1MwbThlLWJDaVpLVWZRRlZDRkVqUUs4Wm1fODNmclZVNHEwdm5ZdkVHTTFIbTJycmZJVlBLVTNjNTZBbE9RaXl0VXFkbmhyeUdFWmQwWnU4NnBZdGNyX2lmSmZKYWFhbkRudw?oc=5",
-      "date": "Fri, 20 Nov 2026 22:42:19 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE94Z1dkOF9qZXJIdlFQYWxBaTRETDVKRnR6U0tPWFd0MERfYTZDWDRuV0hmVHcyUS01WEoxbGEwMUpGUlAtZkc3S1VDUWt4RUphT29TVmxYRC1OeVNLaGhxT2IxLWtXaVJ6V2ZjMEF6aEt6UQ?oc=5": {
-      "title": "포항, 4자 협약 통해 4,800억 원 규모 5성급 호텔 및 리조트 건립ㅣPohang to Build 480 Billion Won 5-Star Hotel and Resort Complex - 글로벌휴먼타임즈",
-      "summary": "포항, 4자 협약 통해 4,800억 원 규모 5성급 호텔 및 리조트 건립ㅣPohang to Build 480 Billion Won 5-Star Hotel and Resort Complex 글로벌휴먼타임즈",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94Z1dkOF9qZXJIdlFQYWxBaTRETDVKRnR6U0tPWFd0MERfYTZDWDRuV0hmVHcyUS01WEoxbGEwMUpGUlAtZkc3S1VDUWt4RUphT29TVmxYRC1OeVNLaGhxT2IxLWtXaVJ6V2ZjMEF6aEt6UQ?oc=5",
-      "date": "Fri, 20 Nov 2026 22:38:21 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5": {
       "title": "경북도립미술관 건립 방향 구체화...'제8차 경북 문화관광 워킹그룹' 한자리 - 경북신문",
       "summary": "경북도립미술관 건립 방향 구체화...'제8차 경북 문화관광 워킹그룹' 한자리 경북신문",
@@ -2731,26 +2678,104 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.aflnews.co.kr/news/articleView.html?idxno=332152": {
+      "title": "대동 '주춤'·TYM '약진…3분기 실적 희비",
+      "summary": "국내 종합형 농기계 회사 대동 과 TYM의 3분기 실적에 명암이 갈렸다. 특히 주요 시장인 북미 시장에서의 성적이 양사의 전체 실적에 영향을 줬다는 분석이다. 대동 과 TYM은 지난 13일 올해연도 3분기 분기보고서를...",
+      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332152",
+      "date": "Mon, 23 Nov 2026 07:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=305550": {
+      "title": "\"외형 성장에도 원가·환율 이중고에 '어닝쇼크'… 에스엘 , 본사 적자전...",
+      "summary": "자동차 부품사 에스엘 이 원재료비 상승과 환율 급락이라는 이중고에 직면하며 3분기 시장 기대치를 크게 밑도는 '어닝쇼크'를 기록했다. 하나증권은 23일 에스엘 에 대해 투자의견을 'BUY'로 유지했으나, 목표주가는...",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305550",
+      "date": "Mon, 23 Nov 2026 04:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에스엘",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://biz.chosun.com/stock/market_trend/2026/11/23/HCHCDI5F3VAFHGIX7N6GPUZGGE/": {
+      "title": "주가 반토막에 풋옵션 폭탄… 에코프로 비엠, 기존 FI들에 ‘CB 돌려막기...",
+      "summary": "주가 하락으로 4200억원 규모 전환사채(CB) 상환 압박에 놓였던 이차전지 소재 기업 에코프로 비엠이 상환 후 재발행 카드를 꺼내 들었다. 투자자들의 조기상환청구권(풋옵션) 행사로 생긴 상환금을 현금으로 내주는...",
+      "url": "https://biz.chosun.com/stock/market_trend/2026/11/23/HCHCDI5F3VAFHGIX7N6GPUZGGE/",
+      "date": "Mon, 23 Nov 2026 06:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.investchosun.com/site/data/html_dir/2026/11/20/2026112080100.html": {
+      "title": "[Invest]1차 발행 안끝났는데… 엘앤에프 , 재차 대규모 CB 발행 검토",
+      "summary": "엘앤에프 가 1515억원 규모의 전환사채(CB) 발행을 결정한 데 이어 추가로 3000억~4000억원 규모의 CB 발행을... 투자은행(IB)업계에 따르면 엘앤에프 는 최근 추가 CB 발행을 염두에 두고 재무적투자자(FI)들과 접촉하고...",
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/20/2026112080100.html",
+      "date": "Mon, 23 Nov 2026 07:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.goodkyung.com/news/articleView.html?idxno=293703": {
+      "title": "엘앤에프 , 대규모 CB 발행… 선제적 재고 확보 효용성 시험대",
+      "summary": "엘앤에프 가 대규모 CB 발행을 진행한다. 올해 매출 규모가 상승될 것으로 전망되는 가운데 엘앤에프 는 선제적인 재고 확보에 나선다는 방침이다. 일각서 엘앤에프 의 턴어라운드 기대와 동시에 재무구조 개선이...",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293703",
+      "date": "Mon, 23 Nov 2026 06:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261121033800008?input=1195m": {
+      "title": "상반기 급등장에 CB발행 역대최대…최근 급락에 상환부담",
+      "summary": "10대 그룹(삼성·SK·현대자동차·LG·한화·롯데· 포스코 ·HD현대·GS·신세계 등)을 기준으로 보면 지난해에는 SK이노베이션이 6천억원 규모의 CB를 발행한 것이 유일했으나 올해는 삼성그룹과 현대자동차그룹 등으로...",
+      "url": "https://www.yna.co.kr/view/AKR20261121033800008?input=1195m",
+      "date": "Mon, 23 Nov 2026 07:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "자본이동",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
-    "https://www.news1.kr/local/daegu-gyeongbuk/6361777": "2026-11-22T08:09:26.280813+09:00",
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50aWZlVWk4ZE1FNkNlMW9sdXJZNTZKTzcwd1Vfc3R3ZlF1ZVpITlQwanFTbXFJVDMtVFdxaGZYNnQzMWw5LVpPM0VR?oc=5": "2026-11-22T08:09:26.280813+09:00",
-    "https://www.the-today.com/news/articleView.html?idxno=93927": "2026-11-22T08:09:26.280813+09:00",
-    "https://www.kbsm.net/news/view.php?idx=542684": "2026-11-22T08:09:26.280813+09:00",
-    "https://www.newspim.com/news/view/20261120000884": "2026-11-22T08:09:26.280813+09:00",
-    "https://sateconomy.co.kr/news/view/1065624658973676": "2026-11-22T08:09:26.280813+09:00"
+    "https://www.investchosun.com/site/data/html_dir/2026/11/20/2026112080100.html": "2026-11-23T08:03:26.835289+09:00",
+    "https://www.goodkyung.com/news/articleView.html?idxno=293703": "2026-11-23T08:03:26.835289+09:00",
+    "https://biz.chosun.com/stock/market_trend/2026/11/23/HCHCDI5F3VAFHGIX7N6GPUZGGE/": "2026-11-23T08:03:26.835289+09:00",
+    "https://www.aflnews.co.kr/news/articleView.html?idxno=332152": "2026-11-23T08:03:26.835289+09:00",
+    "https://www.yna.co.kr/view/AKR20261121033800008?input=1195m": "2026-11-23T08:03:26.835289+09:00",
+    "https://www.newsquest.co.kr/news/articleView.html?idxno=305550": "2026-11-23T08:03:26.835289+09:00"
   },
   "brief_titles": {
-    "514bef7e9cb206940b0ab401ebe6da5d4cc260856503ea3968987ccfeb89ad71": "2026-11-22T08:09:26.280813+09:00",
-    "8e437649b61ea5b2476c84914d5e8a0cc87a51eed26dcf4b0dbf06d623291cd1": "2026-11-22T08:09:26.280813+09:00",
-    "bacd52b7eae989db6c77b71497ab9ccc8353ef6e8c1d012ba2894ccc4f2e7d79": "2026-11-22T08:09:26.280813+09:00",
-    "0b7a43d35eedae2128c7fcd21d3e2ddc99d3f09b837d9956589f18bac70001e7": "2026-11-22T08:09:26.280813+09:00",
-    "fdda092e5b47853dee9257b9f92bc76b7cdb2d9ef58a573f37825124a0f25289": "2026-11-22T08:09:26.280813+09:00",
-    "f2c69dc77d706f600c156502a19cb008a2134ed9ee7e52af091742ae12603042": "2026-11-22T08:09:26.280813+09:00"
+    "e99323c9d4192115883dba1f977284bf51a3caa1faef06aa3a3ebd05e78fcf38": "2026-11-23T08:03:26.835289+09:00",
+    "fc5ea5f418c1eee544f9b8177e3e85f95d7cfdea3c2558e8dff73f475e22c879": "2026-11-23T08:03:26.835289+09:00",
+    "2411909d77dade5326ddc5e4884ab704a5a074be7cddf462093f7357bb46fd15": "2026-11-23T08:03:26.835289+09:00",
+    "9c2f4401acfb3626c86bb622d45c52ae3ed3bed02e06509a0e4c8cc02033db79": "2026-11-23T08:03:26.835289+09:00",
+    "d74ed071246c27b6610b2acc86eee5727879da2c3b11fd71cb7c51fd0d3127ad": "2026-11-23T08:03:26.835289+09:00",
+    "5c1d1e99877c7e9b30ac1f124972d778d9a0681c2d7061376d2fee45f86bd67a": "2026-11-23T08:03:26.835289+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-22",
+  "brief_date": "2026-11-23",
   "sent_articles": [
     {
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234",
@@ -7430,38 +7455,37 @@
   ],
   "brief_articles": [
     {
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6361777",
-      "title": "칠곡 공장 서 화재 …재산 피해 5000여만 원, 인명피해 없어",
-      "date": "Sun, 22 Nov 2026 07:54:00 +0900"
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/20/2026112080100.html",
+      "title": "[Invest]1차 발행 안끝났는데… 엘앤에프 , 재차 대규모 CB 발행 검토",
+      "date": "Mon, 23 Nov 2026 07:02:00 +0900"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50aWZlVWk4ZE1FNkNlMW9sdXJZNTZKTzcwd1Vfc3R3ZlF1ZVpITlQwanFTbXFJVDMtVFdxaGZYNnQzMWw5LVpPM0VR?oc=5",
-      "title": "법무법인 대륙아주, 경북 안동시 산불 피해복구 현장 찾아 위문 - 국민뉴스",
-      "date": "Sat, 21 Nov 2026 15:02:00 GMT"
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293703",
+      "title": "엘앤에프 , 대규모 CB 발행… 선제적 재고 확보 효용성 시험대",
+      "date": "Mon, 23 Nov 2026 06:30:00 +0900"
     },
     {
-      "url": "https://www.the-today.com/news/articleView.html?idxno=93927",
-      "title": "[속보] 현대제철· 포스코 美 제철소 대기허가 취소 소송…LDEQ \"편익이 환...",
-      "date": "Sun, 22 Nov 2026 07:12:00 +0900"
+      "url": "https://biz.chosun.com/stock/market_trend/2026/11/23/HCHCDI5F3VAFHGIX7N6GPUZGGE/",
+      "title": "주가 반토막에 풋옵션 폭탄… 에코프로 비엠, 기존 FI들에 ‘CB 돌려막기...",
+      "date": "Mon, 23 Nov 2026 06:02:00 +0900"
     },
     {
-      "url": "https://www.kbsm.net/news/view.php?idx=542684",
-      "title": "경주 아파트서 조명 교체하던 50대 추락 사…중처법 위반 조사",
-      "date": "Sun, 22 Nov 2026 06:44:00 +0900"
+      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332152",
+      "title": "대동 '주춤'·TYM '약진…3분기 실적 희비",
+      "date": "Mon, 23 Nov 2026 07:00:00 +0900"
     },
     {
-      "url": "https://www.newspim.com/news/view/20261120000884",
-      "title": "대동 , 실적 부진에 재무 부담 가중…제주 대동 매각이 돌파구 될까",
-      "date": "Sun, 22 Nov 2026 06:00:00 +0900"
+      "url": "https://www.yna.co.kr/view/AKR20261121033800008?input=1195m",
+      "title": "상반기 급등장에 CB발행 역대최대…최근 급락에 상환부담",
+      "date": "Mon, 23 Nov 2026 07:00:00 +0900"
     },
     {
-      "url": "https://sateconomy.co.kr/news/view/1065624658973676",
-      "title": "포스코 , 호주 4조원 HBI 투자설 재차 미확정…사업구조·일정 검토 계속",
-      "date": "Sun, 22 Nov 2026 00:10:00 +0900"
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305550",
+      "title": "\"외형 성장에도 원가·환율 이중고에 '어닝쇼크'… 에스엘 , 본사 적자전...",
+      "date": "Mon, 23 Nov 2026 04:56:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-11-15": 3,
     "2026-11-16": 7,
     "2026-11-17": 6,
     "2026-11-18": 3,
