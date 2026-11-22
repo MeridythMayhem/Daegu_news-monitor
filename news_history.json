@@ -1,6 +1,5 @@
 {
   "sent": {
-    "http://www.snmnews.com/news/articleView.html?idxno=577085": "2026-11-08T20:01:50.599056+09:00",
     "https://www.cstimes.com/news/articleView.html?idxno=727046": "2026-11-08T21:01:44.109079+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628791": "2026-11-08T21:01:44.109079+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564737": "2026-11-08T22:01:52.567033+09:00",
@@ -931,10 +930,12 @@
     "https://www.hidomin.com/news/articleView.html?idxno=730446": "2026-11-22T16:09:13.629181+09:00",
     "https://www.kbmaeil.com/article/20261122500521": "2026-11-22T17:08:51.717209+09:00",
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4120103": "2026-11-22T19:07:16.292517+09:00",
-    "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257": "2026-11-22T19:07:16.292517+09:00"
+    "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257": "2026-11-22T19:07:16.292517+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=630568": "2026-11-22T21:09:06.612390+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=630605": "2026-11-22T21:09:06.612390+09:00",
+    "https://www.yeongnam.com/web/view.php?key=20261122029461565": "2026-11-22T21:09:06.612390+09:00"
   },
   "titles": {
-    "2036dca75445f5e3f2b03d57620bbcf426d779b332e9c4cd5c8d7ce00483f38e": "2026-11-08T20:01:50.599056+09:00",
     "8bcedc5f16f8f27fb0e78dbcef187fe7e8572ee82dd4898c240e5b3963a15693": "2026-11-08T21:01:44.109079+09:00",
     "f91ad7654f182f737266bc02c1fd0da4b93e66ef8ffcef27847048604d7a40e1": "2026-11-08T21:01:44.109079+09:00",
     "c062a3418c304cc7df043f1f997f697dfc8ff885bce71c5edc7e0178c242fe64": "2026-11-08T22:01:52.567033+09:00",
@@ -1865,7 +1866,10 @@
     "778e552eae12cf09daaa5283bc78c4a188c3ddef2f2e173378e0a3b32fc403fd": "2026-11-22T16:09:13.629181+09:00",
     "cec646b4fdc215d6ab8998730922cf6ad6c018b729bd841de173e29be3c89e29": "2026-11-22T17:08:51.717209+09:00",
     "209e132cecd2332dd5310628aa8e9fe6cc1f12aadb461100479433032ead61ae": "2026-11-22T19:07:16.292517+09:00",
-    "c3a525034bfc6f2ffe1e7358a911a6767d0d66dd121afbff508b786cd84bab4d": "2026-11-22T19:07:16.292517+09:00"
+    "c3a525034bfc6f2ffe1e7358a911a6767d0d66dd121afbff508b786cd84bab4d": "2026-11-22T19:07:16.292517+09:00",
+    "bf1160ff35b0d8eacf9caa50aa6734303683d0bc1b3787f42f75c594cb8b8f1c": "2026-11-22T21:09:06.612390+09:00",
+    "051edaff99473895445c831513551a21db2b064bb25cb4b1b86c526b9bcafd41": "2026-11-22T21:09:06.612390+09:00",
+    "2bb3cd7450f301ddfa36e168e9cb7fe744d2c201898953b6a4d2e5451ed73935": "2026-11-22T21:09:06.612390+09:00"
   },
   "pending": {},
   "ai": {
@@ -1875,36 +1879,10 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 6
+    "2026-11-22": 7
   },
   "cursor": 0,
   "archive": {
-    "https://view.asiae.co.kr/article/2026112019585385429": {
-      "title": "포항 환호지구에 4800억 들여 5성급 호텔·프리미엄 리조트 건립",
-      "summary": "경북도는 20일 도청 회의실에서 포항 시, 한화호텔앤드리조트㈜, 포항 하나원㈜과 환호지구 관광숙박시설 건립을 위한 투자 업무 협약 을 체결했다. 협약 식에는 이철우 경북도지사와 박용선 포항 시장, 최석진...",
-      "url": "https://view.asiae.co.kr/article/2026112019585385429",
-      "date": "Fri, 20 Nov 2026 20:05:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eUlRd2pOTFBkcW1BSUluMUZRc2otelRPeXQzYmJ5TDNyaGFVdDVpTE80VHB1eThPYUNmTUpqaVJPT2hBUVMwUVZUUE9jaXB0SW9sYm5uQ3hINmk0MktCdHZHTE9KRWtVRnc?oc=5": {
-      "title": "영천시, K-POP 돔 건립 위한 일본 볼파크 벤치마킹 - 디트NEWS24",
-      "summary": "영천시, K-POP 돔 건립 위한 일본 볼파크 벤치마킹 디트NEWS24",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eUlRd2pOTFBkcW1BSUluMUZRc2otelRPeXQzYmJ5TDNyaGFVdDVpTE80VHB1eThPYUNmTUpqaVJPT2hBUVMwUVZUUE9jaXB0SW9sYm5uQ3hINmk0MktCdHZHTE9KRWtVRnc?oc=5",
-      "date": "Fri, 20 Nov 2026 11:18:19 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.bzeronews.com/news/articleView.html?idxno=825628": {
       "title": "경북도, 포항 환호지구에 4800억 원 호텔·리조트 투자 유치",
       "summary": "경북도는 20일 도청에서 포항 시, 한화호텔앤드리조트㈜, 포항 하나원㈜과 환호지구 관광숙박시설 건립을 위한 투자 업무 협약 을 체결했다. 협약 에는 이철우 경북도지사와 박용선 포항 시장, 최석진 한화호텔앤드리조트...",
@@ -2685,6 +2663,45 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=630605": {
+      "title": "포항 환호지구에 4800억 투입…5성급 호텔·프리미엄 리조트 건립 추진",
+      "summary": "영일만 해안 경관과 포스코 야경 등 주변 관광자원을 숙박·휴양시설과 연계해 체류형 관광거점으로 조성한다는 구상이다.두 기업은 자본을 투입하고 개발계획을 구체화하는 등 사업을 주도한다. 지역 인재를 채용하고...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630605",
+      "date": "Sun, 22 Nov 2026 20:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yeongnam.com/web/view.php?key=20261122029461565": {
+      "title": "[대구 車부품 빅3 실적 분석] 북미 현지화 성숙도가 가른 성적표…로보...",
+      "summary": "지난 10월 FIX 2026에 전시된 에스엘 의 휴머노이드 로봇. 글로벌 자동차 시장의 최대 격전지인 북미 현지화... 선제적으로 북미 생산 거점을 안정화한 에스엘 은 막대한 현지 수익을 거두며 캐시카우(현금창출원)...",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261122029461565",
+      "date": "Sun, 22 Nov 2026 20:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=630568": {
+      "title": "대구시, 기계산업대전 1468억 상담 실적 ‘쾌거’",
+      "summary": "상담 건수는 지난해보다 41% 증가한 267건으로, 상담액 5200만 달러(약 702억원), 계약 추진액 1400만 달러(약 189억원)를 기록했다.현대로템, LG에너지솔루션, 포스코 퓨처엠, 삼성이엔에이 등 22개 대기업 구매담당자가...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630568",
+      "date": "Sun, 22 Nov 2026 20:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -2706,16 +2723,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=727046",
-      "title": "한수원, 청정수소 포럼 개최·합천양수 주민 현장견학 시행",
-      "date": "Sun, 08 Nov 2026 20:36:00 +0900"
-    },
-    {
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=628791",
-      "title": "경북 의성, 첨단 푸드테크 산업 중심지로 도약…455억원 투자 유치",
-      "date": "Sun, 08 Nov 2026 20:28:00 +0900"
-    },
     {
       "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564737",
       "title": "경북 도, 의성에 식품산업 455억 투자 …신성장 비전 선포",
@@ -7360,6 +7367,21 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257",
       "title": "“공연 매출 82.7% 수도권 집중”… 대구 시의회, 두류공원 돔구장 선정 촉...",
       "date": "Sun, 22 Nov 2026 18:46:00 +0900"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630568",
+      "title": "대구시, 기계산업대전 1468억 상담 실적 ‘쾌거’",
+      "date": "Sun, 22 Nov 2026 20:52:00 +0900"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630605",
+      "title": "포항 환호지구에 4800억 투입…5성급 호텔·프리미엄 리조트 건립 추진",
+      "date": "Sun, 22 Nov 2026 20:44:00 +0900"
+    },
+    {
+      "url": "https://www.yeongnam.com/web/view.php?key=20261122029461565",
+      "title": "[대구 車부품 빅3 실적 분석] 북미 현지화 성숙도가 가른 성적표…로보...",
+      "date": "Sun, 22 Nov 2026 20:08:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7401,7 +7423,7 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 6
+    "2026-11-22": 7
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
