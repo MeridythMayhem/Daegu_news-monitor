@@ -1,6 +1,5 @@
 {
   "sent": {
-    "http://www.breaknews.com/1249195": "2026-11-08T11:01:52.329653+09:00",
     "https://www.seoulfn.com/news/articleView.html?idxno=642206": "2026-11-08T12:01:53.180744+09:00",
     "http://www.sisafocus.co.kr/news/articleView.html?idxno=367307": "2026-11-08T13:01:56.261875+09:00",
     "https://www.greened.kr/news/articleView.html?idxno=354109": "2026-11-08T14:02:17.836385+09:00",
@@ -945,10 +944,11 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0WTd4RV9wZ1RoUXo2Z1M3d1hZMTlQS3VEbzJPTm5YYUJmZUIwMkVaNi1OekR0UXE5ZTViWTFfT0Y0T0dWYXIzQ0Qyd0VKc0c0Q2d0dXI2bFJKWE1ZOWtjbXpieUVGRjFJNlJ6Y3Fjalk?oc=5": "2026-11-22T10:09:01.021182+09:00",
     "https://news.tf.co.kr/read/national/2391821.htm": "2026-11-22T10:09:01.021182+09:00",
     "https://www.idomin.com/news/articleView.html?idxno=2020141": "2026-11-22T11:08:57.213094+09:00",
-    "https://www.nocutnews.co.kr/news/6610588": "2026-11-22T11:08:57.213094+09:00"
+    "https://www.nocutnews.co.kr/news/6610588": "2026-11-22T11:08:57.213094+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQkNIaTBGdkQ2XzdFdWphWlhJWFljdVVLd1BMT05OSy1xQ0trcVJwbTlGT2dYNVNLaWtuTGtoempISjBoN2lEZlBkbWJFeDdhZWxBS0lpb243MGJ1Z0I5Y1lDNDFWR0s4Q3c?oc=5": "2026-11-22T12:09:20.095699+09:00",
+    "https://www.khan.co.kr/article/202611221101001": "2026-11-22T12:09:20.095699+09:00"
   },
   "titles": {
-    "4e108ce87e7109fb53edec09df18c28671d8c6dbbef1193730c4cd69f24fe585": "2026-11-08T11:01:52.329653+09:00",
     "29d8cddb3cb5d0c5becc2ca50a21d063681cd10721a25282913c1acdf9d9fe77": "2026-11-08T12:01:53.180744+09:00",
     "9405bd0d46dfe9c380e4721c305f00aefa77bc3a82ecdd480e4ea0234734fa0f": "2026-11-08T13:01:56.261875+09:00",
     "7495f634ebbd2991b394cb16b580c6d0a7afd9109a732918677d8a7affb5755f": "2026-11-08T14:02:17.836385+09:00",
@@ -1893,7 +1893,9 @@
     "43cf6b8be715809f71b0713224838e1716b8b01aa72ddb1b13fbd2f7508a7203": "2026-11-22T10:09:01.021182+09:00",
     "4c1faa95be9e58a57b39a78cddf3c198622625003b34e26fb184add7b094fa92": "2026-11-22T10:09:01.021182+09:00",
     "eae9b31e9ced5f4433333b567683221f0c9e467319828ec089b2f8219309761f": "2026-11-22T11:08:57.213094+09:00",
-    "ce94b89eda9e997e579f8f13caa154af56fa9b54b432f9ab5e98508141a94217": "2026-11-22T11:08:57.213094+09:00"
+    "ce94b89eda9e997e579f8f13caa154af56fa9b54b432f9ab5e98508141a94217": "2026-11-22T11:08:57.213094+09:00",
+    "3a1ac3f12eb516c6e592de2d6954dd37bb703ec698d79f844a646d164352a68c": "2026-11-22T12:09:20.095699+09:00",
+    "105aed8c8c26d4fe3864af6875d1916bd3b349a9cd24eddd4e7e6ed118307d12": "2026-11-22T12:09:20.095699+09:00"
   },
   "pending": {},
   "ai": {
@@ -1902,36 +1904,11 @@
     "2026-11-17": 7,
     "2026-11-18": 3,
     "2026-11-19": 6,
-    "2026-11-20": 6
+    "2026-11-20": 6,
+    "2026-11-22": 1
   },
   "cursor": 0,
   "archive": {
-    "https://www.1conomynews.co.kr/news/articleView.html?idxno=51421": {
-      "title": "하나은행, 대구 광역치매센터와 MOU …치매 예방부터 금융지원까지",
-      "summary": "하나은행이 대구 광역치매센터와 손잡고 치매 예방부터 자산관리, 금융사기 예방까지 지역 고령층을 위한 금융지원 확대에 나섰다. 20일 하나은행에 따르면 대구 광역치매센터와 전날 '하나더넥스트 대구 중앙 라운지'에서...",
-      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51421",
-      "date": "Fri, 20 Nov 2026 11:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.todayenergy.kr/news/articleView.html?idxno=305835": {
-      "title": "에스와이스틸텍, 포스코 ·동명스틸과 소재공급 MOU",
-      "summary": "에스와이스틸텍은 지난 11월 17일 인천 송도컨벤시아에서 열린 ' 포스코 지속가능소재 포럼 2026(POSCO Sustainable Materials Forum 2026)'에서 포스코 , 동명스틸과 안정적인 데크플레이트 소재공급을 위한 양해각서(MOU)를...",
-      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305835",
-      "date": "Fri, 20 Nov 2026 11:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnVEZoakNsWWw1enBMc1pOR3dOSmtCdHN4NXZ1QktEZXhEUzF5NkFaYlljSUZXdG1yMzUtaWJMamQ3UG1mLW14bnV0SUVhbDJaSmhyVmViVWgyeEJtSnpmbkIwTDhnZWJEbWF3?oc=5": {
       "title": "김천시, 산업용지 평당 70만원 승부수...기업 투자유치 본격 시동 - 프레시안",
       "summary": "김천시, 산업용지 평당 70만원 승부수...기업 투자유치 본격 시동 프레시안",
@@ -3051,6 +3028,45 @@
       "category": "산재·사업장 사고",
       "priority": 100,
       "filter_version": 18
+    },
+    "https://www.hankookilbo.com/news/article/A2026112211160002466?did=NA": {
+      "title": "경산에 '전기차 충돌안전부품 기술센터' 준공... \"미래차 신시장 진입 지...",
+      "summary": "김민석 경북 도 정책실장은 \"전기차 충돌안전부품 기술센터 건립 으로 지역 내 기업들의 전주기 원스톱 지원체계를 통한 미래차 전환 기술 확보에 전념할 계획\"이라며 \"미래차 충돌안전 대응 및 기술경쟁력 강화를 적극...",
+      "url": "https://www.hankookilbo.com/news/article/A2026112211160002466?did=NA",
+      "date": "Sun, 22 Nov 2026 11:51:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.khan.co.kr/article/202611221101001": {
+      "title": "경산에 ‘전기차 충돌안전부품 기술센터’ 준공···미래차 부품 충돌...",
+      "summary": "자동차안전도평가(KNCAP)에 대응해 전기차 하부 직접 충돌 검증 시스템과 충돌 후 배터리 파손· 화재 를 평가하는 지연 화재 안전성 평가 시스템도 마련된다. 경북 도는 기술센터를 기반으로 자동차부품업체의 전동화차량...",
+      "url": "https://www.khan.co.kr/article/202611221101001",
+      "date": "Sun, 22 Nov 2026 11:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQkNIaTBGdkQ2XzdFdWphWlhJWFljdVVLd1BMT05OSy1xQ0trcVJwbTlGT2dYNVNLaWtuTGtoempISjBoN2lEZlBkbWJFeDdhZWxBS0lpb243MGJ1Z0I5Y1lDNDFWR0s4Q3c?oc=5": {
+      "title": "영천시, 일본 복합시설 벤치마킹…K-POP 돔 공연장 건립 모색 - www.hidomin.com",
+      "summary": "영천시, 일본 복합시설 벤치마킹…K-POP 돔 공연장 건립 모색 www.hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQkNIaTBGdkQ2XzdFdWphWlhJWFljdVVLd1BMT05OSy1xQ0trcVJwbTlGT2dYNVNLaWtuTGtoempISjBoN2lEZlBkbWJFeDdhZWxBS0lpb243MGJ1Z0I5Y1lDNDFWR0s4Q3c?oc=5",
+      "date": "Sun, 22 Nov 2026 02:21:51 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3072,11 +3088,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=642206",
-      "title": "포스코 임협 장기화 우려···협력사·지역경제도 '촉각'",
-      "date": "Sun, 08 Nov 2026 11:45:00 +0900"
-    },
     {
       "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367307",
       "title": "경북 도, 의성에 식품 산업 455억 투자 유치",
@@ -7796,6 +7807,16 @@
       "url": "https://www.nocutnews.co.kr/news/6610588",
       "title": "포항 요양병원 대표 구속…노동자 58명 임금·퇴직금 7억원 체불",
       "date": "Sun, 22 Nov 2026 10:18:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQkNIaTBGdkQ2XzdFdWphWlhJWFljdVVLd1BMT05OSy1xQ0trcVJwbTlGT2dYNVNLaWtuTGtoempISjBoN2lEZlBkbWJFeDdhZWxBS0lpb243MGJ1Z0I5Y1lDNDFWR0s4Q3c?oc=5",
+      "title": "영천시, 일본 복합시설 벤치마킹…K-POP 돔 공연장 건립 모색 - www.hidomin.com",
+      "date": "Sun, 22 Nov 2026 02:21:51 GMT"
+    },
+    {
+      "url": "https://www.khan.co.kr/article/202611221101001",
+      "title": "경산에 ‘전기차 충돌안전부품 기술센터’ 준공···미래차 부품 충돌...",
+      "date": "Sun, 22 Nov 2026 11:01:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7836,7 +7857,8 @@
     "2026-11-17": 6,
     "2026-11-18": 3,
     "2026-11-19": 6,
-    "2026-11-20": 6
+    "2026-11-20": 6,
+    "2026-11-22": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
