@@ -1,12 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVXA5RU1aRHpydnp5YnBlMDdwWnJmbGprSkVkcnhRY3cxdjRBWUNTa21lY1lBWDJabzZDQVZqb01raXBQLWF5dDU2S1FJUnQ2dHFyS1lTb1N2Q3VtVzl0TG1hWXdGZmc?oc=5": "2026-11-08T18:01:38.176414+09:00",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWNG9BejdDZW8zb2hOcWlnbU5MMXZNYld1MVVWLTJTRC1DbzZla2dJNDVsZDVQNjhyM05vNm5yZDdMOUZqYVFCTkRIdDZ0R29nSE1mLTNoSktVRzZ6cEpudE9ZZnNjWUE?oc=5": "2026-11-08T18:01:38.176414+09:00",
-    "https://www.dkilbo.com/news/articleView.html?idxno=559974": "2026-11-08T18:01:38.176414+09:00",
-    "https://www.news1.kr/local/daegu-gyeongbuk/6346892": "2026-11-08T18:01:38.176414+09:00",
-    "https://www.hidomin.com/news/articleView.html?idxno=728434": "2026-11-08T18:01:38.176414+09:00",
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502185": "2026-11-08T18:01:38.176414+09:00",
-    "https://www.mk.co.kr/article/12201775": "2026-11-08T18:01:38.176414+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090060": "2026-11-08T19:01:55.308845+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047": "2026-11-08T19:01:55.308845+09:00",
     "http://www.snmnews.com/news/articleView.html?idxno=577085": "2026-11-08T20:01:50.599056+09:00",
@@ -938,16 +931,11 @@
     "https://www.hidomin.com/news/articleView.html?idxno=730450": "2026-11-22T16:09:13.629181+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=730451": "2026-11-22T16:09:13.629181+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=730446": "2026-11-22T16:09:13.629181+09:00",
-    "https://www.kbmaeil.com/article/20261122500521": "2026-11-22T17:08:51.717209+09:00"
+    "https://www.kbmaeil.com/article/20261122500521": "2026-11-22T17:08:51.717209+09:00",
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4120103": "2026-11-22T19:07:16.292517+09:00",
+    "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257": "2026-11-22T19:07:16.292517+09:00"
   },
   "titles": {
-    "729f7bec70b01a00186893dbb436bce020a357e64a177236317af876cf647b22": "2026-11-08T18:01:38.176414+09:00",
-    "6c32e4554062efb0f862307525faeb379e0dd6f52d643900833a35cc91de4d26": "2026-11-08T18:01:38.176414+09:00",
-    "707f0485c6b2f51a4e4a391cde4084e2346917839ff06332f6136e81e5afba3b": "2026-11-08T18:01:38.176414+09:00",
-    "47327f6b611ab37b29cf827727a661f0ee9d0a05b1cacd422a91a8b5007d91dd": "2026-11-08T18:01:38.176414+09:00",
-    "b8b2e21f302b840cac4c6bf8dde34b4cd37ee4ea398c1836e38304182328d306": "2026-11-08T18:01:38.176414+09:00",
-    "b6d771643db0b9a4295923c451fda965b1a926d16423c5671c36a282fa128f42": "2026-11-08T18:01:38.176414+09:00",
-    "07c96a1ebd14da624557fa40324313cc5b99fb20785123915c1435985a9a695d": "2026-11-08T18:01:38.176414+09:00",
     "ff4ca39d8b0b266eab5dec88aaa5aec65b587ee0e6a269342b50036973ddb34f": "2026-11-08T19:01:55.308845+09:00",
     "b6c0a9e85c825332efa44fea18cc1231815f3e4bace6fbbc012ae7fc51c08fbe": "2026-11-08T19:01:55.308845+09:00",
     "2036dca75445f5e3f2b03d57620bbcf426d779b332e9c4cd5c8d7ce00483f38e": "2026-11-08T20:01:50.599056+09:00",
@@ -1879,7 +1867,9 @@
     "f2e4683bd56575e96c6c14d3eb4b47df146b2a62a62cbad1dfc084314a2b53b1": "2026-11-22T16:09:13.629181+09:00",
     "c03a184950d7c364d74b75712e8ed5be44b2f85197b54ec88201966b16b175ce": "2026-11-22T16:09:13.629181+09:00",
     "778e552eae12cf09daaa5283bc78c4a188c3ddef2f2e173378e0a3b32fc403fd": "2026-11-22T16:09:13.629181+09:00",
-    "cec646b4fdc215d6ab8998730922cf6ad6c018b729bd841de173e29be3c89e29": "2026-11-22T17:08:51.717209+09:00"
+    "cec646b4fdc215d6ab8998730922cf6ad6c018b729bd841de173e29be3c89e29": "2026-11-22T17:08:51.717209+09:00",
+    "209e132cecd2332dd5310628aa8e9fe6cc1f12aadb461100479433032ead61ae": "2026-11-22T19:07:16.292517+09:00",
+    "c3a525034bfc6f2ffe1e7358a911a6767d0d66dd121afbff508b786cd84bab4d": "2026-11-22T19:07:16.292517+09:00"
   },
   "pending": {},
   "ai": {
@@ -1889,114 +1879,10 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 5
+    "2026-11-22": 6
   },
   "cursor": 0,
   "archive": {
-    "https://www.straightnews.co.kr/news/articleView.html?idxno=315863": {
-      "title": "포항 환호지구에 4800억 투입 5성급 호텔·리조트 건립",
-      "summary": "경상북도는 20일 도청에서 포항시, 한화호텔앤드리조트㈜, 포항하나원㈜과 환호지구 관광숙박시설 건립을 위한 총사업비 약 4800억 규모의 투자 업무 협약 을 체결했다.2026.11.20.[사진= 경북 도] 경상북도는 20일 도청에서...",
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315863",
-      "date": "Fri, 20 Nov 2026 18:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/20/2026112050297.html": {
-      "title": "대구 시, 중소기업 25개사 시상·지정…지역경제 성장 주역 격려",
-      "summary": "중소기업대상 수상기업과 대구 3030기업 지정기업은 2년간 육성자금 이차보전율 1.5~2.0% 우대와 해외 전시·박람회 참가 우선 지원을 받는다. 지방세 세무조사 도 3년간 유예된다. 우수 스타기업에는 차년도 지원금 1000만...",
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/20/2026112050297.html",
-      "date": "Fri, 20 Nov 2026 18:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.namdonews.com/news/articleView.html?idxno=929955": {
-      "title": "포스코 노사, 임금교섭 재합의…노조 찬반투표 '주목'",
-      "summary": "포스코 노사가 올해 임금교섭 잠정합의안 부결 이후 13일 만에 극적으로 재합의를 이뤄냈다. 기존 안건에 격려금과 특별조정분 등을 새롭게 보태면서 교섭 타결의 물꼬를 튼 양상이다. 양측은 20일 포항 포스코 본사에서...",
-      "url": "https://www.namdonews.com/news/articleView.html?idxno=929955",
-      "date": "Fri, 20 Nov 2026 18:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.edaily.co.kr/News/Read?newsId=04198406645647688&mediaCodeNo=257": {
-      "title": "포스코 노사, 2차 임금교섭 잠정합의안 도출…\"철강산업 위기 뜻모아\"",
-      "summary": "포스코 노사가 임금교섭 잠정안을 다시 도출했다. 지난 7일 전 조합원 투표에서 부결된 후 2주 만이다. 포스코 노사는 20일 31차 본교섭을 열고 2차 잠정합의안을 도출했다고 밝혔다. 노조측의 설명에 따르면 이번...",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04198406645647688&mediaCodeNo=257",
-      "date": "Fri, 20 Nov 2026 18:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.fetv.co.kr/news/articleView.html?idxno=314080": {
-      "title": "포스코 노사, 임금협상 잠정합의안 재도출…노조 재투표 예정",
-      "summary": "포스코 노사가 조합원 투표에서 부결된 올해 임금교섭 잠정합의안을 다시 마련했다. 기존안에 격려금 등을 20만원 추가했으며, 노조의 찬반투표를 거쳐 최종 타결 여부가 결정된다. 포스코 는 노사가 20일 포항 본사에서...",
-      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=314080",
-      "date": "Fri, 20 Nov 2026 18:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=305549": {
-      "title": "\"영업이익 늘어도 현금은 줄줄… 포스코 퓨처엠, '3000억 순손실·차입금...",
-      "summary": "포스코 퓨처엠은 4분기 양극재와 음극재의 출하 회복을 앞두고 있지만, 신사업 전환에 따른 초기 비용 부담과 수익성 개선 지연 우려가 발목을 잡고 있다. 교보증권은 20일 포스코 퓨처엠에 대해 투자의견 'BUY...",
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305549",
-      "date": "Fri, 20 Nov 2026 18:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠 · 수치가 명시된 경제지표/실적",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SUWNwMXY3N3hwUnp4M0tKc3Y4SWRGVk42TVFKemFmc0RLY082Y0JIcWNxUmdDZEVuVHFzMjhjNEZpWEFqLTBMX1JQVkJBeElENWhiUjEwd1FiTE01NjgxTQ?oc=5": {
-      "title": "포항 환호지구에 4800억 원 투자…5성급 호텔·리조트 들어선다 - NSP통신",
-      "summary": "포항 환호지구에 4800억 원 투자…5성급 호텔·리조트 들어선다 NSP통신",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SUWNwMXY3N3hwUnp4M0tKc3Y4SWRGVk42TVFKemFmc0RLY082Y0JIcWNxUmdDZEVuVHFzMjhjNEZpWEFqLTBMX1JQVkJBeElENWhiUjEwd1FiTE01NjgxTQ?oc=5",
-      "date": "Fri, 20 Nov 2026 09:55:14 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNHc2VUtQcXNhOU1JcmVZcnk3dXJhbG1nSVNzaDBEQ2k4T3dITWV1bFVSbVExeHRGS2FaelMyamxZa0xKbFgtb1VNWUs4ZUVNclVXRC1uZWRKMExNTHFCdw?oc=5": {
-      "title": "경산시, 미래차 안전 기술의 심장 ‘전기차 충돌안전부품 기술센터’ 준공 - www.newsgb.co.kr",
-      "summary": "경산시, 미래차 안전 기술의 심장 ‘전기차 충돌안전부품 기술센터’ 준공 www.newsgb.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNHc2VUtQcXNhOU1JcmVZcnk3dXJhbG1nSVNzaDBEQ2k4T3dITWV1bFVSbVExeHRGS2FaelMyamxZa0xKbFgtb1VNWUs4ZUVNclVXRC1uZWRKMExNTHFCdw?oc=5",
-      "date": "Fri, 20 Nov 2026 09:30:09 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.dongponews.net/news/articleView.html?idxno=61798": {
       "title": "경북, 포항 에 5성급 호텔·리조트 4800억 투자유치...동해안 관광판 바꾼...",
       "summary": "송도지구에서는 코모도호텔이 1167억원을 투자해 211실 규모의 특급호텔 신축을 추진하고 있으며, 영일대지구에서도 220실 규모의 4성급 호텔 건립 이 진행 중이다. 세 사업이 계획대로 추진되면 포항 3개 지구에 총 816실...",
@@ -2790,6 +2676,45 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257": {
+      "title": "“공연 매출 82.7% 수도권 집중”… 대구 시의회, 두류공원 돔구장 선정 촉...",
+      "summary": "대구 시의회가 공연·체육시설의 수도권 집중을 해소하기 위해 대구 두류공원을 복합 돔구장 건립 후보지로 선정해 달라고 정부에 촉구했다. 지난해 공연 티켓 판매액의 82.7%가 수도권에 집중된 만큼 국가균형발전을...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257",
+      "date": "Sun, 22 Nov 2026 18:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4120103": {
+      "title": "대구 시, '2026년 대구 중소기업인대회' 개최… 지역경제 주역 25개사 시...",
+      "summary": "수상 기업에는 육성자금 우대와 해외 전시·박람회 참가 우선 지원, 지방세 세무조사 유예 또는 차년도 지원금 우대 등의 혜택이 주어집니다. 추경호 대구 시장은 \"중소기업은 대구 경제를 지탱해 온 뿌리\"라며 \"어려운...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120103",
+      "date": "Sun, 22 Nov 2026 18:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xVVdzREJ3Q1k5RVN5WjN2R3BYWVlmRWJhRzdvZUlPcWdIa3ZnTHBSTnVOTi1MSjdpeXlFYVRscF91M3NEWjdrYk1wWGEwMFp0T05zUVJEaDBkbk9yWGRSVS0zMzdxZ3VSSFE?oc=5": {
+      "title": "경북 경산에 '전기차 충돌안전부품 기술센터' 준공 - 경북구미신문",
+      "summary": "경북 경산에 '전기차 충돌안전부품 기술센터' 준공 경북구미신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xVVdzREJ3Q1k5RVN5WjN2R3BYWVlmRWJhRzdvZUlPcWdIa3ZnTHBSTnVOTi1MSjdpeXlFYVRscF91M3NEWjdrYk1wWGEwMFp0T05zUVJEaDBkbk9yWGRSVS0zMzdxZ3VSSFE?oc=5",
+      "date": "Sun, 22 Nov 2026 09:15:39 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -2811,16 +2736,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090060",
-      "title": "대구 서문시장 4지구 재건축, 토지 수용 절차 착수",
-      "date": "Sun, 08 Nov 2026 18:50:00 +0900"
-    },
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047",
-      "title": "대구 시의회, 9일 행감 돌입…노후 건물 안전·미분양 대책 검증",
-      "date": "Sun, 08 Nov 2026 18:18:00 +0900"
-    },
     {
       "url": "http://www.snmnews.com/news/articleView.html?idxno=577085",
       "title": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 \"교섭·쟁의 ...",
@@ -7470,6 +7385,16 @@
       "url": "https://www.kbmaeil.com/article/20261122500521",
       "title": "근로자 58명 임금·퇴직금 7억 체불… 포항 요양병원 대표 구속",
       "date": "Sun, 22 Nov 2026 16:40:00 +0900"
+    },
+    {
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120103",
+      "title": "대구 시, '2026년 대구 중소기업인대회' 개최… 지역경제 주역 25개사 시...",
+      "date": "Sun, 22 Nov 2026 18:52:00 +0900"
+    },
+    {
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257",
+      "title": "“공연 매출 82.7% 수도권 집중”… 대구 시의회, 두류공원 돔구장 선정 촉...",
+      "date": "Sun, 22 Nov 2026 18:46:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7511,7 +7436,7 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 5
+    "2026-11-22": 6
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
