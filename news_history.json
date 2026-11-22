@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090060": "2026-11-08T19:01:55.308845+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090047": "2026-11-08T19:01:55.308845+09:00",
     "http://www.snmnews.com/news/articleView.html?idxno=577085": "2026-11-08T20:01:50.599056+09:00",
     "https://www.cstimes.com/news/articleView.html?idxno=727046": "2026-11-08T21:01:44.109079+09:00",
     "https://www.ksmnews.co.kr/news/view.php?idx=628791": "2026-11-08T21:01:44.109079+09:00",
@@ -936,8 +934,6 @@
     "https://www.edaily.co.kr/News/Read?newsId=01889286645648344&mediaCodeNo=257": "2026-11-22T19:07:16.292517+09:00"
   },
   "titles": {
-    "ff4ca39d8b0b266eab5dec88aaa5aec65b587ee0e6a269342b50036973ddb34f": "2026-11-08T19:01:55.308845+09:00",
-    "b6c0a9e85c825332efa44fea18cc1231815f3e4bace6fbbc012ae7fc51c08fbe": "2026-11-08T19:01:55.308845+09:00",
     "2036dca75445f5e3f2b03d57620bbcf426d779b332e9c4cd5c8d7ce00483f38e": "2026-11-08T20:01:50.599056+09:00",
     "8bcedc5f16f8f27fb0e78dbcef187fe7e8572ee82dd4898c240e5b3963a15693": "2026-11-08T21:01:44.109079+09:00",
     "f91ad7654f182f737266bc02c1fd0da4b93e66ef8ffcef27847048604d7a40e1": "2026-11-08T21:01:44.109079+09:00",
@@ -1883,32 +1879,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.dongponews.net/news/articleView.html?idxno=61798": {
-      "title": "경북, 포항 에 5성급 호텔·리조트 4800억 투자유치...동해안 관광판 바꾼...",
-      "summary": "송도지구에서는 코모도호텔이 1167억원을 투자해 211실 규모의 특급호텔 신축을 추진하고 있으며, 영일대지구에서도 220실 규모의 4성급 호텔 건립 이 진행 중이다. 세 사업이 계획대로 추진되면 포항 3개 지구에 총 816실...",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=61798",
-      "date": "Fri, 20 Nov 2026 19:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.mt.co.kr/industry/2026/11/20/2026112018233126305": {
-      "title": "포스코 , 임단협 잠정합의안 재도출…\"철강 위기 극복 뜻 모아\"",
-      "summary": "포스코 노사가 20일 2026년 임금·단체협약 잠정합의안을 다시 도출했다. 이번 잠정합의안에는 지난... 앞서 포스코 노사는 지난 6월 상견례를 시작으로 수차례 교섭을 진행했고, 지난달 30일 잠정합의안을 도출했다....",
-      "url": "https://www.mt.co.kr/industry/2026/11/20/2026112018233126305",
-      "date": "Fri, 20 Nov 2026 19:05:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://view.asiae.co.kr/article/2026112019585385429": {
       "title": "포항 환호지구에 4800억 들여 5성급 호텔·프리미엄 리조트 건립",
       "summary": "경북도는 20일 도청 회의실에서 포항 시, 한화호텔앤드리조트㈜, 포항 하나원㈜과 환호지구 관광숙박시설 건립을 위한 투자 업무 협약 을 체결했다. 협약 식에는 이철우 경북도지사와 박용선 포항 시장, 최석진...",
@@ -2736,11 +2706,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "http://www.snmnews.com/news/articleView.html?idxno=577085",
-      "title": "[종합] 포스코 노사, 극적 합의 8일 만에 다시 갈등…노조 \"교섭·쟁의 ...",
-      "date": "Sun, 08 Nov 2026 20:00:00 +0900"
-    },
     {
       "url": "https://www.cstimes.com/news/articleView.html?idxno=727046",
       "title": "한수원, 청정수소 포럼 개최·합천양수 주민 현장견학 시행",
