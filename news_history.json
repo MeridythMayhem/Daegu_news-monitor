@@ -1,6 +1,5 @@
 {
   "sent": {
-    "http://www.sisafocus.co.kr/news/articleView.html?idxno=367307": "2026-11-08T13:01:56.261875+09:00",
     "https://www.greened.kr/news/articleView.html?idxno=354109": "2026-11-08T14:02:17.836385+09:00",
     "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229645": "2026-11-08T14:02:17.836385+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odDNjZmhMTFBRZ3dydUlwZUN0VU50SHpVcHVSaVhpdjlNMk93dDBzYV8tN056VDJwUGVvMUs4Vkx6UDZxX1RPM19JZGhKd1NQVl9hS3FPQk9vWDZ3aG1tVVY5ZErSAWdBVV95cUxObjFOSWxGY2dKWEY5ZWh4YkY2dVZGOVhjSnljVVdINEMwbkhjVnpnR0F0TDVYZ1BneTcxQWVINWJHM1JhOTB0Xzl3WnBTM0l0QWg0X2k5WXpYa0U4ei1DSnlxaGFlalc4?oc=5": "2026-11-08T14:02:17.836385+09:00",
@@ -946,10 +945,10 @@
     "https://www.nocutnews.co.kr/news/6610588": "2026-11-22T11:08:57.213094+09:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQkNIaTBGdkQ2XzdFdWphWlhJWFljdVVLd1BMT05OSy1xQ0trcVJwbTlGT2dYNVNLaWtuTGtoempISjBoN2lEZlBkbWJFeDdhZWxBS0lpb243MGJ1Z0I5Y1lDNDFWR0s4Q3c?oc=5": "2026-11-22T12:09:20.095699+09:00",
     "https://www.khan.co.kr/article/202611221101001": "2026-11-22T12:09:20.095699+09:00",
-    "https://www.kbmaeil.com/article/20261122500316": "2026-11-22T13:07:57.576889+09:00"
+    "https://www.kbmaeil.com/article/20261122500316": "2026-11-22T13:07:57.576889+09:00",
+    "https://www.segye.com/newsView/20261122505512?OutUrl=naver": "2026-11-22T14:09:12.321658+09:00"
   },
   "titles": {
-    "9405bd0d46dfe9c380e4721c305f00aefa77bc3a82ecdd480e4ea0234734fa0f": "2026-11-08T13:01:56.261875+09:00",
     "7495f634ebbd2991b394cb16b580c6d0a7afd9109a732918677d8a7affb5755f": "2026-11-08T14:02:17.836385+09:00",
     "bf9052d1386acbf6755e1b1b32ad71cfb17b678cda4012a68d9ea6309a61e36f": "2026-11-08T14:02:17.836385+09:00",
     "966c7f8b7110800b4bad887d4b6929d485c457545b8073aa745b471e0809e05a": "2026-11-08T14:02:17.836385+09:00",
@@ -1895,7 +1894,8 @@
     "ce94b89eda9e997e579f8f13caa154af56fa9b54b432f9ab5e98508141a94217": "2026-11-22T11:08:57.213094+09:00",
     "3a1ac3f12eb516c6e592de2d6954dd37bb703ec698d79f844a646d164352a68c": "2026-11-22T12:09:20.095699+09:00",
     "105aed8c8c26d4fe3864af6875d1916bd3b349a9cd24eddd4e7e6ed118307d12": "2026-11-22T12:09:20.095699+09:00",
-    "d7b3276eb1227f41d53a1ca2d3854c1b2c4791cf3ab1699c3a392c9569829165": "2026-11-22T13:07:57.576889+09:00"
+    "d7b3276eb1227f41d53a1ca2d3854c1b2c4791cf3ab1699c3a392c9569829165": "2026-11-22T13:07:57.576889+09:00",
+    "4fa84143d847436f5740e0deef4493f3f33c0a913a156951bdf32ae15e0167e7": "2026-11-22T14:09:12.321658+09:00"
   },
   "pending": {},
   "ai": {
@@ -1905,24 +1905,10 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 1
+    "2026-11-22": 2
   },
   "cursor": 0,
   "archive": {
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085815": {
-      "title": "포스코 노조, 포항 취약계층 청소년·학대피해아동에 1억원 후원",
-      "summary": "포스코 노동조합이 포항지역 취약계층 청소년과 학대피해아동을 위해 1억원의 후원금을 마련했다. 경제적... 경북 포항시는 지난 19일 시청 대외협력실에서 포스코 노동조합의 '철든 장학금'과 '드림 울타리 프로젝트...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085815",
-      "date": "Fri, 20 Nov 2026 13:36:00 +0900",
-      "channels": [
-        "domestic",
-        "local_media"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.agrinet.co.kr/news/articleView.html?idxno=408978": {
       "title": "경북 포도 수출 두 배로…전국 1억 달러 돌파 견인",
       "summary": "행사에서는 샤인머스캣·글로리스타 등 생과와 가공 제품을 선보였다. 경북 도는 앞으로 수출용 물량 확보와 품질관리, 바이어 사후관리에 힘써 거래 를 늘릴 계획이다. 국내 수급 안정도 함께 챙긴다. 양금희 경북 도...",
@@ -3067,6 +3053,46 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.imaeil.com/page/view/2026112208451273402": {
+      "title": "전기차 충돌·화재 안전성 검증…경산에 222억원 규모 기술센터 준공",
+      "summary": "전기차 충돌에 따른 배터리 파손과 화재 위험 등을 검증할 수 있는 전문 시험·평가 시설이 경북 경산에... 센터는 연면적 1천360㎡ 규모로 건립 됐으며 가상설계 해석 시스템과 3차원 역설계 시스템, 레이저 용접 장비 등...",
+      "url": "https://www.imaeil.com/page/view/2026112208451273402",
+      "date": "Sun, 22 Nov 2026 13:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.segye.com/newsView/20261122505512?OutUrl=naver": {
+      "title": "포항 에 5성급 호텔·리조트 건립 청신호… 투자 업무 협약 체결",
+      "summary": "경북도· 포항 시·한화호텔앤드리조트· 포항 하나원, 20일 4자 투자 업무 협약 체결 환호공원 인근 5성급 호텔 160실·프리미엄 리조트 225실 짓고 상업시설 조성 환호·송도·영일대지구 등 3개 지구에서 총 816실 특급호텔 객실...",
+      "url": "https://www.segye.com/newsView/20261122505512?OutUrl=naver",
+      "date": "Sun, 22 Nov 2026 13:03:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086244": {
+      "title": "경산시, 전기차 충돌안전부품 기술센터 준공…미래차 산업 지원",
+      "summary": "하인성 경북 테크노파크 원장, 윤칠석 경북 IT융합산업기술원장, 지역 자동차부품 기업 관계자 등 70여명이... 핵심 부품이 '경산'의 이름으로 전 세계를 누비는 출발점이 되도록 적극 지원하겠다\"고 밝혔다. [신아 일보 ] 경산",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086244",
+      "date": "Sun, 22 Nov 2026 13:50:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3088,21 +3114,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-22",
   "sent_articles": [
-    {
-      "url": "https://www.greened.kr/news/articleView.html?idxno=354109",
-      "title": "'가스배관은 묻고 의혹은 덮나'… 한국가스공사 ·금호건설·공주시 책임...",
-      "date": "Sun, 08 Nov 2026 13:50:00 +0900"
-    },
-    {
-      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229645",
-      "title": "포스코 노조, 임금 잠정합의안 부결…노사 갈등 장기화 조짐",
-      "date": "Sun, 08 Nov 2026 13:30:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5odDNjZmhMTFBRZ3dydUlwZUN0VU50SHpVcHVSaVhpdjlNMk93dDBzYV8tN056VDJwUGVvMUs4Vkx6UDZxX1RPM19JZGhKd1NQVl9hS3FPQk9vWDZ3aG1tVVY5ZErSAWdBVV95cUxObjFOSWxGY2dKWEY5ZWh4YkY2dVZGOVhjSnljVVdINEMwbkhjVnpnR0F0TDVYZ1BneTcxQWVINWJHM1JhOTB0Xzl3WnBTM0l0QWg0X2k5WXpYa0U4ei1DSnlxaGFlalc4?oc=5",
-      "title": "삼성SDS, 구미 AI 데이터센터 착공… 삼성 영남권 60조원 투자 계획 실행 - 국민기자뉴스",
-      "date": "Sun, 08 Nov 2026 04:05:00 GMT"
-    },
     {
       "url": "https://www.khan.co.kr/article/202611081456001",
       "title": "청와대 국정상황실장에 김태근 자치발전비서관 승진 기용…‘인재 풀 제...",
@@ -7817,6 +7828,11 @@
       "url": "https://www.kbmaeil.com/article/20261122500316",
       "title": "경북 도 전기차 충돌 안전 부품 기술센터 준공...미래차 안전 기술 거점...",
       "date": "Sun, 22 Nov 2026 12:48:00 +0900"
+    },
+    {
+      "url": "https://www.segye.com/newsView/20261122505512?OutUrl=naver",
+      "title": "포항 에 5성급 호텔·리조트 건립 청신호… 투자 업무 협약 체결",
+      "date": "Sun, 22 Nov 2026 13:03:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7858,7 +7874,7 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 1
+    "2026-11-22": 2
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
