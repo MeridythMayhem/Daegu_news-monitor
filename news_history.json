@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.ppss.kr/news/articleView.html?idxno=319804": "2026-11-09T13:02:01.170796+09:00",
     "https://www.naeil.com/news/read/608108?ref=naver": "2026-11-09T14:01:43.133966+09:00",
     "https://www.getnews.co.kr/news/articleView.html?idxno=886485": "2026-11-09T14:01:43.133966+09:00",
     "http://www.breaknews.com/1249355": "2026-11-09T14:01:43.133966+09:00",
@@ -941,10 +940,10 @@
     "https://news.bbsi.co.kr/news/articleView.html?idxno=4120181": "2026-11-23T13:02:12.852862+09:00",
     "https://www.kizmom.com/news/articleView.html?idxno=114150": "2026-11-23T13:02:12.852862+09:00",
     "https://www.joongdo.co.kr/web/view.php?key=20261123010007583": "2026-11-23T13:02:12.852862+09:00",
-    "https://www.tournews21.com/news/articleView.html?idxno=149106": "2026-11-23T13:02:12.852862+09:00"
+    "https://www.tournews21.com/news/articleView.html?idxno=149106": "2026-11-23T13:02:12.852862+09:00",
+    "http://fpn119.co.kr/259853": "2026-11-23T14:09:19.495994+09:00"
   },
   "titles": {
-    "ad6af88dd1e0767d3d1ac1d6115be16ca74d9c832542fa91565b2a70301b282a": "2026-11-09T13:02:01.170796+09:00",
     "33148df22b63183a20236d1855faba76b5b8021824b41bf730d9f8009a140f86": "2026-11-09T14:01:43.133966+09:00",
     "ab2ddd9ea917042b0924438b68d4ea4c5143bff215a6cabf24aa35f0f9d0ff26": "2026-11-09T14:01:43.133966+09:00",
     "d7304af44cac3bad84d67b41f961eb9365830697497ae8e4e5953328fc0739f4": "2026-11-09T14:01:43.133966+09:00",
@@ -1885,7 +1884,8 @@
     "a7686730def55e66884274505fab75945cc3559e7a2cdd0ba6f999c69be2840f": "2026-11-23T13:02:12.852862+09:00",
     "2b39b355d808c443103e08ed5b3b82a3f54c66d51fa04059b0296b3167247379": "2026-11-23T13:02:12.852862+09:00",
     "7dcae78097476e2cbedd2e6aaac1d6420e598ae586935bf6bb4479a3a524dc40": "2026-11-23T13:02:12.852862+09:00",
-    "93f358adc69e712b8fde1e4b41a6a2f2a3957664d869a16a535eda2d3de00d03": "2026-11-23T13:02:12.852862+09:00"
+    "93f358adc69e712b8fde1e4b41a6a2f2a3957664d869a16a535eda2d3de00d03": "2026-11-23T13:02:12.852862+09:00",
+    "6f573d198a70ba501dfc2a9ca3ca3a7f4547d9963b0edba6ff530d82b08d107e": "2026-11-23T14:09:19.495994+09:00"
   },
   "pending": {},
   "ai": {
@@ -1895,7 +1895,7 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 5
+    "2026-11-23": 7
   },
   "cursor": 0,
   "archive": {
@@ -3135,6 +3135,45 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "http://fpn119.co.kr/259853": {
+      "title": "경북 칠곡군 공장 화재 … 재산피해 5천만원",
+      "summary": "= 21일 오후 2시 4분께 경북 칠곡군 왜관읍의 한 공장 내부 플라스틱 압출기에서 화재 가 발생했다. 소방은 인원 36명과 장비 13대를 동원해 1시간 2분 만인 오후 3시 6분께 완진했다. 이 화재 로 공장 1개 동 약 33㎡가...",
+      "url": "http://fpn119.co.kr/259853",
+      "date": "Mon, 23 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.breaknews.com/1253038": {
+      "title": "경산 전기차 충돌안전부품 기술센터 준공…미래차 산업 전환 ‘속도’",
+      "summary": "전기차 배터리 결함이나 화재 같은 소비자 불안이 이어지면서, 배터리 및 탑승자... that will carry the name of Gyeongsan across the globe.\" 원본 기사 보기:브레이크뉴스 대구 경북",
+      "url": "http://www.breaknews.com/1253038",
+      "date": "Mon, 23 Nov 2026 13:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://kpenews.com/View.aspx?No=4324953": {
+      "title": "한수원·두산에너빌리티 등 팀코리아 결집..체코 원전 적기 준공 약속",
+      "summary": "한국수력원자력 과 두산에너빌리티를 비롯해 한국전력기술·한전원자력연료·한전KPS가 성명서에 이름을 올렸다. 지난달 대우건설-두산에너빌리티와 시공 계약 협상이 결렬된 여파다. 두코바니 5·6호기 건설은 양국...",
+      "url": "https://kpenews.com/View.aspx?No=4324953",
+      "date": "Mon, 23 Nov 2026 13:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3156,31 +3195,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-23",
   "sent_articles": [
-    {
-      "url": "https://www.naeil.com/news/read/608108?ref=naver",
-      "title": "신임 국세청 장에 안덕수 서울청장 내정",
-      "date": "Mon, 09 Nov 2026 13:04:00 +0900"
-    },
-    {
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886485",
-      "title": "포항 시, 미국 유통 거점 '한남체인'과 수출 MOU 체결… 북미 시장 진출 ...",
-      "date": "Mon, 09 Nov 2026 13:56:00 +0900"
-    },
-    {
-      "url": "http://www.breaknews.com/1249355",
-      "title": "포항시, 미국 한남체인과 수출 협약…농수산식품 북미 판로 확대",
-      "date": "Mon, 09 Nov 2026 13:54:00 +0900"
-    },
-    {
-      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51378",
-      "title": "포스코 미술관 광양, 파노라마 워크 준공 기념전 개최",
-      "date": "Mon, 09 Nov 2026 13:30:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ0dBSF9oVnF5aHU0UGhtejlRTkhWbmYtU0x0VGZ2UGxLaXktZTFQRzhNYW5TYWVqWWZ4dU1pM2xnRFZFRkx1MmU5NGEyQXRqTGFqem9XOXVmWGs?oc=5",
-      "title": "안동시청 직원들, 경북 국립의대 신설 확정 함께 축하 - 경북뉴스",
-      "date": "Mon, 09 Nov 2026 04:05:45 GMT"
-    },
     {
       "url": "https://www.kmib.co.kr/article/20261109500826",
       "title": "대형 산불로 공장 잃은 식품업체, 595일만에 안동에 새 공장 준공",
@@ -7860,6 +7874,11 @@
       "url": "https://www.tournews21.com/news/articleView.html?idxno=149106",
       "title": "스페이스워크 옆에 특급호텔 선다… 포항 환호지구 4,800억 투자 유치",
       "date": "Mon, 23 Nov 2026 12:04:00 +0900"
+    },
+    {
+      "url": "http://fpn119.co.kr/259853",
+      "title": "경북 칠곡군 공장 화재 … 재산피해 5천만원",
+      "date": "Mon, 23 Nov 2026 13:02:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7901,7 +7920,7 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 4
+    "2026-11-23": 5
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
