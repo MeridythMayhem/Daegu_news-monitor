@@ -934,7 +934,10 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=566117": "2026-11-22T22:08:54.755121+09:00",
     "https://www.yeongnam.com/web/view.php?key=20261122022131343": "2026-11-22T22:08:54.755121+09:00",
     "https://www.yeongnam.com/web/view.php?key=20261122022261472": "2026-11-22T22:08:54.755121+09:00",
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5": "2026-11-22T23:09:12.520976+09:00"
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5": "2026-11-22T23:09:12.520976+09:00",
+    "https://www.newsis.com/view/NISX20261123_0003878601": "2026-11-23T09:09:04.059342+09:00",
+    "https://www.news1.kr/local/daegu-gyeongbuk/6362286": "2026-11-23T09:09:04.059342+09:00",
+    "https://www.news1.kr/photos/8227333": "2026-11-23T09:09:04.059342+09:00"
   },
   "titles": {
     "d6b4998e89316b4b856a0b238fb2526c7d69c3ff2ffb1ff17d3f81abe3863772": "2026-11-09T09:01:56.464971+09:00",
@@ -1871,7 +1874,10 @@
     "e15aa8e696d14d3f8b559d4b161b807eb68a58efa8365fbef6a6507b7127c19c": "2026-11-22T22:08:54.755121+09:00",
     "370a4c2446f9a37e7a20c81a30c8601dd4a39db436d40d84974aab80ec569fda": "2026-11-22T22:08:54.755121+09:00",
     "42e76bcd7575bc9b44cecdeebdb79e1661e268fd9e62168a0133357ccb1344ad": "2026-11-22T22:08:54.755121+09:00",
-    "3d01d09e6d042c0e39b9fd9cc9260e56773a4ec4386aecd5524dada52ceae39d": "2026-11-22T23:09:12.520976+09:00"
+    "3d01d09e6d042c0e39b9fd9cc9260e56773a4ec4386aecd5524dada52ceae39d": "2026-11-22T23:09:12.520976+09:00",
+    "aafe6fa454df2976b8976a0abc87baadb0a7504e38a63f94f4be6c518b0362c6": "2026-11-23T09:09:04.059342+09:00",
+    "2df3d582d4422174fb3fb07b1b3956aef3ab1d58f371bf2d447047286ba09cf5": "2026-11-23T09:09:04.059342+09:00",
+    "a69005d9e1921303065f282515e2b56bfda2e231f57fb23ae053fdddeb851a98": "2026-11-23T09:09:04.059342+09:00"
   },
   "pending": {},
   "ai": {
@@ -1880,23 +1886,11 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 9
+    "2026-11-22": 9,
+    "2026-11-23": 1
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5": {
-      "title": "경북도립미술관 건립 방향 구체화...'제8차 경북 문화관광 워킹그룹' 한자리 - 경북신문",
-      "summary": "경북도립미술관 건립 방향 구체화...'제8차 경북 문화관광 워킹그룹' 한자리 경북신문",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTVhhT00yel9aMUZabjhINXhqTkstMWVFRzNFMDBTNmtrMjdaVlVaamc2aVNhcGlWNktzVUdSMnE1eG5PQU0zX2V3cjFKb21NbU53MmgtcWk?oc=5",
-      "date": "Fri, 20 Nov 2026 23:32:51 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.gokorea.kr/news/articleView.html?idxno=886704": {
       "title": "포스코 노사 협상 극적 타결, 2.6% 임금 인상과 파업 종결의 비밀",
       "summary": "포스코 의 노사 협상이 기본 임금 인상률 2.6%를 중심으로 한 임금 협상에서 잠정 합의를 이뤘다. 이번 합의는... 포스코 노동조합은 이 잠정 합의안을 바탕으로 28일 조합원 찬반 투표를 통해 최종 결정을 내릴 예정이며...",
@@ -2756,6 +2750,84 @@
       "category": "자본이동",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3759678": {
+      "title": "경북 도, 전기차 충돌안전부품 기술센터 준공…미래차 전환 가속",
+      "summary": "센터 건립 과 기업 기술력 향상에 2027년까지 총 222억 원이 투입된다. (제공= 경북 도) 김민석 정책실장 \"미래차 전환·충돌안전 기술경쟁력 강화 지원\" xEV 보호차체는 전기차 배터리를 보호하는 배터리 케이스와 하부 프레임...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759678",
+      "date": "Mon, 23 Nov 2026 08:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.metroseoul.co.kr/article/20261122500310": {
+      "title": "경북 도, 경산에 전기차 충돌안전부품 기술센터 준공…부품기업 미래차...",
+      "summary": "센터는 자동차안전도평가(KNCAP)에 대응해 전기차 하부 직접 충돌 검증 시스템과 충돌 후 배터리 파손· 화재 를 평가하는 지연 화재 안전성 평가 시스템도 구축한다. 경북 도는 내연차 중심의 차체·섀시 부품기업이 xEV...",
+      "url": "http://www.metroseoul.co.kr/article/20261122500310",
+      "date": "Mon, 23 Nov 2026 08:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.etoday.co.kr/news/view/2651427": {
+      "title": "경산시 '전기차 충돌안전부품기술센터' 준공",
+      "summary": "하인성 경북 테크노파크 원장 등 100여 명이 참석했다. 기술센터는 2023년 4월 산업통상부 공모에 선정된 'xEV 보호차체얼라이언스 기업지원 플랫폼 구축' 사업으로 연면적 1360㎡ 규모로 건립 됐다. 센터 건립 과 기업 기술...",
+      "url": "https://www.etoday.co.kr/news/view/2651427",
+      "date": "Mon, 23 Nov 2026 08:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6362286": {
+      "title": "신문 포장재 놓고 지역감정 논란…경산 茶 판매업체 '곤혹'",
+      "summary": "경북 경산시의 한 차(茶) 판매업체가 택배 포장재로 사용한 신문 한 장을 두고 지역감정 논란이 벌어지고... 다른 누리꾼은 \"신문 구매 내역 인증해 주시면 될 것 같은데요\"라며 업체 측에 해명 을 요구 했다. 반면 지나친...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6362286",
+      "date": "Mon, 23 Nov 2026 08:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/photos/8227333": {
+      "title": "권오을 장관 \" 대구 독립기념관 건립 면밀히 들여다 볼 것\"",
+      "summary": "권오을 국가보훈부 장관이 23일 오전 대구 남구 이천동 대구 아트파크에서 열린 아시아포럼21 초청 토론회에서 모두 발언을 하고 있다. 2026.11.23/뉴스1",
+      "url": "https://www.news1.kr/photos/8227333",
+      "date": "Mon, 23 Nov 2026 08:41:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISX20261123_0003878601": {
+      "title": "율촌, 포스코 와 폴란드 자동차강판 공급 확대 MOU",
+      "summary": "정밀냉간인발튜브(인발강관) 전문기업 율촌은 포스코 와 폴란드 법인향 자동차강판 공급 확대와 장기적인... 이흥해 율촌 대표이사와 김윤호 포스코 자동차강판판매그룹장 등이 참석했다. 이번 협약의 핵심은 율촌...",
+      "url": "https://www.newsis.com/view/NISX20261123_0003878601",
+      "date": "Mon, 23 Nov 2026 08:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -2777,11 +2849,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-23",
   "sent_articles": [
-    {
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234",
-      "title": "포스코 임금협상 잠정합의안 부결…노조, 9일 대책회의 개최",
-      "date": "Mon, 09 Nov 2026 08:18:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5",
       "title": "의성군, 바이오푸드밸리 455억 원 투자유치…신규 일자리 83개 창출 - 열린뉴스통신",
@@ -7451,6 +7518,21 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5",
       "title": "포항 환호지구에 '5성급 호텔·프리미엄 리조트' 들어선다… 4,800억 원 투자·2031년 완공 목표 - 폴리뉴스 Polinews",
       "date": "Sun, 22 Nov 2026 13:44:59 GMT"
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261123_0003878601",
+      "title": "율촌, 포스코 와 폴란드 자동차강판 공급 확대 MOU",
+      "date": "Mon, 23 Nov 2026 08:52:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6362286",
+      "title": "신문 포장재 놓고 지역감정 논란…경산 茶 판매업체 '곤혹'",
+      "date": "Mon, 23 Nov 2026 08:46:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/photos/8227333",
+      "title": "권오을 장관 \" 대구 독립기념관 건립 면밀히 들여다 볼 것\"",
+      "date": "Mon, 23 Nov 2026 08:41:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7491,7 +7573,8 @@
     "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
-    "2026-11-22": 9
+    "2026-11-22": 9,
+    "2026-11-23": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
