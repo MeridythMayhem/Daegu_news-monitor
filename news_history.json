@@ -1,10 +1,5 @@
 {
   "sent": {
-    "https://www.naeil.com/news/read/608108?ref=naver": "2026-11-09T14:01:43.133966+09:00",
-    "https://www.getnews.co.kr/news/articleView.html?idxno=886485": "2026-11-09T14:01:43.133966+09:00",
-    "http://www.breaknews.com/1249355": "2026-11-09T14:01:43.133966+09:00",
-    "http://www.ferrotimes.com/news/articleView.html?idxno=51378": "2026-11-09T14:01:43.133966+09:00",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NZ0dBSF9oVnF5aHU0UGhtejlRTkhWbmYtU0x0VGZ2UGxLaXktZTFQRzhNYW5TYWVqWWZ4dU1pM2xnRFZFRkx1MmU5NGEyQXRqTGFqem9XOXVmWGs?oc=5": "2026-11-09T14:01:43.133966+09:00",
     "https://www.kmib.co.kr/article/20261109500826": "2026-11-09T15:02:07.040787+09:00",
     "https://news.dealsitetv.com/articles/178273": "2026-11-09T15:02:07.040787+09:00",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYlIzaFZtTnBOWkg0WUpibVIwSkkzd2s2bjhHblZJQ2RMdVJLSUFpNnBveExYTWRlazBnbW1LaUJ0UFNPdThQUEJBVUpCbXd4WTJiNmtadTlnbGFQT2F6WUYwRHBmcDVBRXQ2aHRKZkpMSHIzUFpjZHNHUmNXY1ZQN0hIeTNsRm5OVG12Q3IwT0JRSzdUbXNBSVFJeENlNXVWY1JwODR0MndLUjI4R2dWcTRIajdMcjk1UjVEZzROZHV6X3pHZGNIdGNzZnE1UTZWUVl6T1c4VlVMUWxoS2VJNThUQXZiVDQ?oc=5": "2026-11-09T15:02:07.040787+09:00",
@@ -941,14 +936,14 @@
     "https://www.kizmom.com/news/articleView.html?idxno=114150": "2026-11-23T13:02:12.852862+09:00",
     "https://www.joongdo.co.kr/web/view.php?key=20261123010007583": "2026-11-23T13:02:12.852862+09:00",
     "https://www.tournews21.com/news/articleView.html?idxno=149106": "2026-11-23T13:02:12.852862+09:00",
-    "http://fpn119.co.kr/259853": "2026-11-23T14:09:19.495994+09:00"
+    "http://fpn119.co.kr/259853": "2026-11-23T14:09:19.495994+09:00",
+    "https://www.imaeil.com/page/view/2026112313563176624": "2026-11-23T15:09:09.693200+09:00",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=240287": "2026-11-23T15:09:09.693200+09:00",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=240284": "2026-11-23T15:09:09.693200+09:00",
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287085&CMPT_CD=P0010": "2026-11-23T15:09:09.693200+09:00",
+    "https://www.news1.kr/local/daegu-gyeongbuk/6362926": "2026-11-23T15:09:09.693200+09:00"
   },
   "titles": {
-    "33148df22b63183a20236d1855faba76b5b8021824b41bf730d9f8009a140f86": "2026-11-09T14:01:43.133966+09:00",
-    "ab2ddd9ea917042b0924438b68d4ea4c5143bff215a6cabf24aa35f0f9d0ff26": "2026-11-09T14:01:43.133966+09:00",
-    "d7304af44cac3bad84d67b41f961eb9365830697497ae8e4e5953328fc0739f4": "2026-11-09T14:01:43.133966+09:00",
-    "119980ba62920dd40521fb0859f9f1cbd22b96e0f1c44ce68235cae58facfa59": "2026-11-09T14:01:43.133966+09:00",
-    "745f4dbdcf8a8d7930685b188e3c2fb280853ff0ecaa1448af18d3ff4661dc70": "2026-11-09T14:01:43.133966+09:00",
     "4f984ceb38925a48cb1a2877bb5afb3782da11f39b13943ba886260ac8b86b36": "2026-11-09T15:02:07.040787+09:00",
     "553979a974f9ad7b912d274941f01501d8a7640b2f4733beaebbbcfd949a092c": "2026-11-09T15:02:07.040787+09:00",
     "2f54bd72d5d5ca120267c9eed077a6a3f8f626f4f9975d11d2feff463d113a55": "2026-11-09T15:02:07.040787+09:00",
@@ -1885,7 +1880,12 @@
     "2b39b355d808c443103e08ed5b3b82a3f54c66d51fa04059b0296b3167247379": "2026-11-23T13:02:12.852862+09:00",
     "7dcae78097476e2cbedd2e6aaac1d6420e598ae586935bf6bb4479a3a524dc40": "2026-11-23T13:02:12.852862+09:00",
     "93f358adc69e712b8fde1e4b41a6a2f2a3957664d869a16a535eda2d3de00d03": "2026-11-23T13:02:12.852862+09:00",
-    "6f573d198a70ba501dfc2a9ca3ca3a7f4547d9963b0edba6ff530d82b08d107e": "2026-11-23T14:09:19.495994+09:00"
+    "6f573d198a70ba501dfc2a9ca3ca3a7f4547d9963b0edba6ff530d82b08d107e": "2026-11-23T14:09:19.495994+09:00",
+    "0e689c5ab7e2b542c0e658f5558ad61eb62c00ced6e8dcd2213cad2f5d9fa4ca": "2026-11-23T15:09:09.693200+09:00",
+    "7f2de4b3eced689e7a68d0da66b5d0ac09d6f2cb90fee10b6ad278b3af45cde8": "2026-11-23T15:09:09.693200+09:00",
+    "3b32c04ee1639575c534ebe3a7c9506c5766ded6eb939c2dd48b58c497634099": "2026-11-23T15:09:09.693200+09:00",
+    "d82722b2cd9512b3006875161827596c1d1b2997b5eaae77f546bd2dd3e957ea": "2026-11-23T15:09:09.693200+09:00",
+    "0c3fb41dfb01c487ce7bf6b087653e98129ac3dae3102920696147b5767a3cd8": "2026-11-23T15:09:09.693200+09:00"
   },
   "pending": {},
   "ai": {
@@ -1895,23 +1895,10 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 7
+    "2026-11-23": 8
   },
   "cursor": 0,
   "archive": {
-    "https://view.asiae.co.kr/article/2026112111551459803": {
-      "title": "문경시, 공공열분해시설 재검증…313억 투자 타당성 시험대",
-      "summary": "경북 문경시가 313억원 규모의 공공열분해 시설 설치사업에 대한 타당성 재검토에 들어갔다. 원료 수급의... 안전성 분야에서는 국내 열분해 시설의 화재 ·폭발 사고 사례 등을 토대로 시설 운영과 관리에 따른 위험 및...",
-      "url": "https://view.asiae.co.kr/article/2026112111551459803",
-      "date": "Sat, 21 Nov 2026 14:13:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.newsis.com/view/NISX20261121_0003877773": {
       "title": "경주 아파트서 조명 교체하던 50대 추락 사…중대재해법 조사",
       "summary": "21일 고용노동부에 따르면 전날 오후 2시57분께 경북 경주시 소재 아파트에서 대원종합관리 소속 노동자 A(55)씨가 추락 하는 사고 가 발생했다. A씨는 아파트 1층 천장 조명을 교체하던 중 이동식 사다리가 펼쳐지면서 약 3....",
@@ -3174,6 +3161,72 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.imaeil.com/page/view/2026112313563176624": {
+      "title": "경북 영천시 추진 K-팝 돔 공연장, 민간투자 유치가 성패 가른다",
+      "summary": "경북 영천시가 일본 선진사례 방문을 통해 확인한 K-팝(POP) 돔 공연장 건립사업( 매일신문 11월 22일)의 핵심... 직간접 경제 효과도 기타히로시마시 4천250억원, 홋카이도 전체 8천500억원에 달했다. ◆영천시 민간투자...",
+      "url": "https://www.imaeil.com/page/view/2026112313563176624",
+      "date": "Mon, 23 Nov 2026 14:47:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6362926": {
+      "title": "iM금융>엘앤에프>트리니티항공>이수페타시스…매출액 증가 '상위'",
+      "summary": "3분기 매출액은 한국가스공사가 26조 8161억 원으로 1위였으며 iM금융지주(10조 4258억 원), 에스엘 ㈜(4조... 원), 에스엘 (2882억 원) 순으로 나타났다. 업종별로는 금융업(80.2%), 운송업(26.8%), 제조업(13.8%), 유통업(5.6...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6362926",
+      "date": "Mon, 23 Nov 2026 14:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프, 이수페타시스",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=240287": {
+      "title": "엘앤에프 2.04% 하락…3분기 매출 8744억원·적자 지속",
+      "summary": "23일 코스닥 시장에서 엘앤에프 주가는 6만7300원에 거래됐다. 최근 실적과 사업 변수가 장중 수급과 함께 평가받는 모습이다. 오후 2시24분 기준 코스닥 시장에서 엘앤에프 주가는 전 거래일보다 1,400원(2.04%) 내린...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240287",
+      "date": "Mon, 23 Nov 2026 14:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=240284": {
+      "title": "포스코 퓨처엠 3.57% 하락…3분기 영업이익 821억원",
+      "summary": "포스코 퓨처엠 거래량이 20만5506주에 이른 가운데 주가는 23일 하락했다. 장중 고가와 저가 사이에서 투자자 공방이 이어졌다. 오후 2시24분 기준 유가증권시장에서 포스코 퓨처엠 주가는 전 거래일보다 5,700원(3.57...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240284",
+      "date": "Mon, 23 Nov 2026 14:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287085&CMPT_CD=P0010": {
+      "title": "추락, 낙오, 퇴행, 도주... 청년 눈에 비친 우리 현실",
+      "summary": "현대건설, 대우건설, 롯데건설, 포스코 이앤씨 등 규모 있는 기업체에서 추락으로만 10명 이상이 숨졌다. 현 정부 들어서야 이들 업체명이 일반에 공개되고, 반복되는 사망사고에 대응하기 위한 집중점검이 이뤄지기 시작한...",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287085&CMPT_CD=P0010",
+      "date": "Mon, 23 Nov 2026 14:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "산재·사업장 사고",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3195,36 +3248,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-23",
   "sent_articles": [
-    {
-      "url": "https://www.kmib.co.kr/article/20261109500826",
-      "title": "대형 산불로 공장 잃은 식품업체, 595일만에 안동에 새 공장 준공",
-      "date": "Mon, 09 Nov 2026 14:51:00 +0900"
-    },
-    {
-      "url": "https://news.dealsitetv.com/articles/178273",
-      "title": "드림 씨아이에스 , ‘2026 한-중 바이오 투자·기술협력 포럼’ 성황리 마...",
-      "date": "Mon, 09 Nov 2026 14:42:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYlIzaFZtTnBOWkg0WUpibVIwSkkzd2s2bjhHblZJQ2RMdVJLSUFpNnBveExYTWRlazBnbW1LaUJ0UFNPdThQUEJBVUpCbXd4WTJiNmtadTlnbGFQT2F6WUYwRHBmcDVBRXQ2aHRKZkpMSHIzUFpjZHNHUmNXY1ZQN0hIeTNsRm5OVG12Q3IwT0JRSzdUbXNBSVFJeENlNXVWY1JwODR0MndLUjI4R2dWcTRIajdMcjk1UjVEZzROZHV6X3pHZGNIdGNzZnE1UTZWUVl6T1c4VlVMUWxoS2VJNThUQXZiVDQ?oc=5",
-      "title": "Pursuit Minerals Signs US$40 Million MoU with South Korea's EcoPro Innovation for Rio Grande Sur Lithium Project - Kalkine",
-      "date": "Mon, 09 Nov 2026 05:34:32 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wRENRS05FdEVPNGp0Nl9WOThvUWJaN0FEby1DclJ6eXBxX09nZVJRTDdsYUlDRnhCM1VSRGpQSFpwazhPeXlJS2ZJSWF1aUZ0MV9ORUl4WG9ZdGYtUWFYOURuM2VNUHpsZFl3?oc=5",
-      "title": "포스코이앤씨, 상계3구역 수주 앞두고 '더샵 상계원' 상표 출원 - 뉴스저널리즘",
-      "date": "Mon, 09 Nov 2026 05:13:05 GMT"
-    },
-    {
-      "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513003",
-      "title": "포스코 임금 잠정합의안, 노조 투표서 부결...노사 의견차에 길어지는 ...",
-      "date": "Mon, 09 Nov 2026 14:02:00 +0900"
-    },
-    {
-      "url": "https://www.viva100.com/article/20261109500803",
-      "title": "대우건설 노조 “체코 원전 협상 30분 만에 결렬”…한수원 규탄·재협...",
-      "date": "Mon, 09 Nov 2026 14:02:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtY0pXbHpmcU5CUkhVZm14MFNwRmN6TVJlQXFObWFzbFEwUGRUSzROMXJJNlVaOVkxS1NiQUxjNUhfX185di0tcWVuZ2x1d3RPRVFFNFdQcDZUNWtFLWQ4SjJwdzJ4MmMzTTB4eUZn?oc=5",
       "title": "대구문화예술회관, 삼보모터스(주) 삼보문화재단과 함께하는 ‘2026 올해의 청년작가’ 전시 개최 - 칠성고라이프",
@@ -7879,6 +7902,31 @@
       "url": "http://fpn119.co.kr/259853",
       "title": "경북 칠곡군 공장 화재 … 재산피해 5천만원",
       "date": "Mon, 23 Nov 2026 13:02:00 +0900"
+    },
+    {
+      "url": "https://www.imaeil.com/page/view/2026112313563176624",
+      "title": "경북 영천시 추진 K-팝 돔 공연장, 민간투자 유치가 성패 가른다",
+      "date": "Mon, 23 Nov 2026 14:47:00 +0900"
+    },
+    {
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240287",
+      "title": "엘앤에프 2.04% 하락…3분기 매출 8744억원·적자 지속",
+      "date": "Mon, 23 Nov 2026 14:38:00 +0900"
+    },
+    {
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240284",
+      "title": "포스코 퓨처엠 3.57% 하락…3분기 영업이익 821억원",
+      "date": "Mon, 23 Nov 2026 14:36:00 +0900"
+    },
+    {
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287085&CMPT_CD=P0010",
+      "title": "추락, 낙오, 퇴행, 도주... 청년 눈에 비친 우리 현실",
+      "date": "Mon, 23 Nov 2026 14:31:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6362926",
+      "title": "iM금융>엘앤에프>트리니티항공>이수페타시스…매출액 증가 '상위'",
+      "date": "Mon, 23 Nov 2026 14:28:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7920,7 +7968,7 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 5
+    "2026-11-23": 6
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
