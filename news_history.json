@@ -1877,7 +1877,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-16": 9,
     "2026-11-17": 7,
     "2026-11-18": 3,
     "2026-11-19": 6,
@@ -1887,84 +1886,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.news1.kr/local/daegu-gyeongbuk/6361777": {
-      "title": "칠곡 공장 서 화재 …재산 피해 5000여만 원, 인명피해 없어",
-      "summary": "경북 칠곡군의 한 공장 에서 불이 나 소방서 추산 5000여만 원 상당의 재산 피해가 발생했다. 22일... 소방 당국은 기계적 요인으로 불이 난 것으로 보고 정확한 화재 원인과 피해 규모를 조사하고 있다.",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6361777",
-      "date": "Sun, 22 Nov 2026 07:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.kbsm.net/news/view.php?idx=542684": {
-      "title": "경주 아파트서 조명 교체하던 50대 추락 사…중처법 위반 조사",
-      "summary": "경북 경주시의 한 아파트에서 천장 조명을 교체하던 50대 노동자가 추락 해 숨지는 사고 가 발생했다. 21일 고용노동부에 따르면 전날 오후 2시57분께 경주시 소재 아파트에서 대원종합관리 소속 노동자 A(55)씨가 추락 하는...",
-      "url": "https://www.kbsm.net/news/view.php?idx=542684",
-      "date": "Sun, 22 Nov 2026 06:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newspim.com/news/view/20261120000884": {
-      "title": "대동 , 실적 부진에 재무 부담 가중…제주 대동 매각이 돌파구 될까",
-      "summary": "대동 이 예년보다 혹독한 겨울을 보낼 전망이다. 지난 3분기 매출이 정체된 가운데 원가율과 판관비가... 최근 자회사 제주 대동 매각을 조건으로 소액의 전환사채(CB)를 발행하며 유동성 확보에 나섰지만, 향후 매각...",
-      "url": "https://www.newspim.com/news/view/20261120000884",
-      "date": "Sun, 22 Nov 2026 06:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.the-today.com/news/articleView.html?idxno=93927": {
-      "title": "[속보] 현대제철· 포스코 美 제철소 대기허가 취소 소송…LDEQ \"편익이 환...",
-      "summary": "현대제철과 포스코 가 미국 루이지애나주에 건설하는 58억달러(약 7조8000억원) 규모 전기로 제철소의... 심사 대상은 합작법인 현대- 포스코 루이지애나 스틸(HPLS)이 도널드슨빌 인근 어센션 패리시 모데스트 지역에...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=93927",
-      "date": "Sun, 22 Nov 2026 07:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://sateconomy.co.kr/news/view/1065624658973676": {
-      "title": "포스코 , 호주 4조원 HBI 투자설 재차 미확정…사업구조·일정 검토 계속",
-      "summary": "21일 금융감독원 전자공시시스템에 따르면 POSCO 홀딩스 는 지난 19일 자회사 포스코 의 호주 열간성형환원철(HBI) 생산사업에 대한 해명공시를 제출했다. 이번 공시는 지난 10월 21일 서울경제가 보도한 호주 4조원 규모...",
-      "url": "https://sateconomy.co.kr/news/view/1065624658973676",
-      "date": "Sun, 22 Nov 2026 00:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50aWZlVWk4ZE1FNkNlMW9sdXJZNTZKTzcwd1Vfc3R3ZlF1ZVpITlQwanFTbXFJVDMtVFdxaGZYNnQzMWw5LVpPM0VR?oc=5": {
-      "title": "법무법인 대륙아주, 경북 안동시 산불 피해복구 현장 찾아 위문 - 국민뉴스",
-      "summary": "법무법인 대륙아주, 경북 안동시 산불 피해복구 현장 찾아 위문 국민뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50aWZlVWk4ZE1FNkNlMW9sdXJZNTZKTzcwd1Vfc3R3ZlF1ZVpITlQwanFTbXFJVDMtVFdxaGZYNnQzMWw5LVpPM0VR?oc=5",
-      "date": "Sat, 21 Nov 2026 15:02:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
     "https://www.newspim.com/news/view/20261122000006": {
       "title": "칠곡 심청리 공장 서 화재 1시간여만에 진화...인명피해 없어",
       "summary": "경북 칠곡의 한 공장 에서 화재 가 발생해 1시간여 만에 진화됐다. 다행히 인명피해는 없었다. 22일 경북 소방본부에 따르면 전날 오후 2시 4분쯤 칠곡군 왜관읍 심청리의 한 공장 에서 내부 플라스틱 압출기에서...",
@@ -3657,26 +3578,106 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.bosa.co.kr/news/articleView.html?idxno=3017125": {
+      "title": "대구 보훈병원 서관 착공…105병상 확충 AI 스마트병원 도약",
+      "summary": "김신윤 대구 보훈병원장 등 정·관계 및 의료계 내빈 150여 명이 참석해 성공적인 건립 을 기원했다. 착공식은 개회 및 국민의례, 공사 개요 보고를 시작으로 권오을 장관의 격려사와 박찬호 이사장 직무대행·김신윤...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017125",
+      "date": "Tue, 24 Nov 2026 05:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.g-enews.com/view.php?ud=2026112407180123232bd56fbc3c_1": {
+      "title": "에코프로 비엠 헝가리 공장, 소성설비 정비 중 연기 발생…화재로 번지지...",
+      "summary": "헝가리 데브레첸에 있는 에코프로 비엠 헝가리법인 공장에서 소성설비 정비 작업 도중 연기가 발생했다. 헝가리 지역 매체 하온(HAON)은 11월 24일(현지시각) 에코프로 비엠 헝가리 공장에서 현장 직원들이 분말소화기로 연기...",
+      "url": "https://www.g-enews.com/view.php?ud=2026112407180123232bd56fbc3c_1",
+      "date": "Tue, 24 Nov 2026 07:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.the-today.com/news/articleView.html?idxno=94013": {
+      "title": "[단독] \"같은 4000만달러 투자로 최대 지분율 37.6% 확보\"… 포스코 , 탄자...",
+      "summary": "포스코 인터내셔널이 참여하는 탄자니아 마헨게(Mahenge) 흑연 광산 프로젝트의 1단계 개발자금 조달이 약... 자료 4쪽 자금조달 항목에서 포스코 가 담당하는 지분투자액을 7000만달러로 기재했으나 정확한 금액은...",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=94013",
+      "date": "Tue, 24 Nov 2026 07:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcDMwZWI0cW5JSkxnWWJVa0FYeEdrRS1aSGhjbFFaZEU5bzRGeS0tVlFHQjVKNWlPWUdjZ2lGNFJXdjZyTVZIMW5NNHBlMHJZdEVZNW1TbDhBdDU1MG5UN2N5Mm9QdUJ6YWhrQ1JwM1NwRkd4dEFyNy1jVHZQTmN3R1o0b2NFZWx0UDNUSElSbTBuNkRsVU1TTnNha3djVHFiZTA3WWV0dEFkMUk4WHlzZHUwSUdEN1lSWGpJZU1VVlQxUzl4VXVkck5rRlBpRW1RcHF0X1F5S3ZfQlXSAeABQVVfeXFMTmpndzhHRVhSQ3d0M3Qta1RRNTV3eXZwVkJRaE1JOHBiWlc2MDRvTGJXRHVwMkVYdm94elpXUmNZZmI5NVFadUpDZWQ4eHJyWnJJZFI0QkNQWllLdTNpSE1pRXBra3JEVU5nVVItaVVxTTZHdzJCNmNoejMxOEttTkpINjJfRE01YmtLbnJ2WHNBNFV0QUtlWTR0YTJneDduM0NISWpaTlVmVk1VU2hVam51VEptRzl4dk9uQXRQSGFrZlJVZlhtRXZfX0JZend5QnQ3SVlVaW9pWnFEaVFQQmo?oc=5": {
+      "title": "Solid Earnings May Not Tell The Whole Story For EcoPro BM (KOSDAQ:247540) - Simply Wall St",
+      "summary": "Solid Earnings May Not Tell The Whole Story For EcoPro BM (KOSDAQ:247540) Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcDMwZWI0cW5JSkxnWWJVa0FYeEdrRS1aSGhjbFFaZEU5bzRGeS0tVlFHQjVKNWlPWUdjZ2lGNFJXdjZyTVZIMW5NNHBlMHJZdEVZNW1TbDhBdDU1MG5UN2N5Mm9QdUJ6YWhrQ1JwM1NwRkd4dEFyNy1jVHZQTmN3R1o0b2NFZWx0UDNUSElSbTBuNkRsVU1TTnNha3djVHFiZTA3WWV0dEFkMUk4WHlzZHUwSUdEN1lSWGpJZU1VVlQxUzl4VXVkck5rRlBpRW1RcHF0X1F5S3ZfQlXSAeABQVVfeXFMTmpndzhHRVhSQ3d0M3Qta1RRNTV3eXZwVkJRaE1JOHBiWlc2MDRvTGJXRHVwMkVYdm94elpXUmNZZmI5NVFadUpDZWQ4eHJyWnJJZFI0QkNQWllLdTNpSE1pRXBra3JEVU5nVVItaVVxTTZHdzJCNmNoejMxOEttTkpINjJfRE01YmtLbnJ2WHNBNFV0QUtlWTR0YTJneDduM0NISWpaTlVmVk1VU2hVam51VEptRzl4dk9uQXRQSGFrZlJVZlhtRXZfX0JZend5QnQ3SVlVaW9pWnFEaVFQQmo?oc=5",
+      "date": "Mon, 23 Nov 2026 21:43:21 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 에코프로",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWdUUHd0ZXVTMC01TmZrUWgyTzhtM2VRNF9sRlF0Q1NqYWJzQThRN1VJTmFjdkhFTHN3S0pmMVFEMVc3VjJCRFlWdkdiMVdlcHhVaTZ4VWFvSC02VFl2czF2dW55bWNZcEZZSGVUNFJwc3VIZGJGcWdmTnBuNGVCam9fZ29oX2ZPQmFBTlBnam9wWDc2VXBRemFhQ2otbzdKdVJFMEZhbGNPM1RpRExzbWxkUXFCWGZHRGN4OHJkSVRUTW9nVzNzcXcyb3NNSXfSAdQBQVVfeXFMT3NDMXB3UmJzTGJtcFdUdnpwNWxndDdMWXpHX1JJU0JqdWRHSVd0ZkZ6aVRDTjJZdERiUUtNVkhqMnlhUENxQ0pPcWdUUDUzOGhhUGNrcGtiN2otcDRwVnNvbWFlb2Z2eXVCQmNWY1laMG9YbmhnN3luQzF0N0Ywa0p1RGpDT2ROdW1DYWVXQzRGUzNIX0Zob0gyOFZTVThzQ0ViZnBFa3JEby1Ib3AwZXdCQzk0QjlfV3pYTFVQQ2syLUlEN0tDQkV6Umk3NjlJWmRTUkY?oc=5": {
+      "title": "Impressive Earnings May Not Tell The Whole Story For ISU Petasys (KRX:007660) - Simply Wall St",
+      "summary": "Impressive Earnings May Not Tell The Whole Story For ISU Petasys (KRX:007660) Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWdUUHd0ZXVTMC01TmZrUWgyTzhtM2VRNF9sRlF0Q1NqYWJzQThRN1VJTmFjdkhFTHN3S0pmMVFEMVc3VjJCRFlWdkdiMVdlcHhVaTZ4VWFvSC02VFl2czF2dW55bWNZcEZZSGVUNFJwc3VIZGJGcWdmTnBuNGVCam9fZ29oX2ZPQmFBTlBnam9wWDc2VXBRemFhQ2otbzdKdVJFMEZhbGNPM1RpRExzbWxkUXFCWGZHRGN4OHJkSVRUTW9nVzNzcXcyb3NNSXfSAdQBQVVfeXFMT3NDMXB3UmJzTGJtcFdUdnpwNWxndDdMWXpHX1JJU0JqdWRHSVd0ZkZ6aVRDTjJZdERiUUtNVkhqMnlhUENxQ0pPcWdUUDUzOGhhUGNrcGtiN2otcDRwVnNvbWFlb2Z2eXVCQmNWY1laMG9YbmhnN3luQzF0N0Ywa0p1RGpDT2ROdW1DYWVXQzRGUzNIX0Zob0gyOFZTVThzQ0ViZnBFa3JEby1Ib3AwZXdCQzk0QjlfV3pYTFVQQ2syLUlEN0tDQkV6Umk3NjlJWmRTUkY?oc=5",
+      "date": "Mon, 23 Nov 2026 21:01:07 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1scWpTal9aYXpjTzRkOHZBc3hNal9kLTIwSjBjeUtKcXVIUC0xUHdRWG5OR0V0YTZja0ZoQ1pQamdZakpISm9md1lhbDRmeXBNdVllbFhVRU01Z255SlFicm5iTWdtT0VoRU5XUVBDYjJibkU?oc=5": {
+      "title": "신문 포장재 놓고 지역감정 논란…경산 茶 판매업체 '곤혹' > 뉴스포커스 - SeattleN",
+      "summary": "신문 포장재 놓고 지역감정 논란…경산 茶 판매업체 '곤혹' > 뉴스포커스 SeattleN",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1scWpTal9aYXpjTzRkOHZBc3hNal9kLTIwSjBjeUtKcXVIUC0xUHdRWG5OR0V0YTZja0ZoQ1pQamdZakpISm9md1lhbDRmeXBNdVllbFhVRU01Z255SlFicm5iTWdtT0VoRU5XUVBDYjJibkU?oc=5",
+      "date": "Mon, 23 Nov 2026 19:55:40 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
-    "https://www.investchosun.com/site/data/html_dir/2026/11/20/2026112080100.html": "2026-11-23T08:03:26.835289+09:00",
-    "https://www.goodkyung.com/news/articleView.html?idxno=293703": "2026-11-23T08:03:26.835289+09:00",
-    "https://biz.chosun.com/stock/market_trend/2026/11/23/HCHCDI5F3VAFHGIX7N6GPUZGGE/": "2026-11-23T08:03:26.835289+09:00",
-    "https://www.aflnews.co.kr/news/articleView.html?idxno=332152": "2026-11-23T08:03:26.835289+09:00",
-    "https://www.yna.co.kr/view/AKR20261121033800008?input=1195m": "2026-11-23T08:03:26.835289+09:00",
-    "https://www.newsquest.co.kr/news/articleView.html?idxno=305550": "2026-11-23T08:03:26.835289+09:00"
+    "https://www.g-enews.com/view.php?ud=2026112407180123232bd56fbc3c_1": "2026-11-24T08:09:57.166820+09:00",
+    "https://www.the-today.com/news/articleView.html?idxno=94013": "2026-11-24T08:09:57.166820+09:00",
+    "https://www.bosa.co.kr/news/articleView.html?idxno=3017125": "2026-11-24T08:09:57.166820+09:00",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1scWpTal9aYXpjTzRkOHZBc3hNal9kLTIwSjBjeUtKcXVIUC0xUHdRWG5OR0V0YTZja0ZoQ1pQamdZakpISm9md1lhbDRmeXBNdVllbFhVRU01Z255SlFicm5iTWdtT0VoRU5XUVBDYjJibkU?oc=5": "2026-11-24T08:09:57.166820+09:00",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611232251187810274": "2026-11-24T08:09:57.166820+09:00",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcDMwZWI0cW5JSkxnWWJVa0FYeEdrRS1aSGhjbFFaZEU5bzRGeS0tVlFHQjVKNWlPWUdjZ2lGNFJXdjZyTVZIMW5NNHBlMHJZdEVZNW1TbDhBdDU1MG5UN2N5Mm9QdUJ6YWhrQ1JwM1NwRkd4dEFyNy1jVHZQTmN3R1o0b2NFZWx0UDNUSElSbTBuNkRsVU1TTnNha3djVHFiZTA3WWV0dEFkMUk4WHlzZHUwSUdEN1lSWGpJZU1VVlQxUzl4VXVkck5rRlBpRW1RcHF0X1F5S3ZfQlXSAeABQVVfeXFMTmpndzhHRVhSQ3d0M3Qta1RRNTV3eXZwVkJRaE1JOHBiWlc2MDRvTGJXRHVwMkVYdm94elpXUmNZZmI5NVFadUpDZWQ4eHJyWnJJZFI0QkNQWllLdTNpSE1pRXBra3JEVU5nVVItaVVxTTZHdzJCNmNoejMxOEttTkpINjJfRE01YmtLbnJ2WHNBNFV0QUtlWTR0YTJneDduM0NISWpaTlVmVk1VU2hVam51VEptRzl4dk9uQXRQSGFrZlJVZlhtRXZfX0JZend5QnQ3SVlVaW9pWnFEaVFQQmo?oc=5": "2026-11-24T08:09:57.166820+09:00",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWdUUHd0ZXVTMC01TmZrUWgyTzhtM2VRNF9sRlF0Q1NqYWJzQThRN1VJTmFjdkhFTHN3S0pmMVFEMVc3VjJCRFlWdkdiMVdlcHhVaTZ4VWFvSC02VFl2czF2dW55bWNZcEZZSGVUNFJwc3VIZGJGcWdmTnBuNGVCam9fZ29oX2ZPQmFBTlBnam9wWDc2VXBRemFhQ2otbzdKdVJFMEZhbGNPM1RpRExzbWxkUXFCWGZHRGN4OHJkSVRUTW9nVzNzcXcyb3NNSXfSAdQBQVVfeXFMT3NDMXB3UmJzTGJtcFdUdnpwNWxndDdMWXpHX1JJU0JqdWRHSVd0ZkZ6aVRDTjJZdERiUUtNVkhqMnlhUENxQ0pPcWdUUDUzOGhhUGNrcGtiN2otcDRwVnNvbWFlb2Z2eXVCQmNWY1laMG9YbmhnN3luQzF0N0Ywa0p1RGpDT2ROdW1DYWVXQzRGUzNIX0Zob0gyOFZTVThzQ0ViZnBFa3JEby1Ib3AwZXdCQzk0QjlfV3pYTFVQQ2syLUlEN0tDQkV6Umk3NjlJWmRTUkY?oc=5": "2026-11-24T08:09:57.166820+09:00"
   },
   "brief_titles": {
-    "e99323c9d4192115883dba1f977284bf51a3caa1faef06aa3a3ebd05e78fcf38": "2026-11-23T08:03:26.835289+09:00",
-    "fc5ea5f418c1eee544f9b8177e3e85f95d7cfdea3c2558e8dff73f475e22c879": "2026-11-23T08:03:26.835289+09:00",
-    "2411909d77dade5326ddc5e4884ab704a5a074be7cddf462093f7357bb46fd15": "2026-11-23T08:03:26.835289+09:00",
-    "9c2f4401acfb3626c86bb622d45c52ae3ed3bed02e06509a0e4c8cc02033db79": "2026-11-23T08:03:26.835289+09:00",
-    "d74ed071246c27b6610b2acc86eee5727879da2c3b11fd71cb7c51fd0d3127ad": "2026-11-23T08:03:26.835289+09:00",
-    "5c1d1e99877c7e9b30ac1f124972d778d9a0681c2d7061376d2fee45f86bd67a": "2026-11-23T08:03:26.835289+09:00"
+    "526c60c6ae68da88e04b995039e5021963fa5863173e6016f6c3ca822c0884da": "2026-11-24T08:09:57.166820+09:00",
+    "bc9cc6d9b385c20a92d1f949ea90bfc8b2c2414bf482671b0b7790ecc323d18d": "2026-11-24T08:09:57.166820+09:00",
+    "eaa91d459d8084037a2918d59456d4f3fff177506df0f4d0e1f9cefb2cee9b77": "2026-11-24T08:09:57.166820+09:00",
+    "d13627be340c21e763d3911a4a2c7d3fa257ecf4053a058db16c5cfb986b48f1": "2026-11-24T08:09:57.166820+09:00",
+    "a6918369b7528b1d64c7e2c0db4a652f88c0a4438edb91da386923e790acb8d7": "2026-11-24T08:09:57.166820+09:00",
+    "27f1be80604cd9159562a502ad129114a4041c96aa761c256ae2fb5aa325af9b": "2026-11-24T08:09:57.166820+09:00",
+    "63380abc45911d4fa93e2090a6dfea815f83e20846a7013a4436cfd6cbd0fb3e": "2026-11-24T08:09:57.166820+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-23",
+  "brief_date": "2026-11-24",
   "sent_articles": [
     {
       "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249330",
@@ -8361,38 +8362,42 @@
   ],
   "brief_articles": [
     {
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/20/2026112080100.html",
-      "title": "[Invest]1차 발행 안끝났는데… 엘앤에프 , 재차 대규모 CB 발행 검토",
-      "date": "Mon, 23 Nov 2026 07:02:00 +0900"
+      "url": "https://www.g-enews.com/view.php?ud=2026112407180123232bd56fbc3c_1",
+      "title": "에코프로 비엠 헝가리 공장, 소성설비 정비 중 연기 발생…화재로 번지지...",
+      "date": "Tue, 24 Nov 2026 07:26:00 +0900"
     },
     {
-      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293703",
-      "title": "엘앤에프 , 대규모 CB 발행… 선제적 재고 확보 효용성 시험대",
-      "date": "Mon, 23 Nov 2026 06:30:00 +0900"
+      "url": "https://www.the-today.com/news/articleView.html?idxno=94013",
+      "title": "[단독] \"같은 4000만달러 투자로 최대 지분율 37.6% 확보\"… 포스코 , 탄자...",
+      "date": "Tue, 24 Nov 2026 07:48:00 +0900"
     },
     {
-      "url": "https://biz.chosun.com/stock/market_trend/2026/11/23/HCHCDI5F3VAFHGIX7N6GPUZGGE/",
-      "title": "주가 반토막에 풋옵션 폭탄… 에코프로 비엠, 기존 FI들에 ‘CB 돌려막기...",
-      "date": "Mon, 23 Nov 2026 06:02:00 +0900"
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017125",
+      "title": "대구 보훈병원 서관 착공…105병상 확충 AI 스마트병원 도약",
+      "date": "Tue, 24 Nov 2026 05:54:00 +0900"
     },
     {
-      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332152",
-      "title": "대동 '주춤'·TYM '약진…3분기 실적 희비",
-      "date": "Mon, 23 Nov 2026 07:00:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1scWpTal9aYXpjTzRkOHZBc3hNal9kLTIwSjBjeUtKcXVIUC0xUHdRWG5OR0V0YTZja0ZoQ1pQamdZakpISm9md1lhbDRmeXBNdVllbFhVRU01Z255SlFicm5iTWdtT0VoRU5XUVBDYjJibkU?oc=5",
+      "title": "신문 포장재 놓고 지역감정 논란…경산 茶 판매업체 '곤혹' > 뉴스포커스 - SeattleN",
+      "date": "Mon, 23 Nov 2026 19:55:40 GMT"
     },
     {
-      "url": "https://www.yna.co.kr/view/AKR20261121033800008?input=1195m",
-      "title": "상반기 급등장에 CB발행 역대최대…최근 급락에 상환부담",
-      "date": "Mon, 23 Nov 2026 07:00:00 +0900"
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611232251187810274",
+      "title": "포스코 이앤씨ㆍ두산건설, 상계3구역 공공재개발 수주",
+      "date": "Mon, 23 Nov 2026 23:00:00 +0900"
     },
     {
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305550",
-      "title": "\"외형 성장에도 원가·환율 이중고에 '어닝쇼크'… 에스엘 , 본사 적자전...",
-      "date": "Mon, 23 Nov 2026 04:56:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcDMwZWI0cW5JSkxnWWJVa0FYeEdrRS1aSGhjbFFaZEU5bzRGeS0tVlFHQjVKNWlPWUdjZ2lGNFJXdjZyTVZIMW5NNHBlMHJZdEVZNW1TbDhBdDU1MG5UN2N5Mm9QdUJ6YWhrQ1JwM1NwRkd4dEFyNy1jVHZQTmN3R1o0b2NFZWx0UDNUSElSbTBuNkRsVU1TTnNha3djVHFiZTA3WWV0dEFkMUk4WHlzZHUwSUdEN1lSWGpJZU1VVlQxUzl4VXVkck5rRlBpRW1RcHF0X1F5S3ZfQlXSAeABQVVfeXFMTmpndzhHRVhSQ3d0M3Qta1RRNTV3eXZwVkJRaE1JOHBiWlc2MDRvTGJXRHVwMkVYdm94elpXUmNZZmI5NVFadUpDZWQ4eHJyWnJJZFI0QkNQWllLdTNpSE1pRXBra3JEVU5nVVItaVVxTTZHdzJCNmNoejMxOEttTkpINjJfRE01YmtLbnJ2WHNBNFV0QUtlWTR0YTJneDduM0NISWpaTlVmVk1VU2hVam51VEptRzl4dk9uQXRQSGFrZlJVZlhtRXZfX0JZend5QnQ3SVlVaW9pWnFEaVFQQmo?oc=5",
+      "title": "Solid Earnings May Not Tell The Whole Story For EcoPro BM (KOSDAQ:247540) - Simply Wall St",
+      "date": "Mon, 23 Nov 2026 21:43:21 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWdUUHd0ZXVTMC01TmZrUWgyTzhtM2VRNF9sRlF0Q1NqYWJzQThRN1VJTmFjdkhFTHN3S0pmMVFEMVc3VjJCRFlWdkdiMVdlcHhVaTZ4VWFvSC02VFl2czF2dW55bWNZcEZZSGVUNFJwc3VIZGJGcWdmTnBuNGVCam9fZ29oX2ZPQmFBTlBnam9wWDc2VXBRemFhQ2otbzdKdVJFMEZhbGNPM1RpRExzbWxkUXFCWGZHRGN4OHJkSVRUTW9nVzNzcXcyb3NNSXfSAdQBQVVfeXFMT3NDMXB3UmJzTGJtcFdUdnpwNWxndDdMWXpHX1JJU0JqdWRHSVd0ZkZ6aVRDTjJZdERiUUtNVkhqMnlhUENxQ0pPcWdUUDUzOGhhUGNrcGtiN2otcDRwVnNvbWFlb2Z2eXVCQmNWY1laMG9YbmhnN3luQzF0N0Ywa0p1RGpDT2ROdW1DYWVXQzRGUzNIX0Zob0gyOFZTVThzQ0ViZnBFa3JEby1Ib3AwZXdCQzk0QjlfV3pYTFVQQ2syLUlEN0tDQkV6Umk3NjlJWmRTUkY?oc=5",
+      "title": "Impressive Earnings May Not Tell The Whole Story For ISU Petasys (KRX:007660) - Simply Wall St",
+      "date": "Mon, 23 Nov 2026 21:01:07 GMT"
     }
   ],
   "gemini_ai": {
-    "2026-11-16": 7,
     "2026-11-17": 6,
     "2026-11-18": 3,
     "2026-11-19": 6,
