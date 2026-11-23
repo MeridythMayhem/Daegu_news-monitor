@@ -1,12 +1,5 @@
 {
   "sent": {
-    "https://www.kmib.co.kr/article/20261109500435": "2026-11-09T12:01:46.245539+09:00",
-    "https://www.news1.kr/politics/assembly/6347593": "2026-11-09T12:01:46.245539+09:00",
-    "http://www.yonhapnewstv.co.kr/news/AKR20261109114429xX6": "2026-11-09T12:01:46.245539+09:00",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRVJWSE1RVGpwX0ZITi03X1ZWLUFocWFyUTIwclNFZF9JMUVLUm41T2xVR1kwSFRRaGsyN1hNWVNqODdrd2UyZGY5Q2VOdkk?oc=5": "2026-11-09T12:01:46.245539+09:00",
-    "https://view.asiae.co.kr/article/2026110910470047088": "2026-11-09T12:01:46.245539+09:00",
-    "https://www.kpinews.kr/newsView/1065579013767692": "2026-11-09T12:01:46.245539+09:00",
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BaTdqWFEyYVo0bTZPc3BMYWYtc19iRy1lXzZhd3RIU2lLT3pTRjJQNDFNRW9Id0k4QldNOXlUZXNlQlNmQm92VklsckRNM2lEdEh4NS1kbXowQlRESnE4Sw?oc=5": "2026-11-09T12:01:46.245539+09:00",
     "https://www.ppss.kr/news/articleView.html?idxno=319804": "2026-11-09T13:02:01.170796+09:00",
     "https://www.naeil.com/news/read/608108?ref=naver": "2026-11-09T14:01:43.133966+09:00",
     "https://www.getnews.co.kr/news/articleView.html?idxno=886485": "2026-11-09T14:01:43.133966+09:00",
@@ -942,16 +935,15 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FWklTT0VYTURYYi1fYTlnWktNRUdJd0dySDVIZTM5bXFGNDhndlZ5OTNia081UzZsYVEwdDJJd3otOXZhbXVDeU5HdldXS3U5WUhhSm1nNGRRX2ZuZUpSUVhyS25YeGVHcGc?oc=5": "2026-11-23T12:09:03.456056+09:00",
     "https://www.peoplewatch.co.kr/article/view/ppw202611230009": "2026-11-23T12:09:03.456056+09:00",
     "https://www.ngetnews.com/news/articleView.html?idxno=556181": "2026-11-23T12:09:03.456056+09:00",
-    "https://www.newsis.com/view/NISX20261123_0003879032": "2026-11-23T12:09:03.456056+09:00"
+    "https://www.newsis.com/view/NISX20261123_0003879032": "2026-11-23T12:09:03.456056+09:00",
+    "https://www.etoday.co.kr/news/view/2651670": "2026-11-23T13:02:12.852862+09:00",
+    "https://www.tbc.co.kr/news/view?pno=20261123090017AE08980&id=213663": "2026-11-23T13:02:12.852862+09:00",
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4120181": "2026-11-23T13:02:12.852862+09:00",
+    "https://www.kizmom.com/news/articleView.html?idxno=114150": "2026-11-23T13:02:12.852862+09:00",
+    "https://www.joongdo.co.kr/web/view.php?key=20261123010007583": "2026-11-23T13:02:12.852862+09:00",
+    "https://www.tournews21.com/news/articleView.html?idxno=149106": "2026-11-23T13:02:12.852862+09:00"
   },
   "titles": {
-    "513dec494698447048171a318ef6d8227818c67715b469edfe54f323be716abc": "2026-11-09T12:01:46.245539+09:00",
-    "9fec6fb43452fa84aab012e93377b0f146f678c7b315303b6d121baa92d0854b": "2026-11-09T12:01:46.245539+09:00",
-    "5dea0df3d9005446f20e7af30560fa65dd0da499ba9404b4ab70308ec4d6cc91": "2026-11-09T12:01:46.245539+09:00",
-    "079b42fc5fe94519254586cb0e63a143804af95ff1bfd612a85097fcff6575c3": "2026-11-09T12:01:46.245539+09:00",
-    "273489b928498aefe266119a97249b224db6b2f860619dbb9b20fba243589e63": "2026-11-09T12:01:46.245539+09:00",
-    "8f985adf3e295d04c57df252c670a94a50fcf514d3d98afee74e31afe447de99": "2026-11-09T12:01:46.245539+09:00",
-    "263da1949a4b19be0e1815141d1abaaa9b1fd933af1112bf15173f06eee7e8f0": "2026-11-09T12:01:46.245539+09:00",
     "ad6af88dd1e0767d3d1ac1d6115be16ca74d9c832542fa91565b2a70301b282a": "2026-11-09T13:02:01.170796+09:00",
     "33148df22b63183a20236d1855faba76b5b8021824b41bf730d9f8009a140f86": "2026-11-09T14:01:43.133966+09:00",
     "ab2ddd9ea917042b0924438b68d4ea4c5143bff215a6cabf24aa35f0f9d0ff26": "2026-11-09T14:01:43.133966+09:00",
@@ -1887,7 +1879,13 @@
     "cb3e72e185e4df8f45cf67d54e28b97e45d3de89eca04837dc35b39c2305fe11": "2026-11-23T12:09:03.456056+09:00",
     "032c520d8d1eb1a8b471605fdc3a9a7ad6bf0d5a95a36e629064f57e9160d852": "2026-11-23T12:09:03.456056+09:00",
     "c9c3bfb42eb3f401144f18d9dc3704877987f9cd76fb2733de58c03c34abdd5f": "2026-11-23T12:09:03.456056+09:00",
-    "3ea82052909906e7f4c2c485f0d6adf26421b8ea543df88b125c4e39b0f3fde7": "2026-11-23T12:09:03.456056+09:00"
+    "3ea82052909906e7f4c2c485f0d6adf26421b8ea543df88b125c4e39b0f3fde7": "2026-11-23T12:09:03.456056+09:00",
+    "6f28efd3b461edeb884f44c266c7603f1033765d96fc1a9f884a4aa219dc6f71": "2026-11-23T13:02:12.852862+09:00",
+    "75f09beaf1d4911b9828a1652e96426ef311bb00631f6317f1df1c2f510326c8": "2026-11-23T13:02:12.852862+09:00",
+    "a7686730def55e66884274505fab75945cc3559e7a2cdd0ba6f999c69be2840f": "2026-11-23T13:02:12.852862+09:00",
+    "2b39b355d808c443103e08ed5b3b82a3f54c66d51fa04059b0296b3167247379": "2026-11-23T13:02:12.852862+09:00",
+    "7dcae78097476e2cbedd2e6aaac1d6420e598ae586935bf6bb4479a3a524dc40": "2026-11-23T13:02:12.852862+09:00",
+    "93f358adc69e712b8fde1e4b41a6a2f2a3957664d869a16a535eda2d3de00d03": "2026-11-23T13:02:12.852862+09:00"
   },
   "pending": {},
   "ai": {
@@ -1897,7 +1895,7 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 4
+    "2026-11-23": 5
   },
   "cursor": 0,
   "archive": {
@@ -3059,6 +3057,84 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.tournews21.com/news/articleView.html?idxno=149106": {
+      "title": "스페이스워크 옆에 특급호텔 선다… 포항 환호지구 4,800억 투자 유치",
+      "summary": "포항 시는 지난 20일 경북도청에서 경상북도, 한화호텔앤드리조트㈜, 포항 하나원㈜과 '환호지구 관광숙박시설 조성을 위한 투자양해각서( MOU )'를 맺었다고 밝혔다. 협약에 따르면 환호동 일원 약 4만 9천㎡ 부지에 385실...",
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=149106",
+      "date": "Mon, 23 Nov 2026 12:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.tbc.co.kr/news/view?pno=20261123090017AE08980&id=213663": {
+      "title": "경산에 전기차 충돌안전부품 기술센터 준공",
+      "summary": "경북 도에 따르면 지난 20일 경산지식산업지구에 준공된 이 센터는 총사업비 222억 원이 투입되는 사업으로, 첨단 시험·분석 장비 10종을 갖췄습니다. 이곳에서는 실제 차량의 충돌시험을 비롯해 배터리 파손과 화재 위험...",
+      "url": "https://www.tbc.co.kr/news/view?pno=20261123090017AE08980&id=213663",
+      "date": "Mon, 23 Nov 2026 12:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.joongdo.co.kr/web/view.php?key=20261123010007583": {
+      "title": "포스코 노조, 임단협 2차 잠정합의안 28일 찬반투표",
+      "summary": "포스코 노사가 2026년도 임금협상 2차 잠정합의안을 도출했다. 1차 잠정합의안이 부결된 지 13일 만이다. 2차... 이튿날 포스코 대표이사와 노조위원장의 긴급 면담이 이뤄졌다. 이 자리에서 노사 상생으로 어려움을...",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261123010007583",
+      "date": "Mon, 23 Nov 2026 12:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.etoday.co.kr/news/view/2651670": {
+      "title": "한수원·팀코리아 \"체코 원전 적기 준공 최우선⋯흔들림 없이 완수\"",
+      "summary": "이투데이=세종=서병곤 기자 | 두코바니 5·6호기 초기 핵심 공정 차질 없이 순항 강조 한국수력원자력 과 팀코리아가 체코 두코바니 신규원전 5·6호기 사업의 차질 없는 추진과 적기 준공을 거듭 다짐했다. 시공 부문의...",
+      "url": "https://www.etoday.co.kr/news/view/2651670",
+      "date": "Mon, 23 Nov 2026 13:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4120181": {
+      "title": "한수원·팀코리아 \"체코 신규원전 흔들림 없이 추진…적기 준공 약속\"",
+      "summary": "한국수력원자력 과 체코 두코바니 신규원전 사업에 참여하는 팀코리아가 사업의 차질 없는 추진과 적기 준공을 약속했습니다. 한수원과 팀코리아는 공동 성명서를 통해 체코 두코바니 신규원전 5·6호기 사업은 양국의...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120181",
+      "date": "Mon, 23 Nov 2026 12:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kizmom.com/news/articleView.html?idxno=114150": {
+      "title": "한수원·두산에너빌리티 등 팀코리아, 체코 원전 적기 준공 약",
+      "summary": "한국수력원자력 과 한국전력기술, 한전원자력연료, 한전KPS, 두산에너빌리티 등 팀코리아 참여 기업들은 23일 공동 성명을 내고 \"흔들림 없는 사업 추진과 적기 준공의 결의를 밝힌다\"고 했다. 지난달 한수원과 대우건설...",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=114150",
+      "date": "Mon, 23 Nov 2026 12:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3080,11 +3156,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-23",
   "sent_articles": [
-    {
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=319804",
-      "title": "[PPSS 기업해부 포스코 ⑥] 매출 69조에도 영업이익률 2.6%… 포스코 , 실...",
-      "date": "Mon, 09 Nov 2026 13:00:00 +0900"
-    },
     {
       "url": "https://www.naeil.com/news/read/608108?ref=naver",
       "title": "신임 국세청 장에 안덕수 서울청장 내정",
@@ -7759,6 +7830,36 @@
       "url": "https://www.newsis.com/view/NISX20261123_0003879032",
       "title": "직원 58명 임금·퇴직금 7억 체불…요양병원 대표는 구속",
       "date": "Mon, 23 Nov 2026 11:13:00 +0900"
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2651670",
+      "title": "한수원·팀코리아 \"체코 원전 적기 준공 최우선⋯흔들림 없이 완수\"",
+      "date": "Mon, 23 Nov 2026 13:00:00 +0900"
+    },
+    {
+      "url": "https://www.tbc.co.kr/news/view?pno=20261123090017AE08980&id=213663",
+      "title": "경산에 전기차 충돌안전부품 기술센터 준공",
+      "date": "Mon, 23 Nov 2026 12:44:00 +0900"
+    },
+    {
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120181",
+      "title": "한수원·팀코리아 \"체코 신규원전 흔들림 없이 추진…적기 준공 약속\"",
+      "date": "Mon, 23 Nov 2026 12:44:00 +0900"
+    },
+    {
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=114150",
+      "title": "한수원·두산에너빌리티 등 팀코리아, 체코 원전 적기 준공 약",
+      "date": "Mon, 23 Nov 2026 12:38:00 +0900"
+    },
+    {
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20261123010007583",
+      "title": "포스코 노조, 임단협 2차 잠정합의안 28일 찬반투표",
+      "date": "Mon, 23 Nov 2026 12:16:00 +0900"
+    },
+    {
+      "url": "https://www.tournews21.com/news/articleView.html?idxno=149106",
+      "title": "스페이스워크 옆에 특급호텔 선다… 포항 환호지구 4,800억 투자 유치",
+      "date": "Mon, 23 Nov 2026 12:04:00 +0900"
     }
   ],
   "brief_articles": [
@@ -7800,7 +7901,7 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 3
+    "2026-11-23": 4
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
