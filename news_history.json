@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502234": "2026-11-09T09:01:56.464971+09:00",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5": "2026-11-09T10:01:55.172813+09:00",
     "http://www.inews24.com/view/2023832": "2026-11-09T10:01:55.172813+09:00",
     "https://www.aflnews.co.kr/news/articleView.html?idxno=331304": "2026-11-09T10:01:55.172813+09:00",
@@ -937,10 +936,14 @@
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5": "2026-11-22T23:09:12.520976+09:00",
     "https://www.newsis.com/view/NISX20261123_0003878601": "2026-11-23T09:09:04.059342+09:00",
     "https://www.news1.kr/local/daegu-gyeongbuk/6362286": "2026-11-23T09:09:04.059342+09:00",
-    "https://www.news1.kr/photos/8227333": "2026-11-23T09:09:04.059342+09:00"
+    "https://www.news1.kr/photos/8227333": "2026-11-23T09:09:04.059342+09:00",
+    "https://www.news1.kr/local/daegu-gyeongbuk/6362446": "2026-11-23T10:07:01.006406+09:00",
+    "https://daily.hankooki.com/news/articleView.html?idxno=1427653": "2026-11-23T10:07:01.006406+09:00",
+    "https://www.yna.co.kr/view/AKR20261123037700053?input=1195m": "2026-11-23T10:07:01.006406+09:00",
+    "https://www.edaily.co.kr/News/Read?newsId=01551446645648672&mediaCodeNo=257": "2026-11-23T10:07:01.006406+09:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlY3N0I3azkzMjBHdzFSQjBHTU5xVlpxSVB0QTdqT011eUF3d0o5cW5NN3M3M0U3RlBXd0RWN253ZE15RlloRjlvWko3RmhMVjYxTXdGSG1ueFAzNWFtUXVaOXFCZw?oc=5": "2026-11-23T10:07:01.006406+09:00"
   },
   "titles": {
-    "d6b4998e89316b4b856a0b238fb2526c7d69c3ff2ffb1ff17d3f81abe3863772": "2026-11-09T09:01:56.464971+09:00",
     "cce503c043bda03730b799b7d73bddf4342909c025a9ecc66d1557ca9b6d3998": "2026-11-09T10:01:55.172813+09:00",
     "05442794b07eb90060b22efe644f1269fd1986bb9108a04f4c0d5ad7627fe548": "2026-11-09T10:01:55.172813+09:00",
     "08b77a31c1bc9408a6ba71b422f30bee0f41cb5bc7dfc205cdf86e071a15307e": "2026-11-09T10:01:55.172813+09:00",
@@ -1877,7 +1880,12 @@
     "3d01d09e6d042c0e39b9fd9cc9260e56773a4ec4386aecd5524dada52ceae39d": "2026-11-22T23:09:12.520976+09:00",
     "aafe6fa454df2976b8976a0abc87baadb0a7504e38a63f94f4be6c518b0362c6": "2026-11-23T09:09:04.059342+09:00",
     "2df3d582d4422174fb3fb07b1b3956aef3ab1d58f371bf2d447047286ba09cf5": "2026-11-23T09:09:04.059342+09:00",
-    "a69005d9e1921303065f282515e2b56bfda2e231f57fb23ae053fdddeb851a98": "2026-11-23T09:09:04.059342+09:00"
+    "a69005d9e1921303065f282515e2b56bfda2e231f57fb23ae053fdddeb851a98": "2026-11-23T09:09:04.059342+09:00",
+    "35e12856957f9a68b33e0fffc057e32f5896e44428fb820d957b2d5a16a9eb8c": "2026-11-23T10:07:01.006406+09:00",
+    "58b5a16f793ce66e0a766c60c74afc0277c3d8bf3636a6222d77748e155e5826": "2026-11-23T10:07:01.006406+09:00",
+    "93501e4908d2a037a55d9c20637edce76cb53db7dec1b1de4a655d302225bae4": "2026-11-23T10:07:01.006406+09:00",
+    "14893a996a07cc7227f21c36b8113030529076c25eab3c52659a3acb5187404b": "2026-11-23T10:07:01.006406+09:00",
+    "86d0b5b559847891200754210e8a52cce8ec00b0d5b92a30fc8598f60335131a": "2026-11-23T10:07:01.006406+09:00"
   },
   "pending": {},
   "ai": {
@@ -1887,36 +1895,10 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 1
+    "2026-11-23": 2
   },
   "cursor": 0,
   "archive": {
-    "https://www.gokorea.kr/news/articleView.html?idxno=886704": {
-      "title": "포스코 노사 협상 극적 타결, 2.6% 임금 인상과 파업 종결의 비밀",
-      "summary": "포스코 의 노사 협상이 기본 임금 인상률 2.6%를 중심으로 한 임금 협상에서 잠정 합의를 이뤘다. 이번 합의는... 포스코 노동조합은 이 잠정 합의안을 바탕으로 28일 조합원 찬반 투표를 통해 최종 결정을 내릴 예정이며...",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=886704",
-      "date": "Sat, 21 Nov 2026 09:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.thepublic.kr/news/articleView.html?idxno=327832": {
-      "title": "실적 회복에 정권 교체도 넘겼지만…장인화 포스코 회장, 연임 변수는",
-      "summary": "장인화 포스코 그룹 회장의 임기 만료가 다가오면서 연임 여부에 관심이 쏠리고 있다. 정권 교체 이후에도... 20일 재계에 따르면 포스코 홀딩스는 오는 12월 회장후보추천위원회(회추위)를 구성하고 차기 회장 선임 절차에...",
-      "url": "https://www.thepublic.kr/news/articleView.html?idxno=327832",
-      "date": "Sat, 21 Nov 2026 09:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.moneystorm.kr/news/articleView.html?idxno=8694": {
       "title": "[재무이슈] 발행조건 유리하나 주가부담 상당한 엘앤에프 의 CB 1515억원....",
       "summary": "2차전지 소재기업 엘앤에프 (L&F)가 LFP(리튬인산철배터리) 양산을 위한 운영자금 조달용으로 2건의 사모 전환사채(CB) 1515억원을 발행하기로 했다. 발행조건은 엘앤에프 에 비교적 유리한 조건이나 기존 미상환...",
@@ -2828,6 +2810,97 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6362446": {
+      "title": "포항시, 환호지구에 385실 특급호텔·콘도 건립 추진",
+      "summary": "경북 포항시가 체류형 관광객 유치를 위해 북구 환호동에 4800억 원 규모의 민간투자 유치에 나섰다. 23일... 박용선 시장은 \"특급호텔 건립 등이 예정대로 진행되면 내년 개관하는 포항국제전시컨벤션센터와의 연계로...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6362446",
+      "date": "Mon, 23 Nov 2026 09:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611230754269410084": {
+      "title": "경북 도, 전기차 충돌안전부품 기술센터 준공",
+      "summary": "경북 도는 20일 경산지식산업지구에서 전기차 충돌안전부품 기술센터 준공식을 개최했다고 밝혔다. 센터는 2023년 4월 산업통상부 공모에 선정된 ‘xEV 보호차체 얼라이언스 기업지원 플랫폼 구축’ 사업으로 건립 됐다....",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611230754269410084",
+      "date": "Mon, 23 Nov 2026 09:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://daily.hankooki.com/news/articleView.html?idxno=1427653": {
+      "title": "영천시, K-POP 돔 건립 구상…日 '에스콘필드' 벤치마킹",
+      "summary": "사진=영천시 제공 경북 영천시가 K-POP 돔 공연장 조성을 위한 선진사례 조사에 나섰다. 23일 영천시에 따르면, 김병삼 시장과 방문단은 최근 일본 기타히로시마시를 방문해 에스콘필드 홋카이도와 볼파크 개발 현황을...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427653",
+      "date": "Mon, 23 Nov 2026 09:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261123037700053?input=1195m": {
+      "title": "직원 58명 임금·퇴직금 7억 체불…요양병원 대표 구속",
+      "summary": "고용노동부 포항 지청은 직원들의 임금과 퇴직금 약 7억원을 체불한 혐의(근로기준법 및 근로자퇴직급여보장법 위반)로 경북 포항 한 요양병원 대표 A씨를 구속 했다고 23일 밝혔다. A씨는 포항 에서 요양병원을 운영하다...",
+      "url": "https://www.yna.co.kr/view/AKR20261123037700053?input=1195m",
+      "date": "Mon, 23 Nov 2026 09:25:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://daily.hankooki.com/news/articleView.html?idxno=1427649": {
+      "title": "경산시, 전기차 충돌안전부품 기술센터 준공",
+      "summary": "경북 테크노파크가 사업을 맡고 경북 IT융합산업기술원과 한국생산기술연구원이 함께한다. 한편, 최근 전기차 배터리 결함과 화재 위험이 커지면서 안전한 차체 기술의 중요성도 높아졌다. 시는 내연기관 위주였던 지역...",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427649",
+      "date": "Mon, 23 Nov 2026 09:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=01551446645648672&mediaCodeNo=257": {
+      "title": "율촌, 포스코 와 폴란드 사업협력 MOU…유럽 車 시장 공략",
+      "summary": "정밀냉간인발튜브(인발강관) 전문기업 율촌(146060)은 포스코 와 폴란드 법인에 대한 자동차강판 공급 확대 및... 협약식은 폴란드 브로츠와프에서 진행됐으며, 이흥해 율촌 대표이사와 김윤호 포스코 자동차강판판매그룹장...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01551446645648672&mediaCodeNo=257",
+      "date": "Mon, 23 Nov 2026 09:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlY3N0I3azkzMjBHdzFSQjBHTU5xVlpxSVB0QTdqT011eUF3d0o5cW5NN3M3M0U3RlBXd0RWN253ZE15RlloRjlvWko3RmhMVjYxTXdGSG1ueFAzNWFtUXVaOXFCZw?oc=5": {
+      "title": "경주시, 첨성대 인근에 신라 최초 선덕여왕 회전 동상 건립 - 열린뉴스통신",
+      "summary": "경주시, 첨성대 인근에 신라 최초 선덕여왕 회전 동상 건립 열린뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlY3N0I3azkzMjBHdzFSQjBHTU5xVlpxSVB0QTdqT011eUF3d0o5cW5NN3M3M0U3RlBXd0RWN253ZE15RlloRjlvWko3RmhMVjYxTXdGSG1ueFAzNWFtUXVaOXFCZw?oc=5",
+      "date": "Mon, 23 Nov 2026 00:09:25 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -2849,26 +2922,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-23",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rbk9KNW8yN3ZBMnBCLXF6VVdnVGpneXZ0U1RPak9MSDg5bVZQM3Ffbm90b0lWZ1JkMm9NN08xSE5UaUFndzdwNWFIN0tuM2RtS0twdi1qYzFaaDRFTHZ5QVZFbVBfZw?oc=5",
-      "title": "의성군, 바이오푸드밸리 455억 원 투자유치…신규 일자리 83개 창출 - 열린뉴스통신",
-      "date": "Mon, 09 Nov 2026 00:39:46 GMT"
-    },
-    {
-      "url": "http://www.inews24.com/view/2023832",
-      "title": "세계 투자 자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자 유...",
-      "date": "Mon, 09 Nov 2026 09:22:00 +0900"
-    },
-    {
-      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=331304",
-      "title": "농협사료· 포스코 인터네셔널, 5년 연속 수입 사료원료 공급망 MOU",
-      "date": "Mon, 09 Nov 2026 09:22:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLMVlXVEk4UlZlQ21vQ2Y4aFBIdUtJZGxyMHp0NjN1NVlMSmx1ZmFWY0xya3JqQkExeXZvTDRSdGxmdmxtdElUcFM0TDA?oc=5",
-      "title": "세계 투자자들 포항 바이오 현장 찾았다…145만㎡ 경제자유구역 투자유치 시험대 - 아이뉴스24",
-      "date": "Mon, 09 Nov 2026 00:21:12 GMT"
-    },
     {
       "url": "https://www.newsway.co.kr/news/view?ud=2026110910270550545",
       "title": "대우건설 노조 \"체코 원전 시공협상 결렬 한수원 탓...시공권 이관 의혹...",
@@ -7533,6 +7586,31 @@
       "url": "https://www.news1.kr/photos/8227333",
       "title": "권오을 장관 \" 대구 독립기념관 건립 면밀히 들여다 볼 것\"",
       "date": "Mon, 23 Nov 2026 08:41:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6362446",
+      "title": "포항시, 환호지구에 385실 특급호텔·콘도 건립 추진",
+      "date": "Mon, 23 Nov 2026 09:48:00 +0900"
+    },
+    {
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427653",
+      "title": "영천시, K-POP 돔 건립 구상…日 '에스콘필드' 벤치마킹",
+      "date": "Mon, 23 Nov 2026 09:32:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261123037700053?input=1195m",
+      "title": "직원 58명 임금·퇴직금 7억 체불…요양병원 대표 구속",
+      "date": "Mon, 23 Nov 2026 09:25:00 +0900"
+    },
+    {
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01551446645648672&mediaCodeNo=257",
+      "title": "율촌, 포스코 와 폴란드 사업협력 MOU…유럽 車 시장 공략",
+      "date": "Mon, 23 Nov 2026 09:10:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlY3N0I3azkzMjBHdzFSQjBHTU5xVlpxSVB0QTdqT011eUF3d0o5cW5NN3M3M0U3RlBXd0RWN253ZE15RlloRjlvWko3RmhMVjYxTXdGSG1ueFAzNWFtUXVaOXFCZw?oc=5",
+      "title": "경주시, 첨성대 인근에 신라 최초 선덕여왕 회전 동상 건립 - 열린뉴스통신",
+      "date": "Mon, 23 Nov 2026 00:09:25 GMT"
     }
   ],
   "brief_articles": [
@@ -7574,7 +7652,7 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 1
+    "2026-11-23": 2
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
