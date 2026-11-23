@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCWXU5N3lIYzFmM09NVk5naWJnaW9VRmNFdkpQT3lFdjJybnU0aTZ2VDh4bkN0Wm5YWENJdnJRdnpjXzA2NDJTYmx4MWE1QjBPdUhZcUdPNVlXcmFCaS1VZ3gzc2Y?oc=5": "2026-11-09T20:02:00.513710+09:00",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTZQYXhETHZYQ0tldG81X3JaQTIxTFNYS2JWRTJ4YmNja0M0MU1YQ2VMWVBPekV5UW01M3A2MWotSS1FMEJrTzVJOWNRNzJFaDk3X1FTQzVwX18walVOUEUwQ3Z2WE9mNk5GNl9YQjNZMlFYanZHa2xLMm9lREY3TmRPLWxGcVVwcXFOdDFsUXFPV0VfY0s4Ni1iZkJlbHVzc2J5UkpZTGtQSFFB?oc=5": "2026-11-09T20:02:00.513710+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090213": "2026-11-09T20:02:00.513710+09:00",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRXRQMV81QTMyVzZOWHVLbW9FVnprLTVITWNkTl9uXzJSUEtlRmlCS1hnQkZVWWU4SlRjOXoxRFlxcEZBaDFubXZ1aDdISFU0ZC16ZGx3Zy1oQmtSeXZNSlFtSlU?oc=5": "2026-11-09T21:01:46.710440+09:00",
     "https://www.dkilbo.com/news/articleView.html?idxno=560152": "2026-11-09T21:01:46.710440+09:00",
     "https://www.yeongnam.com/web/view.php?key=20261109020469378": "2026-11-09T21:01:46.710440+09:00",
@@ -939,12 +936,14 @@
     "https://www.kbmaeil.com/article/20261123500107": "2026-11-23T19:09:56.604850+09:00",
     "http://www.breaknews.com/1253280": "2026-11-23T20:09:02.529023+09:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaV2ZuVl9UMHlVOW9TQ2Z1bExTblpsX1pfQURrNFFMS2JvOEtMQl9IblZNcUV5V0YzVDN0T0xMTTc4azZTREFYbldlUHBjNlo5ZVJlLWlLck1FU3JSMHhoSFdCdkVwOFE?oc=5": "2026-11-23T20:09:02.529023+09:00",
-    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496033": "2026-11-23T20:09:02.529023+09:00"
+    "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496033": "2026-11-23T20:09:02.529023+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=630748": "2026-11-23T21:02:31.335388+09:00",
+    "https://biz.heraldcorp.com/article/10946648?ref=naver": "2026-11-23T21:02:31.335388+09:00",
+    "https://dgmbc.com/NewsArticle/874839": "2026-11-23T21:02:31.335388+09:00",
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205573&mode=view": "2026-11-23T21:02:31.335388+09:00",
+    "https://www.dkilbo.com/news/articleView.html?idxno=561854": "2026-11-23T21:02:31.335388+09:00"
   },
   "titles": {
-    "efeb5bed0f5a59aaa312b0ad78d42142f65432ad92ba396e5292bf406b8b86ce": "2026-11-09T20:02:00.513710+09:00",
-    "cf2337b43fe64a88efdd6078b0ff679d61e7afffd6dcf9b99dff6f8a3d73b129": "2026-11-09T20:02:00.513710+09:00",
-    "abdc30229699a62af18af1b8523e8d3ce78fc5e2d91ebec96ce1ea55c8dc3869": "2026-11-09T20:02:00.513710+09:00",
     "50973bb7132d3369fddc39392a0395ce4bd9a393532631235950fad25247c120": "2026-11-09T21:01:46.710440+09:00",
     "61c36c90812172425eb2cf2a4b08b1f5b7933299cf209354793f00082c5e6891": "2026-11-09T21:01:46.710440+09:00",
     "4dcc758a44ee48f61160f33444b45e2ea114e1e4f942d164b21575fa160848af": "2026-11-09T21:01:46.710440+09:00",
@@ -1881,7 +1880,12 @@
     "aff95c7d77ed9f75f613915b0e76c1755b759bb1345d4b65bebb056f1885dd97": "2026-11-23T19:09:56.604850+09:00",
     "73feda951927119804631cd041e0f57af36b37dc7fadddc6337fcd7159c8c8c6": "2026-11-23T20:09:02.529023+09:00",
     "70437eefd036340c838cd08b7feb466016e454262dba6c8ab3f60f80c340067c": "2026-11-23T20:09:02.529023+09:00",
-    "0454cdb17e3748f475905e69c39f8887f26fe552a0f872f8879076b5f19ee36a": "2026-11-23T20:09:02.529023+09:00"
+    "0454cdb17e3748f475905e69c39f8887f26fe552a0f872f8879076b5f19ee36a": "2026-11-23T20:09:02.529023+09:00",
+    "d9cfe3542bb41e4bed23a2cadb868ff5bb1de986e7b1c172e5438d2193475adf": "2026-11-23T21:02:31.335388+09:00",
+    "4f3128415915bbea4bdd99ef43e1354512277a89a6e4cdaaf002584b4c962069": "2026-11-23T21:02:31.335388+09:00",
+    "752ee2fa409cc02fe1e37d3f99ba7bf7a6e1728d49939d6d1ca69e5a2b8add8e": "2026-11-23T21:02:31.335388+09:00",
+    "8fe4a6a88461ecb8f286ff257fbbfcd9e36933c385ab63f99a1660641ea02230": "2026-11-23T21:02:31.335388+09:00",
+    "e4123f6092147044c535ca3955b3b78d4ad3451dc7afc798a22b8e4f4082f94b": "2026-11-23T21:02:31.335388+09:00"
   },
   "pending": {},
   "ai": {
@@ -3613,6 +3617,71 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=630748": {
+      "title": "영주 상망지구 도시개발사업 준공…7만2553㎡ 규모 주거단지 조성",
+      "summary": "경북 영주시 상망동 일원에서 추진된 '상망지구 도시개발사업'이 준공됐다. 지난 2021년 8월 도시개발구역... 이 용지는 향후 입찰을 통해 공중목욕탕 시설을 건립 할 예정이다.상망지구 도시개발사업은 가흥택지지구...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630748",
+      "date": "Mon, 23 Nov 2026 20:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://biz.heraldcorp.com/article/10946648?ref=naver": {
+      "title": "성주군, 2027년 본예산 6900억원 편성…민생안정·지역경제 회복 중점",
+      "summary": "경북 성주군이 2027년도 본예산을 올해보다 220억원(3.29%) 증가한 6900억원 규모로 편성해 군의회에... 저출생과 인구감소 대응을 위한 육아친화형 공공임대주택 건립 에는 50억원을 투입하며, 성주3일반산업단지 조성...",
+      "url": "https://biz.heraldcorp.com/article/10946648?ref=naver",
+      "date": "Mon, 23 Nov 2026 20:49:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://dgmbc.com/NewsArticle/874839": {
+      "title": "대구 가톨릭대병원 조정 결렬···노조 11월 25일 파업 예고",
+      "summary": "의료연대노조 대구 가톨릭대분회장▶ \"노동조합이 간호사 1인당 환자 수 10명과 환자 이송팀을 요구 하는... 수준이라고 해명 했습니다. 또 임금 2% 인상안, 육아휴직 수당 80만 원 인상 등을 제시하며 합의에 노력해 왔다고...",
+      "url": "https://dgmbc.com/NewsArticle/874839",
+      "date": "Mon, 23 Nov 2026 20:47:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.phmbc.co.kr/www/news/desk_news?idx=205573&mode=view": {
+      "title": "포항 시, 내년도 예산 3조 2,825억 원…민생·지역 경제 중점",
+      "summary": "이 밖에 포항 국제전시컨벤션센터 건립 에 328억 원, 시립미술관 제2관 건립 에 200억 원, 철강 산업 경쟁력 향상에 191억 원 등 민생과 지역 경제 활력에 중점을 둔 예산안으로 편성됐습니다.",
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205573&mode=view",
+      "date": "Mon, 23 Nov 2026 20:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.dkilbo.com/news/articleView.html?idxno=561854": {
+      "title": "포항 시, 내년도 예산 3조2825억 원 편성…민생 회복·지역경제 활력 중점",
+      "summary": "포항 시가 2027년도 예산안을 3조2825억 원 규모로 편성했다. 시민 생활을 안정적으로 뒷받침하고 어려움을... 청년징검다리주택 건립 38억 원, 청년농촌보금자리 조성 30억 원도 반영했다. 시민들이 일상에서 겪는...",
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=561854",
+      "date": "Mon, 23 Nov 2026 20:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3634,26 +3703,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-23",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRXRQMV81QTMyVzZOWHVLbW9FVnprLTVITWNkTl9uXzJSUEtlRmlCS1hnQkZVWWU4SlRjOXoxRFlxcEZBaDFubXZ1aDdISFU0ZC16ZGx3Zy1oQmtSeXZNSlFtSlU?oc=5",
-      "title": "수년째 빈집·공터...대구, 장기 미착공 '재개발·재건축' 77곳 '안전' 사각지대 - 평화뉴스",
-      "date": "Mon, 09 Nov 2026 11:51:57 GMT"
-    },
-    {
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=560152",
-      "title": "포항 시, 미국 한남체인과 맞손…농수산특산품 수출 확대",
-      "date": "Mon, 09 Nov 2026 20:30:00 +0900"
-    },
-    {
-      "url": "https://www.yeongnam.com/web/view.php?key=20261109020469378",
-      "title": "부동산 공실이 되레 호재로…대구 2차 공공기관 이전 ‘임시청사’가 막...",
-      "date": "Mon, 09 Nov 2026 20:36:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80eW5DWXpMdHdaQmRGRDhFdXlGZ1pfNTkzaWVkUTYzbDVBVEI0ZHpjRkxMR1VaS0paTmVZd3piRGRIM0ZPQ0dISTJaQjJLY2xyQkdXUUlyVTFLTzI0anpSbEpDMDlFdkZtcFRXSl9tZWhQc2Zf?oc=5",
-      "title": "POSCO Union Rejects Wage Deal with Re-strike Looming - Businesskorea",
-      "date": "Mon, 09 Nov 2026 11:15:21 GMT"
-    },
     {
       "url": "https://www.vegannews.co.kr/news/article.html?no=402641",
       "title": "한국가스공사 , 12일 3분기 잠정실적 공시",
@@ -8318,6 +8367,31 @@
       "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496033",
       "title": "한수원 \"체코 원전 차질 없이 추진···적기 준공 약속 지킬 것\"",
       "date": "Mon, 23 Nov 2026 19:10:00 +0900"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630748",
+      "title": "영주 상망지구 도시개발사업 준공…7만2553㎡ 규모 주거단지 조성",
+      "date": "Mon, 23 Nov 2026 20:52:00 +0900"
+    },
+    {
+      "url": "https://biz.heraldcorp.com/article/10946648?ref=naver",
+      "title": "성주군, 2027년 본예산 6900억원 편성…민생안정·지역경제 회복 중점",
+      "date": "Mon, 23 Nov 2026 20:49:00 +0900"
+    },
+    {
+      "url": "https://dgmbc.com/NewsArticle/874839",
+      "title": "대구 가톨릭대병원 조정 결렬···노조 11월 25일 파업 예고",
+      "date": "Mon, 23 Nov 2026 20:47:00 +0900"
+    },
+    {
+      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205573&mode=view",
+      "title": "포항 시, 내년도 예산 3조 2,825억 원…민생·지역 경제 중점",
+      "date": "Mon, 23 Nov 2026 20:42:00 +0900"
+    },
+    {
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=561854",
+      "title": "포항 시, 내년도 예산 3조2825억 원 편성…민생 회복·지역경제 활력 중점",
+      "date": "Mon, 23 Nov 2026 20:36:00 +0900"
     }
   ],
   "brief_articles": [
