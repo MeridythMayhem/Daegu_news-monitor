@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://www.vegannews.co.kr/news/article.html?no=402641": "2026-11-09T22:01:58.247610+09:00",
-    "http://www.newstown.co.kr/news/articleView.html?idxno=721298": "2026-11-09T22:01:58.247610+09:00",
     "http://www.sisunnews.co.kr/news/articleView.html?idxno=249330": "2026-11-10T09:02:06.651926+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=728653": "2026-11-10T09:02:06.651926+09:00",
     "http://www.popcornnews.net/news/articleView.html?idxno=139315": "2026-11-10T09:02:06.651926+09:00",
@@ -940,8 +938,6 @@
     "https://www.dkilbo.com/news/articleView.html?idxno=561854": "2026-11-23T21:02:31.335388+09:00"
   },
   "titles": {
-    "39f23773ddaf46c817d67cb2aac4dc895c650a60a99e56a97b48b6e6e6ecf204": "2026-11-09T22:01:58.247610+09:00",
-    "88c5d440f4b4151a4cc1ed03853a36bb3e08f25f62a48b48f4fd60c8f5565c16": "2026-11-09T22:01:58.247610+09:00",
     "93be9d9a67f0be1fb5163f0c5a5a0f725f877a350648b4601dedbd8075e6c046": "2026-11-10T09:02:06.651926+09:00",
     "7c93041134412303c8d5d4e9b79db9f9061ee2aa5041d2b93810ae4a4b2e0cc0": "2026-11-10T09:02:06.651926+09:00",
     "6dffc3da7d5b2f5f7d48541c07f89ff81a392adfc50c438663d03f77e2581ba2": "2026-11-10T09:02:06.651926+09:00",
@@ -1887,36 +1883,10 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 14
+    "2026-11-23": 15
   },
   "cursor": 0,
   "archive": {
-    "http://sateconomy.co.kr/news/view/1065619859275096": {
-      "title": "현대제철· 포스코 , 美 제철소 항만 분쟁 넘자 환경허가 소송…수소·전...",
-      "summary": "항만채권 소송 각하 사흘 만에 대기허가 취소 청구 환경단체, 오염저감 기술·주민 영향 검토 부실 주장 美 환경보호청 별도 심사 진행…2029년 가동 영향 미확정 ▲ 포스코 현대제철 [토요경제] 포스코 와...",
-      "url": "http://sateconomy.co.kr/news/view/1065619859275096",
-      "date": "Sat, 21 Nov 2026 22:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYnVyU2h0TWpLMUR1N251S3ktWW9rc1ZDQ1J0T3B6eUJ4OG9SOUNDZ25EeC0yazl3eEtJbnhJNlJZdzFmZFdRWnJ3X1FkQ0RhQ2ZDRmQtOWVhYUo4NEFSeS1NSFVMU0wtZVh6WDlR?oc=5": {
-      "title": "경북 콘텐츠 IP, 사업화 날개…투자·제작 협력 3건 성사 - 국제뉴스",
-      "summary": "경북 콘텐츠 IP, 사업화 날개…투자·제작 협력 3건 성사 국제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qYnVyU2h0TWpLMUR1N251S3ktWW9rc1ZDQ1J0T3B6eUJ4OG9SOUNDZ25EeC0yazl3eEtJbnhJNlJZdzFmZFdRWnJ3X1FkQ0RhQ2ZDRmQtOWVhYUo4NEFSeS1NSFVMU0wtZVh6WDlR?oc=5",
-      "date": "Sat, 21 Nov 2026 13:43:27 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.news1.kr/local/daegu-gyeongbuk/6361777": {
       "title": "칠곡 공장 서 화재 …재산 피해 5000여만 원, 인명피해 없어",
       "summary": "경북 칠곡군의 한 공장 에서 불이 나 소방서 추산 5000여만 원 상당의 재산 피해가 발생했다. 22일... 소방 당국은 기계적 요인으로 불이 난 것으로 보고 정확한 화재 원인과 피해 규모를 조사하고 있다.",
@@ -3672,6 +3642,19 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611232251187810274": {
+      "title": "포스코 이앤씨ㆍ두산건설, 상계3구역 공공재개발 수주",
+      "summary": "4호선 불암산역 인근 2550가구 규모 포스코 이앤씨와 두산건설이 서울 노원구 상계3구역 공공재개발 시공권을 확보했다. 한국토지주택공사(LH)는 상계3구역 공공재개발 사업 시공사로 포스코 이앤씨ㆍ두산건설 컨소시엄이...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611232251187810274",
+      "date": "Mon, 23 Nov 2026 23:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
     }
@@ -8415,7 +8398,7 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 10
+    "2026-11-23": 11
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
