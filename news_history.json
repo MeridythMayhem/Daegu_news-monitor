@@ -1,9 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fRXRQMV81QTMyVzZOWHVLbW9FVnprLTVITWNkTl9uXzJSUEtlRmlCS1hnQkZVWWU4SlRjOXoxRFlxcEZBaDFubXZ1aDdISFU0ZC16ZGx3Zy1oQmtSeXZNSlFtSlU?oc=5": "2026-11-09T21:01:46.710440+09:00",
-    "https://www.dkilbo.com/news/articleView.html?idxno=560152": "2026-11-09T21:01:46.710440+09:00",
-    "https://www.yeongnam.com/web/view.php?key=20261109020469378": "2026-11-09T21:01:46.710440+09:00",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE80eW5DWXpMdHdaQmRGRDhFdXlGZ1pfNTkzaWVkUTYzbDVBVEI0ZHpjRkxMR1VaS0paTmVZd3piRGRIM0ZPQ0dISTJaQjJLY2xyQkdXUUlyVTFLTzI0anpSbEpDMDlFdkZtcFRXSl9tZWhQc2Zf?oc=5": "2026-11-09T21:01:46.710440+09:00",
     "https://www.vegannews.co.kr/news/article.html?no=402641": "2026-11-09T22:01:58.247610+09:00",
     "http://www.newstown.co.kr/news/articleView.html?idxno=721298": "2026-11-09T22:01:58.247610+09:00",
     "http://www.sisunnews.co.kr/news/articleView.html?idxno=249330": "2026-11-10T09:02:06.651926+09:00",
@@ -944,10 +940,6 @@
     "https://www.dkilbo.com/news/articleView.html?idxno=561854": "2026-11-23T21:02:31.335388+09:00"
   },
   "titles": {
-    "50973bb7132d3369fddc39392a0395ce4bd9a393532631235950fad25247c120": "2026-11-09T21:01:46.710440+09:00",
-    "61c36c90812172425eb2cf2a4b08b1f5b7933299cf209354793f00082c5e6891": "2026-11-09T21:01:46.710440+09:00",
-    "4dcc758a44ee48f61160f33444b45e2ea114e1e4f942d164b21575fa160848af": "2026-11-09T21:01:46.710440+09:00",
-    "72875cf7d3b5cf93178fd39331e12b40ab76bb8d4cbc7e4e1251576f31551ef5": "2026-11-09T21:01:46.710440+09:00",
     "39f23773ddaf46c817d67cb2aac4dc895c650a60a99e56a97b48b6e6e6ecf204": "2026-11-09T22:01:58.247610+09:00",
     "88c5d440f4b4151a4cc1ed03853a36bb3e08f25f62a48b48f4fd60c8f5565c16": "2026-11-09T22:01:58.247610+09:00",
     "93be9d9a67f0be1fb5163f0c5a5a0f725f877a350648b4601dedbd8075e6c046": "2026-11-10T09:02:06.651926+09:00",
@@ -1895,23 +1887,10 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 13
+    "2026-11-23": 14
   },
   "cursor": 0,
   "archive": {
-    "https://www.news1.kr/local/daegu-gyeongbuk/6361737": {
-      "title": "'노동자 58명' 임금·퇴직금 7억 체불한 포항 요양병원장 구속",
-      "summary": "대구지방고용노동청 포항 지청은 근로기준법 및 근로자퇴직급여 보장법 위반 혐의로 포항 모 요양병원 대표 A 씨를 구속 했다고 21일 밝혔다. 포항 지청에 따르면 A 씨는 요양병원을 운영 및 폐업하는 과정에서 근로자...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6361737",
-      "date": "Sat, 21 Nov 2026 21:13:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
     "http://sateconomy.co.kr/news/view/1065619859275096": {
       "title": "현대제철· 포스코 , 美 제철소 항만 분쟁 넘자 환경허가 소송…수소·전...",
       "summary": "항만채권 소송 각하 사흘 만에 대기허가 취소 청구 환경단체, 오염저감 기술·주민 영향 검토 부실 주장 美 환경보호청 별도 심사 진행…2029년 가동 영향 미확정 ▲ 포스코 현대제철 [토요경제] 포스코 와...",
@@ -3682,6 +3661,19 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "http://andongmbc.co.kr/adboard/NewsView85892": {
+      "title": "[R] 대구 가톨릭대병원 조정 결렬···노조 25일 파업 예고",
+      "summary": "배호경/의료연대노조 대구 가톨릭대분회장 \"노동조합이 간호사 1인당 환자 수 10명과 환자 이송팀을 요구 하... 수준이라고 해명 했습니다. 또 임금 2% 인상안, 육아휴직 수당 80만 원 인상 등을 제시하며 합의에 노력해...",
+      "url": "http://andongmbc.co.kr/adboard/NewsView85892",
+      "date": "Mon, 23 Nov 2026 21:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3703,16 +3695,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-23",
   "sent_articles": [
-    {
-      "url": "https://www.vegannews.co.kr/news/article.html?no=402641",
-      "title": "한국가스공사 , 12일 3분기 잠정실적 공시",
-      "date": "Mon, 09 Nov 2026 21:48:00 +0900"
-    },
-    {
-      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721298",
-      "title": "포항 시, 미국 대형 유통업체와 협약…농수산특산품 북미 수출 확대",
-      "date": "Mon, 09 Nov 2026 21:01:00 +0900"
-    },
     {
       "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249330",
       "title": "영남공업고등학교, 대구 가톨릭대·경북경산산학융합원과 MOU 체결",
@@ -8433,7 +8415,7 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 9
+    "2026-11-23": 10
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
