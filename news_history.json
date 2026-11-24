@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://www.starnewskorea.com/business-life/2026/11/10/2026111020340556963": "2026-11-10T21:02:04.950585+09:00",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNERoTmllcnVuRkJmVVZkblF1UVNINHZMVGpjVW5qZUMzU20xcFN1MHJxaEloUDB6QzIyVWtCSHBkdG9iakk0bDNwcHJDWXNqVHI2MDZWeTlwcnVBN2E1dWtNdk55R1FFS29XRGQ5VGU?oc=5": "2026-11-10T21:02:04.950585+09:00",
     "https://www.hankyung.com/article/202611108623h": "2026-11-10T22:01:44.829708+09:00",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ma0I5RFd5eWFyWmNaWDhCSGMtS3YyZEctZ3diazhUS0QxUy0xUWMyTk0yTU5zX0tSSXN3aXVQak9yVlcxT0MyQ2VqWVF0QnRQTXFBQkNXdklJMXR4LWlYSmtIZw?oc=5": "2026-11-10T22:01:44.829708+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=564983": "2026-11-10T22:01:44.829708+09:00",
@@ -919,11 +917,10 @@
     "https://www.inthenews.co.kr/news/article.html?no=94959": "2026-11-24T20:09:07.033068+09:00",
     "http://www.dtnews24.com/news/articleView.html?idxno=817598": "2026-11-24T20:09:07.033068+09:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUs4dkdac0J5NjJHcWoyZjlReE8wV3J2cHhpSDlkNUNIOTFVSXFmZnF3bzAtVlFncFRTNkZBa2Q2VzVCX3Z6RkpXQThkSENKTkNRVTFqbF80SDR0cVIzRU5HSEJjZlZwSEl5X0I5V1RCTUNoZ1NYNzNPMmtMRWdoV05pbmJxWldBLWpoUVBSM1Q?oc=5": "2026-11-24T20:09:07.033068+09:00",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzV2bkRxalJlNnlDNjNUQnFKbXBpcm4wWk90MFM1OEIyVWR5X1FUTVcwMVZVdGRsSGdGanJfcXl2bTNnOVR0OFdBRGN6aTZYWmswZlJqaFNQN0RERGN6VzRpSF9fdU5wbmVTTmQ3SFBuUTB2dEhoYjdiQmx1ZFRvNkV4U0p6T1NnSVh6Wlk3XzdCaUhxdUZtRGdxOA?oc=5": "2026-11-24T21:08:21.123982+09:00"
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzV2bkRxalJlNnlDNjNUQnFKbXBpcm4wWk90MFM1OEIyVWR5X1FUTVcwMVZVdGRsSGdGanJfcXl2bTNnOVR0OFdBRGN6aTZYWmswZlJqaFNQN0RERGN6VzRpSF9fdU5wbmVTTmQ3SFBuUTB2dEhoYjdiQmx1ZFRvNkV4U0p6T1NnSVh6Wlk3XzdCaUhxdUZtRGdxOA?oc=5": "2026-11-24T21:08:21.123982+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=410598": "2026-11-24T22:09:46.781450+09:00"
   },
   "titles": {
-    "63c4b0bcd024d665d18c50b0965ec68fcbeb6e2aa859b026d701b52691f8d246": "2026-11-10T21:02:04.950585+09:00",
-    "3b86f05192bed1a05cb10b325c6cc5274ff2722a3d2fb8a4ee35ea7ce653b0ed": "2026-11-10T21:02:04.950585+09:00",
     "7d8140e060694b881126d59326b16c9e653d47c51e8334c3b0b6a376e94d4f51": "2026-11-10T22:01:44.829708+09:00",
     "ebb1a366b63fc2d5368ec916153ecc45c29221e87cddaadab5542b6ef4499782": "2026-11-10T22:01:44.829708+09:00",
     "27c7b5d36b63ed84f271e76d830e4efb313e5b114599856fa6d825c5073fa801": "2026-11-10T22:01:44.829708+09:00",
@@ -1841,7 +1838,8 @@
     "466b1a2789f0b6eace577fffe69e46bb8199bccf58da006dd4b2757e5c379dd6": "2026-11-24T20:09:07.033068+09:00",
     "0fbbd19e62d2b2df39c802a1ce257236fb928b520b781065090cfb4cbf8ae438": "2026-11-24T20:09:07.033068+09:00",
     "120717d23476afc2d4025567c0a74592769f9a33d00bba4be3171f73810aa21a": "2026-11-24T20:09:07.033068+09:00",
-    "09e5eb4e9b14587ec1d673ca313d8a3d4b54788bad105ff0a9698e22bd0f9117": "2026-11-24T21:08:21.123982+09:00"
+    "09e5eb4e9b14587ec1d673ca313d8a3d4b54788bad105ff0a9698e22bd0f9117": "2026-11-24T21:08:21.123982+09:00",
+    "b49e8211dc19db66aa0d99b7b09ac2d6c96cf1e1c560cfd4ff3c4a8145cfb23d": "2026-11-24T22:09:46.781450+09:00"
   },
   "pending": {},
   "ai": {
@@ -1851,63 +1849,10 @@
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 15,
-    "2026-11-24": 15
+    "2026-11-24": 17
   },
   "cursor": 0,
   "archive": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=566117": {
-      "title": "대구 시의회 \"복합 돔구장 건립 최적지는 대구 \"",
-      "summary": "대구 시는 두류공원 유니버시아드 테니스장 일원에 2만 석(수용인원 3만 명) 규모의 복합 돔구장을 건립 하고자 중규모 부문에 참여하고 있다. 대구 시의회 임인환 의장은 \"최적의 입지 조건을 갖춘 대구 가 240만 대구 시민의...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566117",
-      "date": "Sun, 22 Nov 2026 21:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.yeongnam.com/web/view.php?key=20261122022131343": {
-      "title": "대구 차부품 ‘빅3’ 3분기 매출↑순익↓…환율·비용 여파",
-      "summary": "22일 금융감독원 전자공시시스템에 따르면 에스엘 ·삼보모터스·피에이치에이(PHA) 등 대구 차부품 3사의... 돌아섰다. 에스엘 은 3분기 매출 1조3천639억원을 올려 전년 동기(1조3천26억원)보다 4.7% 성장했다. 북미...",
-      "url": "https://www.yeongnam.com/web/view.php?key=20261122022131343",
-      "date": "Sun, 22 Nov 2026 21:22:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.yeongnam.com/web/view.php?key=20261122022261472": {
-      "title": "[대구 車부품 빅3 실적 분석] 환율·비용 폭탄에 3분기 ‘순손실’",
-      "summary": "영남일보 DB 삼보모터스 CI. 영남일보 DB 피에이치에이 CI. 영남일보 DB 원·달러 환율 상승기에 수출 수혜... 등 대외 여건이 녹록지 않아 원가 및 리스크 관리에 주력하고 있다\"고 전했다.이동현( 경제 )기자 shineast@yeongnam.com",
-      "url": "https://www.yeongnam.com/web/view.php?key=20261122022261472",
-      "date": "Sun, 22 Nov 2026 21:22:00 +0900",
-      "channels": [
-        "domestic",
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
-      "filter_version": 18
-    },
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=566091": {
-      "title": "\"양극재 사업 확대\"… 엘앤에프 , 1515억 규모 전환사채 발행",
-      "summary": "글로벌 이차전지 소재 전문 기업인 엘앤에프 는 지난 19일 이사회를 열고 총 1천515억원 규모의 전환사채(CB)... 엘앤에프 는 자본성 조달인 영구 CB를 활용해 재무 부담을 최소화하는 동시에 사업 확대에 필요한 재원을...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566091",
-      "date": "Sun, 22 Nov 2026 21:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 엘앤에프",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=566146": {
       "title": "경북 도, 경산에 '전기차 충돌안전부품 기술센터' 준공",
       "summary": "경북 도는 지난 20일 경산지식산업지구에서 '전기차 충돌안전부품 기술센터' 준공식을 개최했다. 경북 도가... 규모로 건립 됐다. 센터 건립 과 기업 기술고도화에 2027년까지 총 222억원이 투입된다. xEV 보호차체는 전기차...",
@@ -4667,6 +4612,58 @@
       "category": "해외기업 동향",
       "priority": 50,
       "filter_version": 18
+    },
+    "https://biz.heraldcorp.com/article/10948057?ref=naver": {
+      "title": "경주 외동산단 복합문화센터 준공…내년 1월 개방",
+      "summary": "경북 경주 외동산업단지에 근로자와 지역 주민이 함께 이용할 수 있는 복합문화센터가 들어섰다. 경주시는... 지난해 7월 착공한 복합문화센터는 총사업비 71억원을 투입해 연면적 1436㎡, 지상 2층 규모로 건립 됐다....",
+      "url": "https://biz.heraldcorp.com/article/10948057?ref=naver",
+      "date": "Tue, 24 Nov 2026 21:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.idaegu.co.kr/news/articleView.html?idxno=566311": {
+      "title": "상주 입석1리 커뮤니티센터 준공",
+      "summary": "이 사업은 경북 도가 지방소멸대응기금(광역)으로 추진한 생활인구 활성화 분야 4개 공모사업 중 하나로... 총사업비는 4억 원(도 2억, 시 2억)이며, 연면적 111.75㎡ 규모로 건립 했다. 센터는 인접한 블루베리 선별장과...",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566311",
+      "date": "Tue, 24 Nov 2026 21:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.segye.com/newsView/20261124519243?OutUrl=naver": {
+      "title": "경주 외동산단에 복합문화센터 준공, 문화·여가 공간 기대",
+      "summary": "연면적 1436㎡, 지상 2층 규모 건립 북카페·세탁소·체력단련·회의실 갖춰 근로자복지 개선·주민 문화생활 지원 경북 경주 외동산업단지에 근로자와 인근 주민이 함께 이용할 수 있는 복합문화센터가 들어섰다. 경주시는...",
+      "url": "https://www.segye.com/newsView/20261124519243?OutUrl=naver",
+      "date": "Tue, 24 Nov 2026 21:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=410598": {
+      "title": "에코프로 비엠, 인도네시아 제련소 투자 싱가포르 법인으로 변경",
+      "summary": "종속회사에 6222억원 출자…최종 납입일은 2027년 6월 30일 에코프로 비엠(247540)이 인도네시아 제련소 투자 구조를 바꿔 싱가포르 종속회사에 6222억원을 출자한다. 24일 공시한 타법인 주식 및 출자증권...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=410598",
+      "date": "Tue, 24 Nov 2026 21:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4690,41 +4687,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-24",
   "sent_articles": [
-    {
-      "url": "https://www.hankyung.com/article/202611108623h",
-      "title": "대구시의회 경제환경위, 대구 투자유치 실적 급감과 착공 지연 문제 지...",
-      "date": "Tue, 10 Nov 2026 21:48:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ma0I5RFd5eWFyWmNaWDhCSGMtS3YyZEctZ3diazhUS0QxUy0xUWMyTk0yTU5zX0tSSXN3aXVQak9yVlcxT0MyQ2VqWVF0QnRQTXFBQkNXdklJMXR4LWlYSmtIZw?oc=5",
-      "title": "대구 서구, 골목상권에 활력 더한 원대명물가구거리 가구쇼 개최 - 시사뉴스",
-      "date": "Tue, 10 Nov 2026 12:42:56 GMT"
-    },
-    {
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564983",
-      "title": "신보· iM뱅크 ·대구신보재단 '내부통제 역량 강화' MOU",
-      "date": "Tue, 10 Nov 2026 21:34:00 +0900"
-    },
-    {
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=564967",
-      "title": "경북 체육회-울릉크루즈, 체육인 복지 증진 MOU",
-      "date": "Tue, 10 Nov 2026 21:34:00 +0900"
-    },
-    {
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747428",
-      "title": "경주시 복합문화도서관 건립 속도…2028년 9월 개관 목표",
-      "date": "Tue, 10 Nov 2026 21:28:00 +0900"
-    },
-    {
-      "url": "http://andongmbc.co.kr/adboard/NewsView85691",
-      "title": "경북 학교급식교육관 상주에 건립 ..내후년 개관",
-      "date": "Tue, 10 Nov 2026 21:18:00 +0900"
-    },
-    {
-      "url": "https://www.tbc.co.kr/news/view?pno=20261110085804AE08250&id=213148",
-      "title": "유령법인 명의 대포계좌 유통 64명 검거...26명 구속",
-      "date": "Tue, 10 Nov 2026 21:10:00 +0900"
-    },
     {
       "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229663",
       "title": "당진 석탄발전 대체할 '호남복합', 핵심설비 건설계약",
@@ -9279,6 +9241,11 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzV2bkRxalJlNnlDNjNUQnFKbXBpcm4wWk90MFM1OEIyVWR5X1FUTVcwMVZVdGRsSGdGanJfcXl2bTNnOVR0OFdBRGN6aTZYWmswZlJqaFNQN0RERGN6VzRpSF9fdU5wbmVTTmQ3SFBuUTB2dEhoYjdiQmx1ZFRvNkV4U0p6T1NnSVh6Wlk3XzdCaUhxdUZtRGdxOA?oc=5",
       "title": "Posco completes $550 million US shale gas acquisition - Quantum Commodity Intelligence",
       "date": "Tue, 24 Nov 2026 11:35:49 GMT"
+    },
+    {
+      "url": "https://www.vegannews.co.kr/news/article.html?no=410598",
+      "title": "에코프로 비엠, 인도네시아 제련소 투자 싱가포르 법인으로 변경",
+      "date": "Tue, 24 Nov 2026 21:28:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9325,7 +9292,7 @@
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 11,
-    "2026-11-24": 9
+    "2026-11-24": 10
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
