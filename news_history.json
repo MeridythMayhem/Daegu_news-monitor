@@ -935,7 +935,16 @@
     "https://biz.heraldcorp.com/article/10946648?ref=naver": "2026-11-23T21:02:31.335388+09:00",
     "https://dgmbc.com/NewsArticle/874839": "2026-11-23T21:02:31.335388+09:00",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=205573&mode=view": "2026-11-23T21:02:31.335388+09:00",
-    "https://www.dkilbo.com/news/articleView.html?idxno=561854": "2026-11-23T21:02:31.335388+09:00"
+    "https://www.dkilbo.com/news/articleView.html?idxno=561854": "2026-11-23T21:02:31.335388+09:00",
+    "https://www.sidae.com/article/2026112408293785399": "2026-11-24T09:08:36.797314+09:00",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507318": "2026-11-24T09:08:36.797314+09:00",
+    "https://www.kukinews.com/article/view/kuk202611240014": "2026-11-24T09:08:36.797314+09:00",
+    "https://biz.heraldcorp.com/article/10946911?ref=naver": "2026-11-24T09:08:36.797314+09:00",
+    "http://www.datanews.co.kr/news/article.html?no=147757": "2026-11-24T09:08:36.797314+09:00",
+    "http://www.press9.kr/news/articleView.html?idxno=86881": "2026-11-24T09:08:36.797314+09:00",
+    "https://thetracker.co.kr/View.aspx?No=4326139": "2026-11-24T09:08:36.797314+09:00",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRXRzYVp0amFHdUNJTjFTYlRfTUZQUVVNQVF0eUFQZ2NPaThjN1F3YmQyYzNwT0Jxb2hLYTdPbF9YVFhBUGFUVEM3Xzdfc2EyOEtr?oc=5": "2026-11-24T09:08:36.797314+09:00",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZXNLenQwQkJsUVItRWpHVkdiLTJPQi1zX215MzhtdzF1UXZwczFibTlxa19VMGVnRXFzNDFFbjA3aDZ1c0pTQ2Y3ckN1UFRGRS1SbHFqTF92dEw5QXR2cUxvQi1NTlpyQmhsQm9QMlM?oc=5": "2026-11-24T09:08:36.797314+09:00"
   },
   "titles": {
     "93be9d9a67f0be1fb5163f0c5a5a0f725f877a350648b4601dedbd8075e6c046": "2026-11-10T09:02:06.651926+09:00",
@@ -1873,7 +1882,16 @@
     "4f3128415915bbea4bdd99ef43e1354512277a89a6e4cdaaf002584b4c962069": "2026-11-23T21:02:31.335388+09:00",
     "752ee2fa409cc02fe1e37d3f99ba7bf7a6e1728d49939d6d1ca69e5a2b8add8e": "2026-11-23T21:02:31.335388+09:00",
     "8fe4a6a88461ecb8f286ff257fbbfcd9e36933c385ab63f99a1660641ea02230": "2026-11-23T21:02:31.335388+09:00",
-    "e4123f6092147044c535ca3955b3b78d4ad3451dc7afc798a22b8e4f4082f94b": "2026-11-23T21:02:31.335388+09:00"
+    "e4123f6092147044c535ca3955b3b78d4ad3451dc7afc798a22b8e4f4082f94b": "2026-11-23T21:02:31.335388+09:00",
+    "2abea3c3efabc3befa344fef1b91af0108da3958873f30a8cc1ac5b2a4e825ac": "2026-11-24T09:08:36.797314+09:00",
+    "ad823d1a93175a2ba2ab21051850b5b83e051ddc2fbdb861baeeddea3d5c69d4": "2026-11-24T09:08:36.797314+09:00",
+    "3286d673b4c24ccfae22331a7d4686c387312f66079d9729ce9bc7e327f193d6": "2026-11-24T09:08:36.797314+09:00",
+    "68215ea98c0d5b1e93cda2b399facb8b2aa3393221c704499ca62f96a215b60b": "2026-11-24T09:08:36.797314+09:00",
+    "dfc0a37ac632004e182df0f6ff8966a85ed328905f144c9464b8cb4b970b62fa": "2026-11-24T09:08:36.797314+09:00",
+    "d22f6d3ab6fe08877c978f9794f39a161e9d56e388aeab89b6aa38ec7cdbe747": "2026-11-24T09:08:36.797314+09:00",
+    "3c230e40ad68862de62c854367a82242b93bbe23eafa5c5931cf221059c6ca0c": "2026-11-24T09:08:36.797314+09:00",
+    "13c81625ade5e673648acd5192c09219736954f04d3e1061fc47a69ca63fb665": "2026-11-24T09:08:36.797314+09:00",
+    "06e907790db48f44c9f4bef8fac31f6d90cca5e2d2e31066a7fae6e99ea78fbf": "2026-11-24T09:08:36.797314+09:00"
   },
   "pending": {},
   "ai": {
@@ -1886,45 +1904,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.newspim.com/news/view/20261122000006": {
-      "title": "칠곡 심청리 공장 서 화재 1시간여만에 진화...인명피해 없어",
-      "summary": "경북 칠곡의 한 공장 에서 화재 가 발생해 1시간여 만에 진화됐다. 다행히 인명피해는 없었다. 22일 경북 소방본부에 따르면 전날 오후 2시 4분쯤 칠곡군 왜관읍 심청리의 한 공장 에서 내부 플라스틱 압출기에서...",
-      "url": "https://www.newspim.com/news/view/20261122000006",
-      "date": "Sun, 22 Nov 2026 08:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://biz.heraldcorp.com/article/10944869?ref=naver": {
-      "title": "대구 시의회 “국가균형발전 위해 대구 돔구장 건립 해야”",
-      "summary": "대구 시의회가 지난 20일 ‘ 대구 돔구장 선정 촉구 건의안’을 채택하고 정부에 돔구장 유치를 촉구했다. 시의회는 두류공원 부지의 시유지 확보와 교통 접근성, 프로야구와 대구 국제뮤지컬페스티벌 등 풍부한 문화·예술...",
-      "url": "https://biz.heraldcorp.com/article/10944869?ref=naver",
-      "date": "Sun, 22 Nov 2026 08:21:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVkR4Qm5kWGRjOHJZQlYtMkIwNWNiWnJzckw0R2lvLU9zV3ZaVVp1X1JwcjNENEpaOVM3V2RZVnhuNUd5amtqUnNsOENWNG9udV9B?oc=5": {
-      "title": "경상북도, 전기차 충돌안전부품 기술센터 준공 `미래차 부품 충돌안전 시험·평가 기반 마련` - CBN뉴스",
-      "summary": "경상북도, 전기차 충돌안전부품 기술센터 준공 `미래차 부품 충돌안전 시험·평가 기반 마련` CBN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVkR4Qm5kWGRjOHJZQlYtMkIwNWNiWnJzckw0R2lvLU9zV3ZaVVp1X1JwcjNENEpaOVM3V2RZVnhuNUd5amtqUnNsOENWNG9udV9B?oc=5",
-      "date": "Sat, 21 Nov 2026 23:15:17 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://news.tf.co.kr/read/national/2391821.htm": {
       "title": "경북 곳곳서 화재 ·축사 안전사고·교통사고 잇따라…3명 사상",
       "summary": "칠곡 왜관 공장 화재 로 공장 일부 소실 청송 축사서 60대 남성 심정지, 봉화서는 3중 추돌사고 경북 북부지역에서 공장 화재 와 축사 안전사고, 교통사고가 잇따라 발생해 소방당국이 긴급 출동했다. 22일 경북 소방본부...",
@@ -3656,6 +3635,123 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 18
+    },
+    "http://www.datanews.co.kr/news/article.html?no=147757": {
+      "title": "에코프로 비엠, 헝가리·BNSI 가동…실적 회복 속도낸다",
+      "summary": "에코프로 비엠이 전기차(EV)용 양극재 판매 부진으로 실적 회복에 어려움을 겪고 있다. 내년부터 헝가리 공장의 생산 확대와 인도네시아 니켈 제련소 가동에 따른 실적 개선이 기대되지만, 주력 양극재 사업의...",
+      "url": "http://www.datanews.co.kr/news/article.html?no=147757",
+      "date": "Tue, 24 Nov 2026 08:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507318": {
+      "title": "유진투자증권 \"국제유가 반등해도 정유사 실적은 뒷걸음질? GS· 포스코 인...",
+      "summary": "포스코 인터내셔널도 에너지 자원개발 관련주로 함께 거론할 수 있다. 다만 이 회사의 핵심 사업은 원유... 포스코 인터내셔널은 가스전 생산 확대와 에너지 판매가격이 핵심 변수다. LX인터내셔널은 원유보다는 석탄·니켈...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507318",
+      "date": "Tue, 24 Nov 2026 08:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kukinews.com/article/view/kuk202611240014": {
+      "title": "포스코 그룹 ‘트리플 코어’ 첫 에너지자원 투자 결실…美 애팔래치안...",
+      "summary": "쿠키뉴스=김재민 기자 | 포스코 그룹이 미국 셰일가스전 인수를 완료하며 ‘트리플 코어(Triple Core)’ 전략 발표 이후 첫 해외 에너지자원을 확보하는 성과를 거뒀다. 포스코 인터내셔널은 23일(현지시간) 미국...",
+      "url": "https://www.kukinews.com/article/view/kuk202611240014",
+      "date": "Tue, 24 Nov 2026 08:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://biz.heraldcorp.com/article/10946911?ref=naver": {
+      "title": "포스코 인터, ‘7400억원 투자’ 美 애팔래치안 셰일가스전 인수 완료",
+      "summary": "포스코 인터내셔널은 23일(현지시간) 미국 코드에너지가 보유한 펜실베이니아주 애팔래치안 셰일가스전... 이날 미국 텍사스주 휴스턴 포시즌스 호텔에서 열린 인수 서명식에는 장인화 포스코 그룹 회장을 비롯해...",
+      "url": "https://biz.heraldcorp.com/article/10946911?ref=naver",
+      "date": "Tue, 24 Nov 2026 08:55:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.press9.kr/news/articleView.html?idxno=86881": {
+      "title": "포스코 홀딩스, 리튬 子 적자 ↓...내년 실적 기대-iM證",
+      "summary": "포스코 홀딩스가 내년 리튬 자회사들의 적자 축소를 바탕으로 연결 실적 개선을 이어갈 것으로 전망됐다.... iM증권은 24일 보고서에서 포스코 홀딩스의 투자의견 '매수'와 목표주가 40만원을 유지하고 업종 내 차선호주로...",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=86881",
+      "date": "Tue, 24 Nov 2026 08:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코홀딩스",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sidae.com/article/2026112408293785399": {
+      "title": "포스코 인터, 7400억원 미 셰일가스전 지분 인수",
+      "summary": "포스코 그룹이 미국 펜실베이니아주 셰일가스전 지분을 인수해 북미에 가스 생산 거점을 마련했다. 장인화 포스코 그룹 회장이 지난 7월 철강·리튬·에너지를 주축으로 한 '트리플 코어'(Triple Core) 전략을 발표한 뒤 해외...",
+      "url": "https://www.sidae.com/article/2026112408293785399",
+      "date": "Tue, 24 Nov 2026 08:39:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://thetracker.co.kr/View.aspx?No=4326139": {
+      "title": "포스코 인터, 美 셰일가스전 인수 마무리...5억5000만달러 투자",
+      "summary": "com 더트래커 = 국승한 기자 포스코 그룹이 미국 셰일가스전 인수를 마무리했다. 지난 7월 그룹 ‘트리플 코어’ 전략 발표 이후 첫 해외 에너지자원을 확보하는 성과를 거둔 것이다. 포스코 인터내셔널은 23일(현지시간)...",
+      "url": "https://thetracker.co.kr/View.aspx?No=4326139",
+      "date": "Tue, 24 Nov 2026 08:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZXNLenQwQkJsUVItRWpHVkdiLTJPQi1zX215MzhtdzF1UXZwczFibTlxa19VMGVnRXFzNDFFbjA3aDZ1c0pTQ2Y3ckN1UFRGRS1SbHFqTF92dEw5QXR2cUxvQi1NTlpyQmhsQm9QMlM?oc=5": {
+      "title": "POSCO International Completes Acquisition of U.S. Shale Gas Field, Securing Third Global Production Hub - 머니투데이",
+      "summary": "POSCO International Completes Acquisition of U.S. Shale Gas Field, Securing Third Global Production Hub 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZXNLenQwQkJsUVItRWpHVkdiLTJPQi1zX215MzhtdzF1UXZwczFibTlxa19VMGVnRXFzNDFFbjA3aDZ1c0pTQ2Y3ckN1UFRGRS1SbHFqTF92dEw5QXR2cUxvQi1NTlpyQmhsQm9QMlM?oc=5",
+      "date": "Mon, 23 Nov 2026 23:46:53 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRXRzYVp0amFHdUNJTjFTYlRfTUZQUVVNQVF0eUFQZ2NPaThjN1F3YmQyYzNwT0Jxb2hLYTdPbF9YVFhBUGFUVEM3Xzdfc2EyOEtr?oc=5": {
+      "title": "경상북도, 식품한류산업국 출범 100일 `연구에서 수출까지 K-푸드 전주기 체계 닻 올려` - CBN뉴스",
+      "summary": "경상북도, 식품한류산업국 출범 100일 `연구에서 수출까지 K-푸드 전주기 체계 닻 올려` CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRXRzYVp0amFHdUNJTjFTYlRfTUZQUVVNQVF0eUFQZ2NPaThjN1F3YmQyYzNwT0Jxb2hLYTdPbF9YVFhBUGFUVEM3Xzdfc2EyOEtr?oc=5",
+      "date": "Mon, 23 Nov 2026 23:15:09 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3679,41 +3775,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-24",
   "sent_articles": [
-    {
-      "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249330",
-      "title": "영남공업고등학교, 대구 가톨릭대·경북경산산학융합원과 MOU 체결",
-      "date": "Tue, 10 Nov 2026 09:00:00 +0900"
-    },
-    {
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=728653",
-      "title": "상주시, 동남아 무역사절단 파견…408만달러 계약 추진 성과",
-      "date": "Tue, 10 Nov 2026 08:50:00 +0900"
-    },
-    {
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=139315",
-      "title": "하나증권 \" 에코프로 비엠, 4분기 적자전환 전망…출하 부진에 목표가↓\"",
-      "date": "Tue, 10 Nov 2026 08:42:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82NkM4dFdvekdHc3BLSk9CNkE2T2hlZGtVTEVhVWlxNzJ3LTVUYWFVRmNaM0lTeGZPSmhUVlVRODBEaDU0d3NNQW5FU1hGSWtGRFhWTlYxOTk4TmZ4dGVRZWduX1F0ekpxYnQ0?oc=5",
-      "title": "\"잠정합의안 부결에 휘청\"…포스코 노조, 재교섭 실무 조율 착수 | - SR타임스",
-      "date": "Mon, 09 Nov 2026 23:41:46 GMT"
-    },
-    {
-      "url": "https://www.jasm.co.kr/news/view/324733/?sc=Naver",
-      "title": "하나증권 \" 에코프로 비엠, 4분기 적자 전환 예산…목표가↓\"",
-      "date": "Tue, 10 Nov 2026 08:22:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBlWWx5WjRmdFZYN0Z6SmY0UnVLMWx6VG1DUS1oSzRndWNJLUdHQXU4MnRxNzY0ZU56TTctcnZZVF9JU3M?oc=5",
-      "title": "삼성SDS, 구미 AI 데이터센터 착공 - knpp.co.kr",
-      "date": "Mon, 09 Nov 2026 23:03:08 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ycmdUSTQzOGpSbV90MUxnWXlQdG00UWVSQ0tOdnNPN05WRENvT0t3dktjdURvNWJ2eFhsOG5BUksyRDNMb2VsV1Jab1U5cWpLTzBSZmNxcFR2dDY5MHhpUjBiSXNiSnN5bjJ2UDQ5TENsNWNjWWc?oc=5",
-      "title": "EcoPro BM Expected to Post First Operating Loss in Eight Quarters; Hana Securities Cuts Target Price to 112,000 Won - BigGo Finance",
-      "date": "Mon, 09 Nov 2026 23:05:00 GMT"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZR01hNXFBOFlfbkt0Szl5Sk9qVVpWUkRIRF9xQWZaVVUzODdiam0wWTV1NDRJRU1WQmdsdjVNRURzY3JuLVZSVlpxNVJ3VnNENW9PdmhGRDdTNFpuTXpGNnZ4clNSWkhSeU9MRFBjQ3ZxMVVvTlVwYmNn?oc=5",
       "title": "대구경찰청, '조폭 개입' 유령법인 명의 대포계좌 유통조직 검거…총책 등 26명 구속 - 로이슈",
@@ -8358,6 +8419,51 @@
       "url": "https://www.dkilbo.com/news/articleView.html?idxno=561854",
       "title": "포항 시, 내년도 예산 3조2825억 원 편성…민생 회복·지역경제 활력 중점",
       "date": "Mon, 23 Nov 2026 20:36:00 +0900"
+    },
+    {
+      "url": "https://www.sidae.com/article/2026112408293785399",
+      "title": "포스코 인터, 7400억원 미 셰일가스전 지분 인수",
+      "date": "Tue, 24 Nov 2026 08:39:00 +0900"
+    },
+    {
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507318",
+      "title": "유진투자증권 \"국제유가 반등해도 정유사 실적은 뒷걸음질? GS· 포스코 인...",
+      "date": "Tue, 24 Nov 2026 08:58:00 +0900"
+    },
+    {
+      "url": "https://www.kukinews.com/article/view/kuk202611240014",
+      "title": "포스코 그룹 ‘트리플 코어’ 첫 에너지자원 투자 결실…美 애팔래치안...",
+      "date": "Tue, 24 Nov 2026 08:56:00 +0900"
+    },
+    {
+      "url": "https://biz.heraldcorp.com/article/10946911?ref=naver",
+      "title": "포스코 인터, ‘7400억원 투자’ 美 애팔래치안 셰일가스전 인수 완료",
+      "date": "Tue, 24 Nov 2026 08:55:00 +0900"
+    },
+    {
+      "url": "http://www.datanews.co.kr/news/article.html?no=147757",
+      "title": "에코프로 비엠, 헝가리·BNSI 가동…실적 회복 속도낸다",
+      "date": "Tue, 24 Nov 2026 08:48:00 +0900"
+    },
+    {
+      "url": "http://www.press9.kr/news/articleView.html?idxno=86881",
+      "title": "포스코 홀딩스, 리튬 子 적자 ↓...내년 실적 기대-iM證",
+      "date": "Tue, 24 Nov 2026 08:40:00 +0900"
+    },
+    {
+      "url": "https://thetracker.co.kr/View.aspx?No=4326139",
+      "title": "포스코 인터, 美 셰일가스전 인수 마무리...5억5000만달러 투자",
+      "date": "Tue, 24 Nov 2026 08:24:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRXRzYVp0amFHdUNJTjFTYlRfTUZQUVVNQVF0eUFQZ2NPaThjN1F3YmQyYzNwT0Jxb2hLYTdPbF9YVFhBUGFUVEM3Xzdfc2EyOEtr?oc=5",
+      "title": "경상북도, 식품한류산업국 출범 100일 `연구에서 수출까지 K-푸드 전주기 체계 닻 올려` - CBN뉴스",
+      "date": "Mon, 23 Nov 2026 23:15:09 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZXNLenQwQkJsUVItRWpHVkdiLTJPQi1zX215MzhtdzF1UXZwczFibTlxa19VMGVnRXFzNDFFbjA3aDZ1c0pTQ2Y3ckN1UFRGRS1SbHFqTF92dEw5QXR2cUxvQi1NTlpyQmhsQm9QMlM?oc=5",
+      "title": "POSCO International Completes Acquisition of U.S. Shale Gas Field, Securing Third Global Production Hub - 머니투데이",
+      "date": "Mon, 23 Nov 2026 23:46:53 GMT"
     }
   ],
   "brief_articles": [
