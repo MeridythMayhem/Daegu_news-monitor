@@ -1,10 +1,5 @@
 {
   "sent": {
-    "https://view.asiae.co.kr/article/2026111009593890280": "2026-11-10T13:01:53.655493+09:00",
-    "https://www.kpinews.kr/newsView/1065583572998240": "2026-11-10T13:01:53.655493+09:00",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuc2hUQXlKblJnZG1VVVY2RjNKQ1VHYllIa2JaZ1NMQ0kwR3RkMERiT2NPTVlZZUdObWtQQkR5YjV4QTdIeGU2bGhlNFF2NnVFbUhZeUo4dFNkQ09lNlJ4LVhDZmo?oc=5": "2026-11-10T13:01:53.655493+09:00",
-    "https://www.inthenews.co.kr/news/article.html?no=94264": "2026-11-10T13:01:53.655493+09:00",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JbngwZFZ3NkJUT0FaRzM3d2pybk1YMW1QVkxibmhGVkhyNEI3OTZDOUthRVZhb0N3a2VKUHYwSDBxWXlORy0zUFlkTU1LUDhVel9rdkN4YWNmNFZjR1dJcXl6X0k1V3ZpN19XU3R4bDMxOGpKQlE?oc=5": "2026-11-10T13:01:53.655493+09:00",
     "https://www.news1.kr/industry/general-industry/6348358": "2026-11-10T14:02:25.805802+09:00",
     "https://www.newspim.com/news/view/20261110000932": "2026-11-10T14:02:25.805802+09:00",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KbDAzSFJDOWNkYnE2ZU41LTdPWnpmZFR3VjR1dGpiQ0VucjU0TURoUDQyazZnTTJEc2hWZDBWWEtPTk1GTjN6VzFWOHhyN2JPUTY3Ng?oc=5": "2026-11-10T14:02:25.805802+09:00",
@@ -935,14 +930,19 @@
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rM3hEOWNDS05tQm1DaHFRWk9DTzRzNUkyWVlKVFoycnIyV1o3MEd1d0xvblhjUEZ5cFdzdHFLalhfUFRaamVpcmJqdHNCUkxIc2I3dF9yeFk?oc=5": "2026-11-24T13:09:24.541156+09:00",
     "https://news.tf.co.kr/read/national/2392659.htm": "2026-11-24T13:09:24.541156+09:00",
     "https://www.apnews.kr/news/articleView.html?idxno=3053473": "2026-11-24T13:09:24.541156+09:00",
-    "https://www.updownnews.co.kr/news/articleView.html?idxno=319723": "2026-11-24T13:09:24.541156+09:00"
+    "https://www.updownnews.co.kr/news/articleView.html?idxno=319723": "2026-11-24T13:09:24.541156+09:00",
+    "https://www.dkilbo.com/news/articleView.html?idxno=561893": "2026-11-24T14:08:57.317830+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2022591": "2026-11-24T14:08:57.317830+09:00",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586284860742": "2026-11-24T14:08:57.317830+09:00",
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281034": "2026-11-24T14:08:57.317830+09:00",
+    "https://www.kbmaeil.com/article/20261124500130": "2026-11-24T14:08:57.317830+09:00",
+    "https://news.tf.co.kr/read/economy/2392716.htm": "2026-11-24T14:08:57.317830+09:00",
+    "https://www.job-post.co.kr/news/articleView.html?idxno=240555": "2026-11-24T14:08:57.317830+09:00",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087121": "2026-11-24T14:08:57.317830+09:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUm5lU1Rpc21RNEpIQmZOZ3dOMXNmbzJNZE5wLVBKa2hjdzNsYTM2QUl5d2pPOVRLWDFZbG95WV91cFNKbHJNczRqNmM1M2U1MFFGbEhib0pGY3I4bUI2XzAwQmxDUQ?oc=5": "2026-11-24T14:08:57.317830+09:00",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuczFEWnU2NERSRUs1eDgxOW1BaVhXUlljM21FbDVIQlczdnB0SldITFhkeEFZUzBNb21HU09BYkFTR1BWdWdVcnBIeWN4RmtEWmJSUTJiSkw?oc=5": "2026-11-24T14:08:57.317830+09:00"
   },
   "titles": {
-    "5fea29161272d86ea1600310bf5bfa131c9619662edc873f59bb0b74b68f8389": "2026-11-10T13:01:53.655493+09:00",
-    "bdc92ef701bb57d1e438e80eff3307cf50e0fd5b01648dd0af7f97372cb0fa06": "2026-11-10T13:01:53.655493+09:00",
-    "be0eae3fe446eca478df0331fdc2b8d668f58c900b51143274755e64e3a9485b": "2026-11-10T13:01:53.655493+09:00",
-    "567260da37473708b675137d698538f476d4b63ea8cc87fb293a39d74dc2202a": "2026-11-10T13:01:53.655493+09:00",
-    "06016f0f37fb914c998e1f2005c64d31e2bcd263e211a0be59b5394f69afff17": "2026-11-10T13:01:53.655493+09:00",
     "61747c8d649dc1949dd6ea81b8d32f543f4bb40fb09aa87e23b805eb904470fc": "2026-11-10T14:02:25.805802+09:00",
     "41074af8b32ea3ae032200d4c568956f740a489d13a705e27c626c11d50fa1a3": "2026-11-10T14:02:25.805802+09:00",
     "c1836b622384319998b62500238c2ede181cbae012524ecafad7dacdc5953cb9": "2026-11-10T14:02:25.805802+09:00",
@@ -1873,9 +1873,33 @@
     "7a36e85d9d8ff60c16d02841cd76e40ec1ea081df92522c55c837bff0f99930f": "2026-11-24T13:09:24.541156+09:00",
     "382d6e1e964b77545480af007778489d684e87a85dbbaba62a3a7992efc5c514": "2026-11-24T13:09:24.541156+09:00",
     "89a1b3b77312263918ac1f2bc24c0c5ee7f7467fc5694d4ad45c96b1204a40c5": "2026-11-24T13:09:24.541156+09:00",
-    "45a463cceac7006805f26caddb7405e0fa3cd4603eda3826c290d6a78bd31ecd": "2026-11-24T13:09:24.541156+09:00"
+    "45a463cceac7006805f26caddb7405e0fa3cd4603eda3826c290d6a78bd31ecd": "2026-11-24T13:09:24.541156+09:00",
+    "b5362b26e06c6ef65ee3ade7f86f946c2d8294f1b7ec40eaed14cf35a9de9dee": "2026-11-24T14:08:57.317830+09:00",
+    "cdd060ea665266a26d9b69f8cbb24a566bda78cdc719b45652df9dd26f09ac7d": "2026-11-24T14:08:57.317830+09:00",
+    "bc2dfc6d859e2f68fe51c99583c1c2318ac140aed4411650b37483fff17d4858": "2026-11-24T14:08:57.317830+09:00",
+    "f1c6aeb009fca9a33b9041f76863225a2abe8f9346d6a934b2dbfd366f40c298": "2026-11-24T14:08:57.317830+09:00",
+    "3672618feeec32686eb74eb20f01952c2172b5a3fff847ddb7e1e05b7f959451": "2026-11-24T14:08:57.317830+09:00",
+    "4c44cc77d1ce12a0845ad7d30469199d2338af5666a39f71e88611260171b188": "2026-11-24T14:08:57.317830+09:00",
+    "551c765da84329d6a9a7956543c367c12de01fc688abc49b262941a0915dc522": "2026-11-24T14:08:57.317830+09:00",
+    "4c704fea27b97e2a44637a3a453578622b6e5ba69e0a090210cfdd9dffd33362": "2026-11-24T14:08:57.317830+09:00",
+    "5d9375ae33473c0f8057af2b559c4e38f76db808b930c4dbda91f845ffe7f5c5": "2026-11-24T14:08:57.317830+09:00",
+    "3fde6e50be2870f079f8a94cb9171cb2a11ab5e95c5d1ada8c6f1b40ab4700ec": "2026-11-24T14:08:57.317830+09:00"
   },
-  "pending": {},
+  "pending": {
+    "http://www.newsprime.co.kr/news/article.html?no=756250": {
+      "title": "농업 경쟁력 높이고 지역경제 살린다···청송군, 내년 예산 6140억원 편...",
+      "summary": "또한 전선 지중화 43억원, 경북 형 이색 숙박시설 조성 40억원, 공공임대주택 건립 20억원 등을 통해 도시 경관과 주거환경, 관광 기반을 함께 개선한다는 구상이다. 분야별 전체 재원 배분을 보면 환경 분야에 813억원...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=756250",
+      "date": "Tue, 24 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    }
+  },
   "ai": {
     "2026-11-17": 7,
     "2026-11-18": 3,
@@ -1883,50 +1907,10 @@
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 15,
-    "2026-11-24": 2
+    "2026-11-24": 4
   },
   "cursor": 0,
   "archive": {
-    "https://www.imaeil.com/page/view/2026112208451273402": {
-      "title": "전기차 충돌·화재 안전성 검증…경산에 222억원 규모 기술센터 준공",
-      "summary": "전기차 충돌에 따른 배터리 파손과 화재 위험 등을 검증할 수 있는 전문 시험·평가 시설이 경북 경산에... 센터는 연면적 1천360㎡ 규모로 건립 됐으며 가상설계 해석 시스템과 3차원 역설계 시스템, 레이저 용접 장비 등...",
-      "url": "https://www.imaeil.com/page/view/2026112208451273402",
-      "date": "Sun, 22 Nov 2026 13:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.segye.com/newsView/20261122505512?OutUrl=naver": {
-      "title": "포항 에 5성급 호텔·리조트 건립 청신호… 투자 업무 협약 체결",
-      "summary": "경북도· 포항 시·한화호텔앤드리조트· 포항 하나원, 20일 4자 투자 업무 협약 체결 환호공원 인근 5성급 호텔 160실·프리미엄 리조트 225실 짓고 상업시설 조성 환호·송도·영일대지구 등 3개 지구에서 총 816실 특급호텔 객실...",
-      "url": "https://www.segye.com/newsView/20261122505512?OutUrl=naver",
-      "date": "Sun, 22 Nov 2026 13:03:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086244": {
-      "title": "경산시, 전기차 충돌안전부품 기술센터 준공…미래차 산업 지원",
-      "summary": "하인성 경북 테크노파크 원장, 윤칠석 경북 IT융합산업기술원장, 지역 자동차부품 기업 관계자 등 70여명이... 핵심 부품이 '경산'의 이름으로 전 세계를 누비는 출발점이 되도록 적극 지원하겠다\"고 밝혔다. [신아 일보 ] 경산",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086244",
-      "date": "Sun, 22 Nov 2026 13:50:00 +0900",
-      "channels": [
-        "domestic",
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.hidomin.com/news/articleView.html?idxno=730401": {
       "title": "경산시, 전기차 충돌안전부품 기술센터 준공",
       "summary": "사업은 경북 테크노파크가 주관하고 경북 IT융합산업기술원과 한국생산기술연구원이 참여한다. 최근 전기차 배터리 결함과 화재 에 대한 소비자 불안이 커지면서 배터리와 탑승객을 보호하는 보호차체 기술의 중요성이...",
@@ -4060,6 +4044,164 @@
       "category": "세무 조사·혐의 관련",
       "priority": 100,
       "filter_version": 18
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2022591": {
+      "title": "경주시, 근로자·주민 위한 외동 산업단지 복합문화센터 준공",
+      "summary": "매일 일보 = 김태호 기자 | 경북 경주 외동 산업단지 에 근로자와 지역 주민이 함께 이용할 수 있는 복합문화센터가 들어섰다. 경주시는 24일 외동읍 문산리 외동2일반 산업단지 에서 '외동 산업단지 복합문화센터' 준공식을...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2022591",
+      "date": "Tue, 24 Nov 2026 13:56:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087121": {
+      "title": "경산시, 내년도 예산 1조5277억원 편성…민생·안전·미래 산업 중점 투자",
+      "summary": "경북 경산시가 경상경비 절감과 지출 구조조정을 통해 확보한 재원을 주민 불편 해소와 민생 안정, 미래... 경산지식 산업 지구 진입도로 개설 39억원, 자인공설시장 제2주차장 조성 37억원, 경산 상림 재활 산업 특화 단지 ...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087121",
+      "date": "Tue, 24 Nov 2026 13:30:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.newsprime.co.kr/news/article.html?no=756250": {
+      "title": "농업 경쟁력 높이고 지역경제 살린다···청송군, 내년 예산 6140억원 편...",
+      "summary": "또한 전선 지중화 43억원, 경북 형 이색 숙박시설 조성 40억원, 공공임대주택 건립 20억원 등을 통해 도시 경관과 주거환경, 관광 기반을 함께 개선한다는 구상이다. 분야별 전체 재원 배분을 보면 환경 분야에 813억원...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=756250",
+      "date": "Tue, 24 Nov 2026 13:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.dkilbo.com/news/articleView.html?idxno=561893": {
+      "title": "대구동구문화재단· 삼보모터스 , 문화예술 교류 업무협약",
+      "summary": "▲대구동구문화재단과 삼보모터스 관계자들이 문화예술 교류 활성화를 위한 업무협약을 체결하고 기념촬영을 하고 있다. 동구 제공 대구동구문화재단과 삼보모터스 는 지난 20일 아양아트센터에서 문화예술 가치 확산과...",
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=561893",
+      "date": "Tue, 24 Nov 2026 13:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 삼보모터스",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=240555": {
+      "title": "에코프로 비엠 10.45% 상승해 8만7700원…실적과 사업 변수 점검",
+      "summary": "코스닥 시장에서 에코프로 비엠 주가가 24일 장중 10.45% 상승하며 8만7700원을 기록했다. 오후 1시39분 기준 에코프로 비엠은 전 거래일보다 8,300원(10.45%) 오른 8만7700원에 거래됐다. 전일 종가는 7만9400원으로...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240555",
+      "date": "Tue, 24 Nov 2026 13:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586284860742": {
+      "title": "포스코 이앤씨, 도시정비 2년 연속 5조원대 수주…'리모델링 1위' 저력 발...",
+      "summary": "포스코 이앤씨가 올 하반기 들어 수도권 도시정비시장에서 4조원 넘는 일감을 따냈다. 광명 하안주공3... 24일 건설업계에 따르면 포스코 이앤씨의 올해 도시정비사업 누적 수주액은 지난 23일 기준 5조 5795억원으로...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586284860742",
+      "date": "Tue, 24 Nov 2026 13:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코이앤씨",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.businesskorea.co.kr/news/articleView.html?idxno=281034": {
+      "title": "포스코 노사 재교섭 20분 만에 결렬... 노조 17일 서울 상경투쟁 예고",
+      "summary": "이에 앞서 12일과 13일에는 포항 과 광양 제철소 에서 출근 선전전을 진행하며, 16일부터는 평일 퇴근 후 전 조합원이 참여하는 선전전도 병행한다. 앞서 포스코 노사는 지난 10월 30일 기본급 2.6% 인상을 골자로 하는...",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281034",
+      "date": "Tue, 24 Nov 2026 13:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kbmaeil.com/article/20261124500130": {
+      "title": "에스 포항 병원, 라오스 미타팝 병원과 업무협약( MOU ) 체결",
+      "summary": "에스 포항 병원이 지난 20일 라오스 수도 비엔티안에서 현지 국립 종합병원인 미타팝(Mittaphab) 병원과 의료 교류 협력을 위한 양해각서( MOU )를 체결했다. 두 기관은 이번 협약을 계기로 의료 기술 공유와 의료 인재 양성을...",
+      "url": "https://www.kbmaeil.com/article/20261124500130",
+      "date": "Tue, 24 Nov 2026 13:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.tf.co.kr/read/economy/2392716.htm": {
+      "title": "한수원 사내 AI '하이누리' 활용 강화…네이버클라와 MOU",
+      "summary": "AI 기술협력·안전 신뢰 AI 활용 환경 조성 MOU AI 기술협력 및 안전하고 신뢰할 수 있는 AI 활용 환경 조성을 위한 업무협약(MOU) 한국수력원자력 (이하 한수원)이 24일 경주 본사에서 사내 생성형 인공지능(AI) 서비스...",
+      "url": "https://news.tf.co.kr/read/economy/2392716.htm",
+      "date": "Tue, 24 Nov 2026 13:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuczFEWnU2NERSRUs1eDgxOW1BaVhXUlljM21FbDVIQlczdnB0SldITFhkeEFZUzBNb21HU09BYkFTR1BWdWdVcnBIeWN4RmtEWmJSUTJiSkw?oc=5": {
+      "title": "상주시, '통합청사 건립 제3차 시민토론회' 개최 - 경북신문",
+      "summary": "상주시, '통합청사 건립 제3차 시민토론회' 개최 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuczFEWnU2NERSRUs1eDgxOW1BaVhXUlljM21FbDVIQlczdnB0SldITFhkeEFZUzBNb21HU09BYkFTR1BWdWdVcnBIeWN4RmtEWmJSUTJiSkw?oc=5",
+      "date": "Tue, 24 Nov 2026 04:07:28 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLT2M1cjd4VDU0QXVsZ2tBVy1XYlIteHZuM0l3bzdyWXlpcy1BdEpwSF9EaWJwRHc2Z0I5WWc0bEc3X0hCVU1DeDRPaW1IVC1XMW1IellLRFpoNEFtVmIzSktGMWdXdw?oc=5": {
+      "title": "경주 외동산단 복합문화센터 준공…내년 1월 개방 예정 - 데일리대구경북뉴스",
+      "summary": "경주 외동산단 복합문화센터 준공…내년 1월 개방 예정 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLT2M1cjd4VDU0QXVsZ2tBVy1XYlIteHZuM0l3bzdyWXlpcy1BdEpwSF9EaWJwRHc2Z0I5WWc0bEc3X0hCVU1DeDRPaW1IVC1XMW1IellLRFpoNEFtVmIzSktGMWdXdw?oc=5",
+      "date": "Tue, 24 Nov 2026 04:45:05 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUm5lU1Rpc21RNEpIQmZOZ3dOMXNmbzJNZE5wLVBKa2hjdzNsYTM2QUl5d2pPOVRLWDFZbG95WV91cFNKbHJNczRqNmM1M2U1MFFGbEhib0pGY3I4bUI2XzAwQmxDUQ?oc=5": {
+      "title": "영주 풍기인삼, 홍삼 8톤 홍콩 수출…해외시장 공략 박차 - 데일리대구경북뉴스",
+      "summary": "영주 풍기인삼, 홍삼 8톤 홍콩 수출…해외시장 공략 박차 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUm5lU1Rpc21RNEpIQmZOZ3dOMXNmbzJNZE5wLVBKa2hjdzNsYTM2QUl5d2pPOVRLWDFZbG95WV91cFNKbHJNczRqNmM1M2U1MFFGbEhib0pGY3I4bUI2XzAwQmxDUQ?oc=5",
+      "date": "Tue, 24 Nov 2026 04:27:36 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4083,51 +4225,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-24",
   "sent_articles": [
-    {
-      "url": "https://www.news1.kr/industry/general-industry/6348358",
-      "title": "\"9492억 투자 공사 47개월\"… 포스코 인터, 광양 제2 LNG터미널 준공",
-      "date": "Tue, 10 Nov 2026 14:00:00 +0900"
-    },
-    {
-      "url": "https://www.newspim.com/news/view/20261110000932",
-      "title": "박성현 광양시장 \" 포스코 노사갈등 지역경제 우려\"",
-      "date": "Tue, 10 Nov 2026 13:51:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KbDAzSFJDOWNkYnE2ZU41LTdPWnpmZFR3VjR1dGpiQ0VucjU0TURoUDQyazZnTTJEc2hWZDBWWEtPTk1GTjN6VzFWOHhyN2JPUTY3Ng?oc=5",
-      "title": "한수원 \"15개월간 총 91회 시공 협상, 이견 못 좁혀 결렬\"⋯대우건설 노조 주장 반박 - 이투데이",
-      "date": "Tue, 10 Nov 2026 04:46:00 GMT"
-    },
-    {
-      "url": "https://www.mt.co.kr/stock/2026/11/10/2026111013051072186",
-      "title": "시노펙스, 영덕 산불피해지 '탄소중립 숲' 착공…\"지역상생 ESG 실천\"",
-      "date": "Tue, 10 Nov 2026 13:38:00 +0900"
-    },
-    {
-      "url": "https://www.kbmaeil.com/article/20261110500222",
-      "title": "경북 국립의대 신설 확정…북부권 의료지도 바뀐다",
-      "date": "Tue, 10 Nov 2026 13:38:00 +0900"
-    },
-    {
-      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362219",
-      "title": "한수원, 대우건설 노조 주장 반박… \"15개월 협상에도 이견 지속\"",
-      "date": "Tue, 10 Nov 2026 13:28:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LWmVxWG9mMXpJeFdvRHVfeVI5Vl85WGJYd01ZY1lQSjAxV2Y0TlNsenN6aFcxUkFXdzJZb3NhclNuellqNmF4QnJ3MlFmTlBDbTlaWmtYclhocUNVNVQyanpPWUttZmlYUzZvWWIyS2J2cXM?oc=5",
-      "title": "동남아 수출길 넓히는 김천시…2915만 달러 규모 MOU 체결 - 오늘경제",
-      "date": "Tue, 10 Nov 2026 04:11:00 GMT"
-    },
-    {
-      "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62620",
-      "title": "경북 , 학교급식교육관 건립 추진",
-      "date": "Tue, 10 Nov 2026 13:10:00 +0900"
-    },
-    {
-      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89115",
-      "title": "동서발전, 현대엔지니어링· 포스코 이앤씨와 호남 복합발전 건설계약 체...",
-      "date": "Tue, 10 Nov 2026 13:10:00 +0900"
-    },
     {
       "url": "https://www.kbsm.net/news/view.php?idx=541099",
       "title": "대구 경찰, 유령법인 명의 대포계좌 1천개 범죄조직에 넘어가…68명 송치",
@@ -8737,6 +8834,56 @@
       "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=319723",
       "title": "포스코 그룹 '트리플 코어' 전략 첫 에너지자원 투자 결실...5.5억달러에...",
       "date": "Tue, 24 Nov 2026 12:10:00 +0900"
+    },
+    {
+      "url": "https://www.dkilbo.com/news/articleView.html?idxno=561893",
+      "title": "대구동구문화재단· 삼보모터스 , 문화예술 교류 업무협약",
+      "date": "Tue, 24 Nov 2026 13:50:00 +0900"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2022591",
+      "title": "경주시, 근로자·주민 위한 외동 산업단지 복합문화센터 준공",
+      "date": "Tue, 24 Nov 2026 13:56:00 +0900"
+    },
+    {
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586284860742",
+      "title": "포스코 이앤씨, 도시정비 2년 연속 5조원대 수주…'리모델링 1위' 저력 발...",
+      "date": "Tue, 24 Nov 2026 13:56:00 +0900"
+    },
+    {
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281034",
+      "title": "포스코 노사 재교섭 20분 만에 결렬... 노조 17일 서울 상경투쟁 예고",
+      "date": "Tue, 24 Nov 2026 13:54:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261124500130",
+      "title": "에스 포항 병원, 라오스 미타팝 병원과 업무협약( MOU ) 체결",
+      "date": "Tue, 24 Nov 2026 13:54:00 +0900"
+    },
+    {
+      "url": "https://news.tf.co.kr/read/economy/2392716.htm",
+      "title": "한수원 사내 AI '하이누리' 활용 강화…네이버클라와 MOU",
+      "date": "Tue, 24 Nov 2026 13:54:00 +0900"
+    },
+    {
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240555",
+      "title": "에코프로 비엠 10.45% 상승해 8만7700원…실적과 사업 변수 점검",
+      "date": "Tue, 24 Nov 2026 13:52:00 +0900"
+    },
+    {
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087121",
+      "title": "경산시, 내년도 예산 1조5277억원 편성…민생·안전·미래 산업 중점 투자",
+      "date": "Tue, 24 Nov 2026 13:30:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUm5lU1Rpc21RNEpIQmZOZ3dOMXNmbzJNZE5wLVBKa2hjdzNsYTM2QUl5d2pPOVRLWDFZbG95WV91cFNKbHJNczRqNmM1M2U1MFFGbEhib0pGY3I4bUI2XzAwQmxDUQ?oc=5",
+      "title": "영주 풍기인삼, 홍삼 8톤 홍콩 수출…해외시장 공략 박차 - 데일리대구경북뉴스",
+      "date": "Tue, 24 Nov 2026 04:27:36 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuczFEWnU2NERSRUs1eDgxOW1BaVhXUlljM21FbDVIQlczdnB0SldITFhkeEFZUzBNb21HU09BYkFTR1BWdWdVcnBIeWN4RmtEWmJSUTJiSkw?oc=5",
+      "title": "상주시, '통합청사 건립 제3차 시민토론회' 개최 - 경북신문",
+      "date": "Tue, 24 Nov 2026 04:07:28 GMT"
     }
   ],
   "brief_articles": [
@@ -8783,7 +8930,7 @@
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 11,
-    "2026-11-24": 1
+    "2026-11-24": 2
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
