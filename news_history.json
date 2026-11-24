@@ -1,14 +1,5 @@
 {
   "sent": {
-    "https://biz.heraldcorp.com/article/10931894?ref=naver": "2026-11-10T11:01:55.586305+09:00",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYN0RoQmR2Um9oVl9meFV5eW9yWFUyNTlnMEt4Q3FjNDdWNTZHT1ZrZTlTLUlpSUoxTnk0Y01aeHlkYmpuWFB6TEF1dEZMUWFIdUlrOHhB?oc=5": "2026-11-10T11:01:55.586305+09:00",
-    "https://www.tbc.co.kr/news/view?pno=20261110085804AE08250&id=213133": "2026-11-10T11:01:55.586305+09:00",
-    "https://www.news1.kr/local/daegu-gyeongbuk/6348824": "2026-11-10T11:01:55.586305+09:00",
-    "https://www.news1.kr/local/daegu-gyeongbuk/6348821": "2026-11-10T11:01:55.586305+09:00",
-    "https://www.yna.co.kr/view/AKR20261110064900053?input=1195m": "2026-11-10T11:01:55.586305+09:00",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=285794": "2026-11-10T11:01:55.586305+09:00",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hU1gtSG9FdjdYVGVWcS1PRFNfckt0M0NMa0lwWWdDZUluY1M0ZGNZRnFBTEJjdXZJRllHbkV0NWI3eFNqcU93czNMNnJabWotZzAxNFlEdUotQjRMZk5UMVhidlE3NTEw?oc=5": "2026-11-10T11:01:55.586305+09:00",
-    "https://www.kukinews.com/article/view/kuk202611100034": "2026-11-10T11:01:55.586305+09:00",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EMVZMNFVLejN2WjhzLUhReGlxd2FPNUZDZzVsRUZhWFNMYmYtVy1fckxvMWFzcTJ0Vy1QWDhtTmowanJSOG43ZUVWbGI0WGNyNmNuRWk0U2Zydmh0bC1QaF9Ndw?oc=5": "2026-11-10T12:02:00.272017+09:00",
     "https://www.kpinews.kr/newsView/1065580193974224": "2026-11-10T12:02:00.272017+09:00",
     "https://www.bloter.net/news/articleView.html?idxno=678193": "2026-11-10T12:02:00.272017+09:00",
@@ -940,18 +931,19 @@
     "https://www.etnews.com/20261124000144": "2026-11-24T11:07:39.668069+09:00",
     "https://www.businesspost.co.kr/BP?command=article_view&num=452728": "2026-11-24T11:07:39.668069+09:00",
     "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507381": "2026-11-24T11:07:39.668069+09:00",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tZGU0aFNKMlRONk1GbUc2Vm9vRjdrZTU4SkNmZXc5SVNsRHlWS2tfeXVnQm1IMnZmVmdseGk3U0RIN0ZFblpGUmF3ZzJSa3pQRUVnYkk0R1ZOWjBtSHUxYnlyVVd2eEVNQlVhX0hoY21JTXdZcUItMXotRnA?oc=5": "2026-11-24T11:07:39.668069+09:00"
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tZGU0aFNKMlRONk1GbUc2Vm9vRjdrZTU4SkNmZXc5SVNsRHlWS2tfeXVnQm1IMnZmVmdseGk3U0RIN0ZFblpGUmF3ZzJSa3pQRUVnYkk0R1ZOWjBtSHUxYnlyVVd2eEVNQlVhX0hoY21JTXdZcUItMXotRnA?oc=5": "2026-11-24T11:07:39.668069+09:00",
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=627267": "2026-11-24T12:09:49.787188+09:00",
+    "https://www.delighti.co.kr/news/articleView.html?idxno=125488": "2026-11-24T12:09:49.787188+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oWjVVZjhsNDNSSmxWRGNqRWhtMVdqVnJYaTRwRmljQXJPeC1VUFpJSmRGMC12V3BwVlJIcVp0elgzcGxzRWJJZERGelZaZk40WFJJaEJGQ1ZLbHdTR29tVjJ0b3JtdUFSdlE?oc=5": "2026-11-24T12:09:49.787188+09:00",
+    "https://www.junggi.co.kr/news/articleView.html?idxno=38619": "2026-11-24T12:09:49.787188+09:00",
+    "https://www.ajunews.com/view/20261124112956860": "2026-11-24T12:09:49.787188+09:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTEYwVkxKdTZkNk1mVFpQLW9yZmJFUEpyaWxMYy1GbFBpcE1SYzFCQ2M3cUN1Z3RHRUpPdmluS1h0b09za2drVmNPS2w3N05Wa1F1cnRWM3dDZ9IBWEFVX3lxTE1URzE1Qk9JRzRVWEZ2cWlhaHVEdGFjcUV5a2wtUGtPNUZ5c2E1MEh6T1puMTkxbS1fNDR3MGxVd2M1bkpVSWtZQkhXc2JDdU5SbV8yUC1vWjA?oc=5": "2026-11-24T12:09:49.787188+09:00",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=316050": "2026-11-24T12:09:49.787188+09:00",
+    "https://www.mstoday.co.kr/news/articleView.html?idxno=200575": "2026-11-24T12:09:49.787188+09:00",
+    "https://www.imaeil.com/page/view/2026112411095106931": "2026-11-24T12:09:49.787188+09:00",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cWlOdUExNkdQTk5NaHlJOURBX0RXb0RlSk1yR1BOM182bjcySmRIQUJUSUlRemxtUXFWbm1ySzN6Nkg0MEZSMlQ3aUQzRURuMlUwemtRTGFFNmpTc3Q0UA?oc=5": "2026-11-24T12:09:49.787188+09:00"
   },
   "titles": {
-    "712ec9d52d05c37c43fead1cc7c422fcff715fd68e7edc2e6bd6fd0167c004c2": "2026-11-10T11:01:55.586305+09:00",
-    "8c19eda4614dc19f16d2d17412a28c1de39197a2ba72ba3e31ba184db3177865": "2026-11-10T11:01:55.586305+09:00",
-    "cacd5cedd5e7f58d6e26d171209c358920ba7e057769509d78239315a42e4a89": "2026-11-10T11:01:55.586305+09:00",
-    "d3e0cbc5404ef417acbfa30e86c7ace851f076ebb4a0a40a58023d69019a6c63": "2026-11-10T11:01:55.586305+09:00",
-    "519b919117c5fd3e3f73ae0a3e4a12b66a5cfec978572e4c2ab8d5bc4dcdd5d0": "2026-11-10T11:01:55.586305+09:00",
-    "e068d78540ef5485d9e9a0b4f9300e1ad1a44cdaae0e96c092de8fdd4f180980": "2026-11-10T11:01:55.586305+09:00",
-    "ecaf0b756349363c2a81fcbad695b4ed96508e1c528fa2cec51ce54d5751bf1e": "2026-11-10T11:01:55.586305+09:00",
-    "5162acb51cde7bedcbedaad2269a10554960f62ab01e1115c170d8d39ff02af0": "2026-11-10T11:01:55.586305+09:00",
-    "10d3d3633a748f1ef5496bbc1a00868dafc75c01a49771b26b87d904a44203bf": "2026-11-10T11:01:55.586305+09:00",
     "8b2884ccb0d747d83b7a1aa84d0ab4192e9ab41c624a13c4023ffc918655b68e": "2026-11-10T12:02:00.272017+09:00",
     "ce6afdbee41f2952d9d13e2dbbae8cf9d53029dfc17bef93d4ddef36d60a3fe0": "2026-11-10T12:02:00.272017+09:00",
     "f32f2381121db7b31929ba48f253b750176cbea1c15b1268c3a8d64b6f9dae0f": "2026-11-10T12:02:00.272017+09:00",
@@ -1883,33 +1875,30 @@
     "941d49aaa39a3f8c75b2062bdcfa8c0b5433ce6d4a02f3aa4fc3681bdbcbecbf": "2026-11-24T11:07:39.668069+09:00",
     "9fe1c15c51d274759bc492bd29acd67d891a8f5e72594e27d809dd4c8ef44a34": "2026-11-24T11:07:39.668069+09:00",
     "c73a38f0c6139d3c79cf9fbd06b1988d534c98cc29650241c56ec026489ab6be": "2026-11-24T11:07:39.668069+09:00",
-    "6d1d27a7b16906f0f00926585b5b413a899c06dea372da9916846e4f7e512ce9": "2026-11-24T11:07:39.668069+09:00"
+    "6d1d27a7b16906f0f00926585b5b413a899c06dea372da9916846e4f7e512ce9": "2026-11-24T11:07:39.668069+09:00",
+    "df378cc4ae2423479da23d5f1353537776ddff04abb1c2a7c1cb40230e148c3f": "2026-11-24T12:09:49.787188+09:00",
+    "a7d720dcb45a8b18208333c2f9468c0efe94048e9f446a07fbd8365ce1480955": "2026-11-24T12:09:49.787188+09:00",
+    "45cdf0a2872dd73bac5a6a386eaa5433af742f01111bba2c5009bfaacc4bd8c3": "2026-11-24T12:09:49.787188+09:00",
+    "3193c0e84bf31cd22ad4bce3315ae3a3cf8755343217a39ab6eb3e4edeb0f0b6": "2026-11-24T12:09:49.787188+09:00",
+    "4c3fb92995be8497fb7b8b1892fc100d5055dc0138e90db6409db3390c1e6054": "2026-11-24T12:09:49.787188+09:00",
+    "0758573c7e40858870b33ed981dfa52d26042e0bcc32f479bd722280f6fe1fd7": "2026-11-24T12:09:49.787188+09:00",
+    "d3b0956f9df8f77b99d3c3a12f6efb45d1eb46416e3628656d44fe776ebd16f2": "2026-11-24T12:09:49.787188+09:00",
+    "49ec86fc52360fc1c8652fecaaff66a8080812f47b1ce7d78d500c83990ad438": "2026-11-24T12:09:49.787188+09:00",
+    "ec8af46d7afc92e7f4db428dfd0a1fbf1627a9b943dd852865ef1446f8cbc126": "2026-11-24T12:09:49.787188+09:00",
+    "e22522ecf850394600f2d203028d09dccac6d33ca3e0ad9be8cfecf666900308": "2026-11-24T12:09:49.787188+09:00"
   },
   "pending": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1dFVHV2ZG1nYjd3TzJocXdGZjIyOV85YUNqWllMaE1RN284cURiUXAxQkZYcHdrUjJ6Sy1xMHB3QWs4TGxWNXV5YXNLcDBwR2J0VW5MVmtvTjNSNHdfbHdLR0JsbVB4UUx6MHJvckk3aWxrZHNoNXhYWm5SYjJ4TnNQYTlmc0NDem9TNkYzTklJXzRZcTVoWnJuRDBCeV9Gci1aazBB?oc=5": {
-      "title": "POSCO International Completes U.S. Shale Gas Field Acquisition - Seoul Economic Daily",
-      "summary": "POSCO International Completes U.S. Shale Gas Field Acquisition Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1dFVHV2ZG1nYjd3TzJocXdGZjIyOV85YUNqWllMaE1RN284cURiUXAxQkZYcHdrUjJ6Sy1xMHB3QWs4TGxWNXV5YXNLcDBwR2J0VW5MVmtvTjNSNHdfbHdLR0JsbVB4UUx6MHJvckk3aWxrZHNoNXhYWm5SYjJ4TnNQYTlmc0NDem9TNkYzTklJXzRZcTVoWnJuRDBCeV9Gci1aazBB?oc=5",
-      "date": "Tue, 24 Nov 2026 01:31:16 GMT",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGxfUV80eXBLakJ1NkR1Qm1qM1c3ZFZDcWE3SnRQMFVmeEZKS1Z5aVExc1daanU1YWJnSVpHVlktdHQ5ZzR5Vm5seGRhYkZfWXJiNGRvODhkOWFqZUNVdGkxLTBlU3NuUGJYajNqODhZNWJmXzRQZHZoOTAwamd1WWQ5TGJRbWlCQ0s4MzIxb0t3c2xyVmUyWGNrb2cxZUM2MG9BZFBwN3NfRjZUSGVJeURhTEFJOS1fQkhfbWNQSFkyU01fMHhic2txY0tNaU55RnNaOA?oc=5": {
+      "title": "Posco International completes $550 million acquisition of Pennsylvania shale gas field - Korea JoongAng Daily",
+      "summary": "Posco International completes $550 million acquisition of Pennsylvania shale gas field Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGxfUV80eXBLakJ1NkR1Qm1qM1c3ZFZDcWE3SnRQMFVmeEZKS1Z5aVExc1daanU1YWJnSVpHVlktdHQ5ZzR5Vm5seGRhYkZfWXJiNGRvODhkOWFqZUNVdGkxLTBlU3NuUGJYajNqODhZNWJmXzRQZHZoOTAwamd1WWQ5TGJRbWlCQ0s4MzIxb0t3c2xyVmUyWGNrb2cxZUM2MG9BZFBwN3NfRjZUSGVJeURhTEFJOS1fQkhfbWNQSFkyU01fMHhic2txY0tNaU55RnNaOA?oc=5",
+      "date": "Tue, 24 Nov 2026 02:48:04 GMT",
       "channels": [
         "global"
       ],
       "basis": "관심기업: 포스코",
       "category": "해외기업 동향",
       "priority": 50,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GMzVyWi1Icm1UY1J2TGVSRWJHcXlHMEctZHYzVXRLZ3dZbnktSEFxaXVvcjhNeTJ6b1NuYzZCWExqOXhhTzh2R3BNYWNwczlxODItOEV4TUw0bFE?oc=5": {
-      "title": "상주시, 통합청사 건립 제3차 시민토론회 개최 - 경북뉴스",
-      "summary": "상주시, 통합청사 건립 제3차 시민토론회 개최 경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GMzVyWi1Icm1UY1J2TGVSRWJHcXlHMEctZHYzVXRLZ3dZbnktSEFxaXVvcjhNeTJ6b1NuYzZCWExqOXhhTzh2R3BNYWNwczlxODItOEV4TUw0bFE?oc=5",
-      "date": "Tue, 24 Nov 2026 01:07:22 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
       "filter_version": 18
     }
   },
@@ -1919,49 +1908,11 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 15
+    "2026-11-23": 15,
+    "2026-11-24": 2
   },
   "cursor": 0,
   "archive": {
-    "https://www.hankookilbo.com/news/article/A2026112211160002466?did=NA": {
-      "title": "경산에 '전기차 충돌안전부품 기술센터' 준공... \"미래차 신시장 진입 지...",
-      "summary": "김민석 경북 도 정책실장은 \"전기차 충돌안전부품 기술센터 건립 으로 지역 내 기업들의 전주기 원스톱 지원체계를 통한 미래차 전환 기술 확보에 전념할 계획\"이라며 \"미래차 충돌안전 대응 및 기술경쟁력 강화를 적극...",
-      "url": "https://www.hankookilbo.com/news/article/A2026112211160002466?did=NA",
-      "date": "Sun, 22 Nov 2026 11:51:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.khan.co.kr/article/202611221101001": {
-      "title": "경산에 ‘전기차 충돌안전부품 기술센터’ 준공···미래차 부품 충돌...",
-      "summary": "자동차안전도평가(KNCAP)에 대응해 전기차 하부 직접 충돌 검증 시스템과 충돌 후 배터리 파손· 화재 를 평가하는 지연 화재 안전성 평가 시스템도 마련된다. 경북 도는 기술센터를 기반으로 자동차부품업체의 전동화차량...",
-      "url": "https://www.khan.co.kr/article/202611221101001",
-      "date": "Sun, 22 Nov 2026 11:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQkNIaTBGdkQ2XzdFdWphWlhJWFljdVVLd1BMT05OSy1xQ0trcVJwbTlGT2dYNVNLaWtuTGtoempISjBoN2lEZlBkbWJFeDdhZWxBS0lpb243MGJ1Z0I5Y1lDNDFWR0s4Q3c?oc=5": {
-      "title": "영천시, 일본 복합시설 벤치마킹…K-POP 돔 공연장 건립 모색 - www.hidomin.com",
-      "summary": "영천시, 일본 복합시설 벤치마킹…K-POP 돔 공연장 건립 모색 www.hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQkNIaTBGdkQ2XzdFdWphWlhJWFljdVVLd1BMT05OSy1xQ0trcVJwbTlGT2dYNVNLaWtuTGtoempISjBoN2lEZlBkbWJFeDdhZWxBS0lpb243MGJ1Z0I5Y1lDNDFWR0s4Q3c?oc=5",
-      "date": "Sun, 22 Nov 2026 02:21:51 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.kbmaeil.com/article/20261122500316": {
       "title": "경북 도 전기차 충돌 안전 부품 기술센터 준공...미래차 안전 기술 거점...",
       "summary": "경북 도는 향후 자동차 안전도 평가(KNCAP)에 대응하기 위한 전기차 하부 직접 충돌 검증 시스템과 충돌 후 배터리 파손 및 화재 위험을 평가하는 지연 화재 안전성 평가 시스템도 구축할 계획이다. 아울러 내연기관차...",
@@ -3914,6 +3865,188 @@
       "category": "산재·사업장 사고",
       "priority": 100,
       "filter_version": 18
+    },
+    "https://www.kbmaeil.com/article/20261124500275": {
+      "title": "칠곡군, 석적읍 서녁마을 새 경로당 준공…어르신 사랑방 마련",
+      "summary": "그동안 마땅한 경로당이 없어 컨테이너에서 모임을 이어오던 경북 칠곡군 석적읍 서녁마을 어르신들에게... 이번 경로당 건립 은 마땅한 여가 공간이 없어 불편을 겪어온 마을 어르신들에게 쾌적한 쉼터를 제공하기 위해...",
+      "url": "https://www.kbmaeil.com/article/20261124500275",
+      "date": "Tue, 24 Nov 2026 11:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.hidomin.com/news/articleView.html?idxno=730723": {
+      "title": "상주 입석1리 커뮤니티센터 준공…주민 주도 마을 활력 기대",
+      "summary": "센터는 경북 도가 주관한 '2025년 소규모마을 활성화 사업(시범마을)' 공모 선정으로 조성됐다. 이 사업은... 커뮤니티센터는 도비와 시비 각 2억원 등 총사업비 4억원을 투입해 연면적 111.75㎡ 규모로 건립 됐다. 블루베리...",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=730723",
+      "date": "Tue, 24 Nov 2026 11:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261124112956860": {
+      "title": "'상주시 통합청사 건립 제3차 시민토론회' 마무리",
+      "summary": "com [사진=상주시] “상주 발전을 위해 속도를 내기 위해선 시민들과 정치 구성원들 간 상주 발전을 위해 화합하고 힘을 모으는 것입니다.” 경북 상주시는 통합청사 건립 을 둘러싼 시민 갈등을 봉합하고 시민 의견을...",
+      "url": "https://www.ajunews.com/view/20261124112956860",
+      "date": "Tue, 24 Nov 2026 11:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kbsm.net/news/view.php?idx=543065": {
+      "title": "상주시 화북면 '입석1리 커뮤니티센터 준공식' 개최",
+      "summary": "이 사업은 경북 도가 지방소멸대응기금(광역)으로 추진한 생활인구 활성화 분야 4개 공모사업 중 하나로... 총사업비는 4억 원(도 2억, 시 2억)이며, 연면적 111.75㎡ 규모로 건립 했다. 센터는 인접한 블루베리 선별장과...",
+      "url": "https://www.kbsm.net/news/view.php?idx=543065",
+      "date": "Tue, 24 Nov 2026 11:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=316050": {
+      "title": "포항 청하 의료폐기물시설 16일 건축 준공 통과… 환경청 최종 인가 '환...",
+      "summary": "12 [사진=강신윤 기자] 포항시 북구 청하면 의료폐기물처리시설 건립 사업이 최근 관할 구청의 건축물... 적합통보 조건 이행 여부를 한 치의 오차도 없이 검증해야 한다\"고 말했다. [스트레이트뉴스 대구· 경북 =강신윤 기자]",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316050",
+      "date": "Tue, 24 Nov 2026 11:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.imaeil.com/page/view/2026112411095106931": {
+      "title": "청송군 내년 예산 6천140억원…농어촌기본소득에 588억원 '통 큰 투자'",
+      "summary": "이와 함께 전선 지중화사업 43억원, 경북 형 이색숙박시설 조성사업 40억원, 공공임대주택 건립 사업 20억원을 반영해 정주 여건 개선과 관광 기반 확충에도 힘을 쏟는다. 지역경제 활성화를 위한 예산도 눈에 띈다....",
+      "url": "https://www.imaeil.com/page/view/2026112411095106931",
+      "date": "Tue, 24 Nov 2026 11:11:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.mstoday.co.kr/news/articleView.html?idxno=200575": {
+      "title": "교복값 낮추랬더니 '짬짜미'…경쟁입찰의 배신",
+      "summary": "지난달 공정위가 경기 용인과 울산, 경북 영천 지역 교복업체들의 입찰 담합을 제재한 데 이어 추가 의혹 이... 학교주관 교복구매제도는 학교가 정한 품질 기준을 충족한 업체 가운데 최저가격을 제시한 업체를 납품 업체...",
+      "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200575",
+      "date": "Tue, 24 Nov 2026 11:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.junggi.co.kr/news/articleView.html?idxno=38619": {
+      "title": "에스엘 , 3분기 영업이익 461억원·순손실 82억원",
+      "summary": "에스엘 의 3분기 영업이익은 461억원, 당기순손실은 82억원을 기록했다. 에스엘 의 3분기 보고서에 따르면, 에스엘 의 올해 3분기 연결기준 매출액은 1조3639억원으로 전년 동기 1조3026억원 대비 4.7% 증가했으나...",
+      "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38619",
+      "date": "Tue, 24 Nov 2026 11:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에스엘 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.delighti.co.kr/news/articleView.html?idxno=125488": {
+      "title": "포스코 인터내셔널, 5억5000만달러 투자해 미국 셰일가스전 인수 완료",
+      "summary": "포스코 인터내셔널의 미국 애팔래치안 셰일가스전 인수 완료 서명식에서 (왼쪽부터) 마이클 루 코드에너지 CEO, 리처드 로벅 코드에너지 CFO, 이계인 포스코 인터내셔널 사장, 장인화 포스코 그룹 회장이 기념촬영을 하고...",
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125488",
+      "date": "Tue, 24 Nov 2026 12:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.mdtoday.co.kr/news/articleView.html?idxno=627267": {
+      "title": "포스코 그룹, 7400억원 규모 美 셰일가스전 지분 인수",
+      "summary": "포스코 그룹이 미국 펜실베이니아주 셰일가스전 지분을 인수하며 북미 지역에 가스 생산 거점을 마련했다. 이번 인수는 장인화 포스코 그룹 회장이 지난 7월 철강·리튬·에너지를 주축으로 발표한 '트리플 코어' 전략...",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627267",
+      "date": "Tue, 24 Nov 2026 11:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGxfUV80eXBLakJ1NkR1Qm1qM1c3ZFZDcWE3SnRQMFVmeEZKS1Z5aVExc1daanU1YWJnSVpHVlktdHQ5ZzR5Vm5seGRhYkZfWXJiNGRvODhkOWFqZUNVdGkxLTBlU3NuUGJYajNqODhZNWJmXzRQZHZoOTAwamd1WWQ5TGJRbWlCQ0s4MzIxb0t3c2xyVmUyWGNrb2cxZUM2MG9BZFBwN3NfRjZUSGVJeURhTEFJOS1fQkhfbWNQSFkyU01fMHhic2txY0tNaU55RnNaOA?oc=5": {
+      "title": "Posco International completes $550 million acquisition of Pennsylvania shale gas field - Korea JoongAng Daily",
+      "summary": "Posco International completes $550 million acquisition of Pennsylvania shale gas field Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGxfUV80eXBLakJ1NkR1Qm1qM1c3ZFZDcWE3SnRQMFVmeEZKS1Z5aVExc1daanU1YWJnSVpHVlktdHQ5ZzR5Vm5seGRhYkZfWXJiNGRvODhkOWFqZUNVdGkxLTBlU3NuUGJYajNqODhZNWJmXzRQZHZoOTAwamd1WWQ5TGJRbWlCQ0s4MzIxb0t3c2xyVmUyWGNrb2cxZUM2MG9BZFBwN3NfRjZUSGVJeURhTEFJOS1fQkhfbWNQSFkyU01fMHhic2txY0tNaU55RnNaOA?oc=5",
+      "date": "Tue, 24 Nov 2026 02:48:04 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cWlOdUExNkdQTk5NaHlJOURBX0RXb0RlSk1yR1BOM182bjcySmRIQUJUSUlRemxtUXFWbm1ySzN6Nkg0MEZSMlQ3aUQzRURuMlUwemtRTGFFNmpTc3Q0UA?oc=5": {
+      "title": "성주군, 호주 무역사절단 파견으로 해외시장 개척 나서 - www.newsgb.co.kr",
+      "summary": "성주군, 호주 무역사절단 파견으로 해외시장 개척 나서 www.newsgb.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cWlOdUExNkdQTk5NaHlJOURBX0RXb0RlSk1yR1BOM182bjcySmRIQUJUSUlRemxtUXFWbm1ySzN6Nkg0MEZSMlQ3aUQzRURuMlUwemtRTGFFNmpTc3Q0UA?oc=5",
+      "date": "Tue, 24 Nov 2026 02:10:13 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oWjVVZjhsNDNSSmxWRGNqRWhtMVdqVnJYaTRwRmljQXJPeC1VUFpJSmRGMC12V3BwVlJIcVp0elgzcGxzRWJJZERGelZaZk40WFJJaEJGQ1ZLbHdTR29tVjJ0b3JtdUFSdlE?oc=5": {
+      "title": "상주시 통합청사 건립, 시민 의견 수렴 거쳐 최종 결정 - www.hidomin.com",
+      "summary": "상주시 통합청사 건립, 시민 의견 수렴 거쳐 최종 결정 www.hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oWjVVZjhsNDNSSmxWRGNqRWhtMVdqVnJYaTRwRmljQXJPeC1VUFpJSmRGMC12V3BwVlJIcVp0elgzcGxzRWJJZERGelZaZk40WFJJaEJGQ1ZLbHdTR29tVjJ0b3JtdUFSdlE?oc=5",
+      "date": "Tue, 24 Nov 2026 02:43:31 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTEYwVkxKdTZkNk1mVFpQLW9yZmJFUEpyaWxMYy1GbFBpcE1SYzFCQ2M3cUN1Z3RHRUpPdmluS1h0b09za2drVmNPS2w3N05Wa1F1cnRWM3dDZ9IBWEFVX3lxTE1URzE1Qk9JRzRVWEZ2cWlhaHVEdGFjcUV5a2wtUGtPNUZ5c2E1MEh6T1puMTkxbS1fNDR3MGxVd2M1bkpVSWtZQkhXc2JDdU5SbV8yUC1vWjA?oc=5": {
+      "title": "상주시 통합청사 건립 제3차 시민토론회 마무리 - 아주경제",
+      "summary": "상주시 통합청사 건립 제3차 시민토론회 마무리 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTEYwVkxKdTZkNk1mVFpQLW9yZmJFUEpyaWxMYy1GbFBpcE1SYzFCQ2M3cUN1Z3RHRUpPdmluS1h0b09za2drVmNPS2w3N05Wa1F1cnRWM3dDZ9IBWEFVX3lxTE1URzE1Qk9JRzRVWEZ2cWlhaHVEdGFjcUV5a2wtUGtPNUZ5c2E1MEh6T1puMTkxbS1fNDR3MGxVd2M1bkpVSWtZQkhXc2JDdU5SbV8yUC1vWjA?oc=5",
+      "date": "Tue, 24 Nov 2026 02:37:27 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3937,56 +4070,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-24",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EMVZMNFVLejN2WjhzLUhReGlxd2FPNUZDZzVsRUZhWFNMYmYtVy1fckxvMWFzcTJ0Vy1QWDhtTmowanJSOG43ZUVWbGI0WGNyNmNuRWk0U2Zydmh0bC1QaF9Ndw?oc=5",
-      "title": "산불 피해 딛고 다시 선 제이오푸드, 안동 풍산읍에 신공장 준공 - 안동뉴스",
-      "date": "Tue, 10 Nov 2026 02:01:57 GMT"
-    },
-    {
-      "url": "https://www.kpinews.kr/newsView/1065580193974224",
-      "title": "박성현 광양시장, 포스코 노사에 호소…\"갈등 장기화는 지역경제 부담\"",
-      "date": "Tue, 10 Nov 2026 11:46:00 +0900"
-    },
-    {
-      "url": "https://www.bloter.net/news/articleView.html?idxno=678193",
-      "title": "포스코 인터, 美 가스전 이익 확대 청사진… 포스코 투자 시너지 모색",
-      "date": "Tue, 10 Nov 2026 11:44:00 +0900"
-    },
-    {
-      "url": "https://view.asiae.co.kr/article/2026111011222938458",
-      "title": "상주시, 수출시장 공략…무역사절단 408만 달러 성과",
-      "date": "Tue, 10 Nov 2026 11:39:00 +0900"
-    },
-    {
-      "url": "https://www.news1.kr/local/ulsan/6348892",
-      "title": "동서발전, 현대엔지니어링· 포스코 이앤씨와 호남 복합발전소 계약 체결",
-      "date": "Tue, 10 Nov 2026 11:38:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VOXJHamM5THUxcFpxZDJqeXF0dVVXbWxMNzJFQ0l1R2JDaFBqT2hwSTFmeVczblRtc1FxVEhFazNIb3NQcHBGTmxqbw?oc=5",
-      "title": "포스코 노조, 임금안 51.69% 반대로 부결…찬성보다 311표 많았다…새 파업 일정은 미정 : 경제 - 재경일보",
-      "date": "Tue, 10 Nov 2026 02:37:00 GMT"
-    },
-    {
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423565",
-      "title": "상주 명실상감한우, UAE 유통업체와 100만달러 수출 협약",
-      "date": "Tue, 10 Nov 2026 11:32:00 +0900"
-    },
-    {
-      "url": "https://www.kbsm.net/news/view.php?idx=541084",
-      "title": "안동 도청신도시에 목재문화체험장 건립",
-      "date": "Tue, 10 Nov 2026 11:30:00 +0900"
-    },
-    {
-      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117582",
-      "title": "안동시, 경북 도청신도시에 '목재문화체험장' 건립 ...총사업비 59억 투입",
-      "date": "Tue, 10 Nov 2026 11:28:00 +0900"
-    },
-    {
-      "url": "https://www.kbmaeil.com/article/20261110500180",
-      "title": "상주시 무역사절단 배트남·태국서 408만달러 수출계약 체결",
-      "date": "Tue, 10 Nov 2026 11:24:00 +0900"
-    },
     {
       "url": "https://view.asiae.co.kr/article/2026111009593890280",
       "title": "[Why&Next] 체코 원전 '템퍼링' 의혹 파장…'계약 파기 의도성'이 관건",
@@ -8596,6 +8679,56 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tZGU0aFNKMlRONk1GbUc2Vm9vRjdrZTU4SkNmZXc5SVNsRHlWS2tfeXVnQm1IMnZmVmdseGk3U0RIN0ZFblpGUmF3ZzJSa3pQRUVnYkk0R1ZOWjBtSHUxYnlyVVd2eEVNQlVhX0hoY21JTXdZcUItMXotRnA?oc=5",
       "title": "상주시 화북면 입석1리 커뮤니티센터 준공식 개최 - 경북뉴스",
       "date": "Tue, 24 Nov 2026 01:07:32 GMT"
+    },
+    {
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627267",
+      "title": "포스코 그룹, 7400억원 규모 美 셰일가스전 지분 인수",
+      "date": "Tue, 24 Nov 2026 11:10:00 +0900"
+    },
+    {
+      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125488",
+      "title": "포스코 인터내셔널, 5억5000만달러 투자해 미국 셰일가스전 인수 완료",
+      "date": "Tue, 24 Nov 2026 12:00:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oWjVVZjhsNDNSSmxWRGNqRWhtMVdqVnJYaTRwRmljQXJPeC1VUFpJSmRGMC12V3BwVlJIcVp0elgzcGxzRWJJZERGelZaZk40WFJJaEJGQ1ZLbHdTR29tVjJ0b3JtdUFSdlE?oc=5",
+      "title": "상주시 통합청사 건립, 시민 의견 수렴 거쳐 최종 결정 - www.hidomin.com",
+      "date": "Tue, 24 Nov 2026 02:43:31 GMT"
+    },
+    {
+      "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38619",
+      "title": "에스엘 , 3분기 영업이익 461억원·순손실 82억원",
+      "date": "Tue, 24 Nov 2026 11:40:00 +0900"
+    },
+    {
+      "url": "https://www.ajunews.com/view/20261124112956860",
+      "title": "'상주시 통합청사 건립 제3차 시민토론회' 마무리",
+      "date": "Tue, 24 Nov 2026 11:38:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTEYwVkxKdTZkNk1mVFpQLW9yZmJFUEpyaWxMYy1GbFBpcE1SYzFCQ2M3cUN1Z3RHRUpPdmluS1h0b09za2drVmNPS2w3N05Wa1F1cnRWM3dDZ9IBWEFVX3lxTE1URzE1Qk9JRzRVWEZ2cWlhaHVEdGFjcUV5a2wtUGtPNUZ5c2E1MEh6T1puMTkxbS1fNDR3MGxVd2M1bkpVSWtZQkhXc2JDdU5SbV8yUC1vWjA?oc=5",
+      "title": "상주시 통합청사 건립 제3차 시민토론회 마무리 - 아주경제",
+      "date": "Tue, 24 Nov 2026 02:37:27 GMT"
+    },
+    {
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316050",
+      "title": "포항 청하 의료폐기물시설 16일 건축 준공 통과… 환경청 최종 인가 '환...",
+      "date": "Tue, 24 Nov 2026 11:26:00 +0900"
+    },
+    {
+      "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200575",
+      "title": "교복값 낮추랬더니 '짬짜미'…경쟁입찰의 배신",
+      "date": "Tue, 24 Nov 2026 11:20:00 +0900"
+    },
+    {
+      "url": "https://www.imaeil.com/page/view/2026112411095106931",
+      "title": "청송군 내년 예산 6천140억원…농어촌기본소득에 588억원 '통 큰 투자'",
+      "date": "Tue, 24 Nov 2026 11:11:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cWlOdUExNkdQTk5NaHlJOURBX0RXb0RlSk1yR1BOM182bjcySmRIQUJUSUlRemxtUXFWbm1ySzN6Nkg0MEZSMlQ3aUQzRURuMlUwemtRTGFFNmpTc3Q0UA?oc=5",
+      "title": "성주군, 호주 무역사절단 파견으로 해외시장 개척 나서 - www.newsgb.co.kr",
+      "date": "Tue, 24 Nov 2026 02:10:13 GMT"
     }
   ],
   "brief_articles": [
@@ -8641,7 +8774,8 @@
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
-    "2026-11-23": 11
+    "2026-11-23": 11,
+    "2026-11-24": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
