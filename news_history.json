@@ -1,12 +1,5 @@
 {
   "sent": {
-    "https://www.hankyung.com/article/202611108623h": "2026-11-10T22:01:44.829708+09:00",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ma0I5RFd5eWFyWmNaWDhCSGMtS3YyZEctZ3diazhUS0QxUy0xUWMyTk0yTU5zX0tSSXN3aXVQak9yVlcxT0MyQ2VqWVF0QnRQTXFBQkNXdklJMXR4LWlYSmtIZw?oc=5": "2026-11-10T22:01:44.829708+09:00",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564983": "2026-11-10T22:01:44.829708+09:00",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=564967": "2026-11-10T22:01:44.829708+09:00",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3747428": "2026-11-10T22:01:44.829708+09:00",
-    "http://andongmbc.co.kr/adboard/NewsView85691": "2026-11-10T22:01:44.829708+09:00",
-    "https://www.tbc.co.kr/news/view?pno=20261110085804AE08250&id=213148": "2026-11-10T22:01:44.829708+09:00",
     "https://www.energy-news.co.kr/news/articleView.html?idxno=229663": "2026-11-10T23:02:06.923203+09:00",
     "https://www.g-enews.com/view.php?ud=202611110834535849923c501012_1": "2026-11-11T09:02:03.403818+09:00",
     "https://www.etnews.com/20261111000010": "2026-11-11T09:02:03.403818+09:00",
@@ -921,13 +914,6 @@
     "https://www.vegannews.co.kr/news/article.html?no=410598": "2026-11-24T22:09:46.781450+09:00"
   },
   "titles": {
-    "7d8140e060694b881126d59326b16c9e653d47c51e8334c3b0b6a376e94d4f51": "2026-11-10T22:01:44.829708+09:00",
-    "ebb1a366b63fc2d5368ec916153ecc45c29221e87cddaadab5542b6ef4499782": "2026-11-10T22:01:44.829708+09:00",
-    "27c7b5d36b63ed84f271e76d830e4efb313e5b114599856fa6d825c5073fa801": "2026-11-10T22:01:44.829708+09:00",
-    "0799185b9781c54cea1b288e69cc38b3bb997b3d58ff2c1080c8edc6f9d045b7": "2026-11-10T22:01:44.829708+09:00",
-    "d3446e7f0d4b7899497097f43cedffbb62c3718d98fff3768c2a4ca67519024f": "2026-11-10T22:01:44.829708+09:00",
-    "3b597e7b0ccc2b7a71e2436659ad6ad263b275485e9dcceb952d3be825b6f19c": "2026-11-10T22:01:44.829708+09:00",
-    "eb7bc4213f9093af0f68032e0f0db499540a61a13a5254a65130929acc1f7240": "2026-11-10T22:01:44.829708+09:00",
     "fdf6290fa195a20c0d15913b2b9226f98304dd24e46acc576d7220c5fc247169": "2026-11-10T23:02:06.923203+09:00",
     "b15f570b81b1a4be3913fec60b6c7a4f0b3306ae0a2700c409ee3306a7d39507": "2026-11-11T09:02:03.403818+09:00",
     "0d327c54fd258802f19bbf66f7d63e3fcd7cf97a8a1b1f083331337bebab18a5": "2026-11-11T09:02:03.403818+09:00",
@@ -1849,36 +1835,10 @@
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 15,
-    "2026-11-24": 17
+    "2026-11-24": 18
   },
   "cursor": 0,
   "archive": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=566146": {
-      "title": "경북 도, 경산에 '전기차 충돌안전부품 기술센터' 준공",
-      "summary": "경북 도는 지난 20일 경산지식산업지구에서 '전기차 충돌안전부품 기술센터' 준공식을 개최했다. 경북 도가... 규모로 건립 됐다. 센터 건립 과 기업 기술고도화에 2027년까지 총 222억원이 투입된다. xEV 보호차체는 전기차...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566146",
-      "date": "Sun, 22 Nov 2026 22:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5": {
-      "title": "포항 환호지구에 '5성급 호텔·프리미엄 리조트' 들어선다… 4,800억 원 투자·2031년 완공 목표 - 폴리뉴스 Polinews",
-      "summary": "포항 환호지구에 '5성급 호텔·프리미엄 리조트' 들어선다… 4,800억 원 투자·2031년 완공 목표 폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5obDIwTkZnTFYwS3M3NWVlR3RDaFQ5UHB5QXFValN1Z0tLaDNTdVFZQlNMYjlSVVNWdXVRNElGelBEcTdOZzlZLU16UjFkSkJxTmhOVUE3cklVanRqeWt5TXdfVWRQY0JTNDhXTTVB?oc=5",
-      "date": "Sun, 22 Nov 2026 13:44:59 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.aflnews.co.kr/news/articleView.html?idxno=332152": {
       "title": "대동 '주춤'·TYM '약진…3분기 실적 희비",
       "summary": "국내 종합형 농기계 회사 대동 과 TYM의 3분기 실적에 명암이 갈렸다. 특히 주요 시장인 북미 시장에서의 성적이 양사의 전체 실적에 영향을 줬다는 분석이다. 대동 과 TYM은 지난 13일 올해연도 3분기 분기보고서를...",
@@ -4664,6 +4624,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.livesnews.com/news/article.html?no=66311": {
+      "title": "경주시, 근로자·주민 위한 외동산단 복합문화센터 준공",
+      "summary": "경북 경주시가 외동산업단지에 근로자와 주민들의 쉼터를 만들었다. 경주시는 24일 외동2일반산업단지에서... 연면적 1,436㎡, 지상 2층 규모로 건립 된다. 내부는 북카페, 세탁소, 체력단련실, 회의실로 구성돼 있다....",
+      "url": "https://www.livesnews.com/news/article.html?no=66311",
+      "date": "Tue, 24 Nov 2026 22:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4687,11 +4660,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-24",
   "sent_articles": [
-    {
-      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229663",
-      "title": "당진 석탄발전 대체할 '호남복합', 핵심설비 건설계약",
-      "date": "Tue, 10 Nov 2026 22:52:00 +0900"
-    },
     {
       "url": "https://www.g-enews.com/view.php?ud=202611110834535849923c501012_1",
       "title": "[개장 전 주요 공시] 에코프로 비엠·에스텍·유진증권·영원무역·F&F 등",
@@ -9292,7 +9260,7 @@
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 11,
-    "2026-11-24": 10
+    "2026-11-24": 11
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
