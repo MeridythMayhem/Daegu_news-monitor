@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlVrbWcwcFlfRURfNkg1ZUFHN09Ncy1yN1R2bFVmankzVFNBNU9aWGpjeHA0YndHU2dCcUhiWktXd2JNQVZTQ0xlUkx5VlhIYlMwMHYwT051X0ZndFdOWF9sMTJMamxxLUJqSW5mRVRPWlptdkxWcjNKUGtocHlZaUJTX1laNWVQemRqblZ0Zw?oc=5": "2026-11-11T23:02:24.867643+09:00",
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710451&ref=A": "2026-11-11T23:02:24.867643+09:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NT3dscVpaWm5YWVZ0WnV2Qkh0Nm5FdGtmTlJxLXpFYUdsemNYX2YtWWVnQ0VOaEk0VFZWc1pqaVpJbzMtUHd2UGtORzZWb1k1NUgzaXNaWTczTkU3M25GMUhpMzRkZW5OVDY4NWh3?oc=5": "2026-11-12T09:01:57.505120+09:00",
     "https://www.newsis.com/view/NISX20261112_0003864698": "2026-11-12T09:01:57.505120+09:00",
     "https://www.fnnews.com/news/202611120756458580": "2026-11-12T09:01:57.505120+09:00",
@@ -909,8 +907,6 @@
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MW1jYlpKMktEaUhwMnNlUV9XS05qa19FQ0pMRFJhTkdHM0lKRmc1NFctZFdyU2FxT014Q01PS29TMWVTTDNtdzMtZ3NhSVRPYURLWDdEVHFqcnZaTHptQnhoc1Q1SVlIaWpz?oc=5": "2026-11-25T23:12:18.622235+09:00"
   },
   "titles": {
-    "a3e91e20e74dcbe98af53471023116c6fba84c8adc6da2acab0672dc3919dea3": "2026-11-11T23:02:24.867643+09:00",
-    "cbafb2c89ed6d7db738c5ff2eb2b46f3902d918f96f741b65b8679b2a2dcda04": "2026-11-11T23:02:24.867643+09:00",
     "810b88e1a4270da144011e881915feff527063c7bcb69cd5e22d1b99fb23e3f6": "2026-11-12T09:01:57.505120+09:00",
     "a81e0d47b4419307968c99f3b47e550c9e2f30b5b3fedb76f30a0f0027ba11c6": "2026-11-12T09:01:57.505120+09:00",
     "a000199ace18b0123119f67b37e00fbdbd587f60d717236b435617015c875fa7": "2026-11-12T09:01:57.505120+09:00",
@@ -1819,7 +1815,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
@@ -1829,84 +1824,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.bosa.co.kr/news/articleView.html?idxno=3017125": {
-      "title": "대구 보훈병원 서관 착공…105병상 확충 AI 스마트병원 도약",
-      "summary": "김신윤 대구 보훈병원장 등 정·관계 및 의료계 내빈 150여 명이 참석해 성공적인 건립 을 기원했다. 착공식은 개회 및 국민의례, 공사 개요 보고를 시작으로 권오을 장관의 격려사와 박찬호 이사장 직무대행·김신윤...",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017125",
-      "date": "Tue, 24 Nov 2026 05:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.g-enews.com/view.php?ud=2026112407180123232bd56fbc3c_1": {
-      "title": "에코프로 비엠 헝가리 공장, 소성설비 정비 중 연기 발생…화재로 번지지...",
-      "summary": "헝가리 데브레첸에 있는 에코프로 비엠 헝가리법인 공장에서 소성설비 정비 작업 도중 연기가 발생했다. 헝가리 지역 매체 하온(HAON)은 11월 24일(현지시각) 에코프로 비엠 헝가리 공장에서 현장 직원들이 분말소화기로 연기...",
-      "url": "https://www.g-enews.com/view.php?ud=2026112407180123232bd56fbc3c_1",
-      "date": "Tue, 24 Nov 2026 07:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.the-today.com/news/articleView.html?idxno=94013": {
-      "title": "[단독] \"같은 4000만달러 투자로 최대 지분율 37.6% 확보\"… 포스코 , 탄자...",
-      "summary": "포스코 인터내셔널이 참여하는 탄자니아 마헨게(Mahenge) 흑연 광산 프로젝트의 1단계 개발자금 조달이 약... 자료 4쪽 자금조달 항목에서 포스코 가 담당하는 지분투자액을 7000만달러로 기재했으나 정확한 금액은...",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=94013",
-      "date": "Tue, 24 Nov 2026 07:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcDMwZWI0cW5JSkxnWWJVa0FYeEdrRS1aSGhjbFFaZEU5bzRGeS0tVlFHQjVKNWlPWUdjZ2lGNFJXdjZyTVZIMW5NNHBlMHJZdEVZNW1TbDhBdDU1MG5UN2N5Mm9QdUJ6YWhrQ1JwM1NwRkd4dEFyNy1jVHZQTmN3R1o0b2NFZWx0UDNUSElSbTBuNkRsVU1TTnNha3djVHFiZTA3WWV0dEFkMUk4WHlzZHUwSUdEN1lSWGpJZU1VVlQxUzl4VXVkck5rRlBpRW1RcHF0X1F5S3ZfQlXSAeABQVVfeXFMTmpndzhHRVhSQ3d0M3Qta1RRNTV3eXZwVkJRaE1JOHBiWlc2MDRvTGJXRHVwMkVYdm94elpXUmNZZmI5NVFadUpDZWQ4eHJyWnJJZFI0QkNQWllLdTNpSE1pRXBra3JEVU5nVVItaVVxTTZHdzJCNmNoejMxOEttTkpINjJfRE01YmtLbnJ2WHNBNFV0QUtlWTR0YTJneDduM0NISWpaTlVmVk1VU2hVam51VEptRzl4dk9uQXRQSGFrZlJVZlhtRXZfX0JZend5QnQ3SVlVaW9pWnFEaVFQQmo?oc=5": {
-      "title": "Solid Earnings May Not Tell The Whole Story For EcoPro BM (KOSDAQ:247540) - Simply Wall St",
-      "summary": "Solid Earnings May Not Tell The Whole Story For EcoPro BM (KOSDAQ:247540) Simply Wall St",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcDMwZWI0cW5JSkxnWWJVa0FYeEdrRS1aSGhjbFFaZEU5bzRGeS0tVlFHQjVKNWlPWUdjZ2lGNFJXdjZyTVZIMW5NNHBlMHJZdEVZNW1TbDhBdDU1MG5UN2N5Mm9QdUJ6YWhrQ1JwM1NwRkd4dEFyNy1jVHZQTmN3R1o0b2NFZWx0UDNUSElSbTBuNkRsVU1TTnNha3djVHFiZTA3WWV0dEFkMUk4WHlzZHUwSUdEN1lSWGpJZU1VVlQxUzl4VXVkck5rRlBpRW1RcHF0X1F5S3ZfQlXSAeABQVVfeXFMTmpndzhHRVhSQ3d0M3Qta1RRNTV3eXZwVkJRaE1JOHBiWlc2MDRvTGJXRHVwMkVYdm94elpXUmNZZmI5NVFadUpDZWQ4eHJyWnJJZFI0QkNQWllLdTNpSE1pRXBra3JEVU5nVVItaVVxTTZHdzJCNmNoejMxOEttTkpINjJfRE01YmtLbnJ2WHNBNFV0QUtlWTR0YTJneDduM0NISWpaTlVmVk1VU2hVam51VEptRzl4dk9uQXRQSGFrZlJVZlhtRXZfX0JZend5QnQ3SVlVaW9pWnFEaVFQQmo?oc=5",
-      "date": "Mon, 23 Nov 2026 21:43:21 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 에코프로",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWdUUHd0ZXVTMC01TmZrUWgyTzhtM2VRNF9sRlF0Q1NqYWJzQThRN1VJTmFjdkhFTHN3S0pmMVFEMVc3VjJCRFlWdkdiMVdlcHhVaTZ4VWFvSC02VFl2czF2dW55bWNZcEZZSGVUNFJwc3VIZGJGcWdmTnBuNGVCam9fZ29oX2ZPQmFBTlBnam9wWDc2VXBRemFhQ2otbzdKdVJFMEZhbGNPM1RpRExzbWxkUXFCWGZHRGN4OHJkSVRUTW9nVzNzcXcyb3NNSXfSAdQBQVVfeXFMT3NDMXB3UmJzTGJtcFdUdnpwNWxndDdMWXpHX1JJU0JqdWRHSVd0ZkZ6aVRDTjJZdERiUUtNVkhqMnlhUENxQ0pPcWdUUDUzOGhhUGNrcGtiN2otcDRwVnNvbWFlb2Z2eXVCQmNWY1laMG9YbmhnN3luQzF0N0Ywa0p1RGpDT2ROdW1DYWVXQzRGUzNIX0Zob0gyOFZTVThzQ0ViZnBFa3JEby1Ib3AwZXdCQzk0QjlfV3pYTFVQQ2syLUlEN0tDQkV6Umk3NjlJWmRTUkY?oc=5": {
-      "title": "Impressive Earnings May Not Tell The Whole Story For ISU Petasys (KRX:007660) - Simply Wall St",
-      "summary": "Impressive Earnings May Not Tell The Whole Story For ISU Petasys (KRX:007660) Simply Wall St",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWdUUHd0ZXVTMC01TmZrUWgyTzhtM2VRNF9sRlF0Q1NqYWJzQThRN1VJTmFjdkhFTHN3S0pmMVFEMVc3VjJCRFlWdkdiMVdlcHhVaTZ4VWFvSC02VFl2czF2dW55bWNZcEZZSGVUNFJwc3VIZGJGcWdmTnBuNGVCam9fZ29oX2ZPQmFBTlBnam9wWDc2VXBRemFhQ2otbzdKdVJFMEZhbGNPM1RpRExzbWxkUXFCWGZHRGN4OHJkSVRUTW9nVzNzcXcyb3NNSXfSAdQBQVVfeXFMT3NDMXB3UmJzTGJtcFdUdnpwNWxndDdMWXpHX1JJU0JqdWRHSVd0ZkZ6aVRDTjJZdERiUUtNVkhqMnlhUENxQ0pPcWdUUDUzOGhhUGNrcGtiN2otcDRwVnNvbWFlb2Z2eXVCQmNWY1laMG9YbmhnN3luQzF0N0Ywa0p1RGpDT2ROdW1DYWVXQzRGUzNIX0Zob0gyOFZTVThzQ0ViZnBFa3JEby1Ib3AwZXdCQzk0QjlfV3pYTFVQQ2syLUlEN0tDQkV6Umk3NjlJWmRTUkY?oc=5",
-      "date": "Mon, 23 Nov 2026 21:01:07 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 이수페타시스",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1scWpTal9aYXpjTzRkOHZBc3hNal9kLTIwSjBjeUtKcXVIUC0xUHdRWG5OR0V0YTZja0ZoQ1pQamdZakpISm9md1lhbDRmeXBNdVllbFhVRU01Z255SlFicm5iTWdtT0VoRU5XUVBDYjJibkU?oc=5": {
-      "title": "신문 포장재 놓고 지역감정 논란…경산 茶 판매업체 '곤혹' > 뉴스포커스 - SeattleN",
-      "summary": "신문 포장재 놓고 지역감정 논란…경산 茶 판매업체 '곤혹' > 뉴스포커스 SeattleN",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1scWpTal9aYXpjTzRkOHZBc3hNal9kLTIwSjBjeUtKcXVIUC0xUHdRWG5OR0V0YTZja0ZoQ1pQamdZakpISm9md1lhbDRmeXBNdVllbFhVRU01Z255SlFicm5iTWdtT0VoRU5XUVBDYjJibkU?oc=5",
-      "date": "Mon, 23 Nov 2026 19:55:40 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
     "http://www.datanews.co.kr/news/article.html?no=147757": {
       "title": "에코프로 비엠, 헝가리·BNSI 가동…실적 회복 속도낸다",
       "summary": "에코프로 비엠이 전기차(EV)용 양극재 판매 부진으로 실적 회복에 어려움을 겪고 있다. 내년부터 헝가리 공장의 생산 확대와 인도네시아 니켈 제련소 가동에 따른 실적 개선이 기대되지만, 주력 양극재 사업의...",
@@ -5421,34 +5338,104 @@
       "category": "관심기업 동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://biz.heraldcorp.com/article/10949624?ref=naver": {
+      "title": "iM뱅크 , 한국부동산원 주거래은행 업무협약 체결",
+      "summary": "iM뱅크 는 한국부동산원과 주거래은행 업무협약을 체결하고 안정적인 금융거래 기반 마련과 ESG 경영 실천을 위한 협력에 나선다. 양 기관은 지난 24일 한국부동산원 본사에서 협약식을 진행했다. 이번 협약에 따라 iM뱅크 는...",
+      "url": "https://biz.heraldcorp.com/article/10949624?ref=naver",
+      "date": "Thu, 26 Nov 2026 07:51:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.gukjenews.com/news/articleView.html?idxno=3763386": {
+      "title": "한국부동산원· 아이엠뱅크 , 주거래은행 협약…3년간 금융서비스 제공",
+      "summary": "한국부동산원 주거래은행 업무협약 (왼쪽부터 이헌욱 한국부동산원 원장, 강정훈 아이엠뱅크 은행장) 한국부동산원은 24일 본사에서 아이엠뱅크 와 주거래은행 업무협약을 체결했다고 25일 밝혔다. 협약은 한국부동산원의...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763386",
+      "date": "Thu, 26 Nov 2026 00:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=887126": {
+      "title": "영업익률 10%→3% 추락…이충곤 에스엘 , 램프 부진 직격탄",
+      "summary": "이충곤 에스엘 회장. AI 생성 이미지. | 서울=한스경제 곽호준 기자 | 자동차 부품업체 에스엘 의 매출이 늘었지만 수익성은 뒷걸음쳤다. 전동화 부문은 흑자로 돌아섰지만 고객사 생산 차질과 전자부품 가격 상승으로...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887126",
+      "date": "Thu, 26 Nov 2026 06:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에스엘",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.kpinews.kr/newsView/1065563280841515": {
+      "title": "포스코 , 인도 타밀나두에 360억 투자·철강 가공 시설 설립 계획",
+      "summary": "포스코 가 인도 남부 타밀나두주 크리슈나기리 지역에 약 360억 원을 투자해 철강 가공 시설을 설립할 계획이라는 발표가 인도 현지에서 났다. ▲ 포스코 홈페이지. '이티비 바라트', '더 뉴 인디언 익스프레스...",
+      "url": "https://www.kpinews.kr/newsView/1065563280841515",
+      "date": "Thu, 26 Nov 2026 06:57:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.apnews.kr/news/articleView.html?idxno=3053581": {
+      "title": "현대엔지니어링, 두 달 새 용인·호남서 2.3조 발전사업 수주",
+      "summary": "송치영 포스코 이앤씨 사장(왼쪽에서 네 번째) 등 주요 관계자들이 지난 9일 울산 중구 한국동서발전... 송치영 포스코 이앤씨 사장 등이 참석한 가운데 호남 복합발전소 건설 사업 계약 서명식을 진행했다. 해당 사업은...",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3053581",
+      "date": "Thu, 26 Nov 2026 00:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzNNNFF6ZFdZamVvNWdBOF9NTzFSU0FmMTFaUGFrRjdNSGo3d2lMVTJ5a1M4b2lvNmJXWmZJMEpnbDRsbGdpVFU1ek5qbkliQmtQcGdadHNreUMzSnFWSGdTRXgybXMwS0U0YjNyLTlrRmxqWFNaUzFqV05iQ25uRw?oc=5": {
+      "title": "경북문화재단 콘텐츠진흥원, 경북 콘텐츠 기업 “국내는 좁다! 해외 공략” - CBN뉴스",
+      "summary": "경북문화재단 콘텐츠진흥원, 경북 콘텐츠 기업 “국내는 좁다! 해외 공략” CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzNNNFF6ZFdZamVvNWdBOF9NTzFSU0FmMTFaUGFrRjdNSGo3d2lMVTJ5a1M4b2lvNmJXWmZJMEpnbDRsbGdpVFU1ek5qbkliQmtQcGdadHNreUMzSnFWSGdTRXgybXMwS0U0YjNyLTlrRmxqWFNaUzFqV05iQ25uRw?oc=5",
+      "date": "Wed, 25 Nov 2026 22:40:52 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
     }
   },
   "brief_sent": {
-    "https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125031005?wlog_tag3=naver": "2026-11-25T08:10:11.968293+09:00",
-    "https://www.etoday.co.kr/news/view/2652502": "2026-11-25T08:10:11.968293+09:00",
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2389099": "2026-11-25T08:10:11.968293+09:00",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9jR3ZKYVVheDBuaTFwYUdTcC16RjhHX2dLM0Y1MmFOM3lYZEFMN2FYemNSV004MGJyTFNsd09aeEZtTWlwR0s2V2ZnTnM2WUoyQVlYMjNEM1UweVI1ZFBlZGhqWllTN0todzhWR05WX2xtUQ?oc=5": "2026-11-25T08:10:11.968293+09:00",
-    "https://www.newsway.co.kr/news/view?ud=2026112417454488651": "2026-11-25T08:10:11.968293+09:00",
-    "https://www.ajunews.com/view/20261125005404762": "2026-11-25T08:10:11.968293+09:00",
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288073&CMPT_CD=P0010": "2026-11-25T08:10:11.968293+09:00",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUllbGRyMFd2bWV4WUQtcEZ5d0d0VUhQZ25KbjZNN3FrNG05ekoyX2R3QUVvaGNFaTJlNkdXVWVEV1dfRzA5NlJCRjMxLTBfMlVaQ3pwc2hjWDdlMkp3N1JkeGsyT0h0dkpxYkY3cDVFUUtzNGtmSHNSTF9uVzJTRllJc242VDFDcHdSTw?oc=5": "2026-11-25T08:10:11.968293+09:00",
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNM0h6clByeGtoYTROZFd1X1VWYUFCWXRQakNZZzI1dEhTNXAzcWdPdHZIREYwd0k2cXZaV0wyR01TTEJRd25fQVFtU0Z0Zw?oc=5": "2026-11-25T08:10:11.968293+09:00",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Z2k0TThUS2pNcTNWblRFWm5YcnRkR2FNNm9rN2s5X0tNN1dXbXlUYk1pdmsyaDg4NEpaZEZESm4wMnM1Y1JiQ2RvQzRpVE9WNWZEakstdkVkaUU4WGc?oc=5": "2026-11-25T08:10:11.968293+09:00"
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzNNNFF6ZFdZamVvNWdBOF9NTzFSU0FmMTFaUGFrRjdNSGo3d2lMVTJ5a1M4b2lvNmJXWmZJMEpnbDRsbGdpVFU1ek5qbkliQmtQcGdadHNreUMzSnFWSGdTRXgybXMwS0U0YjNyLTlrRmxqWFNaUzFqV05iQ25uRw?oc=5": "2026-11-26T08:10:04.641977+09:00",
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=887126": "2026-11-26T08:10:04.641977+09:00",
+    "https://biz.heraldcorp.com/article/10949624?ref=naver": "2026-11-26T08:10:04.641977+09:00",
+    "https://www.kpinews.kr/newsView/1065563280841515": "2026-11-26T08:10:04.641977+09:00",
+    "https://www.apnews.kr/news/articleView.html?idxno=3053581": "2026-11-26T08:10:04.641977+09:00",
+    "https://www.gukjenews.com/news/articleView.html?idxno=3763386": "2026-11-26T08:10:04.641977+09:00"
   },
   "brief_titles": {
-    "36b298813cb7882f2e050893656bc2524db5404e78d2ca5119907ee3f7a73dc2": "2026-11-25T08:10:11.968293+09:00",
-    "ac00673b070f12a651068e360dc5e83c1ef6fde42ab8652cedada7d7a7a8fc65": "2026-11-25T08:10:11.968293+09:00",
-    "ae2667792ab294f631d2d927302b2d805d0a553c1867aa314ca8acf9d21e632c": "2026-11-25T08:10:11.968293+09:00",
-    "408fc5e3c6d22d60a2f80ad7e598492b6929b40d4a9e13b5056b45f44351dd22": "2026-11-25T08:10:11.968293+09:00",
-    "5c4f3bfab056b909f48f20ed6359ffe2bcc84be9204b3c9e9605297faac110d6": "2026-11-25T08:10:11.968293+09:00",
-    "42e0362341bf575b20ea1da1e35409b6a28c7ad4aedcbc5ed0d550ac01c1722d": "2026-11-25T08:10:11.968293+09:00",
-    "6bd883629eb6d3b9d76457d56b51b894a400bc755709f1e73317e53ddbec55e7": "2026-11-25T08:10:11.968293+09:00",
-    "a75014879cc78f9b81cf3dd26e175082ded56a0f56a9c4eeb3a17a4d688b43cd": "2026-11-25T08:10:11.968293+09:00",
-    "2be132409ea585d1d5eea71d46f85c983f36b9d7f9bdbbe425674a8eb40070c7": "2026-11-25T08:10:11.968293+09:00",
-    "ba06c6565ae408555e31d665d936ae6489da6f8d8cd345577f4c4bcbd0a550a8": "2026-11-25T08:10:11.968293+09:00"
+    "a72993c5084bf83630389503d46e6317cf27b4ace793f24c29ddbd7629ae7d54": "2026-11-26T08:10:04.641977+09:00",
+    "ba14fdb879fdb3d9101d3a2b55d399a8b21ffa8abfeb7e940b6f16ddbb2e9a5c": "2026-11-26T08:10:04.641977+09:00",
+    "f567a0c622388ebd6d6b32c86a3594dbc19635378f1303e1344d2d55ac1e758a": "2026-11-26T08:10:04.641977+09:00",
+    "c2f4e8e2d1e03348137dc4b1a89cd3e6d5115bf94e5d380e09da7d5ca45e7c1a": "2026-11-26T08:10:04.641977+09:00",
+    "d72830e9b0cfe402732943582ba596a4face611fd7b2256ee1622ce1699d1543": "2026-11-26T08:10:04.641977+09:00",
+    "a4ae74bd0356b1f4727376cf9ffca006a48eb3f50f73dadf85ebdabe1fbaee3a": "2026-11-26T08:10:04.641977+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-25",
+  "brief_date": "2026-11-26",
   "sent_articles": [
     {
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NT3dscVpaWm5YWVZ0WnV2Qkh0Nm5FdGtmTlJxLXpFYUdsemNYX2YtWWVnQ0VOaEk0VFZWc1pqaVpJbzMtUHd2UGtORzZWb1k1NUgzaXNaWTczTkU3M25GMUhpMzRkZW5OVDY4NWh3?oc=5",
@@ -9978,58 +9965,37 @@
   ],
   "brief_articles": [
     {
-      "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125031005?wlog_tag3=naver",
-      "title": "차기 회장 선임 앞두고 임원 인사… 경영 혼란 키우는 포스코",
-      "date": "Wed, 25 Nov 2026 05:06:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzNNNFF6ZFdZamVvNWdBOF9NTzFSU0FmMTFaUGFrRjdNSGo3d2lMVTJ5a1M4b2lvNmJXWmZJMEpnbDRsbGdpVFU1ek5qbkliQmtQcGdadHNreUMzSnFWSGdTRXgybXMwS0U0YjNyLTlrRmxqWFNaUzFqV05iQ25uRw?oc=5",
+      "title": "경북문화재단 콘텐츠진흥원, 경북 콘텐츠 기업 “국내는 좁다! 해외 공략” - CBN뉴스",
+      "date": "Wed, 25 Nov 2026 22:40:52 GMT"
     },
     {
-      "url": "https://www.etoday.co.kr/news/view/2652502",
-      "title": "[전날 주요공시] 에코프로 비엠·HD현대·다올투자증권 등",
-      "date": "Wed, 25 Nov 2026 07:36:00 +0900"
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887126",
+      "title": "영업익률 10%→3% 추락…이충곤 에스엘 , 램프 부진 직격탄",
+      "date": "Thu, 26 Nov 2026 06:00:00 +0900"
     },
     {
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2389099",
-      "title": "[은행] 새마을금고중앙회, 조직문화 개선… iM뱅크 , 지역기업 지원·계열...",
-      "date": "Wed, 25 Nov 2026 07:30:00 +0900"
+      "url": "https://biz.heraldcorp.com/article/10949624?ref=naver",
+      "title": "iM뱅크 , 한국부동산원 주거래은행 업무협약 체결",
+      "date": "Thu, 26 Nov 2026 07:51:00 +0900"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jR3ZKYVVheDBuaTFwYUdTcC16RjhHX2dLM0Y1MmFOM3lYZEFMN2FYemNSV004MGJyTFNsd09aeEZtTWlwR0s2V2ZnTnM2WUoyQVlYMjNEM1UweVI1ZFBlZGhqWllTN0todzhWR05WX2xtUQ?oc=5",
-      "title": "[은행] 새마을금고중앙회, 조직문화 개선…iM뱅크, 지역기업 지원·계열사 협업 확대 - 웹이코노미",
-      "date": "Tue, 24 Nov 2026 22:29:20 GMT"
+      "url": "https://www.kpinews.kr/newsView/1065563280841515",
+      "title": "포스코 , 인도 타밀나두에 360억 투자·철강 가공 시설 설립 계획",
+      "date": "Thu, 26 Nov 2026 06:57:00 +0900"
     },
     {
-      "url": "https://www.newsway.co.kr/news/view?ud=2026112417454488651",
-      "title": "유상증자 실탄 푸는 에코프로 비엠…인니 니켈 투자 가속",
-      "date": "Wed, 25 Nov 2026 07:10:00 +0900"
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3053581",
+      "title": "현대엔지니어링, 두 달 새 용인·호남서 2.3조 발전사업 수주",
+      "date": "Thu, 26 Nov 2026 00:28:00 +0900"
     },
     {
-      "url": "https://www.ajunews.com/view/20261125005404762",
-      "title": "경주 외동산단 복합문화센터 준공…근로자·주민 생활복지 거점 조성",
-      "date": "Wed, 25 Nov 2026 05:02:00 +0900"
-    },
-    {
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288073&CMPT_CD=P0010",
-      "title": "대구 시, 제2 대구 의료원 건립 중장기 과제로... 정당·시민단체 반발",
-      "date": "Wed, 25 Nov 2026 01:42:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUllbGRyMFd2bWV4WUQtcEZ5d0d0VUhQZ25KbjZNN3FrNG05ekoyX2R3QUVvaGNFaTJlNkdXVWVEV1dfRzA5NlJCRjMxLTBfMlVaQ3pwc2hjWDdlMkp3N1JkeGsyT0h0dkpxYkY3cDVFUUtzNGtmSHNSTF9uVzJTRllJc242VDFDcHdSTw?oc=5",
-      "title": "성주군, 수출시장 다변화 발판 마련…동남아 중심에서 호주까지 파견지역 확대 - 데일리대구경북뉴스",
-      "date": "Tue, 24 Nov 2026 16:30:32 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNM0h6clByeGtoYTROZFd1X1VWYUFCWXRQakNZZzI1dEhTNXAzcWdPdHZIREYwd0k2cXZaV0wyR01TTEJRd25fQVFtU0Z0Zw?oc=5",
-      "title": "포항시·경북도·한화호텔앤드리조트㈜·포항하나원㈜ 투자양해각서(MOU) 체결 - GBN 경북방송",
-      "date": "Tue, 24 Nov 2026 14:42:46 GMT"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Z2k0TThUS2pNcTNWblRFWm5YcnRkR2FNNm9rN2s5X0tNN1dXbXlUYk1pdmsyaDg4NEpaZEZESm4wMnM1Y1JiQ2RvQzRpVE9WNWZEakstdkVkaUU4WGc?oc=5",
-      "title": "구미시-구미전자정보기술원, 구미국가산업단지 8개사에 스마트 안전솔루션 보급 - 구미일보",
-      "date": "Tue, 24 Nov 2026 14:28:28 GMT"
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763386",
+      "title": "한국부동산원· 아이엠뱅크 , 주거래은행 협약…3년간 금융서비스 제공",
+      "date": "Thu, 26 Nov 2026 00:18:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-11-18": 3,
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
