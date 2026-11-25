@@ -1,10 +1,5 @@
 {
   "sent": {
-    "https://www.geconomy.co.kr/news/article.html?no=325573": "2026-11-11T22:01:59.759098+09:00",
-    "http://andongmbc.co.kr/adboard/NewsView85715": "2026-11-11T22:01:59.759098+09:00",
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HYk92ZDVDeG92cEVUREw5ZTFyaWkwenlFSTBmQV80bkV5SDc2cEQ3bVBXRDVqOExIVmtYSl9ieDVXbzRRMlN3d19oVHNlRkxjeGxEc0tUWFZGYzMzdkJhQjdYTUlqeGpT0gFuQVVfeXFMTXFtTWZObzQ2X2JKUlQ5M3A4WDY0YlI4TFZqYTJGRHF1SkRnbndzSFA3a0M4Vk5HRnltcGdvT19CaGhPaVlVYzMtOEczQktPQTdKRUhGVjBvQnNWaDVEdkgxbGRIeE5pUEx3QXc3M2c?oc=5": "2026-11-11T22:01:59.759098+09:00",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565118": "2026-11-11T22:01:59.759098+09:00",
-    "https://ysmbc.co.kr/NewsArticle/1545290": "2026-11-11T22:01:59.759098+09:00",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlVrbWcwcFlfRURfNkg1ZUFHN09Ncy1yN1R2bFVmankzVFNBNU9aWGpjeHA0YndHU2dCcUhiWktXd2JNQVZTQ0xlUkx5VlhIYlMwMHYwT051X0ZndFdOWF9sMTJMamxxLUJqSW5mRVRPWlptdkxWcjNKUGtocHlZaUJTX1laNWVQemRqblZ0Zw?oc=5": "2026-11-11T23:02:24.867643+09:00",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710451&ref=A": "2026-11-11T23:02:24.867643+09:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NT3dscVpaWm5YWVZ0WnV2Qkh0Nm5FdGtmTlJxLXpFYUdsemNYX2YtWWVnQ0VOaEk0VFZWc1pqaVpJbzMtUHd2UGtORzZWb1k1NUgzaXNaWTczTkU3M25GMUhpMzRkZW5OVDY4NWh3?oc=5": "2026-11-12T09:01:57.505120+09:00",
@@ -910,14 +905,10 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=566512": "2026-11-25T22:02:44.588982+09:00",
     "https://www.youngnong.co.kr/news/articleView.html?idxno=72201": "2026-11-25T22:02:44.588982+09:00",
     "https://www.kbsm.net/news/view.php?idx=543373": "2026-11-25T22:02:44.588982+09:00",
-    "https://www.ksmnews.co.kr/news/view.php?idx=631084": "2026-11-25T22:02:44.588982+09:00"
+    "https://www.ksmnews.co.kr/news/view.php?idx=631084": "2026-11-25T22:02:44.588982+09:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MW1jYlpKMktEaUhwMnNlUV9XS05qa19FQ0pMRFJhTkdHM0lKRmc1NFctZFdyU2FxT014Q01PS29TMWVTTDNtdzMtZ3NhSVRPYURLWDdEVHFqcnZaTHptQnhoc1Q1SVlIaWpz?oc=5": "2026-11-25T23:12:18.622235+09:00"
   },
   "titles": {
-    "232d2adb07818b76848ed9fbe2d62f965f4b78a0a223149e1cc355165a79eed8": "2026-11-11T22:01:59.759098+09:00",
-    "46c7a7b0fd89f24cd0920551feb98d4611d52e5db93f08e9871a1dade7ac719a": "2026-11-11T22:01:59.759098+09:00",
-    "0dfd1d4a6bbd119226c46d8af0206e70f052995c6c80cb35914a89a484fedb15": "2026-11-11T22:01:59.759098+09:00",
-    "fead19fcd960edf62f1c4ecd9d354f526c7544dcccdbe15cb69af6f0d35fd7cd": "2026-11-11T22:01:59.759098+09:00",
-    "ce9ba8e05b27bf0d27fcb6f900e21acf0022db234d901e07a17c0bd2105a5be8": "2026-11-11T22:01:59.759098+09:00",
     "a3e91e20e74dcbe98af53471023116c6fba84c8adc6da2acab0672dc3919dea3": "2026-11-11T23:02:24.867643+09:00",
     "cbafb2c89ed6d7db738c5ff2eb2b46f3902d918f96f741b65b8679b2a2dcda04": "2026-11-11T23:02:24.867643+09:00",
     "810b88e1a4270da144011e881915feff527063c7bcb69cd5e22d1b99fb23e3f6": "2026-11-12T09:01:57.505120+09:00",
@@ -1823,7 +1814,8 @@
     "587e792889f66e374b606fd552dfc24da4039b05a4fda097a4358a76c5bcfd6b": "2026-11-25T22:02:44.588982+09:00",
     "23dd4e02b176b5bac8b6355270f8eae8873fe24aa655ebc6ba24a0ac34cc94f1": "2026-11-25T22:02:44.588982+09:00",
     "be296f73fe7e146f375a37e337774f1cd95a20fe20f1693481800c7521083d81": "2026-11-25T22:02:44.588982+09:00",
-    "6ce9639df13a15442d2f426f87a2a64d6fe71541a0ff1c8b242aa315d7890769": "2026-11-25T22:02:44.588982+09:00"
+    "6ce9639df13a15442d2f426f87a2a64d6fe71541a0ff1c8b242aa315d7890769": "2026-11-25T22:02:44.588982+09:00",
+    "608ff337152d31282d87af1ccbd127d6e5d81900874d572aaad5552257c02d40": "2026-11-25T23:12:18.622235+09:00"
   },
   "pending": {},
   "ai": {
@@ -1837,19 +1829,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611232251187810274": {
-      "title": "포스코 이앤씨ㆍ두산건설, 상계3구역 공공재개발 수주",
-      "summary": "4호선 불암산역 인근 2550가구 규모 포스코 이앤씨와 두산건설이 서울 노원구 상계3구역 공공재개발 시공권을 확보했다. 한국토지주택공사(LH)는 상계3구역 공공재개발 사업 시공사로 포스코 이앤씨ㆍ두산건설 컨소시엄이...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611232251187810274",
-      "date": "Mon, 23 Nov 2026 23:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.bosa.co.kr/news/articleView.html?idxno=3017125": {
       "title": "대구 보훈병원 서관 착공…105병상 확충 AI 스마트병원 도약",
       "summary": "김신윤 대구 보훈병원장 등 정·관계 및 의료계 내빈 150여 명이 참석해 성공적인 건립 을 기원했다. 착공식은 개회 및 국민의례, 공사 개요 보고를 시작으로 권오을 장관의 격려사와 박찬호 이사장 직무대행·김신윤...",
@@ -5429,6 +5408,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MW1jYlpKMktEaUhwMnNlUV9XS05qa19FQ0pMRFJhTkdHM0lKRmc1NFctZFdyU2FxT014Q01PS29TMWVTTDNtdzMtZ3NhSVRPYURLWDdEVHFqcnZaTHptQnhoc1Q1SVlIaWpz?oc=5": {
+      "title": "iM뱅크-한국부동산원 '주거래은행 업무협약' 체결 - 마일드경제",
+      "summary": "iM뱅크-한국부동산원 '주거래은행 업무협약' 체결 마일드경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MW1jYlpKMktEaUhwMnNlUV9XS05qa19FQ0pMRFJhTkdHM0lKRmc1NFctZFdyU2FxT014Q01PS29TMWVTTDNtdzMtZ3NhSVRPYURLWDdEVHFqcnZaTHptQnhoc1Q1SVlIaWpz?oc=5",
+      "date": "Wed, 25 Nov 2026 13:36:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5458,16 +5450,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-25",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlVrbWcwcFlfRURfNkg1ZUFHN09Ncy1yN1R2bFVmankzVFNBNU9aWGpjeHA0YndHU2dCcUhiWktXd2JNQVZTQ0xlUkx5VlhIYlMwMHYwT051X0ZndFdOWF9sMTJMamxxLUJqSW5mRVRPWlptdkxWcjNKUGtocHlZaUJTX1laNWVQemRqblZ0Zw?oc=5",
-      "title": "시노펙스, 영덕 산불피해지 '탄소중립 숲' 착공 : 네이버 블로그 - Naver Blog",
-      "date": "Wed, 11 Nov 2026 13:39:42 GMT"
-    },
-    {
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710451&ref=A",
-      "title": "“대구시 신청사 건립 사업 원점 재검토해야”",
-      "date": "Wed, 11 Nov 2026 22:05:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NT3dscVpaWm5YWVZ0WnV2Qkh0Nm5FdGtmTlJxLXpFYUdsemNYX2YtWWVnQ0VOaEk0VFZWc1pqaVpJbzMtUHd2UGtORzZWb1k1NUgzaXNaWTczTkU3M25GMUhpMzRkZW5OVDY4NWh3?oc=5",
       "title": "한국가스공사 자회사, 승인된 직원 산재마저 \"취소하라\"…동료 회유까지 '도 넘은 갑질' - 알파경제",
@@ -9987,6 +9969,11 @@
       "url": "https://www.ksmnews.co.kr/news/view.php?idx=631084",
       "title": "포항 영일만3산단 바이오매스 발전소 건립 추진…관리기본계획 변경",
       "date": "Wed, 25 Nov 2026 21:12:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MW1jYlpKMktEaUhwMnNlUV9XS05qa19FQ0pMRFJhTkdHM0lKRmc1NFctZFdyU2FxT014Q01PS29TMWVTTDNtdzMtZ3NhSVRPYURLWDdEVHFqcnZaTHptQnhoc1Q1SVlIaWpz?oc=5",
+      "title": "iM뱅크-한국부동산원 '주거래은행 업무협약' 체결 - 마일드경제",
+      "date": "Wed, 25 Nov 2026 13:36:00 GMT"
     }
   ],
   "brief_articles": [
