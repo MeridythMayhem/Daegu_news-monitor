@@ -1,7 +1,5 @@
 {
   "sent": {
-    "http://www.kjdaily.com/article.php?aid=1794393254691982005": "2026-11-11T20:02:00.014501+09:00",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbnFTRldHcVJmZDRHMGFGaDU5Qmx6bFlSQnhUdU5GODlpNHNYeEdGN1NOakVXOU9Da21LLUQwcHlzV3VzY25BNF9ua2VZNTBVYXlOelZn?oc=5": "2026-11-11T20:02:00.014501+09:00",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=205405&mode=view": "2026-11-11T21:01:42.456708+09:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TGs5UEw4Sl9aTkllaW9Ta1NHQmxnN0NZRC01RklHWDdzWlZFeC1leVhHVDFHbnFiNndjYXZVdEpqUEN3YlZ3Vml4VlZBeXBScGZpRWowVFIyRjI4NUpEcGtMNXdvMjdJLWpKNlln?oc=5": "2026-11-11T21:01:42.456708+09:00",
     "https://www.polinews.co.kr/news/articleView.html?idxno=748277": "2026-11-11T21:01:42.456708+09:00",
@@ -908,11 +906,12 @@
     "https://www.thebigdata.co.kr/view.php?ud=202611251826396141570d99e4c8_23": "2026-11-25T19:09:13.329051+09:00",
     "https://www.fnnews.com/news/202611251808215970": "2026-11-25T19:09:13.329051+09:00",
     "https://sateconomy.co.kr/news/view/1065600172599678": "2026-11-25T20:08:25.232926+09:00",
-    "https://www.yna.co.kr/view/AKR20261125170200053?input=1195m": "2026-11-25T20:08:25.232926+09:00"
+    "https://www.yna.co.kr/view/AKR20261125170200053?input=1195m": "2026-11-25T20:08:25.232926+09:00",
+    "https://www.chosun.com/national/regional/2026/11/25/4JLTFMGIPRHUBJ4OWJOEJMZ6TQ/": "2026-11-25T21:09:57.861626+09:00",
+    "http://www.cctimes.kr/news/articleView.html?idxno=939195": "2026-11-25T21:09:57.861626+09:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5va3BtSFl2UnZpdGV4Umgyek5pRnVnaGFUMnFTRF9qNlg4Qml3SWZoTmNoU1dIOUcxM1dEajJ0LXdpSnRPVHNNeGFRSVRlOTZ3N0hKeHRfUndRVlVIbHB3eGpkTEFELU9CUmc?oc=5": "2026-11-25T21:09:57.861626+09:00"
   },
   "titles": {
-    "32e7850c36aacc77265d602d7f0fd4a05cbce1c970a0ea7f07daa0d77ba0d81d": "2026-11-11T20:02:00.014501+09:00",
-    "d8d5cadfdb0c48dd79b4e3337e0af10f69939aea3221146aa48821bcdd4c3d8c": "2026-11-11T20:02:00.014501+09:00",
     "4a75dba9cdb53e9971be5962fc60516005182e1416fe19a880132b6e58cd8de3": "2026-11-11T21:01:42.456708+09:00",
     "296ce6bb38f4bd0ed41c1308e0c7a008994e85c0f86eac5ffb4df6d2f209170e": "2026-11-11T21:01:42.456708+09:00",
     "f5930d5cd9f474134b38e9fa52f5aa2c9807f589cf30a7d761f023492f688327": "2026-11-11T21:01:42.456708+09:00",
@@ -1819,7 +1818,10 @@
     "2fd25cd45d497c1e092c48b48e100ce74a5429dec7d3c20dd1dc59d5481fed00": "2026-11-25T19:09:13.329051+09:00",
     "f4b2e2b7ef7331a914e2394ee544a016701be105ec1e586b685f978a17b87410": "2026-11-25T19:09:13.329051+09:00",
     "a7f32c0822039a66245c6b8f8fa9d85b32ad5b2a34cc4ff0d2ebb040fcdb1917": "2026-11-25T20:08:25.232926+09:00",
-    "e3e1344fd5abf47e5153edf354f2e7b0ded228f4d0080ef27348c90190f49ac0": "2026-11-25T20:08:25.232926+09:00"
+    "e3e1344fd5abf47e5153edf354f2e7b0ded228f4d0080ef27348c90190f49ac0": "2026-11-25T20:08:25.232926+09:00",
+    "b46545d4a87c60c3c100871af0f88d9703404f72ec3704e9c69b537ff6cc68c2": "2026-11-25T21:09:57.861626+09:00",
+    "ef65ffa457ee4867b92235a850e1e4c55b0b20069a3638d2ce860e90fc96a2d0": "2026-11-25T21:09:57.861626+09:00",
+    "83268ccfc78c0099b9b68b65efe45e8776b46d2e5ca42e2d3fe79993f7e34b31": "2026-11-25T21:09:57.861626+09:00"
   },
   "pending": {},
   "ai": {
@@ -1829,75 +1831,10 @@
     "2026-11-22": 9,
     "2026-11-23": 15,
     "2026-11-24": 18,
-    "2026-11-25": 11
+    "2026-11-25": 12
   },
   "cursor": 0,
   "archive": {
-    "https://www.ksmnews.co.kr/news/view.php?idx=630748": {
-      "title": "영주 상망지구 도시개발사업 준공…7만2553㎡ 규모 주거단지 조성",
-      "summary": "경북 영주시 상망동 일원에서 추진된 '상망지구 도시개발사업'이 준공됐다. 지난 2021년 8월 도시개발구역... 이 용지는 향후 입찰을 통해 공중목욕탕 시설을 건립 할 예정이다.상망지구 도시개발사업은 가흥택지지구...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=630748",
-      "date": "Mon, 23 Nov 2026 20:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://biz.heraldcorp.com/article/10946648?ref=naver": {
-      "title": "성주군, 2027년 본예산 6900억원 편성…민생안정·지역경제 회복 중점",
-      "summary": "경북 성주군이 2027년도 본예산을 올해보다 220억원(3.29%) 증가한 6900억원 규모로 편성해 군의회에... 저출생과 인구감소 대응을 위한 육아친화형 공공임대주택 건립 에는 50억원을 투입하며, 성주3일반산업단지 조성...",
-      "url": "https://biz.heraldcorp.com/article/10946648?ref=naver",
-      "date": "Mon, 23 Nov 2026 20:49:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://dgmbc.com/NewsArticle/874839": {
-      "title": "대구 가톨릭대병원 조정 결렬···노조 11월 25일 파업 예고",
-      "summary": "의료연대노조 대구 가톨릭대분회장▶ \"노동조합이 간호사 1인당 환자 수 10명과 환자 이송팀을 요구 하는... 수준이라고 해명 했습니다. 또 임금 2% 인상안, 육아휴직 수당 80만 원 인상 등을 제시하며 합의에 노력해 왔다고...",
-      "url": "https://dgmbc.com/NewsArticle/874839",
-      "date": "Mon, 23 Nov 2026 20:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205573&mode=view": {
-      "title": "포항 시, 내년도 예산 3조 2,825억 원…민생·지역 경제 중점",
-      "summary": "이 밖에 포항 국제전시컨벤션센터 건립 에 328억 원, 시립미술관 제2관 건립 에 200억 원, 철강 산업 경쟁력 향상에 191억 원 등 민생과 지역 경제 활력에 중점을 둔 예산안으로 편성됐습니다.",
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205573&mode=view",
-      "date": "Mon, 23 Nov 2026 20:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.dkilbo.com/news/articleView.html?idxno=561854": {
-      "title": "포항 시, 내년도 예산 3조2825억 원 편성…민생 회복·지역경제 활력 중점",
-      "summary": "포항 시가 2027년도 예산안을 3조2825억 원 규모로 편성했다. 시민 생활을 안정적으로 뒷받침하고 어려움을... 청년징검다리주택 건립 38억 원, 청년농촌보금자리 조성 30억 원도 반영했다. 시민들이 일상에서 겪는...",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=561854",
-      "date": "Mon, 23 Nov 2026 20:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "http://andongmbc.co.kr/adboard/NewsView85892": {
       "title": "[R] 대구 가톨릭대병원 조정 결렬···노조 25일 파업 예고",
       "summary": "배호경/의료연대노조 대구 가톨릭대분회장 \"노동조합이 간호사 1인당 환자 수 10명과 환자 이송팀을 요구 하... 수준이라고 해명 했습니다. 또 임금 2% 인상안, 육아휴직 수당 80만 원 인상 등을 제시하며 합의에 노력해...",
@@ -5386,6 +5323,45 @@
       "category": "세무 조사·혐의 관련",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.chosun.com/national/regional/2026/11/25/4JLTFMGIPRHUBJ4OWJOEJMZ6TQ/": {
+      "title": "경북 봉화서 타이어 수리하던 50대 작업자 2명 사망",
+      "summary": "경북 봉화군에서 1t 화물차 타이어 수리 작업을 하던 50대 작업자 2명이 숨지는 사고가 발생했다. 25일 오후... 경찰은 현재까지 범죄 혐의 점은 없는 것으로 보고 있다. 경찰은 인근 CCTV와 차량 블랙박스 등을 확인해...",
+      "url": "https://www.chosun.com/national/regional/2026/11/25/4JLTFMGIPRHUBJ4OWJOEJMZ6TQ/",
+      "date": "Wed, 25 Nov 2026 20:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.cctimes.kr/news/articleView.html?idxno=939195": {
+      "title": "'4명 사상' 공장 폭발 사고 에코프로 비엠 전 대표 징역형",
+      "summary": "4명의 사상자가 발생한 청주 에코프로 비엠 공장 폭발 화재 사고와 관련해 당시 안전관리 총책임자였던 전 대표이사가 징역형을 선고받았다. 청주지법 형사6단독 조진용 판사는 25일 업무상과실치사 등 혐의로 불구속...",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=939195",
+      "date": "Wed, 25 Nov 2026 20:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 에코프로비엠",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5va3BtSFl2UnZpdGV4Umgyek5pRnVnaGFUMnFTRF9qNlg4Qml3SWZoTmNoU1dIOUcxM1dEajJ0LXdpSnRPVHNNeGFRSVRlOTZ3N0hKeHRfUndRVlVIbHB3eGpkTEFELU9CUmc?oc=5": {
+      "title": "iM뱅크, 한국부동산원과 주거래은행 업무협약 체결 - www.hidomin.com",
+      "summary": "iM뱅크, 한국부동산원과 주거래은행 업무협약 체결 www.hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5va3BtSFl2UnZpdGV4Umgyek5pRnVnaGFUMnFTRF9qNlg4Qml3SWZoTmNoU1dIOUcxM1dEajJ0LXdpSnRPVHNNeGFRSVRlOTZ3N0hKeHRfUndRVlVIbHB3eGpkTEFELU9CUmc?oc=5",
+      "date": "Wed, 25 Nov 2026 11:23:37 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5415,31 +5391,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-25",
   "sent_articles": [
-    {
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205405&mode=view",
-      "title": "포스코 노사 재교섭 파행..노조 집회 예고",
-      "date": "Wed, 11 Nov 2026 20:42:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TGs5UEw4Sl9aTkllaW9Ta1NHQmxnN0NZRC01RklHWDdzWlZFeC1leVhHVDFHbnFiNndjYXZVdEpqUEN3YlZ3Vml4VlZBeXBScGZpRWowVFIyRjI4NUpEcGtMNXdvMjdJLWpKNlln?oc=5",
-      "title": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 현장 점검 - 폴리뉴스 Polinews",
-      "date": "Wed, 11 Nov 2026 11:32:16 GMT"
-    },
-    {
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748277",
-      "title": "POEX, 포항 경제·문화의 새 '성장엔진'으로 뜬다… 박용선 시장, 건립 ...",
-      "date": "Wed, 11 Nov 2026 20:32:00 +0900"
-    },
-    {
-      "url": "https://www.imaeil.com/page/view/2026111120193758504",
-      "title": "대구 경북녹색연합 \"신공항 초기 재원 확보 난항... 대구 시 신청사 건립 ,...",
-      "date": "Wed, 11 Nov 2026 20:21:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ya1pHc0F3UTRTMm9rRW9RTGtFYWlPMTFBZFViZVBvZXQ5Yk4yYWhScFBkdktxaUgyMmlaSkE0LVdQX2VLc3I1RHN5NERfbHVZUU43VVl6cGZwWlZCdzgxODNB?oc=5",
-      "title": "대구경북녹색연합 \"신공항 초기 재원 확보 난항...대구시 신청사 건립, 재검토해야\" - 매일신문",
-      "date": "Wed, 11 Nov 2026 11:20:46 GMT"
-    },
     {
       "url": "https://www.geconomy.co.kr/news/article.html?no=325573",
       "title": "포스코 ·GS, AI 데이터센터 사업 손잡아…GS 동해 15조 원 투자사업 추진",
@@ -9949,6 +9900,21 @@
       "url": "https://www.yna.co.kr/view/AKR20261125170200053?input=1195m",
       "title": "타이어 수리 작업하던 2명, 화물차·레커 사이에 끼여 사망",
       "date": "Wed, 25 Nov 2026 19:47:00 +0900"
+    },
+    {
+      "url": "https://www.chosun.com/national/regional/2026/11/25/4JLTFMGIPRHUBJ4OWJOEJMZ6TQ/",
+      "title": "경북 봉화서 타이어 수리하던 50대 작업자 2명 사망",
+      "date": "Wed, 25 Nov 2026 20:16:00 +0900"
+    },
+    {
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=939195",
+      "title": "'4명 사상' 공장 폭발 사고 에코프로 비엠 전 대표 징역형",
+      "date": "Wed, 25 Nov 2026 20:12:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5va3BtSFl2UnZpdGV4Umgyek5pRnVnaGFUMnFTRF9qNlg4Qml3SWZoTmNoU1dIOUcxM1dEajJ0LXdpSnRPVHNNeGFRSVRlOTZ3N0hKeHRfUndRVlVIbHB3eGpkTEFELU9CUmc?oc=5",
+      "title": "iM뱅크, 한국부동산원과 주거래은행 업무협약 체결 - www.hidomin.com",
+      "date": "Wed, 25 Nov 2026 11:23:37 GMT"
     }
   ],
   "brief_articles": [
@@ -10010,7 +9976,7 @@
     "2026-11-22": 9,
     "2026-11-23": 11,
     "2026-11-24": 11,
-    "2026-11-25": 7
+    "2026-11-25": 8
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
