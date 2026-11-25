@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://www.safetynews.co.kr/news/articleView.html?idxno=251481": "2026-11-11T10:01:54.523680+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUR6TnFoMlp0M2NsQng3bjljdHU1dHRkS3R0cVFRZ0JyX09iM2ljN0lIZGp1UmhTZjFrS1BtMG5ZekVhM0EtdS1lbkIxX0ZvV0xva1FXRk1ZVnZJN3Q2d3pPMEl0WkQ1enpZ?oc=5": "2026-11-11T10:01:54.523680+09:00",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckpvMlpFcUVvMzFwdWhYY2E5M0VpSDNBN2dpbXFRbi1Dc0ZsaV9rbU1aVHQySFc3WmFfSVIyZEozNE8yX1RfWVktQ2N6d2xDM3BHNlZRQkFQUG44NG1SeEZQc0NFb2VHbGtjb2x0NTBxcTVmVDRvX3RMZmRheFR5bUFLMWFsaXdDM0M4LVFJMExidW9oUU1WVWljdC13TUVWbXJEUmEtWDh2dl90ZGI3cXpVcFBTMHc?oc=5": "2026-11-11T10:01:54.523680+09:00",
     "https://sateconomy.co.kr/news/view/1065576440304883": "2026-11-11T11:02:04.910437+09:00",
     "https://www.hankyung.com/article/202611119564g": "2026-11-11T11:02:04.910437+09:00",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081998": "2026-11-11T11:02:04.910437+09:00",
@@ -916,12 +913,19 @@
     "https://www.yna.co.kr/view/AKR20261125046200053?input=1195m": "2026-11-25T10:09:07.210640+09:00",
     "https://www.newsis.com/view/NISX20261125_0003882202": "2026-11-25T10:09:07.210640+09:00",
     "https://www.yna.co.kr/view/AKR20261125046400003?input=1195m": "2026-11-25T10:09:07.210640+09:00",
-    "http://www.ikld.kr/news/articleView.html?idxno=344803": "2026-11-25T10:09:07.210640+09:00"
+    "http://www.ikld.kr/news/articleView.html?idxno=344803": "2026-11-25T10:09:07.210640+09:00",
+    "https://www.nocutnews.co.kr/news/6612213": "2026-11-25T11:13:43.862045+09:00",
+    "https://www.m-i.kr/news/articleView.html?idxno=2023109": "2026-11-25T11:13:43.862045+09:00",
+    "https://www.tbc.co.kr/news/view?pno=20261125091318AE09091&id=213773": "2026-11-25T11:13:43.862045+09:00",
+    "http://www.finomy.com/news/articleView.html?idxno=267836": "2026-11-25T11:13:43.862045+09:00",
+    "https://www.sedaily.com/article/20118693?ref=naver": "2026-11-25T11:13:43.862045+09:00",
+    "https://www.kbmaeil.com/article/20261125500180": "2026-11-25T11:13:43.862045+09:00",
+    "https://www.ziksir.com/news/articleView.html?idxno=154592": "2026-11-25T11:13:43.862045+09:00",
+    "https://www.mtnews.net/news/articleView.html?idxno=26645": "2026-11-25T11:13:43.862045+09:00",
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251009431450507": "2026-11-25T11:13:43.862045+09:00",
+    "http://www.queen.co.kr/news/articleView.html?idxno=466888": "2026-11-25T11:13:43.862045+09:00"
   },
   "titles": {
-    "39eeac2aac70443e241bdeb55105faf66eeab6aea4cbac8957a07994b8501717": "2026-11-11T10:01:54.523680+09:00",
-    "b8d4b5fe0e8c8e720d17da9ee850764427e80c7d4399e36816f6560f5cb785b1": "2026-11-11T10:01:54.523680+09:00",
-    "45c0b185808b79682873ce352392f26d1a6524ee7d61dfb7d8d0e21c39456a93": "2026-11-11T10:01:54.523680+09:00",
     "8739043d74d3d4d2c58e356d6cc15c26fd1476999dc0b36457e57a1f216f91d8": "2026-11-11T11:02:04.910437+09:00",
     "e6ee32840083201a574eb6e2824c881ae3355bff0ee88ada6792bbc21b873aa2": "2026-11-11T11:02:04.910437+09:00",
     "0209e3287977d65c1d71b91657ba3b56ef1f814bed7bee9a8b645622a08419a7": "2026-11-11T11:02:04.910437+09:00",
@@ -1835,27 +1839,37 @@
     "af753d689db33372fe5f56cdd1ab8ae4b59a703d87c4b2a179518727b5d8d00f": "2026-11-25T10:09:07.210640+09:00",
     "2e297535be194b65dd64afa8bb73631b9d6d3b033c2ca8bd2e497723c78320d1": "2026-11-25T10:09:07.210640+09:00",
     "e721e803551ae0508c1d659c8b3344951ce682273015da838b4cddb43bbc5d51": "2026-11-25T10:09:07.210640+09:00",
-    "f95dc4d62b373c69b7026199f923b5436be143ab10c6b6f4e942a504d5113740": "2026-11-25T10:09:07.210640+09:00"
+    "f95dc4d62b373c69b7026199f923b5436be143ab10c6b6f4e942a504d5113740": "2026-11-25T10:09:07.210640+09:00",
+    "89e9fcc4ef1df06e4261d15623a643832b058a7d841a16086927c331529a9a5c": "2026-11-25T11:13:43.862045+09:00",
+    "868727ec0ccdff06cfdf4a307e55962c49d05b8e3ca7a2d809812fbd37e4c93c": "2026-11-25T11:13:43.862045+09:00",
+    "c419630ae9b2e5769dc13b0a10ca0cad3054111f94d418ea092f77fe7e773eac": "2026-11-25T11:13:43.862045+09:00",
+    "81a4452a5583d98d0ae332968d3274727f94364216821ac883bb4c8a17ac2d3c": "2026-11-25T11:13:43.862045+09:00",
+    "09a42002b52692b2fcb2412f99acf80a6ce728dcf18d9f6f78f985900733ddef": "2026-11-25T11:13:43.862045+09:00",
+    "9e0184d8da6f60236c78783c297c296a8376c92fde871ab62c4306bcdbb0148a": "2026-11-25T11:13:43.862045+09:00",
+    "f329e61de4d94bf0698055177daf5aa26642cf69768a93494838238343d5c8af": "2026-11-25T11:13:43.862045+09:00",
+    "3ed2e1c77c967a3527349753f9672df779b3d3105b737b1788a427cacc4a225a": "2026-11-25T11:13:43.862045+09:00",
+    "04d3cc24e69c529dcbc1db0e055ef856301a5e1728bfb6c7cf4de930488655fb": "2026-11-25T11:13:43.862045+09:00",
+    "ef6c08dcd681c36060cc15ee2cdef3b92b317399064561d94e8594c55d268fd5": "2026-11-25T11:13:43.862045+09:00"
   },
   "pending": {
-    "https://www.newsis.com/view/NISX20261125_0003882155": {
-      "title": "[대구소식]3년 맡긴다…부동산원 주거래은행 ' iM뱅크 ' 등",
-      "summary": "iM뱅크 와 한국부동산원은 주거래은행 업무협약을 맺고 자금관리와 ESG(환경·사회·지배구조) 경영 실천을 위한 상호협력을 강화한다고 25일 밝혔다. 이번 협약에 따라 iM뱅크 는 향후 3년간 한국부동산원의 운영자금 관리...",
-      "url": "https://www.newsis.com/view/NISX20261125_0003882155",
-      "date": "Wed, 25 Nov 2026 09:31:00 +0900",
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=269145": {
+      "title": "부동산원, 주거래은행에 아이엠뱅크 …3년간 자금 관리",
+      "summary": "화이트페이퍼, WHITEPAPER24일 진행된 '한국부동산원 주거래은행 업무협약'에서 (왼쪽)이헌욱 한국부동산원 원장, 오른쪽 강정훈 아이엠뱅크 은행장이 기념촬영을 하고 있다. (사진=한국부동산원) 아이엠(iM)뱅크가 앞으로...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269145",
+      "date": "Wed, 25 Nov 2026 10:28:00 +0900",
       "channels": [
         "domestic"
       ],
-      "basis": "관심기업: iM뱅크",
-      "category": "경영·갈등",
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
       "priority": 70,
       "filter_version": 18
     },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6365116": {
-      "title": "iM뱅크-부동산원, 주거래 은행 협약 체결",
-      "summary": "3년간 부동산원의 운영자금 관리, 자금 수납·집행, 금융 시스템 연계·지원 등 금융서비스를 제공한다. 1967년 10월 7일 설립된 대구은행 은 57년 만인 2024년 6월 5일 시중은행으로 전환하고, 사명을 iM뱅크로 변경했다.",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6365116",
-      "date": "Wed, 25 Nov 2026 09:23:00 +0900",
+    "https://www.fetv.co.kr/news/articleView.html?idxno=314282": {
+      "title": "iM뱅크 , 한국부동산원 주거래은행 맡는다…3년간 자금관리",
+      "summary": "iM뱅크 가 향후 3년간 한국부동산원의 주거래은행을 맡아 운영자금 관리와 맞춤형 금융서비스를 제공한다. iM뱅크 는 지난 24일 한국부동산원 본사에서 주거래은행업무협약을 체결했다고 밝혔다. 이번 협약에 따라...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=314282",
+      "date": "Wed, 25 Nov 2026 10:24:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1864,24 +1878,89 @@
       "priority": 70,
       "filter_version": 18
     },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087424": {
-      "title": "경북 중소기업 15곳, 베트남 웰니스 엑스포서 수출 상담 224만달러",
-      "summary": "2025년 기준 베트남은 경북 의 세 번째 수출 대상국으로, 경북 전체 수출 액 385억달러 가운데 28억달러를... 계기로 경북 기업의 현지 시장 진출을 확대하고 베트남과의 경제통상 협력을 강화하겠다\"고 밝혔다. [신아 일보 ]",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087424",
-      "date": "Wed, 25 Nov 2026 09:06:00 +0900",
+    "https://view.asiae.co.kr/article/2026112510210233243": {
+      "title": "한국부동산원, iM뱅크 와 주거래은행 협약…3년간 자금 관리",
+      "summary": "한국부동산원은 최근 대구 한국부동산원 본사에서 iM뱅크 (옛 대구은행)와 '한국부동산원 주거래은행 업무협약'을 체결했다고 25일 밝혔다. 협약에 따라 iM뱅크 는 앞으로 3년간 한국부동산원 운영자금 관리, 자금 수납...",
+      "url": "https://view.asiae.co.kr/article/2026112510210233243",
+      "date": "Wed, 25 Nov 2026 10:21:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261125093848356": {
+      "title": "부동산원 주거래은행에 아이엠 뱅크 …3년간 금융서비스 제공",
+      "summary": "아주경제=장선아 기자 sunrise@ajunews.com 한국부동산원이 대구 본사에서 아이엠뱅크( iM뱅크 )와 주거래은행 업무협약을 체결했다고 25일 밝혔다. 이번 협약은 안정적인 금융거래 기반을 마련하고 금융서비스의 질적 향상과...",
+      "url": "https://www.ajunews.com/view/20261125093848356",
+      "date": "Wed, 25 Nov 2026 10:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.newstomato.com/ReadNews.aspx?no=1321762&inflow=N": {
+      "title": "한국부동산원, iM 뱅크 와 주거래은행 협약",
+      "summary": "뉴스토마토 = 이수정 기자 | 이헌욱 한국부동산원 원장(왼쪽)과 강정훈 아이엠뱅크 은행장이 지난 24일 한국부동산원 본사에서 아이엠뱅크 와 주거래은행 업무협약을 맺고 기념사진을 찍고 있다. (사진=한국부동산원)...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1321762&inflow=N",
+      "date": "Wed, 25 Nov 2026 10:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261125095331433": {
+      "title": "iM뱅크 , 한국부동산원 '주거래은행 업무협약' 체결",
+      "summary": "아주경제=홍승완 기자 veryhong@ajunews.com iM뱅크 ·한국부동산원 주거래은행 업무협약 [사진= iM뱅크 ] iM뱅크 는 한국부동산원과 주거래은행 업무협약을 체결했다고 25일 밝혔다. 이번 협약에 따라 iM뱅크 는 향후 3년간...",
+      "url": "https://www.ajunews.com/view/20261125095331433",
+      "date": "Wed, 25 Nov 2026 10:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.joongangenews.com/news/articleView.html?idxno=566438": {
+      "title": "iM뱅크 , 한국부동산원 자금 3년간 맡아…통합자금관리시스템 구축",
+      "summary": "|중앙이코노미뉴스 정재혁 기자|강정훈 iM뱅크 은행장과 이헌욱 한국부동산원 원장이 지난 24일 한국부동산원 본사에서 주거래은행 업무협약을 맺은 뒤 기념 촬영을 하고 있다. [사진= iM뱅크 ] iM뱅크 는 지난 24일...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566438",
+      "date": "Wed, 25 Nov 2026 10:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6365265": {
+      "title": "손정의 회장, '아버지 고향' 대구 방문…TK 투자 가능성 기대",
+      "summary": "25일 매일신문 보도에 따르면 손 회장은 지난달 9일 김해국제공항을 통해 입국한 뒤 가족 2명과 비서, 통역 등... 세계적인 기업 인이다. 특히 글로벌 기술 기업 에 대한 투자와 비전펀드 운용 등을 통해 국제 투자시장에서...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6365265",
+      "date": "Wed, 25 Nov 2026 10:12:00 +0900",
       "channels": [
         "local_media"
       ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
       "filter_version": 18
     },
-    "https://www.fnnews.com/news/202611250905261841": {
-      "title": "부동산원, 아이엠뱅크와 주거래 은행 협약…3년간 금융 맡긴다",
-      "summary": "아이엠뱅크는 옛 대구은행 으로 2024년 지방은행 가운데 처음 시중은행으로 전환했고, 올해 1월 강정훈 은행장이 제15대 행장으로 취임했다. 이 원장은 \"이번 협약을 통해 안정적인 금융거래 기반을 마련하고, 금융서비스...",
-      "url": "https://www.fnnews.com/news/202611250905261841",
-      "date": "Wed, 25 Nov 2026 09:09:00 +0900",
+    "http://www.financialreview.co.kr/news/articleView.html?idxno=46583": {
+      "title": "한국부동산원, 아이엠뱅크 와 주거래은행 업무협약 체결",
+      "summary": "24일 이헌욱 한국부동산원 원장(왼쪽)과 강정훈 아이엠뱅크 은행장이 주거래은행 업무협약을 맺고 기념촬영하고 있다. / 사진=한국부동산원 한국부동산원이 아이엠뱅크 와 주거래은행 업무협약을 체결하고 금융 업무...",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=46583",
+      "date": "Wed, 25 Nov 2026 10:40:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1890,11 +1969,11 @@
       "priority": 70,
       "filter_version": 18
     },
-    "https://www.bizwork.co.kr/news/articleView.html?idxno=421137": {
-      "title": "부동산원· 아이엠뱅크 , 주거래은행 업무협약 체결",
-      "summary": "한국부동산원이 아이엠뱅크 와 안정적인 금융거래 기반을 마련하고 지역사회 상생 협력을 추진한다. 부동산원은 지난 24일 본사에서 아이엠뱅크 와 '한국부동산원 주거래은행 업무협약'을 체결했다고 25일 밝혔다....",
-      "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=421137",
-      "date": "Wed, 25 Nov 2026 09:20:00 +0900",
+    "https://news.bizwatch.co.kr/article/real_estate/2026/11/25/0003": {
+      "title": "한국부동산원, 아이엠뱅크 에 운영자금 관리 맡긴다",
+      "summary": "한국부동산원은 아이엠뱅크 와 '한국부동산원 주거래은행 업무협약'을 체결했다고 25일 밝혔다. 이번 협약은 부동산원의 안정적이고 체계적인 금융거래 기반을 마련하고, 금융 서비스의 질적 향상과 금융 업무의 효율성...",
+      "url": "https://news.bizwatch.co.kr/article/real_estate/2026/11/25/0003",
+      "date": "Wed, 25 Nov 2026 10:37:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1903,11 +1982,11 @@
       "priority": 70,
       "filter_version": 18
     },
-    "https://news.tf.co.kr/read/economy/2392992.htm": {
-      "title": "부동산원, 아이엠뱅크 와 금융 맞손…자금 운용수익 제고",
-      "summary": "부동산원· 아이엠뱅크 주거래은행 업무협약 체결 환경·사회·투명 경영(ESG) 상생 협력 한국부동산원이 아이엠뱅크 와 손잡고 금융 업무 효율화에 나선다. 안정적인 자금 관리 체계를 구축하고 위탁 사업 자금의 운용수익을...",
-      "url": "https://news.tf.co.kr/read/economy/2392992.htm",
-      "date": "Wed, 25 Nov 2026 09:18:00 +0900",
+    "https://biz.heraldcorp.com/article/10948544?ref=naver": {
+      "title": "한국부동산원- 아이엠뱅크 주거래은행 업무협약",
+      "summary": "한국부동산원은 아이엠뱅크 와 ‘주거래은행 업무협약’을 체결했다고 25일 밝혔다. 아이엠뱅크 는 앞으로 3년 동안 한국부동산원의 운영자금 관리, 자금 수납·집행, 금융 시스템 연계·지원 등 효율적인 금융 업무 수행을...",
+      "url": "https://biz.heraldcorp.com/article/10948544?ref=naver",
+      "date": "Wed, 25 Nov 2026 10:32:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1916,11 +1995,11 @@
       "priority": 70,
       "filter_version": 18
     },
-    "http://www.4th.kr/news/articleView.html?idxno=2122629": {
-      "title": "현대엔지니어링, 용인·여수서 2.3조원 발전사업 수주",
-      "summary": "컨소시엄 대표사인 현대엔지니어링이 설계와 주요 기자재 조달을 맡고 포스코 이앤씨가 시공한다. 착공... 이승원 현대엔지니어링 에너지사업부장과 권명호 한국동서발전 사장, 송치영 포스코 이앤씨 사장 등이...",
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2122629",
-      "date": "Wed, 25 Nov 2026 09:28:00 +0900",
+    "https://www.dailian.co.kr/news/view/1719342/?sc=Naver": {
+      "title": "현대엔지니어링, 용인·호남 발전사업 수주... 총 2.3조원 규모",
+      "summary": "송치영 포스코 이앤씨 사장 등이 참석한 가운데 ‘호남 복합발전소 건설 사업’ 계약 서명식도 진행했다.... 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 담당하며, 포스코 이앤씨는 시공을...",
+      "url": "https://www.dailian.co.kr/news/view/1719342/?sc=Naver",
+      "date": "Wed, 25 Nov 2026 10:38:00 +0900",
       "channels": [
         "domestic"
       ],
@@ -1929,17 +2008,121 @@
       "priority": 70,
       "filter_version": 18
     },
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1F2cDBuYkJxaVlHaC11ZUxDWi1admpZNlR6ZWlRYWhwSGZxOVVOU2dhaERUNkJvRjdnVXVNT01PeUVGZXpHSmxMVDJ0R2t5UllaRmkyYzBYMnI5b3pzWEdYXy1MellQRzhGTWdwckZtUXFpSThwc1BpclpzYzc1QjlUcGotbzM4SzNxTG9FT0ZLMXVXZzEwOUl3TFhyRGJYakpRMlFnTTFMbE95dmxqMUdEa09jLVd0WU50UG1CV0FDZDNO?oc=5": {
-      "title": "POSCO International stock completes $550 million U.S. gas acquisition - ad-hoc-news.de",
-      "summary": "POSCO International stock completes $550 million U.S. gas acquisition ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1F2cDBuYkJxaVlHaC11ZUxDWi1admpZNlR6ZWlRYWhwSGZxOVVOU2dhaERUNkJvRjdnVXVNT01PeUVGZXpHSmxMVDJ0R2t5UllaRmkyYzBYMnI5b3pzWEdYXy1MellQRzhGTWdwckZtUXFpSThwc1BpclpzYzc1QjlUcGotbzM4SzNxTG9FT0ZLMXVXZzEwOUl3TFhyRGJYakpRMlFnTTFMbE95dmxqMUdEa09jLVd0WU50UG1CV0FDZDNO?oc=5",
-      "date": "Wed, 25 Nov 2026 00:15:44 GMT",
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576443290654": {
+      "title": "현대엔지니어링, 용인·호남 발전사업 잇따라 수주…총 2.3조원 규모",
+      "summary": "이승원 현대엔지니어링 에너지사업부장과 권명호 한국동서발전 사장, 송치영 포스코 이앤씨 사장 등이... 송치영 포스코 이앤씨 사장(왼쪽 네 번째) 등 참석자들이 기념촬영을 하고 있다. [사진=현대엔지니어링] 이...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576443290654",
+      "date": "Wed, 25 Nov 2026 10:32:00 +0900",
       "channels": [
-        "global"
+        "domestic"
       ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.popcornnews.net/news/articleView.html?idxno=141426": {
+      "title": "현대엔지니어링, 용인·호남 발전사업 연속 수주...총 2조2840억 원 규모",
+      "summary": "송치영 포스코 이앤씨 사장 등이 참석한 가운데 '호남 복합발전소 건설 사업' 계약 서명식이 진행됐다. 전남... 컨소시엄 대표사인 현대엔지니어링이 설계와 주요 기자재 조달을 맡고, 포스코 이앤씨가 시공을 수행한다....",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=141426",
+      "date": "Wed, 25 Nov 2026 10:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.businessplus.kr/news/articleView.html?idxno=120447": {
+      "title": "[비즈+]현대엔지니어링, 용인·호남 발전소 잇단 수주…2조2840억원 규모",
+      "summary": "서명식에는 이승원 현대엔지니어링 에너지사업부장과 권명호 한국동서발전 사장, 송치영 포스코 이앤씨... 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 맡고, 포스코 이앤씨는 시공을 담당한다....",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=120447",
+      "date": "Wed, 25 Nov 2026 10:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.newslock.co.kr/news/articleView.html?idxno=140885": {
+      "title": "현대엔지니어링, 용인·호남 발전소 2건 수주...총 2조2840억",
+      "summary": "송치영 포스코 이앤씨 사장 등이 참석했다. 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 담당하고 포스코 이앤씨가 시공을 맡는다. 내년 6월 착공해 2030년 5월 준공할 예정이며 준공 이후...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140885",
+      "date": "Wed, 25 Nov 2026 10:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=887018": {
+      "title": "포스코 퓨처엠, 계열사 거래 통해 3117.6억 매출 달성",
+      "summary": "포항 영일만 4산단에 위치한 포스코 퓨처엠 포항 양극재 공장. 포스코 퓨처엠 | 서울=한스경제 임준혁 기자 | 포스코 퓨처엠이 직전 분기 계열사 상품·용역 거래로 3117억6000만원의 매출을 올렸다. 25일...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887018",
+      "date": "Wed, 25 Nov 2026 10:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/realestate/construction/6365220": {
+      "title": "현대엔지니어링, 용인·호남 발전사업 잇달아 수주…2.3조 원 규모",
+      "summary": "서명식에는 이승원 현대엔지니어링 에너지사업부장, 권명호 한국동서발전 사장, 송치영 포스코 이앤씨... 포스코 이앤씨가 시공을 수행한다. 발전소는 2027년 6월 착공해 2030년 5월 준공할 예정이다. 두 사업 모두 9월...",
+      "url": "https://www.news1.kr/realestate/construction/6365220",
+      "date": "Wed, 25 Nov 2026 10:03:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUEY4T3QwSzR0Q1NRTTVEcWRrQmRHWXpLOTQ2SDFNdV9IOXpkeEYzT2tDR1NwX2t5WWdVczV2dWtuMGM5c1VpTHV1ZWRXRjgtXzJURE5mSDRsZ9IBWEFVX3lxTE9XbnJlMWtWbnVVQV9HLXJRSG1JN29TMThTMkRMNW1SMW53LVYzeV9fSkxxcFV4cWlmNTR0YldWWWtXVExQaGZmNjRGTlZJQWdYbExjU2F5UFk?oc=5": {
+      "title": "iM뱅크, 한국부동산원 주거래은행 업무협약 체결 - 아주경제",
+      "summary": "iM뱅크, 한국부동산원 주거래은행 업무협약 체결 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUEY4T3QwSzR0Q1NRTTVEcWRrQmRHWXpLOTQ2SDFNdV9IOXpkeEYzT2tDR1NwX2t5WWdVczV2dWtuMGM5c1VpTHV1ZWRXRjgtXzJURE5mSDRsZ9IBWEFVX3lxTE9XbnJlMWtWbnVVQV9HLXJRSG1JN29TMThTMkRMNW1SMW53LVYzeV9fSkxxcFV4cWlmNTR0YldWWWtXVExQaGZmNjRGTlZJQWdYbExjU2F5UFk?oc=5",
+      "date": "Wed, 25 Nov 2026 01:05:10 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOU2dUR0VJajdQZ3Z4RU5qMlhUZ3BkU2ppYzVrcnpNQmVENzR3TXN6cGpLakxLME9GbzdiR0ktelgwRnVWLWRtcDlTTEdCUWxCSThsdWZicjZQQ2VuQXRGOVBZcHE?oc=5": {
+      "title": "iM뱅크, 한국부동산원 ‘주거래은행 업무협약’ 체결 - 매일일보",
+      "summary": "iM뱅크, 한국부동산원 ‘주거래은행 업무협약’ 체결 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOU2dUR0VJajdQZ3Z4RU5qMlhUZ3BkU2ppYzVrcnpNQmVENzR3TXN6cGpLakxLME9GbzdiR0ktelgwRnVWLWRtcDlTTEdCUWxCSThsdWZicjZQQ2VuQXRGOVBZcHE?oc=5",
+      "date": "Wed, 25 Nov 2026 01:11:45 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qZndtZVVwMWk1VEhFeVB6RzU3clgtSk42a1RWOVJva0xBQ0JKUjlJb2l1SjFEcE5zcmpUbi1FWXVQMEZselFhMlVsUVBrVGNuYlhzZUk0U3dBSEJydDZlcXpNdjBvZw?oc=5": {
+      "title": "경주 대천 율동지구 하천 정비…내년 1월 착공 - 데일리대구경북뉴스",
+      "summary": "경주 대천 율동지구 하천 정비…내년 1월 착공 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qZndtZVVwMWk1VEhFeVB6RzU3clgtSk42a1RWOVJva0xBQ0JKUjlJb2l1SjFEcE5zcmpUbi1FWXVQMEZselFhMlVsUVBrVGNuYlhzZUk0U3dBSEJydDZlcXpNdjBvZw?oc=5",
+      "date": "Wed, 25 Nov 2026 01:31:30 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
       "filter_version": 18
     }
   },
@@ -1950,114 +2133,10 @@
     "2026-11-22": 9,
     "2026-11-23": 15,
     "2026-11-24": 18,
-    "2026-11-25": 2
+    "2026-11-25": 5
   },
   "cursor": 0,
   "archive": {
-    "https://daily.hankooki.com/news/articleView.html?idxno=1427810": {
-      "title": "영주시, 내년 예산 1조1330억원 편성…지역경제·민생 지원 확대",
-      "summary": "사진=영주시 제공 경북 영주시가 23일 내년도 본예산을 1조1330억원 규모로 편성해 시의회에 제출했다.... 기숙사 건립 20억원, 휴천2동 뉴빌리지 사업 20억원 등을 반영했다. 영주시청 주차장 조성사업 보상비도...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427810",
-      "date": "Mon, 23 Nov 2026 10:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.etoday.co.kr/news/view/2651596": {
-      "title": "영주시, 투자유치·상권회복에 예산 집중…내년 본예산 1조1330억 편성",
-      "summary": "이투데이=대구 경북 취재본부 이용호 기자 | 2027년도 본예산안 영주시의회 제출 복지·농업·문화관광 예산... 기숙사 건립 지원 20억 원 △휴천2동 뉴빌리지 사업 20억 원 △영주시청 주차장 조성사업 보상비 5억 원...",
-      "url": "https://www.etoday.co.kr/news/view/2651596",
-      "date": "Mon, 23 Nov 2026 10:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.insight.co.kr/news/583126": {
-      "title": "'8861억 증자' 보탰는데 주주 몫 또 깎이나... 에코프로 비엠 CB 재발행 추...",
-      "summary": "에코프로 비엠은 지난 10월 8861억원을 조달했다. 지분 희석을 우려한 주주들에게는 성장 투자의 필요성을 설명했다. 그런데 이후 증자 대금을 받은 지 한 달 만에 이번에는 기존 재무적투자자(FI)의 전환사채(CB)를 새...",
-      "url": "https://www.insight.co.kr/news/583126",
-      "date": "Mon, 23 Nov 2026 10:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=731857": {
-      "title": "대기업 연말인사 '칼바람' 대신 '안정·실리'… 주요 CEO 유임",
-      "summary": "◆현대차· 포스코 , 12월 인사·회장 인선 변수 주요 그룹이 연말 인사를 매듭지으면서 인사를 앞둔 현대차· 포스코 그룹의 선택에도 관심이 쏠린다. 통상 12월 중순 인사를 단행하는 현대차그룹은 주요 계열사...",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731857",
-      "date": "Mon, 23 Nov 2026 10:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.arunews.com/news/articleView.html?idxno=69844": {
-      "title": "포스코 이앤씨, 두산건설과 손잡고 상계3구역 수주",
-      "summary": "포스코 이앤씨가 두산건설과 손잡고 서울 노원구 상계3구역 공공재개발 시공권을 확보했다. 공공재개발을... 이날 우선협상대상자인 포스코 이앤씨·두산건설 컨소시엄이 토지등소유자 다수의 지지를 받아...",
-      "url": "https://www.arunews.com/news/articleView.html?idxno=69844",
-      "date": "Mon, 23 Nov 2026 10:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.newsdream.kr/news/articleView.html?idxno=122758": {
-      "title": "수도권 브랜드 주거복합단지 동반 강세…오피스텔까지 실거래가 '껑충'",
-      "summary": "포스코 이앤씨(대표이사 송치영)는 이달 서울 중랑구 상봉동 옛 상봉터미널 부지에 '더샵 퍼스트월드 서울' 오피스텔 308실을 분양할 예정이다. 지하 8층~지상 49층, 5개 동 규모(아파트 999가구 포함) 주상복합단지...",
-      "url": "http://www.newsdream.kr/news/articleView.html?idxno=122758",
-      "date": "Mon, 23 Nov 2026 10:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.businesspost.co.kr/BP?command=article_view&num=452605": {
-      "title": "유진투자 \" 포스코 홀딩스 내년 수익성 개선, 리튬 사업 흑자전환은 지연...",
-      "summary": "포스코 홀딩스가 2027년 주요 사업 전반에서 수익성을 회복할 것으로 분석됐다. 김소정 유진투자증권 연구원은 23일 포스코 홀딩스의 2027년 연결 기준 실적을 매출 71조9380억 원, 영업이익 3조470억 원으로 전망했다. 2026년...",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452605",
-      "date": "Mon, 23 Nov 2026 10:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코홀딩스",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577662338672": {
-      "title": "한수원·팀코리아 \"체코 원전 차질 없이 추진…적기 준공 총력\"",
-      "summary": "한국수력원자력 (이하 한수원)을 중심으로 한국전력기술, 한전KPS, 한전원자력연료, 두산에너빌리티 등 국내 원전 관련 기업들로 구성된 '팀코리아'가 체코 두코바니 신규 원전 건설사업을 차질 없이 추진하겠다는 입장을...",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577662338672",
-      "date": "Mon, 23 Nov 2026 11:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.ngetnews.com/news/articleView.html?idxno=556181": {
       "title": "직원 58명 임금·퇴직금 7억원 체불… 요양병원 대표 구속",
       "summary": "뉴스저널리즘 신승헌 기자 = 직원 58명의 임금과 퇴직금 등 약 7억원을 지급하지 않은 경북 포항 의 요양병원 대표가 구속 됐다. 고용노동부 포항 지청은 근로기준법과 근로자퇴직급여보장법 위반 혐의로 요양병원 대표...",
@@ -4921,6 +5000,449 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.m-i.kr/news/articleView.html?idxno=2023109": {
+      "title": "한국 부동산 원·iM뱅크, 주거래은행 업무협약 체결",
+      "summary": "매일 일보 = 이인수 기자 | 한국 부동산 원은 지난 24일 대구 동구 본사에서 iM뱅크(아이엠뱅크)와 '한국 부동산 원 주거래은행 업무협약'을 체결했다고 밝혔다. 이번 협약은 한국 부동산 원의 안정적이고 체계적인 금융거래...",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2023109",
+      "date": "Wed, 25 Nov 2026 11:00:00 +0900",
+      "channels": [
+        "domestic",
+        "local_media"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sedaily.com/article/20118693?ref=naver": {
+      "title": "한국부동산원 주거래은행은 iM뱅크 …협약 체결",
+      "summary": "iM뱅크 는 대구혁신도시에 본사를 둔 한국부동산원과 주거래은행 업무협약을 맺었다고 25일 밝혔다. 이에 따라 iM뱅크 는 향후 3년간 한국부동산원의 운영자금 관리, 자금의 수납 및 집행, 통합자금관리시스템 구축 등...",
+      "url": "https://www.sedaily.com/article/20118693?ref=naver",
+      "date": "Wed, 25 Nov 2026 10:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kbmaeil.com/article/20261125500180": {
+      "title": "iM뱅크 , 한국부동산원 주거래은행 맡는다",
+      "summary": "iM뱅크 가 앞으로 3년간 한국부동산원의 주거래은행을 맡아 운영자금 관리와 수납·집행 업무를 지원한다. iM뱅크 와 한국부동산원은 지난 24일 한국부동산원 본사에서 주거래은행 업무협약을 맺었다. 협약식에는 강정훈...",
+      "url": "https://www.kbmaeil.com/article/20261125500180",
+      "date": "Wed, 25 Nov 2026 10:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.queen.co.kr/news/articleView.html?idxno=466888": {
+      "title": "iM뱅크 , 한국부동산원 주거래은행 선정…ESG·지역상생 협력 강화",
+      "summary": "한국부동산원 이헌욱 원장(왼쪽)과 iM뱅크 강정훈 은행장. iM뱅크 가 한국부동산원과 주거래은행 업무협약을 체결하고 향후 3년간 자금관리 서비스를 제공하는 한편 ESG 경영과 지역사회 상생을 위한 협력도 확대한다....",
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=466888",
+      "date": "Wed, 25 Nov 2026 10:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.whitepaper.co.kr/news/articleView.html?idxno=269145": {
+      "title": "부동산원, 주거래은행에 아이엠뱅크 …3년간 자금 관리",
+      "summary": "화이트페이퍼, WHITEPAPER24일 진행된 '한국부동산원 주거래은행 업무협약'에서 (왼쪽)이헌욱 한국부동산원 원장, 오른쪽 강정훈 아이엠뱅크 은행장이 기념촬영을 하고 있다. (사진=한국부동산원) 아이엠(iM)뱅크가 앞으로...",
+      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269145",
+      "date": "Wed, 25 Nov 2026 10:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.fetv.co.kr/news/articleView.html?idxno=314282": {
+      "title": "iM뱅크 , 한국부동산원 주거래은행 맡는다…3년간 자금관리",
+      "summary": "iM뱅크 가 향후 3년간 한국부동산원의 주거래은행을 맡아 운영자금 관리와 맞춤형 금융서비스를 제공한다. iM뱅크 는 지난 24일 한국부동산원 본사에서 주거래은행업무협약을 체결했다고 밝혔다. 이번 협약에 따라...",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=314282",
+      "date": "Wed, 25 Nov 2026 10:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://view.asiae.co.kr/article/2026112510210233243": {
+      "title": "한국부동산원, iM뱅크 와 주거래은행 협약…3년간 자금 관리",
+      "summary": "한국부동산원은 최근 대구 한국부동산원 본사에서 iM뱅크 (옛 대구은행)와 '한국부동산원 주거래은행 업무협약'을 체결했다고 25일 밝혔다. 협약에 따라 iM뱅크 는 앞으로 3년간 한국부동산원 운영자금 관리, 자금 수납...",
+      "url": "https://view.asiae.co.kr/article/2026112510210233243",
+      "date": "Wed, 25 Nov 2026 10:21:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261125093848356": {
+      "title": "부동산원 주거래은행에 아이엠 뱅크 …3년간 금융서비스 제공",
+      "summary": "아주경제=장선아 기자 sunrise@ajunews.com 한국부동산원이 대구 본사에서 아이엠뱅크( iM뱅크 )와 주거래은행 업무협약을 체결했다고 25일 밝혔다. 이번 협약은 안정적인 금융거래 기반을 마련하고 금융서비스의 질적 향상과...",
+      "url": "https://www.ajunews.com/view/20261125093848356",
+      "date": "Wed, 25 Nov 2026 10:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.newstomato.com/ReadNews.aspx?no=1321762&inflow=N": {
+      "title": "한국부동산원, iM 뱅크 와 주거래은행 협약",
+      "summary": "뉴스토마토 = 이수정 기자 | 이헌욱 한국부동산원 원장(왼쪽)과 강정훈 아이엠뱅크 은행장이 지난 24일 한국부동산원 본사에서 아이엠뱅크 와 주거래은행 업무협약을 맺고 기념사진을 찍고 있다. (사진=한국부동산원)...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1321762&inflow=N",
+      "date": "Wed, 25 Nov 2026 10:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ajunews.com/view/20261125095331433": {
+      "title": "iM뱅크 , 한국부동산원 '주거래은행 업무협약' 체결",
+      "summary": "아주경제=홍승완 기자 veryhong@ajunews.com iM뱅크 ·한국부동산원 주거래은행 업무협약 [사진= iM뱅크 ] iM뱅크 는 한국부동산원과 주거래은행 업무협약을 체결했다고 25일 밝혔다. 이번 협약에 따라 iM뱅크 는 향후 3년간...",
+      "url": "https://www.ajunews.com/view/20261125095331433",
+      "date": "Wed, 25 Nov 2026 10:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.joongangenews.com/news/articleView.html?idxno=566438": {
+      "title": "iM뱅크 , 한국부동산원 자금 3년간 맡아…통합자금관리시스템 구축",
+      "summary": "|중앙이코노미뉴스 정재혁 기자|강정훈 iM뱅크 은행장과 이헌욱 한국부동산원 원장이 지난 24일 한국부동산원 본사에서 주거래은행 업무협약을 맺은 뒤 기념 촬영을 하고 있다. [사진= iM뱅크 ] iM뱅크 는 지난 24일...",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566438",
+      "date": "Wed, 25 Nov 2026 10:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sisajournal.com/news/articleView.html?idxno=395044": {
+      "title": "[구미 24시] 구미시, 국가산단 8개 기업에 AI 화재 예방·감지 시스템 설...",
+      "summary": "구미시 환경자원화시설, 2년 연속 폐기물처리 우수시설 선정 구미시, 2026 주민자치 한마음 화합대회 열어 경북 구미시와 구미전자정보기술원이 구미국가산업단지 입주기업 8개사에 인공지능(AI) 기반 전기 화재 · 화재 감지...",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=395044",
+      "date": "Wed, 25 Nov 2026 10:43:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.tbc.co.kr/news/view?pno=20261125091318AE09091&id=213773": {
+      "title": "동구의회 행감서 '위원 소속 업체 수의계약 ' 지적",
+      "summary": "대구 동구가 재해영향펑가 심의위원이 소속된 업체와 수의계약 을 맺은 사실이 드러나 이해충돌 의혹이 제기됐습니다. 유병진 동구의원은 어제(24일) 열린 행정사무감사에서 지난해(2025년) 5월 동구청과 건설재해 예방...",
+      "url": "https://www.tbc.co.kr/news/view?pno=20261125091318AE09091&id=213773",
+      "date": "Wed, 25 Nov 2026 10:58:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6365265": {
+      "title": "손정의 회장, '아버지 고향' 대구 방문…TK 투자 가능성 기대",
+      "summary": "25일 매일신문 보도에 따르면 손 회장은 지난달 9일 김해국제공항을 통해 입국한 뒤 가족 2명과 비서, 통역 등... 세계적인 기업 인이다. 특히 글로벌 기술 기업 에 대한 투자와 비전펀드 운용 등을 통해 국제 투자시장에서...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6365265",
+      "date": "Wed, 25 Nov 2026 10:12:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.imaeil.com/page/view/2026112510285820929": {
+      "title": "동구문화재단· 삼보모터스 , 문화예술 교류 활성화 맞손",
+      "summary": "동구문화재단과 삼보모터스 ㈜가 지역 문화예술 활성화를 위해 손을 잡았다. 두 기관은 지난 20일 아양아트센터에서 관계자들이 참석한 가운데 문화예술 가치 확산과 전략적 협력을 위한 업무협약을 체결했다. 이번 협약에...",
+      "url": "https://www.imaeil.com/page/view/2026112510285820929",
+      "date": "Wed, 25 Nov 2026 10:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 삼보모터스",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251009431450507": {
+      "title": "한국부동산원, 아이엠뱅크 와 주거래은행 업무협약",
+      "summary": "안정적 금융거래 기반 마련 및 ESG 상생 협력 한국부동산원은 지난 24일 부동산원 본사에서 아이엠뱅크 와 ‘한국부동산원 주거래은행 업무협약’을 체결했다고 25일 밝혔다. 아이엠뱅크 는 향후 3년간 한국부동산원의...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251009431450507",
+      "date": "Wed, 25 Nov 2026 10:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.financialreview.co.kr/news/articleView.html?idxno=46583": {
+      "title": "한국부동산원, 아이엠뱅크 와 주거래은행 업무협약 체결",
+      "summary": "24일 이헌욱 한국부동산원 원장(왼쪽)과 강정훈 아이엠뱅크 은행장이 주거래은행 업무협약을 맺고 기념촬영하고 있다. / 사진=한국부동산원 한국부동산원이 아이엠뱅크 와 주거래은행 업무협약을 체결하고 금융 업무...",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=46583",
+      "date": "Wed, 25 Nov 2026 10:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.bizwatch.co.kr/article/real_estate/2026/11/25/0003": {
+      "title": "한국부동산원, 아이엠뱅크 에 운영자금 관리 맡긴다",
+      "summary": "한국부동산원은 아이엠뱅크 와 '한국부동산원 주거래은행 업무협약'을 체결했다고 25일 밝혔다. 이번 협약은 부동산원의 안정적이고 체계적인 금융거래 기반을 마련하고, 금융 서비스의 질적 향상과 금융 업무의 효율성...",
+      "url": "https://news.bizwatch.co.kr/article/real_estate/2026/11/25/0003",
+      "date": "Wed, 25 Nov 2026 10:37:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://biz.heraldcorp.com/article/10948544?ref=naver": {
+      "title": "한국부동산원- 아이엠뱅크 주거래은행 업무협약",
+      "summary": "한국부동산원은 아이엠뱅크 와 ‘주거래은행 업무협약’을 체결했다고 25일 밝혔다. 아이엠뱅크 는 앞으로 3년 동안 한국부동산원의 운영자금 관리, 자금 수납·집행, 금융 시스템 연계·지원 등 효율적인 금융 업무 수행을...",
+      "url": "https://biz.heraldcorp.com/article/10948544?ref=naver",
+      "date": "Wed, 25 Nov 2026 10:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 아이엠뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.finomy.com/news/articleView.html?idxno=267836": {
+      "title": "현대엔지니어링, 용인 열병합·호남 복합발전소 건설 사업 수주",
+      "summary": "현대엔지니어링 이승원 에너지사업부장과 한국동서발전 권명호 사장, 포스코 이앤씨 송치영 사장 등이... 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 담당하고, 포스코 이앤씨는 시공을 맡았다....",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=267836",
+      "date": "Wed, 25 Nov 2026 10:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ziksir.com/news/articleView.html?idxno=154592": {
+      "title": "현대엔지니어링, 용인·호남 발전소 건설 본계약 체결",
+      "summary": "서명식에는 이승원 현대엔지니어링 에너지사업부장, 권명호 한국동서발전 사장, 송치영 포스코 이앤씨 사장 등이 참석했다. 현대엔지니어링 관계자는 \"우선협상대상자 선정 이후 약 두 달 만에 본계약을 잇달아 체결한...",
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=154592",
+      "date": "Wed, 25 Nov 2026 10:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.mtnews.net/news/articleView.html?idxno=26645": {
+      "title": "현대엔지니어링, 용인·호남 발전소 건설사업 잇달아 수주… 2조 2,840억...",
+      "summary": "사장, 포스코 이앤씨 송치영 사장 등이 참석한 가운데 호남 복합발전소 건설사업 계약 서명식이 열렸다.... 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 담당하며, 포스코 이앤씨는 보조 기자재...",
+      "url": "https://www.mtnews.net/news/articleView.html?idxno=26645",
+      "date": "Wed, 25 Nov 2026 10:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.dailian.co.kr/news/view/1719342/?sc=Naver": {
+      "title": "현대엔지니어링, 용인·호남 발전사업 수주... 총 2.3조원 규모",
+      "summary": "송치영 포스코 이앤씨 사장 등이 참석한 가운데 ‘호남 복합발전소 건설 사업’ 계약 서명식도 진행했다.... 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 담당하며, 포스코 이앤씨는 시공을...",
+      "url": "https://www.dailian.co.kr/news/view/1719342/?sc=Naver",
+      "date": "Wed, 25 Nov 2026 10:38:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576443290654": {
+      "title": "현대엔지니어링, 용인·호남 발전사업 잇따라 수주…총 2.3조원 규모",
+      "summary": "이승원 현대엔지니어링 에너지사업부장과 권명호 한국동서발전 사장, 송치영 포스코 이앤씨 사장 등이... 송치영 포스코 이앤씨 사장(왼쪽 네 번째) 등 참석자들이 기념촬영을 하고 있다. [사진=현대엔지니어링] 이...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576443290654",
+      "date": "Wed, 25 Nov 2026 10:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.popcornnews.net/news/articleView.html?idxno=141426": {
+      "title": "현대엔지니어링, 용인·호남 발전사업 연속 수주...총 2조2840억 원 규모",
+      "summary": "송치영 포스코 이앤씨 사장 등이 참석한 가운데 '호남 복합발전소 건설 사업' 계약 서명식이 진행됐다. 전남... 컨소시엄 대표사인 현대엔지니어링이 설계와 주요 기자재 조달을 맡고, 포스코 이앤씨가 시공을 수행한다....",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=141426",
+      "date": "Wed, 25 Nov 2026 10:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.businessplus.kr/news/articleView.html?idxno=120447": {
+      "title": "[비즈+]현대엔지니어링, 용인·호남 발전소 잇단 수주…2조2840억원 규모",
+      "summary": "서명식에는 이승원 현대엔지니어링 에너지사업부장과 권명호 한국동서발전 사장, 송치영 포스코 이앤씨... 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 맡고, 포스코 이앤씨는 시공을 담당한다....",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=120447",
+      "date": "Wed, 25 Nov 2026 10:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.newslock.co.kr/news/articleView.html?idxno=140885": {
+      "title": "현대엔지니어링, 용인·호남 발전소 2건 수주...총 2조2840억",
+      "summary": "송치영 포스코 이앤씨 사장 등이 참석했다. 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 담당하고 포스코 이앤씨가 시공을 맡는다. 내년 6월 착공해 2030년 5월 준공할 예정이며 준공 이후...",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140885",
+      "date": "Wed, 25 Nov 2026 10:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.hansbiz.co.kr/news/articleView.html?idxno=887018": {
+      "title": "포스코 퓨처엠, 계열사 거래 통해 3117.6억 매출 달성",
+      "summary": "포항 영일만 4산단에 위치한 포스코 퓨처엠 포항 양극재 공장. 포스코 퓨처엠 | 서울=한스경제 임준혁 기자 | 포스코 퓨처엠이 직전 분기 계열사 상품·용역 거래로 3117억6000만원의 매출을 올렸다. 25일...",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887018",
+      "date": "Wed, 25 Nov 2026 10:12:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코퓨처엠 · 수치가 명시된 경제지표/실적",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/realestate/construction/6365220": {
+      "title": "현대엔지니어링, 용인·호남 발전사업 잇달아 수주…2.3조 원 규모",
+      "summary": "서명식에는 이승원 현대엔지니어링 에너지사업부장, 권명호 한국동서발전 사장, 송치영 포스코 이앤씨... 포스코 이앤씨가 시공을 수행한다. 발전소는 2027년 6월 착공해 2030년 5월 준공할 예정이다. 두 사업 모두 9월...",
+      "url": "https://www.news1.kr/realestate/construction/6365220",
+      "date": "Wed, 25 Nov 2026 10:03:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.nocutnews.co.kr/news/6612213": {
+      "title": "홍의락 사장 취임 5개월 만에 한국가스공사 대대적 조직 개편",
+      "summary": "한국가스공사 가 조직 개편을 단행한다. 25일 가스공사는 내년 1월 1일부터 적용할 조직 개편을 마무리했다고 밝혔다. 이번 조직 개편은 지난 16일 발표한 '비전 2035'에 따른 것으로 공급 경쟁력 강화, 시장 리더십 확대...",
+      "url": "https://www.nocutnews.co.kr/news/6612213",
+      "date": "Wed, 25 Nov 2026 10:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국가스공사",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUEY4T3QwSzR0Q1NRTTVEcWRrQmRHWXpLOTQ2SDFNdV9IOXpkeEYzT2tDR1NwX2t5WWdVczV2dWtuMGM5c1VpTHV1ZWRXRjgtXzJURE5mSDRsZ9IBWEFVX3lxTE9XbnJlMWtWbnVVQV9HLXJRSG1JN29TMThTMkRMNW1SMW53LVYzeV9fSkxxcFV4cWlmNTR0YldWWWtXVExQaGZmNjRGTlZJQWdYbExjU2F5UFk?oc=5": {
+      "title": "iM뱅크, 한국부동산원 주거래은행 업무협약 체결 - 아주경제",
+      "summary": "iM뱅크, 한국부동산원 주거래은행 업무협약 체결 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUEY4T3QwSzR0Q1NRTTVEcWRrQmRHWXpLOTQ2SDFNdV9IOXpkeEYzT2tDR1NwX2t5WWdVczV2dWtuMGM5c1VpTHV1ZWRXRjgtXzJURE5mSDRsZ9IBWEFVX3lxTE9XbnJlMWtWbnVVQV9HLXJRSG1JN29TMThTMkRMNW1SMW53LVYzeV9fSkxxcFV4cWlmNTR0YldWWWtXVExQaGZmNjRGTlZJQWdYbExjU2F5UFk?oc=5",
+      "date": "Wed, 25 Nov 2026 01:05:10 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOU2dUR0VJajdQZ3Z4RU5qMlhUZ3BkU2ppYzVrcnpNQmVENzR3TXN6cGpLakxLME9GbzdiR0ktelgwRnVWLWRtcDlTTEdCUWxCSThsdWZicjZQQ2VuQXRGOVBZcHE?oc=5": {
+      "title": "iM뱅크, 한국부동산원 ‘주거래은행 업무협약’ 체결 - 매일일보",
+      "summary": "iM뱅크, 한국부동산원 ‘주거래은행 업무협약’ 체결 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOU2dUR0VJajdQZ3Z4RU5qMlhUZ3BkU2ppYzVrcnpNQmVENzR3TXN6cGpLakxLME9GbzdiR0ktelgwRnVWLWRtcDlTTEdCUWxCSThsdWZicjZQQ2VuQXRGOVBZcHE?oc=5",
+      "date": "Wed, 25 Nov 2026 01:11:45 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qZndtZVVwMWk1VEhFeVB6RzU3clgtSk42a1RWOVJva0xBQ0JKUjlJb2l1SjFEcE5zcmpUbi1FWXVQMEZselFhMlVsUVBrVGNuYlhzZUk0U3dBSEJydDZlcXpNdjBvZw?oc=5": {
+      "title": "경주 대천 율동지구 하천 정비…내년 1월 착공 - 데일리대구경북뉴스",
+      "summary": "경주 대천 율동지구 하천 정비…내년 1월 착공 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qZndtZVVwMWk1VEhFeVB6RzU3clgtSk42a1RWOVJva0xBQ0JKUjlJb2l1SjFEcE5zcmpUbi1FWXVQMEZselFhMlVsUVBrVGNuYlhzZUk0U3dBSEJydDZlcXpNdjBvZw?oc=5",
+      "date": "Wed, 25 Nov 2026 01:31:30 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tRGVsWnVfV1ROVy0tQkF6ekdxT3QzM0g5d3RlVFR1Y1VOa3NvY3ZkNnVHaDBhUGFkYk4wMUNTT2NybDZRRUhuSmxLSUc3MGo4d1hj?oc=5": {
+      "title": "경주시, 대천 율동지구 하천 정비 `내년 1월 착공` - CBN뉴스",
+      "summary": "경주시, 대천 율동지구 하천 정비 `내년 1월 착공` CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tRGVsWnVfV1ROVy0tQkF6ekdxT3QzM0g5d3RlVFR1Y1VOa3NvY3ZkNnVHaDBhUGFkYk4wMUNTT2NybDZRRUhuSmxLSUc3MGo4d1hj?oc=5",
+      "date": "Wed, 25 Nov 2026 01:24:29 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4950,31 +5472,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-25",
   "sent_articles": [
-    {
-      "url": "https://sateconomy.co.kr/news/view/1065576440304883",
-      "title": "현대엔지니어링· 포스코 이앤씨, 여수 LNG 복합발전소 핵심설비 계약",
-      "date": "Wed, 11 Nov 2026 10:56:00 +0900"
-    },
-    {
-      "url": "https://www.hankyung.com/article/202611119564g",
-      "title": "대표 불참했는데 계약 체결?…고려아연 지분 좌우 '영풍·MBK 계약' 물음...",
-      "date": "Wed, 11 Nov 2026 10:55:00 +0900"
-    },
-    {
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081998",
-      "title": "금오공대, 구미 창업 기업 3곳 태국 투자유치 지원",
-      "date": "Wed, 11 Nov 2026 10:38:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNW1pTERYeGZnYXI0cV9EcUNKd0R5WEpWa1lXekVSVXBhc18tYlg3ZXVac19Zd0hib19Nc1pBOVVYcDl1RkIxRllmYzdTbGxab2tkN0dYQUZBbGtFcHpXbVE0T1ZZNFZ5Z0U0?oc=5",
-      "title": "포스코퓨처엠, 현대자동차그룹과 ‘맞손’… 베트남 투자 - 광양경제신문",
-      "date": "Wed, 11 Nov 2026 01:20:23 GMT"
-    },
-    {
-      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323452",
-      "title": "경산4일반산업단지, 마지막 물류용지…납부조건 대폭 완화해 분양",
-      "date": "Wed, 11 Nov 2026 10:16:00 +0900"
-    },
     {
       "url": "https://www.imaeil.com/page/view/2026111111092322537",
       "title": "대구 서구 염색공단서 공장 화재 …15명 대피",
@@ -9519,6 +10016,56 @@
       "url": "http://www.ikld.kr/news/articleView.html?idxno=344803",
       "title": "현대엔지니어링, 총 2조3천억원 규모 용인·호남 발전사업 연속 수주",
       "date": "Wed, 25 Nov 2026 09:32:00 +0900"
+    },
+    {
+      "url": "https://www.nocutnews.co.kr/news/6612213",
+      "title": "홍의락 사장 취임 5개월 만에 한국가스공사 대대적 조직 개편",
+      "date": "Wed, 25 Nov 2026 10:18:00 +0900"
+    },
+    {
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2023109",
+      "title": "한국 부동산 원·iM뱅크, 주거래은행 업무협약 체결",
+      "date": "Wed, 25 Nov 2026 11:00:00 +0900"
+    },
+    {
+      "url": "https://www.tbc.co.kr/news/view?pno=20261125091318AE09091&id=213773",
+      "title": "동구의회 행감서 '위원 소속 업체 수의계약 ' 지적",
+      "date": "Wed, 25 Nov 2026 10:58:00 +0900"
+    },
+    {
+      "url": "http://www.finomy.com/news/articleView.html?idxno=267836",
+      "title": "현대엔지니어링, 용인 열병합·호남 복합발전소 건설 사업 수주",
+      "date": "Wed, 25 Nov 2026 10:56:00 +0900"
+    },
+    {
+      "url": "https://www.sedaily.com/article/20118693?ref=naver",
+      "title": "한국부동산원 주거래은행은 iM뱅크 …협약 체결",
+      "date": "Wed, 25 Nov 2026 10:54:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261125500180",
+      "title": "iM뱅크 , 한국부동산원 주거래은행 맡는다",
+      "date": "Wed, 25 Nov 2026 10:50:00 +0900"
+    },
+    {
+      "url": "https://www.ziksir.com/news/articleView.html?idxno=154592",
+      "title": "현대엔지니어링, 용인·호남 발전소 건설 본계약 체결",
+      "date": "Wed, 25 Nov 2026 10:44:00 +0900"
+    },
+    {
+      "url": "https://www.mtnews.net/news/articleView.html?idxno=26645",
+      "title": "현대엔지니어링, 용인·호남 발전소 건설사업 잇달아 수주… 2조 2,840억...",
+      "date": "Wed, 25 Nov 2026 10:44:00 +0900"
+    },
+    {
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251009431450507",
+      "title": "한국부동산원, 아이엠뱅크 와 주거래은행 업무협약",
+      "date": "Wed, 25 Nov 2026 10:42:00 +0900"
+    },
+    {
+      "url": "http://www.queen.co.kr/news/articleView.html?idxno=466888",
+      "title": "iM뱅크 , 한국부동산원 주거래은행 선정…ESG·지역상생 협력 강화",
+      "date": "Wed, 25 Nov 2026 10:40:00 +0900"
     }
   ],
   "brief_articles": [
@@ -9580,7 +10127,7 @@
     "2026-11-22": 9,
     "2026-11-23": 11,
     "2026-11-24": 11,
-    "2026-11-25": 1
+    "2026-11-25": 2
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
