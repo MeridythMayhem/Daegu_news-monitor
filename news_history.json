@@ -910,7 +910,9 @@
     "http://www.dtnews24.com/news/articleView.html?idxno=817598": "2026-11-24T20:09:07.033068+09:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUs4dkdac0J5NjJHcWoyZjlReE8wV3J2cHhpSDlkNUNIOTFVSXFmZnF3bzAtVlFncFRTNkZBa2Q2VzVCX3Z6RkpXQThkSENKTkNRVTFqbF80SDR0cVIzRU5HSEJjZlZwSEl5X0I5V1RCTUNoZ1NYNzNPMmtMRWdoV05pbmJxWldBLWpoUVBSM1Q?oc=5": "2026-11-24T20:09:07.033068+09:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzV2bkRxalJlNnlDNjNUQnFKbXBpcm4wWk90MFM1OEIyVWR5X1FUTVcwMVZVdGRsSGdGanJfcXl2bTNnOVR0OFdBRGN6aTZYWmswZlJqaFNQN0RERGN6VzRpSF9fdU5wbmVTTmQ3SFBuUTB2dEhoYjdiQmx1ZFRvNkV4U0p6T1NnSVh6Wlk3XzdCaUhxdUZtRGdxOA?oc=5": "2026-11-24T21:08:21.123982+09:00",
-    "https://www.vegannews.co.kr/news/article.html?no=410598": "2026-11-24T22:09:46.781450+09:00"
+    "https://www.vegannews.co.kr/news/article.html?no=410598": "2026-11-24T22:09:46.781450+09:00",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZThEZ3psdjl1MUhrRTNST1cxbUlsd1lJQ2IyendNeXhhMGx1TkNTZUs1dVliVWlwaWlpYVZXN2s3cnp6b1lDR2dCa1Rla0NDNENjbHk3Z3RuRnhpRUpRcFZkQkxXQQ?oc=5": "2026-11-25T09:07:57.595460+09:00",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSXZwQVBQeFc2aGotbHpBUnJBV3hfYnJ4YjZKT2duVExhV2lNQzdYTU5UWkRZNy02eTVqNlgwNDdTMy1TMlVMT0daUFluaTREZng0?oc=5": "2026-11-25T09:07:57.595460+09:00"
   },
   "titles": {
     "b15f570b81b1a4be3913fec60b6c7a4f0b3306ae0a2700c409ee3306a7d39507": "2026-11-11T09:02:03.403818+09:00",
@@ -1823,7 +1825,9 @@
     "0fbbd19e62d2b2df39c802a1ce257236fb928b520b781065090cfb4cbf8ae438": "2026-11-24T20:09:07.033068+09:00",
     "120717d23476afc2d4025567c0a74592769f9a33d00bba4be3171f73810aa21a": "2026-11-24T20:09:07.033068+09:00",
     "09e5eb4e9b14587ec1d673ca313d8a3d4b54788bad105ff0a9698e22bd0f9117": "2026-11-24T21:08:21.123982+09:00",
-    "b49e8211dc19db66aa0d99b7b09ac2d6c96cf1e1c560cfd4ff3c4a8145cfb23d": "2026-11-24T22:09:46.781450+09:00"
+    "b49e8211dc19db66aa0d99b7b09ac2d6c96cf1e1c560cfd4ff3c4a8145cfb23d": "2026-11-24T22:09:46.781450+09:00",
+    "99f1aca19b05c695eb8ca54480306d807b58c39753a0f967fac0cd17c3c1b9cd": "2026-11-25T09:07:57.595460+09:00",
+    "bebed84661e919023c422ccb14980456823042958e4fb183b0de2df465a2e8f2": "2026-11-25T09:07:57.595460+09:00"
   },
   "pending": {},
   "ai": {
@@ -1836,84 +1840,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.gukjenews.com/news/articleView.html?idxno=3759678": {
-      "title": "경북 도, 전기차 충돌안전부품 기술센터 준공…미래차 전환 가속",
-      "summary": "센터 건립 과 기업 기술력 향상에 2027년까지 총 222억 원이 투입된다. (제공= 경북 도) 김민석 정책실장 \"미래차 전환·충돌안전 기술경쟁력 강화 지원\" xEV 보호차체는 전기차 배터리를 보호하는 배터리 케이스와 하부 프레임...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759678",
-      "date": "Mon, 23 Nov 2026 08:50:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.metroseoul.co.kr/article/20261122500310": {
-      "title": "경북 도, 경산에 전기차 충돌안전부품 기술센터 준공…부품기업 미래차...",
-      "summary": "센터는 자동차안전도평가(KNCAP)에 대응해 전기차 하부 직접 충돌 검증 시스템과 충돌 후 배터리 파손· 화재 를 평가하는 지연 화재 안전성 평가 시스템도 구축한다. 경북 도는 내연차 중심의 차체·섀시 부품기업이 xEV...",
-      "url": "http://www.metroseoul.co.kr/article/20261122500310",
-      "date": "Mon, 23 Nov 2026 08:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.etoday.co.kr/news/view/2651427": {
-      "title": "경산시 '전기차 충돌안전부품기술센터' 준공",
-      "summary": "하인성 경북 테크노파크 원장 등 100여 명이 참석했다. 기술센터는 2023년 4월 산업통상부 공모에 선정된 'xEV 보호차체얼라이언스 기업지원 플랫폼 구축' 사업으로 연면적 1360㎡ 규모로 건립 됐다. 센터 건립 과 기업 기술...",
-      "url": "https://www.etoday.co.kr/news/view/2651427",
-      "date": "Mon, 23 Nov 2026 08:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6362286": {
-      "title": "신문 포장재 놓고 지역감정 논란…경산 茶 판매업체 '곤혹'",
-      "summary": "경북 경산시의 한 차(茶) 판매업체가 택배 포장재로 사용한 신문 한 장을 두고 지역감정 논란이 벌어지고... 다른 누리꾼은 \"신문 구매 내역 인증해 주시면 될 것 같은데요\"라며 업체 측에 해명 을 요구 했다. 반면 지나친...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6362286",
-      "date": "Mon, 23 Nov 2026 08:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/photos/8227333": {
-      "title": "권오을 장관 \" 대구 독립기념관 건립 면밀히 들여다 볼 것\"",
-      "summary": "권오을 국가보훈부 장관이 23일 오전 대구 남구 이천동 대구 아트파크에서 열린 아시아포럼21 초청 토론회에서 모두 발언을 하고 있다. 2026.11.23/뉴스1",
-      "url": "https://www.news1.kr/photos/8227333",
-      "date": "Mon, 23 Nov 2026 08:41:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISX20261123_0003878601": {
-      "title": "율촌, 포스코 와 폴란드 자동차강판 공급 확대 MOU",
-      "summary": "정밀냉간인발튜브(인발강관) 전문기업 율촌은 포스코 와 폴란드 법인향 자동차강판 공급 확대와 장기적인... 이흥해 율촌 대표이사와 김윤호 포스코 자동차강판판매그룹장 등이 참석했다. 이번 협약의 핵심은 율촌...",
-      "url": "https://www.newsis.com/view/NISX20261123_0003878601",
-      "date": "Mon, 23 Nov 2026 08:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.news1.kr/local/daegu-gyeongbuk/6362446": {
       "title": "포항시, 환호지구에 385실 특급호텔·콘도 건립 추진",
       "summary": "경북 포항시가 체류형 관광객 유치를 위해 북구 환호동에 4800억 원 규모의 민간투자 유치에 나섰다. 23일... 박용선 시장은 \"특급호텔 건립 등이 예정대로 진행되면 내년 개관하는 포항국제전시컨벤션센터와의 연계로...",
@@ -4686,6 +4612,32 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSXZwQVBQeFc2aGotbHpBUnJBV3hfYnJ4YjZKT2duVExhV2lNQzdYTU5UWkRZNy02eTVqNlgwNDdTMy1TMlVMT0daUFluaTREZng0?oc=5": {
+      "title": "경상북도, K-푸드. 뷰티 `베트남 달랏서 수출상담 224만 달러 계약` - CBN뉴스",
+      "summary": "경상북도, K-푸드. 뷰티 `베트남 달랏서 수출상담 224만 달러 계약` CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSXZwQVBQeFc2aGotbHpBUnJBV3hfYnJ4YjZKT2duVExhV2lNQzdYTU5UWkRZNy02eTVqNlgwNDdTMy1TMlVMT0daUFluaTREZng0?oc=5",
+      "date": "Tue, 24 Nov 2026 23:28:36 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZThEZ3psdjl1MUhrRTNST1cxbUlsd1lJQ2IyendNeXhhMGx1TkNTZUs1dVliVWlwaWlpYVZXN2s3cnp6b1lDR2dCa1Rla0NDNENjbHk3Z3RuRnhpRUpRcFZkQkxXQQ?oc=5": {
+      "title": "구미시‧구미전자정보기술원, 구미국가산업단지 8개사에 스마트 안전솔루션 보급 - 데일리대구경북뉴스",
+      "summary": "구미시‧구미전자정보기술원, 구미국가산업단지 8개사에 스마트 안전솔루션 보급 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZThEZ3psdjl1MUhrRTNST1cxbUlsd1lJQ2IyendNeXhhMGx1TkNTZUs1dVliVWlwaWlpYVZXN2s3cnp6b1lDR2dCa1Rla0NDNENjbHk3Z3RuRnhpRUpRcFZkQkxXQQ?oc=5",
+      "date": "Wed, 25 Nov 2026 00:00:13 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4715,36 +4667,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-25",
   "sent_articles": [
-    {
-      "url": "https://www.g-enews.com/view.php?ud=202611110834535849923c501012_1",
-      "title": "[개장 전 주요 공시] 에코프로 비엠·에스텍·유진증권·영원무역·F&F 등",
-      "date": "Wed, 11 Nov 2026 08:42:00 +0900"
-    },
-    {
-      "url": "https://www.etnews.com/20261111000010",
-      "title": "대구 TP, 하이박 신공장 서 '스마트제조' 혁신 성과 공유",
-      "date": "Wed, 11 Nov 2026 08:30:00 +0900"
-    },
-    {
-      "url": "https://www.etoday.co.kr/news/view/2646554",
-      "title": "대구 시의회, 투자유치기업 사후관리 부실 등 지적",
-      "date": "Wed, 11 Nov 2026 08:26:00 +0900"
-    },
-    {
-      "url": "https://www.greened.kr/news/articleView.html?idxno=354315",
-      "title": "포스코 인터, 광양 제2 LNG터미널 준공… 장인화 회장 '트리플 코어' 전략...",
-      "date": "Wed, 11 Nov 2026 08:21:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZVJPcFh0aGRtM0pYbEVQUTl4N2R6V05tSUw5MGkyQ2dOUkRwYm4zcmhWeUhzYUFlczlVOGxNQTljQWpzc3JaMnF6VGNyanRuVHFJay10WTNSMmN4TlJPUlQ0blg?oc=5",
-      "title": "91번 만났지만 평행선…체코 원전 시공 협상 놓고 한수원·대우건설 노조 정면충돌 - 에너지안전신문",
-      "date": "Tue, 10 Nov 2026 23:17:36 GMT"
-    },
-    {
-      "url": "https://www.tjb.co.kr/news05/bodo/view/id/105937",
-      "title": "\"다 쓴 배터리도 화재 위험\"…전압따라 열폭주 확인",
-      "date": "Wed, 11 Nov 2026 08:14:00 +0900"
-    },
     {
       "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251481",
       "title": "포항 4대 철강사, 협력업체 안전관리 강화·작업중지권 확대 추진",
@@ -9269,6 +9191,16 @@
       "url": "https://www.vegannews.co.kr/news/article.html?no=410598",
       "title": "에코프로 비엠, 인도네시아 제련소 투자 싱가포르 법인으로 변경",
       "date": "Tue, 24 Nov 2026 21:28:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZThEZ3psdjl1MUhrRTNST1cxbUlsd1lJQ2IyendNeXhhMGx1TkNTZUs1dVliVWlwaWlpYVZXN2s3cnp6b1lDR2dCa1Rla0NDNENjbHk3Z3RuRnhpRUpRcFZkQkxXQQ?oc=5",
+      "title": "구미시‧구미전자정보기술원, 구미국가산업단지 8개사에 스마트 안전솔루션 보급 - 데일리대구경북뉴스",
+      "date": "Wed, 25 Nov 2026 00:00:13 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSXZwQVBQeFc2aGotbHpBUnJBV3hfYnJ4YjZKT2duVExhV2lNQzdYTU5UWkRZNy02eTVqNlgwNDdTMy1TMlVMT0daUFluaTREZng0?oc=5",
+      "title": "경상북도, K-푸드. 뷰티 `베트남 달랏서 수출상담 224만 달러 계약` - CBN뉴스",
+      "date": "Tue, 24 Nov 2026 23:28:36 GMT"
     }
   ],
   "brief_articles": [
