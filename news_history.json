@@ -1,15 +1,5 @@
 {
   "sent": {
-    "http://www.ferrotimes.com/news/articleView.html?idxno=51462": "2026-11-12T15:02:09.223418+09:00",
-    "https://www.datasom.co.kr/news/articleView.html?idxno=210772": "2026-11-12T15:02:09.223418+09:00",
-    "https://news.tf.co.kr/read/national/2388091.htm": "2026-11-12T15:02:09.223418+09:00",
-    "https://www.nocutnews.co.kr/news/6605954": "2026-11-12T15:02:09.223418+09:00",
-    "https://www.e-science.co.kr/news/articleView.html?idxno=139654": "2026-11-12T15:02:09.223418+09:00",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TODBLU3gxWUtBdVJJQzVRc3FDUFYyeXUxM2dhRHB5emp5NEYwSlBpYW81ZmhaZXgxVFY3eUpxMHN2TFdITU9JOUtrQ1FKNDJ6c0NOSjVGbzRGSERIb1JWeFZ6Q1pySTRUM3lrVi1jTQ?oc=5": "2026-11-12T15:02:09.223418+09:00",
-    "https://www.dkilbo.com/news/articleView.html?idxno=560511": "2026-11-12T15:02:09.223418+09:00",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CS0RXM2ZLa2RzajAzcnBDOHU5bUVxaXl0S19TQnpFVEpHSFQ2dnZrR25OOXhidGFQRjZsTExobnp4cEx1NThQY1JrbHFSUXZrQUpOSnV2RjN4ekRNRWF2MGc2SjUtTUhvTlp2T2I5XzBJUVk?oc=5": "2026-11-12T15:02:09.223418+09:00",
-    "https://www.financialpost.co.kr/news/articleView.html?idxno=300443": "2026-11-12T15:02:09.223418+09:00",
-    "https://www.hidomin.com/news/articleView.html?idxno=729079": "2026-11-12T15:02:09.223418+09:00",
     "https://www.yna.co.kr/view/AKR20261112139200053?input=1195m": "2026-11-12T16:02:42.593247+09:00",
     "https://www.straightnews.co.kr/news/articleView.html?idxno=315251": "2026-11-12T16:02:42.593247+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090549": "2026-11-12T16:02:42.593247+09:00",
@@ -916,19 +906,17 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5naVJlRTV5WlM5dWphOG03UDZjeWF1S0xScWc2Y2diX3M1R00xRWpQSlUtVnhLaW9lODZMMkFMY2kzcGpJTkpmcDR3UE5BNTdxZjNyYjhrY252dTM3T3J0Vm9rQW54dw?oc=5": "2026-11-26T15:07:59.837640+09:00",
     "https://www.hidomin.com/news/articleView.html?idxno=731167": "2026-11-26T15:07:59.837640+09:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HQXFvdVpPRGxGZUl1UXh6TGFReHlkMmF1SDBZdWFqWW0tNE9GbFdqcnlFX2FYT2xlZlhXQ1ZCQV83MXlXQy1xZEw3UDJ2Y3pyOFIzVHNuLWxxWUN5Nk5SRVFBaVYwY1hjRVE?oc=5": "2026-11-26T15:07:59.837640+09:00",
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWFdGbndfdTZfaTdJREZwdGVfQ1hJaGRWUVNQYnF1aG5MWHc1dVJRLVBJSXBlM0o0TDc1cTljUlV3TUEzQ0k0SlM0OEwydE1WeDlN?oc=5": "2026-11-26T15:07:59.837640+09:00"
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWFdGbndfdTZfaTdJREZwdGVfQ1hJaGRWUVNQYnF1aG5MWHc1dVJRLVBJSXBlM0o0TDc1cTljUlV3TUEzQ0k0SlM0OEwydE1WeDlN?oc=5": "2026-11-26T15:07:59.837640+09:00",
+    "https://www.cnbnews.com/news/articleView.html?idxno=1025470": "2026-11-26T16:09:48.087348+09:00",
+    "http://www.metroseoul.co.kr/article/20261126500344": "2026-11-26T16:09:48.087348+09:00",
+    "https://www.idaegu.com/news/articleView.html?idxno=667316": "2026-11-26T16:09:48.087348+09:00",
+    "https://www.yna.co.kr/view/AKR20261126116200053?input=1195m": "2026-11-26T16:09:48.087348+09:00",
+    "https://www.yna.co.kr/view/AKR20261126137700053?input=1195m": "2026-11-26T16:09:48.087348+09:00",
+    "https://www.sisajournal.com/news/articleView.html?idxno=395332": "2026-11-26T16:09:48.087348+09:00",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcjAya091MDJ4QkNYTlF4N0VqWV93a1dSOVl0V3VpRHdpTjF6WkVCMXhSS1lQWjhDb3l2RmNPTnJSVTF4Y0RQeVVDbG03Y0drcGZQcWF5ekhEWldpcHhMeW5QTy14U09IbWVJb3c5VdIBc0FVX3lxTE1qZjVJMnNQdFlMYnhPTG11N2N2aU9GdXlyXzlHWERnSElOZENrR200WjZuNHdnU2lSclFBUXMybE8tUllEMlJwU3VkQXl2MnFldzBYSjJpMFp2V3VndzRTMWVWaGRtWFNyOGd1M1RsaUdWdkU?oc=5": "2026-11-26T16:09:48.087348+09:00",
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088400": "2026-11-26T16:09:48.087348+09:00"
   },
   "titles": {
-    "f74b9ce0fef772d0aacee44f65597b0dc5fd2948342d5dbe9413753f822fb0e0": "2026-11-12T15:02:09.223418+09:00",
-    "2636a318e4efc2ef2bafd924b09d03ddda6c1e08e6747ac771b78ea7c0de44ef": "2026-11-12T15:02:09.223418+09:00",
-    "dd6151f6e18982034d544f2af473af1a0390da76ee7fa6035672eb339f46038b": "2026-11-12T15:02:09.223418+09:00",
-    "ebb22f1f8effdf2adc4ed818b7a826aee8dc6c7da24a94db60cc85bfe6ce0d7f": "2026-11-12T15:02:09.223418+09:00",
-    "57f1283d47eae4bfd376bb85f4f80b35f1e263e93983ad11754ade8988ec56a0": "2026-11-12T15:02:09.223418+09:00",
-    "7f2bf9cf25d09aeb1619554e733de1c1c689eca5c895f1d3eb10affffeb5ca8b": "2026-11-12T15:02:09.223418+09:00",
-    "f447f20ed91e68bbc5f25476add2420309a0c3d6723f45208c21926fe2b3968b": "2026-11-12T15:02:09.223418+09:00",
-    "c9d288258e60e34e12cf2ebf88819a3b7fa904dd032c0c1a3c2775194fdf0698": "2026-11-12T15:02:09.223418+09:00",
-    "014dc98eb33fc7e50edeaced4e8118c7e4f5380b57aca168995ac156e6f6ecf8": "2026-11-12T15:02:09.223418+09:00",
-    "def74c3cef1b84c884f41a53ca940c59a7b6943717288e5dfe42d07e312a17a4": "2026-11-12T15:02:09.223418+09:00",
     "b0c40a2cf457afd23f996536a1174a0cd1a9f24584f92ca01944cf9e6baa75ba": "2026-11-12T16:02:42.593247+09:00",
     "7747064d4a7c87a277f16eb10eef7582359fc5376afd06ac5dd8c81015d48e13": "2026-11-12T16:02:42.593247+09:00",
     "afd7a46e5b6209582e1febf95637a2c453133be7eb9979cb77e2eae704234378": "2026-11-12T16:02:42.593247+09:00",
@@ -1835,241 +1823,28 @@
     "d920c48e077f140d56130cd613bef1e062e9cf4051e8ba762e20b6f3054dcb88": "2026-11-26T15:07:59.837640+09:00",
     "87d3a4d9f15bd14da7e820f0c16c0ed64e509ef1352e83d37a6abb192e38c45e": "2026-11-26T15:07:59.837640+09:00",
     "3a7a2cbf39591048e4d89c9df9bfd0424c623d6a89e5dfe4647a9ead0451d913": "2026-11-26T15:07:59.837640+09:00",
-    "f94241a349883833f3ea26a4c59336b089e21f22cd0c0727fbef79d7ca07c125": "2026-11-26T15:07:59.837640+09:00"
+    "f94241a349883833f3ea26a4c59336b089e21f22cd0c0727fbef79d7ca07c125": "2026-11-26T15:07:59.837640+09:00",
+    "a905c895d3dbdd26af6f3657061851d0b8f7822fe7b1bfbe3095daf0909ba5ee": "2026-11-26T16:09:48.087348+09:00",
+    "47bc5a82e984b3f3e4b6efd8645ab32fb1d3d57c4ff9cc072fde5d229729c978": "2026-11-26T16:09:48.087348+09:00",
+    "f970e759056027359d62aae3ab343602aac732c9c44269c86ed97d90bcf96ee0": "2026-11-26T16:09:48.087348+09:00",
+    "34b647f71a0cb3e6b56586177ea100442d51559cc42d951270b05c502bc37fdf": "2026-11-26T16:09:48.087348+09:00",
+    "a969439cea7614376a21d164a42aa4a92047f15debc9e44e6e75e4bc21de44fe": "2026-11-26T16:09:48.087348+09:00",
+    "f1aa3795ce147f8df0dce884ef559bdb2cca5532fe8e1a4ec8f1dba118ffadde": "2026-11-26T16:09:48.087348+09:00",
+    "5d997d96e58582229be8c7159dcdaf4cb1729e3c51909dad404142a6c6be2494": "2026-11-26T16:09:48.087348+09:00",
+    "9829faf08c4ead9f1eb06f23df4629103887654d4eefade1707250519b3a5d5c": "2026-11-26T16:09:48.087348+09:00"
   },
-  "pending": {
-    "https://www.nocutnews.co.kr/news/6613061": {
-      "title": "대구 시, 2030년까지 구지 보조취수장 만든다…내년 상반기 착공",
-      "summary": "정부가 4대강 보를 개방하거나 가뭄 등으로 하천수위가 낮아질 것에 대비해 2023년부터 사업을 추진해왔다. 대구 시는 보조취수장이 건립 되면 하천수위가 낮아지더라도 안정적으로 취수할 것으로 기대하고 있다.",
-      "url": "https://www.nocutnews.co.kr/news/6613061",
-      "date": "Thu, 26 Nov 2026 14:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.m-i.kr/news/articleView.html?idxno=2023836": {
-      "title": "포스코 회장 인선 내달 시동…장인화, '실적·신사업'으로 연임 도전장",
-      "summary": "매일일보 = 정경화 기자 | 포스코 그룹의 차기 회장 인선 작업이 다음달 막을 올린다. 내년 3월 임기... 26일 재계에 따르면 포스코 홀딩스는 다음달 중순 이후 독립이사 7명 전원으로 회장후보추천위원회(회추위)를...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2023836",
-      "date": "Thu, 26 Nov 2026 14:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    }
-  },
+  "pending": {},
   "ai": {
     "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 15,
     "2026-11-24": 18,
-    "2026-11-25": 12
+    "2026-11-25": 12,
+    "2026-11-26": 2
   },
   "cursor": 0,
   "archive": {
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=886645": {
-      "title": "iM뱅크 '텐텐통장', 최고 연 1.01% 금리에 소수점 투자 기능 더해",
-      "summary": "사진= iM뱅크 제공 | 대구=한스경제 조필국 | iM뱅크 가 출시한 은행·증권 결합 상품 '텐텐통장'이 고객 호응을 얻으며 가입 계좌와 잔액이 급증했다. iM뱅크 는 24일 텐텐통장 출시 이후 계좌 수는 3배, 상품 잔액은 5.2배...",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886645",
-      "date": "Tue, 24 Nov 2026 15:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.dkilbo.com/news/articleView.html?idxno=561920": {
-      "title": "경산시, 내년 본예산 1조5277억원 편성…시민 생활개선에 우선 투자",
-      "summary": "(13억원), 경북 지역기반 게임산업 육성 사업(12억원), K뷰티 경쟁력 강화 및 기업지원(18억원) 등 시민의 안정적인 경제활동을 지원할 계획이다. 미래성장 기반 확충을 위한 사업으로 임당유니콘 파크 건립 준공금...",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=561920",
-      "date": "Tue, 24 Nov 2026 15:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.imaeil.com/page/view/2026112409122113906": {
-      "title": "경북 K-푸드 산업화 속도…푸드테크 3대 거점 구축·455억원 투자 유치",
-      "summary": "핵심은 포항 ·의성·구미를 연결하는 푸드테크 3대 거점 조성이다. 지난 9월 포항 에는 전국 최초로 식품로봇... 구미에서는 한국식품연구원 경북본부가 지난 9월 착공해 2028년 4월 준공을 목표로 건립 중이다. 구미의...",
-      "url": "https://www.imaeil.com/page/view/2026112409122113906",
-      "date": "Tue, 24 Nov 2026 15:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=886680": {
-      "title": "경북 도 식품한류산업국 출범 100일, 연구부터 수출까지 전주기 체계 가...",
-      "summary": "11월에는 ㈜씨위드와 200억원, ㈜오그래와 255억원 규모의 투자협약 을 체결했다. ◆ 글로벌 식품한류플랫폼 구축 경북 도는 지역 농식품의 세계시장 진출을 지원한다. 올해 10월 말 기준 경북 포도 수출액은 7,294만 달러로...",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886680",
-      "date": "Tue, 24 Nov 2026 15:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.hidomin.com/news/articleView.html?idxno=730784": {
-      "title": "경북 식품산업, 생산 중심서 첨단·수출산업으로 대전환",
-      "summary": "455억원의 투자협약 을 이끌어냈다. 해외시장 성과도 나타나고 있다. 올해 10월 말 기준 경북 포도 수출액은 7294만달러로 전년 동기 대비 109.2% 증가했다. 전국 포도 수출액의 80.5%를 차지하며 수출물량도 9617t으로 167.0...",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=730784",
-      "date": "Tue, 24 Nov 2026 15:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.pennmike.com/news/articleView.html?idxno=132647": {
-      "title": "구미 시, '환경관리원(공무직)노조집회' 해법은",
-      "summary": "한편, 이번사안은 구미 시정책과 시 환노조의 이해관계가 복잡하게 얽혀 있고 폐기물 수거 민간위탁대행안의 이면에 모종의 의혹 마저 제기되면서 노사 간 타협과 양보가 더없이 어려워진 상황이다. 구미 =",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=132647",
-      "date": "Tue, 24 Nov 2026 15:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/politics/assembly/6364455": {
-      "title": "장동혁 \"한동훈은 보수 궤멸 중심…복당 불가\"…조작 징계 의혹 정면 반...",
-      "summary": "관련 텔레그램 대화와 징계 자료를 공개하며 '조작 징계' 의혹 을 제기했다. 장 대표는 황 위원과 최 교수를... 장 대표는 12·3 비상계엄 사태 당시 국민의힘 의원들의 계엄 해제 표결을 방해한 혐의를 받는 추경호 대구 시장이...",
-      "url": "https://www.news1.kr/politics/assembly/6364455",
-      "date": "Tue, 24 Nov 2026 15:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.dkilbo.com/news/articleView.html?idxno=561936": {
-      "title": "한국보훈복지의료공단 대구 보훈병원, 서관 증축 공사 착공식 개최",
-      "summary": "박정열 대구국세청 장, 전영훈 경북대학교병원장 등 내빈 150여명이 참석했다. 착공식 이후 주요 관계자가 참여한 가운데 증축되는 서관동의 성공적인 완공을 기원하는 시삽식이 진행됐다. 이번 증축 공사는 총사업비...",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=561936",
-      "date": "Tue, 24 Nov 2026 15:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.m-i.kr/news/articleView.html?idxno=2022757": {
-      "title": "대구 창조경제혁신센터, IP 가치평가 연계 IR…스타트업 투자 유치 지원",
-      "summary": "매일 일보 = 이인수 기자 | 대구 창조경제혁신센터(이하 대구 센터)는 지난 23일 한국발명진흥회와 공동으로 중소벤처 기업 부 창업도시 조성 프로젝트의 세부 프로그램인 'IP 가치평가 연계 IR( 기업 설명회)'을 진행했다. 이번...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2022757",
-      "date": "Tue, 24 Nov 2026 15:24:00 +0900",
-      "channels": [
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.donga.com/news/Economy/article/all/20261124/135081633/1": {
-      "title": "포스코 인터, 美셰일가스전 지분 전량 인수…북미 에너지 거점 확보",
-      "summary": "포스코 그룹이 미국 셰일가스전 인수를 마무리하며 북미 에너지 거점을 확보했다. 포스코 인터내셔널은 23일(현지시간) 미국 코드에너지가 보유한 펜실베이니아주 애팔래치안 셰일가스전 지분 전량을 5억5000만 달러...",
-      "url": "https://www.donga.com/news/Economy/article/all/20261124/135081633/1",
-      "date": "Tue, 24 Nov 2026 15:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
-    "https://www.wikitree.co.kr/articles/1177250": {
-      "title": "포스코 인터내셔널, 美 애팔래치안 셰일가스전 지분 인수 마무리…미얀...",
-      "summary": "포스코 인터내셔널이 5억5000만달러를 들여 미국 펜실베이니아주 셰일가스전 지분 인수를 끝냈다. 미얀마와 호주에 이어 미국에도 가스 생산거점을 두게 됐다. 포스코 인터내셔널은 23일(현지시간) 미국 에너지기업...",
-      "url": "https://www.wikitree.co.kr/articles/1177250",
-      "date": "Tue, 24 Nov 2026 15:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
-    "https://www.yna.co.kr/view/AKR20261124139000063?input=1195m": {
-      "title": "월성원전 경제성 조작 의혹 1심 이르면 내년 상반기 선고될 듯",
-      "summary": "대전지법 제11형사부(박우근 부장판사)는 24일 백운규 전 산업부 장관, 채희봉 전 청와대 산업정책비서관, 김수현 전 청와대 정책실장, 정재훈 한국수력원자력 사장, 회계사 A씨 등이 기소된 직권남용 권리행사 방해 등 혐의...",
-      "url": "https://www.yna.co.kr/view/AKR20261124139000063?input=1195m",
-      "date": "Tue, 24 Nov 2026 15:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4LWxZdUxIN3hiTmlVQmExbUV5ay1Zbm1iQm9FUnVyWVZ2SHl3dFdvZ1RwaVg5bXpxRHBLZUE0aUw5bG9GS3EtTGJVVGs2M3pyc0RSbVJGdkg?oc=5": {
-      "title": "POSCO International Completes U.S. Shale Gas Field Acquisition, Secures Three Global Production Hubs - 파이낸셜뉴스",
-      "summary": "POSCO International Completes U.S. Shale Gas Field Acquisition, Secures Three Global Production Hubs 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4LWxZdUxIN3hiTmlVQmExbUV5ay1Zbm1iQm9FUnVyWVZ2SHl3dFdvZ1RwaVg5bXpxRHBLZUE0aUw5bG9GS3EtTGJVVGs2M3pyc0RSbVJGdkg?oc=5",
-      "date": "Tue, 24 Nov 2026 06:33:46 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코 · 계약/가동/실적 발표",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DNmNxUW1iUThYRlNEa09DejkzNE1lY3FUZkZ1TW80T3dLZ1JmazVVVFh4ZkNvM2NtUldVLW1UX0oyUm9KekM5LU5saVBQVnZXYkF4ZGJFaDdsLUVtSXVhUVZKdGtKMTZM0gFrQVVfeXFMT3JOU0xJSWtpNXhoNVJpa2hnS2Rzb1FlaVpHaVU4ZlFnbHFOMWFsU3ZPMDZVV0t3YktRWkF0dXNfbEp0NENqdlJyODdEWDh4SlJnNDJ2TmdZb3pnQ1ctS3FZYnkyTm9VRjUwRHM?oc=5": {
-      "title": "경주 외동산단 복합문화센터 준공식 개최 - 시사통신",
-      "summary": "경주 외동산단 복합문화센터 준공식 개최 시사통신",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DNmNxUW1iUThYRlNEa09DejkzNE1lY3FUZkZ1TW80T3dLZ1JmazVVVFh4ZkNvM2NtUldVLW1UX0oyUm9KekM5LU5saVBQVnZXYkF4ZGJFaDdsLUVtSXVhUVZKdGtKMTZM0gFrQVVfeXFMT3JOU0xJSWtpNXhoNVJpa2hnS2Rzb1FlaVpHaVU4ZlFnbHFOMWFsU3ZPMDZVV0t3YktRWkF0dXNfbEp0NENqdlJyODdEWDh4SlJnNDJ2TmdZb3pnQ1ctS3FZYnkyTm9VRjUwRHM?oc=5",
-      "date": "Tue, 24 Nov 2026 06:03:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZHUtOXNKOHBLSmtaYWppaFNHMHB1RUtHYl9NQVZVdURfNWVLVFk4cUJNNE5YU3FUNkJLc1lfOXBQTVIyWW9zMkFnMWFiQ2h2OURORFRIT1RZcjhXc2ZXRU9rZ3VhZVNvOVE?oc=5": {
-      "title": "영덕 산불피해목 처리사업입찰, 공고 위법성 논란에 특정 업체 봐주기 의혹 - 경북도민일보",
-      "summary": "영덕 산불피해목 처리사업입찰, 공고 위법성 논란에 특정 업체 봐주기 의혹 경북도민일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56ZHUtOXNKOHBLSmtaYWppaFNHMHB1RUtHYl9NQVZVdURfNWVLVFk4cUJNNE5YU3FUNkJLc1lfOXBQTVIyWW9zMkFnMWFiQ2h2OURORFRIT1RZcjhXc2ZXRU9rZ3VhZVNvOVE?oc=5",
-      "date": "Tue, 24 Nov 2026 06:30:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 18
-    },
     "https://www.pressian.com/pages/articles/2026112411355990552": {
       "title": "성주군, 호주 수출시장 개척 성과…유소년 야구 열기로 지역 활력까지",
       "summary": "중소기업 5개사 무역사절단 파견해 385만 달러 수출상담·195만 달러 MOU 체결... 대구· 경북 리틀야구 19개 팀 성주서 열전 경북 성주군이 해외시장 개척을 통한 지역 기업의 성장 기반 마련과 유소년 스포츠 활성화라는 두...",
@@ -5789,6 +5564,136 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261126116200053?input=1195m": {
+      "title": "대구경제, 올들어 생산·수출 증가…건설침체로 회복세는 제한적",
+      "summary": "업종별로는 금속 가공 제품(27.2%)과 전자부품(26.1%)의 생산 증가가 두드러졌다. 기계 장비(7.8%)와 종이 및... 목표 미달 원인은 거래 처 발주 감소와 수요 부진(57.0%), 원자재·물류비 등 원가 부담 증가(29.3%) 등이 꼽혔다....",
+      "url": "https://www.yna.co.kr/view/AKR20261126116200053?input=1195m",
+      "date": "Thu, 26 Nov 2026 15:30:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sisajournal.com/news/articleView.html?idxno=395332": {
+      "title": "[의성·군위 24시] 의성·군위군, 신공항 조기 착공·이전지역 주민 선보...",
+      "summary": "◇ 의성소방서, 공설 소화전 4곳에 태양광 LED 시설 시범 설치 경북 의성소방서는 겨울철 화재 예방대책으로... 가입 대상 시설은 주택과 농·임업용 온실(비닐하우스 포함), 소상공인의 상가와 공장 이다. 주택은 소유자뿐...",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=395332",
+      "date": "Thu, 26 Nov 2026 15:15:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.nocutnews.co.kr/news/6613231": {
+      "title": "경주 관상어 펫 플라자 입찰 의혹…경찰, 공무원·업체 대표 입건",
+      "summary": "경북 경찰청 광역범죄수사2계는 경주시청 소속 공무원 A씨를 공무상비밀누설 혐의 로, 60대 업체 대표 B씨를 입찰방해 혐의 로 각각 불구속 입건했다고 26일 밝혔다. 경찰에 따르면 A씨는 환동해 관상어 펫 플라자 조성사업의...",
+      "url": "https://www.nocutnews.co.kr/news/6613231",
+      "date": "Thu, 26 Nov 2026 15:53:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6367245": {
+      "title": "'66억 입찰' 평가위원 명단 유출 의혹…경주시 공무원·업체 대표 입건",
+      "summary": "경북 경찰청 광역범죄수사2계는 26일 공무상비밀누설 혐의 로 경주시 공무원 A 씨를, 입찰방해 혐의 로 업체 대표 B 씨(60대)를 각각 불구속 입건했다고 밝혔다. A 씨는 경주시가 지난 5월 발주한 '환동해 관상어펫 플라자...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6367245",
+      "date": "Thu, 26 Nov 2026 15:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088400": {
+      "title": "영주 사과 14톤 대만 수출 …해외시장 판로 확대",
+      "summary": "영주시는 경북 도 지정 수출 단지인 대명영농조합법인이 26일 올해 생산한 부사 품종 사과 약 14톤을 대만으로... 해외시장 개척을 적극 지원해 농가 소득 증대와 안정적인 수출 기반 마련에 힘쓰겠다\"고 밝혔다. [신아 일보 ] 영주",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088400",
+      "date": "Thu, 26 Nov 2026 15:54:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역언론 경제·정책",
+      "priority": 65,
+      "filter_version": 18
+    },
+    "https://www.idaegu.com/news/articleView.html?idxno=667316": {
+      "title": "생산·수출 회복에도 체감경기 '냉랭'… 대구 기업 74.1% '올해 실적 목표...",
+      "summary": "실적 부진의 주요 원인으로는 '주요 거래 처 발주 감소 및 수요 부진'(57.0%)과 '원자재·물류비·에너지 등... 대구 지역 평균 제조업 생산지수는 전년 동기 대비 6.4% 상승해 전국 상승률(2.2%)을 웃돌았다. 금속 가공 제품...",
+      "url": "https://www.idaegu.com/news/articleView.html?idxno=667316",
+      "date": "Thu, 26 Nov 2026 15:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261126137700053?input=1195m": {
+      "title": "납품 계약 대가로 뇌물 받은 전 안동시 비서관 징역 5년",
+      "summary": "벌금 1억원·추징금 1천686만원…뇌물 공여자 징역형 집행유예 납품 계약 대가로 업체 관계자에게 수천만원을 받은 혐의로 구속 기소 된 전직 안동시 소통비서관에게 징역 5년이 선고됐다. 대구 지법 안동지원 형사1부...",
+      "url": "https://www.yna.co.kr/view/AKR20261126137700053?input=1195m",
+      "date": "Thu, 26 Nov 2026 15:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.cnbnews.com/news/articleView.html?idxno=1025470": {
+      "title": "포스코 1%나눔재단, 산불 초기 대응 체계 구축",
+      "summary": "포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 결합해 산불 취약 지역에 초기 대응 체계를 구축하는 ' 포스코 쉴드(POSCO Shield)' 사업을 전개했다고 밝혔다. 재단은 올해 산불 초기 대응이...",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1025470",
+      "date": "Thu, 26 Nov 2026 15:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.metroseoul.co.kr/article/20261126500344": {
+      "title": "포스코 1%나눔재단, 그룹 기술 결집해 산불 취약 마을 초기 대응 체계 구...",
+      "summary": "/ 포스코 홀딩스 포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 결집해 산불 취약 마을의 초기 대응 체계를 구축했다. 산불 감지부터 진화, 대피까지 마을 단위의 대응 기반이 마련되면서...",
+      "url": "http://www.metroseoul.co.kr/article/20261126500344",
+      "date": "Thu, 26 Nov 2026 15:42:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcjAya091MDJ4QkNYTlF4N0VqWV93a1dSOVl0V3VpRHdpTjF6WkVCMXhSS1lQWjhDb3l2RmNPTnJSVTF4Y0RQeVVDbG03Y0drcGZQcWF5ekhEWldpcHhMeW5QTy14U09IbWVJb3c5VdIBc0FVX3lxTE1qZjVJMnNQdFlMYnhPTG11N2N2aU9GdXlyXzlHWERnSElOZENrR200WjZuNHdnU2lSclFBUXMybE8tUllEMlJwU3VkQXl2MnFldzBYSjJpMFp2V3VndzRTMWVWaGRtWFNyOGd1M1RsaUdWdkU?oc=5": {
+      "title": "[의성·군위 24시] 의성·군위군, 신공항 조기 착공·이전지역 주민 선보상 촉구 - 시사저널",
+      "summary": "[의성·군위 24시] 의성·군위군, 신공항 조기 착공·이전지역 주민 선보상 촉구 시사저널",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcjAya091MDJ4QkNYTlF4N0VqWV93a1dSOVl0V3VpRHdpTjF6WkVCMXhSS1lQWjhDb3l2RmNPTnJSVTF4Y0RQeVVDbG03Y0drcGZQcWF5ekhEWldpcHhMeW5QTy14U09IbWVJb3c5VdIBc0FVX3lxTE1qZjVJMnNQdFlMYnhPTG11N2N2aU9GdXlyXzlHWERnSElOZENrR200WjZuNHdnU2lSclFBUXMybE8tUllEMlJwU3VkQXl2MnFldzBYSjJpMFp2V3VndzRTMWVWaGRtWFNyOGd1M1RsaUdWdkU?oc=5",
+      "date": "Thu, 26 Nov 2026 06:15:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5810,56 +5715,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-26",
   "sent_articles": [
-    {
-      "url": "https://www.yna.co.kr/view/AKR20261112139200053?input=1195m",
-      "title": "경북 동부 공사장 추락 사망사고 증가…고용노동부, 단속 강화",
-      "date": "Thu, 12 Nov 2026 15:47:00 +0900"
-    },
-    {
-      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315251",
-      "title": "현대건설, 잇단 중대재해에 ESG 등급 하락…현대엔지니어링도 영업정지",
-      "date": "Thu, 12 Nov 2026 15:54:00 +0900"
-    },
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090549",
-      "title": "대구 신청사, 시의회 \"착공 일정 제시\" vs 시민단체 \"본공사 보류\"",
-      "date": "Thu, 12 Nov 2026 15:52:00 +0900"
-    },
-    {
-      "url": "http://www.breaknews.com/1250585",
-      "title": "경주 충효 야척·현곡 상구 일대 민간산단 조성 추진…토지 사용동의 9...",
-      "date": "Thu, 12 Nov 2026 15:50:00 +0900"
-    },
-    {
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=729110",
-      "title": "구미 시, 공공건축 담당자 실무 역량 강화 교육",
-      "date": "Thu, 12 Nov 2026 15:44:00 +0900"
-    },
-    {
-      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251525",
-      "title": "포항지청, 중대재해 취약 건설현장 불시점검… 안전조치 위반 적발",
-      "date": "Thu, 12 Nov 2026 15:42:00 +0900"
-    },
-    {
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1424572",
-      "title": "에스엘 에너지, 업황 부진 속 3분기 누적 영업이익 11억원",
-      "date": "Thu, 12 Nov 2026 15:32:00 +0900"
-    },
-    {
-      "url": "https://www.newspim.com/news/view/20261112001128",
-      "title": "에스엘 에너지, 올 3분기 누적 영업이익 11억원",
-      "date": "Thu, 12 Nov 2026 15:22:00 +0900"
-    },
-    {
-      "url": "https://www.tbc.co.kr/news/view?pno=20261112105021AE08426&id=213247",
-      "title": "포스코 노조, 출근 선전전 돌입...상경 집회 예고",
-      "date": "Thu, 12 Nov 2026 15:20:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0xBZWc4dGpKd19qTVI0MnNPV0NIZWxwX3o2T1BhNm1fR0dPU00zSlJ6alZRWGJHRy0zSGozZmdLVDZDWkRPUjJlOVZrcmo5aFlLMUk5SlZMbkpiOXJoc0E5VkJvUm9kMW9hanMwR19TUk80YTd3d2xkdzVJZHY3UUFTN0huZw?oc=5",
-      "title": "포스코 노조, 출근 선전전 돌입...18일 상경 집회 - Tbc.co.kr",
-      "date": "Thu, 12 Nov 2026 06:17:17 GMT"
-    },
     {
       "url": "https://idsn.co.kr/news/view/1065599686976469",
       "title": "경북 동부 건설현장 추락 사망 사고 증가…노동부, 불시점검 강화",
@@ -10344,6 +10199,46 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWFdGbndfdTZfaTdJREZwdGVfQ1hJaGRWUVNQYnF1aG5MWHc1dVJRLVBJSXBlM0o0TDc1cTljUlV3TUEzQ0k0SlM0OEwydE1WeDlN?oc=5",
       "title": "경상북도, 딸기 수출 2배 성장 시범단지 농가 검역·농약 안전관리 교육 - CBN뉴스",
       "date": "Thu, 26 Nov 2026 05:08:01 GMT"
+    },
+    {
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1025470",
+      "title": "포스코 1%나눔재단, 산불 초기 대응 체계 구축",
+      "date": "Thu, 26 Nov 2026 15:42:00 +0900"
+    },
+    {
+      "url": "http://www.metroseoul.co.kr/article/20261126500344",
+      "title": "포스코 1%나눔재단, 그룹 기술 결집해 산불 취약 마을 초기 대응 체계 구...",
+      "date": "Thu, 26 Nov 2026 15:42:00 +0900"
+    },
+    {
+      "url": "https://www.idaegu.com/news/articleView.html?idxno=667316",
+      "title": "생산·수출 회복에도 체감경기 '냉랭'… 대구 기업 74.1% '올해 실적 목표...",
+      "date": "Thu, 26 Nov 2026 15:46:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261126116200053?input=1195m",
+      "title": "대구경제, 올들어 생산·수출 증가…건설침체로 회복세는 제한적",
+      "date": "Thu, 26 Nov 2026 15:30:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261126137700053?input=1195m",
+      "title": "납품 계약 대가로 뇌물 받은 전 안동시 비서관 징역 5년",
+      "date": "Thu, 26 Nov 2026 15:16:00 +0900"
+    },
+    {
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=395332",
+      "title": "[의성·군위 24시] 의성·군위군, 신공항 조기 착공·이전지역 주민 선보...",
+      "date": "Thu, 26 Nov 2026 15:15:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcjAya091MDJ4QkNYTlF4N0VqWV93a1dSOVl0V3VpRHdpTjF6WkVCMXhSS1lQWjhDb3l2RmNPTnJSVTF4Y0RQeVVDbG03Y0drcGZQcWF5ekhEWldpcHhMeW5QTy14U09IbWVJb3c5VdIBc0FVX3lxTE1qZjVJMnNQdFlMYnhPTG11N2N2aU9GdXlyXzlHWERnSElOZENrR200WjZuNHdnU2lSclFBUXMybE8tUllEMlJwU3VkQXl2MnFldzBYSjJpMFp2V3VndzRTMWVWaGRtWFNyOGd1M1RsaUdWdkU?oc=5",
+      "title": "[의성·군위 24시] 의성·군위군, 신공항 조기 착공·이전지역 주민 선보상 촉구 - 시사저널",
+      "date": "Thu, 26 Nov 2026 06:15:00 GMT"
+    },
+    {
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088400",
+      "title": "영주 사과 14톤 대만 수출 …해외시장 판로 확대",
+      "date": "Thu, 26 Nov 2026 15:54:00 +0900"
     }
   ],
   "brief_articles": [
@@ -10384,7 +10279,8 @@
     "2026-11-22": 9,
     "2026-11-23": 11,
     "2026-11-24": 11,
-    "2026-11-25": 8
+    "2026-11-25": 8,
+    "2026-11-26": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
