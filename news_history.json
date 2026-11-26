@@ -1,9 +1,5 @@
 {
   "sent": {
-    "https://www.mt.co.kr/society/2026/11/12/2026111221102797955": "2026-11-12T22:01:55.678387+09:00",
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=565225": "2026-11-12T22:01:55.678387+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FMTR4NzBXRHZnQkttWHFRdGRMalBha2ZDeXFDVXNvSkZLVXg4V0FJOFdSVTdJU2p2SFoxYWs4VmhCVXJSeFE2MVVLREJyUGx3OGZBdWpYbXFoQm5teVpiY2ZRTVhRR0N4M05J?oc=5": "2026-11-12T22:01:55.678387+09:00",
-    "https://www.ksmnews.co.kr/news/view.php?idx=629456": "2026-11-12T22:01:55.678387+09:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KcTNNU09BbDZzeWNqc1lHakpDdFJxc0duc3U5VGpza29VbnVMWmRKb2hXYWZJN2oyQ1hiWWpoVmxGRDZ0VTJuSlBrXzZqbkVmTHZfOUNLazZvUQ?oc=5": "2026-11-13T09:02:46.635062+09:00",
     "https://imnews.imbc.com/news/2026/society/article/6865363_36918.html": "2026-11-13T09:02:46.635062+09:00",
     "https://www.ajunews.com/view/20261113081347896": "2026-11-13T09:02:46.635062+09:00",
@@ -916,13 +912,10 @@
     "http://andongmbc.co.kr/adboard/NewsView85948": "2026-11-26T22:08:50.200238+09:00",
     "https://www.idaegu.co.kr/news/articleView.html?idxno=566635": "2026-11-26T22:08:50.200238+09:00",
     "https://www.yna.co.kr/view/AKR20261126193600530?input=1195m": "2026-11-26T22:08:50.200238+09:00",
-    "https://www.ytn.co.kr/_ln/0103_202611262111512491": "2026-11-26T22:08:50.200238+09:00"
+    "https://www.ytn.co.kr/_ln/0103_202611262111512491": "2026-11-26T22:08:50.200238+09:00",
+    "https://www.dailian.co.kr/news/view/1720321/?sc=Naver": "2026-11-26T23:09:14.831218+09:00"
   },
   "titles": {
-    "5fee38bd24d3249ad0e093cafd0d78d43721765b07fca1a4afe7c06d8239e000": "2026-11-12T22:01:55.678387+09:00",
-    "6b26077442820059a95add20309ab81873b9cefa79c4653409383f4c655e3417": "2026-11-12T22:01:55.678387+09:00",
-    "73aa8119f30e1dd45dc43ea1ddaf93dc6cd7218e78a1bdd224ecbb4eb81684e1": "2026-11-12T22:01:55.678387+09:00",
-    "a92d83ef6baccece16fb08cab848428b21838c30977b9d53395c6d523a90a8b3": "2026-11-12T22:01:55.678387+09:00",
     "77824f0c9757b78ac8f5edaa00562212a2533f07127116724e903c3d67a16005": "2026-11-13T09:02:46.635062+09:00",
     "a78c7ccbc3e9d741fca5023eba18a88ae37f73523b949f389c3c4df4a0009b86": "2026-11-13T09:02:46.635062+09:00",
     "d5f2c69ac0d4d6e531e1ae5010b358c06546191a680ddb9015b1567eb4de9b86": "2026-11-13T09:02:46.635062+09:00",
@@ -1835,7 +1828,8 @@
     "b9359a0ecb844648eb3adb2937bd22df153e0c5e9093d5caae10844d462bbd0c": "2026-11-26T22:08:50.200238+09:00",
     "bf6d4cd8c9a6e018ba7d2c8781b99105557d4e6ebb1bc7f77f7d70e66d5afc34": "2026-11-26T22:08:50.200238+09:00",
     "e8a94ea942e36ca91f4f3cc072001106c6be0eed88edbd5924b00d968d4b6303": "2026-11-26T22:08:50.200238+09:00",
-    "af3d81d320a229844652d02dfe8c3f733a31c54d7b1c4f2f850cb76d1a5d69f0": "2026-11-26T22:08:50.200238+09:00"
+    "af3d81d320a229844652d02dfe8c3f733a31c54d7b1c4f2f850cb76d1a5d69f0": "2026-11-26T22:08:50.200238+09:00",
+    "294a739f826bbfc9a83fb50830a0942028cdd297eb7451c7b74faefbe1c5b0db": "2026-11-26T23:09:14.831218+09:00"
   },
   "pending": {},
   "ai": {
@@ -1849,19 +1843,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.livesnews.com/news/article.html?no=66311": {
-      "title": "경주시, 근로자·주민 위한 외동산단 복합문화센터 준공",
-      "summary": "경북 경주시가 외동산업단지에 근로자와 주민들의 쉼터를 만들었다. 경주시는 24일 외동2일반산업단지에서... 연면적 1,436㎡, 지상 2층 규모로 건립 된다. 내부는 북카페, 세탁소, 체력단련실, 회의실로 구성돼 있다....",
-      "url": "https://www.livesnews.com/news/article.html?no=66311",
-      "date": "Tue, 24 Nov 2026 22:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.webeconomy.co.kr/news/articleView.html?idxno=2389099": {
       "title": "[은행] 새마을금고중앙회, 조직문화 개선… iM뱅크 , 지역기업 지원·계열...",
       "summary": "iM뱅크 는 포항상공회의소와 함께 2027년 경제전망 및 지역산업 대응 전략을 논의하는 CEO포럼을 개최했으며, iM증권과 연계한 금융상품 '텐텐통장'의 계좌 수와 잔액도 각각 약 3배, 5.2배로 증가했다. 새마을금고중앙회...",
@@ -5931,6 +5912,19 @@
       "basis": "제목의 관내 지명/기관",
       "category": "기업 연관 확인 필요",
       "priority": 80,
+      "filter_version": 18
+    },
+    "https://www.dailian.co.kr/news/view/1720321/?sc=Naver": {
+      "title": "납품대금 빼돌려 74명 임금 11억 체불... 대구 車부품업체 대표 구속",
+      "summary": "원청에서 받은 납품대금을 개인 계좌로 빼돌린 뒤 잠적한 대구 달성군의 자동차 부품 제조업체 대표가 노동자 74명의 임금과 퇴직급여 11억4000만원을 체불한 혐의로 구속 됐다. 고용노동부 대구 서부지청은 근로기준법과...",
+      "url": "https://www.dailian.co.kr/news/view/1720321/?sc=Naver",
+      "date": "Thu, 26 Nov 2026 22:47:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "세무 조사·혐의 관련",
+      "priority": 100,
       "filter_version": 18
     }
   },
@@ -10517,6 +10511,11 @@
       "url": "https://www.ytn.co.kr/_ln/0103_202611262111512491",
       "title": "노동자 74명에게 11억 원 체불... 업체 대표 구속",
       "date": "Thu, 26 Nov 2026 21:11:00 +0900"
+    },
+    {
+      "url": "https://www.dailian.co.kr/news/view/1720321/?sc=Naver",
+      "title": "납품대금 빼돌려 74명 임금 11억 체불... 대구 車부품업체 대표 구속",
+      "date": "Thu, 26 Nov 2026 22:47:00 +0900"
     }
   ],
   "brief_articles": [
