@@ -1,12 +1,5 @@
 {
   "sent": {
-    "https://www.joongang.co.kr/article/25478114": "2026-11-12T19:02:24.508757+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090680": "2026-11-12T19:02:24.508757+09:00",
-    "http://www.jjn.co.kr/news/articleView.html?idxno=1057168": "2026-11-12T19:02:24.508757+09:00",
-    "https://www.kfenews.co.kr/news/articleView.html?idxno=668031": "2026-11-12T19:02:24.508757+09:00",
-    "https://www.edaily.co.kr/News/Read?newsId=04719926645645064&mediaCodeNo=257": "2026-11-12T19:02:24.508757+09:00",
-    "https://www.yeongnam.com/web/view.php?key=20261112021410516": "2026-11-12T19:02:24.508757+09:00",
-    "https://www.mt.co.kr/stock/2026/11/12/2026111218003954579": "2026-11-12T19:02:24.508757+09:00",
     "https://www.daejonilbo.com/news/articleView.html?idxno=2313392": "2026-11-12T20:02:05.932343+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRlMwUFdnd3F0ZFVUMUltSmxLaTN0RFoyV3NfYkxRU3ZiOTlSNGpPS1RnZ1BwU1ZHZ2xKRWwxU1N0anZWcFlyTlMzcm9FT2tTdE95YkpkeFhhbXpHNUpFMlVUamJyZ09YVkFV?oc=5": "2026-11-12T20:02:05.932343+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698": "2026-11-12T20:02:05.932343+09:00",
@@ -907,16 +900,14 @@
     "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650347.html": "2026-11-26T18:03:07.482161+09:00",
     "https://www.koreareport.co.kr/news/articleView.html?idxno=55197": "2026-11-26T19:06:04.812846+09:00",
     "https://www.newsis.com/view/NISX20261126_0003885282": "2026-11-26T19:06:04.812846+09:00",
-    "https://weekly.hankooki.com/news/articleView.html?idxno=7195960": "2026-11-26T19:06:04.812846+09:00"
+    "https://weekly.hankooki.com/news/articleView.html?idxno=7195960": "2026-11-26T19:06:04.812846+09:00",
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1545114": "2026-11-26T20:08:12.305277+09:00",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00WTAyV0pfV29VeUhaVWdWUXVHYnQ3MjVhYWVYWlJKNUNQZWVNV00yMlBFWlpDdlZSZjV5QTlEWjVEbXRNMDRCTnZWczM1M1RfWDZFZTJYM29FRHA4?oc=5": "2026-11-26T20:08:12.305277+09:00",
+    "https://www.ytn.co.kr/_ln/0103_202611261931396935": "2026-11-26T20:08:12.305277+09:00",
+    "https://www.khan.co.kr/article/202611261910001": "2026-11-26T20:08:12.305277+09:00",
+    "https://www.fnnews.com/news/202611261843337867": "2026-11-26T20:08:12.305277+09:00"
   },
   "titles": {
-    "ee648551efd3030796da912bc3d1073f57dc435e67a8295f5a4b8ebb26dcc086": "2026-11-12T19:02:24.508757+09:00",
-    "ff132320d665e60d8bb98f2bd3bc101809e925976ae6193a62a2f090bb45a730": "2026-11-12T19:02:24.508757+09:00",
-    "c1d249fe3c017c238d682b6d7e7a30a37111a5338088ab8499ea0d1bbcc16a55": "2026-11-12T19:02:24.508757+09:00",
-    "fb0b68177a6a97b95fcf35b4ec115cf8ad9e06d989dce6b268c8b39cbd58794a": "2026-11-12T19:02:24.508757+09:00",
-    "b6909b368ef51405b7993f089f1b2a3f1d0c1837095e2afa204ba5b32fa639ea": "2026-11-12T19:02:24.508757+09:00",
-    "d0537a68e7617b04285197a576b5e54474594de81f20bcfaa266b2abfb4c8811": "2026-11-12T19:02:24.508757+09:00",
-    "2ed9b6d1dd7262845199cd229dc1e3a4b80f76153dd85345246ddd58b02a5d21": "2026-11-12T19:02:24.508757+09:00",
     "d5c1636f377c2353b96eebf1ef2a253ab006095b14f43096e13f9a621fc2b872": "2026-11-12T20:02:05.932343+09:00",
     "aaf5459f9d4ab06ccdf8a522ee5b676610919012291e0f89832929ca987117c1": "2026-11-12T20:02:05.932343+09:00",
     "4427bf1b2f1b48f0cb0c20e9cf4e9d193a336c2601197512dc48589eada8921e": "2026-11-12T20:02:05.932343+09:00",
@@ -1817,7 +1808,12 @@
     "829211a756063b42b1c2de5469d6a81c01a77c07911e6a2d1cd7e93f8eeaecd4": "2026-11-26T18:03:07.482161+09:00",
     "a2a37a427c47bb1ab160298bb88c91db750c44c0f06ec769a2ceeea52304b023": "2026-11-26T19:06:04.812846+09:00",
     "bc0d290d6ca8deb8a8db8f663e227e9db520ac9e44914d9e3a861933209bd2b9": "2026-11-26T19:06:04.812846+09:00",
-    "d0a61de112bd98d903b68c5ff41bf700f54886dc3a572a01a338bfb419f90fb0": "2026-11-26T19:06:04.812846+09:00"
+    "d0a61de112bd98d903b68c5ff41bf700f54886dc3a572a01a338bfb419f90fb0": "2026-11-26T19:06:04.812846+09:00",
+    "e68c31f0ef70fc65b9cd4fd651ca846aa31731e9cfa8a8f55c79a48a5f7ed8e8": "2026-11-26T20:08:12.305277+09:00",
+    "dfc4aef3712080507d73c8b357d63ce531552621aa7d849a0dcbe7c457680ed3": "2026-11-26T20:08:12.305277+09:00",
+    "a2cb83114b4cb0434dc436026c307d99bff19608ce7a87291d273bacc0d3d54d": "2026-11-26T20:08:12.305277+09:00",
+    "610813037bd37559610adbc72d81701f4b1cd833445bf7fc7c3e252c809c9cbc": "2026-11-26T20:08:12.305277+09:00",
+    "bf72413c75a05294bb155e76d27dc644de7abffe4df094e85493603ee06d0093": "2026-11-26T20:08:12.305277+09:00"
   },
   "pending": {},
   "ai": {
@@ -1827,62 +1823,10 @@
     "2026-11-23": 15,
     "2026-11-24": 18,
     "2026-11-25": 12,
-    "2026-11-26": 5
+    "2026-11-26": 6
   },
   "cursor": 0,
   "archive": {
-    "https://www.inthenews.co.kr/news/article.html?no=94959": {
-      "title": "iM뱅크 ‘텐텐통장’ 판매호조…“입출금거래에 국내외 우량주 투자도”",
-      "summary": "인더뉴스 문승현 기자ㅣ iM뱅크 (은행장 강정훈)가 iM증권과 협업해 작년 8월 '우리 아이 10억 만들기'라는 콘셉트 아래 출시한 '텐텐통장'이 꾸준한 판매 증가세를 보이고 있는 것으로 나타났습니다. 텐텐통장은...",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=94959",
-      "date": "Tue, 24 Nov 2026 19:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.dtnews24.com/news/articleView.html?idxno=817598": {
-      "title": "경산시, 내년 예산 1조5277억원 편성···민생·안전 우선 투자",
-      "summary": "18억원, 경북 지역 기반 게임산업 육성 12억원, 외국인투자기업 지원 6억원 등 지역 산업 경쟁력 강화 사업도... 청년월세 지원사업에 100억원을 편성하고, 보훈예우수당 56억원, 자인노인복지관 건립 40억원, 통합돌봄...",
-      "url": "http://www.dtnews24.com/news/articleView.html?idxno=817598",
-      "date": "Tue, 24 Nov 2026 19:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091999": {
-      "title": "대구동구문화재단· 삼보모터스 , 문화예술 활성화 맞손…스웨덴 문화교...",
-      "summary": "대구동구문화재단과 지역 기업 삼보모터스 가 문화예술 교류와 콘텐츠 발굴을 위해 손을 잡았다. 재단은 지난 20일 동구 아양아트센터에서 삼보모터스 와 문화예술 가치 확산 및 전략적 협력을 위한 업무협약을 체결했다고...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091999",
-      "date": "Tue, 24 Nov 2026 19:20:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 삼보모터스",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUs4dkdac0J5NjJHcWoyZjlReE8wV3J2cHhpSDlkNUNIOTFVSXFmZnF3bzAtVlFncFRTNkZBa2Q2VzVCX3Z6RkpXQThkSENKTkNRVTFqbF80SDR0cVIzRU5HSEJjZlZwSEl5X0I5V1RCTUNoZ1NYNzNPMmtMRWdoV05pbmJxWldBLWpoUVBSM1Q?oc=5": {
-      "title": "Posco wraps up acquisition of US shale gas assets - LNG Prime",
-      "summary": "Posco wraps up acquisition of US shale gas assets LNG Prime",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUs4dkdac0J5NjJHcWoyZjlReE8wV3J2cHhpSDlkNUNIOTFVSXFmZnF3bzAtVlFncFRTNkZBa2Q2VzVCX3Z6RkpXQThkSENKTkNRVTFqbF80SDR0cVIzRU5HSEJjZlZwSEl5X0I5V1RCTUNoZ1NYNzNPMmtMRWdoV05pbmJxWldBLWpoUVBSM1Q?oc=5",
-      "date": "Tue, 24 Nov 2026 11:00:07 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 18
-    },
     "https://www.gukjenews.com/news/articleView.html?idxno=3761887": {
       "title": "\"일터에 문화와 여유를 더하다\"…경주 외동산단 복합문화센터 준공",
       "summary": "경북 경주시가 제조업 밀집지역인 외동산업단지에 근로자와 주민을 위한 복합문화센터를 조성하고 내년... 센터는 지난해 7월 착공해 총사업비 71억 원을 투입했으며, 연면적 1,436㎡에 지상 2층 규모로 건립 됐다. (제공...",
@@ -5758,6 +5702,71 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.fnnews.com/news/202611261843337867": {
+      "title": "경찰청 차장에 송영호·부산 경찰청 장에 김병기…고위직 인사 단행",
+      "summary": "경찰청 경비국장이 임명됐다. 경찰청 은 26일 치안정감 2명과 치안감급 6명 등 총 8명에 대한 고위직 인사 를... 박준성 대구경찰청 장 직무대리와 이서영 충남 경찰청 장 직무대리는 치안감으로 승진해 각각 정식 청장으로...",
+      "url": "https://www.fnnews.com/news/202611261843337867",
+      "date": "Thu, 26 Nov 2026 19:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.obsnews.co.kr/news/articleView.html?idxno=1545114": {
+      "title": "송영호 경찰청 차장·김병기 부산 경찰청 장 임명…고위직 인사 단행",
+      "summary": "대변인으로, 김종민 행정안전부 경찰협력관이 경찰청 경비국장으로 자리를 옮겼습니다. 또 박준성 대구경찰청 장 직무대리와 이서영 충남 경찰청 장 직무대리가 각각 정식 청장으로 승진하는 등 후속 보직 인사 도 이뤄졌습니다.",
+      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545114",
+      "date": "Thu, 26 Nov 2026 19:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ytn.co.kr/_ln/0103_202611261931396935": {
+      "title": "경찰청 차장 송영호·부산청장 김병기...경찰 고위직 인사",
+      "summary": "경찰청 은 오늘(26일) 경찰청 장 다음으로 높은, 치안정감과 치안감 보직 인사 를 발표했습니다. 박우현... 박준성 대구경찰청 장 직무대리와 이서영 충남 경찰청 장 직무대리는 각각 정식 청장으로 승진했습니다. 김종민...",
+      "url": "https://www.ytn.co.kr/_ln/0103_202611261931396935",
+      "date": "Thu, 26 Nov 2026 19:31:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.khan.co.kr/article/202611261910001": {
+      "title": "경찰청 차장 송영호·부산청장 김병기…경찰 고위직 보직 인사",
+      "summary": "부산 경찰청 장으로 김병기 경찰청 경비국장이 임명됐다. 경찰청 은 26일 이런 내용의 치안정감 인사 를... 시·도 경찰청 에선 박준성 대구경찰청 장 직무대리와 이서영 충남 경찰청 장 직무대리가 치안감으로 승진하며 정식으로...",
+      "url": "https://www.khan.co.kr/article/202611261910001",
+      "date": "Thu, 26 Nov 2026 19:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00WTAyV0pfV29VeUhaVWdWUXVHYnQ3MjVhYWVYWlJKNUNQZWVNV00yMlBFWlpDdlZSZjV5QTlEWjVEbXRNMDRCTnZWczM1M1RfWDZFZTJYM29FRHA4?oc=5": {
+      "title": "경북 교육공무직원 759명 파업 참여 예상…220개교 영향 - 뉴스핌",
+      "summary": "경북 교육공무직원 759명 파업 참여 예상…220개교 영향 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00WTAyV0pfV29VeUhaVWdWUXVHYnQ3MjVhYWVYWlJKNUNQZWVNV00yMlBFWlpDdlZSZjV5QTlEWjVEbXRNMDRCTnZWczM1M1RfWDZFZTJYM29FRHA4?oc=5",
+      "date": "Thu, 26 Nov 2026 10:50:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5779,21 +5788,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-26",
   "sent_articles": [
-    {
-      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2313392",
-      "title": "'정치 자금 부정 지출 의혹' 홍준표 대선 캠프 관계자 등 6명 기소",
-      "date": "Thu, 12 Nov 2026 19:47:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRlMwUFdnd3F0ZFVUMUltSmxLaTN0RFoyV3NfYkxRU3ZiOTlSNGpPS1RnZ1BwU1ZHZ2xKRWwxU1N0anZWcFlyTlMzcm9FT2tTdE95YkpkeFhhbXpHNUpFMlVUamJyZ09YVkFV?oc=5",
-      "title": "포스코, ‘광양 제2 LNG터미널’ 종합준공… 동북아 에너지 허브 도약 - 광양경제신문",
-      "date": "Thu, 12 Nov 2026 10:39:07 GMT"
-    },
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698",
-      "title": "AI바이오·메디시티 대구 협의회, 16일 중국 시안 방문…의료 수출 타진",
-      "date": "Thu, 12 Nov 2026 19:16:00 +0900"
-    },
     {
       "url": "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m",
       "title": "경산시 공장 서 화재 …소방 당국, 진화 중",
@@ -10283,6 +10277,31 @@
       "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195960",
       "title": "포스코 그룹, AI·철강·건설 역량 모아 화재 예방 ' 포스코 쉴드' 구축",
       "date": "Thu, 26 Nov 2026 18:30:00 +0900"
+    },
+    {
+      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545114",
+      "title": "송영호 경찰청 차장·김병기 부산 경찰청 장 임명…고위직 인사 단행",
+      "date": "Thu, 26 Nov 2026 19:54:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00WTAyV0pfV29VeUhaVWdWUXVHYnQ3MjVhYWVYWlJKNUNQZWVNV00yMlBFWlpDdlZSZjV5QTlEWjVEbXRNMDRCTnZWczM1M1RfWDZFZTJYM29FRHA4?oc=5",
+      "title": "경북 교육공무직원 759명 파업 참여 예상…220개교 영향 - 뉴스핌",
+      "date": "Thu, 26 Nov 2026 10:50:00 GMT"
+    },
+    {
+      "url": "https://www.ytn.co.kr/_ln/0103_202611261931396935",
+      "title": "경찰청 차장 송영호·부산청장 김병기...경찰 고위직 인사",
+      "date": "Thu, 26 Nov 2026 19:31:00 +0900"
+    },
+    {
+      "url": "https://www.khan.co.kr/article/202611261910001",
+      "title": "경찰청 차장 송영호·부산청장 김병기…경찰 고위직 보직 인사",
+      "date": "Thu, 26 Nov 2026 19:10:00 +0900"
+    },
+    {
+      "url": "https://www.fnnews.com/news/202611261843337867",
+      "title": "경찰청 차장에 송영호·부산 경찰청 장에 김병기…고위직 인사 단행",
+      "date": "Thu, 26 Nov 2026 19:06:00 +0900"
     }
   ],
   "brief_articles": [
@@ -10324,7 +10343,7 @@
     "2026-11-23": 11,
     "2026-11-24": 11,
     "2026-11-25": 8,
-    "2026-11-26": 3
+    "2026-11-26": 4
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
