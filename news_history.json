@@ -1833,7 +1833,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 15,
@@ -1843,136 +1842,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.webeconomy.co.kr/news/articleView.html?idxno=2389099": {
-      "title": "[은행] 새마을금고중앙회, 조직문화 개선… iM뱅크 , 지역기업 지원·계열...",
-      "summary": "iM뱅크 는 포항상공회의소와 함께 2027년 경제전망 및 지역산업 대응 전략을 논의하는 CEO포럼을 개최했으며, iM증권과 연계한 금융상품 '텐텐통장'의 계좌 수와 잔액도 각각 약 3배, 5.2배로 증가했다. 새마을금고중앙회...",
-      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2389099",
-      "date": "Wed, 25 Nov 2026 07:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ajunews.com/view/20261125005404762": {
-      "title": "경주 외동산단 복합문화센터 준공…근로자·주민 생활복지 거점 조성",
-      "summary": "71억원 투입해 지상 2층·연면적 1436㎡ 규모 건립 …내년 1월 개방 북카페·세탁소·체력단련실·회의실 갖춰... [사진=경주시] 경북 경주 제조업 중심지인 외동산업단지에 근로자와 주민이 함께 이용할 복합문화센터가...",
-      "url": "https://www.ajunews.com/view/20261125005404762",
-      "date": "Wed, 25 Nov 2026 05:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288073&CMPT_CD=P0010": {
-      "title": "대구 시, 제2 대구 의료원 건립 중장기 과제로... 정당·시민단체 반발",
-      "summary": "ⓒ 대구 의료원 추경호 대구 시장이 지난 6.3 지방선거에서 공약한 제2 대구 의료원 건립 사업을 대구 시가 재정 부담을 이유로 중장기 과제로 전환하기로 하면서 지역 정당과 시민단체가 반발하고 나섰다. 대구 시는 최근...",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288073&CMPT_CD=P0010",
-      "date": "Wed, 25 Nov 2026 01:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.etoday.co.kr/news/view/2652502": {
-      "title": "[전날 주요공시] 에코프로 비엠·HD현대·다올투자증권 등",
-      "summary": "이투데이=김범근 기자 | △ 에코프로 비엠, 종속회사 에코프로 글로벌 주식 6222억원 규모 추가 취득 △ 다올투자증권, 계열사 다올저축은행 주식 222억원 규모 추가 취득 △ HD현대, 최고경영진 자사주 매입 잇따라...",
-      "url": "https://www.etoday.co.kr/news/view/2652502",
-      "date": "Wed, 25 Nov 2026 07:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsway.co.kr/news/view?ud=2026112417454488651": {
-      "title": "유상증자 실탄 푸는 에코프로 비엠…인니 니켈 투자 가속",
-      "summary": "에코프로 비엠이 유상증자로 확보한 실탄을 바탕으로 인도네시아 니켈 제련소 투자에 속도를 낸다. 전기차 캐즘(일시적 수요 정체)과 중국 기업들의 시장 공세가 이어지는 가운데 원재료 공급망을 강화해 가격 경쟁력을...",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026112417454488651",
-      "date": "Wed, 25 Nov 2026 07:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125031005?wlog_tag3=naver": {
-      "title": "차기 회장 선임 앞두고 임원 인사… 경영 혼란 키우는 포스코",
-      "summary": "앞서 포스코그룹은 최정우 전 회장의 임기 만료를 앞둔 2023년 12월 정기 임원 인사를 단행한 뒤 이듬해 장 회장이 차기 회장에 오르면서 그해 2월 주요 계열사 사장단 인사, 4월 포스코홀딩스 조직개편 및 임원 인사를...",
-      "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125031005?wlog_tag3=naver",
-      "date": "Wed, 25 Nov 2026 05:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9jR3ZKYVVheDBuaTFwYUdTcC16RjhHX2dLM0Y1MmFOM3lYZEFMN2FYemNSV004MGJyTFNsd09aeEZtTWlwR0s2V2ZnTnM2WUoyQVlYMjNEM1UweVI1ZFBlZGhqWllTN0todzhWR05WX2xtUQ?oc=5": {
-      "title": "[은행] 새마을금고중앙회, 조직문화 개선…iM뱅크, 지역기업 지원·계열사 협업 확대 - 웹이코노미",
-      "summary": "[은행] 새마을금고중앙회, 조직문화 개선…iM뱅크, 지역기업 지원·계열사 협업 확대 웹이코노미",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jR3ZKYVVheDBuaTFwYUdTcC16RjhHX2dLM0Y1MmFOM3lYZEFMN2FYemNSV004MGJyTFNsd09aeEZtTWlwR0s2V2ZnTnM2WUoyQVlYMjNEM1UweVI1ZFBlZGhqWllTN0todzhWR05WX2xtUQ?oc=5",
-      "date": "Tue, 24 Nov 2026 22:29:20 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNM0h6clByeGtoYTROZFd1X1VWYUFCWXRQakNZZzI1dEhTNXAzcWdPdHZIREYwd0k2cXZaV0wyR01TTEJRd25fQVFtU0Z0Zw?oc=5": {
-      "title": "포항시·경북도·한화호텔앤드리조트㈜·포항하나원㈜ 투자양해각서(MOU) 체결 - GBN 경북방송",
-      "summary": "포항시·경북도·한화호텔앤드리조트㈜·포항하나원㈜ 투자양해각서(MOU) 체결 GBN 경북방송",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNM0h6clByeGtoYTROZFd1X1VWYUFCWXRQakNZZzI1dEhTNXAzcWdPdHZIREYwd0k2cXZaV0wyR01TTEJRd25fQVFtU0Z0Zw?oc=5",
-      "date": "Tue, 24 Nov 2026 14:42:46 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUllbGRyMFd2bWV4WUQtcEZ5d0d0VUhQZ25KbjZNN3FrNG05ekoyX2R3QUVvaGNFaTJlNkdXVWVEV1dfRzA5NlJCRjMxLTBfMlVaQ3pwc2hjWDdlMkp3N1JkeGsyT0h0dkpxYkY3cDVFUUtzNGtmSHNSTF9uVzJTRllJc242VDFDcHdSTw?oc=5": {
-      "title": "성주군, 수출시장 다변화 발판 마련…동남아 중심에서 호주까지 파견지역 확대 - 데일리대구경북뉴스",
-      "summary": "성주군, 수출시장 다변화 발판 마련…동남아 중심에서 호주까지 파견지역 확대 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUllbGRyMFd2bWV4WUQtcEZ5d0d0VUhQZ25KbjZNN3FrNG05ekoyX2R3QUVvaGNFaTJlNkdXVWVEV1dfRzA5NlJCRjMxLTBfMlVaQ3pwc2hjWDdlMkp3N1JkeGsyT0h0dkpxYkY3cDVFUUtzNGtmSHNSTF9uVzJTRllJc242VDFDcHdSTw?oc=5",
-      "date": "Tue, 24 Nov 2026 16:30:32 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Z2k0TThUS2pNcTNWblRFWm5YcnRkR2FNNm9rN2s5X0tNN1dXbXlUYk1pdmsyaDg4NEpaZEZESm4wMnM1Y1JiQ2RvQzRpVE9WNWZEakstdkVkaUU4WGc?oc=5": {
-      "title": "구미시-구미전자정보기술원, 구미국가산업단지 8개사에 스마트 안전솔루션 보급 - 구미일보",
-      "summary": "구미시-구미전자정보기술원, 구미국가산업단지 8개사에 스마트 안전솔루션 보급 구미일보",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Z2k0TThUS2pNcTNWblRFWm5YcnRkR2FNNm9rN2s5X0tNN1dXbXlUYk1pdmsyaDg4NEpaZEZESm4wMnM1Y1JiQ2RvQzRpVE9WNWZEakstdkVkaUU4WGc?oc=5",
-      "date": "Tue, 24 Nov 2026 14:28:28 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSXZwQVBQeFc2aGotbHpBUnJBV3hfYnJ4YjZKT2duVExhV2lNQzdYTU5UWkRZNy02eTVqNlgwNDdTMy1TMlVMT0daUFluaTREZng0?oc=5": {
       "title": "경상북도, K-푸드. 뷰티 `베트남 달랏서 수출상담 224만 달러 계약` - CBN뉴스",
       "summary": "경상북도, K-푸드. 뷰티 `베트남 달랏서 수출상담 224만 달러 계약` CBN뉴스",
@@ -5926,26 +5795,164 @@
       "category": "세무 조사·혐의 관련",
       "priority": 100,
       "filter_version": 18
+    },
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650454.html": {
+      "title": "iM 뱅크 , 한국부동산원 주거래은행 맡아 3년간 자금관리 지원",
+      "summary": "iM뱅크( 아이엠뱅크 ·은행장 강정훈)와 한국부동산원(원장 이헌욱)은 주거래은행 업무협약을 체결하고 금융거래 안정화와 ESG 경영 실천을 위한 협력에 나선다고 밝혔다. 협약은 지난 24일 한국부동산원 본사에서 이뤄졌다....",
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650454.html",
+      "date": "Thu, 26 Nov 2026 23:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크",
+      "category": "관심기업 동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.youngnong.co.kr/news/articleView.html?idxno=72075": {
+      "title": "경북 포도, 수출 1억 달러 시대 열었다… 전국 수출액의 80.5% 차지",
+      "summary": "표준 거래 계약서에 자율 서명했다. 공동결의를 통해 안정적인 농산물 공급과 거래 기반을 마련하고... 생과와 가공 제품을 선보이며 현지 소비자와 바이어를 대상으로 경북 포도의 경쟁력을 알렸다. 경북 도는 이번 수출...",
+      "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=72075",
+      "date": "Fri, 27 Nov 2026 00:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261127013400053?input=1195m": {
+      "title": "포항 자동차필름·광택시공 업체 화재 …5천만원 재산 피해",
+      "summary": "27일 오전 3시 8분께 경북 포항시 남구 오천읍 자동차 필름·광택 시공업체에서 불이 났다. 소방 당국은... 소방 당국은 난로 취급 부주의로 인해 불이 시작된 것으로 보고 정확한 화재 원인을 조사 중이다.",
+      "url": "https://www.yna.co.kr/view/AKR20261127013400053?input=1195m",
+      "date": "Fri, 27 Nov 2026 07:35:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.seoul.co.kr/news/peoples/movement/2026/11/27/20261127023001?wlog_tag3=naver": {
+      "title": "[ 인사 ]",
+      "summary": "■ 경찰청 ◇치안정감 △ 경찰청 차장 송영호△부산 경찰청 장 김병기 ◇치안감△ 경찰청 대변인 박우현△ 경찰청 경비국장 김종민△ 대구경찰청 장 박준성△충남 경찰청 장 이서영 ◇치안감 내정△ 경찰청 치안정보국장 직무대리...",
+      "url": "https://www.seoul.co.kr/news/peoples/movement/2026/11/27/20261127023001?wlog_tag3=naver",
+      "date": "Fri, 27 Nov 2026 05:04:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.donga.com/news/People/article/all/20261127/135099474/2": {
+      "title": "[ 인사 ] 경찰청 外",
+      "summary": "◇ 경찰청 〈승진〉 ▽치안정감 △본청 차장 송영호 △부산 경찰청 장 김병기 ▽치안감 △본청 대변인 박우현 △본청 경비국장 김종민 △ 대구경찰청 장 박준성 △충남〃 이서영 〈승진 내정〉 ▽치안감 △본청 치안정보국장...",
+      "url": "https://www.donga.com/news/People/article/all/20261127/135099474/2",
+      "date": "Fri, 27 Nov 2026 04:35:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=731535": {
+      "title": "[ 대동 USA 보안 쇼크②] \"소장 근거 부족\"vs\"사생활 침해\"… 美 소송서 공...",
+      "summary": "대동 의 미국 자회사 대동 USA(Daedong-USA)가 개인정보 유출 사고로 현지 직원들과 집단소송에 휘말렸다. 원고들은 개인정보 관리 부실과 다크웹 게시 의혹을 제기했지만, 대동 USA는 법적 책임을 부인하며 맞섰다. 양측은...",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731535",
+      "date": "Fri, 27 Nov 2026 06:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=602488": {
+      "title": "[칼럼] 포스코 , 외풍 끊고 철강 위기 넘을 적임자는",
+      "summary": "오는 12월, 포스코 홀딩스 회장후보추천위원회(회추위)가 가동된다. 내년 3월 임기가 만료되는 장인화 회장의 후임 인선 절차가 본격화하는 것이다. 포스코 홀딩스 규정에 따라 현직 회장의 연임 의사와 무관하게 임기 만료...",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602488",
+      "date": "Fri, 27 Nov 2026 08:00:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.polinews.co.kr/news/articleView.html?idxno=749377": {
+      "title": "포스코 1%나눔재단, 산불 취약지역 안전망 구축… 포항 등 4개 지역에 '포...",
+      "summary": "포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 활용해 산불 취약지역의 초기 대응체계 구축에 나섰다. 산불 감지 시스템과 진화장비를 보급하고 노후 마을회관을 안전 대피시설로...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749377",
+      "date": "Fri, 27 Nov 2026 00:08:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.cstimes.com/news/articleView.html?idxno=729654": {
+      "title": "한수원, 대규모 청정수소 기술 논의·분산형 연료전지 준공 기념 기부",
+      "summary": "□ 대규모 청정수소 기술 활성화 방안 모색 컨슈머타임스=안성렬 기자 | 한국수력원자력 (한수원)이 한국수소및신에너지학회 수소실증기술부문위원회와 공동 주관 세션을 열고 탄소중립 수소융합 에너지허브와 광역...",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=729654",
+      "date": "Fri, 27 Nov 2026 03:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdFZ3alBjWUkxcmdXSzBleTVYV2o2bk5ld2lRQkhLcnZTbFg5ZzA3Mm5PZnM4ZnplZFZtYU5ZdEhaV09mWG5PVTVWaUhLV1U?oc=5": {
+      "title": "27일 대구 학교비정규직 노동자 파업 나선다···“임금 인상, 교육 재정 확보” 요구 - 뉴스민",
+      "summary": "27일 대구 학교비정규직 노동자 파업 나선다···“임금 인상, 교육 재정 확보” 요구 뉴스민",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdFZ3alBjWUkxcmdXSzBleTVYV2o2bk5ld2lRQkhLcnZTbFg5ZzA3Mm5PZnM4ZnplZFZtYU5ZdEhaV09mWG5PVTVWaUhLV1U?oc=5",
+      "date": "Thu, 26 Nov 2026 15:37:26 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzNNNFF6ZFdZamVvNWdBOF9NTzFSU0FmMTFaUGFrRjdNSGo3d2lMVTJ5a1M4b2lvNmJXWmZJMEpnbDRsbGdpVFU1ek5qbkliQmtQcGdadHNreUMzSnFWSGdTRXgybXMwS0U0YjNyLTlrRmxqWFNaUzFqV05iQ25uRw?oc=5": "2026-11-26T08:10:04.641977+09:00",
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=887126": "2026-11-26T08:10:04.641977+09:00",
-    "https://biz.heraldcorp.com/article/10949624?ref=naver": "2026-11-26T08:10:04.641977+09:00",
-    "https://www.kpinews.kr/newsView/1065563280841515": "2026-11-26T08:10:04.641977+09:00",
-    "https://www.apnews.kr/news/articleView.html?idxno=3053581": "2026-11-26T08:10:04.641977+09:00",
-    "https://www.gukjenews.com/news/articleView.html?idxno=3763386": "2026-11-26T08:10:04.641977+09:00"
+    "https://www.yna.co.kr/view/AKR20261127013400053?input=1195m": "2026-11-27T08:09:53.140807+09:00",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=749377": "2026-11-27T08:09:53.140807+09:00",
+    "https://www.autodaily.co.kr/news/articleView.html?idxno=602488": "2026-11-27T08:09:53.140807+09:00",
+    "http://www.the-biz.co.kr/news/articleView.html?idxno=731535": "2026-11-27T08:09:53.140807+09:00",
+    "https://www.seoul.co.kr/news/peoples/movement/2026/11/27/20261127023001?wlog_tag3=naver": "2026-11-27T08:09:53.140807+09:00",
+    "https://www.donga.com/news/People/article/all/20261127/135099474/2": "2026-11-27T08:09:53.140807+09:00",
+    "https://www.cstimes.com/news/articleView.html?idxno=729654": "2026-11-27T08:09:53.140807+09:00",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdFZ3alBjWUkxcmdXSzBleTVYV2o2bk5ld2lRQkhLcnZTbFg5ZzA3Mm5PZnM4ZnplZFZtYU5ZdEhaV09mWG5PVTVWaUhLV1U?oc=5": "2026-11-27T08:09:53.140807+09:00",
+    "https://www.youngnong.co.kr/news/articleView.html?idxno=72075": "2026-11-27T08:09:53.140807+09:00",
+    "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650454.html": "2026-11-27T08:09:53.140807+09:00"
   },
   "brief_titles": {
-    "a72993c5084bf83630389503d46e6317cf27b4ace793f24c29ddbd7629ae7d54": "2026-11-26T08:10:04.641977+09:00",
-    "ba14fdb879fdb3d9101d3a2b55d399a8b21ffa8abfeb7e940b6f16ddbb2e9a5c": "2026-11-26T08:10:04.641977+09:00",
-    "f567a0c622388ebd6d6b32c86a3594dbc19635378f1303e1344d2d55ac1e758a": "2026-11-26T08:10:04.641977+09:00",
-    "c2f4e8e2d1e03348137dc4b1a89cd3e6d5115bf94e5d380e09da7d5ca45e7c1a": "2026-11-26T08:10:04.641977+09:00",
-    "d72830e9b0cfe402732943582ba596a4face611fd7b2256ee1622ce1699d1543": "2026-11-26T08:10:04.641977+09:00",
-    "a4ae74bd0356b1f4727376cf9ffca006a48eb3f50f73dadf85ebdabe1fbaee3a": "2026-11-26T08:10:04.641977+09:00"
+    "e4767ac5c6093db7c7744bb8dbfbf1076b07e8f25511c4b4fa1d2f42d7553e46": "2026-11-27T08:09:53.140807+09:00",
+    "fe9f83696b387d4fe0d95dde28ce2c6b2dbb376f314be8b92c39768a372a61a1": "2026-11-27T08:09:53.140807+09:00",
+    "49a40d356e19d91dd3f65a423815696c697e63568ea9342ae75649cab1f02de0": "2026-11-27T08:09:53.140807+09:00",
+    "fe103d5d9fdb0a3a984e8043be2fcb583d621b193bb7544034f5aece965463e7": "2026-11-27T08:09:53.140807+09:00",
+    "0bfee88947fe7f7fb677998d09932ff4ea9bd6926c7eea4d07cfe011f0ef2c92": "2026-11-27T08:09:53.140807+09:00",
+    "6f1afc9a37a36982f03ac63db634e4ac0602ebacded1b3690bb325e615aa1c73": "2026-11-27T08:09:53.140807+09:00",
+    "0cfdeb64d54bf4b3afa433d40d79d75481820ba8d43a16540a37ec097fe64d1f": "2026-11-27T08:09:53.140807+09:00",
+    "919302b11f637311d41b808ed05bcaabad97242f0506616f23c32b7373e904cc": "2026-11-27T08:09:53.140807+09:00",
+    "fc2f1b8594bacab746b914e741794860f12c8540da3179ff9f8e84b0af1631dd": "2026-11-27T08:09:53.140807+09:00",
+    "efc0552c4ef4f00af1758c7bece32f545d1a2b81ee129d0636eb963e740bcaba": "2026-11-27T08:09:53.140807+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-26",
+  "brief_date": "2026-11-27",
   "sent_articles": [
     {
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KcTNNU09BbDZzeWNqc1lHakpDdFJxc0duc3U5VGpza29VbnVMWmRKb2hXYWZJN2oyQ1hiWWpoVmxGRDZ0VTJuSlBrXzZqbkVmTHZfOUNLazZvUQ?oc=5",
@@ -10520,38 +10527,57 @@
   ],
   "brief_articles": [
     {
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzNNNFF6ZFdZamVvNWdBOF9NTzFSU0FmMTFaUGFrRjdNSGo3d2lMVTJ5a1M4b2lvNmJXWmZJMEpnbDRsbGdpVFU1ek5qbkliQmtQcGdadHNreUMzSnFWSGdTRXgybXMwS0U0YjNyLTlrRmxqWFNaUzFqV05iQ25uRw?oc=5",
-      "title": "경북문화재단 콘텐츠진흥원, 경북 콘텐츠 기업 “국내는 좁다! 해외 공략” - CBN뉴스",
-      "date": "Wed, 25 Nov 2026 22:40:52 GMT"
+      "url": "https://www.yna.co.kr/view/AKR20261127013400053?input=1195m",
+      "title": "포항 자동차필름·광택시공 업체 화재 …5천만원 재산 피해",
+      "date": "Fri, 27 Nov 2026 07:35:00 +0900"
     },
     {
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887126",
-      "title": "영업익률 10%→3% 추락…이충곤 에스엘 , 램프 부진 직격탄",
-      "date": "Thu, 26 Nov 2026 06:00:00 +0900"
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749377",
+      "title": "포스코 1%나눔재단, 산불 취약지역 안전망 구축… 포항 등 4개 지역에 '포...",
+      "date": "Fri, 27 Nov 2026 00:08:00 +0900"
     },
     {
-      "url": "https://biz.heraldcorp.com/article/10949624?ref=naver",
-      "title": "iM뱅크 , 한국부동산원 주거래은행 업무협약 체결",
-      "date": "Thu, 26 Nov 2026 07:51:00 +0900"
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602488",
+      "title": "[칼럼] 포스코 , 외풍 끊고 철강 위기 넘을 적임자는",
+      "date": "Fri, 27 Nov 2026 08:00:00 +0900"
     },
     {
-      "url": "https://www.kpinews.kr/newsView/1065563280841515",
-      "title": "포스코 , 인도 타밀나두에 360억 투자·철강 가공 시설 설립 계획",
-      "date": "Thu, 26 Nov 2026 06:57:00 +0900"
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731535",
+      "title": "[ 대동 USA 보안 쇼크②] \"소장 근거 부족\"vs\"사생활 침해\"… 美 소송서 공...",
+      "date": "Fri, 27 Nov 2026 06:00:00 +0900"
     },
     {
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3053581",
-      "title": "현대엔지니어링, 두 달 새 용인·호남서 2.3조 발전사업 수주",
-      "date": "Thu, 26 Nov 2026 00:28:00 +0900"
+      "url": "https://www.seoul.co.kr/news/peoples/movement/2026/11/27/20261127023001?wlog_tag3=naver",
+      "title": "[ 인사 ]",
+      "date": "Fri, 27 Nov 2026 05:04:00 +0900"
     },
     {
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763386",
-      "title": "한국부동산원· 아이엠뱅크 , 주거래은행 협약…3년간 금융서비스 제공",
-      "date": "Thu, 26 Nov 2026 00:18:00 +0900"
+      "url": "https://www.donga.com/news/People/article/all/20261127/135099474/2",
+      "title": "[ 인사 ] 경찰청 外",
+      "date": "Fri, 27 Nov 2026 04:35:00 +0900"
+    },
+    {
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=729654",
+      "title": "한수원, 대규모 청정수소 기술 논의·분산형 연료전지 준공 기념 기부",
+      "date": "Fri, 27 Nov 2026 03:06:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdFZ3alBjWUkxcmdXSzBleTVYV2o2bk5ld2lRQkhLcnZTbFg5ZzA3Mm5PZnM4ZnplZFZtYU5ZdEhaV09mWG5PVTVWaUhLV1U?oc=5",
+      "title": "27일 대구 학교비정규직 노동자 파업 나선다···“임금 인상, 교육 재정 확보” 요구 - 뉴스민",
+      "date": "Thu, 26 Nov 2026 15:37:26 GMT"
+    },
+    {
+      "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=72075",
+      "title": "경북 포도, 수출 1억 달러 시대 열었다… 전국 수출액의 80.5% 차지",
+      "date": "Fri, 27 Nov 2026 00:36:00 +0900"
+    },
+    {
+      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650454.html",
+      "title": "iM 뱅크 , 한국부동산원 주거래은행 맡아 3년간 자금관리 지원",
+      "date": "Thu, 26 Nov 2026 23:16:00 +0900"
     }
   ],
   "gemini_ai": {
-    "2026-11-19": 6,
     "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 11,
