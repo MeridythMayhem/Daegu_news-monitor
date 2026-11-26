@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://www.daejonilbo.com/news/articleView.html?idxno=2313392": "2026-11-12T20:02:05.932343+09:00",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxRlMwUFdnd3F0ZFVUMUltSmxLaTN0RFoyV3NfYkxRU3ZiOTlSNGpPS1RnZ1BwU1ZHZ2xKRWwxU1N0anZWcFlyTlMzcm9FT2tTdE95YkpkeFhhbXpHNUpFMlVUamJyZ09YVkFV?oc=5": "2026-11-12T20:02:05.932343+09:00",
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090698": "2026-11-12T20:02:05.932343+09:00",
     "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m": "2026-11-12T21:02:27.440071+09:00",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5": "2026-11-12T21:02:27.440071+09:00",
     "https://www.mt.co.kr/society/2026/11/12/2026111221102797955": "2026-11-12T22:01:55.678387+09:00",
@@ -905,12 +902,15 @@
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00WTAyV0pfV29VeUhaVWdWUXVHYnQ3MjVhYWVYWlJKNUNQZWVNV00yMlBFWlpDdlZSZjV5QTlEWjVEbXRNMDRCTnZWczM1M1RfWDZFZTJYM29FRHA4?oc=5": "2026-11-26T20:08:12.305277+09:00",
     "https://www.ytn.co.kr/_ln/0103_202611261931396935": "2026-11-26T20:08:12.305277+09:00",
     "https://www.khan.co.kr/article/202611261910001": "2026-11-26T20:08:12.305277+09:00",
-    "https://www.fnnews.com/news/202611261843337867": "2026-11-26T20:08:12.305277+09:00"
+    "https://www.fnnews.com/news/202611261843337867": "2026-11-26T20:08:12.305277+09:00",
+    "https://www.goodmorningcc.com/news/articleView.html?idxno=456590": "2026-11-26T21:09:05.486864+09:00",
+    "https://www.vegannews.co.kr/news/article.html?no=411731": "2026-11-26T21:09:05.486864+09:00",
+    "https://biz.heraldcorp.com/article/10950984?ref=naver": "2026-11-26T21:09:05.486864+09:00",
+    "https://www.ksmnews.co.kr/news/view.php?idx=631320": "2026-11-26T21:09:05.486864+09:00",
+    "https://www.news1.kr/economy/employment-labor/6367720": "2026-11-26T21:09:05.486864+09:00",
+    "https://www.newsis.com/view/NISX20261126_0003885324": "2026-11-26T21:09:05.486864+09:00"
   },
   "titles": {
-    "d5c1636f377c2353b96eebf1ef2a253ab006095b14f43096e13f9a621fc2b872": "2026-11-12T20:02:05.932343+09:00",
-    "aaf5459f9d4ab06ccdf8a522ee5b676610919012291e0f89832929ca987117c1": "2026-11-12T20:02:05.932343+09:00",
-    "4427bf1b2f1b48f0cb0c20e9cf4e9d193a336c2601197512dc48589eada8921e": "2026-11-12T20:02:05.932343+09:00",
     "bd502d13acd8313f83ad07608f628b2e2241b2ff69fd5631a37369ac173faaac": "2026-11-12T21:02:27.440071+09:00",
     "408246a77c8a5fea97492d68a96208dfc5884841ad08f15bf099131e145bfcb9": "2026-11-12T21:02:27.440071+09:00",
     "5fee38bd24d3249ad0e093cafd0d78d43721765b07fca1a4afe7c06d8239e000": "2026-11-12T22:01:55.678387+09:00",
@@ -1813,7 +1813,13 @@
     "dfc4aef3712080507d73c8b357d63ce531552621aa7d849a0dcbe7c457680ed3": "2026-11-26T20:08:12.305277+09:00",
     "a2cb83114b4cb0434dc436026c307d99bff19608ce7a87291d273bacc0d3d54d": "2026-11-26T20:08:12.305277+09:00",
     "610813037bd37559610adbc72d81701f4b1cd833445bf7fc7c3e252c809c9cbc": "2026-11-26T20:08:12.305277+09:00",
-    "bf72413c75a05294bb155e76d27dc644de7abffe4df094e85493603ee06d0093": "2026-11-26T20:08:12.305277+09:00"
+    "bf72413c75a05294bb155e76d27dc644de7abffe4df094e85493603ee06d0093": "2026-11-26T20:08:12.305277+09:00",
+    "0b37f005bec181b6b21866f616696be825b0d8f53f91b5ea9ff36bd4ddb36111": "2026-11-26T21:09:05.486864+09:00",
+    "d5c4f5ecd525b58b675aa365d0ee22d65e609644be5218ebce10b9e1665edaf9": "2026-11-26T21:09:05.486864+09:00",
+    "2df56c90548c46504a36d202bc1a56358d3ebd4da06732ffc6868b2b11e993b5": "2026-11-26T21:09:05.486864+09:00",
+    "1dfd3a7d6a7cfa835767bf7d26427288bd65119d9add3aa05070a9012d8d47e0": "2026-11-26T21:09:05.486864+09:00",
+    "4a149ff0e0069bec41cf0aa271be2375a6d04cc0bc2d2fe157b2a65461fafc09": "2026-11-26T21:09:05.486864+09:00",
+    "00458a3a523e02aef625413e0a86acbad42fc879b92e61e6fc44791ef44431fc": "2026-11-26T21:09:05.486864+09:00"
   },
   "pending": {},
   "ai": {
@@ -1823,36 +1829,10 @@
     "2026-11-23": 15,
     "2026-11-24": 18,
     "2026-11-25": 12,
-    "2026-11-26": 6
+    "2026-11-26": 7
   },
   "cursor": 0,
   "archive": {
-    "https://www.gukjenews.com/news/articleView.html?idxno=3761887": {
-      "title": "\"일터에 문화와 여유를 더하다\"…경주 외동산단 복합문화센터 준공",
-      "summary": "경북 경주시가 제조업 밀집지역인 외동산업단지에 근로자와 주민을 위한 복합문화센터를 조성하고 내년... 센터는 지난해 7월 착공해 총사업비 71억 원을 투입했으며, 연면적 1,436㎡에 지상 2층 규모로 건립 됐다. (제공...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3761887",
-      "date": "Tue, 24 Nov 2026 20:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzV2bkRxalJlNnlDNjNUQnFKbXBpcm4wWk90MFM1OEIyVWR5X1FUTVcwMVZVdGRsSGdGanJfcXl2bTNnOVR0OFdBRGN6aTZYWmswZlJqaFNQN0RERGN6VzRpSF9fdU5wbmVTTmQ3SFBuUTB2dEhoYjdiQmx1ZFRvNkV4U0p6T1NnSVh6Wlk3XzdCaUhxdUZtRGdxOA?oc=5": {
-      "title": "Posco completes $550 million US shale gas acquisition - Quantum Commodity Intelligence",
-      "summary": "Posco completes $550 million US shale gas acquisition Quantum Commodity Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzV2bkRxalJlNnlDNjNUQnFKbXBpcm4wWk90MFM1OEIyVWR5X1FUTVcwMVZVdGRsSGdGanJfcXl2bTNnOVR0OFdBRGN6aTZYWmswZlJqaFNQN0RERGN6VzRpSF9fdU5wbmVTTmQ3SFBuUTB2dEhoYjdiQmx1ZFRvNkV4U0p6T1NnSVh6Wlk3XzdCaUhxdUZtRGdxOA?oc=5",
-      "date": "Tue, 24 Nov 2026 11:35:49 GMT",
-      "channels": [
-        "global"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "해외기업 동향",
-      "priority": 50,
-      "filter_version": 18
-    },
     "https://biz.heraldcorp.com/article/10948057?ref=naver": {
       "title": "경주 외동산단 복합문화센터 준공…내년 1월 개방",
       "summary": "경북 경주 외동산업단지에 근로자와 지역 주민이 함께 이용할 수 있는 복합문화센터가 들어섰다. 경주시는... 지난해 7월 착공한 복합문화센터는 총사업비 71억원을 투입해 연면적 1436㎡, 지상 2층 규모로 건립 됐다....",
@@ -5767,6 +5747,97 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=631200": {
+      "title": "대구동구문화재단·삼보모터스(주), 지역 문화예술 가치 확산 맞손",
+      "summary": "업무협약( MOU )을 체결했다고 밝혔다. 이번 협약에 따라 양 기관은 △문화예술 분야 교류 협력 △교류 사업... 특히 이 대표는 주한 스웨덴 대사관으로부터 임명받은 ‘대구· 경북 스웨덴 명예영사’로서 민간 외교관 역할도...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=631200",
+      "date": "Thu, 26 Nov 2026 20:44:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 삼보모터스",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://biz.heraldcorp.com/article/10950984?ref=naver": {
+      "title": "노동자 74명 임금 11억 떼먹고 납품대금은 개인 빚 갚는 데…제조업체 ...",
+      "summary": "고용노동부 대구 서부지청은 26일 근로기준법 및 근로자퇴직급여 보장법 위반 혐의로 대구 달성군 소재 자동차 부품 제조업체 대표 A씨를 구속 했다고 밝혔다. A씨는 자동차 부품 제조업체를 운영하면서 노동자 74명의...",
+      "url": "https://biz.heraldcorp.com/article/10950984?ref=naver",
+      "date": "Thu, 26 Nov 2026 20:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/economy/employment-labor/6367720": {
+      "title": "납품대금 4억 빼돌려 잠적…직원 74명 임금·퇴직금 11억 체불 대표 구속",
+      "summary": "고용노동부 대구 서부지청은 직원 74명의 임금과 퇴직급여 등 11억 4000만 원을 체불한 자동차 부품 제조업체 대표 A 씨를 근로기준법과 근로자퇴직급여 보장법 위반 혐의로 26일 구속 했다고 밝혔다. 대구 달성군에서...",
+      "url": "https://www.news1.kr/economy/employment-labor/6367720",
+      "date": "Thu, 26 Nov 2026 20:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISX20261126_0003885324": {
+      "title": "노동자 74명 임금 11억 체불…자동차 부품 제조업체 대표 구속",
+      "summary": "고용노동부 대구 서부지청은 26일 근로기준법 및 근로자퇴직급여 보장법 위반 혐의로 대구 달성군 소재 자동차 부품 제조업체 대표 A씨를 구속 했다고 밝혔다. A씨는 노동자 74명의 임금과 연차미사용수당 3억5000만원...",
+      "url": "https://www.newsis.com/view/NISX20261126_0003885324",
+      "date": "Thu, 26 Nov 2026 20:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "세무 조사·혐의 관련",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.goodmorningcc.com/news/articleView.html?idxno=456590": {
+      "title": "우송정보대, 민·관·학 협력으로 대동 하늘공원 벽화 재단장",
+      "summary": "우송정보대학는 만화웹툰과와 지역연계지원센터가 한화솔루션중앙연구소, 대동 종합사회복지관과 함께 지난 16일부터 24일까지 대전 동구 대동 하늘공원 일대에서 벽화 재단장 자원봉사활동을 펼쳤다고 26일 밝혔다. 이번...",
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456590",
+      "date": "Thu, 26 Nov 2026 20:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.ksmnews.co.kr/news/view.php?idx=631320": {
+      "title": "대구, 초기 창업 기업 투자 연결 강화…47개사 수요 확인",
+      "summary": "[경상 매일신문 =서상진기자] 대구시가 지역 기업 의 투자 수요를 발굴하고 투자사와 연결하는 지원에 나선다.시는 지난달 조사에서 47개사의 투자 희망 수요를 확인했으며, 27일 대구창조경제혁신센터에서 초기 기업 ...",
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=631320",
+      "date": "Thu, 26 Nov 2026 20:34:00 +0900",
+      "channels": [
+        "local_media"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.vegannews.co.kr/news/article.html?no=411731": {
+      "title": "엘앤에프 , 사모 전환사채 200억원 발행 결정",
+      "summary": "엘앤에프 (066970)가 26일 제11회와 제12회 사모 전환사채 발행을 결정했다. 발행 규모는 각각 160억원과 40억원으로 총 200억원이며, 두 건 모두 운영자금 조달 목적이다. 두 사채의 인수 대상자는...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=411731",
+      "date": "Thu, 26 Nov 2026 20:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "자본이동",
+      "priority": 80,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5788,16 +5859,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-26",
   "sent_articles": [
-    {
-      "url": "https://www.yna.co.kr/view/AKR20261112180000053?input=1195m",
-      "title": "경산시 공장 서 화재 …소방 당국, 진화 중",
-      "date": "Thu, 12 Nov 2026 20:54:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRERUNGF5azhmaE1HbDdLc2xIUWNndWZEaUJJdVJtWC1zX3VYdzJUR0FnaUx4UmNIeUZvaTZDQ2VxUkJscVZIMjRqTEZVQzY3RFRhQ3ZjUzJrVHVaOHd3?oc=5",
-      "title": "Uzbekistan's TMK, South Korea's POSCO discuss lithium, graphite investments - Trend News Agency",
-      "date": "Thu, 12 Nov 2026 11:27:59 GMT"
-    },
     {
       "url": "https://www.mt.co.kr/society/2026/11/12/2026111221102797955",
       "title": "경북 골판지 공장 서 화재 발생…소방, 대응 1단계 발령",
@@ -10302,6 +10363,36 @@
       "url": "https://www.fnnews.com/news/202611261843337867",
       "title": "경찰청 차장에 송영호·부산 경찰청 장에 김병기…고위직 인사 단행",
       "date": "Thu, 26 Nov 2026 19:06:00 +0900"
+    },
+    {
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456590",
+      "title": "우송정보대, 민·관·학 협력으로 대동 하늘공원 벽화 재단장",
+      "date": "Thu, 26 Nov 2026 20:22:00 +0900"
+    },
+    {
+      "url": "https://www.vegannews.co.kr/news/article.html?no=411731",
+      "title": "엘앤에프 , 사모 전환사채 200억원 발행 결정",
+      "date": "Thu, 26 Nov 2026 20:26:00 +0900"
+    },
+    {
+      "url": "https://biz.heraldcorp.com/article/10950984?ref=naver",
+      "title": "노동자 74명 임금 11억 떼먹고 납품대금은 개인 빚 갚는 데…제조업체 ...",
+      "date": "Thu, 26 Nov 2026 20:54:00 +0900"
+    },
+    {
+      "url": "https://www.ksmnews.co.kr/news/view.php?idx=631320",
+      "title": "대구, 초기 창업 기업 투자 연결 강화…47개사 수요 확인",
+      "date": "Thu, 26 Nov 2026 20:34:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/economy/employment-labor/6367720",
+      "title": "납품대금 4억 빼돌려 잠적…직원 74명 임금·퇴직금 11억 체불 대표 구속",
+      "date": "Thu, 26 Nov 2026 20:24:00 +0900"
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261126_0003885324",
+      "title": "노동자 74명 임금 11억 체불…자동차 부품 제조업체 대표 구속",
+      "date": "Thu, 26 Nov 2026 20:14:00 +0900"
     }
   ],
   "brief_articles": [
@@ -10343,7 +10434,7 @@
     "2026-11-23": 11,
     "2026-11-24": 11,
     "2026-11-25": 8,
-    "2026-11-26": 4
+    "2026-11-26": 5
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
