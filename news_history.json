@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712669&ref=A": "2026-11-13T23:02:30.052062+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5": "2026-11-14T10:02:08.701843+09:00",
     "https://sateconomy.co.kr/news/view/1065574560150425": "2026-11-14T11:01:54.666304+09:00",
     "https://www.news1.kr/local/daegu-gyeongbuk/6353987": "2026-11-14T12:01:46.528688+09:00",
@@ -921,7 +920,6 @@
     "https://www.kbmaeil.com/article/20261127500320": "2026-11-27T21:07:18.895461+09:00"
   },
   "titles": {
-    "3ceacc2678987f1d9eb0dd1626b3cf996dda83103f9c76cff44b8da79634b222": "2026-11-13T23:02:30.052062+09:00",
     "22f1bd6443f9898a9c871c3726f203a32ec034d66365945b7c7dd3c6eaf7f43c": "2026-11-14T10:02:08.701843+09:00",
     "ffa7eae88c7e5a62fcbef3d7566d131c05b1ed8b2d217ed297d4ea645934efac": "2026-11-14T11:01:54.666304+09:00",
     "f1d05f941faa5dd18c5f8bfcff38d10a6b2cc32b73f1b308e77b80dfd04bddb5": "2026-11-14T12:01:46.528688+09:00",
@@ -1843,7 +1841,6 @@
   },
   "pending": {},
   "ai": {
-    "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 15,
     "2026-11-24": 18,
@@ -1853,84 +1850,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://biz.heraldcorp.com/article/10949624?ref=naver": {
-      "title": "iM뱅크 , 한국부동산원 주거래은행 업무협약 체결",
-      "summary": "iM뱅크 는 한국부동산원과 주거래은행 업무협약을 체결하고 안정적인 금융거래 기반 마련과 ESG 경영 실천을 위한 협력에 나선다. 양 기관은 지난 24일 한국부동산원 본사에서 협약식을 진행했다. 이번 협약에 따라 iM뱅크 는...",
-      "url": "https://biz.heraldcorp.com/article/10949624?ref=naver",
-      "date": "Thu, 26 Nov 2026 07:51:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.gukjenews.com/news/articleView.html?idxno=3763386": {
-      "title": "한국부동산원· 아이엠뱅크 , 주거래은행 협약…3년간 금융서비스 제공",
-      "summary": "한국부동산원 주거래은행 업무협약 (왼쪽부터 이헌욱 한국부동산원 원장, 강정훈 아이엠뱅크 은행장) 한국부동산원은 24일 본사에서 아이엠뱅크 와 주거래은행 업무협약을 체결했다고 25일 밝혔다. 협약은 한국부동산원의...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763386",
-      "date": "Thu, 26 Nov 2026 00:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 아이엠뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=887126": {
-      "title": "영업익률 10%→3% 추락…이충곤 에스엘 , 램프 부진 직격탄",
-      "summary": "이충곤 에스엘 회장. AI 생성 이미지. | 서울=한스경제 곽호준 기자 | 자동차 부품업체 에스엘 의 매출이 늘었지만 수익성은 뒷걸음쳤다. 전동화 부문은 흑자로 돌아섰지만 고객사 생산 차질과 전자부품 가격 상승으로...",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887126",
-      "date": "Thu, 26 Nov 2026 06:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에스엘",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.kpinews.kr/newsView/1065563280841515": {
-      "title": "포스코 , 인도 타밀나두에 360억 투자·철강 가공 시설 설립 계획",
-      "summary": "포스코 가 인도 남부 타밀나두주 크리슈나기리 지역에 약 360억 원을 투자해 철강 가공 시설을 설립할 계획이라는 발표가 인도 현지에서 났다. ▲ 포스코 홈페이지. '이티비 바라트', '더 뉴 인디언 익스프레스...",
-      "url": "https://www.kpinews.kr/newsView/1065563280841515",
-      "date": "Thu, 26 Nov 2026 06:57:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.apnews.kr/news/articleView.html?idxno=3053581": {
-      "title": "현대엔지니어링, 두 달 새 용인·호남서 2.3조 발전사업 수주",
-      "summary": "송치영 포스코 이앤씨 사장(왼쪽에서 네 번째) 등 주요 관계자들이 지난 9일 울산 중구 한국동서발전... 송치영 포스코 이앤씨 사장 등이 참석한 가운데 호남 복합발전소 건설 사업 계약 서명식을 진행했다. 해당 사업은...",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3053581",
-      "date": "Thu, 26 Nov 2026 00:28:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzNNNFF6ZFdZamVvNWdBOF9NTzFSU0FmMTFaUGFrRjdNSGo3d2lMVTJ5a1M4b2lvNmJXWmZJMEpnbDRsbGdpVFU1ek5qbkliQmtQcGdadHNreUMzSnFWSGdTRXgybXMwS0U0YjNyLTlrRmxqWFNaUzFqV05iQ25uRw?oc=5": {
-      "title": "경북문화재단 콘텐츠진흥원, 경북 콘텐츠 기업 “국내는 좁다! 해외 공략” - CBN뉴스",
-      "summary": "경북문화재단 콘텐츠진흥원, 경북 콘텐츠 기업 “국내는 좁다! 해외 공략” CBN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzNNNFF6ZFdZamVvNWdBOF9NTzFSU0FmMTFaUGFrRjdNSGo3d2lMVTJ5a1M4b2lvNmJXWmZJMEpnbDRsbGdpVFU1ek5qbkliQmtQcGdadHNreUMzSnFWSGdTRXgybXMwS0U0YjNyLTlrRmxqWFNaUzFqV05iQ25uRw?oc=5",
-      "date": "Wed, 25 Nov 2026 22:40:52 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
     "https://www.tbc.co.kr/news/view?pno=20261125093805AE09106&id=213802": {
       "title": "iM뱅크 -한국부동산원 주거래은행 협약",
       "summary": "iM뱅크 와 한국부동산원이 주거래은행 업무협약을 맺었습니다. iM뱅크 는 앞으로 3년간 한국부동산원의 운영 자금 관리, 자금 수납, 집행을 맡고 맞춤형 통합자금관리시스템을 구축해 맞춤형 서비스를 제공합니다. 두...",
@@ -5297,34 +5216,104 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://sports.donga.com/region/article/all/20261128/135106666/1": {
+      "title": "경북교육청, 구미 메이커교육관 이전 설계 점검…2029년 2월 준공 목표",
+      "summary": "83㎡ 규모 학생 창작·탐구 활동에 맞춘 공간 배치와 이동 동선 등 논의 경북교육청이 구미 시... 경북교육청은 27일 금오공고 컨퍼런스실에서 ‘경상북도교육청 메이커교육관 이전 건립 중간설계협의회’를 열었다고...",
+      "url": "https://sports.donga.com/region/article/all/20261128/135106666/1",
+      "date": "Sat, 28 Nov 2026 07:45:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509090": {
+      "title": "AI 투자 돈줄 서버·저장장치로 확산…델·HPE 상승에 이수페타시스 주...",
+      "summary": "AI 서버용 고다층 인쇄회로기판(PCB)을 공급하는 이수페타시스 와 반도체 패키징 기판 관련 기업인 대덕전자 등이 관련 종목으로 거론된다. 데이터센터 구축이 늘어날수록 서버용 기판과 전력·냉각 설비 등 주변...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509090",
+      "date": "Sat, 28 Nov 2026 07:28:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509086": {
+      "title": "AMD·엔비디아 동반 상승에 AI 투자 열기…테크윙· 이수페타시스 ·ISC도 ...",
+      "summary": "이에 따라 이수페타시스 와 대덕전자 등 기판 관련 기업, 반도체 소재·부품 업체들의 수주와 실적 흐름도 관심을 받을 전망이다. 반도체 외 대형 기술주도 상승세를 보였다. 테슬라는 5.22% 올랐고 메타와 아마존은 각각...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509086",
+      "date": "Sat, 28 Nov 2026 07:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.nocutnews.co.kr/news/6613837": {
+      "title": "포스코 노조, 오늘 2차 잠정합의안 찬반 투표…최종 타결 '전망'",
+      "summary": "포스코 노사 임금단체협약(임단협) 잠정합의안(1차)이 노동조합 조합원 찬반투표에서 사상 처음으로... 포스코 노사는 지난 7일 1차 잠정합의안이 부결된 이후 13일 만인 20일 2차 잠정합의안 도출에 성공했다. 기본급...",
+      "url": "https://www.nocutnews.co.kr/news/6613837",
+      "date": "Sat, 28 Nov 2026 05:01:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSVBZV2ZFRk5UUXhWN1Vxa2l3bnVIMEdVYWQzMjdMV0RiTnc4aFhBdzV1UWp2WDhZdmVBWmtTaEpYNTFfdVduLWhPV0V4VktteXQ5X3dNYkRMVFZ3dEpxemJCRHlUeDA?oc=5": {
+      "title": "대구 남구-한국지방세연구원 고향사랑기부제 활성화 업무협약(MOU) 체결 - 씨원뉴스",
+      "summary": "대구 남구-한국지방세연구원 고향사랑기부제 활성화 업무협약(MOU) 체결 씨원뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSVBZV2ZFRk5UUXhWN1Vxa2l3bnVIMEdVYWQzMjdMV0RiTnc4aFhBdzV1UWp2WDhZdmVBWmtTaEpYNTFfdVduLWhPV0V4VktteXQ5X3dNYkRMVFZ3dEpxemJCRHlUeDA?oc=5",
+      "date": "Fri, 27 Nov 2026 20:07:35 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JR2VWUVdvcm9SSl9wb1VxNzdEQkJvdzE2ZnNlcW5oOW82SnUtYjFDamFQY2lmOGxhY1FQYTJENElJbTFHQmNCZGxBcVVfSzg?oc=5": {
+      "title": "대구시 신청사 건립 재원 확보 난항···4천억 원대 공유재산 매각 지지부진 - 뉴스민",
+      "summary": "대구시 신청사 건립 재원 확보 난항···4천억 원대 공유재산 매각 지지부진 뉴스민",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JR2VWUVdvcm9SSl9wb1VxNzdEQkJvdzE2ZnNlcW5oOW82SnUtYjFDamFQY2lmOGxhY1FQYTJENElJbTFHQmNCZGxBcVVfSzg?oc=5",
+      "date": "Fri, 27 Nov 2026 16:37:52 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
-    "https://www.yna.co.kr/view/AKR20261127013400053?input=1195m": "2026-11-27T08:09:53.140807+09:00",
-    "https://www.polinews.co.kr/news/articleView.html?idxno=749377": "2026-11-27T08:09:53.140807+09:00",
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=602488": "2026-11-27T08:09:53.140807+09:00",
-    "http://www.the-biz.co.kr/news/articleView.html?idxno=731535": "2026-11-27T08:09:53.140807+09:00",
-    "https://www.seoul.co.kr/news/peoples/movement/2026/11/27/20261127023001?wlog_tag3=naver": "2026-11-27T08:09:53.140807+09:00",
-    "https://www.donga.com/news/People/article/all/20261127/135099474/2": "2026-11-27T08:09:53.140807+09:00",
-    "https://www.cstimes.com/news/articleView.html?idxno=729654": "2026-11-27T08:09:53.140807+09:00",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdFZ3alBjWUkxcmdXSzBleTVYV2o2bk5ld2lRQkhLcnZTbFg5ZzA3Mm5PZnM4ZnplZFZtYU5ZdEhaV09mWG5PVTVWaUhLV1U?oc=5": "2026-11-27T08:09:53.140807+09:00",
-    "https://www.youngnong.co.kr/news/articleView.html?idxno=72075": "2026-11-27T08:09:53.140807+09:00",
-    "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650454.html": "2026-11-27T08:09:53.140807+09:00"
+    "https://sports.donga.com/region/article/all/20261128/135106666/1": "2026-11-28T08:09:28.138426+09:00",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509090": "2026-11-28T08:09:28.138426+09:00",
+    "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509086": "2026-11-28T08:09:28.138426+09:00",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSVBZV2ZFRk5UUXhWN1Vxa2l3bnVIMEdVYWQzMjdMV0RiTnc4aFhBdzV1UWp2WDhZdmVBWmtTaEpYNTFfdVduLWhPV0V4VktteXQ5X3dNYkRMVFZ3dEpxemJCRHlUeDA?oc=5": "2026-11-28T08:09:28.138426+09:00",
+    "https://www.nocutnews.co.kr/news/6613837": "2026-11-28T08:09:28.138426+09:00",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JR2VWUVdvcm9SSl9wb1VxNzdEQkJvdzE2ZnNlcW5oOW82SnUtYjFDamFQY2lmOGxhY1FQYTJENElJbTFHQmNCZGxBcVVfSzg?oc=5": "2026-11-28T08:09:28.138426+09:00"
   },
   "brief_titles": {
-    "e4767ac5c6093db7c7744bb8dbfbf1076b07e8f25511c4b4fa1d2f42d7553e46": "2026-11-27T08:09:53.140807+09:00",
-    "fe9f83696b387d4fe0d95dde28ce2c6b2dbb376f314be8b92c39768a372a61a1": "2026-11-27T08:09:53.140807+09:00",
-    "49a40d356e19d91dd3f65a423815696c697e63568ea9342ae75649cab1f02de0": "2026-11-27T08:09:53.140807+09:00",
-    "fe103d5d9fdb0a3a984e8043be2fcb583d621b193bb7544034f5aece965463e7": "2026-11-27T08:09:53.140807+09:00",
-    "0bfee88947fe7f7fb677998d09932ff4ea9bd6926c7eea4d07cfe011f0ef2c92": "2026-11-27T08:09:53.140807+09:00",
-    "6f1afc9a37a36982f03ac63db634e4ac0602ebacded1b3690bb325e615aa1c73": "2026-11-27T08:09:53.140807+09:00",
-    "0cfdeb64d54bf4b3afa433d40d79d75481820ba8d43a16540a37ec097fe64d1f": "2026-11-27T08:09:53.140807+09:00",
-    "919302b11f637311d41b808ed05bcaabad97242f0506616f23c32b7373e904cc": "2026-11-27T08:09:53.140807+09:00",
-    "fc2f1b8594bacab746b914e741794860f12c8540da3179ff9f8e84b0af1631dd": "2026-11-27T08:09:53.140807+09:00",
-    "efc0552c4ef4f00af1758c7bece32f545d1a2b81ee129d0636eb963e740bcaba": "2026-11-27T08:09:53.140807+09:00"
+    "3bf98e3c10f82468e7cf59f1cb1ed87c596c7d2cde36090de13d2545d8ae6780": "2026-11-28T08:09:28.138426+09:00",
+    "37d765b3da8ae6c29889c149f0b9aa65073e4b22a2e21158b5142f6ba44cc65e": "2026-11-28T08:09:28.138426+09:00",
+    "dd2a342355a66a69d96e78e1cd8d807052e49ab11c3b4d24f248e035a2cd7c8d": "2026-11-28T08:09:28.138426+09:00",
+    "82d33d10e9d438f54b339b11237843e4d420b031742ec89ad51d715c9b9e64e1": "2026-11-28T08:09:28.138426+09:00",
+    "33f4235bf813f1eaaa32f555239150ee119c76a67f737800b14ceb5b52e6f839": "2026-11-28T08:09:28.138426+09:00",
+    "5f0858bf482efc1dfd54d7756787d462340f42b3e7c79f575a3d07eb0a5b3078": "2026-11-28T08:09:28.138426+09:00"
   },
   "brief_pending": {},
-  "brief_date": "2026-11-27",
+  "brief_date": "2026-11-28",
   "sent_articles": [
     {
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5",
@@ -9919,58 +9908,37 @@
   ],
   "brief_articles": [
     {
-      "url": "https://www.yna.co.kr/view/AKR20261127013400053?input=1195m",
-      "title": "포항 자동차필름·광택시공 업체 화재 …5천만원 재산 피해",
-      "date": "Fri, 27 Nov 2026 07:35:00 +0900"
+      "url": "https://sports.donga.com/region/article/all/20261128/135106666/1",
+      "title": "경북교육청, 구미 메이커교육관 이전 설계 점검…2029년 2월 준공 목표",
+      "date": "Sat, 28 Nov 2026 07:45:00 +0900"
     },
     {
-      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749377",
-      "title": "포스코 1%나눔재단, 산불 취약지역 안전망 구축… 포항 등 4개 지역에 '포...",
-      "date": "Fri, 27 Nov 2026 00:08:00 +0900"
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509090",
+      "title": "AI 투자 돈줄 서버·저장장치로 확산…델·HPE 상승에 이수페타시스 주...",
+      "date": "Sat, 28 Nov 2026 07:28:00 +0900"
     },
     {
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602488",
-      "title": "[칼럼] 포스코 , 외풍 끊고 철강 위기 넘을 적임자는",
-      "date": "Fri, 27 Nov 2026 08:00:00 +0900"
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509086",
+      "title": "AMD·엔비디아 동반 상승에 AI 투자 열기…테크윙· 이수페타시스 ·ISC도 ...",
+      "date": "Sat, 28 Nov 2026 07:10:00 +0900"
     },
     {
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731535",
-      "title": "[ 대동 USA 보안 쇼크②] \"소장 근거 부족\"vs\"사생활 침해\"… 美 소송서 공...",
-      "date": "Fri, 27 Nov 2026 06:00:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSVBZV2ZFRk5UUXhWN1Vxa2l3bnVIMEdVYWQzMjdMV0RiTnc4aFhBdzV1UWp2WDhZdmVBWmtTaEpYNTFfdVduLWhPV0V4VktteXQ5X3dNYkRMVFZ3dEpxemJCRHlUeDA?oc=5",
+      "title": "대구 남구-한국지방세연구원 고향사랑기부제 활성화 업무협약(MOU) 체결 - 씨원뉴스",
+      "date": "Fri, 27 Nov 2026 20:07:35 GMT"
     },
     {
-      "url": "https://www.seoul.co.kr/news/peoples/movement/2026/11/27/20261127023001?wlog_tag3=naver",
-      "title": "[ 인사 ]",
-      "date": "Fri, 27 Nov 2026 05:04:00 +0900"
+      "url": "https://www.nocutnews.co.kr/news/6613837",
+      "title": "포스코 노조, 오늘 2차 잠정합의안 찬반 투표…최종 타결 '전망'",
+      "date": "Sat, 28 Nov 2026 05:01:00 +0900"
     },
     {
-      "url": "https://www.donga.com/news/People/article/all/20261127/135099474/2",
-      "title": "[ 인사 ] 경찰청 外",
-      "date": "Fri, 27 Nov 2026 04:35:00 +0900"
-    },
-    {
-      "url": "https://www.cstimes.com/news/articleView.html?idxno=729654",
-      "title": "한수원, 대규모 청정수소 기술 논의·분산형 연료전지 준공 기념 기부",
-      "date": "Fri, 27 Nov 2026 03:06:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OdFZ3alBjWUkxcmdXSzBleTVYV2o2bk5ld2lRQkhLcnZTbFg5ZzA3Mm5PZnM4ZnplZFZtYU5ZdEhaV09mWG5PVTVWaUhLV1U?oc=5",
-      "title": "27일 대구 학교비정규직 노동자 파업 나선다···“임금 인상, 교육 재정 확보” 요구 - 뉴스민",
-      "date": "Thu, 26 Nov 2026 15:37:26 GMT"
-    },
-    {
-      "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=72075",
-      "title": "경북 포도, 수출 1억 달러 시대 열었다… 전국 수출액의 80.5% 차지",
-      "date": "Fri, 27 Nov 2026 00:36:00 +0900"
-    },
-    {
-      "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650454.html",
-      "title": "iM 뱅크 , 한국부동산원 주거래은행 맡아 3년간 자금관리 지원",
-      "date": "Thu, 26 Nov 2026 23:16:00 +0900"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JR2VWUVdvcm9SSl9wb1VxNzdEQkJvdzE2ZnNlcW5oOW82SnUtYjFDamFQY2lmOGxhY1FQYTJENElJbTFHQmNCZGxBcVVfSzg?oc=5",
+      "title": "대구시 신청사 건립 재원 확보 난항···4천억 원대 공유재산 매각 지지부진 - 뉴스민",
+      "date": "Fri, 27 Nov 2026 16:37:52 GMT"
     }
   ],
   "gemini_ai": {
-    "2026-11-20": 6,
     "2026-11-22": 9,
     "2026-11-23": 11,
     "2026-11-24": 11,
