@@ -1,8 +1,5 @@
 {
   "sent": {
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721": "2026-11-13T22:01:50.947318+09:00",
-    "https://www.kbsm.net/news/view.php?idx=541629": "2026-11-13T22:01:50.947318+09:00",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5": "2026-11-13T22:01:50.947318+09:00",
     "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712669&ref=A": "2026-11-13T23:02:30.052062+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5": "2026-11-14T10:02:08.701843+09:00",
     "https://sateconomy.co.kr/news/view/1065574560150425": "2026-11-14T11:01:54.666304+09:00",
@@ -924,9 +921,6 @@
     "https://www.kbmaeil.com/article/20261127500320": "2026-11-27T21:07:18.895461+09:00"
   },
   "titles": {
-    "a6e91bb9993279706ed1712a8437552097975bf423cb536b3e14f53d2a923bcb": "2026-11-13T22:01:50.947318+09:00",
-    "fabb837a30d808d3c293623ccb15a8042d81b4293e12b5d7775b705906c1785b": "2026-11-13T22:01:50.947318+09:00",
-    "fd7339cf477dfcaaffb53d367c9a99fde07b0e1e8e0910b503b19cf91e2ddeb9": "2026-11-13T22:01:50.947318+09:00",
     "3ceacc2678987f1d9eb0dd1626b3cf996dda83103f9c76cff44b8da79634b222": "2026-11-13T23:02:30.052062+09:00",
     "22f1bd6443f9898a9c871c3726f203a32ec034d66365945b7c7dd3c6eaf7f43c": "2026-11-14T10:02:08.701843+09:00",
     "ffa7eae88c7e5a62fcbef3d7566d131c05b1ed8b2d217ed297d4ea645934efac": "2026-11-14T11:01:54.666304+09:00",
@@ -1859,19 +1853,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MW1jYlpKMktEaUhwMnNlUV9XS05qa19FQ0pMRFJhTkdHM0lKRmc1NFctZFdyU2FxT014Q01PS29TMWVTTDNtdzMtZ3NhSVRPYURLWDdEVHFqcnZaTHptQnhoc1Q1SVlIaWpz?oc=5": {
-      "title": "iM뱅크-한국부동산원 '주거래은행 업무협약' 체결 - 마일드경제",
-      "summary": "iM뱅크-한국부동산원 '주거래은행 업무협약' 체결 마일드경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MW1jYlpKMktEaUhwMnNlUV9XS05qa19FQ0pMRFJhTkdHM0lKRmc1NFctZFdyU2FxT014Q01PS29TMWVTTDNtdzMtZ3NhSVRPYURLWDdEVHFqcnZaTHptQnhoc1Q1SVlIaWpz?oc=5",
-      "date": "Wed, 25 Nov 2026 13:36:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://biz.heraldcorp.com/article/10949624?ref=naver": {
       "title": "iM뱅크 , 한국부동산원 주거래은행 업무협약 체결",
       "summary": "iM뱅크 는 한국부동산원과 주거래은행 업무협약을 체결하고 안정적인 금융거래 기반 마련과 ESG 경영 실천을 위한 협력에 나선다. 양 기관은 지난 24일 한국부동산원 본사에서 협약식을 진행했다. 이번 협약에 따라 iM뱅크 는...",
@@ -5345,11 +5326,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-27",
   "sent_articles": [
-    {
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712669&ref=A",
-      "title": "경북 동부 건설현장 추락 사망 늘어…올해 8건",
-      "date": "Fri, 13 Nov 2026 22:21:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5",
       "title": "[‘대구의 미래’ 혁신도시 공공기관③] 산업단지 혁신 넘어 지역사회에 온기 나누는 한국산업단지공단 - 영남일보",
