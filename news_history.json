@@ -1,6 +1,5 @@
 {
   "sent": {
-    "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view": "2026-11-13T21:01:58.569641+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721": "2026-11-13T22:01:50.947318+09:00",
     "https://www.kbsm.net/news/view.php?idx=541629": "2026-11-13T22:01:50.947318+09:00",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5": "2026-11-13T22:01:50.947318+09:00",
@@ -925,7 +924,6 @@
     "https://www.kbmaeil.com/article/20261127500320": "2026-11-27T21:07:18.895461+09:00"
   },
   "titles": {
-    "35259da290f3e8495151350469b2b5954b3ba7c18a7086738613a718fbb63e84": "2026-11-13T21:01:58.569641+09:00",
     "a6e91bb9993279706ed1712a8437552097975bf423cb536b3e14f53d2a923bcb": "2026-11-13T22:01:50.947318+09:00",
     "fabb837a30d808d3c293623ccb15a8042d81b4293e12b5d7775b705906c1785b": "2026-11-13T22:01:50.947318+09:00",
     "fd7339cf477dfcaaffb53d367c9a99fde07b0e1e8e0910b503b19cf91e2ddeb9": "2026-11-13T22:01:50.947318+09:00",
@@ -1861,84 +1859,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=566512": {
-      "title": "대구 의료 다시 뛴다…中 시안·베이징서 MOU 6건 체결",
-      "summary": "허영주 대구 시치과의사회장(오른쪽)이 지난 17일 중국 시안에서 AI 기반 치의학 연구 협력을 위한 업무협약을 체결한 뒤 기념촬영을 하고 있다. 메디시티 대구 협의회 제공 민복기 (사)AI바이오·메디시티 대구 협의회장(왼쪽)...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566512",
-      "date": "Wed, 25 Nov 2026 21:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.joseilbo.com/news/news_read.php?uid=580447&class=33&grp=": {
-      "title": "봉화서 타이어 수리하던 2명, 화물차·견인차 사이 끼여 숨져",
-      "summary": "경북 봉화군의 한 도로에서 타이어 수리 작업 중이던 50대 남성 2명이 화물차와 견인차 사이에 끼여 목숨을... 경찰은 현재까지 범죄 혐의 점은 없는 것으로 보고 있다. 경찰 관계자는 \"사고가 난 도로는 경사가 심하지는...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=580447&class=33&grp=",
-      "date": "Wed, 25 Nov 2026 21:45:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.youngnong.co.kr/news/articleView.html?idxno=72201": {
-      "title": "대동 , 환경·사회·지배구조 평가 2년 연속 통합 에이(A)등급",
-      "summary": "대동 이 한국이에스지기준원(KCGS)의 '2026년 환경·사회·지배구조(ESG) 평가'에서 2년 연속 통합 에이(A)등급을... 대동 의 통합 등급은 2022년 디(D), 2023년 시(C), 2024년 비플러스(B+), 2025년 에이(A)로 상승했으며 올해도...",
-      "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=72201",
-      "date": "Wed, 25 Nov 2026 21:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 대동",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.idaegu.co.kr/news/articleView.html?idxno=566451": {
-      "title": "동구문화재단- 삼보모터스 , 문화예술 확산 협약",
-      "summary": "대구 동구문화재단과 삼보모터스 는 지난 20일 아양아트센터에서 문화예술 가치 확산과 전략적 협력을 위한 업무협약을 체결했다. 대구 동구문화재단과 삼보모터스 는 지난 20일 아양아트센터에서 문화예술 가치 확산과...",
-      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566451",
-      "date": "Wed, 25 Nov 2026 21:24:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 삼보모터스",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.kbsm.net/news/view.php?idx=543373": {
-      "title": "한국부동산원, 아이엠뱅크 와 3년간 주거래은행 협력",
-      "summary": "한국부동산원이 아이엠뱅크 와 주거래은행 업무협약을 맺고 안정적인 금융거래 기반 구축에 나섰다.한국부동산원은 지난 24일 본사에서 아이엠뱅크 와 '한국부동산원 주거래은행 업무협약'을 체결했다.이번 협약은...",
-      "url": "https://www.kbsm.net/news/view.php?idx=543373",
-      "date": "Wed, 25 Nov 2026 21:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 아이엠뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ksmnews.co.kr/news/view.php?idx=631084": {
-      "title": "포항 영일만3산단 바이오매스 발전소 건립 추진…관리기본계획 변경",
-      "summary": "▷ 5500억원 투입…110MW급 바이오매스 발전소 건립 포항 신재생에너지는 해당 부지에 약 5500억원을 투입해 110MW급 미이용 산림바이오매스 발전소 건립 을 추진하고 있다.연료는 산불·재선충 피해목과 숲가꾸기, 임도 개설...",
-      "url": "https://www.ksmnews.co.kr/news/view.php?idx=631084",
-      "date": "Wed, 25 Nov 2026 21:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MW1jYlpKMktEaUhwMnNlUV9XS05qa19FQ0pMRFJhTkdHM0lKRmc1NFctZFdyU2FxT014Q01PS29TMWVTTDNtdzMtZ3NhSVRPYURLWDdEVHFqcnZaTHptQnhoc1Q1SVlIaWpz?oc=5": {
       "title": "iM뱅크-한국부동산원 '주거래은행 업무협약' 체결 - 마일드경제",
       "summary": "iM뱅크-한국부동산원 '주거래은행 업무협약' 체결 마일드경제",
@@ -5425,21 +5345,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-27",
   "sent_articles": [
-    {
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721",
-      "title": "경북 행복재단 연구원 사망 산재 인정…노조, 책임자 처벌 촉구",
-      "date": "Fri, 13 Nov 2026 21:02:00 +0900"
-    },
-    {
-      "url": "https://www.kbsm.net/news/view.php?idx=541629",
-      "title": "구미시, 지역경제협의회 출범",
-      "date": "Fri, 13 Nov 2026 21:38:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5",
-      "title": "Hyundai explores investment in Posco graphite project in Vietnam - electrive.com",
-      "date": "Fri, 13 Nov 2026 12:12:37 GMT"
-    },
     {
       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712669&ref=A",
       "title": "경북 동부 건설현장 추락 사망 늘어…올해 8건",
