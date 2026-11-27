@@ -1,8 +1,5 @@
 {
   "sent": {
-    "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177": "2026-11-13T19:01:50.117076+09:00",
-    "https://www.news1.kr/industry/general-industry/6353808": "2026-11-13T19:01:50.117076+09:00",
-    "http://www.weeklytoday.com/news/articleView.html?idxno=802077": "2026-11-13T19:01:50.117076+09:00",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5": "2026-11-13T20:02:17.609529+09:00",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view": "2026-11-13T21:01:58.569641+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721": "2026-11-13T22:01:50.947318+09:00",
@@ -928,9 +925,6 @@
     "http://fpn119.co.kr/260185": "2026-11-27T19:09:12.630088+09:00"
   },
   "titles": {
-    "ca8c72e1ad8b8a4f18bc42d7cb6105b66bb86f91ab86fe79a8e9f05e70f5f8a3": "2026-11-13T19:01:50.117076+09:00",
-    "bad20b24abd64ed9c41093230ecfac2c3e8f63f337c6b5f08013a4e2af99991c": "2026-11-13T19:01:50.117076+09:00",
-    "43206500390da1a205d4effe0eeccc21a931e17f9f2b979257277c43f0830cba": "2026-11-13T19:01:50.117076+09:00",
     "d160c408e71f1edd8bfa7df23366b1a11db111a52911c845f9a72fa1294896f5": "2026-11-13T20:02:17.609529+09:00",
     "35259da290f3e8495151350469b2b5954b3ba7c18a7086738613a718fbb63e84": "2026-11-13T21:01:58.569641+09:00",
     "a6e91bb9993279706ed1712a8437552097975bf423cb536b3e14f53d2a923bcb": "2026-11-13T22:01:50.947318+09:00",
@@ -1867,32 +1861,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.yna.co.kr/view/AKR20261125170200053?input=1195m": {
-      "title": "타이어 수리 작업하던 2명, 화물차·레커 사이에 끼여 사망",
-      "summary": "경북 봉화군에서 1t 화물차 타이어 수리 작업을 하던 50대 작업자 2명이 레커차와 화물차 사이에 끼여 숨지는... 경찰은 현재까지 범죄 혐의 점은 없는 것으로 보고 있다. 경찰 관계자는 \"사고가 난 도로는 경사가 심하지는...",
-      "url": "https://www.yna.co.kr/view/AKR20261125170200053?input=1195m",
-      "date": "Wed, 25 Nov 2026 19:47:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://sateconomy.co.kr/news/view/1065600172599678": {
-      "title": "현대엔지니어링,용인·호남 발전소 잇단 수주... 총사업비 2조2840억 규모",
-      "summary": "공개된 금액은 현대엔지니어링과 포스코 이앤씨가 참여한 공동수급체의 전체 계약 규모다. 호남... 포스코 이앤씨(대표 송치영)는 시공과 보조 기자재 조달을 담당한다. . 현대엔지니어링이 지난 9월 두 사업의...",
-      "url": "https://sateconomy.co.kr/news/view/1065600172599678",
-      "date": "Wed, 25 Nov 2026 19:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.chosun.com/national/regional/2026/11/25/4JLTFMGIPRHUBJ4OWJOEJMZ6TQ/": {
       "title": "경북 봉화서 타이어 수리하던 50대 작업자 2명 사망",
       "summary": "경북 봉화군에서 1t 화물차 타이어 수리 작업을 하던 50대 작업자 2명이 숨지는 사고가 발생했다. 25일 오후... 경찰은 현재까지 범죄 혐의 점은 없는 것으로 보고 있다. 경찰은 인근 CCTV와 차량 블랙박스 등을 확인해...",
@@ -5483,11 +5451,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-27",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5",
-      "title": "[위클리오늘] 영천시 소식(11.13)... 박규섭, 경북 농산물 가공‧유통 수상-영천시, 경북 시군 농정평가 우수상 - 위클리오늘",
-      "date": "Fri, 13 Nov 2026 10:23:04 GMT"
-    },
     {
       "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view",
       "title": "건설현장 추락 사망 사고 증가..안전관리 강화",
