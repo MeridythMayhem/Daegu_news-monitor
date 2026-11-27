@@ -1,7 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUEhBWnpnMkdkbkZqaWdTOUNpaTZkWms1dGU2dXVVMkExZk9zT0RJb3lQS0E3MEI0TXNSTHo2ZnhEaWktRlZra1JTUDFjanZqYXVlcWp0OHFaX1VPRU1MQU92eVFXWUNlem5EONIBcEFVX3lxTE1HaXI4aWhTVHZUVThPcUJqeDhiY1BHeFJ0MVBaQUQ3dmwxaURCV1pPYzJwaVV2XzNSQXhvUERaWVFvSlFRMXZKSDBvdXp2MjZwam5GN01tQXFXc1JaNFh3UnlKRWNjQjRWN0hwUC1DcW8?oc=5": "2026-11-13T14:02:41.390491+09:00",
-    "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586388370718": "2026-11-13T14:02:41.390491+09:00",
     "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284757&CMPT_CD=P0010": "2026-11-13T15:01:47.214415+09:00",
     "https://www.mediapen.com/news/view/1137372": "2026-11-13T16:02:03.425366+09:00",
     "https://www.pressian.com/pages/articles/2026111314194586889": "2026-11-13T16:02:03.425366+09:00",
@@ -912,11 +910,19 @@
     "https://www.job-post.co.kr/news/articleView.html?idxno=241488": "2026-11-27T14:08:59.154758+09:00",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0cGRhSTB4WWQ0ZmpKRXNQdHV6RWRmVTd2TkdUNXlScEpXMzZpVV9kNjdBYUxhM2ZjV1RVS2NoczdMeUtFcTdLWFpFblUtTDN6R0Z6bnlKUUM?oc=5": "2026-11-27T14:08:59.154758+09:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrNWpSVDR2WW5rdWdRZjdzcEpjU3pPZGdDWnFYN2JCM2RlSDlJaFhyZUdYajFkOU5DY2hEdk1WV0d5elVjYjZZVkI5U2g5MlZ3anQ3QkFNNmJseTg5M3l5S0NrUVRXRjBnakVz?oc=5": "2026-11-27T14:08:59.154758+09:00",
-    "http://www.finomy.com/news/articleView.html?idxno=268152": "2026-11-27T14:08:59.154758+09:00"
+    "http://www.finomy.com/news/articleView.html?idxno=268152": "2026-11-27T14:08:59.154758+09:00",
+    "https://www.newsis.com/view/NISX20261127_0003886396": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.taxtimes.co.kr/news/article.html?no=277979": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.tfmedia.co.kr/news/article.html?no=209294": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.taxtimes.co.kr/news/article.html?no=277966": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.sejungilbo.com/news/articleView.html?idxno=61320": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.taxtimes.co.kr/news/article.html?no=277969": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.taxtimes.co.kr/news/article.html?no=277968": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.taxtimes.co.kr/news/article.html?no=277970": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.intn.co.kr/news/articleView.html?idxno=3000577": "2026-11-27T15:06:41.442956+09:00",
+    "https://www.taxtimes.co.kr/news/article.html?no=277971": "2026-11-27T15:06:41.442956+09:00"
   },
   "titles": {
-    "268ae1a49937438c17e0ef69c91f41a69835786f83851bb4c6c023b47488afc0": "2026-11-13T14:02:41.390491+09:00",
-    "17673f3ecd6e8825c99e7455e63a58b2862291288ad3a2bd7dd30199998cfa91": "2026-11-13T14:02:41.390491+09:00",
     "5fced982641cd6728cc34c0052757b06b18d46d45eb14531ddc4c5a6b77dde72": "2026-11-13T15:01:47.214415+09:00",
     "5f812c27bd7579dfaac50a2e767263cecc9ba5245263cbaa52661ae4eed8bbdb": "2026-11-13T16:02:03.425366+09:00",
     "7abd25358f319607a229a2a262c08018fe7b8773ff142bc9cb600e8140bc0f67": "2026-11-13T16:02:03.425366+09:00",
@@ -1827,9 +1833,189 @@
     "2963148552b42a85db27835d4871f08e74baed4ad705a37cec5fafd135446254": "2026-11-27T14:08:59.154758+09:00",
     "82d33d10e9d438f54b339b11237843e4d420b031742ec89ad51d715c9b9e64e1": "2026-11-27T14:08:59.154758+09:00",
     "f80e1a7cd482f8fdb2bb76d99acf212c638bbaf6c410bbc90529c301e2fc0bfe": "2026-11-27T14:08:59.154758+09:00",
-    "3d16aa617881fcc7a7b93e28044a60f3a7a5127d9417d7df711233f1062ca566": "2026-11-27T14:08:59.154758+09:00"
+    "3d16aa617881fcc7a7b93e28044a60f3a7a5127d9417d7df711233f1062ca566": "2026-11-27T14:08:59.154758+09:00",
+    "efdc53306bc69bb55ea5c9fae10f22d6f9b613ead178f7a3b8f31100fb99f42c": "2026-11-27T15:06:41.442956+09:00",
+    "04a585d6e98228992428067cd4e0fc2230f236d2e09d220dc4eaf195a5824b36": "2026-11-27T15:06:41.442956+09:00",
+    "9c2f7e7a2ca1e54ad284614f9f6366fdbdc1eb08215103ef442f85725f5883cf": "2026-11-27T15:06:41.442956+09:00",
+    "3e75920d4d9614225d6fef7a5db2ac1a54db9224628d6731afc8c70353af0554": "2026-11-27T15:06:41.442956+09:00",
+    "977658c456b52f949c1b3e38b5d77a28e7078533836acf0250e6f69593a21e85": "2026-11-27T15:06:41.442956+09:00",
+    "1e89a4e7da82e0247c7fda131b59607b4d764c6657d7b6ebb630849e831fc297": "2026-11-27T15:06:41.442956+09:00",
+    "a53b27fbd9c506762b835c9fa881d715e85961354d0f144434ed7b914133f48e": "2026-11-27T15:06:41.442956+09:00",
+    "2d0b9748b7a0889bf5be6bb851029929a5f1b0db2c5bcea7f6da36ada71d605d": "2026-11-27T15:06:41.442956+09:00",
+    "1c460ae2aa11e840cfd112fe6887b3e5e621f8e5cbbdd40d0c6e3f5d08577180": "2026-11-27T15:06:41.442956+09:00",
+    "cd13dbfc58a0d991ce287182f0c538032dd90ff871455a800bcb5f8c77d153dd": "2026-11-27T15:06:41.442956+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4121367": {
+      "title": "경북 교육청, 메이커교육관 구미 이전 건립 ...281억 원 투입",
+      "summary": "경북 도교육청은 오늘(27일) 구미 금오공업고등학교에서 '메이커교육관 이전 건립 중간설계협의회'를 열었다고 밝혔습니다. 새 메이커교육관은 구미 금오공고 부지에 총사업비 281억 원을 들여 지상 3층, 연면적 5,060.83...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121367",
+      "date": "Fri, 27 Nov 2026 14:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.joseilbo.com/news/news_read.php?uid=580609&class=42&grp=": {
+      "title": "[명단] 2026년 하반기 국세청 6급 이하 승진(1363명)",
+      "summary": "안지영 세무 7 서울청 강정희 세무 6 서울청 김경호 세무 6 서울청 김다민 세무 6 서울청 김대우( 조사 1) 세무 6... 노영명 세무 8 대구 청 공성웅 세무 6 대구 청 김민주 세무 6 대구 청 김민창 세무 6 대구 청 류춘식 세무 6 대구 청...",
+      "url": "http://www.joseilbo.com/news/news_read.php?uid=580609&class=42&grp=",
+      "date": "Fri, 27 Nov 2026 14:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277973": {
+      "title": "국세청 6급 이하 직원 승진인사 명단[ 대구 지방 국세청 ]",
+      "summary": "대구 청 공성웅 세무6 대구 청 김민주 세무6 대구 청 김민창 세무6 대구 청 류춘식 세무6 대구 청 유병모 세무6 대구 청 이상욱 세무6 대구 청 이상훈 세무6 대구 청 이슬 세무6 대구 청 조명석 세무6 경산 이경옥 세무6 경주...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277973",
+      "date": "Fri, 27 Nov 2026 14:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277972": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[광주지방 국세청 ]",
+      "summary": "광주청 강경희 세무6 광주청 강윤성 세무6 광주청 김민정 세무6 광주청 김재은 세무6 광주청 박슬기 세무6 광주청 박환 세무6 광주청 성명재 세무6 광주청 송원호 세무6 광주청 정수현 세무6 광주청 정혜화 세무6...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277972",
+      "date": "Fri, 27 Nov 2026 14:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277976": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[국세공무원교육원]",
+      "summary": "교육원 박정우 세무6 교육원 현정용 세무6 교육원 김수민 세무7 교육원 오유석 세무7 -2026. 11. 30.字",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277976",
+      "date": "Fri, 27 Nov 2026 14:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277974": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[부산지방 국세청 ]",
+      "summary": "부산청 김미숙 세무6 부산청 김민정 세무6 부산청 김민진 세무6 부산청 김선경 세무6 부산청 김성기 세무6 부산청 김판신 세무6 부산청 김혜원 세무6 부산청 문하윤 세무6 부산청 박욱현 세무6 부산청 박종군 세무6...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277974",
+      "date": "Fri, 27 Nov 2026 14:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277978": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[주류면허지원센터]",
+      "summary": "지원센터 문준웅 공업7 지원센터 현준혁 공업8 -2026. 11. 30.字",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277978",
+      "date": "Fri, 27 Nov 2026 14:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277977": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[국세상담센터]",
+      "summary": "상담센터 김선정 세무6 상담센터 김지호 세무6 상담센터 노기숙 세무6 상담센터 이원경 세무6 상담센터 정동환 세무6 상담센터 김해운 세무7 상담센터 서진 세무7 상담센터 안지영 세무7 -2026. 11. 30.字",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277977",
+      "date": "Fri, 27 Nov 2026 14:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.joseilbo.com/news/news_read.php?uid=580607&class=7&grp=": {
+      "title": "국세청 , 6급 이하 1363명 승진…올해 총 2563명",
+      "summary": "국세청 은 이번 인사 의 특징으로 정원 확대를 통한 승진 가능 인원 최대 확보를 꼽았다. 연간 승진 인원은 2023년 1253명, 2024년 1601명, 2025년 1919명, 2026년 2563명이다. 국세외수입, 체납분석, 인공지능 분야 등 본청...",
+      "url": "http://www.joseilbo.com/news/news_read.php?uid=580607&class=7&grp=",
+      "date": "Fri, 27 Nov 2026 14:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.newstomato.com/ReadNews.aspx?no=1322118&inflow=N": {
+      "title": "(단독)적자 늪 빠진 대동 , 부사장 3인 해임…경영체제 재편",
+      "summary": "뉴스토마토 = 변소인 기자 | 대동 (000490)그룹이 미래농업 기업으로의 전환을 이끌어 온 부사장 3명을 해임하기로 했습니다. 인공지능(AI)과 로봇을 성장축으로 삼고 외부 전문가를 중용했던 대동 이 적자가 심화하자...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1322118&inflow=N",
+      "date": "Fri, 27 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=241545": {
+      "title": "엘앤에프 7만3800원…양극재 매출 늘었지만 3분기 적자",
+      "summary": "엘앤에프 가 오후 7만원대를 나타냈다. 장중 고점은 7만4000원이었다. 전 거래일 기준가격 65,800원과... 엘앤에프 는 5일 3분기 잠정 연결 매출 약 8744억원, 영업손실 265억원을 공시했다. 매출이 전년 같은 분기보다...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=241545",
+      "date": "Fri, 27 Nov 2026 14:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=241513": {
+      "title": "이수페타시스 6만7800원…고사양 기판 수주 구성 변화",
+      "summary": "이수페타시스 가 장중 6만8200원까지 거래됐다. 오후 거래가도 전 거래일보다 4% 넘게 상승했다. 유가증권시장에서 27일 오후 2시 5분 기준 이수페타시스 의 주가는 67,800원을 기록했다. 전 거래일 종가 64,900원 대비...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=241513",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SS15S2FUSFJqdU5Eak9SQzBVXzBjZkZYQXFpVVBxQy1XOXo1cFFuVWlEOXdfT1ZQSmN0b2VjX2VfaFZ6OTh3NC1WSWFNSXFFVlFsMEtDNDBtUXVSRFBhRVJ3cXQ?oc=5": {
+      "title": "대구 남구-한국지방세연구원, 고향사랑기부제 활성화 업무협약(MOU) 체결 - OMATE 시니어",
+      "summary": "대구 남구-한국지방세연구원, 고향사랑기부제 활성화 업무협약(MOU) 체결 OMATE 시니어",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SS15S2FUSFJqdU5Eak9SQzBVXzBjZkZYQXFpVVBxQy1XOXo1cFFuVWlEOXdfT1ZQSmN0b2VjX2VfaFZ6OTh3NC1WSWFNSXFFVlFsMEtDNDBtUXVSRFBhRVJ3cXQ?oc=5",
+      "date": "Fri, 27 Nov 2026 05:53:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    }
+  },
   "ai": {
     "2026-11-20": 6,
     "2026-11-22": 9,
@@ -1841,71 +2027,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.kbsm.net/news/view.php?idx=543244": {
-      "title": "구미 시- 구미 전자정보기술원, 구미 국가산업단지 스마트 안전솔루션 보급",
-      "summary": "이 사업은 위험물‧유해화학물질 취급‧보관, 노후공장 밀집 등으로 중대재해 발생 위험이 큰 구역을 특별안전구역(Safety Zone)으로 지정해 집중 관리하는 것으로 구미 국가산업단지에서는 1~4공단에 특별안전구역이 지정돼...",
-      "url": "https://www.kbsm.net/news/view.php?idx=543244",
-      "date": "Wed, 25 Nov 2026 14:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.dkilbo.com/news/articleView.html?idxno=562068": {
-      "title": "구미 시, 구미 전자정보기술원 구미 국가산업단지 8개사에 스마트 안전솔루...",
-      "summary": "고도화하고, 구미 국가산업단지 입주기업 8개사에 전기 화재 , 화재 감지 안전솔루션을 보급하기 위해서다. 특히... 데이터는 구미 시 스마트그린 산단 통합관제센터와 한국산업단지공단 특별안전구역터링 시스템 으로 전송돼...",
-      "url": "https://www.dkilbo.com/news/articleView.html?idxno=562068",
-      "date": "Wed, 25 Nov 2026 14:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.areyou.co.kr/news/articleView.html?idxno=96465": {
-      "title": "[아유경제_부동산]한국부동산원- 아이엠뱅크 , 주거래은행 업무협약… \"안...",
-      "summary": "한국부동산원은 이달 24일 아이엠뱅크 와 '한국부동산원 주거래은행 업무협약'을 체결했다고 밝혔다. 한국부동산원의 안정적이고 체계적인 금융거래 기반을 마련하고, 금융서비스의 질적 향상과 금융 업무의 효율성을...",
-      "url": "http://www.areyou.co.kr/news/articleView.html?idxno=96465",
-      "date": "Wed, 25 Nov 2026 14:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 아이엠뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.newswatch.kr/news/articleView.html?idxno=82067": {
-      "title": "현대엔지니어링, 2조2840억원 규모 용인·호남 발전사업 수주",
-      "summary": "송치영 포스코 이앤씨 사장 등이 참석한 가운데 '호남 복합발전소 건설 사업' 계약 서명식을 진행했다.... 현대엔지니어링은 컨소시엄 대표사로 설계와 주요 기자재 조달을 담당하며, 포스코 이앤씨는 시공을 수행한다....",
-      "url": "http://www.newswatch.kr/news/articleView.html?idxno=82067",
-      "date": "Wed, 25 Nov 2026 14:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.mediapen.com/news/view/1139932": {
-      "title": "포스코 이앤씨, 실적 반등 본격화…안전 경영으로 신뢰 되찾는다",
-      "summary": "포스코이앤씨 전경./사진=포스코이앤씨 25일 건설업계와 포스코홀딩스 등에 따르면 포스코이앤씨는 올해 3분기 매출 1조7630억 원을 올렸다. 지난해 같은 기간(1조4080억 원)보다 25.2% 많다. 영업이익은 480억 원, 순이익은...",
-      "url": "https://www.mediapen.com/news/view/1139932",
-      "date": "Wed, 25 Nov 2026 14:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://sateconomy.co.kr/news/view/1065595308042264": {
       "title": "iM뱅크 , 한국부동산원 주거래은행 선정…향후 3년간 자금관리",
       "summary": "경쟁입찰 거쳐 운영권 확보…수납·집행 등 금융업무 수행 통합자금관리시스템 구축…공공기관 금융거래 기반 확대 ▲ iM뱅크 가 지난 24일 대구 한국부동산원 본사에서 주거래은행 업무협약을 체결했다.[연합뉴스]...",
@@ -5351,6 +5472,305 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://news.bbsi.co.kr/news/articleView.html?idxno=4121367": {
+      "title": "경북 교육청, 메이커교육관 구미 이전 건립 ...281억 원 투입",
+      "summary": "경북 도교육청은 오늘(27일) 구미 금오공업고등학교에서 '메이커교육관 이전 건립 중간설계협의회'를 열었다고 밝혔습니다. 새 메이커교육관은 구미 금오공고 부지에 총사업비 281억 원을 들여 지상 3층, 연면적 5,060.83...",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121367",
+      "date": "Fri, 27 Nov 2026 14:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.tfmedia.co.kr/news/article.html?no=209294": {
+      "title": "[인사] 국세청 전체 6급 이하 승진 명단",
+      "summary": "안지영 세무 7 서울청 강정희 세무 6 서울청 김경호 세무 6 서울청 김다민 세무 6 서울청 김대우( 조사 1) 세무 6... 노영명 세무 8 대구 청 공성웅 세무 6 대구 청 김민주 세무 6 대구 청 김민창 세무 6 대구 청 류춘식 세무 6 대구 청...",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=209294",
+      "date": "Fri, 27 Nov 2026 14:34:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.sejungilbo.com/news/articleView.html?idxno=61320": {
+      "title": "[인사] 국세청, `26년 하반기 6급 이하 정기 승진인사 단행…총 1363명 승...",
+      "summary": "강정희 ☞ 세무 6 △ 서울청 김경호 ☞ 세무 6 △ 서울청 김다민 ☞ 세무 6 △ 서울청 김대우( 조사 1) ☞ 세무 6... 이형준 ☞ 세무 6 △ 구미 김자헌 ☞ 세무 6 △ 구미 박규진 ☞ 세무 6 △ 김천 오호석 ☞ 세무 6 △ 남대구...",
+      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=61320",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.joseilbo.com/news/news_read.php?uid=580609&class=42&grp=": {
+      "title": "[명단] 2026년 하반기 국세청 6급 이하 승진(1363명)",
+      "summary": "안지영 세무 7 서울청 강정희 세무 6 서울청 김경호 세무 6 서울청 김다민 세무 6 서울청 김대우( 조사 1) 세무 6... 노영명 세무 8 대구 청 공성웅 세무 6 대구 청 김민주 세무 6 대구 청 김민창 세무 6 대구 청 류춘식 세무 6 대구 청...",
+      "url": "http://www.joseilbo.com/news/news_read.php?uid=580609&class=42&grp=",
+      "date": "Fri, 27 Nov 2026 14:14:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277979": {
+      "title": "국세청 , 6급 이하 1천363명 정기 승진 인사 단행",
+      "summary": "국세청 은 승진 인사 공지에서 정원 확대를 통해 승진 인원을 최대한 확보했음을 밝혔다. 국세청 6급 이하 승진은 해마다 늘어, 지난 2023년 1천243명에서, 2024년 1천601명, 2025년 1천919명 등으로 증가했다....",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277979",
+      "date": "Fri, 27 Nov 2026 14:40:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277966": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[ 국세청 ]",
+      "summary": "국세청 김나영 세무6 국세청 김민정 세무6 국세청 김병휘 세무6 국세청 김성주 세무6 국세청 김정효 세무6 국세청 김지현 세무6 국세청 김진석 세무6 국세청 김진영 세무6 국세청 김창권 세무6 국세청 김효동 세무6...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277966",
+      "date": "Fri, 27 Nov 2026 14:26:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277969": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[중부지방 국세청 ]",
+      "summary": "중부청 권택경 세무6 중부청 김광준 세무6 중부청 김남영 세무6 중부청 김보미 세무6 중부청 김상옥 세무6 중부청 김소정 세무6 중부청 김영석 세무6 중부청 김유정 세무6 중부청 김종훈 세무6 중부청 김현일 세무6...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277969",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277968": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[서울지방 국세청 ]",
+      "summary": "서울청 강정희 세무6 서울청 김경호 세무6 서울청 김다민 세무6 서울청 김대우(조사1) 세무6 서울청 김대우(조사3) 세무6 서울청 김덕진 세무6 서울청 김명열 세무6 서울청 김명진 세무6 서울청 김세희 세무6 서울청...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277968",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277970": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[인천지방 국세청 ]",
+      "summary": "인천청 김지수 세무6 인천청 정다은 세무6 인천청 정현정 세무6 인천청 권병묵 세무6 인천청 박일호 세무6 인천청 박정은 세무6 인천청 이광환 세무6 인천청 임은식 세무6 인천청 전현정 세무6 인천청 남현철 세무6...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277970",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.intn.co.kr/news/articleView.html?idxno=3000577": {
+      "title": "국세청 , 올 하반기 6급이하 총 1363명 직원 승진 인사 단행",
+      "summary": "국세청 은 11월 27일 2026년 하반기 6급 이하 직원에 대한 정기 승진심사 결과를 발표했다. 이번 인사 에서는 세무직 총 1316명(6급 391명, 7급 385명, 8급 540명)과 전산직 42명, 공업직 4명, 시설직 1명이 승진했으며...",
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000577",
+      "date": "Fri, 27 Nov 2026 14:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277971": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[대전지방 국세청 ]",
+      "summary": "대전청 강안나 세무6 대전청 강훈 세무6 대전청 김선기 세무6 대전청 김태건 세무6 대전청 박상욱 세무6 대전청 박세환 세무6 대전청 신숙희 세무6 대전청 윤상탁 세무6 대전청 윤석창 세무6 대전청 윤재두 세무6...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277971",
+      "date": "Fri, 27 Nov 2026 14:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277973": {
+      "title": "국세청 6급 이하 직원 승진인사 명단[ 대구 지방 국세청 ]",
+      "summary": "대구 청 공성웅 세무6 대구 청 김민주 세무6 대구 청 김민창 세무6 대구 청 류춘식 세무6 대구 청 유병모 세무6 대구 청 이상욱 세무6 대구 청 이상훈 세무6 대구 청 이슬 세무6 대구 청 조명석 세무6 경산 이경옥 세무6 경주...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277973",
+      "date": "Fri, 27 Nov 2026 14:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277972": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[광주지방 국세청 ]",
+      "summary": "광주청 강경희 세무6 광주청 강윤성 세무6 광주청 김민정 세무6 광주청 김재은 세무6 광주청 박슬기 세무6 광주청 박환 세무6 광주청 성명재 세무6 광주청 송원호 세무6 광주청 정수현 세무6 광주청 정혜화 세무6...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277972",
+      "date": "Fri, 27 Nov 2026 14:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277976": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[국세공무원교육원]",
+      "summary": "교육원 박정우 세무6 교육원 현정용 세무6 교육원 김수민 세무7 교육원 오유석 세무7 -2026. 11. 30.字",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277976",
+      "date": "Fri, 27 Nov 2026 14:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277974": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[부산지방 국세청 ]",
+      "summary": "부산청 김미숙 세무6 부산청 김민정 세무6 부산청 김민진 세무6 부산청 김선경 세무6 부산청 김성기 세무6 부산청 김판신 세무6 부산청 김혜원 세무6 부산청 문하윤 세무6 부산청 박욱현 세무6 부산청 박종군 세무6...",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277974",
+      "date": "Fri, 27 Nov 2026 14:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277978": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[주류면허지원센터]",
+      "summary": "지원센터 문준웅 공업7 지원센터 현준혁 공업8 -2026. 11. 30.字",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277978",
+      "date": "Fri, 27 Nov 2026 14:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.taxtimes.co.kr/news/article.html?no=277977": {
+      "title": "국세청 6급 이하 직원 승진 인사 명단[국세상담센터]",
+      "summary": "상담센터 김선정 세무6 상담센터 김지호 세무6 상담센터 노기숙 세무6 상담센터 이원경 세무6 상담센터 정동환 세무6 상담센터 김해운 세무7 상담센터 서진 세무7 상담센터 안지영 세무7 -2026. 11. 30.字",
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277977",
+      "date": "Fri, 27 Nov 2026 14:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.joseilbo.com/news/news_read.php?uid=580607&class=7&grp=": {
+      "title": "국세청 , 6급 이하 1363명 승진…올해 총 2563명",
+      "summary": "국세청 은 이번 인사 의 특징으로 정원 확대를 통한 승진 가능 인원 최대 확보를 꼽았다. 연간 승진 인원은 2023년 1253명, 2024년 1601명, 2025년 1919명, 2026년 2563명이다. 국세외수입, 체납분석, 인공지능 분야 등 본청...",
+      "url": "http://www.joseilbo.com/news/news_read.php?uid=580607&class=7&grp=",
+      "date": "Fri, 27 Nov 2026 14:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISX20261127_0003886396": {
+      "title": "대구 만촌동 아파트 화재 …진화 작업중",
+      "summary": "대구 소방안전본부에 따르면 이날 오후 1시44분 수성구 만촌동의 한 아파트 에어컨에서 불이 났다는 신고가 접수됐다. 소방당국은 차량 40대와 인력 113명을 동원해 진화에 나섰다. 경찰과 소방당국은 인명피해와 화재 ...",
+      "url": "https://www.newsis.com/view/NISX20261127_0003886396",
+      "date": "Fri, 27 Nov 2026 14:59:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.newstomato.com/ReadNews.aspx?no=1322118&inflow=N": {
+      "title": "(단독)적자 늪 빠진 대동 , 부사장 3인 해임…경영체제 재편",
+      "summary": "뉴스토마토 = 변소인 기자 | 대동 (000490)그룹이 미래농업 기업으로의 전환을 이끌어 온 부사장 3명을 해임하기로 했습니다. 인공지능(AI)과 로봇을 성장축으로 삼고 외부 전문가를 중용했던 대동 이 적자가 심화하자...",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1322118&inflow=N",
+      "date": "Fri, 27 Nov 2026 14:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 대동",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=241545": {
+      "title": "엘앤에프 7만3800원…양극재 매출 늘었지만 3분기 적자",
+      "summary": "엘앤에프 가 오후 7만원대를 나타냈다. 장중 고점은 7만4000원이었다. 전 거래일 기준가격 65,800원과... 엘앤에프 는 5일 3분기 잠정 연결 매출 약 8744억원, 영업손실 265억원을 공시했다. 매출이 전년 같은 분기보다...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=241545",
+      "date": "Fri, 27 Nov 2026 14:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 엘앤에프",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.job-post.co.kr/news/articleView.html?idxno=241513": {
+      "title": "이수페타시스 6만7800원…고사양 기판 수주 구성 변화",
+      "summary": "이수페타시스 가 장중 6만8200원까지 거래됐다. 오후 거래가도 전 거래일보다 4% 넘게 상승했다. 유가증권시장에서 27일 오후 2시 5분 기준 이수페타시스 의 주가는 67,800원을 기록했다. 전 거래일 종가 64,900원 대비...",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=241513",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 이수페타시스",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SS15S2FUSFJqdU5Eak9SQzBVXzBjZkZYQXFpVVBxQy1XOXo1cFFuVWlEOXdfT1ZQSmN0b2VjX2VfaFZ6OTh3NC1WSWFNSXFFVlFsMEtDNDBtUXVSRFBhRVJ3cXQ?oc=5": {
+      "title": "대구 남구-한국지방세연구원, 고향사랑기부제 활성화 업무협약(MOU) 체결 - OMATE 시니어",
+      "summary": "대구 남구-한국지방세연구원, 고향사랑기부제 활성화 업무협약(MOU) 체결 OMATE 시니어",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SS15S2FUSFJqdU5Eak9SQzBVXzBjZkZYQXFpVVBxQy1XOXo1cFFuVWlEOXdfT1ZQSmN0b2VjX2VfaFZ6OTh3NC1WSWFNSXFFVlFsMEtDNDBtUXVSRFBhRVJ3cXQ?oc=5",
+      "date": "Fri, 27 Nov 2026 05:53:00 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5380,11 +5800,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-27",
   "sent_articles": [
-    {
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284757&CMPT_CD=P0010",
-      "title": "'유류비 과다 지출, 현금 수입 누락' 의혹... 김천버스 논란 확산",
-      "date": "Fri, 13 Nov 2026 14:51:00 +0900"
-    },
     {
       "url": "https://www.mediapen.com/news/view/1137372",
       "title": "체코 원전 시공사 교체 후폭풍…국회 청문회서 '템퍼링 의혹' 따지나",
@@ -9934,6 +10349,56 @@
       "url": "http://www.finomy.com/news/articleView.html?idxno=268152",
       "title": "[공시] 한국가스공사 , 182조원 규모 천연가스 공급계약 체결",
       "date": "Fri, 27 Nov 2026 13:10:00 +0900"
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261127_0003886396",
+      "title": "대구 만촌동 아파트 화재 …진화 작업중",
+      "date": "Fri, 27 Nov 2026 14:59:00 +0900"
+    },
+    {
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277979",
+      "title": "국세청 , 6급 이하 1천363명 정기 승진 인사 단행",
+      "date": "Fri, 27 Nov 2026 14:40:00 +0900"
+    },
+    {
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=209294",
+      "title": "[인사] 국세청 전체 6급 이하 승진 명단",
+      "date": "Fri, 27 Nov 2026 14:34:00 +0900"
+    },
+    {
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277966",
+      "title": "국세청 6급 이하 직원 승진 인사 명단[ 국세청 ]",
+      "date": "Fri, 27 Nov 2026 14:26:00 +0900"
+    },
+    {
+      "url": "https://www.sejungilbo.com/news/articleView.html?idxno=61320",
+      "title": "[인사] 국세청, `26년 하반기 6급 이하 정기 승진인사 단행…총 1363명 승...",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900"
+    },
+    {
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277969",
+      "title": "국세청 6급 이하 직원 승진 인사 명단[중부지방 국세청 ]",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900"
+    },
+    {
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277968",
+      "title": "국세청 6급 이하 직원 승진 인사 명단[서울지방 국세청 ]",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900"
+    },
+    {
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277970",
+      "title": "국세청 6급 이하 직원 승진 인사 명단[인천지방 국세청 ]",
+      "date": "Fri, 27 Nov 2026 14:24:00 +0900"
+    },
+    {
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000577",
+      "title": "국세청 , 올 하반기 6급이하 총 1363명 직원 승진 인사 단행",
+      "date": "Fri, 27 Nov 2026 14:22:00 +0900"
+    },
+    {
+      "url": "https://www.taxtimes.co.kr/news/article.html?no=277971",
+      "title": "국세청 6급 이하 직원 승진 인사 명단[대전지방 국세청 ]",
+      "date": "Fri, 27 Nov 2026 14:22:00 +0900"
     }
   ],
   "brief_articles": [
