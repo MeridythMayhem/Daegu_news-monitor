@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5": "2026-11-13T20:02:17.609529+09:00",
     "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view": "2026-11-13T21:01:58.569641+09:00",
     "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721": "2026-11-13T22:01:50.947318+09:00",
     "https://www.kbsm.net/news/view.php?idx=541629": "2026-11-13T22:01:50.947318+09:00",
@@ -922,10 +921,10 @@
     "https://www.intn.co.kr/news/articleView.html?idxno=3000589": "2026-11-27T19:09:12.630088+09:00",
     "https://www.intn.co.kr/news/articleView.html?idxno=3000588": "2026-11-27T19:09:12.630088+09:00",
     "https://www.ddaily.co.kr/page/view/2026112718065343848": "2026-11-27T19:09:12.630088+09:00",
-    "http://fpn119.co.kr/260185": "2026-11-27T19:09:12.630088+09:00"
+    "http://fpn119.co.kr/260185": "2026-11-27T19:09:12.630088+09:00",
+    "https://www.kbmaeil.com/article/20261127500320": "2026-11-27T21:07:18.895461+09:00"
   },
   "titles": {
-    "d160c408e71f1edd8bfa7df23366b1a11db111a52911c845f9a72fa1294896f5": "2026-11-13T20:02:17.609529+09:00",
     "35259da290f3e8495151350469b2b5954b3ba7c18a7086738613a718fbb63e84": "2026-11-13T21:01:58.569641+09:00",
     "a6e91bb9993279706ed1712a8437552097975bf423cb536b3e14f53d2a923bcb": "2026-11-13T22:01:50.947318+09:00",
     "fabb837a30d808d3c293623ccb15a8042d81b4293e12b5d7775b705906c1785b": "2026-11-13T22:01:50.947318+09:00",
@@ -1847,7 +1846,8 @@
     "b827883796910a8a369e7b0daf466a779aa2415d043d76b8728f6c99913dbc79": "2026-11-27T19:09:12.630088+09:00",
     "56d036ee715e7ae8cace55290077637903cea55c5d51d7b4ac134bee437bd825": "2026-11-27T19:09:12.630088+09:00",
     "2b01aaee6c69b32f850cbe70f5e6ae1aa4ec0ba6c02f81e4f9859efc2cd14817": "2026-11-27T19:09:12.630088+09:00",
-    "07ba20a0a5818e92fd5204f9426371ae16918d515b1615641d26a78991cd6c7f": "2026-11-27T19:09:12.630088+09:00"
+    "07ba20a0a5818e92fd5204f9426371ae16918d515b1615641d26a78991cd6c7f": "2026-11-27T19:09:12.630088+09:00",
+    "1c6e1cc8cb0d2dd74df12262dc5034d3a7ca9c7c42b4773d005a35eabb1382b0": "2026-11-27T21:07:18.895461+09:00"
   },
   "pending": {},
   "ai": {
@@ -1861,45 +1861,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.chosun.com/national/regional/2026/11/25/4JLTFMGIPRHUBJ4OWJOEJMZ6TQ/": {
-      "title": "경북 봉화서 타이어 수리하던 50대 작업자 2명 사망",
-      "summary": "경북 봉화군에서 1t 화물차 타이어 수리 작업을 하던 50대 작업자 2명이 숨지는 사고가 발생했다. 25일 오후... 경찰은 현재까지 범죄 혐의 점은 없는 것으로 보고 있다. 경찰은 인근 CCTV와 차량 블랙박스 등을 확인해...",
-      "url": "https://www.chosun.com/national/regional/2026/11/25/4JLTFMGIPRHUBJ4OWJOEJMZ6TQ/",
-      "date": "Wed, 25 Nov 2026 20:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.cctimes.kr/news/articleView.html?idxno=939195": {
-      "title": "'4명 사상' 공장 폭발 사고 에코프로 비엠 전 대표 징역형",
-      "summary": "4명의 사상자가 발생한 청주 에코프로 비엠 공장 폭발 화재 사고와 관련해 당시 안전관리 총책임자였던 전 대표이사가 징역형을 선고받았다. 청주지법 형사6단독 조진용 판사는 25일 업무상과실치사 등 혐의로 불구속...",
-      "url": "http://www.cctimes.kr/news/articleView.html?idxno=939195",
-      "date": "Wed, 25 Nov 2026 20:12:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5va3BtSFl2UnZpdGV4Umgyek5pRnVnaGFUMnFTRF9qNlg4Qml3SWZoTmNoU1dIOUcxM1dEajJ0LXdpSnRPVHNNeGFRSVRlOTZ3N0hKeHRfUndRVlVIbHB3eGpkTEFELU9CUmc?oc=5": {
-      "title": "iM뱅크, 한국부동산원과 주거래은행 업무협약 체결 - www.hidomin.com",
-      "summary": "iM뱅크, 한국부동산원과 주거래은행 업무협약 체결 www.hidomin.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5va3BtSFl2UnZpdGV4Umgyek5pRnVnaGFUMnFTRF9qNlg4Qml3SWZoTmNoU1dIOUcxM1dEajJ0LXdpSnRPVHNNeGFRSVRlOTZ3N0hKeHRfUndRVlVIbHB3eGpkTEFELU9CUmc?oc=5",
-      "date": "Wed, 25 Nov 2026 11:23:37 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.idaegu.co.kr/news/articleView.html?idxno=566512": {
       "title": "대구 의료 다시 뛴다…中 시안·베이징서 MOU 6건 체결",
       "summary": "허영주 대구 시치과의사회장(오른쪽)이 지난 17일 중국 시안에서 AI 기반 치의학 연구 협력을 위한 업무협약을 체결한 뒤 기념촬영을 하고 있다. 메디시티 대구 협의회 제공 민복기 (사)AI바이오·메디시티 대구 협의회장(왼쪽)...",
@@ -5422,6 +5383,19 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.kbmaeil.com/article/20261127500320": {
+      "title": "iM뱅크 지역재투자 3년 연속 ‘최우수’… 대구 은행 권 예대율 168.6%",
+      "summary": "대구 은행 권의 예대율은 168.6%로 비수도권 평균인 131.7%를 36.9%포인트 웃돌았다. 금융위원회는 27일 지역재투자 평가위원회를 열고 국내 은행 15곳과 상호저축은행 12곳의 지난해 실적을 바탕으로 ‘2026년도 금융회사...",
+      "url": "https://www.kbmaeil.com/article/20261127500320",
+      "date": "Fri, 27 Nov 2026 20:32:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: iM뱅크, 대구은행",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5451,11 +5425,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-27",
   "sent_articles": [
-    {
-      "url": "http://www.phmbc.co.kr/www/news/desk_news?idx=205441&mode=view",
-      "title": "건설현장 추락 사망 사고 증가..안전관리 강화",
-      "date": "Fri, 13 Nov 2026 20:42:00 +0900"
-    },
     {
       "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090721",
       "title": "경북 행복재단 연구원 사망 산재 인정…노조, 책임자 처벌 촉구",
@@ -10060,6 +10029,11 @@
       "url": "http://fpn119.co.kr/260185",
       "title": "대구 서부소방서, 서 대구 산업단지 관계자 대상 겨울철 소방안전교육",
       "date": "Fri, 27 Nov 2026 18:02:00 +0900"
+    },
+    {
+      "url": "https://www.kbmaeil.com/article/20261127500320",
+      "title": "iM뱅크 지역재투자 3년 연속 ‘최우수’… 대구 은행 권 예대율 168.6%",
+      "date": "Fri, 27 Nov 2026 20:32:00 +0900"
     }
   ],
   "brief_articles": [
