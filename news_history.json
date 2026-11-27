@@ -1,11 +1,5 @@
 {
   "sent": {
-    "https://www.wikileaks-kr.org/news/articleView.html?idxno=194624": "2026-11-13T18:01:51.522814+09:00",
-    "http://www.consumernews.co.kr/news/articleView.html?idxno=768265": "2026-11-13T18:01:51.522814+09:00",
-    "https://www.bloter.net/news/articleView.html?idxno=678519": "2026-11-13T18:01:51.522814+09:00",
-    "https://www.joongang.co.kr/article/25478435": "2026-11-13T18:01:51.522814+09:00",
-    "https://daily.hankooki.com/news/articleView.html?idxno=1425088": "2026-11-13T18:01:51.522814+09:00",
-    "https://www.businesspost.co.kr/BP?command=article_view&num=451978": "2026-11-13T18:01:51.522814+09:00",
     "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177": "2026-11-13T19:01:50.117076+09:00",
     "https://www.news1.kr/industry/general-industry/6353808": "2026-11-13T19:01:50.117076+09:00",
     "http://www.weeklytoday.com/news/articleView.html?idxno=802077": "2026-11-13T19:01:50.117076+09:00",
@@ -926,15 +920,14 @@
     "https://www.thelec.kr/news/articleView.html?idxno=66027": "2026-11-27T18:11:35.470164+09:00",
     "http://www.finomy.com/news/articleView.html?idxno=268157": "2026-11-27T18:11:35.470164+09:00",
     "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088754": "2026-11-27T18:11:35.470164+09:00",
-    "https://www.it-b.co.kr/news/articleView.html?idxno=90893": "2026-11-27T18:11:35.470164+09:00"
+    "https://www.it-b.co.kr/news/articleView.html?idxno=90893": "2026-11-27T18:11:35.470164+09:00",
+    "https://www.intn.co.kr/news/articleView.html?idxno=3000590": "2026-11-27T19:09:12.630088+09:00",
+    "https://www.intn.co.kr/news/articleView.html?idxno=3000589": "2026-11-27T19:09:12.630088+09:00",
+    "https://www.intn.co.kr/news/articleView.html?idxno=3000588": "2026-11-27T19:09:12.630088+09:00",
+    "https://www.ddaily.co.kr/page/view/2026112718065343848": "2026-11-27T19:09:12.630088+09:00",
+    "http://fpn119.co.kr/260185": "2026-11-27T19:09:12.630088+09:00"
   },
   "titles": {
-    "db426e8177c1831d159ccc2e9517967afaafcdca208171ec10cf67103261d24f": "2026-11-13T18:01:51.522814+09:00",
-    "fff19132de48549d4d35f3819e8a71a54cf69c41cc17d32f8db9872d64b45fb6": "2026-11-13T18:01:51.522814+09:00",
-    "74c463ee53c5952d07548d1a64b2b2f3ead4e4bb2a15ae818415aafb47e80c79": "2026-11-13T18:01:51.522814+09:00",
-    "95d06d0eb1674f27e5a97dd7fe5a1f80d93a984e80f310f4a0f6a151faa514f6": "2026-11-13T18:01:51.522814+09:00",
-    "c2b484f207d65207d51f60f117e52a50d8b62433e72b968d9163d7230caa4056": "2026-11-13T18:01:51.522814+09:00",
-    "f81ca0fdbdfaf36966bd59d67713bff6e48f69060cc559cb2c70d0a56c9d3625": "2026-11-13T18:01:51.522814+09:00",
     "ca8c72e1ad8b8a4f18bc42d7cb6105b66bb86f91ab86fe79a8e9f05e70f5f8a3": "2026-11-13T19:01:50.117076+09:00",
     "bad20b24abd64ed9c41093230ecfac2c3e8f63f337c6b5f08013a4e2af99991c": "2026-11-13T19:01:50.117076+09:00",
     "43206500390da1a205d4effe0eeccc21a931e17f9f2b979257277c43f0830cba": "2026-11-13T19:01:50.117076+09:00",
@@ -1855,7 +1848,12 @@
     "0e6b64227b48cf375eba3f1eaa3365b3312cd1ee1a6d626b82a8cd957014e581": "2026-11-27T18:11:35.470164+09:00",
     "a9b81bff9c75f26a084d6b6485a132c1422167e6f73b2e54037d43c083b864ae": "2026-11-27T18:11:35.470164+09:00",
     "01d9c77bad9c8b4e1c017a52c5aa77b00c625458ad7216eca04b4698571b179f": "2026-11-27T18:11:35.470164+09:00",
-    "24a0a9a0f0654c127ab6f7c8993dd3ecb6ad52a3acc081513b0d57a3b629dac1": "2026-11-27T18:11:35.470164+09:00"
+    "24a0a9a0f0654c127ab6f7c8993dd3ecb6ad52a3acc081513b0d57a3b629dac1": "2026-11-27T18:11:35.470164+09:00",
+    "ac7ffe4c4c2a67f2cf718b05d76ad66f3d0ce15e5744a8244b67d749c3b4731d": "2026-11-27T19:09:12.630088+09:00",
+    "b827883796910a8a369e7b0daf466a779aa2415d043d76b8728f6c99913dbc79": "2026-11-27T19:09:12.630088+09:00",
+    "56d036ee715e7ae8cace55290077637903cea55c5d51d7b4ac134bee437bd825": "2026-11-27T19:09:12.630088+09:00",
+    "2b01aaee6c69b32f850cbe70f5e6ae1aa4ec0ba6c02f81e4f9859efc2cd14817": "2026-11-27T19:09:12.630088+09:00",
+    "07ba20a0a5818e92fd5204f9426371ae16918d515b1615641d26a78991cd6c7f": "2026-11-27T19:09:12.630088+09:00"
   },
   "pending": {},
   "ai": {
@@ -1869,45 +1867,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.fnnews.com/news/202611251808215970": {
-      "title": "부동산원, 아이엠뱅크 와 '주거래은행' 협약",
-      "summary": "한국부동산원이 아이엠뱅크 를 주거래은행으로 삼아 앞으로 3년간 자금 관리 등 금융 업무 전반을 맡긴다. 25일 부동산원에 따르면 이헌욱 원장과 강정훈 아이엠뱅크 은행장은 전날 대구 부동산원 본사에서 '한국부동산원...",
-      "url": "https://www.fnnews.com/news/202611251808215970",
-      "date": "Wed, 25 Nov 2026 18:09:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 아이엠뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ccdn.co.kr/news/articleView.html?idxno=1113630": {
-      "title": "'폭발사고로 4명 사상' 에코프로 비엠 전 대표 집유",
-      "summary": "4명의 사상자가 발생한 청주 에코프로 비엠 공장 폭발 화재 사고와 관련해 당시 안전관리 총책임자였던 전 대표이사가 징역형의 집행유예를 선고받았다. 청주지법 형사6단독 조진용 판사는 25일 업무상과실치사 등...",
-      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1113630",
-      "date": "Wed, 25 Nov 2026 18:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.thebigdata.co.kr/view.php?ud=202611251826396141570d99e4c8_23": {
-      "title": "포스코 그룹 차기 회장 선임절차 담당할 독립이사 7명 면면은…",
-      "summary": "다시 말해 포스코홀딩스 독립이사는 차기 포스코그룹 회장 선임 절차에서 전원 독립이사로 구성되는 회장후보추천위원회(이하 회추위)의 주체로서, 후보군 발굴부터 자격 검증, 최종 후보 1인 선정에 이르는 전 과정을...",
-      "url": "https://www.thebigdata.co.kr/view.php?ud=202611251826396141570d99e4c8_23",
-      "date": "Wed, 25 Nov 2026 18:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
     "https://www.yna.co.kr/view/AKR20261125170200053?input=1195m": {
       "title": "타이어 수리 작업하던 2명, 화물차·레커 사이에 끼여 사망",
       "summary": "경북 봉화군에서 1t 화물차 타이어 수리 작업을 하던 50대 작업자 2명이 레커차와 화물차 사이에 끼여 숨지는... 경찰은 현재까지 범죄 혐의 점은 없는 것으로 보고 있다. 경찰 관계자는 \"사고가 난 도로는 경사가 심하지는...",
@@ -5430,6 +5389,71 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.intn.co.kr/news/articleView.html?idxno=3000590": {
+      "title": "[ 인사 ] 2026 하반기 부산지방 국세청 6급 이하 승진 (2026.11.30)",
+      "summary": "□부산지방 국세청 ▲김민정(세무6) ▲김민진(세무6) ▲▲김선경(세무6) ▲김성기(세무6) ▲김판신(세무6) ▲김혜원(세무6) ▲문하윤(세무6) ▲박욱현(세무6) ▲박종군(세무6) ▲박진희(세무6) ▲어윤필(세무6)...",
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000590",
+      "date": "Fri, 27 Nov 2026 18:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.intn.co.kr/news/articleView.html?idxno=3000589": {
+      "title": "[인사] 2026 하반기 대구 지방 국세청 6급 이하 승진 (2026.11.30)",
+      "summary": "□ 대구 지방 국세청 ▲공성웅(세무6) ▲김민주(세무6) ▲김민창(세무6) ▲류춘식(세무6) ▲유병모(세무6) ▲이상욱(세무6) ▲이상훈(세무6) ▲이슬(세무6) ▲조명석(세무6) ▲김남규(세무7) ▲도이광(세무7) ▲박청진...",
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000589",
+      "date": "Fri, 27 Nov 2026 18:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "https://www.intn.co.kr/news/articleView.html?idxno=3000588": {
+      "title": "[ 인사 ] 2026 하반기 광주지방 국세청 6급 이하 승진 (2026.11.30)",
+      "summary": "□광주지방 국세청 ▲강경희(세무6) ▲강윤성(세무6) ▲김민정(세무6) ▲김재은(세무6) ▲박슬기(세무6) ▲박환(세무6) ▲성명재(세무6) ▲송원호(세무6) ▲정수현(세무6) ▲정혜화(세무6) ▲최창무(세무6) ▲최향미...",
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000588",
+      "date": "Fri, 27 Nov 2026 18:46:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "",
+      "category": "주요인물·기관 인사",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://fpn119.co.kr/260185": {
+      "title": "대구 서부소방서, 서 대구 산업단지 관계자 대상 겨울철 소방안전교육",
+      "summary": "= 대구 서부소방서(서장 추주희)는 지난 19일 서 대구 산업단지 입주업체 관계자를 대상으로 겨울철 화재 예방 소방안전교육을 실시했다. 이번 교육은 공장 ㆍ창고가 밀집한 산업단지의 화재 특성과 실제 산업시설 화재 사례가...",
+      "url": "http://fpn119.co.kr/260185",
+      "date": "Fri, 27 Nov 2026 18:02:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.ddaily.co.kr/page/view/2026112718065343848": {
+      "title": "스마트팩토리에 보안 내재화…노조미네트웍스, 포스코 DX와 OT 보안 '맞손...",
+      "summary": "노조미네트웍스가 포스코 DX와 손잡고 국내 제조 현장 보안 시장 공략에 나선다. 포스코 DX의 산업현장 제어 솔루션 '포스마스터'에 자사의 설비 가시화·위협 탐지 기술을 결합해 포스코 그룹사와 외부 제조기업에...",
+      "url": "https://www.ddaily.co.kr/page/view/2026112718065343848",
+      "date": "Fri, 27 Nov 2026 18:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5459,21 +5483,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-27",
   "sent_articles": [
-    {
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883177",
-      "title": "경북 테크노파크, 코이카 공적개발원조 사업 2건 연속 수주 및 수행",
-      "date": "Fri, 13 Nov 2026 18:46:00 +0900"
-    },
-    {
-      "url": "https://www.news1.kr/industry/general-industry/6353808",
-      "title": "대동 , 3분기 393억 영업적자…원가 부담 여파",
-      "date": "Fri, 13 Nov 2026 18:38:00 +0900"
-    },
-    {
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802077",
-      "title": "[위클리오늘] 경북 TP, ODA 사업 2건 연속 수주…국제개발협력 역량 입증",
-      "date": "Fri, 13 Nov 2026 18:22:00 +0900"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96amdGYnE3cFFfdVVzRUlOWmRJUmRXUTZDU0lINUhVdnFiTU1ESlFlc3NjS0dobmNKWFRWTEhRaDVGV1VXc2tfWGhvdEVfRHRwMGk4N1FMTGUyWUpMQkFPOUFzRnhZTldNYXdsZ0lhSQ?oc=5",
       "title": "[위클리오늘] 영천시 소식(11.13)... 박규섭, 경북 농산물 가공‧유통 수상-영천시, 경북 시군 농정평가 우수상 - 위클리오늘",
@@ -10063,6 +10072,31 @@
       "url": "https://www.it-b.co.kr/news/articleView.html?idxno=90893",
       "title": "포스코 DX-노조미네트웍스, OT 보안 사업 협력…팩토리 사업 강화",
       "date": "Fri, 27 Nov 2026 17:08:00 +0900"
+    },
+    {
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000590",
+      "title": "[ 인사 ] 2026 하반기 부산지방 국세청 6급 이하 승진 (2026.11.30)",
+      "date": "Fri, 27 Nov 2026 18:50:00 +0900"
+    },
+    {
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000589",
+      "title": "[인사] 2026 하반기 대구 지방 국세청 6급 이하 승진 (2026.11.30)",
+      "date": "Fri, 27 Nov 2026 18:48:00 +0900"
+    },
+    {
+      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000588",
+      "title": "[ 인사 ] 2026 하반기 광주지방 국세청 6급 이하 승진 (2026.11.30)",
+      "date": "Fri, 27 Nov 2026 18:46:00 +0900"
+    },
+    {
+      "url": "https://www.ddaily.co.kr/page/view/2026112718065343848",
+      "title": "스마트팩토리에 보안 내재화…노조미네트웍스, 포스코 DX와 OT 보안 '맞손...",
+      "date": "Fri, 27 Nov 2026 18:22:00 +0900"
+    },
+    {
+      "url": "http://fpn119.co.kr/260185",
+      "title": "대구 서부소방서, 서 대구 산업단지 관계자 대상 겨울철 소방안전교육",
+      "date": "Fri, 27 Nov 2026 18:02:00 +0900"
     }
   ],
   "brief_articles": [
