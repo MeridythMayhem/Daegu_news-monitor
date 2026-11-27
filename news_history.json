@@ -913,7 +913,12 @@
     "https://www.idaegu.co.kr/news/articleView.html?idxno=566635": "2026-11-26T22:08:50.200238+09:00",
     "https://www.yna.co.kr/view/AKR20261126193600530?input=1195m": "2026-11-26T22:08:50.200238+09:00",
     "https://www.ytn.co.kr/_ln/0103_202611262111512491": "2026-11-26T22:08:50.200238+09:00",
-    "https://www.dailian.co.kr/news/view/1720321/?sc=Naver": "2026-11-26T23:09:14.831218+09:00"
+    "https://www.dailian.co.kr/news/view/1720321/?sc=Naver": "2026-11-26T23:09:14.831218+09:00",
+    "https://www.pressian.com/pages/articles/2026112708262090255": "2026-11-27T09:09:06.008203+09:00",
+    "https://www.newsverse.kr/news/articleView.html?idxno=12060": "2026-11-27T09:09:06.008203+09:00",
+    "http://www.dtnews24.com/news/articleView.html?idxno=817734": "2026-11-27T09:09:06.008203+09:00",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6SHI3X1JKZ3hYb0J4djlxQ1ItNG9wcDN3NHVsQnp0Mm4xeF9uZFI2NnFoT0FpNDNydm0xVEVtY2hGRTNPMDRxTk9BT2NPaGF6bTI0?oc=5": "2026-11-27T09:09:06.008203+09:00",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVXI0YnlDd3U3bnAwTUZzNjhNRmxsSnJkOGhEQVNDak1OSF82UVNKRlNRUGZNSTNvRTJjTWZ1OW1PMVQ4NnJqWEoyc1pzc3Fsdm5N?oc=5": "2026-11-27T09:09:06.008203+09:00"
   },
   "titles": {
     "77824f0c9757b78ac8f5edaa00562212a2533f07127116724e903c3d67a16005": "2026-11-13T09:02:46.635062+09:00",
@@ -1829,7 +1834,12 @@
     "bf6d4cd8c9a6e018ba7d2c8781b99105557d4e6ebb1bc7f77f7d70e66d5afc34": "2026-11-26T22:08:50.200238+09:00",
     "e8a94ea942e36ca91f4f3cc072001106c6be0eed88edbd5924b00d968d4b6303": "2026-11-26T22:08:50.200238+09:00",
     "af3d81d320a229844652d02dfe8c3f733a31c54d7b1c4f2f850cb76d1a5d69f0": "2026-11-26T22:08:50.200238+09:00",
-    "294a739f826bbfc9a83fb50830a0942028cdd297eb7451c7b74faefbe1c5b0db": "2026-11-26T23:09:14.831218+09:00"
+    "294a739f826bbfc9a83fb50830a0942028cdd297eb7451c7b74faefbe1c5b0db": "2026-11-26T23:09:14.831218+09:00",
+    "6d05667b95b4c71c2c844a9ad8d89ec3b03cfb00c6935b7953884759306a7959": "2026-11-27T09:09:06.008203+09:00",
+    "9f857c61bd1e502a46baecd5b34612d5da4fe5236763abf42f316305539ed65d": "2026-11-27T09:09:06.008203+09:00",
+    "ab974086d43b900555a02c8d2211e3add90366720191aa103656f0ecc6956f80": "2026-11-27T09:09:06.008203+09:00",
+    "61690d362963309e8456da1ca3e2674e6d2f67adc58e5b51752f60b28db2f597": "2026-11-27T09:09:06.008203+09:00",
+    "f05ba30ea59b3a2a404c57d00f5176533c98c21a6112939ec91eeedee91422dd": "2026-11-27T09:09:06.008203+09:00"
   },
   "pending": {},
   "ai": {
@@ -1838,36 +1848,11 @@
     "2026-11-23": 15,
     "2026-11-24": 18,
     "2026-11-25": 12,
-    "2026-11-26": 7
+    "2026-11-26": 7,
+    "2026-11-27": 1
   },
   "cursor": 0,
   "archive": {
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSXZwQVBQeFc2aGotbHpBUnJBV3hfYnJ4YjZKT2duVExhV2lNQzdYTU5UWkRZNy02eTVqNlgwNDdTMy1TMlVMT0daUFluaTREZng0?oc=5": {
-      "title": "경상북도, K-푸드. 뷰티 `베트남 달랏서 수출상담 224만 달러 계약` - CBN뉴스",
-      "summary": "경상북도, K-푸드. 뷰티 `베트남 달랏서 수출상담 224만 달러 계약` CBN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSXZwQVBQeFc2aGotbHpBUnJBV3hfYnJ4YjZKT2duVExhV2lNQzdYTU5UWkRZNy02eTVqNlgwNDdTMy1TMlVMT0daUFluaTREZng0?oc=5",
-      "date": "Tue, 24 Nov 2026 23:28:36 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관 · 수치가 명시된 경제지표/실적",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZThEZ3psdjl1MUhrRTNST1cxbUlsd1lJQ2IyendNeXhhMGx1TkNTZUs1dVliVWlwaWlpYVZXN2s3cnp6b1lDR2dCa1Rla0NDNENjbHk3Z3RuRnhpRUpRcFZkQkxXQQ?oc=5": {
-      "title": "구미시‧구미전자정보기술원, 구미국가산업단지 8개사에 스마트 안전솔루션 보급 - 데일리대구경북뉴스",
-      "summary": "구미시‧구미전자정보기술원, 구미국가산업단지 8개사에 스마트 안전솔루션 보급 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZThEZ3psdjl1MUhrRTNST1cxbUlsd1lJQ2IyendNeXhhMGx1TkNTZUs1dVliVWlwaWlpYVZXN2s3cnp6b1lDR2dCa1Rla0NDNENjbHk3Z3RuRnhpRUpRcFZkQkxXQQ?oc=5",
-      "date": "Wed, 25 Nov 2026 00:00:13 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.widedaily.com/news/articleView.html?idxno=304621": {
       "title": "한국부동산원, iM뱅크 와 3년간 주거래은행 업무협약 체결",
       "summary": "한국부동산원이 안정적인 금융거래 기반을 구축하고 전반적인 업무 효율성을 끌어올리기 위해 아이엠뱅크( iM뱅크 )와 손을 잡았다. 한국부동산원은 지난 24일 본사에서 iM뱅크 와 주거래은행 업무협약(MOU)을 맺었다고 25일...",
@@ -5925,6 +5910,71 @@
       "category": "지역경제·기업동향",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.pressian.com/pages/articles/2026112708262090255": {
+      "title": "포항 자동차 필름 시공업체서 화재 …5천만원 재산 피해",
+      "summary": "컨테이너 3동·건물 1동 전소…자체 진화 나선 40대 남성 2도 화상 27일 오전 3시 8분께 경북 포항시 남구 오천읍의 한 자동차 필름·광택 시공업체에서 화재 가 발생했다. 신고를 받고 출동한 소방 당국은 장비 13대와...",
+      "url": "https://www.pressian.com/pages/articles/2026112708262090255",
+      "date": "Fri, 27 Nov 2026 08:27:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 100,
+      "filter_version": 18
+    },
+    "http://www.dtnews24.com/news/articleView.html?idxno=817734": {
+      "title": "경산시, 내년 예산 1조5277억원 편성···민선9기 미래 성장에 투자",
+      "summary": "조성, 대구 도시철도 1호선 하양 연장과 대경선 개통 등을 꼽았다. 임당유적전시관 개관과 경산문화관광재단... 청소년수련관 건립 을 통해 청소년들의 활동과 성장 기반을 마련할 계획이다. 어르신을 위한 일자리와...",
+      "url": "http://www.dtnews24.com/news/articleView.html?idxno=817734",
+      "date": "Fri, 27 Nov 2026 08:24:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsverse.kr/news/articleView.html?idxno=12060": {
+      "title": "[단독] 한수원, 체코 원전 시공사 교체 위기에 '현지 발주 확대' 카드",
+      "summary": "한국수력원자력 (한수원)이 26조원 규모의 체코 두코바니 원전 5·6기 건설 사업과 관련, 두산에너빌리티의 체코 자회사인 두산스코다파워에 기존에 합의된 증기터빈 본체 외에 펌프와 응축기 등 터빈실에 들어가는 보조...",
+      "url": "https://www.newsverse.kr/news/articleView.html?idxno=12060",
+      "date": "Fri, 27 Nov 2026 08:52:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 한국수력원자력",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6SHI3X1JKZ3hYb0J4djlxQ1ItNG9wcDN3NHVsQnp0Mm4xeF9uZFI2NnFoT0FpNDNydm0xVEVtY2hGRTNPMDRxTk9BT2NPaGF6bTI0?oc=5": {
+      "title": "경상북도, 청년창업기업 25곳 투자기관과 연결해 성장 지원 - CBN뉴스",
+      "summary": "경상북도, 청년창업기업 25곳 투자기관과 연결해 성장 지원 CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6SHI3X1JKZ3hYb0J4djlxQ1ItNG9wcDN3NHVsQnp0Mm4xeF9uZFI2NnFoT0FpNDNydm0xVEVtY2hGRTNPMDRxTk9BT2NPaGF6bTI0?oc=5",
+      "date": "Thu, 26 Nov 2026 23:16:17 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVXI0YnlDd3U3bnAwTUZzNjhNRmxsSnJkOGhEQVNDak1OSF82UVNKRlNRUGZNSTNvRTJjTWZ1OW1PMVQ4NnJqWEoyc1pzc3Fsdm5N?oc=5": {
+      "title": "경상북도, 안동~영덕 잇는 국도 34호선 준공 `이동시간 약 10분 단축` - CBN뉴스",
+      "summary": "경상북도, 안동~영덕 잇는 국도 34호선 준공 `이동시간 약 10분 단축` CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVXI0YnlDd3U3bnAwTUZzNjhNRmxsSnJkOGhEQVNDak1OSF82UVNKRlNRUGZNSTNvRTJjTWZ1OW1PMVQ4NnJqWEoyc1pzc3Fsdm5N?oc=5",
+      "date": "Thu, 26 Nov 2026 23:09:44 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -5954,51 +6004,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-27",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KcTNNU09BbDZzeWNqc1lHakpDdFJxc0duc3U5VGpza29VbnVMWmRKb2hXYWZJN2oyQ1hiWWpoVmxGRDZ0VTJuSlBrXzZqbkVmTHZfOUNLazZvUQ?oc=5",
-      "title": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등 - 한국경제",
-      "date": "Thu, 12 Nov 2026 23:32:12 GMT"
-    },
-    {
-      "url": "https://imnews.imbc.com/news/2026/society/article/6865363_36918.html",
-      "title": "경북 경산 골판지 공장 화재 11시간 만에 완진",
-      "date": "Fri, 13 Nov 2026 08:26:00 +0900"
-    },
-    {
-      "url": "https://www.ajunews.com/view/20261113081347896",
-      "title": "경북 경산 골판지공장 화재 11시간여 만에 완진…인명피해 없어",
-      "date": "Fri, 13 Nov 2026 08:26:00 +0900"
-    },
-    {
-      "url": "https://dgmbc.com/NewsArticle/873190",
-      "title": "경산 골판지 제조 공장 화재 , 11시간 30여 분 만에 완진",
-      "date": "Fri, 13 Nov 2026 08:22:00 +0900"
-    },
-    {
-      "url": "https://www.kbmaeil.com/article/20261113500033",
-      "title": "경산 골판지상자 공장 화재 …2시간 43분 만에 초진",
-      "date": "Fri, 13 Nov 2026 08:10:00 +0900"
-    },
-    {
-      "url": "https://www.yna.co.kr/view/AKR20261113025500053?input=1195m",
-      "title": "경산 골판지 공장 화재 11시간여 만에 완진…8억여원 피해",
-      "date": "Fri, 13 Nov 2026 08:10:00 +0900"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbDYweEpwdkJ5Q1R4VS14bGxjMGk0RmR4MDNucVNBYWJ6UGgxWWVTU0ViQWpBNFMxZDJuME9qSFE3Z3BxQlVidV9HTWstMnZFNTJ1SURPQ29JM0dFdGR2VmtOUEY?oc=5",
-      "title": "도레이첨단소재, 구미 5공장 MLCC 필름 13·14호기 준공 - 매일일보",
-      "date": "Thu, 12 Nov 2026 23:52:33 GMT"
-    },
-    {
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/13/ULNX22BLC5HTTMZDY7DBVC2QIY/",
-      "title": "LS證 “ 한국가스공사 , 중동發 유가 상승에 3분기 실적 호조… 목표가 7%...",
-      "date": "Fri, 13 Nov 2026 08:40:00 +0900"
-    },
-    {
-      "url": "https://www.newspim.com/news/view/20261113000048",
-      "title": "[모닝 리포트] \" 엘앤에프 , 3분기 적자에도 NCM·LFP 출하 성장 지속\"",
-      "date": "Fri, 13 Nov 2026 08:17:00 +0900"
-    },
     {
       "url": "https://idsn.co.kr/news/view/1065572713876733",
       "title": "경산 골판지 제조 공장 서 화재 …대응 1단계 발령해 진화",
@@ -10523,6 +10528,31 @@
       "url": "https://www.dailian.co.kr/news/view/1720321/?sc=Naver",
       "title": "납품대금 빼돌려 74명 임금 11억 체불... 대구 車부품업체 대표 구속",
       "date": "Thu, 26 Nov 2026 22:47:00 +0900"
+    },
+    {
+      "url": "https://www.pressian.com/pages/articles/2026112708262090255",
+      "title": "포항 자동차 필름 시공업체서 화재 …5천만원 재산 피해",
+      "date": "Fri, 27 Nov 2026 08:27:00 +0900"
+    },
+    {
+      "url": "https://www.newsverse.kr/news/articleView.html?idxno=12060",
+      "title": "[단독] 한수원, 체코 원전 시공사 교체 위기에 '현지 발주 확대' 카드",
+      "date": "Fri, 27 Nov 2026 08:52:00 +0900"
+    },
+    {
+      "url": "http://www.dtnews24.com/news/articleView.html?idxno=817734",
+      "title": "경산시, 내년 예산 1조5277억원 편성···민선9기 미래 성장에 투자",
+      "date": "Fri, 27 Nov 2026 08:24:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6SHI3X1JKZ3hYb0J4djlxQ1ItNG9wcDN3NHVsQnp0Mm4xeF9uZFI2NnFoT0FpNDNydm0xVEVtY2hGRTNPMDRxTk9BT2NPaGF6bTI0?oc=5",
+      "title": "경상북도, 청년창업기업 25곳 투자기관과 연결해 성장 지원 - CBN뉴스",
+      "date": "Thu, 26 Nov 2026 23:16:17 GMT"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVXI0YnlDd3U3bnAwTUZzNjhNRmxsSnJkOGhEQVNDak1OSF82UVNKRlNRUGZNSTNvRTJjTWZ1OW1PMVQ4NnJqWEoyc1pzc3Fsdm5N?oc=5",
+      "title": "경상북도, 안동~영덕 잇는 국도 34호선 준공 `이동시간 약 10분 단축` - CBN뉴스",
+      "date": "Thu, 26 Nov 2026 23:09:44 GMT"
     }
   ],
   "brief_articles": [
@@ -10583,7 +10613,8 @@
     "2026-11-23": 11,
     "2026-11-24": 11,
     "2026-11-25": 8,
-    "2026-11-26": 5
+    "2026-11-26": 5,
+    "2026-11-27": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
