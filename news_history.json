@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbVZYQW5UQ2xKRlNHdEoyV2M0YWlxNGNKTmhJbXo5S1hjaWZhenJJMXFCNnk1UWdYQW1yZUc4MHl0QUoydlNfaERhU3poWWlaX0ZxSWxhaWZ0RlpXZTNpVkNSRTF4b1lvb3pz?oc=5": "2026-11-14T10:02:08.701843+09:00",
     "https://sateconomy.co.kr/news/view/1065574560150425": "2026-11-14T11:01:54.666304+09:00",
     "https://www.news1.kr/local/daegu-gyeongbuk/6353987": "2026-11-14T12:01:46.528688+09:00",
     "http://www.4th.kr/news/articleView.html?idxno=2121872": "2026-11-14T13:02:11.767402+09:00",
@@ -917,10 +916,10 @@
     "https://www.intn.co.kr/news/articleView.html?idxno=3000588": "2026-11-27T19:09:12.630088+09:00",
     "https://www.ddaily.co.kr/page/view/2026112718065343848": "2026-11-27T19:09:12.630088+09:00",
     "http://fpn119.co.kr/260185": "2026-11-27T19:09:12.630088+09:00",
-    "https://www.kbmaeil.com/article/20261127500320": "2026-11-27T21:07:18.895461+09:00"
+    "https://www.kbmaeil.com/article/20261127500320": "2026-11-27T21:07:18.895461+09:00",
+    "https://news.tf.co.kr/read/national/2394526.htm": "2026-11-28T11:11:15.380080+09:00"
   },
   "titles": {
-    "22f1bd6443f9898a9c871c3726f203a32ec034d66365945b7c7dd3c6eaf7f43c": "2026-11-14T10:02:08.701843+09:00",
     "ffa7eae88c7e5a62fcbef3d7566d131c05b1ed8b2d217ed297d4ea645934efac": "2026-11-14T11:01:54.666304+09:00",
     "f1d05f941faa5dd18c5f8bfcff38d10a6b2cc32b73f1b308e77b80dfd04bddb5": "2026-11-14T12:01:46.528688+09:00",
     "7f8f243128eeef6dc87b4c895494ac7e363157d96baadb4d073c564d6735681f": "2026-11-14T13:02:11.767402+09:00",
@@ -1837,7 +1836,8 @@
     "56d036ee715e7ae8cace55290077637903cea55c5d51d7b4ac134bee437bd825": "2026-11-27T19:09:12.630088+09:00",
     "2b01aaee6c69b32f850cbe70f5e6ae1aa4ec0ba6c02f81e4f9859efc2cd14817": "2026-11-27T19:09:12.630088+09:00",
     "07ba20a0a5818e92fd5204f9426371ae16918d515b1615641d26a78991cd6c7f": "2026-11-27T19:09:12.630088+09:00",
-    "1c6e1cc8cb0d2dd74df12262dc5034d3a7ca9c7c42b4773d005a35eabb1382b0": "2026-11-27T21:07:18.895461+09:00"
+    "1c6e1cc8cb0d2dd74df12262dc5034d3a7ca9c7c42b4773d005a35eabb1382b0": "2026-11-27T21:07:18.895461+09:00",
+    "87932f2fde2d56348de281c69f46d7c2318b19ea64faddf43fe091c8277132fb": "2026-11-28T11:11:15.380080+09:00"
   },
   "pending": {},
   "ai": {
@@ -1850,175 +1850,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.joseilbo.com/news/news_read.php?uid=580483&class=7&grp=": {
-      "title": "안덕수 \"민생 어려움 헤아리고 지원 아끼지 않겠다\" [ 국세청 장 인사 청문...",
-      "summary": "안 후보자는 26일 국회에서 열린 국세청 장 인사 청문회에서 모두발언을 통해 \"우리 경제는 견조한 성장세를 이어가고 있지만, 민생 현장에서는 그 온기를 체감하지 못하는 국민과 기업이 여전히 많다\"며 \"국민과 기업의 가장...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=580483&class=7&grp=",
-      "date": "Thu, 26 Nov 2026 10:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISX20261126_0003884170": {
-      "title": "우송정보대 벽화 재단장 재능기부…서비스 러닝 일환",
-      "summary": "우송정보대는 만화웹툰과와 지역연계지원센터가 한화솔루션중앙연구소, 대동 종합사회복지관과 함께 대전 동구 대동 하늘공원 일대에서 벽화 재단장 재능기부를 했다고 26일 밝혔다. 혁신지원사업의 서비스 러닝(Service...",
-      "url": "https://www.newsis.com/view/NISX20261126_0003884170",
-      "date": "Thu, 26 Nov 2026 10:39:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "산재·사업장 사고",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.kbsm.net/news/view.php?idx=543419": {
-      "title": "포스코 , AI·철강 기술로 산불 취약마을 안전망 구축",
-      "summary": "포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 활용해 산불 취약지역의 재난 대응 체계를 구축하는 사회공헌 사업 ‘ 포스코 쉴드(POSCO Shield)’를 본격 추진한다.26일 포스코 홀딩스에...",
-      "url": "https://www.kbsm.net/news/view.php?idx=543419",
-      "date": "Thu, 26 Nov 2026 11:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.dailypop.kr/news/articleView.html?idxno=105013": {
-      "title": "현대엔지니어링, 용인·호남 발전사업 2조2840억원 수주…우선협상 두 ...",
-      "summary": "(가운데), 포스코 이앤씨 송치영 사장(왼쪽에서 네 번째) 외 관계자들이 기념사진을 촬영하고 있다. / 사진... 포스코 이앤씨는 시공을 수행한다. 발전소는 2027년 6월 착공해 2030년 5월 준공할 예정이다. 현대엔지니어링은...",
-      "url": "http://www.dailypop.kr/news/articleView.html?idxno=105013",
-      "date": "Thu, 26 Nov 2026 11:00:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ezyeconomy.com/news/articleView.html?idxno=242234": {
-      "title": "포스코 1%나눔재단, 산불 대응 인프라 구축…AI 감지부터 대피소 개선까...",
-      "summary": "포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재·건설 역량을 활용해 산불 취약지역의 초기 대응 체계 구축에 나섰다. 산불 감지부터 초기 진화·주민 대피까지 마을 단위의 재난 대응 인프라를...",
-      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242234",
-      "date": "Thu, 26 Nov 2026 10:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.dailian.co.kr/news/view/1720004/?sc=Naver": {
-      "title": "포스코 1%나눔재단, 산불 취약지역에 '안전 방패'…AI 감시부터 대피소까...",
-      "summary": "포스코 1%나눔재단이 인공지능(AI) 기술과 철강 소재, 건설 역량을 결집해 산불 취약지역의 재난 대응 체계... 포스코 1%나눔재단은 산불 취약지역의 초기 대응 역량을 높이기 위한 ' 포스코 쉴드(POSCO Shield)' 사업을...",
-      "url": "https://www.dailian.co.kr/news/view/1720004/?sc=Naver",
-      "date": "Thu, 26 Nov 2026 10:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.ekn.kr/web/view.php?key=20261126028035030": {
-      "title": "현대엔지니어링, 2.3조 규모 대형 발전소 2곳 연달아 수주",
-      "summary": "송치영 포스코 이앤씨 사장 등이 참석한 가운데 호남 복합발전소 건설 사업 계약 체결식도 진행됐다. 전남... 시공은 포스코 이앤씨가 담당한다. 2027년 6월 첫 삽을 떠 2030년 5월 준공되면 여수산단과 호남 지역 일대의...",
-      "url": "https://www.ekn.kr/web/view.php?key=20261126028035030",
-      "date": "Thu, 26 Nov 2026 10:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086332": {
-      "title": "포스코 이앤씨, 대규모 적자 딛고 수익성 회복",
-      "summary": "포스코 이앤씨는 올해 3분기 매출 증가와 영업이익 흑자 전환으로 실적 회복세를 이어갔다. 건축 부문을... 26일 금융감독원 전자공시시스템에 따르면 포스코 이앤씨의 올해 3분기 연결 기준 매출은 1조7626억원으로...",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086332",
-      "date": "Thu, 26 Nov 2026 10:38:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "경영·갈등",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.betanews.net/article/view/beta202611260058": {
-      "title": "포스코 1%나눔재단, 산불 초기 대응 인프라 ' 포스코 쉴드' 가동",
-      "summary": "포스코 1%나눔재단(이사장 장인화)은 포스코 그룹의 기술과 소재, 건설 역량을 활용해 산불 취약지역 마을에 초기 대응 체계를 구축하는 ' 포스코 쉴드(POSCO Shield)' 사업을 전개했다고 26일 밝혔다. 올해 시범 대상...",
-      "url": "https://www.betanews.net/article/view/beta202611260058",
-      "date": "Thu, 26 Nov 2026 10:34:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.koreaittimes.com/news/articleView.html?idxno=159466": {
-      "title": "포스코 그룹, AI·철강·건설 기술로 산불 대응체계 구축",
-      "summary": "포스코 쉴드의 AI 산불감지시스템을 시연중인 모습/ 포스코 제공 기후변화로 대형 산불 위험이 커지면서 지역사회 차원의 선제적 재난 대응 필요성이 높아지고 있다. 포스코 그룹이 보유한 인공지능(AI), 철강 소재, 건설...",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=159466",
-      "date": "Thu, 26 Nov 2026 10:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.econotelling.com/news/articleView.html?idxno=21733": {
-      "title": "포스코 1%나눔재단, 산불 취약 전국 마을 4곳에 '재난 방어선' 구축",
-      "summary": "포스코 쉴드의 AI 산불감지시스템을 시연중인 모습. 사진= 포스코 홀딩스. 포스코 1%나눔재단(이사장 장인화)이 산불로부터 지역사회를 보호하기 위한 ' 포스코 쉴드(POSCO Shield)' 사업을 펼쳤다. 이를 위해 포스코 그룹의...",
-      "url": "http://www.econotelling.com/news/articleView.html?idxno=21733",
-      "date": "Thu, 26 Nov 2026 10:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.wikitree.co.kr/articles/1177915": {
-      "title": "포스코 1%나눔재단, 산불 취약마을 4곳에 AI 감지·진화장비 ' 포스코 쉴드...",
-      "summary": "포스코 1%나눔재단이 산불에 취약한 마을의 초기 대응 체계를 만드는 ' 포스코 쉴드(POSCO Shield)' 사업을 펼쳤다. 올해는 포항, 광양, 안동, 여수 등 4개 지역 마을을 시범 대상으로 골랐다. 포스코 쉴드는 포스코 그룹 계열사의...",
-      "url": "https://www.wikitree.co.kr/articles/1177915",
-      "date": "Thu, 26 Nov 2026 10:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.choicenews.co.kr/news/articleView.html?idxno=173527": {
-      "title": "현대차그룹, 2026 사장단 인사..완성차 수장 유임·핵심 계열사 4곳 교체",
-      "summary": "장 대표가 겸임하던 SK이노베이션 대표 자리에는 한국전력공사와 한국가스공사 사장을 지낸 정승일 SK㈜ 미래성장담당 사장을 내정했다. 강동수 사장은 SK이노베이션 각자 대표이사 겸 SK에너지 대표이사로 내정했다. 정...",
-      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173527",
-      "date": "Thu, 26 Nov 2026 10:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.yna.co.kr/view/AKR20261126092300053?input=1195m": {
       "title": "경찰, 환동해 관상어 펫 플라자 조성사업 입찰 비리 의혹 수사",
       "summary": "입찰 비리 의혹을 수사하고 있다. 경북 경찰청 광역범죄수사2계는 공무상비밀누설 혐의로 경주시청 소속 공무원 A씨를, 입찰방해 혐의로 60대 업체 대표 B씨를 각각 불구속 입건했다고 26일 밝혔다. A씨는 해당 사업 입찰...",
@@ -4826,6 +4657,19 @@
       "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://news.tf.co.kr/read/national/2394526.htm": {
+      "title": "경북 곳곳서 교통 사고 · 추락 ·화재 잇따라…중상 5명·경상 11명",
+      "summary": "경북 지역에서 교통 사고 와 작업장 추락사고 , 아파트 화재, 산불 등이 잇따라 발생해 모두 16명의 인명 피해가 발생했다. 28일 경북 소방본부에 따르면 전날부터 이날 새벽까지 울진과 고령, 경산, 안동, 성주 등에서 각종...",
+      "url": "https://news.tf.co.kr/read/national/2394526.htm",
+      "date": "Sat, 28 Nov 2026 10:11:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "산재·사업장 사고",
+      "priority": 70,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -4847,11 +4691,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-28",
   "sent_articles": [
-    {
-      "url": "https://sateconomy.co.kr/news/view/1065574560150425",
-      "title": "[단독] 포스코 , 카자흐서 2500만달러 중재판정 집행 항소 기각",
-      "date": "Sat, 14 Nov 2026 10:06:00 +0900"
-    },
     {
       "url": "https://www.news1.kr/local/daegu-gyeongbuk/6353987",
       "title": "\"10억대 수의계약 에 펀드 부진까지\"… 경북 테크노파크 운영 전반 도마",
@@ -9431,6 +9270,11 @@
       "url": "https://www.kbmaeil.com/article/20261127500320",
       "title": "iM뱅크 지역재투자 3년 연속 ‘최우수’… 대구 은행 권 예대율 168.6%",
       "date": "Fri, 27 Nov 2026 20:32:00 +0900"
+    },
+    {
+      "url": "https://news.tf.co.kr/read/national/2394526.htm",
+      "title": "경북 곳곳서 교통 사고 · 추락 ·화재 잇따라…중상 5명·경상 11명",
+      "date": "Sat, 28 Nov 2026 10:11:00 +0900"
     }
   ],
   "brief_articles": [
