@@ -931,7 +931,9 @@
     "https://www.etoday.co.kr/news/view/2654215": "2026-11-28T19:08:09.547752+09:00",
     "https://www.kbsm.net/news/view.php?idx=543671": "2026-11-28T19:08:09.547752+09:00",
     "https://www.chosun.com/economy/money/2026/11/28/37V5JR24OBDUDHH5L3N6FBUEEI/": "2026-11-28T19:08:09.547752+09:00",
-    "https://www.g-enews.com/view.php?ud=202611281755102774740eacf404_1": "2026-11-28T19:08:09.547752+09:00"
+    "https://www.g-enews.com/view.php?ud=202611281755102774740eacf404_1": "2026-11-28T19:08:09.547752+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092364": "2026-11-28T20:09:23.919570+09:00",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTNWa201U1QzVDNVRDBZb3lUclVsSnZVUzB1a1ZoZ2FRWmttOUlyMlVsYjV3bUtzNVYxQ3cxQ21HR0VLbmVBOVlPaGw5RFlhNkRjaWJmOEplenFRRVF5Z3pEZWVvMzdFWlB6TWsxTzMydTZsV1FBOTYtSXkxSXE0NFhsUEx6enpkekJUaUd3?oc=5": "2026-11-28T20:09:23.919570+09:00"
   },
   "titles": {
     "d99ef91d456f101939c631c14e5c9b653ec76cd86449808f0f9a18ae60f45348": "2026-11-14T20:01:51.941407+09:00",
@@ -1865,7 +1867,9 @@
     "aa700bfd1f2743421f789bebc72d336aea97cb27e1c7fe8683b3f182fc8e3356": "2026-11-28T19:08:09.547752+09:00",
     "88cfe102eac184d97ef37641c25450696c159da8903d4f145b828b17db94728d": "2026-11-28T19:08:09.547752+09:00",
     "613550e4c735ddd019bd4571d9d826fc361564496f85a3d054313d7bab6c95cd": "2026-11-28T19:08:09.547752+09:00",
-    "dbcbf3db1174c9a1419996f650c45bc9ee78063fc5e330ab42cfb51c5e63687b": "2026-11-28T19:08:09.547752+09:00"
+    "dbcbf3db1174c9a1419996f650c45bc9ee78063fc5e330ab42cfb51c5e63687b": "2026-11-28T19:08:09.547752+09:00",
+    "a939cdc1243e80f01ff927c9efbaff7347e1c0d0e469049be0f341c9b1797f57": "2026-11-28T20:09:23.919570+09:00",
+    "1c86cf08e59c8e5521b5193e2359ff55a820addb1aea94318105537825dbe08b": "2026-11-28T20:09:23.919570+09:00"
   },
   "pending": {},
   "ai": {
@@ -1879,71 +1883,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.fnnews.com/news/202611261843337867": {
-      "title": "경찰청 차장에 송영호·부산 경찰청 장에 김병기…고위직 인사 단행",
-      "summary": "경찰청 경비국장이 임명됐다. 경찰청 은 26일 치안정감 2명과 치안감급 6명 등 총 8명에 대한 고위직 인사 를... 박준성 대구경찰청 장 직무대리와 이서영 충남 경찰청 장 직무대리는 치안감으로 승진해 각각 정식 청장으로...",
-      "url": "https://www.fnnews.com/news/202611261843337867",
-      "date": "Thu, 26 Nov 2026 19:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.obsnews.co.kr/news/articleView.html?idxno=1545114": {
-      "title": "송영호 경찰청 차장·김병기 부산 경찰청 장 임명…고위직 인사 단행",
-      "summary": "대변인으로, 김종민 행정안전부 경찰협력관이 경찰청 경비국장으로 자리를 옮겼습니다. 또 박준성 대구경찰청 장 직무대리와 이서영 충남 경찰청 장 직무대리가 각각 정식 청장으로 승진하는 등 후속 보직 인사 도 이뤄졌습니다.",
-      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545114",
-      "date": "Thu, 26 Nov 2026 19:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.ytn.co.kr/_ln/0103_202611261931396935": {
-      "title": "경찰청 차장 송영호·부산청장 김병기...경찰 고위직 인사",
-      "summary": "경찰청 은 오늘(26일) 경찰청 장 다음으로 높은, 치안정감과 치안감 보직 인사 를 발표했습니다. 박우현... 박준성 대구경찰청 장 직무대리와 이서영 충남 경찰청 장 직무대리는 각각 정식 청장으로 승진했습니다. 김종민...",
-      "url": "https://www.ytn.co.kr/_ln/0103_202611261931396935",
-      "date": "Thu, 26 Nov 2026 19:31:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.khan.co.kr/article/202611261910001": {
-      "title": "경찰청 차장 송영호·부산청장 김병기…경찰 고위직 보직 인사",
-      "summary": "부산 경찰청 장으로 김병기 경찰청 경비국장이 임명됐다. 경찰청 은 26일 이런 내용의 치안정감 인사 를... 시·도 경찰청 에선 박준성 대구경찰청 장 직무대리와 이서영 충남 경찰청 장 직무대리가 치안감으로 승진하며 정식으로...",
-      "url": "https://www.khan.co.kr/article/202611261910001",
-      "date": "Thu, 26 Nov 2026 19:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "주요인물·기관 인사",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00WTAyV0pfV29VeUhaVWdWUXVHYnQ3MjVhYWVYWlJKNUNQZWVNV00yMlBFWlpDdlZSZjV5QTlEWjVEbXRNMDRCTnZWczM1M1RfWDZFZTJYM29FRHA4?oc=5": {
-      "title": "경북 교육공무직원 759명 파업 참여 예상…220개교 영향 - 뉴스핌",
-      "summary": "경북 교육공무직원 759명 파업 참여 예상…220개교 영향 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00WTAyV0pfV29VeUhaVWdWUXVHYnQ3MjVhYWVYWlJKNUNQZWVNV00yMlBFWlpDdlZSZjV5QTlEWjVEbXRNMDRCTnZWczM1M1RfWDZFZTJYM29FRHA4?oc=5",
-      "date": "Thu, 26 Nov 2026 10:50:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.ksmnews.co.kr/news/view.php?idx=631200": {
       "title": "대구동구문화재단·삼보모터스(주), 지역 문화예술 가치 확산 맞손",
       "summary": "업무협약( MOU )을 체결했다고 밝혔다. 이번 협약에 따라 양 기관은 △문화예술 분야 교류 협력 △교류 사업... 특히 이 대표는 주한 스웨덴 대사관으로부터 임명받은 ‘대구· 경북 스웨덴 명예영사’로서 민간 외교관 역할도...",
@@ -3932,6 +3871,32 @@
       "category": "경영·갈등",
       "priority": 70,
       "filter_version": 18
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092364": {
+      "title": "상주시 내년 예산 1조3361억 역대 최대…농업 넘어 지역경제 다변화",
+      "summary": "상주청년문화센터 건립 , 지역활력타운 조성 등이 포함됐다. 머물며 체험하는 문화·관광 조성사업은 경천섬... 대구· 경북 행정통합 대응전략, 시정 인공지능(AI) 도입을 진행한다. 이번 시정연설은 내년도 예산안과 민선...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092364",
+      "date": "Sat, 28 Nov 2026 19:20:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "지역경제·기업동향",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTNWa201U1QzVDNVRDBZb3lUclVsSnZVUzB1a1ZoZ2FRWmttOUlyMlVsYjV3bUtzNVYxQ3cxQ21HR0VLbmVBOVlPaGw5RFlhNkRjaWJmOEplenFRRVF5Z3pEZWVvMzdFWlB6TWsxTzMydTZsV1FBOTYtSXkxSXE0NFhsUEx6enpkekJUaUd3?oc=5": {
+      "title": "POSCO Concludes Wage Talks After First Strike, 2.6% Raise - 조선일보",
+      "summary": "POSCO Concludes Wage Talks After First Strike, 2.6% Raise 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTNWa201U1QzVDNVRDBZb3lUclVsSnZVUzB1a1ZoZ2FRWmttOUlyMlVsYjV3bUtzNVYxQ3cxQ21HR0VLbmVBOVlPaGw5RFlhNkRjaWJmOEplenFRRVF5Z3pEZWVvMzdFWlB6TWsxTzMydTZsV1FBOTYtSXkxSXE0NFhsUEx6enpkekJUaUd3?oc=5",
+      "date": "Sat, 28 Nov 2026 10:30:00 GMT",
+      "channels": [
+        "global"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "해외기업 동향",
+      "priority": 50,
+      "filter_version": 18
     }
   },
   "brief_sent": {
@@ -3953,11 +3918,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-28",
   "sent_articles": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5",
-      "title": "대구 서구, 산업단지 대기·폐수 배출사업장 30곳 불시 점검…3곳 적발 - 헤럴드경제",
-      "date": "Sat, 14 Nov 2026 10:28:16 GMT"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5",
       "title": "대구 서구, 산업단지 환경오염 배출업소 3곳 적발 - 경북신문",
@@ -8612,6 +8572,16 @@
       "url": "https://www.g-enews.com/view.php?ud=202611281755102774740eacf404_1",
       "title": "창사 첫 파업까지 갔던 포스코 …5개월 만에 임금협상 타결",
       "date": "Sat, 28 Nov 2026 18:02:00 +0900"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092364",
+      "title": "상주시 내년 예산 1조3361억 역대 최대…농업 넘어 지역경제 다변화",
+      "date": "Sat, 28 Nov 2026 19:20:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTNWa201U1QzVDNVRDBZb3lUclVsSnZVUzB1a1ZoZ2FRWmttOUlyMlVsYjV3bUtzNVYxQ3cxQ21HR0VLbmVBOVlPaGw5RFlhNkRjaWJmOEplenFRRVF5Z3pEZWVvMzdFWlB6TWsxTzMydTZsV1FBOTYtSXkxSXE0NFhsUEx6enpkekJUaUd3?oc=5",
+      "title": "POSCO Concludes Wage Talks After First Strike, 2.6% Raise - 조선일보",
+      "date": "Sat, 28 Nov 2026 10:30:00 GMT"
     }
   ],
   "brief_articles": [
