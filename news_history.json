@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://sateconomy.co.kr/news/view/1065574560150425": "2026-11-14T11:01:54.666304+09:00",
     "https://www.news1.kr/local/daegu-gyeongbuk/6353987": "2026-11-14T12:01:46.528688+09:00",
     "http://www.4th.kr/news/articleView.html?idxno=2121872": "2026-11-14T13:02:11.767402+09:00",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=902971": "2026-11-14T14:01:54.949103+09:00",
@@ -920,7 +919,6 @@
     "https://news.tf.co.kr/read/national/2394526.htm": "2026-11-28T11:11:15.380080+09:00"
   },
   "titles": {
-    "ffa7eae88c7e5a62fcbef3d7566d131c05b1ed8b2d217ed297d4ea645934efac": "2026-11-14T11:01:54.666304+09:00",
     "f1d05f941faa5dd18c5f8bfcff38d10a6b2cc32b73f1b308e77b80dfd04bddb5": "2026-11-14T12:01:46.528688+09:00",
     "7f8f243128eeef6dc87b4c895494ac7e363157d96baadb4d073c564d6735681f": "2026-11-14T13:02:11.767402+09:00",
     "a0fabe6360d949fc33238ae9270d9e8f4f5298fdbb440297639197dc07278a59": "2026-11-14T14:01:54.949103+09:00",
@@ -1850,149 +1848,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.yna.co.kr/view/AKR20261126092300053?input=1195m": {
-      "title": "경찰, 환동해 관상어 펫 플라자 조성사업 입찰 비리 의혹 수사",
-      "summary": "입찰 비리 의혹을 수사하고 있다. 경북 경찰청 광역범죄수사2계는 공무상비밀누설 혐의로 경주시청 소속 공무원 A씨를, 입찰방해 혐의로 60대 업체 대표 B씨를 각각 불구속 입건했다고 26일 밝혔다. A씨는 해당 사업 입찰...",
-      "url": "https://www.yna.co.kr/view/AKR20261126092300053?input=1195m",
-      "date": "Thu, 26 Nov 2026 11:39:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.joseilbo.com/news/news_read.php?uid=580496&class=7&grp=": {
-      "title": "윤영석 \"대통령이 지적하자 농협 먼지털이식 세무조사\" [ 국세청 장 인사 ...",
-      "summary": "26일 국회 재정경제기획위원회에서 열린 안덕수 국세청 장 후보자 인사 청문회에서 윤영석 국민의힘 의원은 농협중앙회 세무조사 과정의 적정성을 따져 물었다. 윤 의원은 농협중앙회의 추가이자를 놓고 농협 측은 이자로...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=580496&class=7&grp=",
-      "date": "Thu, 26 Nov 2026 11:53:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.joseilbo.com/news/news_read.php?uid=580493&class=7&grp=": {
-      "title": "'세무조사 남용' 지적에 안덕수 \"법과 원칙대로 하겠다\" [ 국세청 장 인사 ...",
-      "summary": "안덕수 국세청 장 후보자가 26일 본인의 인사 청문회에서 세무조사 남용 우려에 대해 \"제가 임명되면 법과 원칙에 따라 세무조사를 하겠다\"고 밝혔다. 안 후보자는 이날 국회 재정경제기획위원회 인사 청문회에서 이종욱...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=580493&class=7&grp=",
-      "date": "Thu, 26 Nov 2026 11:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.smartbizn.com/news/articleView.html?idxno=160611": {
-      "title": "한국부동산원, 아이엠뱅크 와 주거래은행 협약···금융 운영 효율 높인...",
-      "summary": "| 스마트비즈 = 이서윤 기자 | 한국부동산원이 아이엠뱅크 와 주거래은행 업무협약을 맺고 향후 3년간 금융 업무 전반에 걸친 협력 체계를 구축한다. 운영자금 관리와 자금 수납·집행의 효율성을 높이고, 위탁 사업 자금의...",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=160611",
-      "date": "Thu, 26 Nov 2026 11:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 아이엠뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.munhwa.com/article/11634317?ref=naver": {
-      "title": "“산불 취약지 초기 대응 지원”… 포항 등서 ‘ 포스코 쉴드’ 사업",
-      "summary": "포스코 1%나눔재단이 그룹 차원의 기술·소재·건설 역량을 결집해 산불 취약마을 초기 대응체계를 구축하는 ‘ 포스코 쉴드’ 사업(사진)을 시작했다고 26일 밝혔다. 포스코 쉴드는 포스코 DX 지능형 영상감시 장치로 연기...",
-      "url": "https://www.munhwa.com/article/11634317?ref=naver",
-      "date": "Thu, 26 Nov 2026 11:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.ferrotimes.com/news/articleView.html?idxno=51714": {
-      "title": "포스코 1%나눔재단, ' 포스코 쉴드' 가동…산불 초기 대응 인프라 구축",
-      "summary": "포항 중산리에 설치된 AI산불감지시스템.(제공 : 포스코 ) 포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 활용해 산불 취약지역의 재난 대응 인프라 구축에 나섰다. 산불 감지부터 초기...",
-      "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51714",
-      "date": "Thu, 26 Nov 2026 11:36:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.dizzotv.com/site/data/html_dir/2026/11/26/2026112680079.html": {
-      "title": "포스코 그룹, AI·철강·건설 역량 총동원 산불 취약마을 지킨다",
-      "summary": "포스코 그룹이 인공지능(AI)과 철강 소재, 건설 등 계열사의 핵심 사업 역량을 연계해 산불 취약지역의 재난 대응 인프라 구축에 나섰다. 포스코 1%나눔재단은 지역사회 안전망 강화를 위한 사회공헌 사업 ' 포스코 쉴드...",
-      "url": "https://www.dizzotv.com/site/data/html_dir/2026/11/26/2026112680079.html",
-      "date": "Thu, 26 Nov 2026 11:32:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://biz.heraldcorp.com/article/10950195?ref=naver": {
-      "title": "포스코 1%나눔재단, 산불 취약 마을 안전 인프라 구축",
-      "summary": "포스코 1%나눔재단이 26일 산불로부터 지역사회를 보호하기 위한 ‘ 포스코 쉴드(POSCO Shield)’ 사업을 전개했다. 포스코 그룹의 기술과 소재, 건설 역량을 모아 산불에 취약한 마을에 초기 대응 체계를 구축하는...",
-      "url": "https://biz.heraldcorp.com/article/10950195?ref=naver",
-      "date": "Thu, 26 Nov 2026 11:31:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.kukinews.com/article/view/kuk202611260080": {
-      "title": "포스코 , AI로 산불 감지하고 마을회관은 대피소로…지역 안전망 넓힌다",
-      "summary": "포스코 그룹이 철강·AI·건설 기술을 활용해 산불 취약지역에 구축한 재난 대응체계다. 26일 포스코 1%나눔재단은 포항·광양·안동·여수 등 4개 지역의 마을을 대상으로 ‘ 포스코 쉴드(POSCO Shield)’ 사업을 전개한다고...",
-      "url": "https://www.kukinews.com/article/view/kuk202611260080",
-      "date": "Thu, 26 Nov 2026 11:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wR2RsMXFFOExsUXo3Zi1nM1ZIUnRGNWJoTE83aXlMOGVWWDFDbHhtb055YnFFcTUyLWJVbURqVktQSERHUVFDSFpmMzlZMDBqTFp2dGh0OTBWdmtMcm95VnNNVE1CQUNueEItYUZfOA?oc=5": {
-      "title": "[금융-라운지] 교보교육재단 / NH농협은행 / 우리은행 / 신한은행 / 키움투자자산운용 / BC카드 / iM뱅크 - 비즈니스리포트",
-      "summary": "[금융-라운지] 교보교육재단 / NH농협은행 / 우리은행 / 신한은행 / 키움투자자산운용 / BC카드 / iM뱅크 비즈니스리포트",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wR2RsMXFFOExsUXo3Zi1nM1ZIUnRGNWJoTE83aXlMOGVWWDFDbHhtb055YnFFcTUyLWJVbURqVktQSERHUVFDSFpmMzlZMDBqTFp2dGh0OTBWdmtMcm95VnNNVE1CQUNueEItYUZfOA?oc=5",
-      "date": "Thu, 26 Nov 2026 02:51:03 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOGxpaHctOTRrX1pueWZnQVlMTzRha2NpZ1pJX3lkeDlhOXlZeDlyRXR5elNVdW5Tdm4yOVJZbExuZS00akxiemdZWTBGSjVVTW00NTZOTFpGM0dvRExXNnk5T0RNRFVtRWc?oc=5": {
-      "title": "경북교육청, 교육공무직 총파업 대응체계 가동 - 천지일보",
-      "summary": "경북교육청, 교육공무직 총파업 대응체계 가동 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOGxpaHctOTRrX1pueWZnQVlMTzRha2NpZ1pJX3lkeDlhOXlZeDlyRXR5elNVdW5Tdm4yOVJZbExuZS00akxiemdZWTBGSjVVTW00NTZOTFpGM0dvRExXNnk5T0RNRFVtRWc?oc=5",
-      "date": "Thu, 26 Nov 2026 02:48:06 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "http://www.whitepaper.co.kr/news/articleView.html?idxno=269147": {
       "title": "한국부동산원, 아이엠 뱅크 와 3년간 주거래은행 협약",
       "summary": "한국부동산원은 안정적인 금융거래 기반을 구축하고 전반적인 업무 효율성을 끌어올리기 위해 지난 24일 iM뱅크 와 주거래은행 업무협약(MOU)을 맺었다고 25일 밝혔다. 이번 협약은 기관의 금융서비스 수준을 고도화하고...",
@@ -4691,11 +4546,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-28",
   "sent_articles": [
-    {
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6353987",
-      "title": "\"10억대 수의계약 에 펀드 부진까지\"… 경북 테크노파크 운영 전반 도마",
-      "date": "Sat, 14 Nov 2026 11:06:00 +0900"
-    },
     {
       "url": "http://www.4th.kr/news/articleView.html?idxno=2121872",
       "title": "포스코이앤씨, 겨우 적자 벗었지만…곳곳에 재무 부실 뇌관",
