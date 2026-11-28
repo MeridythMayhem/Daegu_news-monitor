@@ -913,7 +913,8 @@
     "https://www.ddaily.co.kr/page/view/2026112718065343848": "2026-11-27T19:09:12.630088+09:00",
     "http://fpn119.co.kr/260185": "2026-11-27T19:09:12.630088+09:00",
     "https://www.kbmaeil.com/article/20261127500320": "2026-11-27T21:07:18.895461+09:00",
-    "https://news.tf.co.kr/read/national/2394526.htm": "2026-11-28T11:11:15.380080+09:00"
+    "https://news.tf.co.kr/read/national/2394526.htm": "2026-11-28T11:11:15.380080+09:00",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdG1KbUhFcVNoTGJTVW10cGRNaFBSczMyNmw0OGVZN2Ztd0VCV1YxTEVJblhCaTRSRXhSai1xWnFFRllMeDB6VmtOa1I?oc=5": "2026-11-28T16:09:01.921133+09:00"
   },
   "titles": {
     "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00",
@@ -1829,7 +1830,8 @@
     "2b01aaee6c69b32f850cbe70f5e6ae1aa4ec0ba6c02f81e4f9859efc2cd14817": "2026-11-27T19:09:12.630088+09:00",
     "07ba20a0a5818e92fd5204f9426371ae16918d515b1615641d26a78991cd6c7f": "2026-11-27T19:09:12.630088+09:00",
     "1c6e1cc8cb0d2dd74df12262dc5034d3a7ca9c7c42b4773d005a35eabb1382b0": "2026-11-27T21:07:18.895461+09:00",
-    "87932f2fde2d56348de281c69f46d7c2318b19ea64faddf43fe091c8277132fb": "2026-11-28T11:11:15.380080+09:00"
+    "87932f2fde2d56348de281c69f46d7c2318b19ea64faddf43fe091c8277132fb": "2026-11-28T11:11:15.380080+09:00",
+    "18f9c43fceea4d463d11e025e29b6199cd2c3c0a8be9b51aca849c92f7cca921": "2026-11-28T16:09:01.921133+09:00"
   },
   "pending": {},
   "ai": {
@@ -1842,136 +1844,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.yna.co.kr/view/AKR20261126116200053?input=1195m": {
-      "title": "대구경제, 올들어 생산·수출 증가…건설침체로 회복세는 제한적",
-      "summary": "업종별로는 금속 가공 제품(27.2%)과 전자부품(26.1%)의 생산 증가가 두드러졌다. 기계 장비(7.8%)와 종이 및... 목표 미달 원인은 거래 처 발주 감소와 수요 부진(57.0%), 원자재·물류비 등 원가 부담 증가(29.3%) 등이 꼽혔다....",
-      "url": "https://www.yna.co.kr/view/AKR20261126116200053?input=1195m",
-      "date": "Thu, 26 Nov 2026 15:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.sisajournal.com/news/articleView.html?idxno=395332": {
-      "title": "[의성·군위 24시] 의성·군위군, 신공항 조기 착공·이전지역 주민 선보...",
-      "summary": "◇ 의성소방서, 공설 소화전 4곳에 태양광 LED 시설 시범 설치 경북 의성소방서는 겨울철 화재 예방대책으로... 가입 대상 시설은 주택과 농·임업용 온실(비닐하우스 포함), 소상공인의 상가와 공장 이다. 주택은 소유자뿐...",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=395332",
-      "date": "Thu, 26 Nov 2026 15:15:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.nocutnews.co.kr/news/6613231": {
-      "title": "경주 관상어 펫 플라자 입찰 의혹…경찰, 공무원·업체 대표 입건",
-      "summary": "경북 경찰청 광역범죄수사2계는 경주시청 소속 공무원 A씨를 공무상비밀누설 혐의 로, 60대 업체 대표 B씨를 입찰방해 혐의 로 각각 불구속 입건했다고 26일 밝혔다. 경찰에 따르면 A씨는 환동해 관상어 펫 플라자 조성사업의...",
-      "url": "https://www.nocutnews.co.kr/news/6613231",
-      "date": "Thu, 26 Nov 2026 15:53:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.news1.kr/local/daegu-gyeongbuk/6367245": {
-      "title": "'66억 입찰' 평가위원 명단 유출 의혹…경주시 공무원·업체 대표 입건",
-      "summary": "경북 경찰청 광역범죄수사2계는 26일 공무상비밀누설 혐의 로 경주시 공무원 A 씨를, 입찰방해 혐의 로 업체 대표 B 씨(60대)를 각각 불구속 입건했다고 밝혔다. A 씨는 경주시가 지난 5월 발주한 '환동해 관상어펫 플라자...",
-      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6367245",
-      "date": "Thu, 26 Nov 2026 15:14:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088400": {
-      "title": "영주 사과 14톤 대만 수출 …해외시장 판로 확대",
-      "summary": "영주시는 경북 도 지정 수출 단지인 대명영농조합법인이 26일 올해 생산한 부사 품종 사과 약 14톤을 대만으로... 해외시장 개척을 적극 지원해 농가 소득 증대와 안정적인 수출 기반 마련에 힘쓰겠다\"고 밝혔다. [신아 일보 ] 영주",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088400",
-      "date": "Thu, 26 Nov 2026 15:54:00 +0900",
-      "channels": [
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
-      "filter_version": 18
-    },
-    "https://www.idaegu.com/news/articleView.html?idxno=667316": {
-      "title": "생산·수출 회복에도 체감경기 '냉랭'… 대구 기업 74.1% '올해 실적 목표...",
-      "summary": "실적 부진의 주요 원인으로는 '주요 거래 처 발주 감소 및 수요 부진'(57.0%)과 '원자재·물류비·에너지 등... 대구 지역 평균 제조업 생산지수는 전년 동기 대비 6.4% 상승해 전국 상승률(2.2%)을 웃돌았다. 금속 가공 제품...",
-      "url": "https://www.idaegu.com/news/articleView.html?idxno=667316",
-      "date": "Thu, 26 Nov 2026 15:46:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.yna.co.kr/view/AKR20261126137700053?input=1195m": {
-      "title": "납품 계약 대가로 뇌물 받은 전 안동시 비서관 징역 5년",
-      "summary": "벌금 1억원·추징금 1천686만원…뇌물 공여자 징역형 집행유예 납품 계약 대가로 업체 관계자에게 수천만원을 받은 혐의로 구속 기소 된 전직 안동시 소통비서관에게 징역 5년이 선고됐다. 대구 지법 안동지원 형사1부...",
-      "url": "https://www.yna.co.kr/view/AKR20261126137700053?input=1195m",
-      "date": "Thu, 26 Nov 2026 15:16:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.cnbnews.com/news/articleView.html?idxno=1025470": {
-      "title": "포스코 1%나눔재단, 산불 초기 대응 체계 구축",
-      "summary": "포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 결합해 산불 취약 지역에 초기 대응 체계를 구축하는 ' 포스코 쉴드(POSCO Shield)' 사업을 전개했다고 밝혔다. 재단은 올해 산불 초기 대응이...",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1025470",
-      "date": "Thu, 26 Nov 2026 15:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.metroseoul.co.kr/article/20261126500344": {
-      "title": "포스코 1%나눔재단, 그룹 기술 결집해 산불 취약 마을 초기 대응 체계 구...",
-      "summary": "/ 포스코 홀딩스 포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 결집해 산불 취약 마을의 초기 대응 체계를 구축했다. 산불 감지부터 진화, 대피까지 마을 단위의 대응 기반이 마련되면서...",
-      "url": "http://www.metroseoul.co.kr/article/20261126500344",
-      "date": "Thu, 26 Nov 2026 15:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcjAya091MDJ4QkNYTlF4N0VqWV93a1dSOVl0V3VpRHdpTjF6WkVCMXhSS1lQWjhDb3l2RmNPTnJSVTF4Y0RQeVVDbG03Y0drcGZQcWF5ekhEWldpcHhMeW5QTy14U09IbWVJb3c5VdIBc0FVX3lxTE1qZjVJMnNQdFlMYnhPTG11N2N2aU9GdXlyXzlHWERnSElOZENrR200WjZuNHdnU2lSclFBUXMybE8tUllEMlJwU3VkQXl2MnFldzBYSjJpMFp2V3VndzRTMWVWaGRtWFNyOGd1M1RsaUdWdkU?oc=5": {
-      "title": "[의성·군위 24시] 의성·군위군, 신공항 조기 착공·이전지역 주민 선보상 촉구 - 시사저널",
-      "summary": "[의성·군위 24시] 의성·군위군, 신공항 조기 착공·이전지역 주민 선보상 촉구 시사저널",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IcjAya091MDJ4QkNYTlF4N0VqWV93a1dSOVl0V3VpRHdpTjF6WkVCMXhSS1lQWjhDb3l2RmNPTnJSVTF4Y0RQeVVDbG03Y0drcGZQcWF5ekhEWldpcHhMeW5QTy14U09IbWVJb3c5VdIBc0FVX3lxTE1qZjVJMnNQdFlMYnhPTG11N2N2aU9GdXlyXzlHWERnSElOZENrR200WjZuNHdnU2lSclFBUXMybE8tUllEMlJwU3VkQXl2MnFldzBYSjJpMFp2V3VndzRTMWVWaGRtWFNyOGd1M1RsaUdWdkU?oc=5",
-      "date": "Thu, 26 Nov 2026 06:15:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.hidomin.com/news/articleView.html?idxno=731196": {
       "title": "대구 경북 경제자유구역청, 8개 지구 기업 협력망 통합 시동…상생 성장 ...",
       "summary": "대구 경북 경제자유구역 내 8개 지구 입주기업을 하나의 산업 협력망으로 연결하는 통합 네트워크 구축이... 이날 간담회에는 정해용 DGFEZ 청장을 비롯해 국제패션디자인지구, 신서첨단의료지구, 대구 테크노폴리스 ...",
@@ -4179,6 +4051,19 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "산재·사업장 사고",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdG1KbUhFcVNoTGJTVW10cGRNaFBSczMyNmw0OGVZN2Ztd0VCV1YxTEVJblhCaTRSRXhSai1xWnFFRllMeDB6VmtOa1I?oc=5": {
+      "title": "경북교육청, 메이커교육관 구미 금오공고 부지에 … 2029년 2월 준공 목표 - 한길뉴스",
+      "summary": "경북교육청, 메이커교육관 구미 금오공고 부지에 … 2029년 2월 준공 목표 한길뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdG1KbUhFcVNoTGJTVW10cGRNaFBSczMyNmw0OGVZN2Ztd0VCV1YxTEVJblhCaTRSRXhSai1xWnFFRllMeDB6VmtOa1I?oc=5",
+      "date": "Sat, 28 Nov 2026 06:34:03 GMT",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "제목의 관내 지명/기관",
+      "category": "경제·투자",
       "priority": 70,
       "filter_version": 18
     }
@@ -8771,6 +8656,11 @@
       "url": "https://news.tf.co.kr/read/national/2394526.htm",
       "title": "경북 곳곳서 교통 사고 · 추락 ·화재 잇따라…중상 5명·경상 11명",
       "date": "Sat, 28 Nov 2026 10:11:00 +0900"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdG1KbUhFcVNoTGJTVW10cGRNaFBSczMyNmw0OGVZN2Ztd0VCV1YxTEVJblhCaTRSRXhSai1xWnFFRllMeDB6VmtOa1I?oc=5",
+      "title": "경북교육청, 메이커교육관 구미 금오공고 부지에 … 2029년 2월 준공 목표 - 한길뉴스",
+      "date": "Sat, 28 Nov 2026 06:34:03 GMT"
     }
   ],
   "brief_articles": [
