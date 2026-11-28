@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.news1.kr/local/daegu-gyeongbuk/6353987": "2026-11-14T12:01:46.528688+09:00",
     "http://www.4th.kr/news/articleView.html?idxno=2121872": "2026-11-14T13:02:11.767402+09:00",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=902971": "2026-11-14T14:01:54.949103+09:00",
     "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00",
@@ -919,7 +918,6 @@
     "https://news.tf.co.kr/read/national/2394526.htm": "2026-11-28T11:11:15.380080+09:00"
   },
   "titles": {
-    "f1d05f941faa5dd18c5f8bfcff38d10a6b2cc32b73f1b308e77b80dfd04bddb5": "2026-11-14T12:01:46.528688+09:00",
     "7f8f243128eeef6dc87b4c895494ac7e363157d96baadb4d073c564d6735681f": "2026-11-14T13:02:11.767402+09:00",
     "a0fabe6360d949fc33238ae9270d9e8f4f5298fdbb440297639197dc07278a59": "2026-11-14T14:01:54.949103+09:00",
     "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00",
@@ -1848,71 +1846,6 @@
   },
   "cursor": 0,
   "archive": {
-    "http://www.whitepaper.co.kr/news/articleView.html?idxno=269147": {
-      "title": "한국부동산원, 아이엠 뱅크 와 3년간 주거래은행 협약",
-      "summary": "한국부동산원은 안정적인 금융거래 기반을 구축하고 전반적인 업무 효율성을 끌어올리기 위해 지난 24일 iM뱅크 와 주거래은행 업무협약(MOU)을 맺었다고 25일 밝혔다. 이번 협약은 기관의 금융서비스 수준을 고도화하고...",
-      "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269147",
-      "date": "Thu, 26 Nov 2026 12:18:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 아이엠뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.newsis.com/view/NISX20261126_0003884407": {
-      "title": "\"202억\" 환동해 관상어 펫 플라자…'입찰비리 의혹' 수사",
-      "summary": "경북 경찰청 광역범죄수사2계는 사업 입찰 과정에서 평가위원의 명단을 유출한 경주시청 소속 공무원 A씨를 공무상비밀누설 혐의 로, 업체 대표 B(60대)씨를 입찰방해 혐의 로 각각 불구속 입건했다고 26일 밝혔다. 경찰은...",
-      "url": "https://www.newsis.com/view/NISX20261126_0003884407",
-      "date": "Thu, 26 Nov 2026 12:07:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "요약에만 관련 단서 — 직접 관련성 확인 필요",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.joseilbo.com/news/news_read.php?uid=580502&class=7&grp=": {
-      "title": "안덕수 \"조사연장·수시조사 철저하게 통제할 것\" [ 국세청 장 인사 청문회...",
-      "summary": "안 후보자는 26일 국회 재정경제기획위원회 인사 청문회에서 '작년과 재작년에 수시 세무조사가 7.4%늘었다'는 윤후덕 더불어민주당 의원의 질의를 받고 이같이 밝혔다. 안 후보자는 \"제가 국세청 장으로 임명된다면...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=580502&class=7&grp=",
-      "date": "Thu, 26 Nov 2026 12:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.edaily.co.kr/News/Read?newsId=02850326645649656&mediaCodeNo=257": {
-      "title": "첫돌 축하금 100만원 신설·상품권 12% 할인…영천시 내년 민생지원 강화",
-      "summary": "스마트 경로당 60곳을 추가 조성하고 노인복지관 건립 도 추진한다. 장애인복지관 신축과 중장년센터 준공... (사진=영천시) ◇ 도시철도 연장·74만평 산단 조성…미래산업 기반 확대 교통 분야에서는 대구 도시철도 1호선...",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02850326645649656&mediaCodeNo=257",
-      "date": "Thu, 26 Nov 2026 12:21:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.autodaily.co.kr/news/articleView.html?idxno=602464": {
-      "title": "포스코퓨처엠 , 2년 새 매출 1조8천억 증발⋯수조원 양극재시설 투자 '낭...",
-      "summary": "배터리 소재 핵심 계열사인 포스코퓨처엠 의 매출이 2년 만에 40% 가까이 급감한 데다 대규모 자금을 투입한 삼원계 양극재 생산설비도 제대로 사용조차 못하고 리튬인산철(LFP) 양극재 생산라인으로 전환하는 등 사업...",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602464",
-      "date": "Thu, 26 Nov 2026 12:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코퓨처엠",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.gukjenews.com/news/articleView.html?idxno=3763892": {
       "title": "iM 뱅크 ·한국부동산원, 취약계층에 김장 12000kg 나눔...1200세대 전달",
       "summary": "이러한 흐름 속에서 iM뱅크( 아이엠뱅크 , 은행장 강정훈)는 대한적십자사 대구광역시지사(회장 배인호), 한국부동산원(원장 이헌욱)과 함께 '2026 사랑의 김장 나눔' 행사를 진행했다고 밝혔다. 이번 행사는 지역...",
@@ -4546,11 +4479,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-28",
   "sent_articles": [
-    {
-      "url": "http://www.4th.kr/news/articleView.html?idxno=2121872",
-      "title": "포스코이앤씨, 겨우 적자 벗었지만…곳곳에 재무 부실 뇌관",
-      "date": "Sat, 14 Nov 2026 12:30:00 +0900"
-    },
     {
       "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902971",
       "title": "민영화 26년 포스코 , CEO 승계 흑역사…내달 인선 착수 '투명성' 시험대",
