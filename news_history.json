@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": "2026-11-14T20:01:51.941407+09:00",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5": "2026-11-15T09:01:48.258374+09:00",
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcWROVExhWFVQeHB0amZPTTEzcEdYS1ZsVzZtdVc5QlZEdmp6SGJmd2lDWlB4N2NmV3dlTC1pcnRrWkctdXgtNmJSOUkzZFlTVFY0?oc=5": "2026-11-15T09:01:48.258374+09:00",
@@ -914,10 +913,19 @@
     "http://fpn119.co.kr/260185": "2026-11-27T19:09:12.630088+09:00",
     "https://www.kbmaeil.com/article/20261127500320": "2026-11-27T21:07:18.895461+09:00",
     "https://news.tf.co.kr/read/national/2394526.htm": "2026-11-28T11:11:15.380080+09:00",
-    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdG1KbUhFcVNoTGJTVW10cGRNaFBSczMyNmw0OGVZN2Ztd0VCV1YxTEVJblhCaTRSRXhSai1xWnFFRllMeDB6VmtOa1I?oc=5": "2026-11-28T16:09:01.921133+09:00"
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdG1KbUhFcVNoTGJTVW10cGRNaFBSczMyNmw0OGVZN2Ztd0VCV1YxTEVJblhCaTRSRXhSai1xWnFFRllMeDB6VmtOa1I?oc=5": "2026-11-28T16:09:01.921133+09:00",
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092358": "2026-11-28T18:09:00.419234+09:00",
+    "https://www.newsis.com/view/NISX20261128_0003887215": "2026-11-28T18:09:00.419234+09:00",
+    "https://www.news1.kr/local/daegu-gyeongbuk/6369200": "2026-11-28T18:09:00.419234+09:00",
+    "https://www.polinews.co.kr/news/articleView.html?idxno=749523": "2026-11-28T18:09:00.419234+09:00",
+    "http://www.inews24.com/view/2031509": "2026-11-28T18:09:00.419234+09:00",
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=316465": "2026-11-28T18:09:00.419234+09:00",
+    "http://www.yonhapnewstv.co.kr/news/AKR20261128172659JMU": "2026-11-28T18:09:00.419234+09:00",
+    "https://www.yna.co.kr/view/AKR20261128041851053?input=1195m": "2026-11-28T18:09:00.419234+09:00",
+    "https://biz.heraldcorp.com/article/10952519?ref=naver": "2026-11-28T18:09:00.419234+09:00",
+    "https://biz.sbs.co.kr/article_hub/20000349510?division=NAVER": "2026-11-28T18:09:00.419234+09:00"
   },
   "titles": {
-    "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00",
     "d99ef91d456f101939c631c14e5c9b653ec76cd86449808f0f9a18ae60f45348": "2026-11-14T20:01:51.941407+09:00",
     "e200f4eeb1121f981486ba71e3b7b43f760212914d4eea1f15b82cb5e89f7364": "2026-11-15T09:01:48.258374+09:00",
     "c4fe0ff9c88bc8a3097be896e7f5e00cac9cb561cf715a2b8520178e0b449213": "2026-11-15T09:01:48.258374+09:00",
@@ -1831,162 +1839,96 @@
     "07ba20a0a5818e92fd5204f9426371ae16918d515b1615641d26a78991cd6c7f": "2026-11-27T19:09:12.630088+09:00",
     "1c6e1cc8cb0d2dd74df12262dc5034d3a7ca9c7c42b4773d005a35eabb1382b0": "2026-11-27T21:07:18.895461+09:00",
     "87932f2fde2d56348de281c69f46d7c2318b19ea64faddf43fe091c8277132fb": "2026-11-28T11:11:15.380080+09:00",
-    "18f9c43fceea4d463d11e025e29b6199cd2c3c0a8be9b51aca849c92f7cca921": "2026-11-28T16:09:01.921133+09:00"
+    "18f9c43fceea4d463d11e025e29b6199cd2c3c0a8be9b51aca849c92f7cca921": "2026-11-28T16:09:01.921133+09:00",
+    "34dba70d0f93868a7f80e4e0f9ee0178c8b5f89f891fbcb36f410135ad73adbf": "2026-11-28T18:09:00.419234+09:00",
+    "e78de97f75fea6b62e2c39f519ef54a8875aac4357242c8b60134612f77bc29d": "2026-11-28T18:09:00.419234+09:00",
+    "a61876bf6d827a3c13e16e734bfcc0831f6db0f0c38801c1369bdc95c44ce938": "2026-11-28T18:09:00.419234+09:00",
+    "7932fa56d2d542e58d9f0177459462d6e1233c54e0701af9685689e1cbe9d1bb": "2026-11-28T18:09:00.419234+09:00",
+    "18505029883e9d80ac3b696cd528259bec8f5be0b7f89667b5ee1b70669624c5": "2026-11-28T18:09:00.419234+09:00",
+    "5fe1e5a54b8b484e84eb7b93496624d4c2f94f5f08488aea3041c36b24023a33": "2026-11-28T18:09:00.419234+09:00",
+    "eacea9f6ec066e02ec050101f94b31b9f210484c608d052a3030d1b690f9faf6": "2026-11-28T18:09:00.419234+09:00",
+    "ac840816e7d857fdc3ce6361181a709c1c1f0a067b44a4c065fc2b829779dca7": "2026-11-28T18:09:00.419234+09:00",
+    "7fe58bd69644693d40d55222c250dd136ab94d113d7f2d800a7e92432dfb1ad6": "2026-11-28T18:09:00.419234+09:00",
+    "a336656339ae94ee7fb6548b0b7a20762183137225e79b45d419920c58772973": "2026-11-28T18:09:00.419234+09:00"
   },
-  "pending": {},
+  "pending": {
+    "https://www.news2day.co.kr/article/20261128500030": {
+      "title": "포스코 노조, 임단협 2차 찬반투표 가결…찬성률 65.01%",
+      "summary": "91% 찬성 5936표·반대 3195표…임단협 잠정합의안 통과 포스코 노동조합의 2026년도 임금 및 단체협약(임단협) 잠정합의안 2차 조합원 찬반투표 결과 [사진=독자제보] [포항(경북)/뉴스투데이=박정한 기자] 포스코 ...",
+      "url": "https://www.news2day.co.kr/article/20261128500030",
+      "date": "Sat, 28 Nov 2026 17:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=01722006645650312&mediaCodeNo=257": {
+      "title": "[속보] 포스코 노조, 임단협 2차 잠정합의안 가결",
+      "summary": "포스코 노사의 올해 임금 및 단체협약(임단협) 교섭이 타결됐다. 28일 포스코 에 따르면 이날 노동조합이 실시한 임단협 2차 잠정합의안에 대한 조합원 찬반투표에서 찬성률 66%로 임단협 합의안이 가결됐다. 앞서 1차...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01722006645650312&mediaCodeNo=257",
+      "date": "Sat, 28 Nov 2026 17:17:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kbmaeil.com/article/20261128500111": {
+      "title": "포스코 노사, ‘철강 위기 극복’ 상생 결단…2026년 임금교섭 최종 타...",
+      "summary": "포스코 노사가 28일 조합원 찬반투표를 끝으로 ‘2026년 임금교섭’을 최종 타결했다. 지난 6월 교섭을... 한국노총 금속노련 포스코 노동조합은 이날 전체 조합원을 대상으로 진행한 ‘2026년 임금교섭 2차 잠정합의안’...",
+      "url": "https://www.kbmaeil.com/article/20261128500111",
+      "date": "Sat, 28 Nov 2026 17:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261128041800053?input=1195m": {
+      "title": "포스코 노사 임금교섭 진통 끝에 최종 타결…노조원 65% 찬성",
+      "summary": "포스코 노사의 임금 교섭이 최종 타결됐다. 지난 6월 16일 임금 교섭을 시작한 지 5개월여 만이고, 지난... 대표 교섭노조인 한국노총 금속노련 포스코 노동조합이 28일 임금 협상 잠정 합의안을 놓고 전체 조합원...",
+      "url": "https://www.yna.co.kr/view/AKR20261128041800053?input=1195m",
+      "date": "Sat, 28 Nov 2026 17:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sedaily.com/article/20120145?ref=naver": {
+      "title": "포스코 임금협상 노조 투표 가결…5개월 노사 갈등 극적 타결",
+      "summary": "포스코 노사가 두 번째 임금협상 잠정합의안을 조합원 투표에서 통과시키며 5개월 넘게 이어진 올해... 28일 한국노동조합총연맹 전국금속노동조합연맹 포스코 노동조합은 두 번째 임금협상 잠정합의안이 조합원...",
+      "url": "https://www.sedaily.com/article/20120145?ref=naver",
+      "date": "Sat, 28 Nov 2026 17:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    }
+  },
   "ai": {
     "2026-11-22": 9,
     "2026-11-23": 15,
     "2026-11-24": 18,
     "2026-11-25": 12,
     "2026-11-26": 7,
-    "2026-11-27": 8
+    "2026-11-27": 8,
+    "2026-11-28": 1
   },
   "cursor": 0,
   "archive": {
-    "https://www.etoday.co.kr/news/view/2653633": {
-      "title": "청송군, 만성 전력포화 해소 위한 '영양변전소' 신설 한전에 공식 요청",
-      "summary": "이투데이=대구 경북 취재본부 최종태 기자 | 기존 변전소 용량 한계로 신규 발전 연계 난항…전력 기반 시설... 해법으로 꼽히는 곳은 영양군 일월면 문암리 일대에 건립 이 추진되고 있는 영양변전소다. 청송 진보변전소의...",
-      "url": "https://www.etoday.co.kr/news/view/2653633",
-      "date": "Thu, 26 Nov 2026 17:48:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.iminju.net/news/articleView.html?idxno=173185": {
-      "title": "[민주 부동산] 포스코이앤씨·대우건설·동부건설",
-      "summary": "대우건설 컨소시엄은 경북 예천군 호명읍 경북 도청신도시 2단계 B-10BL에 들어서는 ' 경북 도청 푸르지오... 동부건설은 연말 중대재해 예방을 위해 본사와 전국 건설현장에서 '안전점검의 날' 및 안전실천 결의대회를...",
-      "url": "http://www.iminju.net/news/articleView.html?idxno=173185",
-      "date": "Thu, 26 Nov 2026 17:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.tfmedia.co.kr/news/article.html?no=209269": {
-      "title": "[ 국세청 장 청문회] 국경 넘는 가상자산 탈세 잡는다…안덕수 “내년 통...",
-      "summary": "관련 탈루행위에 철저히 대비하겠다는 입장을 전했다. 26일 국회 인사 청문회에서 안덕수 국세청 장 후보자가 김남준 더불어민주당 의원이 질의한 가상자산 불법거래 대응방안에 대해 답변하고 있는 모습. [사진=국회방송]",
-      "url": "https://www.tfmedia.co.kr/news/article.html?no=209269",
-      "date": "Thu, 26 Nov 2026 17:54:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "세무 조사·혐의 관련",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.joseilbo.com/news/news_read.php?uid=580546&class=7&grp=": {
-      "title": "법인 전·월세 유용에 안덕수 “신고서 개정 추진” [ 국세청 장 인사 청문...",
-      "summary": "안덕수 국세청 장 후보자가 26일 밝혔다. 안 후보자는 이날 국회 재정경제기획위원회 인사 청문회에서 이른바 '황제사택' 문제에 대한 질의를 받고 \"재정경제부에 개정 서식을 건의한 바 있고, 적극 협의해 반영하겠다\"고...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=580546&class=7&grp=",
-      "date": "Thu, 26 Nov 2026 17:43:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.joseilbo.com/news/news_read.php?uid=580543&class=7&grp=": {
-      "title": "한국 술이 맛없는 이유가 국세청 때문? [ 국세청 장 인사 청문회]",
-      "summary": "한국 술이 맛없는 이유가 국세청 의 주류산업 관리 방식에 있다는 지적이 국세청 장 인사 청문회에서 나왔다. 국세청 출신 인사 들이 주류업계 주요 자리를 차지하고 있는 이른바 '세피아'(세무관료와 마피아의 합성어) 문제와...",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=580543&class=7&grp=",
-      "date": "Thu, 26 Nov 2026 17:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "",
-      "category": "주요인물·기관 인사",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092225": {
-      "title": "대구 기업 74.1% 올해 목표 미달 예상…생산·수출 회복에도 고전",
-      "summary": "대구 지역의 1~9월 평균 제조업 생산지수는 전년 동기 대비 6.4% 상승해 전국 상승률(2.2%)을 웃돌았다. 업종별로는 금속 가공 제품(27.2%)과 전자부품(26.1%)의 생산 증가가 두드러졌으며, 기계장비(7.8%)와 종이 및 펄프제품...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092225",
-      "date": "Thu, 26 Nov 2026 17:42:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.seoulfn.com/news/articleView.html?idxno=644061": {
-      "title": "대구 경제 회복세에도 기업 체감경기 '한겨울' ···투자 위축 심화",
-      "summary": "1~9월 대구 제조업 생산지수는 전년 동기 대비 6.4% 상승해 전국 상승률 2.2%를 웃돌았다. 금속 가공 제품(27.2... 원인은 거래 처 발주 감소와 수요 부진(57.0%), 원자재·물류비·에너지 등 원가 부담(29.3%), 신규 거래 처 확보...",
-      "url": "https://www.seoulfn.com/news/articleView.html?idxno=644061",
-      "date": "Thu, 26 Nov 2026 17:26:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092234": {
-      "title": "포스코 1%나눔재단, 산불 취약 마을 4곳에 초기 대응망 구축",
-      "summary": "포스코 1%나눔재단(이사장 장인화)과 포스코 그룹이 산불 예방 및 초기대응 지원을 통해 산불로부터 지역사회를 보호하기 위한 ' 포스코 쉴드(POSCO Shield)' 사업을 전개했다. 포스코 쉴드는 산불에 취약한 지역 마을에 초기...",
-      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092234",
-      "date": "Thu, 26 Nov 2026 17:56:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.joongangenews.com/news/articleView.html?idxno=566789": {
-      "title": "[ESG] 포스코 1%나눔재단, ' 포스코 쉴드' 사업 전개...산불 취약지역 안전...",
-      "summary": "|중앙이코노미뉴스 송태원 기자| 포스코 쉴드 시연.[사진= 포스코 그룹] 포스코 그룹이 인공지능(AI) 기술과 철강 소재, 건설 역량을 활용해 산불 취약지역의 재난 대응체계 구축에 나섰다. 포스코 1%나눔재단은 산불로부터...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566789",
-      "date": "Thu, 26 Nov 2026 17:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650347.html": {
-      "title": "한수원, 연료전지 준공식 대신 나눔 … 취약계층 120세대 지원",
-      "summary": "뉴데일리 박철호 = 한국수력원자력 이 창원지역 분산형 연료전지 발전소 준공을 기념해 별도의 준공 행사 대신 지역사회에 기부금을 전달했다. 한수원은 26일 창원시청에서 '2026 정부혁신 최고 사례' 선정으로 받은...",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650347.html",
-      "date": "Thu, 26 Nov 2026 17:08:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 한국수력원자력",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QQ0pyajlDTDF4bXJjM2Ewa0VNU0RkWWZIbEl1T1NsWVRfTndpVlc1RVlnM0V4bVVPYXpfdjdEdkM2S0lpR3ExYTduSWl2SllUMEVtVFFic1V6UVZS?oc=5": {
-      "title": "iM뱅크, 한국부동산원과 대구 취약계층 1200세대에 김장김치 전달 - 뉴스핌",
-      "summary": "iM뱅크, 한국부동산원과 대구 취약계층 1200세대에 김장김치 전달 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QQ0pyajlDTDF4bXJjM2Ewa0VNU0RkWWZIbEl1T1NsWVRfTndpVlc1RVlnM0V4bVVPYXpfdjdEdkM2S0lpR3ExYTduSWl2SllUMEVtVFFic1V6UVZS?oc=5",
-      "date": "Thu, 26 Nov 2026 08:40:00 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.newsis.com/view/NISX20261126_0003885282": {
       "title": "[인사] 경찰청",
       "summary": "◇치안정감 승진 ▲ 경찰청 차장 송영호 ▲부산광역시 경찰청 장 김병기 ◇치안감 승진 ▲ 경찰청 대변인 박우현 ▲ 경찰청 경비국장 김종민 ▲ 대구 광역시 경찰청 장 박준성 ▲충청남도 경찰청 장 이서영 ◇치안감 승진 내정...",
@@ -3778,6 +3720,227 @@
       ],
       "basis": "제목의 관내 지명/기관",
       "category": "경제·투자",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.straightnews.co.kr/news/articleView.html?idxno=316465": {
+      "title": "포스코 임금교섭 잠정합의안 65.01% 가결… 파업·부결 진통 끝 마침표",
+      "summary": "포항제철소 전경 2026.11.28 [사진= 포스코 ] 창사 이래 첫 부분파업과 1차 잠정합의안 부결이라는 극심한 진통을 겪었던 포스코 노사의 2026년도 임금교섭이 재도출된 2차 잠정합의안의 조합원 투표 가결로 5개월여 만에...",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316465",
+      "date": "Sat, 28 Nov 2026 17:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092358": {
+      "title": "포스코 노사 임금교섭 임금협상 최종 타결…노조원 65% 찬성",
+      "summary": "포스코 노사가 두 차례의 부분파업과 한차례 잠정협의안 부결 사태를 겪은 끝에 2026년 임금협상이 마무리단계에 들어갔다. 포스코 노동조합은 28일 2차 잠정합의안에 한 조합원 투표결과 9천131명이 투표한 가운데...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092358",
+      "date": "Sat, 28 Nov 2026 17:56:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.newsis.com/view/NISX20261128_0003887215": {
+      "title": "포스코 노사, 올해 임금교섭 극적 타결…\"철강 위기 극복 위해 합심\"",
+      "summary": "포스코 노사가 올해 임금 교섭을 극적으로 타결했다. 포스코 노조의 사상 첫 파업 등 올해 임금 교섭을 둘러싼 갈등이 있었으나, 노사가 철강 산업 위기 극복을 위해 상생 협력을 택했다는 분석이 나온다. 포스코 노조는...",
+      "url": "https://www.newsis.com/view/NISX20261128_0003887215",
+      "date": "Sat, 28 Nov 2026 17:54:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news1.kr/local/daegu-gyeongbuk/6369200": {
+      "title": "포스코 임금협상 4개월 만에 타결…\"철강위기 극복에 최선\"",
+      "summary": "포스코 노사의 2026년도 임금협상이 교섭 4개월 만에 타결됐다. 28일 포스코 에 따르면 올해 임금협상은 대내외적으로 어려운 여건 아래 진행됐다. 사측은 교섭 과정에서 현장 직원들의 처우 개선과 경영 위기 극복...",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6369200",
+      "date": "Sat, 28 Nov 2026 17:50:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.polinews.co.kr/news/articleView.html?idxno=749523": {
+      "title": "포스코 노사, 위기 앞에서 하나로 뭉쳤다… \"포항 철강산업 재도약\" 한...",
+      "summary": "포스코 노사의 올해 임금·단체협약 잠정합의안이 조합원 찬반투표에서 가결되면서 포항 철강산업의 위기 극복과 지역 주력산업의 경쟁력 강화에도 관심이 집중되고 있다. 포스코 에 따르면 이번 찬반투표에는 총 9...",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749523",
+      "date": "Sat, 28 Nov 2026 17:48:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://economist.co.kr/article/view/ecn202611280010": {
+      "title": "포스코 , 파업·재투표 우여곡절 끝 5개월 만에 임단협 타결",
+      "summary": "포스코 노사의 임금 교섭이 5개월 만에 최종 타결됐다. 두 번째 잠정 합의안이 조합원의 찬반 투표에서 가결되면서다. 한국노총 금속노련 포스코 노동조합은 28일 임금 협상 잠정 합의안을 놓고 전체 조합원 찬반...",
+      "url": "https://economist.co.kr/article/view/ecn202611280010",
+      "date": "Sat, 28 Nov 2026 17:45:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.inews24.com/view/2031509": {
+      "title": "포스코 노사 임금교섭 최종 타결⋯노조원 65% 찬성",
+      "summary": "포스코 노사 입금 교섭이 협상 시작 5개월여 만에 최종 타결됐다. 28일 업계에 따르면 대표 교섭노조인 한국노총 금속노련 포스코 노동조합이 이날 임금 협상 잠정 합의안을 놓고 실시한 전체 조합원 찬반 투표...",
+      "url": "http://www.inews24.com/view/2031509",
+      "date": "Sat, 28 Nov 2026 17:37:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.industrynews.co.kr/news/articleView.html?idxno=90398": {
+      "title": "포스코 노사, 5개월 진통 끝 임금교섭 최종 타결…'파업 리스크' 해소",
+      "summary": "인더스트리뉴스 문기수 기자 포스코 노사가 5개월 넘게 이어온 올해 임금교섭에 최종 합의했다. 지난 9월 부분 파업과 이달 초 1차 잠정 합의안 부결 등 잇따른 진통을 딛고 노사 갈등이 일단락되면서, 포스코 는 생산...",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=90398",
+      "date": "Sat, 28 Nov 2026 17:36:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "http://www.yonhapnewstv.co.kr/news/AKR20261128172659JMU": {
+      "title": "포스코 노사, 진통 끝 임금교섭 최종 타결…노조원 65% 찬성",
+      "summary": "포스코 노사의 임금 교섭이 최종 타결됐습니다. 지난 6월 16일 임금 교섭을 시작한 지 5개월여 만이고... 대표 교섭노조인 한국노총 금속노련 포스코 노동조합이 28일 임금 협상 잠정 합의안을 놓고 전체 조합원 찬반...",
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR20261128172659JMU",
+      "date": "Sat, 28 Nov 2026 17:27:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261128041851053?input=1195m": {
+      "title": "포스코 노사 2차 잠정합의안 최종 타결…노조원 65% 찬성(종합)",
+      "summary": "포스코 노사의 임금 교섭이 최종 타결됐다. 지난 6월 16일 임금 교섭을 시작한 지 5개월여 만이고, 지난 7일 노조원 전체 투표에서 1차 잠정 합의안이 부결된 지 21일 만이다. 대표 교섭노조인 한국노총 금속노련 포스코 ...",
+      "url": "https://www.yna.co.kr/view/AKR20261128041851053?input=1195m",
+      "date": "Sat, 28 Nov 2026 17:25:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://biz.heraldcorp.com/article/10952519?ref=naver": {
+      "title": "포스코 노조, 임금교섭 잠정합의안 65% 찬성…노사 갈등 풀었다",
+      "summary": "포스코 노사가 5개월 여에 걸친 임금 교섭을 마무리했다. 1차 잠정합의안이 조합원 투표에서 부결된 이후 추가 협상을 거쳐 최종 합의에 도달했다. 28일 포스코 대표 교섭노조인 한국노총 금속노련 포스코 노동조합이...",
+      "url": "https://biz.heraldcorp.com/article/10952519?ref=naver",
+      "date": "Sat, 28 Nov 2026 17:22:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://biz.sbs.co.kr/article_hub/20000349510?division=NAVER": {
+      "title": "포스코 노사 임금교섭 최종 타결…노조원 65% 찬성",
+      "summary": "포스코 노사 임금 교섭이 약 5개월 만에 최종적으로 타결됐습니다. 찬성이 절반을 넘어 잠정 합의안이 가결됐습니다. 대표 교섭노조인 한국노총 금속노련 포스코 노동조합은 28일 임금 협상 잠정 합의안을 놓고...",
+      "url": "https://biz.sbs.co.kr/article_hub/20000349510?division=NAVER",
+      "date": "Sat, 28 Nov 2026 17:21:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.news2day.co.kr/article/20261128500030": {
+      "title": "포스코 노조, 임단협 2차 찬반투표 가결…찬성률 65.01%",
+      "summary": "91% 찬성 5936표·반대 3195표…임단협 잠정합의안 통과 포스코 노동조합의 2026년도 임금 및 단체협약(임단협) 잠정합의안 2차 조합원 찬반투표 결과 [사진=독자제보] [포항(경북)/뉴스투데이=박정한 기자] 포스코 ...",
+      "url": "https://www.news2day.co.kr/article/20261128500030",
+      "date": "Sat, 28 Nov 2026 17:18:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=01722006645650312&mediaCodeNo=257": {
+      "title": "[속보] 포스코 노조, 임단협 2차 잠정합의안 가결",
+      "summary": "포스코 노사의 올해 임금 및 단체협약(임단협) 교섭이 타결됐다. 28일 포스코 에 따르면 이날 노동조합이 실시한 임단협 2차 잠정합의안에 대한 조합원 찬반투표에서 찬성률 66%로 임단협 합의안이 가결됐다. 앞서 1차...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01722006645650312&mediaCodeNo=257",
+      "date": "Sat, 28 Nov 2026 17:17:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.kbmaeil.com/article/20261128500111": {
+      "title": "포스코 노사, ‘철강 위기 극복’ 상생 결단…2026년 임금교섭 최종 타...",
+      "summary": "포스코 노사가 28일 조합원 찬반투표를 끝으로 ‘2026년 임금교섭’을 최종 타결했다. 지난 6월 교섭을... 한국노총 금속노련 포스코 노동조합은 이날 전체 조합원을 대상으로 진행한 ‘2026년 임금교섭 2차 잠정합의안’...",
+      "url": "https://www.kbmaeil.com/article/20261128500111",
+      "date": "Sat, 28 Nov 2026 17:16:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.yna.co.kr/view/AKR20261128041800053?input=1195m": {
+      "title": "포스코 노사 임금교섭 진통 끝에 최종 타결…노조원 65% 찬성",
+      "summary": "포스코 노사의 임금 교섭이 최종 타결됐다. 지난 6월 16일 임금 교섭을 시작한 지 5개월여 만이고, 지난... 대표 교섭노조인 한국노총 금속노련 포스코 노동조합이 28일 임금 협상 잠정 합의안을 놓고 전체 조합원...",
+      "url": "https://www.yna.co.kr/view/AKR20261128041800053?input=1195m",
+      "date": "Sat, 28 Nov 2026 17:10:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
+      "priority": 70,
+      "filter_version": 18
+    },
+    "https://www.sedaily.com/article/20120145?ref=naver": {
+      "title": "포스코 임금협상 노조 투표 가결…5개월 노사 갈등 극적 타결",
+      "summary": "포스코 노사가 두 번째 임금협상 잠정합의안을 조합원 투표에서 통과시키며 5개월 넘게 이어진 올해... 28일 한국노동조합총연맹 전국금속노동조합연맹 포스코 노동조합은 두 번째 임금협상 잠정합의안이 조합원...",
+      "url": "https://www.sedaily.com/article/20120145?ref=naver",
+      "date": "Sat, 28 Nov 2026 17:06:00 +0900",
+      "channels": [
+        "domestic"
+      ],
+      "basis": "관심기업: 포스코",
+      "category": "경영·갈등",
       "priority": 70,
       "filter_version": 18
     }
@@ -8370,6 +8533,56 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdG1KbUhFcVNoTGJTVW10cGRNaFBSczMyNmw0OGVZN2Ztd0VCV1YxTEVJblhCaTRSRXhSai1xWnFFRllMeDB6VmtOa1I?oc=5",
       "title": "경북교육청, 메이커교육관 구미 금오공고 부지에 … 2029년 2월 준공 목표 - 한길뉴스",
       "date": "Sat, 28 Nov 2026 06:34:03 GMT"
+    },
+    {
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4092358",
+      "title": "포스코 노사 임금교섭 임금협상 최종 타결…노조원 65% 찬성",
+      "date": "Sat, 28 Nov 2026 17:56:00 +0900"
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20261128_0003887215",
+      "title": "포스코 노사, 올해 임금교섭 극적 타결…\"철강 위기 극복 위해 합심\"",
+      "date": "Sat, 28 Nov 2026 17:54:00 +0900"
+    },
+    {
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6369200",
+      "title": "포스코 임금협상 4개월 만에 타결…\"철강위기 극복에 최선\"",
+      "date": "Sat, 28 Nov 2026 17:50:00 +0900"
+    },
+    {
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=749523",
+      "title": "포스코 노사, 위기 앞에서 하나로 뭉쳤다… \"포항 철강산업 재도약\" 한...",
+      "date": "Sat, 28 Nov 2026 17:48:00 +0900"
+    },
+    {
+      "url": "http://www.inews24.com/view/2031509",
+      "title": "포스코 노사 임금교섭 최종 타결⋯노조원 65% 찬성",
+      "date": "Sat, 28 Nov 2026 17:37:00 +0900"
+    },
+    {
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316465",
+      "title": "포스코 임금교섭 잠정합의안 65.01% 가결… 파업·부결 진통 끝 마침표",
+      "date": "Sat, 28 Nov 2026 17:36:00 +0900"
+    },
+    {
+      "url": "http://www.yonhapnewstv.co.kr/news/AKR20261128172659JMU",
+      "title": "포스코 노사, 진통 끝 임금교섭 최종 타결…노조원 65% 찬성",
+      "date": "Sat, 28 Nov 2026 17:27:00 +0900"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261128041851053?input=1195m",
+      "title": "포스코 노사 2차 잠정합의안 최종 타결…노조원 65% 찬성(종합)",
+      "date": "Sat, 28 Nov 2026 17:25:00 +0900"
+    },
+    {
+      "url": "https://biz.heraldcorp.com/article/10952519?ref=naver",
+      "title": "포스코 노조, 임금교섭 잠정합의안 65% 찬성…노사 갈등 풀었다",
+      "date": "Sat, 28 Nov 2026 17:22:00 +0900"
+    },
+    {
+      "url": "https://biz.sbs.co.kr/article_hub/20000349510?division=NAVER",
+      "title": "포스코 노사 임금교섭 최종 타결…노조원 65% 찬성",
+      "date": "Sat, 28 Nov 2026 17:21:00 +0900"
     }
   ],
   "brief_articles": [
@@ -8410,7 +8623,8 @@
     "2026-11-24": 11,
     "2026-11-25": 8,
     "2026-11-26": 5,
-    "2026-11-27": 8
+    "2026-11-27": 8,
+    "2026-11-28": 1
   },
   "ai_cooldowns": {},
   "next_provider": "gemini"
