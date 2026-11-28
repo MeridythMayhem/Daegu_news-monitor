@@ -1,6 +1,5 @@
 {
   "sent": {
-    "http://www.4th.kr/news/articleView.html?idxno=2121872": "2026-11-14T13:02:11.767402+09:00",
     "https://www.newsworks.co.kr/news/articleView.html?idxno=902971": "2026-11-14T14:01:54.949103+09:00",
     "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": "2026-11-14T20:01:51.941407+09:00",
@@ -918,7 +917,6 @@
     "https://news.tf.co.kr/read/national/2394526.htm": "2026-11-28T11:11:15.380080+09:00"
   },
   "titles": {
-    "7f8f243128eeef6dc87b4c895494ac7e363157d96baadb4d073c564d6735681f": "2026-11-14T13:02:11.767402+09:00",
     "a0fabe6360d949fc33238ae9270d9e8f4f5298fdbb440297639197dc07278a59": "2026-11-14T14:01:54.949103+09:00",
     "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00",
     "d99ef91d456f101939c631c14e5c9b653ec76cd86449808f0f9a18ae60f45348": "2026-11-14T20:01:51.941407+09:00",
@@ -1846,123 +1844,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.gukjenews.com/news/articleView.html?idxno=3763892": {
-      "title": "iM 뱅크 ·한국부동산원, 취약계층에 김장 12000kg 나눔...1200세대 전달",
-      "summary": "이러한 흐름 속에서 iM뱅크( 아이엠뱅크 , 은행장 강정훈)는 대한적십자사 대구광역시지사(회장 배인호), 한국부동산원(원장 이헌욱)과 함께 '2026 사랑의 김장 나눔' 행사를 진행했다고 밝혔다. 이번 행사는 지역...",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763892",
-      "date": "Thu, 26 Nov 2026 13:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.segye.com/newsView/20261126510090?OutUrl=naver": {
-      "title": "경찰, 경주 관상어 펫 플라자 입찰 비리 수사…2명 불구속 입건",
-      "summary": "입찰 비리 의혹을 수사하고 있다. 경북 경찰청 광역범죄수사2계는 공무상비밀누설 혐의로 경주시청 소속 공무원 A씨를, 입찰방해 혐의로 60대 업체 대표 B씨를 각각 불구속 입건했다고 26일 밝혔다. 경북 경찰청. 경찰 등에...",
-      "url": "https://www.segye.com/newsView/20261126510090?OutUrl=naver",
-      "date": "Thu, 26 Nov 2026 13:23:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.seoul.co.kr/news/society/accident/2026/11/26/20261126500133?wlog_tag3=naver": {
-      "title": "경북 경찰, 입찰 비리 의혹에 경주시 202억원 사업 수사",
-      "summary": "경북 경찰청은 공무상비밀누설 혐의 로 경주시청 소속 공무원 A씨를, 입찰방해 혐의 로 60대 업체 대표 B씨를 각각 불구속 입건했다고 26일 밝혔다. A씨는 해당 사업 입찰 과정에서 외부 평가위원 명단을 유출한 혐의 를...",
-      "url": "https://www.seoul.co.kr/news/society/accident/2026/11/26/20261126500133?wlog_tag3=naver",
-      "date": "Thu, 26 Nov 2026 13:29:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "세무 조사·혐의 관련",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.m-i.kr/news/articleView.html?idxno=2023778": {
-      "title": "'2026년도 토지정보 분야 종합평가'서 대구 북구 최우수 기관 선정",
-      "summary": "매일 일보 = 이인수 기자 | 대구 북구가 대구 광역시 주관 '2026년도 토지정보 분야 종합평가'에서 최우수... 이번 평가는 대구 시 9개 구·군을 대상으로 토지관리와 지적, 지적재조사, 부동산 관리, 주소정보 등 토지정보 업무...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2023778",
-      "date": "Thu, 26 Nov 2026 13:14:00 +0900",
-      "channels": [
-        "local_media"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역언론 경제·정책",
-      "priority": 65,
-      "filter_version": 18
-    },
-    "https://daily.hankooki.com/news/articleView.html?idxno=1429360": {
-      "title": "BNSI 투자 경로 바꾼 에코프로 비엠…남은 퍼즐은 현물출자",
-      "summary": "에코프로 비엠 본사 전경. 사진= 에코프로 제공 에코프로 비엠이 인도네시아 니켈 제련소 투자 구조를 재정비한다. BNSI 합작법인(JV)의 주주 구성과 투자 규모는 유지하면서 자금 집행 경로를 인도네시아 법인에서...",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429360",
-      "date": "Thu, 26 Nov 2026 13:40:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 에코프로비엠",
-      "category": "자본이동",
-      "priority": 80,
-      "filter_version": 18
-    },
-    "https://www.mk.co.kr/article/12219275": {
-      "title": "포스코 1%나눔재단, 산불 초기 대응 ‘ 포스코 쉴드’ 가동…포항·광양·...",
-      "summary": "그룹 AI·철강·건설 역량 결집 포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 모아 산불 취약 마을의 초기 대응 체계를 갖췄다. 포스코 1%나눔재단은 경북 포항·안동, 전남 광양·여수 등 4개...",
-      "url": "https://www.mk.co.kr/article/12219275",
-      "date": "Thu, 26 Nov 2026 13:58:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.breaknews.com/1254111": {
-      "title": "포스코 1%나눔재단, ‘ 포스코 쉴드’ 가동…AI·철강 기술로 산불 대응체...",
-      "summary": "포스코 1%나눔재단이 포스코 그룹의 인공지능(AI) 기술과 철강 소재, 건설 역량을 활용해 산불 취약지역의 재난 대응 기반을 강화하는 ‘ 포스코 쉴드(POSCO Shield)...",
-      "url": "http://www.breaknews.com/1254111",
-      "date": "Thu, 26 Nov 2026 13:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://sateconomy.co.kr/news/view/1065579955934714": {
-      "title": "포스코 1%나눔재단, 산불 취약마을 4곳에 AI 감지시스템 구축",
-      "summary": "포항·광양·안동·여수에 산불 진화장비·비상소화장치 보급 포스코 이앤씨·스틸리온, 마을회관 대피시설로 개조…주민 교육 실시 ▲ 경북 포항시 중산리에 설치된 포스코 쉴드 인공지능(AI) 산불 감지시스템. [ 포스코 1...",
-      "url": "https://sateconomy.co.kr/news/view/1065579955934714",
-      "date": "Thu, 26 Nov 2026 13:30:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.naeil.com/news/read/610162?ref=naver": {
-      "title": "포스코 , 산불대응 ‘ 포스코 쉴드’ 가동",
-      "summary": "포스코 1%나눔재단(이사장 장인화)은 그룹의 기술과 소재, 건설 역량을 모아 산불로부터 지역사회를 지키는 ‘ 포스코 쉴드(POSCO Shield)’ 사업을 펼쳤다고 26일 밝혔다. 재단은 올해 산불 초기대응이 시급한 포항·광양...",
-      "url": "https://www.naeil.com/news/read/610162?ref=naver",
-      "date": "Thu, 26 Nov 2026 13:04:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
     "https://www.hidomin.com/news/articleView.html?idxno=731167": {
       "title": "경북콘텐츠진흥원 지원 경북기업 5곳, 해외시장서 판로 확대...수출 교두...",
       "summary": "특히 인도네시아 기업과 업무협약( MOU )을 체결하고 두바이 현지 유통사와 위탁판매 계약을 맺는 등 박람회... 포항 소재 하우스더웨더는 지역 캐릭터 지식재산권(IP)인 '어촌빵'을 앞세워 국내외 유통 기반을 넓혔다....",
@@ -4479,11 +4360,6 @@
   "brief_pending": {},
   "brief_date": "2026-11-28",
   "sent_articles": [
-    {
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902971",
-      "title": "민영화 26년 포스코 , CEO 승계 흑역사…내달 인선 착수 '투명성' 시험대",
-      "date": "Sat, 14 Nov 2026 14:00:00 +0900"
-    },
     {
       "url": "https://www.etoday.co.kr/news/view/2647768",
       "title": "지방 산업 투자 확대⋯영주·구미·천안서 신규 아파트 분양",
