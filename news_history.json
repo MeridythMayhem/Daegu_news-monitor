@@ -1,6 +1,5 @@
 {
   "sent": {
-    "https://www.newsworks.co.kr/news/articleView.html?idxno=902971": "2026-11-14T14:01:54.949103+09:00",
     "https://www.etoday.co.kr/news/view/2647768": "2026-11-14T17:02:05.764890+09:00",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FS1ZSaVRTNk5tamNlWnl5M2w2QzhwMEVFMWxCZVZQQ3NHS0ZHWk1fNWVFTjd0ZEpLRXZmUkQ5eGgyNUJfZVpMVE5pdVU3Snd6aUllSnl3?oc=5": "2026-11-14T20:01:51.941407+09:00",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwem4yZ1lQdi1mU0lVOFJnU1pEczBZNEdtclh6Z2hKVGhwZHdaNzdJMllpem5GUVRoSDFaUThaeGN0QUFNby1JcXVIdVFvcU5HNEhIcVN5dms?oc=5": "2026-11-15T09:01:48.258374+09:00",
@@ -917,7 +916,6 @@
     "https://news.tf.co.kr/read/national/2394526.htm": "2026-11-28T11:11:15.380080+09:00"
   },
   "titles": {
-    "a0fabe6360d949fc33238ae9270d9e8f4f5298fdbb440297639197dc07278a59": "2026-11-14T14:01:54.949103+09:00",
     "96c0414d398b43b40d19ac6de1c888ab9a06d91ac8c93736776c2a7a22dca04e": "2026-11-14T17:02:05.764890+09:00",
     "d99ef91d456f101939c631c14e5c9b653ec76cd86449808f0f9a18ae60f45348": "2026-11-14T20:01:51.941407+09:00",
     "e200f4eeb1121f981486ba71e3b7b43f760212914d4eea1f15b82cb5e89f7364": "2026-11-15T09:01:48.258374+09:00",
@@ -1844,162 +1842,6 @@
   },
   "cursor": 0,
   "archive": {
-    "https://www.hidomin.com/news/articleView.html?idxno=731167": {
-      "title": "경북콘텐츠진흥원 지원 경북기업 5곳, 해외시장서 판로 확대...수출 교두...",
-      "summary": "특히 인도네시아 기업과 업무협약( MOU )을 체결하고 두바이 현지 유통사와 위탁판매 계약을 맺는 등 박람회... 포항 소재 하우스더웨더는 지역 캐릭터 지식재산권(IP)인 '어촌빵'을 앞세워 국내외 유통 기반을 넓혔다....",
-      "url": "https://www.hidomin.com/news/articleView.html?idxno=731167",
-      "date": "Thu, 26 Nov 2026 14:10:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.sisajournal.com/news/articleView.html?idxno=395281": {
-      "title": "[영덕 24시] 영덕군 내년 예산안 6160억원, 2030년 예산·투자 1조원 목표",
-      "summary": "타 기관이 시행하는 주요 사업으로는 438억원 규모의 국립해양생물종복원센터 건립 이 2028년 준공을 목표로 추진 중이다. 경북 스마트수산가공종합단지(394억원)와 축산항 어항기능정비사업(471억원)은 내년 착공을...",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=395281",
-      "date": "Thu, 26 Nov 2026 14:25:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.sisajournal.com/news/articleView.html?idxno=395287": {
-      "title": "[경주 24시] 경주시, 71억원 투입 외동산업단지 복합문화센터 준공",
-      "summary": "전달 경북 경주시는 지난 24일 외동읍 문산리 외동2일반산업단지에서 '외동산업단지 복합문화센터' 준공식을... 지난해 7월 착공한 복합문화센터는 총사업비 71억원을 들여 연면적 1436㎡, 지상 2층 규모로 건립 됐다....",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=395287",
-      "date": "Thu, 26 Nov 2026 14:25:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.nocutnews.co.kr/news/6613061": {
-      "title": "대구 시, 2030년까지 구지 보조취수장 만든다…내년 상반기 착공",
-      "summary": "정부가 4대강 보를 개방하거나 가뭄 등으로 하천수위가 낮아질 것에 대비해 2023년부터 사업을 추진해왔다. 대구 시는 보조취수장이 건립 되면 하천수위가 낮아지더라도 안정적으로 취수할 것으로 기대하고 있다.",
-      "url": "https://www.nocutnews.co.kr/news/6613061",
-      "date": "Thu, 26 Nov 2026 14:01:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "경제·투자",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "http://www.techholic.co.kr/news/articleView.html?idxno=223829": {
-      "title": "포스코 1%나눔재단, 산불로부터 지역사회 보호 ' 포스코 쉴드' 가동",
-      "summary": "포스코 1%나눔재단(이사장 장인화)이 포스코 그룹의 기술과 소재, 건설 역량을 결집해 산불로부터 지역사회를 보호하기 위해 포항, 광양, 안동, 여수 등 4개 지역의 마을을 시범 대상으로 선정하고 초기 대응 체계를 구축해...",
-      "url": "http://www.techholic.co.kr/news/articleView.html?idxno=223829",
-      "date": "Thu, 26 Nov 2026 14:52:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "http://www.thevaluenews.co.kr/news/view.php?idx=203698": {
-      "title": "[건설·부동산 레이더] 포스코 이앤씨, ‘더샵 일산센트로’ 견본주택 개...",
-      "summary": "포스코 이앤씨는 10년간 임대보증금을 동결하는 장기일반민간임대주택 ‘더샵 일산센트로’의 공급에... ◆ 포스코 이앤씨, ‘더샵 일산센트로’ 27일 견본주택 개관 포스코 이앤씨가 경기도 고양시 일산동구에 짓는...",
-      "url": "http://www.thevaluenews.co.kr/news/view.php?idx=203698",
-      "date": "Thu, 26 Nov 2026 14:44:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코이앤씨",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://www.catchnews.kr/news/articleView.html?idxno=131013": {
-      "title": "포스코 그룹, AI 감지와 강재·컬러강판 묶은 산불 대응모델로 그룹 기술...",
-      "summary": "[사진 포스코홀딩스 ] 포스코1%나눔재단은 그룹의 AI 기술과 철강 소재, 건설 역량을 모은 산불 대응 사업 '포스코 쉴드(POSCO Shield)'를 펼쳤다고 26일 밝혔다. 올해는 포항·광양·안동·여수 4개 지역 마을을 시범...",
-      "url": "https://www.catchnews.kr/news/articleView.html?idxno=131013",
-      "date": "Thu, 26 Nov 2026 14:06:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "산재·사업장 사고",
-      "priority": 100,
-      "filter_version": 18
-    },
-    "https://www.m-i.kr/news/articleView.html?idxno=2023836": {
-      "title": "포스코 회장 인선 내달 시동…장인화, '실적·신사업'으로 연임 도전장",
-      "summary": "매일일보 = 정경화 기자 | 포스코 그룹의 차기 회장 인선 작업이 다음달 막을 올린다. 내년 3월 임기... 26일 재계에 따르면 포스코 홀딩스는 다음달 중순 이후 독립이사 7명 전원으로 회장후보추천위원회(회추위)를...",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2023836",
-      "date": "Thu, 26 Nov 2026 14:02:00 +0900",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: 포스코",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OTnU0OWIydklaVE1JYzc2MDRFZ19ac0h2QUVQM0JwbzZReGZVQWlXb3E2OG1pRFhsZE1uSUxQOFU0bHo0dGdUQkpqbllZQ1Y0c0s3X2QtMUxoaGRvMDBSaWNkakk?oc=5": {
-      "title": "iM뱅크, 한국부동산원·대한적십자사와 사랑의 김장 나눔 - 매일일보",
-      "summary": "iM뱅크, 한국부동산원·대한적십자사와 사랑의 김장 나눔 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OTnU0OWIydklaVE1JYzc2MDRFZ19ac0h2QUVQM0JwbzZReGZVQWlXb3E2OG1pRFhsZE1uSUxQOFU0bHo0dGdUQkpqbllZQ1Y0c0s3X2QtMUxoaGRvMDBSaWNkakk?oc=5",
-      "date": "Thu, 26 Nov 2026 05:23:49 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "관심기업: iM뱅크",
-      "category": "관심기업 동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HQXFvdVpPRGxGZUl1UXh6TGFReHlkMmF1SDBZdWFqWW0tNE9GbFdqcnlFX2FYT2xlZlhXQ1ZCQV83MXlXQy1xZEw3UDJ2Y3pyOFIzVHNuLWxxWUN5Nk5SRVFBaVYwY1hjRVE?oc=5": {
-      "title": "경북콘텐츠진흥원 지원 경북기업 5곳, 해외시장서 판로 확대...수출 교두보 확보 - 경북도민일보",
-      "summary": "경북콘텐츠진흥원 지원 경북기업 5곳, 해외시장서 판로 확대...수출 교두보 확보 경북도민일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HQXFvdVpPRGxGZUl1UXh6TGFReHlkMmF1SDBZdWFqWW0tNE9GbFdqcnlFX2FYT2xlZlhXQ1ZCQV83MXlXQy1xZEw3UDJ2Y3pyOFIzVHNuLWxxWUN5Nk5SRVFBaVYwY1hjRVE?oc=5",
-      "date": "Thu, 26 Nov 2026 05:08:05 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5naVJlRTV5WlM5dWphOG03UDZjeWF1S0xScWc2Y2diX3M1R00xRWpQSlUtVnhLaW9lODZMMkFMY2kzcGpJTkpmcDR3UE5BNTdxZjNyYjhrY252dTM3T3J0Vm9rQW54dw?oc=5": {
-      "title": "영주 사과 14톤, 대만 수출길 올라 - 데일리대구경북뉴스",
-      "summary": "영주 사과 14톤, 대만 수출길 올라 데일리대구경북뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5naVJlRTV5WlM5dWphOG03UDZjeWF1S0xScWc2Y2diX3M1R00xRWpQSlUtVnhLaW9lODZMMkFMY2kzcGpJTkpmcDR3UE5BNTdxZjNyYjhrY252dTM3T3J0Vm9rQW54dw?oc=5",
-      "date": "Thu, 26 Nov 2026 05:16:37 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWFdGbndfdTZfaTdJREZwdGVfQ1hJaGRWUVNQYnF1aG5MWHc1dVJRLVBJSXBlM0o0TDc1cTljUlV3TUEzQ0k0SlM0OEwydE1WeDlN?oc=5": {
-      "title": "경상북도, 딸기 수출 2배 성장 시범단지 농가 검역·농약 안전관리 교육 - CBN뉴스",
-      "summary": "경상북도, 딸기 수출 2배 성장 시범단지 농가 검역·농약 안전관리 교육 CBN뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LWFdGbndfdTZfaTdJREZwdGVfQ1hJaGRWUVNQYnF1aG5MWHc1dVJRLVBJSXBlM0o0TDc1cTljUlV3TUEzQ0k0SlM0OEwydE1WeDlN?oc=5",
-      "date": "Thu, 26 Nov 2026 05:08:01 GMT",
-      "channels": [
-        "domestic"
-      ],
-      "basis": "제목의 관내 지명/기관",
-      "category": "지역경제·기업동향",
-      "priority": 70,
-      "filter_version": 18
-    },
     "https://www.yna.co.kr/view/AKR20261126116200053?input=1195m": {
       "title": "대구경제, 올들어 생산·수출 증가…건설침체로 회복세는 제한적",
       "summary": "업종별로는 금속 가공 제품(27.2%)과 전자부품(26.1%)의 생산 증가가 두드러졌다. 기계 장비(7.8%)와 종이 및... 목표 미달 원인은 거래 처 발주 감소와 수요 부진(57.0%), 원자재·물류비 등 원가 부담 증가(29.3%) 등이 꼽혔다....",
